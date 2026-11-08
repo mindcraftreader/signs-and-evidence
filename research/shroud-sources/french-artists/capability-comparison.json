@@ -1,0 +1,255 @@
+{
+  "reviewed": "2026-10-27",
+  "scope": "Comparative capability assessment of the previously selected French medieval artist set; not an exhaustive census or authorship probability",
+  "conclusion": "My first named capability lead is Évrard d’Orléans and his workshop, because the chronology and documented combination of painting and sculpture fit. My strongest broad model is a workshop led by someone with that range, with specialists contributing as needed. I do not identify a real Évrard–Pucelle or Évrard–Le Noir collaboration. The surviving art supports artistic capability; no candidate in this set has demonstrated mastery of the complete Shroud image process.",
+  "criteria": [
+    [
+      "Body design",
+      "Anatomy, proportion, hands, face and front/back coordination",
+      "A draped saint or tiny miniature cannot alone establish life-size nude anatomy."
+    ],
+    [
+      "Relief geometry",
+      "Control of shallow form, silhouette and spatial compression",
+      "Relief-making does not prove contact transfer or an exact surviving template."
+    ],
+    [
+      "Tonal image design",
+      "Subtle gray values and controlled surface marking",
+      "Conventional painted shadows are not equivalent to a negative-like image."
+    ],
+    [
+      "Work across media",
+      "Documented painting and sculpture, or a coordinated workshop",
+      "Court titles and surviving polychromy do not identify each individual hand."
+    ],
+    [
+      "Linen and chemistry",
+      "A process matching the cloth and fiber observations",
+      "No selected artist is documented carrying out the required surface reaction."
+    ],
+    [
+      "Opportunity",
+      "A suitable date and a traceable patron/acquisition connection",
+      "Court service is relevant context, not proof of contact with Charny."
+    ]
+  ],
+  "early_profiles": [
+    {
+      "name": "Évrard d’Orléans and workshop",
+      "verdict": "First named lead for combined capability and chronology",
+      "works": "Langres Virgin and kneeling Guy Baudet, 1341; Communion of Saint Denis, attributed, ca.1340",
+      "images": [
+        "evrard-langres.jpg",
+        "evrard.jpg"
+      ],
+      "sources": [
+        "ART-EVRARD-LANGRES",
+        "ART-EVRARD-MAUBUISSON",
+        "ART-EVRARD-THIRION-1955"
+      ],
+      "observation": "The Langres group coordinates a standing figure, a kneeling donor, gestures and carefully organized drapery. The Maubuisson relief places modeled faces, hands, hair and overlapping figures within a compact scene. Its Christ has a controlled long face and patterned beard, but those are widespread conventions rather than a distinctive Shroud fingerprint.",
+      "relevance": "The documented painter–sculptor designation is the strongest pre-Lirey evidence in this selected set for someone able to lead work across two relevant media. Religious and court commissions make him a reasonable model for a workshop director handling an unusual devotional commission.",
+      "gap": "The Maubuisson relief is attributed. Most bodies in these examples are clothed; they do not establish command of every part of a nude corpse. A painter–sculptor title does not establish that he personally performed every task, worked on linen, or discovered a particular fiber reaction. No reviewed Shroud commission or contact survives."
+    },
+    {
+      "name": "Jean Ravy / Jean le Bouteiller / Notre-Dame workshop",
+      "verdict": "Strongest selected early workshop comparison for a relief-based approach",
+      "works": "Choir-screen Resurrection reliefs; Christ appearing to the holy women, original ca.1325–1335 in the Cité catalogue",
+      "images": [
+        "bouteiller.jpg"
+      ],
+      "sources": [
+        "ART-NOTREDAME-CHOIR",
+        "ART-BOUTEILLER-RELIEF"
+      ],
+      "observation": "The inspected scene separates Christ and the women with shallow spatial organization, clear silhouettes, controlled gestures and body volume carried largely by drapery. It demonstrates designing figures for a relief surface rather than simply carving an isolated statue.",
+      "relevance": "If a relief supplied the starting geometry of a cloth image, a workshop of this kind already possessed a directly relevant design skill. A painter or surface-treatment specialist could contribute other operations; no actual collaboration with another named candidate is documented.",
+      "gap": "The photographed Cité object is a later plaster cast. The medieval work has a polychromy/conservation history and individual authorship varies by catalogue. This scene is not an exact full-body template, and relief competence does not supply the chemical transfer mechanism."
+    },
+    {
+      "name": "Jean Le Noir, Bourgot and workshop",
+      "verdict": "Strong painting and patron-network comparison; no demonstrated sculptural process",
+      "works": "Prayer Book of Bonne of Luxembourg, before 1349; folio 331r, The Wound of Christ",
+      "images": [
+        "lenoir.jpg"
+      ],
+      "sources": [
+        "ART-LENOIR-BONNE"
+      ],
+      "observation": "The inspected wound folio isolates an enlarged red wound within an elaborate devotional page. Its borders, color contrasts and changes of scale are deliberate symbolic design. Other grisaille figures are described in the museum catalogue; this particular image is not an anatomical study of an entire body.",
+      "relevance": "The book is unusually pertinent to devotion centered on Christ’s wounds. The museum connects Le Noir to John the Good, Bonne’s husband, and describes collaboration with Bourgot. This supplies a relevant court setting to investigate, without demonstrating a connection to Charny or Lirey.",
+      "gap": "The book is attributed to Le Noir; separate hands are not securely identified. No relief carving or linen image experiment is demonstrated by this object. Patron proximity alone cannot identify a maker. The image is symbolic, not a validated medical or forensic record."
+    },
+    {
+      "name": "Jean Pucelle",
+      "verdict": "Strongest selected early comparison for delicate sculptural effects in tonal painting",
+      "works": "Hours of Jeanne d’Évreux, ca.1324–1328; folios 15v–16r, Betrayal / Annunciation",
+      "images": [
+        "pucelle-original.jpg"
+      ],
+      "sources": [
+        "ART-PUCELLE-HOURS"
+      ],
+      "observation": "The inspected opening uses finely varied gray washes, narrow contours and reserved pale areas to give small faces and folded garments volume. The gray figures remain readable amid crowded scenes and sit convincingly within shallow architectural space.",
+      "relevance": "This is direct evidence that a pre-Lirey French painter could organize complex Passion imagery with subtle tonal modeling. A modern viewer should not assume all medieval painting consisted of flat outlines and uniform color.",
+      "gap": "The image is on tiny vellum leaves. Deliberate contour and shadow painting differs from the Shroud’s negative-like body image; neither enlargement to life size nor a linen surface reaction is demonstrated. He belongs in a designer comparison, not an established complete-process attribution."
+    },
+    {
+      "name": "Anonymous sculptor of Adam from Notre-Dame",
+      "verdict": "Strongest selected early benchmark for a monumental nearly nude male body",
+      "works": "Adam, Paris, ca.1260, Musée de Cluny, Cl.11657",
+      "images": [
+        "art-adam-notredame.jpg"
+      ],
+      "sources": [
+        "ART-ADAM-NOTREDAME",
+        "ART-ADAM-RMN-CONTEXT"
+      ],
+      "observation": "The inspected statue articulates chest, abdomen, pelvis and weight shift at approximately two-metre scale. Its asymmetry and rounded bodily modeling demonstrate that monumental nude representation was within medieval sculptural practice.",
+      "relevance": "This is a stronger answer to the claim that medieval artists lacked the bodily skill than the fully clothed saints. It establishes a capability within the artistic tradition well before the Lirey horizon.",
+      "gap": "The maker is not securely named; a ca.1260 work cannot identify an individual active around 1350. Parts of the limbs and the right-hand gesture were restored. The object’s polychromy indicates a combined production process, not proof that the same individual carved and painted it. A full-volume statue is not automatically a suitable cloth-transfer model."
+    },
+    {
+      "name": "Jean Pépin de Huy and collaborators",
+      "verdict": "Strong funerary-workshop lead; the selected surviving fragment is less diagnostic",
+      "works": "Mourner from Othon IV’s tomb, Paris, 1311–1315; collaborative with Jean de Brecquessent",
+      "images": [
+        "art-pepin-pleurant.jpg"
+      ],
+      "sources": [
+        "ART-PEPIN-PLEURANT",
+        "ART-PEPIN-ROBERT"
+      ],
+      "observation": "The inspected headless mourner shows sensitive drapery, bodily mass and an expressive hand-to-face gesture. The missing head and covered body sharply limit what this fragment can establish about facial likeness or naked anatomy.",
+      "relevance": "Funerary commissions make this a pertinent workshop comparison for a body represented in death. His effigy associations broaden the comparison, but those catalogue associations should not be confused with a visual match demonstrated by the fragment.",
+      "gap": "The selected mourner is collaborative and incomplete. The object does not establish painting, textile treatment or an imaging invention. A recumbent effigy is a broad category rather than a distinctive Shroud prototype."
+    },
+    {
+      "name": "Master of Rieux / workshop",
+      "verdict": "Clearly capable monumental sculpture; weaker cross-media evidence in this sample",
+      "works": "Saint James the Less?, Toulouse, ca.1333–1343, RA 555 N",
+      "images": [
+        "art-rieux-james.jpg"
+      ],
+      "sources": [
+        "ART-RIEUX-JAMES"
+      ],
+      "observation": "The inspected figure combines a strongly modeled head, highly patterned curls and beard, convincing hands and deeply organized drapery. It is powerful figurative carving at near-human scale.",
+      "relevance": "It supports the availability of sophisticated sculptural skill in the relevant decades outside Paris. The workshop could supply a carved design in a hypothetical collaboration.",
+      "gap": "The richly projecting hair and beard are not themselves a Shroud match. This figure is draped; the sample does not demonstrate naked anatomy, monochrome painting or textile chemistry. The personal name and a Lirey acquisition link remain absent."
+    }
+  ],
+  "later_comparisons": [
+    {
+      "name": "André Beauneveu",
+      "works": "Charles V effigy, commissioned 1364; grisaille apostles/prophets in the Psalter of Jean de Berry, ca.1386",
+      "assessment": "The clearest later demonstration in this comparison of sculpture and tonal painting in one documented career. If chronology were set aside, he would be an excellent example of the interdisciplinary profile being sought. The surviving examples and recorded 1386 supervisory role do not establish an earlier Shroud commission.",
+      "sources": [
+        "ART-BEAUNEVEU-CHARLES-V",
+        "ART-BEAUNEVEU-PSALTER"
+      ]
+    },
+    {
+      "name": "Jean d’Orléans / Master of the Parement de Narbonne",
+      "works": "Parement de Narbonne, conventionally ca.1375; silk, 285.5 × 76.5 cm",
+      "assessment": "The closest later comparison in this selected group for substantial monochrome Passion imagery on a textile. The narrative strip includes the dead body and surrounding mourners; line and tonal modeling carry the scenes. It demonstrates an adjacent class of artifact, not the same image mechanism or a pre-1355 work.",
+      "sources": [
+        "ART-NARBONNE-PAREMENT"
+      ]
+    },
+    {
+      "name": "Jean de Liège; Claus Sluter / Jean de Marville",
+      "works": "Charles IV effigy, 1371–1372; late-1300s Champmol works",
+      "assessment": "Strong later evidence for portrait, funerary and monumental sculptural skill. Their reviewed examples do not supply a pre-Lirey interdisciplinary connection, so their fame does not move them ahead of earlier workshops.",
+      "sources": [
+        "ART-LIEGE-CHARLES-IV",
+        "ART-SLUTER-RIJKSMUSEUM",
+        "ART-CHAMPMOL-PORTAL"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "file": "comparison-images/evrard.jpg",
+      "source_id": "ART-EVRARD-MAUBUISSON",
+      "url": "https://collections.louvre.fr/media/cache/large/0000000021/0000093005/0001330073_OG.JPG",
+      "credit": "© 2025 Musée du Louvre, Dist. GrandPalaisRmn / Thierry Ollivier",
+      "reviewed": "2026-10-27",
+      "sha256": "b3d23418632fdcc9c8e49312edbe611b44be2046d3a049d7c6eef0e27b384d86",
+      "alteration": "None"
+    },
+    {
+      "file": "comparison-images/evrard-langres.jpg",
+      "source_id": "ART-EVRARD-LANGRES",
+      "url": "https://popcorn-prd-perf-assets.s3.gra.io.cloud.ovh.net/memoire/AP52W01448/52W01448.JPG",
+      "credit": "Ministère de la Culture, Médiathèque du patrimoine et de la photographie, AP52W01448; see source rights",
+      "reviewed": "2026-10-27",
+      "sha256": "4cecaa1a5cc0e83db0f2e136dbe0b252dd9a1be35ddb1c47a76e4f39ce0b24c0",
+      "alteration": "None"
+    },
+    {
+      "file": "comparison-images/pucelle-original.jpg",
+      "source_id": "ART-PUCELLE-HOURS",
+      "url": "https://images.metmuseum.org/CRDImages/cl/original/DP233162.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access / public domain",
+      "reviewed": "2026-10-27",
+      "sha256": "6b826ff04be99bddab650103b58a22956826b73b9bf8ebe0e5a32d11e89272c6",
+      "alteration": "None"
+    },
+    {
+      "file": "comparison-images/lenoir.jpg",
+      "source_id": "ART-LENOIR-BONNE",
+      "url": "https://images.metmuseum.org/CRDImages/cl/web-large/DP227315.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access / public domain",
+      "reviewed": "2026-10-27",
+      "sha256": "ef1b005468a472fff56a728cb07bbf37c9130a94668b0aec262c1b756a665a71",
+      "alteration": "None"
+    },
+    {
+      "file": "comparison-images/narbonne.jpg",
+      "source_id": "ART-NARBONNE-PAREMENT",
+      "url": "https://collections.louvre.fr/media/cache/original/11/15/24/00/AGO111524-000_PE.jpg",
+      "credit": "GrandPalaisRmn / Michèle Bellot",
+      "reviewed": "2026-10-27",
+      "sha256": "313a6ef8e29c308233297992bccafc3a326291eef95f17d2f465a696c6b3cb1f",
+      "alteration": "None"
+    },
+    {
+      "file": "comparison-images/art-adam-notredame.jpg",
+      "source_id": "ART-ADAM-NOTREDAME",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Musee_du_Moyen_Age_A05.JPG",
+      "credit": "Guillaume Blanchard (Aoineko), CC BY-SA 3.0; unmodified photograph; https://commons.wikimedia.org/wiki/File:Musee_du_Moyen_Age_A05.JPG",
+      "reviewed": "2026-10-27",
+      "sha256": "150a8f82955ea901e917f91997e6ba317bdf429535b089c2f1abb693859d66a7",
+      "alteration": "None"
+    },
+    {
+      "file": "comparison-images/art-rieux-james.jpg",
+      "source_id": "ART-RIEUX-JAMES",
+      "url": "https://d2lkryo36aywim.cloudfront.net/eyJidWNrZXQiOiJvcGFjLXByb2QtbWVkaWEiLCJrZXkiOiJ0b3VsbWV0cm8wMVwvb3BhY3dlYl9hdWd1c3RpbnNcLzgwZWYxNjgwLTZiZTMtNGZjNC1iOGJmLWQ0MGQ3NjI0NTRkZi5qcGciLCJ2IjoxNzkwOTQ3MDAyLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjY1MCwiaGVpZ2h0Ijo2NTAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "credit": "Mairie de Toulouse, musée des Augustins — photo Daniel Martin",
+      "reviewed": "2026-10-27",
+      "sha256": "1aced01043e8a9bfb1e349ca194c4addf1ee2b753c19c071038c7606cddde723",
+      "alteration": "None"
+    },
+    {
+      "file": "comparison-images/art-pepin-pleurant.jpg",
+      "source_id": "ART-PEPIN-PLEURANT",
+      "url": "https://collections.louvre.fr/media/cache/large/0000000021/0000095171/0000324920_OG.JPG",
+      "credit": "© 2005 GrandPalaisRmn (musée du Louvre) / René-Gabriel Ojéda",
+      "reviewed": "2026-10-27",
+      "sha256": "8e2800059e1af8b1ae20f484316b83b853a2bb0e9803884f45c717241a2abdc8",
+      "alteration": "None"
+    },
+    {
+      "file": "comparison-images/bouteiller.jpg",
+      "source_id": "ART-BOUTEILLER-RELIEF",
+      "url": "https://www.citedelarchitecture.fr/sites/default/files/styles/oeuvres_collections/public/flora-images/folder_0001/folder_0001/folder_0001/folder_0001/elem_0057/GF56-1.jpg?itok=CMe2vkbD",
+      "credit": "Cité de l’architecture et du patrimoine; catalogue photograph of a later plaster cast; see source rights",
+      "reviewed": "2026-10-27",
+      "sha256": "4ef7e45c1f4b64a4bc4422d31a42c64111c27a1713a4a4771f5c8b274085a91e",
+      "alteration": "None"
+    }
+  ]
+}

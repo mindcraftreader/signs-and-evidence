@@ -1,0 +1,36 @@
+SHROUD MAKER: FRENCH AND ITALIAN ARCHIVAL INVESTIGATION
+27 October 2026 — first broader archival pass
+
+No maker, Shroud invoice, or direct Évrard–Charny/Lirey link has been identified. The concrete progress is a checked painted-cloth payment, a richer set of art-account controls, and a more discriminating acquisition-network search. Medieval manufacture remains a conditional hypothesis for this dossier; the scientific dating and image-formation arguments are not resolved by these records.
+
+1. A RELEVANT PAINTED-CLOTH PAYMENT, PARIS 1326
+Bordier and Brièle, Les archives hospitalières de Paris (1877), Saint-Jacques section, part II p 156 (PDF 335): “Pour ij draps pains que l’on met sus l’autel x s.” Translation: “For two painted cloths that are placed on the altar, 10 sous.” The page image has been checked. The separate adjacent 4-sous purchase is black cloth to cover a crucifix during Lent; it must not be merged with the painted-cloth item.
+This establishes paid painted-cloth use in a relevant Parisian setting. It does not establish linen, dimensions, image subject, maker, an Évrard commission, or a relation to Lirey. Original account folio and surviving manuscript location still need confirmation. It is an actual documentary finding in a known nineteenth-century edition, not a newly discovered Shroud record.
+
+2. A BETTER COST CONTROL: FULL-SIZE APOSTLES
+The same edition, part II p 65 (PDF 242), describes life-size apostles: four carved by Robert de Launoy/Lannoy at 100 sous apiece; a separate six-apostle painting package at 30 sous each. This separates carving from polychromy and warns against assigning a unique high price to a large religious image. Exact account year and precise currency standard are not established here. A separate cross/Crucified/Mary/John item reads 10 livres, not the OCR’s misleading “xl.” Our speculative Shroud price cannot be used to exclude small payments or cheap commissions.
+
+3. SIENA: WHAT A STRONG ART CONTRACT LOOKS LIKE
+Milanesi volume I (1854), document 22 pp 166–168, prints Duccio’s 9 October 1308 high-altar panel contract. Checked pages specify 16 Sienese soldi for each day he personally works; monthly cash of 10 lire with the remainder offset against debt; materials supplied by the institution; and no other work until completion. The 25-lire penalty is not the price. Document 23’s 50 gold florins is a debt acknowledgment, not automatically a fee.
+This is a control for reconstructing labor and payments, not a Shroud candidate. The support is a panel. The official Opera archive offers 108 indexed art documents with image access, but the collection extends into the sixteenth century. Its original files were rearranged in the nineteenth century, and some earlier archival units cannot now be confidently recovered. Individual original manuscript images have not yet been collated in this pass.
+ITALART has re-edited the Milanesi corpus against originals; its institutional report says about 500 varied texts were examined. This is not a verified number of available pre-1355 receipts. The live corpus endpoint returned 502; the project report and official Siena index are saved.
+
+4. FOLLOW WHO OBTAINED THE CLOTH
+Chevalier’s 1900 primary-document appendix G pp VII–VIII (PDF 77–78) prints the memorandum attributed to Pierre d’Arcis, editorially dated late 1389. It says a dean of Lirey “procuravit habere” the cloth: he arranged to have or obtained it for the church. It describes the double image of one man from front and rear and retrospectively alleges that an earlier investigation established human manufacture through the maker.
+This is a draft/intended-letter memorandum, not a payment record or the underlying maker’s confession. The passage names neither dean nor maker. It does not prove a newly commissioned object, specify a brush/pigment technique, or prove the memorandum was sent. Chevalier’s handling and interpretation of the documents have been challenged, notably by Emmanuel Poulle in 2006; the manuscript and papal/royal/Charny evidence need comparison.
+Nevertheless it gives a focused research question: which dean, canons and intermediaries could have obtained the object? Robert de Caillac is identified in later scholarship; that identification should be checked in contemporary appointments and foundation records. Search Caillac/Cailliac/Cailliaco as leads, not asserted equivalents in every occurrence. Work backward from Lirey’s chapter, Charny/Vergy/Toucy networks, benefices, witnesses and notaries before choosing a celebrated maker. Prior Aube finding aids do not provide a continuous surviving 1350s Lirey cashbook.
+
+5. AVIGNON AND FLORENTINE HOUSEHOLDS: SPECIFIC OPEN LEADS
+Faucon’s 1884 study of Avignon arts, second part 1320–1334, is based on Vatican cameral registers and gives a bounded route into papal expenditure. Metadata and the first page were read; the full PDF is CAPTCHA-gated and was not retrieved. Continuation into Clement VI and Matteo Giovannetti’s workshop is a retrieval target, not a demonstrated Charny connection. Register numbers must be verified rather than guessed.
+An official Florence archive census indexes Ricordanze di monna Mattea, 1346–1361, under ARR, Caccini del Vernaccia, cassetta 26. The census PDF could not be retrieved in this pass; the abbreviation key, present custody, manuscript and any art entries remain unverified. Del Bene company books of the early fourteenth century offer textile-trade context but no identified art payment; “panni” can be wool. These are catalog leads, not evidence for a Florentine maker. Famous fifteenth-century workshop books are too late for this initial attribution search.
+
+6. WHAT WOULD CHANGE THE ATTRIBUTION
+A receipt saying “Christ on cloth” would only establish a broad comparator. A stronger lead would combine a long cloth and front/rear human images with a named patron/recipient, a compatible date, and an independent chain to Lirey. It would then need original-manuscript collation, secure translation and object comparison. Mere capability, shared city, court employment or approximate cost is insufficient. An unnamed maker or collaboration remains possible, as does later reuse of an object originally intended for devotion rather than fraud.
+
+COVERAGE AND SAVED FILES
+Three full scanned editions were downloaded: Bordier/Brièle 404 PDF pages; Milanesi volume I 414; Chevalier 138: 956 pages saved, not 956 read. OCR screens and selected relevant image readings are distinguished in leads-and-coverage.json. Original medieval manuscripts have not been independently collated. The saved scans are editions, not photographs of every original account. No claim that all city archives, household books or studio receipts have been searched.
+
+records-and-translations.json: checked entries with locators, translations, payment distinctions and image links.
+leads-and-coverage.json: ranked research routes, actual access and next record to check.
+search-protocol.txt: vocabulary, extraction fields, false-positive controls and attribution threshold.
+The library source notes identify full downloads versus metadata-only leads. The index links to earlier Évrard, commission-price and medieval linen-layer studies.

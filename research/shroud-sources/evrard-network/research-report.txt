@@ -1,0 +1,79 @@
+ÉVRARD,CHARNYANDLIREY: DOCUMENTARY INVESTIGATION
+Reviewed 27 October 2026
+
+No direct documentary link between Évrard and Charny, Lirey or the Shroud was found in this bounded search. We now have better evidence for Évrard ’s real working network—Mahaut’s treasurer, substantial building work, image-making and payments involving a glazier—but the proposed Shroud connection remains an inference from capability and a broad royal setting.
+
+DOCUMENTED NETWORK
+
+ Évrard → Mahaut d’Artois → Estienne Bricadel | Direct commissions/payment route | 1314 receipts, Dehaisnes 209–210 | Strong for the relationship; no Charny name in these items.
+
+ Évrard → Jean de Sez/Ses | Direct coordination/payment in an account extract | Conflans glazing, Dehaisnes 233–234 | Confirms a multi-craft working network; no Shroud material identified.
+
+ Évrard ↔ Jean Pépin de Huy / Jean de Brecquessent | Shared patron/treasurer in nearby documentary entries | 1313–1314 tomb payments, Dehaisnes 208–210 | A shared payment network is established; a specific Shroud partnership is not.
+
+ Évrard → Guy Baudet ’s executors / Langres | A 1341 contract reported in scholarly editions | Lorentz 2010 and Ronot 1933 citation | Relevant ecclesiastical/royal circle; original contract scan not recovered here.
+
+ Évrard → royal service; Charny → royal service | Indirect institutional overlap | Lorentz 2010/2012; Piaget 1897; Lirey foundationcatalogue | Plausible opportunity; no meeting, commission or shared payment found.
+
+ Évrard → Jeanne d’Évreux / Maubuisson | Attributed artwork/patronage relationship | LouvreMaubuissoncatalogue; Lorentz 2010 | Attribution evidence must not be treated as a newly found signed payment.
+
+ Évrard → Charny / Lirey / Robert de Caillac | Not established | Focused name searches and reviewed passages | No reviewed contract,receipt,letterorinventory entry closes this connection.
+
+21 June 1314 — Receipt; edited primary French text
+ Dehaisnes 1886 vol 1,printed 210; PDFpage 240; historical AD Pas-de-Calais A 324/37
+
+Original: Je, Everart d’Orliens, ymagier, bourgois de Paris, fais savoir a touz que jai eu et receu de maistre Estienne Bricadel, tressorier madame la contesse d’Artois et de Bourgoingne, pour les ovrages d’une crois et d’une ymage de monseigneur d’Artois, que Dieix absoille, que je doi faire devant la voye de Malbuisson jouxte Pontoise, vint livres paresis bons, et m’en tien a bien paié. En tesmoing de ce jai mis men seel a ces lettres. Donné a Esconflans, le xxie jour de juing, l’an mil IIIc et XIIII.
+
+Translation: I, Everart of Orléans, image-maker, citizen of Paris, make known to all that I have received from Master Estienne Bricadel, treasurer of my lady the countess of Artois and Burgundy, twenty good livres parisis for the work on a cross and an image of the lord of Artois, whom may God absolve, which I am to make beside the road at Maubuisson near Pontoise; and I acknowledge that payment. In witness of this I have affixed my seal to these letters. Given at Conflans on 21 June 1314.
+
+Interpretation: Direct evidence for this patron, treasurer, commission and payment. “Ymagier” means an image-maker, here in a sculptural context; “ymage” does not mean a photographic imprint. “Crois” is a cross and does not by itself specify the depiction of Christ’s body. The sum is not the known total price of a Shroud-like work.
+
+18 June 1314 — Receipt; edited primary French text
+ Dehaisnes 1886 vol 1,printed 210; PDFpage 240; historical AD Pas-de-Calais A 324/34
+
+Original: Je, Everart d’Orliens, bourgeois de Paris, fais savoir a touz que jai eu et receu de maistre Estienne Bricadel, tressorier madame la contesse d’Artois et de Bourgoingne, pour le terme de la saint Jehan Bauptiste prochain venant, que on me devoit, pour un marchié fait a madite dame d’un bastisement d’une sale que je doi faire a Esconflans ou manoir madite dame, trois cens livres petis tornois et m’en tiens a bien paié.
+
+Translation: I, Everart of Orléans, citizen of Paris, make known to all that I have received from Master Estienne Bricadel, treasurer of my lady the countess of Artois and Burgundy, three hundred livres in small tournois money, due to me at the coming feast of Saint John the Baptist under a contract with my lady to construct a hall at her manor of Conflans; and I acknowledge that payment.
+
+Interpretation: An installment for a building contract, demonstrating responsibility for substantial work. It is not a linen purchase, an image payment or evidence of contact with Charny. Original and translation here omit the concluding seal/date formula. Livres parisis and livres tournois are distinct historical accounting units, not modern pounds or dollars.
+
+Around 1320 account, recording 1317 and later work — Account extract; edited primary French text
+ Dehaisnes 1886 vol 1,printed 233–234; historical AN Collection Monteil KK 393,fol 39
+
+Original: Du commandement de très haute et puissant dame madame d’Artois a mestre Everart fait paindre une chapele a Confflans, l’année après que li roys Loys trespassa, que Diex absoille [1317]. […] Item, en celle année mesme fit Jehan de Ses, verrier, les verrières des chasis qui furent en le sale, et les verrières de la chapele, de la chambre madame et de la garde robe, et seur ces verrières bailla Everart a mestre Jehan de Sez […].
+
+Translation: At the command of the very high and powerful lady of Artois, Master Everart had a chapel painted at Conflans in the year after King Louis died, whom may God absolve [the editor identifies 1317]. […] In that same year Jean de Ses, glazier, made the glazing for the hall’s window frames and for the chapel, my lady’s chamber and the wardrobe; toward this glazing Everart paid Master Jean de Sez […].
+
+Interpretation: Especially useful evidence for coordinating trades and disbursing funds. “Fit paindre” means had painted; it does not establish that Évrard personally painted every surface. Ses/Sez are printed name variants. Omissions are marked; the difficult summed Roman-numeral totals are not translated here. It establishes a glazier connection, not a textile-chemical specialist or a Shroud commission.
+
+SEARCH SCOPE AND LIMITS
+
+Searched modern and medieval spelling variants including Évrard /Evrard/Everart/Evrart,d’Orléans/d’Orliens, Charny /Charni/Chargni, Lirey, Vergy, Caillac, Bricadel and Baudet. Exact combined web queries often yielded unrelated modern names; those are not historical connections.
+
+Searched the full OCR of Dehaisnes vol 1 for artist and possible patron/place names and read the relevant extracted passages. OCR can miss names and the collection is selective; no-hit results are not proof of absence.
+
+Read both Lorentz articles in full and the official finding aids; inspected Dehaisnes printed 210 and 234 and Piaget 394–395 visually. The complete Dehaisnes volume is saved but not read cover to cover.
+
+Inspected the live Aube catalogue and first scan states inI 17 and 9 G 1; did not read every manuscript image or independently collate the entire Latin foundation charter.
+
+No artist’s personal diary or continuous 1350s Lirey expense journal was located. The official 9 G 11 account-series description starts 1598;9 G 12 property receipts/expenses start 1400. Other repositories may preserve detached payments.
+
+The 1737 royal Chambre des comptesfire and losses noted by Lorentz limit a negative conclusion. Missing records cannot be filled with an invented commission.
+
+Historical shelfmarks in 1886/1897 editions are leads for present catalogue reconciliation, not confirmation that the physical originals were examined or still occupy the same shelfmark.
+
+NEXT ARCHIVAL LEADS
+
+Locate the original 1341 Langres contract and Ronot ’s 1933 edition (pp 193–204); compare signatories, executors, payment intermediaries and seals against the Lirey foundation network.
+
+Reconcile AD Pas-de-Calais A 324/34 andA 324/37 andAN Collection Monteil KK 393 with current catalogues. The printed receipts already identify real intermediaries; original seals may sharpen person identification.
+
+Follow Piaget ’sBnF Pièces originales vol. 683,nos 6,9,10,11,13 for Charny. These were not opened in this pass. Separate ransom, salary and military payments from art purchases.
+
+Collate all relevant 1350 sdocuments in Aube 9 G 1 andI 17 against edited texts; record witnesses and notaries rather than searching only for an artist’s name.
+
+Keep Girard d’Orléans separate from Évrard. Lorentz 2012 p 219 reports a named grisaille altar furnishing inCharles V’s 1380 inventoryand Girard ’s 1356 design instructions forJean Coste. This is a worthwhile period-artistic lead, but the passage neither establishes linen nor aShroud connection or kinship with Évrard.
+
+
+COMMISSION LEDGER UPDATE — 27 October 2026
+Ronot1933 primary edition pp202–204 has now been read online:140/16 livres tournois, two separate bargains, acknowledged5June1341, delivery by Saint Rémy. See ../commission-ledger/index.html. This supersedes earlier statements that the1341 published contract had not been retrieved/read; full journal PDF is still not saved.

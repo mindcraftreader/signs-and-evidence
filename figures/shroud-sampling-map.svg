@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="979.2pt" height="532.8pt" viewBox="0 0 979.2 532.8" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-27T15:45:09.605374</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 532.8 
+L 979.2 532.8 
+L 979.2 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 69.352714 299.779586 
+L 909.847286 299.779586 
+L 909.847286 84.902014 
+L 69.352714 84.902014 
+z
+" clip-path="url(#pc3c263660c)" style="fill: #f6f3ea; stroke: #253631; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 696.871286 220.864371 
+C 710.235306 220.864371 723.053769 217.959129 732.503558 212.788489 
+C 741.953347 207.61785 747.262929 200.603974 747.262929 193.291586 
+C 747.262929 185.979197 741.953347 178.965321 732.503558 173.794682 
+C 723.053769 168.624043 710.235306 165.7188 696.871286 165.7188 
+C 683.507266 165.7188 670.688802 168.624043 661.239013 173.794682 
+C 651.789224 178.965321 646.479643 185.979197 646.479643 193.291586 
+C 646.479643 200.603974 651.789224 207.61785 661.239013 212.788489 
+C 670.688802 217.959129 683.507266 220.864371 696.871286 220.864371 
+z
+" clip-path="url(#pc3c263660c)" style="fill: #247463; opacity: 0.1"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 489.6 273.157586 
+L 489.6 126.736586 
+" clip-path="url(#pc3c263660c)" style="fill: none; stroke-dasharray: 0.8,1.32; stroke-dashoffset: 0; stroke: #bbc2bd; stroke-width: 0.8"/>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #5e6b66" x="274.722429" y="117.228729" transform="rotate(-0 274.722429 117.228729)">FRONTAL IMAGE HALF</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #5e6b66" x="704.477571" y="117.228729" transform="rotate(-0 704.477571 117.228729)">DORSAL IMAGE HALF</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #5e6b66" x="489.6" y="288.370157" transform="rotate(-0 489.6 288.370157)">head-to-head orientation</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 13px; font-family: 'DejaVu Sans'; fill: #253631" transform="translate(383.634842 166.048412)">4  FTIR</text>
+    <text style="font-size: 13px; font-family: 'DejaVu Sans'; fill: #253631" transform="translate(374.873045 181.650951)">5  Raman</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #5e6b66" transform="translate(350.299607 226.611428)">Threads from a corner</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #5e6b66" transform="translate(333.878513 238.614163)">Specific corner not identified</text>
+   </g>
+   <g id="patch_4">
+    <path d="M 150.126952 208.59578 
+Q 115.151662 248.679758 80.176372 288.763735 
+" style="fill: none; stroke: #5e6b66; stroke-linecap: round"/>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 13px; font-family: 'DejaVu Sans'; fill: #253631" transform="translate(124.498286 185.064634)">1  Carbon-14</text>
+    <text style="font-size: 13px; font-family: 'DejaVu Sans'; fill: #253631" transform="translate(124.498286 200.667173)">2  WAXS</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; fill: #5e6b66" transform="translate(124.498286 237.160916)">Carbon strip and nearby thread</text>
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; fill: #5e6b66" transform="translate(124.498286 247.963376)">Exact WAXS spot not specified</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #253631" x="696.871286" y="162.866443" transform="rotate(-0 696.871286 162.866443)">3  Mechanical</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #5e6b66" transform="translate(622.222067 247.528714)">Filter H: beneath the buttocks</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #5e6b66" transform="translate(613.218942 259.531448)">Loose fibers collected by vacuum</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #5e6b66" x="489.6" y="102.008309" transform="rotate(-0 489.6 102.008309)">approximately 442 cm</text>
+   </g>
+   <g id="patch_5">
+    <path d="M 926.961429 297.782814 
+Q 926.961429 192.341267 926.961429 86.899721 
+" style="fill: none; stroke: #5e6b66; stroke-width: 0.8; stroke-linecap: round"/>
+    <path d="M 915.961429 297.782814 
+L 915.961429 297.782814 
+L 937.961429 297.782814 
+L 937.961429 297.782814 
+" style="fill: none; stroke: #5e6b66; stroke-width: 0.8; stroke-linecap: round"/>
+    <path d="M 937.961429 86.899721 
+L 937.961429 86.899721 
+L 915.961429 86.899721 
+L 915.961429 86.899721 
+" style="fill: none; stroke: #5e6b66; stroke-width: 0.8; stroke-linecap: round"/>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #5e6b66" transform="translate(944.066942 211.093144) rotate(-90)">113 cm</text>
+   </g>
+   <g id="line2d_2">
+    <path d="M 73.155857 276.960729 
+L 73.155857 295.976443 
+L 92.171571 295.976443 
+" clip-path="url(#pc3c263660c)" style="fill: none; stroke-dasharray: 3,3; stroke-dashoffset: 0; stroke: #366f99; stroke-opacity: 0.8; stroke-width: 1.5"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 73.155857 107.720871 
+L 73.155857 88.705157 
+L 92.171571 88.705157 
+" clip-path="url(#pc3c263660c)" style="fill: none; stroke-dasharray: 3,3; stroke-dashoffset: 0; stroke: #366f99; stroke-opacity: 0.8; stroke-width: 1.5"/>
+   </g>
+   <g id="line2d_4">
+    <path d="M 887.028429 295.976443 
+L 906.044143 295.976443 
+L 906.044143 276.960729 
+" clip-path="url(#pc3c263660c)" style="fill: none; stroke-dasharray: 3,3; stroke-dashoffset: 0; stroke: #366f99; stroke-opacity: 0.8; stroke-width: 1.5"/>
+   </g>
+   <g id="line2d_5">
+    <path d="M 887.028429 88.705157 
+L 906.044143 88.705157 
+L 906.044143 107.720871 
+" clip-path="url(#pc3c263660c)" style="fill: none; stroke-dasharray: 3,3; stroke-dashoffset: 0; stroke: #366f99; stroke-opacity: 0.8; stroke-width: 1.5"/>
+   </g>
+   <g id="PathCollection_1">
+    <defs>
+     <path id="mf0a99ef594" d="M 0 5.361903 
+C 1.421993 5.361903 2.785937 4.796939 3.791438 3.791438 
+C 4.796939 2.785937 5.361903 1.421993 5.361903 0 
+C 5.361903 -1.421993 4.796939 -2.785937 3.791438 -3.791438 
+C 2.785937 -4.796939 1.421993 -5.361903 0 -5.361903 
+C -1.421993 -5.361903 -2.785937 -4.796939 -3.791438 -3.791438 
+C -4.796939 -2.785937 -5.361903 -1.421993 -5.361903 0 
+C -5.361903 1.421993 -4.796939 2.785937 -3.791438 3.791438 
+C -2.785937 4.796939 -1.421993 5.361903 0 5.361903 
+z
+" style="stroke: #b9682c"/>
+    </defs>
+    <g clip-path="url(#pc3c263660c)">
+     <use xlink:href="#mf0a99ef594" x="78.860571" y="290.271729" style="fill: #b9682c; stroke: #b9682c"/>
+    </g>
+   </g>
+   <g id="PathCollection_2">
+    <defs>
+     <path id="m48978d9c13" d="M -4.873397 4.873397 
+L 4.873397 4.873397 
+L 4.873397 -4.873397 
+L -4.873397 -4.873397 
+z
+" style="stroke: #247463"/>
+    </defs>
+    <g clip-path="url(#pc3c263660c)">
+     <use xlink:href="#m48978d9c13" x="696.871286" y="193.291586" style="fill: #247463; stroke: #247463"/>
+    </g>
+   </g>
+   <g id="PathCollection_3">
+    <path d="M 78.860571 301.997768 
+L 90.586611 290.271729 
+L 78.860571 278.545689 
+L 67.134532 290.271729 
+L 78.860571 301.997768 
+z
+" clip-path="url(#pc3c263660c)" style="fill: none; stroke: #76558f; stroke-width: 1.6"/>
+   </g>
+  </g>
+  <g id="text_12">
+   <text style="font-weight: 700; font-size: 22px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #253631" x="63.648" y="25.5744" transform="rotate(-0 63.648 25.5744)">Where were the five dating methods sampled?</text>
+  </g>
+  <g id="text_13">
+   <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #5e6b66" x="63.648" y="50.0832" transform="rotate(-0 63.648 50.0832)">Published locations for all five methods; exact positions remain schematic</text>
+  </g>
+  <g id="text_14">
+   <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #366f99" x="63.648" y="337.2624" transform="rotate(-0 63.648 337.2624)">Dashed corner brackets = possible FTIR / Raman locations</text>
+  </g>
+  <g id="text_15">
+   <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #5e6b66" x="63.648" y="356.4432" transform="rotate(-0 63.648 356.4432)">The paper identifies a corner, but does not say which one. The brackets do not represent four collected samples.</text>
+  </g>
+  <g id="text_16">
+   <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #253631" x="63.648" y="387.8784" transform="rotate(-0 63.648 387.8784)">Source distinction</text>
+  </g>
+  <g id="text_17">
+   <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #5e6b66" transform="translate(63.648 416.233144)">FTIR / Raman: Baraldi &amp; Tinti, 2015, Section 2, p.2.</text>
+   <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #5e6b66" transform="translate(63.648 432.382636)">Mechanical: Fanti, Malfi &amp; Crosilla, 2015, Section 2 (filter H).</text>
+  </g>
+  <g id="text_18">
+   <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #5e6b66" transform="translate(494.496 416.233144)">Carbon: Damon et al., 1989, sampling description.</text>
+   <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #5e6b66" transform="translate(494.496 432.382636)">WAXS: De Caro et al., 2022, Section 2.1 (near Raes / carbon corner).</text>
+  </g>
+  <g id="text_19">
+   <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #5e6b66" transform="translate(63.648 474.860975)">Outer rectangle: 442 : 113 = 3.91 : 1. Sampling corner shown at lower left by schematic orientation.</text>
+   <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #5e6b66" transform="translate(63.648 489.860975)">Markers are enlarged region symbols, not cutting coordinates. Filter H is a loose-fiber collection region.</text>
+   <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #5e6b66" transform="translate(63.648 504.860975)">This map does not establish five different sites or that all corner threads came from the identical location.</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pc3c263660c">
+   <rect x="63.648" y="81.098871" width="851.904" height="222.483857"/>
+  </clipPath>
+ </defs>
+</svg>

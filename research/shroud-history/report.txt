@@ -1,0 +1,596 @@
+The Shroud of Turin: history, stories, and Dalton references
+
+Research dossier • 27 October 2026
+
+The Shroud of TurinHistory, stories, and Fr. Andrew Dalton’s references
+
+The identifiable cloth’s secure history begins in medieval Lirey. Earlier Christian image traditions are real historical subjects; identifying their objects with the Turin Shroud is the disputed step.
+Documented historyStories and traditionsDalton timestamp indexNamed reading leadsSources and access
+Search scope. I located one unique saved Pints with Aquinas interview transcript: New Evidence for the Shroud of Turin (Fr. Andrew Dalton), Ep. 383, 6 January 2023, duration 3:07:39, video HAbuG-oVq1Q. The en/en-orig caption files are duplicates of that episode, not two interviews. This dossier indexes all located history/lore passages and relevant reading leads in that saved transcript; it does not claim to cover every Dalton appearance on the show. Captions garble proper names and do not reveal every slide. Links are listening starts, with a few seconds of surrounding context where useful.
+
+Research used the University of Akron library in Chrome, including an actual Ebook Central chapter download, the existing local source collection, and public primary texts, institutional records, and academic publications. The three saved Nicolotti chapters provide the most detailed source-critical check in this pass. The report distinguishes full text, selected passages, and abstracts in the bibliography.
+Secure route: Lirey → Charny family / Marguerite → Savoy → Chambéry → Turin.Proposed earlier route: Jerusalem → Edessa → Constantinople → an unresolved western route → Lirey. Each identification and transfer before Lirey requires its own evidence.
+
+Documented history
+
+“Secure history” means evidence for the object or its custody, reception, and investigation. It does not by itself decide who made the image or whose body it represents. Even sources favorable to authenticity distinguish the uncertain early period from the mid-fourteenth-century record. [CISS] [CISS-D]
+
+DateEvent and evidenceHow to describe it
+
+ | c. 1350s | Lirey, Champagne
+
+The cloth identifiable with today’s Turin Shroud is exhibited in the circle of Geoffroi de Charny and Jeanne de Vergy. Dalton gives 1354; use “mid-fourteenth century” or “c. 1355” unless discussing a particular document. The founding of the church in 1353 is not itself a dated certificate for the cloth. [N12] [CISS] | Secure general period; exact first exhibition debated
+
+ | 1355–1382 | Nicole Oresme’s testimony
+
+A treatise dated to this interval calls the Shroud an example of clerical fraud. The passage’s modern publication in 2025 adds evidence about its early reception; it is not a newly discovered maker’s confession. [SAR25] | Medieval accusation; date is a range
+
+ | 1389–1390 | The Lirey controversy
+
+Bishop Pierre d’Arcis challenges the exhibitions and reports an earlier inquiry under Henri de Poitiers and a maker’s admission. Avignon claimant Clement VII permits display with language identifying a representation of Christ’s shroud. The documents establish a dispute; the alleged artisan is not independently available to examine. [N12] | Documented controversy
+
+ | 1418; 1453 | Marguerite de Charny → Savoy
+
+The cloth leaves Lirey for safekeeping during war, is not returned to the canons, and is transferred to Louis of Savoy in 1453. The financial and legal character of the transfer deserves more care than “a simple gift.” [N12] [CISS] | Documented transfer history
+
+ | 1502; 1506 | Chambéry and liturgical recognition
+
+The Shroud is installed at the ducal chapel in Chambéry in 1502. Julius II authorizes its own feast in 1506, celebrated on 4 May. Public devotion also becomes part of Savoy dynastic ceremony. [N12] [COURT] | Documented cult and custody
+
+ | 4 Dec. 1532; 1534 | Fire and repairs
+
+Fire damages the folded cloth at Chambéry. Poor Clares patch it and add a backing in 1534. Invisible corner reweaving is a separate hypothesis. [CISS-H] | Documented damage and conservation; corner hypothesis separate
+
+ | 1578 | Transfer to Turin
+
+The move to Turin shortens Charles Borromeo’s pilgrimage to fulfill a post-plague vow and fits the relocation of the Savoy capital. [CISS-H] [N12] | Documented move with devotional and political setting
+
+ | 1694 | Guarini chapel
+
+It is installed in the chapel joining cathedral and royal palace. [CISS-H] | Documented installation
+
+ | 28 May 1898 | Secondo Pia photographs the cloth
+
+Official photography reveals its striking reversed-tone appearance and makes reproducible images widely available for study. [MET] | Documented photographic event
+
+ | 1902; May 1931 | Delage and Enrie
+
+Delage argues for authenticity and protests how his work is received. In 1931 Enrie produces a new, carefully documented photographic series. Enrie’s work confirms a photographic appearance, rather than dating the cloth. [DEL] [MET] | Documented scholarship and photography; anecdotes need context
+
+ | 1939–1946 | Wartime refuge
+
+The cloth shelters at Montevergine Abbey near Avellino during the war. [CISS-H] | Documented custody exception
+
+ | 1978; 1983 | STURP and papal ownership
+
+STURP carries out its major examination in 1978. On Umberto II’s death in 1983, ownership passes from Savoy to the Holy See; the Turin archbishop serves as custodian. [C14] [CISS] | Documented investigation and ownership
+
+ | 1988–1989 | Radiocarbon dating
+
+Three laboratories measure material from one strip in 1988; the 1989 Nature paper reports AD 1260–1390. Later objections concern statistics, sampling, or contamination; those objections are not themselves a newly measured first-century date. [C14] | Published measurement, with subsequent debate
+
+ | 11 Apr. 1997; 2002 | Rescue and conservation
+
+Firefighters rescue the cloth in 1997. Conservation in 2002 removes old patches and replaces the backing. [CISS-H] | Documented rescue and intervention
+
+ | 24 May 1998 | John Paul II’s address
+
+The pope affirms its devotional value while leaving investigation of its historical and scientific questions to researchers. Veneration is not a declaration settling its age or identity. [JP2] | Primary papal statement
+
+The lore and the stories behind the route
+
+These are the principal stories in the saved interview plus the source traditions needed to understand them. “Not established” leaves a claim open; it does not mean no such tradition existed.
+
+Scripture and interpretation
+
+The burial and the empty tomb
+
+The Gospels describe burial linens. Dalton reads John 20’s separate face cloth and lying linens as a sign of the Resurrection, and proposes wrappings that collapsed without being unbound. John does not describe a body image or identify the Turin object. His reading is theological exegesis; it cannot fill the later custody gap. [JOHN] [CCC]Dalton / context: 00:53:51–01:04:00
+
+Developing late antique legend
+
+Abgar’s letters and healing
+
+Abgar, king of Edessa, asks Jesus for healing. In Eusebius, Jesus promises a disciple; Thomas sends Thaddeus, one of the Seventy, who heals the king. This differs from Dalton’s compressed Jude/one-of-the-Twelve-and-Shroud version. Eusebius supplies evidence for an early fourth-century tradition, not a first-century record of a Shroud image. [EUS] [N14]Dalton / context: 02:34:54–02:35:26; 02:40:44–02:41:14
+
+Different recensions, not one fixed narrative
+
+The painter becomes the miraculous image
+
+In the Doctrine of Addai, the envoy Hannan paints Jesus with pigments. Later traditions make the cloth image occur miraculously when Jesus wipes his face, or connect it with the sweat of his Passion. These versions should be told separately. A portrait sent by a living Jesus is not automatically the burial sheet of a dead Jesus. [N14]Dalton / context: Context for 02:35:50–02:36:25
+
+Legendary hiding and rediscovery
+
+The image hidden above the city gate
+
+One developed narrative has a pagan grandson threaten the image. A bishop seals it behind a tile with a burning lamp. Centuries later it is found, the lamp still burning, and the image has copied itself onto the tile, the Keramion. Dalton says “son” and gives a shorter account. The striking details belong to later narrative development. [GUS] [N14]Dalton / context: 02:35:26–02:35:50
+
+Historical settings plus miraculous narrative
+
+The 525 flood and the 544 siege
+
+The flood at Edessa and the Persian siege are separate events. A later story makes rediscovery and the image’s protection of the city part of the siege narrative. Evagrius’s late sixth-century account includes an image that helps defeat the attackers; Procopius’s earlier account does not. Neither event dates the Turin linen directly. [N14] [GUS]Dalton / context: 02:35:40–02:35:50
+
+Proposed material identification
+
+Tetradiplon: the long sheet hidden in a small portrait
+
+Wilson’s influential reconstruction folds the long Shroud so only the face shows, explaining descriptions of a towel or face image. Dalton uses the folding idea. Nicolotti examines the Greek word and the Acts of Thaddaeus in context: folding vocabulary does not require a concealed full-length corpse image, and the text distinguishes the face cloth from burial linens. It is an ingenious hypothesis, not a custody document. [N14] [WIL]Dalton / context: 01:19:40–01:20:15
+
+History of the Mandylion; Turin identity disputed
+
+944: an imperial acquisition and procession
+
+The Edessan image is brought to Constantinople in 944 and receives ceremonial veneration. This transfer has stronger textual support than its legendary first-century origin. Whether it was the Turin Shroud remains a further identification. Avoid turning the well-attested movement of one named relic into proof of the identity of another. [N14] [CISS]Dalton / context: 02:36:29–02:36:48
+
+Genuine medieval testimony with an identification problem
+
+Byzantine burial cloths and Robert de Clari
+
+Mesarites describes burial linens without explicitly describing a body image; Nicolotti stresses the plural and the theological rhetoric. Robert de Clari separately describes a miraculous face cloth/tile at the Pharos chapel and a shroud display at Blachernae. His shroud passage is a serious lead, but similarity and disappearance after the conquest do not establish a route to Lirey. Keep the distinct shrines and relic descriptions visible. [N14]Dalton / context: Background to 02:36:48–02:37:11; de Clari is not named in the saved captions
+
+Competing reconstructions
+
+1204–1350s: Crusaders, Templars, Athens, Languedoc
+
+Dalton calls these the open or missing years and acknowledges disagreement. Proposed routes run through Crusader families and Greece, through the Templars, or through southern France. Markwardt supplies a Languedoc hypothesis and a separate early-history reconstruction involving Antioch. More proposed routes do not add up to one established itinerary. Do not confuse the Templar Geoffroi de Charney with the Lirey knight Geoffroi de Charny on the basis of similar names. [MK-L] [MK14] [N14]Dalton / context: 02:37:04–02:39:14
+
+Old objects; proposed dependence
+
+Sinai icons, facial details, and the Pray Codex
+
+Dalton compares the Sinai Pantocrator and later images with the Shroud, including unusual facial marks. His spoken “Paulino” is an uncertain identification; Paul Vignon is a plausible research lead, not a confirmed caption correction. The Pray manuscript is securely late twelfth century. His argument from concealed thumbs, diagonal pattern, and L-shaped dots is a proposed identification of what its artist depicted. It does not follow simply from dating the book. [PRAY] [N14]Dalton / context: 00:08:25–00:08:38; 02:16:32–02:21:22; 02:30:03–02:34:13
+
+Separate relic and a conditional comparison
+
+A second cloth: the Sudarium of Oviedo
+
+Dalton argues that matching stains and an early history for the Sudarium would anchor the Shroud earlier. Both premises need checking. He himself hesitates over AD 611. The Oviedo teaching source takes the 1075 opening of the Arca Santa as its historical starting point. The proposed earlier journey, the recorded cult, bloodstain interpretation, and same-person inference should not be compressed into one proved fact. [SUD] [SUD-O]Dalton / context: 00:33:00–00:34:52; 02:34:21–02:34:39
+
+Material evidence of devotion
+
+The badge carried home by a Lirey pilgrim
+
+The small surviving badge depicts an exhibition and associates it with Lirey. It makes a vivid teaching story about medieval pilgrims taking an image home. Catalog details require care: the French museum record calls it lead/tin and dates it before 1453 in the first half of the fifteenth century, while popular summaries often call it bronze and date it to the 1350s. It supports the Lirey cult without settling its exact first year. [BADGE] [CISS]Dalton / context: 00:08:00–00:08:22
+
+Documented event plus modern explanatory hypothesis
+
+The fire, the nuns, and the invisible repair
+
+Alongside the documented fire repairs, Dalton tells the modern story of Sue Benford and Raymond Rogers: a dismissed repair theory supposedly prompts Rogers to inspect fibers and change his mind. His “five minutes” anecdote is an account of a conversation; the relevant evidence is the published material analysis. Known patching is not proof that the carbon-dated strip was invisibly replaced. [CISS-H]Dalton / context: 00:35:29–00:39:38; 01:19:40–01:20:36; 02:27:00–02:29:15
+
+Modern discovery story, checked against records
+
+Pia’s darkroom and Delage’s dissent
+
+Pia’s first photographs in 1898 made a clearer human face visible in the negative. Doubts about those photographs led to further photography; Enrie’s 1931 series is independently documented. Dalton then recounts Delage’s identification of Jesus and opposition to publication. Delage’s relevant intervention was in 1902, so do not narrate it as occurring after Enrie’s 1931 photographs simply because Dalton tells the episodes in that order. [MET] [DEL]Dalton / context: 00:24:25–00:29:11
+
+Documented devotional and dynastic culture
+
+Copies, royal ceremonies, and the journey to Turin
+
+Dalton describes copies made sacred by touching the cloth and the Savoy family’s use of displays on major occasions. The academic literature studies those practices as part of the relic’s social history. The documented journey in the timeline also connects pilgrimage with the court’s movements. [COURT] [CISS-H] [N12]Dalton / context: 00:24:46–00:24:59; 02:20:27–02:21:22
+
+Attributed pastoral testimony
+
+Healing and conversion stories in the interview
+
+Asked about confirmed miracles, Dalton returns to Abgar but says he does not know whether the leprosy healing truly occurred. He instead tells of a skeptical Spanish schoolgirl whose response changed after an exhibition visit. This is his pastoral anecdote, not a medically documented cure or independent proof of the relic’s age. Dalton / context: 02:40:44–02:43:25
+
+Six distinctions to preserve when telling this story
+
+The date of a surviving text and the date of the event it narrates are different.
+
+An ancient reference to a cloth or portrait does not alone identify the Turin object.
+
+The Edessan face image, Byzantine burial linens, Veronica traditions, and the Sudarium of Oviedo require separate identification and custody arguments.
+
+A medieval accusation of fabrication is valuable evidence about reception; the alleged maker’s independent testimony has not survived in the material reviewed here.
+
+The Pray Codex’s date is established independently of the disputed identification of its painted textile.
+
+Neither an unexplained image nor an objection to a dating method proves a Resurrection mechanism or a first-century age.
+
+Dalton’s history and story references: 49 listening windows
+
+All summaries below are attributed to the episode. “Previous claims” refers to the earlier 297-entry inventory. These manually checked starts are more precise than that inventory’s five-minute discussion bins. Download structured reference index · Open the complete earlier claim inventory.Find a story, person, or place: 
+
+Time / IDReference in the interviewAssessment and follow-up
+
+ |  [https://www.youtube.com/watch?v=HAbuG-oVq1Q&t=459s] 00:07:39–00:08:25D01 | Lirey and Geoffroi de Charny
+
+Dalton gives 1354 and appeals to heraldry/display evidence; admits earlier evidence is disputed.Previous claims: 174, 175 | Secure general period; exact year requires care
+
+[N12] [CISS]
+
+ |  [https://www.youtube.com/watch?v=HAbuG-oVq1Q&t=505s] 00:08:25–00:08:40D02 | Sinai Pantocrator
+
+Earliest introductory icon comparison, Saint Catherine’s, Mount Sinai.Previous claims: 189 | Iconographic comparison
+
+[N14]
+
+ |  [https://www.youtube.com/watch?v=HAbuG-oVq1Q&t=1451s] 00:24:11–00:25:02D03 | Secondo Pia and royal displays
+
+1898 photograph, camera, and the Savoy family’s ceremonial use of the Shroud.Previous claims: 29 | Photography and devotional history
+
+[MET] [COURT]
+
+ |  [https://www.youtube.com/watch?v=HAbuG-oVq1Q&t=1503s] 00:25:03–00:27:18D04 | The negative becomes legible
+
+Pia’s darkroom story and enhanced-looking face on the negative.Previous claims: 30, 33 | Photographic appearance; origin separate
+
+[MET]
+
+ |  [https://www.youtube.com/watch?v=HAbuG-oVq1Q&t=1638s] 00:27:18–00:28:00D05 | Pia questioned; Enrie 1931
+
+Suspicion of manipulation followed by Enrie’s later photographs.Previous claims: 31, 32 | Enrie commission independently documented
+
+[MET]
+
+ |  [https://www.youtube.com/watch?v=HAbuG-oVq1Q&t=1701s] 00:28:21–00:29:11D06 | Yves Delage
+
+Agnostic scholar identifies Jesus and laments opposition to publication.Previous claims: 36 | Relevant intervention is 1902
+
+[DEL]
+
+ |  [https://www.youtube.com/watch?v=HAbuG-oVq1Q&t=1876s] 00:31:16–00:32:05D07 | John Paul II and research
+
+Faith and reason; invitation to investigators.Previous claims: 220 | Check the specific papal text
+
+[JP2]
+
+ |  [https://www.youtube.com/watch?v=HAbuG-oVq1Q&t=1980s] 00:33:00–00:34:52D08 | Sudarium of Oviedo
+
+Matching stains, fluid interpretation, and tentative seventh-century date.Previous claims: 161, 162, 163, 164 | Same-person and early-provenance claims require support
+
+[SUD] [SUD-O]
+
+ |  [https://www.youtube.com/watch?v=HAbuG-oVq1Q&t=2129s] 00:35:29–00:36:28D09 | Repeated public handling
+
+Exhibition images, bare-handed holding, wear at the corner.Previous claims: 67 | History used to motivate a repair hypothesis
+
+[COURT]
+
+ |  [https://www.youtube.com/watch?v=HAbuG-oVq1Q&t=2171s] 00:36:11–00:36:26D10 | 1532 fire and nuns
+
+Fire and subsequent repair; possible new strip is introduced as a theory.Previous claims: 68 | Documented repair differs from proposed corner replacement
+
+[CISS-H]
+
+ |  [https://www.youtube.com/watch?v=HAbuG-oVq1Q&t=2188s] 00:36:28–00:37:57D11 | Sue Benford and textile experts
+
+Photographs shown to experts; invisible-reweaving technique.Previous claims: 69, 70, 71 | Modern research anecdote and contested reconstruction
+
+ |  [https://www.youtube.com/watch?v=HAbuG-oVq1Q&t=2277s] 00:37:57–00:39:38D12 | Rogers and Schwortz
+
+Rogers allegedly changes his mind after examining fibers.Previous claims: 72, 73 | Conversation paraphrase; use the actual publications for evidence
+
+ |  [https://www.youtube.com/watch?v=HAbuG-oVq1Q&t=3023s] 00:50:23–00:51:00D13 | Nicolotti and Garlaschelli as critics
+
+Dalton mentions a recent critical book and an Italian critic; the captions render the names imperfectly.Previous claims: 66 | Nicolotti’s 2019 English history is published by Baylor, not the uncertain Baker/Baker Academic named aloud
+
+[N19]
+
+ |  [https://www.youtube.com/watch?v=HAbuG-oVq1Q&t=3156s] 00:52:36–00:53:15D14 | N. T. Wright on early belief
+
+Refers to Wright’s large Resurrection study and the unexpected early proclamation.Previous claims: 225 | Wider Christian historical argument; no specific book title is spoken
+
+ |  [https://www.youtube.com/watch?v=HAbuG-oVq1Q&t=3231s] 00:53:51–01:04:00D15 | John 20 and the tomb cloths
+
+Seeing and believing; othonia/sindon; separate face cloth; possible collapse; Lazarus; Catechism 640.Previous claims: 207, 208, 210, 211, 212, 213, 214, 215, 216, 218, 288, 289 | Biblical and theological interpretation
+
+[JOHN] [CCC]
+
+ |  [https://www.youtube.com/watch?v=HAbuG-oVq1Q&t=3986s] 01:06:26–01:07:00D16 | Savoy bequest in 1983
+
+Ownership passes to the pope/Holy See; authority over new sampling.Previous claims: 187, 188 | Documented ownership change
+
+[CISS]
+
+ |  [https://www.youtube.com/watch?v=HAbuG-oVq1Q&t=4199s] 01:09:59–01:10:30D17 | Saint Peter’s tomb and purple cloth
+
+A viewer asks about other ancient burial textiles, invoking purple cloth at Peter’s tomb. Dalton responds about the Shroud’s unusual combination of properties.Previous claims: 257, 279 | The Peter example is from the question; do not reattribute it as Dalton’s independently sourced claim
+
+ |  [https://www.youtube.com/watch?v=HAbuG-oVq1Q&t=4780s] 01:19:40–01:20:15D18 | Tetradiplon
+
+Folding to display the face and the historical term.Previous claims: 87 | Disputed interpretation of a source term
+
+[N14]
+
+ |  [https://www.youtube.com/watch?v=HAbuG-oVq1Q&t=4815s] 01:20:15–01:20:36D19 | Folded cloth in the fire
+
+Silver casing and repeated damage through folded layers.Previous claims: 88 | Known damage; image chemistry is a further question
+
+[CISS-H]
+
+ |  [https://www.youtube.com/watch?v=HAbuG-oVq1Q&t=5208s] 01:26:48–01:29:01D20 | The Passion of the Christ and private revelations
+
+Discussion of Mel Gibson, a Catherine/Emmerich reference, paintings, the crossbeam, and a Padre Pio shoulder-wound story.Previous claims: 119, 125 | Private revelations and film imagery are explicitly distinguished from archaeology; some names are caption-uncertain
+
+ |  [https://www.youtube.com/watch?v=HAbuG-oVq1Q&t=6934s] 01:55:34–01:55:55D21 | John Paul II, Crossing the Threshold of Hope
+
+Brief spiritual reading reference in the discussion of Christ’s humanity.Previous claims: additional explicit reference | Named theological reading lead; separate from custody history
+
+ |  [https://www.youtube.com/watch?v=HAbuG-oVq1Q&t=7550s] 02:05:50–02:07:40D22 | Fr. Francis Filas and Pilate-era coins
+
+Possible eye coins, letters, a supposedly misspelled issue dated AD 29.Previous claims: 203, 204, 205 | Dalton explicitly treats it as uncertain
+
+ |  [https://www.youtube.com/watch?v=HAbuG-oVq1Q&t=7660s] 02:07:40–02:08:21D23 | Pareidolia warning
+
+Texture and expectation can produce imagined letters and shapes.Previous claims: 206, 286 | Preserve Dalton’s caution
+
+ |  [https://www.youtube.com/watch?v=HAbuG-oVq1Q&t=7702s] 02:08:22–02:08:53D24 | John Jackson book recommendation
+
+Recommends a short source-referenced STURP overview without giving a title.Previous claims: additional explicit reference | Do not invent a definite book title
+
+ |  [https://www.youtube.com/watch?v=HAbuG-oVq1Q&t=7768s] 02:09:28–02:09:46D25 | Pierre Barbet and Frederick Zugibe
+
+A Doctor at Calvary and later forensic writing.Previous claims: 121, 123 | Named reading leads; wider than custody history
+
+ |  [https://www.youtube.com/watch?v=HAbuG-oVq1Q&t=7793s] 02:09:53–02:10:13D26 | Cheryl White and Fr. Peter Mangum
+
+Recommends their Shreveport exhibit/podcast work.Previous claims: additional explicit reference | Podcast title unspecified in the captions
+
+[SSP] [CW]
+
+ |  [https://www.youtube.com/watch?v=HAbuG-oVq1Q&t=7815s] 02:10:15–02:12:40D27 | The Real Face of Jesus? / Ray Downing
+
+Viewer brings up a television reconstruction; Dalton corrects “Robert” to Ray.Previous claims: additional explicit reference | Modern reconstruction, not an ancient portrait
+
+ |  [https://www.youtube.com/watch?v=HAbuG-oVq1Q&t=8146s] 02:15:46–02:16:44D28 | Acheiropoieta
+
+Images “not made by human hands”; copies of a supposedly miraculous prototype.Previous claims: 193 | Distinguish painted copies from a miraculous-origin claim
+
+[N14]
+
+ |  [https://www.youtube.com/watch?v=HAbuG-oVq1Q&t=8204s] 02:16:44–02:17:59D29 | 250 facial points and a courtroom analogy
+
+Recurring face details and an asserted fifty-point legal threshold.Previous claims: 190, 191, 192 | No controls or universal forensic standard supplied
+
+ |  [https://www.youtube.com/watch?v=HAbuG-oVq1Q&t=8313s] 02:18:33–02:19:12D30 | Named and unnamed icons
+
+Sinai; probable Cefalù on the right; middle image not identified.Previous claims: 189, 192 | Cefalù is tentative from the caption, not verified from the slide
+
+ |  [https://www.youtube.com/watch?v=HAbuG-oVq1Q&t=8373s] 02:19:33–02:19:59D31 | “Paulino,” 13–15 traits
+
+Name in captions is uncertain; Paul Vignon is a plausible follow-up lead.Previous claims: 192 | Do not silently resolve uncertain speech as a definite citation
+
+ |  [https://www.youtube.com/watch?v=HAbuG-oVq1Q&t=8427s] 02:20:27–02:21:22D32 | Contact copies and relics
+
+Other images or cloths are sanctified by touching the original.Previous claims: 194 | Devotional practice; individual examples need their own records
+
+[COURT]
+
+ |  [https://www.youtube.com/watch?v=HAbuG-oVq1Q&t=8640s] 02:24:00–02:25:05D33 | The Dying Gaul
+
+Compares the sculpture’s right-side wound with his proposed spear-wound interpretation on the Shroud.Previous claims: 149, 150 | An ancient-art comparison; it does not date the Turin linen
+
+ |  [https://www.youtube.com/watch?v=HAbuG-oVq1Q&t=9003s] 02:30:03–02:31:19D34 | Pray Codex date and hands
+
+1192–1195 manuscript; missing thumbs compared to Shroud.Previous claims: 195, 196, 197 | Book date secure; depicted-object identity disputed
+
+[PRAY]
+
+ |  [https://www.youtube.com/watch?v=HAbuG-oVq1Q&t=9079s] 02:31:19–02:32:32D35 | Pray pattern and L-shaped dots
+
+Interprets the design as herringbone and holes caused by heat.Previous claims: 198, 199, 201 | Visual identification; charcoal origin speculative
+
+[PRAY]
+
+ |  [https://www.youtube.com/watch?v=HAbuG-oVq1Q&t=9152s] 02:32:32–02:34:13D36 | “Nobody doubts” and prior devotion
+
+Uses the codex to argue for existence before the carbon interval.Previous claims: 200, 202 | Consensus language is stronger than the evidence warrants
+
+[PRAY] [N14]
+
+ |  [https://www.youtube.com/watch?v=HAbuG-oVq1Q&t=9290s] 02:34:50–02:35:26D37 | Jerusalem, Abgar, Jude, and leprosy
+
+Narrates first-century burial followed by an apostolic journey to Edessa.Previous claims: 176, 177 | Legend; Eusebius’s version differs
+
+[EUS] [N14]
+
+ |  [https://www.youtube.com/watch?v=HAbuG-oVq1Q&t=9326s] 02:35:26–02:35:50D38 | Pagan successor and hidden cloth
+
+Persecution, hiding in walls, flood of 525, rediscovery in 544.Previous claims: 178, 179 | Later narrative development; distinct events
+
+[N14] [GUS]
+
+ |  [https://www.youtube.com/watch?v=HAbuG-oVq1Q&t=9350s] 02:35:50–02:36:29D39 | Mandylion = Turin Shroud?
+
+Names Image of Edessa/Mandylion and acknowledges historical disagreement.Previous claims: 180 | Identity hypothesis explicitly qualified
+
+[N14]
+
+ |  [https://www.youtube.com/watch?v=HAbuG-oVq1Q&t=9389s] 02:36:29–02:36:48D40 | Romanos I and 944
+
+Transfer to Constantinople to collect Passion relics.Previous claims: 181 | Movement of Mandylion; Turin identification separate
+
+[N14] [CISS]
+
+ |  [https://www.youtube.com/watch?v=HAbuG-oVq1Q&t=9408s] 02:36:48–02:37:11D41 | Fourth Crusade and 1204
+
+Sack, taking the cloth west, and the start of the missing years.Previous claims: 182, 183 | Exact object and subsequent route unproven
+
+[N14]
+
+ |  [https://www.youtube.com/watch?v=HAbuG-oVq1Q&t=9431s] 02:37:11–02:37:48D42 | Templars and competing routes
+
+Possible ties to later holders; acknowledges competing accounts.Previous claims: 184 | Hypotheses, not continuous documented custody
+
+[MK-L]
+
+ |  [https://www.youtube.com/watch?v=HAbuG-oVq1Q&t=9468s] 02:37:48–02:38:57D43 | Jack Markwardt
+
+The Hidden History of the Shroud of Turin; conference survey of many routes. Dalton says he has not read the full book.Previous claims: 185 | Clear named reference; preserve his disclosure
+
+[MK14] [MK-L]
+
+ |  [https://www.youtube.com/watch?v=HAbuG-oVq1Q&t=9537s] 02:38:57–02:39:14D44 | Ian Wilson
+
+Early-history book, criticisms, and invitation to let historians debate.Previous claims: 186 | Published Wilson review (2022) and Nicolotti reply (2024) are useful follow-up
+
+[WIL] [N24]
+
+ |  [https://www.youtube.com/watch?v=HAbuG-oVq1Q&t=9554s] 02:39:14–02:39:38D45 | Dr. Cheryl White
+
+Archive research, travels to Chambéry and Turin, hope for more manuscripts.Previous claims: additional explicit reference | Named historian/research lead
+
+[CW] [SSP]
+
+ |  [https://www.youtube.com/watch?v=HAbuG-oVq1Q&t=9578s] 02:39:38–02:40:40D46 | Jerusalem soil and Max Frei pollen
+
+Mineral match and botanical evidence invoked for geography.Previous claims: 166, 167, 168, 169, 170, 171, 172, 173 | Scientific provenance arguments, not custody records
+
+ |  [https://www.youtube.com/watch?v=HAbuG-oVq1Q&t=9644s] 02:40:44–02:41:14D47 | Was Abgar’s cure confirmed?
+
+Dalton says he does not know if the miraculous healing happened.Previous claims: 262 | Explicit qualification of the legend
+
+[EUS]
+
+ |  [https://www.youtube.com/watch?v=HAbuG-oVq1Q&t=9709s] 02:41:49–02:43:25D48 | Spanish schoolgirl story
+
+Exhibition visit and changed response to belief questions.Previous claims: additional explicit reference | Attributed pastoral anecdote
+
+ |  [https://www.youtube.com/watch?v=HAbuG-oVq1Q&t=11051s] 03:04:11–03:04:38D49 | Personal view of image formation
+
+Dalton calls the image a natural effect of the supernatural Resurrection.Previous claims: 251 | His theological conclusion, not a demonstrated historical mechanism
+
+The named reading and research leads
+
+Jack Markwardt: The Hidden History of the Shroud of Turin is explicitly named at 2:38:21. Dalton says he has not read the full book. His openly accessible 2014 conference paper and Languedoc paper are useful starts, but are not substitutes for the book or independent verification of its thesis. [MK14] [MK-L]
+
+Ian Wilson: Dalton names the author without securely naming a particular book in this passage. Follow his Edessa/Mandylion thesis and read the criticism alongside it. The 2022 Wilson review and 2024 Nicolotti reply are a concrete published exchange. [WIL] [N24]
+
+Cheryl White and Fr. Peter Mangum: named at 2:09:53; White again at 2:39:14. Follow the Shroud Studies Project. The 2026–2027 university course program explicitly begins documented history in the fourteenth century and treats earlier potential correspondences secondarily. [SSP] [CW]
+
+John Jackson: recommended around 2:08:22 for a concise STURP overview with references. No definite title is spoken in the located caption passage. Pierre Barbet: A Doctor at Calvary, named at 1:29:52 and 2:09:33. Frederick Zugibe: a later forensic author, captioned “zugabe” at 2:09:36; the interview gives no book title there. These are scientific/medical reading leads rather than documents of custody.
+
+Fr. Francis Filas: the eye-coin hypothesis, 2:05:52. Paul Vignon: a plausible lead for the early facial-feature comparison, but the 2:19:35 caption says “Paulino”; keep that attribution tentative pending audio/slide confirmation. Ray Downing: the modern face reconstruction; Dalton corrects his initial first-name uncertainty at 2:11:38.
+
+Additional historical sources located through Akron: Nicolotti’s 2014 monograph (selected chapters actually read), the 2019 Shroud at Court collection, and Sarzeaud’s 2024 article on changing standards of proof. The Oresme article published in 2025 is a newer addition to the medieval evidence, not something Dalton could have cited in January 2023. [N14] [COURT] [SAR24] [SAR25]
+
+Bibliography and what was actually read
+
+The access labels prevent a catalog entry or abstract from masquerading as a full-text review. This dossier is a substantial research pass, not a claim to have exhausted every archive or publication.
+
+JOHN · Primary text consulted [https://bible.usccb.org/bible/john/20] Gospel of John, chapter 20 (USCCB)
+
+Primary scriptural text: linens, separate head cloth, seeing and believing. No body image or later Turin provenance is specified.
+
+CCC · Primary doctrinal text consulted [https://www.vatican.va/archive/ENG0015/__P1S.HTM] Catechism of the Catholic Church, paragraph 640
+
+Connects the condition of the empty tomb and its cloths with recognition of the Resurrection; does not identify the Turin Shroud or describe an image-formation mechanism.
+
+N14 · Selected full chapters consulted [https://ebookcentral.proquest.com/lib/uakron/detail.action?docID=1815755] Andrea Nicolotti, From the Mandylion of Edessa to the Shroud of Turin (Brill, 2014)
+
+University of Akron → ZipSearch → Ebook Central. Chapters 2 (pp. 7–28), 3 (pp. 29–52), and 5 (pp. 89–119) downloaded through Chrome and consulted; 77 of the permitted 91 PDF pages. These chapters examine the textual traditions rather than assuming the Turin identification.
+
+N12 · Full text consulted [https://iris.unito.it/bitstream/2318/1659750/5/Nicolotti%2C%20Les%20tribulations%20d%27un%20linceul%20%28L%27histoire%29.pdf] Andrea Nicolotti, “Les tribulations d’un linceul,” L’Histoire 372 (February 2012), pp. 40–45
+
+Previously saved full PDF consulted for the Lirey controversy, other shrouds, Savoy history, and the distinction between an image and a burial cloth.
+
+CISS · Full webpage consulted [https://www.sindone.it/en/storia-1] International Centre of Sindonology, History
+
+Institutional overview: secure fourteenth-century beginning, proposed earlier links, 1453 transfer, 1983 bequest. Read its hypotheses as hypotheses even where a narrative becomes more assertive.
+
+CISS-H · Full text consulted [https://www.sindone.it/en/_files/ugd/6a2f2b_2d80c25072f34c59b6119a6ee7461198.pdf?index=true] International Centre of Sindonology, Le ipotesi storiche
+
+Three-page institutional chronology, including conservation and custody.
+
+CISS-D · Opening historical framework consulted [https://www.sindone.it/en/_files/ugd/6a2f2b_76a973401725455da61ac34d6a0a8f05.pdf] International Centre of Sindonology, Santa Sindone: immagine e reliquia
+
+Six-page history of devotion: distinguishes tolerated, accepted, promoted cult and the period of scientific debate. Makes the absence of secure identification before the fourteenth century explicit.
+
+EUS · Primary text consulted in translation [https://www.newadvent.org/fathers/250101.htm] Eusebius, Ecclesiastical History I.13
+
+Early fourth-century account of Abgar’s correspondence and healing by Thaddeus, one of the Seventy, sent by Thomas. No image or Turin cloth appears in this chapter.
+
+GUS · Selected full-text passages consulted [https://pure.royalholloway.ac.uk/ws/portalfiles/portal/24278014/MARK_GUSCIN_PhD_THESIS_05.03.15.pdf] Mark Guscin, The Tradition of the Image of Edessa, doctoral thesis (Royal Holloway, 2014; deposited 2015)
+
+Especially pp. 28–30, 52–54, 103–105, and the chronological tables. Useful for different legend recensions, the lamp/tile story, the 544 siege, and the limits of the evidence after 1204. Relevant passages consulted, not the entire 424-page thesis.
+
+PRAY · Institutional digital record consulted [https://mek.oszk.hu/12800/12855/html/index.htm] National Széchényi Library, digitized Pray Codex, MNy 1
+
+Primary manuscript and institutional dating to 1192–1195. Establishes the manuscript’s date; does not independently authenticate the proposed Turin textile in its illustration.
+
+BADGE · Museum collection record consulted [https://pop.culture.gouv.fr/notice/joconde/50030001918] French Ministry of Culture / Musée de Cluny, pilgrimage badge CL 4752
+
+Object record identifies Lirey, cast lead/tin, recovery from the Seine in 1855, and a catalog date in the first half of the fifteenth century, before 1453. This differs from familiar mid-fourteenth-century descriptions and the “bronze medallion” wording on some Shroud sites.
+
+MET · Museum collection record consulted [https://www.metmuseum.org/art/collection/search/687615] Metropolitan Museum of Art, Giuseppe Enrie, Detail of the Shroud of Turin, May 1931, object 2015.421
+
+Curatorial account of Pia’s 1898 photographs, criticism of their evidentiary conditions, and Enrie’s 1931 commission and documented photographic methods. Used for photography history, not its oversimplified statement about the earliest historical record.
+
+C14 · Full article consulted [https://www.shroud.com/nature.htm] Damon et al., “Radiocarbon Dating of the Shroud of Turin,” Nature 337 (1989), 611–615
+
+Primary report of the 1988 sampling and measurements by Arizona, Oxford, and Zurich; published calibrated interval AD 1260–1390. This is a dating result, separate from the custody history.
+
+JP2 · Primary statement consulted [https://www.vatican.va/content/john-paul-ii/en/travels/1998/documents/hf_jp-ii_spe_24051998_sindone.html] John Paul II, address before the Shroud, Turin, 24 May 1998
+
+Primary statement entrusting investigation to scientists and distinguishing a question of authenticity from a matter of faith. Also supports its continuing devotional significance.
+
+MK14 · Selected full-text passages consulted [https://www.shroud.com/pdfs/stlmarkwardtpaper.pdf] Jack Markwardt, “Modern Scholarship and the History of the Turin Shroud” (2014)
+
+Author’s conference paper presenting an affirmative early-history reconstruction, including Antioch. A substantial publicly available research lead for the author Dalton recommends; not an independently established custody chain.
+
+MK-L · Author’s paper consulted [https://www.shroud.com/markward.htm] Jack Markwardt, “Was the Shroud in Languedoc During the Missing Years?”
+
+Explicitly hypothetical route from Constantinople through Languedoc. Demonstrates that the proposals for the missing years include alternatives to a simple Templar route.
+
+WIL · Research lead; search-visible text only [https://www.shroud.com/pdfs/wilsonvtxt.pdf] Ian Wilson, “Discovering more of the Shroud’s Early History: A promising new approach…”
+
+Author’s affirmative Edessa identification; useful to read against Nicolotti. Search-accessible text located; direct PDF retrieval was unsuccessful in this pass.
+
+N24 · Relevant full-text passages consulted [https://iris.unito.it/retrieve/b884e11b-62ab-425d-a07c-5aa94dbc8da0/Nicolotti,%20Letter%20to%20the%20Editor.%20The%20Shroud%20of%20Turin.%20A%20Response%20to%20Ian%20Wilson.pdf] Andrea Nicolotti, “The Shroud of Turin: A Response to Ian Wilson,” Catholic Historical Review 110.1 (2024), 102–110
+
+Reply to Wilson’s review in volume 108.2 (2022), “Is the Shroud of Turin a Fake?” Establishes that a published exchange exists; do not turn a comment in the 2023 interview into a claim that Wilson never engaged critics.
+
+SAR25 · Publisher abstract and bibliographic details consulted [https://doi.org/10.1080/03044181.2025.2546884] Nicolas Sarzeaud, “A New Document on the Appearance of the Shroud of Turin from Nicole Oresme,” Journal of Medieval History 51.5 (2025), 604–621
+
+Publisher abstract identifies an Oresme treatise dated 1355–1382 describing the Shroud as clerical fraud. Important additional medieval testimony; an accusation is not a surviving confession or a laboratory demonstration of manufacture. The full article was not obtained.
+
+SAR24 · Catalog record and publisher abstract consulted [https://www.cambridge.org/core/journals/annales-histoire-sciences-sociales/article/abs/linterpretation-dune-sainte-trace/CF110392244594FC5BCC1C9AF70D03F8] Nicolas Sarzeaud, “L’interprétation d’une sainte trace,” Annales. Histoire, Sciences Sociales 79.2 (2024)
+
+Located through Akron, then checked against publisher abstract. Research on how the relic’s reception and standards of evidence changed. No claim here to have read the full article.
+
+N19 · Bibliography and contents only [https://www.baylorpress.com/9781481311519/the-shroud-of-turin/] Andrea Nicolotti, The Shroud of Turin: The History and Legends of the World’s Most Famous Relic (Baylor, 2019)
+
+Broad critical history from Lirey to modern disputes. Publisher description and contents checked; full book not obtained in this pass.
+
+COURT · Akron catalog record consulted [https://library.search.uakron.edu/nde/fulldisplay?vid=01OHIOLINK_AKRON:Bierce_Library&docid=alma991030822769608514&context=L] Paolo Cozzo, Andrea Merlotti, Andrea Nicolotti, eds., The Shroud at Court (Brill, 2019)
+
+Akron online catalog record: multidisciplinary collection on Savoy ceremonies, images, political legitimacy, and devotion. Full book not read in this pass.
+
+CW · Relevant course description consulted [https://www.upra.org/app/uploads/2026/04/Postgraduate-Certificate-in-Shroud-Studies-2026-2027.pdf] Pontifical Athenaeum Regina Apostolorum, Shroud Studies 2026–2027 course program
+
+Confirms Cheryl White’s history course and its explicit division between documented history from the fourteenth century and earlier possible correspondences.
+
+SSP · Website consulted [https://shroudstudiesproject.org/] Shroud Studies Project, Cheryl White and Fr. Peter Mangum
+
+Current institutional research/exhibit lead for the people named in the interview. The interview itself does not give a definite podcast series title.
+
+DEL · Search-visible primary-letter excerpt; original issue not independently collated [https://www.shroud.com/pdfs/sn096Aug96.pdf] Yves Delage’s 1902 letter, English translation reprinted in Shroud News 96 (August 1996)
+
+Primary letter in later translation; provides a route to the underlying correspondence behind Dalton’s anecdote. Original French publication is Revue scientifique, 1902, pp. 683–687.
+
+SUD · Institutional teaching account consulted [https://sudariooviedo.com/presentacion] Sudarium of Oviedo course, presentation and historical introduction
+
+Gives the 1075 opening of the Arca Santa as a historical starting point and Ricci’s 1965 investigation. Does not by itself validate a continuously documented seventh-century route.
+
+SUD-O · Research lead; existing source note [https://othonia.org/deep-dives-article/the-sudarium-of-oviedo/] Othonia, The Sudarium of Oviedo
+
+Affirmative comparison lead, also in the pre-existing source library. The two cloths and the same-person inference must remain distinct.
+
+Saved library chapters
+
+Chapter 2: Origins and Traditions, pp. 7–28 — private research copy obtained through the library’s permitted chapter-download function.
+
+Chapter 3: Shifting Perspectives?, pp. 29–52 — private research copy obtained through the library’s permitted chapter-download function.
+
+Chapter 5: The Mandylion in Constantinople, pp. 89–119 — private research copy obtained through the library’s permitted chapter-download function.
+
+Coverage and reproducibility
+
+Corpus searched: the saved caption transcript and both duplicate JSON3 caption files, plus the workspace’s Shroud research materials. The transcript’s title, date, duration, and video identifier were checked against saved video metadata. No second unique Dalton episode transcript was located in the searched project materials. The 297-entry prior inventory is preserved as a structured cross-reference; its entries are attributed claims, not 297 verified conclusions. Bibliography data · Saved-PDF hashes · Plain-text report.
+
+Remaining limits: exact unspoken slide identities and some garbled names require audiovisual review; the Markwardt book, Nicolotti’s full 2019 book, and the full 2025 Oresme article were not obtained. No continuous pre-Lirey chain of custody was established in the material reviewed.

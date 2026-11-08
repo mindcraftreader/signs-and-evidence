@@ -1,0 +1,54 @@
+DALLEUR: DEFENSES AND SUPPORTIVE AUTHORS
+Research date: 27 October 2026
+
+Scope
+This report distinguishes the author's technical arguments, correspondence reproduced by Ethan Muse, and favorable discussion by other authors. No independent replication of the D115 reconstruction was located in this search. That is a search result, not proof none exists.
+
+1. Direct author sources
+Philippe Dalleur, Pontifical University of the Holy Cross, Rome:
+Fatima Pictures and Testimonials: in-depth Analysis, Scientia et Fides 9(1), 2021, pp. 9-45.
+https://doi.org/10.12775/SetF.2021.001
+Author technical pages:
+https://sites.google.com/pusc.it/elevation-azimuth/fatimas-miracle-photo
+https://sites.google.com/pusc.it/elevation-azimuth/principles
+https://sites.google.com/pusc.it/elevation-azimuth/examples
+https://sites.google.com/pusc.it/elevation-azimuth/theory/the-maths
+
+The core defense is that corresponding object and shadow points constrain a projected illumination direction. Sloping ground does not by itself invalidate that construction. Camera assumptions and the identification of the actual shadow features still matter. Dalleur varies equivalent focal distance, and discusses pitch and roll. His stated estimates are about 25-32 degrees, compared with the Sun's roughly 42.7 degrees. This is not a demonstrated joint confidence interval for all measurement and model uncertainties.
+
+His current website addresses lens distortion using the probable historical camera/lens type and historical optical measurements. The exact camera and lens used for D115 have not been positively calibrated. Do not identify current website material as a dated, named reply to Bradley or Fodor without evidence of its publication history.
+
+His examples include real photographs as well as synthetic scenes. Castel Gandolfo is a known-source example with the Sun visible and no shadows; it does not test ambiguous faint shadow matching. Saint Hubert supplies another worked example. These examples support the plausibility of the geometry but do not constitute a matched, blind validation dataset for D115.
+
+2. Specific response to Mark Grant
+Public source: Ethan Muse, It Wasn't the Sun!, section 3, including correspondence attributed to Dalleur.
+https://motivacredibilitatis.substack.com/p/it-wasnt-the-sun
+
+Grant's simulated bright overhead illumination illustrates a possible failure mode: selected boundaries can yield a light elevation well below the actual simulated solar elevation. Dalleur replies that the simulation washes out the directional information, while D115 contains more specific contours involving the hat, finger, walking stick/knee, and stones. He argues a countermodel must reproduce those constraints together, rather than merely a broadly similar illumination pattern. He asks for the scene and additional features. This is a substantive reply. This research did not obtain and refit Grant's scene, and did not locate a completed independent fit resolving the disagreement. The publicly accessible reply is correspondence published by Muse, rather than a separate journal rebuttal.
+
+3. Supportive writers
+Ethan Muse: Rutgers University philosophy graduate student. His follow-up provides the most extensive public point-by-point defense located, including Dalleur's correspondence, witness testimony, the light-source interpretation, and rapid drying.
+Official affiliation: https://www.philosophy.rutgers.edu/people/graduate-students
+Article: https://motivacredibilitatis.substack.com/p/it-wasnt-the-sun
+He is not an independent photogrammetry laboratory.
+
+Joe Schmid and Noah McKay: Princeton University philosophy doctoral students; their Veritatis Splendor article defends the broader case against Dustin Crummett and Matthew Adelstein. It explicitly invokes the photographic argument and a localized light source. It does not supply an independent D115 measurement/reconstruction. The article acknowledges consultation with Muse and permission to develop some of his arguments.
+https://splendoroftruth.substack.com/p/in-defense-of-the-miracle-of-the
+Biographical source: https://www.reasonandrationality.com/faculty.html
+
+Tim Lomas and Brendan Case: Harvard University's Human Flourishing Program; the 2023 paper identifies Lomas as a psychology research scientist affiliated with Epidemiology and the program, and Case as associate director for research in the program. Their article gives favorable attention to Dalleur's photographic claims within a wider discussion of anomalous celestial encounters. It predates the recent criticisms and is not a technical reply or independent replication.
+From Angels to Aliens: Humankind's Ongoing Encounters with, and Evolving Interpretations of, the Genuine Celestial Unknown. Zygon 58(3), 2023, 614-635.
+https://doi.org/10.1111/zygo.12891
+https://www.zygonjournal.org/article/14934/galley/30245/download/
+Full text access encountered an anti-bot interstitial. Relevant passages and affiliation information were checked in publicly indexed text; do not represent this as a full local reading of that paper. OpenAlex records are saved alongside this report. One indexed citing work was returned; that count is not an exhaustive measure of all scholarly discussion.
+
+4. Library search scope
+Opened the University of Akron A-Z database page, ZipSearch, and searched the exact Dalleur paper title. A library record tab for the paper was observed. Browser activity then changed under user control, so interaction stopped. No systematic library search for every response author, or library full-text review of the Lomas/Case article, was completed. Public primary sources supported the findings above.
+
+5. PDF display problem
+The original local Dalleur PDF contains 12 embedded JPEG 2000 image objects. The user's screenshot of printed p.23 showed a blank Figure 6 despite the image being present. Poppler rendered it normally. A compatible copy replaces the embedded JPEG 2000 image encoding with lossless RGB image streams. All 37 pages retain identical extracted text. All pages were compared as rendered images; the largest mean absolute per-channel pixel difference for any page was 1.63 on a 0-255 scale, reflecting decoder/color conversion differences. The photographed content is retained. Figure 6 was visually inspected after conversion. The original is preserved.
+Original: ../fatima-photo-analysis-20261027/dalleur-2021.pdf
+Compatible: ../fatima-photo-analysis-20261027/dalleur-2021-compatible.pdf
+
+Assessment
+Dalleur has offered specific defenses of his construction and of the features he identifies. Treating the method as automatically impossible because the ground is sloped, or saying all his examples are CGI, is inaccurate. Grant's simulation and questions about feature selection and combined uncertainty remain substantive issues. Other supportive writers strengthen the documented debate around the argument, but their agreement should not be counted as separate experimental replications.

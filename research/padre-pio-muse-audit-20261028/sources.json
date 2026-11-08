@@ -1,0 +1,247 @@
+{
+  "retrieved": "2026-10-28",
+  "sources": [
+    {
+      "id": "MUSE",
+      "author_and_background": "Ethan Muse",
+      "type": "Essay and citation map",
+      "url": "https://motivacredibilitatis.substack.com/p/st-pio-of-pietrelcina",
+      "local_file": "muse-pio.html",
+      "access_note": "Full public article saved through public post endpoint; revised footnotes used.",
+      "bytes": 619320,
+      "sha256": "7aaa600a7980e90c68696cc5a378c9daf89d9f4d8626e994c5a51f0929faf023"
+    },
+    {
+      "id": "DIFLUMERI",
+      "author_and_background": "Gerardo Di Flumeri, Capuchin editor",
+      "type": "1995 edited collection reproducing separately authored medical reports and testimony",
+      "url": "https://www.imagomundi.biz/wp-content/uploads/2025/04/PBSO37-Le_stigmate_di_Padre_Pio_da_Pietrelcina-Gerardo_di_Flumeri.pdf",
+      "local_file": "di-flumeri-stigmate.pdf",
+      "access_note": "179 PDF pages; selected original pages visually checked; not the manuscript originals.",
+      "bytes": 9569145,
+      "sha256": "b201c3659f9178690b357016a400801dd40bcf0c8aae72fdea79ed2de7c1024e"
+    },
+    {
+      "id": "LUZZATTO",
+      "author_and_background": "Sergio Luzzatto, University of Turin historian",
+      "type": "Critical archival history; French author proofs dated 2013",
+      "url": "https://iris.unito.it/retrieve/handle/2318/144647/144588/Luzzatto%2C%20secondes%20%C3%A9preuves.pdf",
+      "local_file": "luzzatto-french-author-proofs.pdf",
+      "access_note": "509 PDF pages; selected text read. Downloaded with ?download=1 from public institutional repository. Archival originals quoted here not separately inspected.",
+      "bytes": 24535442,
+      "sha256": "a92d254c5e8f260cbc1163150488c587733bf5d86fcdc7b75e17768614dd4ac7"
+    },
+    {
+      "id": "CAMPANELLA",
+      "author_and_background": "Stefano Campanella, journalist; Voce di Padre Pio",
+      "type": "2011 press-history article quoting Le Soir of 27 October 1923",
+      "url": "https://www.vocedipadrepio.com/wp-content/uploads/2011_5_ita_5.pdf",
+      "local_file": "campanella-1919-press.pdf",
+      "access_note": "6 PDF pages; printed p56 visually checked. Original 1923 newspaper page not retrieved.",
+      "bytes": 943088,
+      "sha256": "613c58bf60cdd266c626779ab95fa5b0667a594d5a8bacffa94e5b173772bc97"
+    },
+    {
+      "id": "VIOLI",
+      "author_and_background": "Pietro Gerardo Violi, physician and scientific collaborator in canonization investigation",
+      "type": "2010 participant account of Colella investigation and quoted clinical diary",
+      "url": "https://www.padrepioesangiovannirotondo.it/piosgr/il-miracolo-della-canonizzazione-di-padre-pio/",
+      "local_file": "violi-colella.html",
+      "access_note": "Full public page saved; not complete patient chart or signed panel opinions.",
+      "bytes": 126668,
+      "sha256": "5084e24067217e151b58275de0b9fb8bba33d6d535235da030835043de8e4c89"
+    },
+    {
+      "id": "VATICAN",
+      "author_and_background": "Holy See",
+      "type": "Official canonization biography and process chronology",
+      "url": "https://www.vatican.va/news_services/liturgy/saints/ns_lit_doc_20020616_padre-pio_en.html",
+      "local_file": "vatican-canonization.html",
+      "access_note": "Confirms formal process; not a clinical chart.",
+      "bytes": 13396,
+      "sha256": "c78de734222546e81dc04d0df0462f1f3f5d9a74322d9b4e063e97e2ef51cd46"
+    },
+    {
+      "id": "CASTELLI_PREVIEW",
+      "author_and_background": "Francesco Castelli, Church historian; 2011 biography identifies Romano Guardini Institute, Taranto",
+      "type": "Public preview of Padre Pio Under Investigation",
+      "url": "https://www.everand.com/book/674147314/Padre-Pio-Under-Investigation-The-Secret-Vatican-Files",
+      "local_file": "castelli-everand-preview.html",
+      "access_note": "Approximately 5218 words of public preview, NOT full book or complete Rossi report.",
+      "bytes": 1132281,
+      "sha256": "45c5af0c4eec82ac5d618b07193241665789c5a39fe87cb6cbbfa87d59864b49"
+    },
+    {
+      "id": "CANIATO",
+      "author_and_background": "Riccardo Caniato",
+      "type": "Ares publisher excerpt summarizing the Rossi investigation defense",
+      "url": "https://www.edizioniares.it/wp-content/uploads/2022/02/padre_pio_stimmate.pdf",
+      "local_file": "caniato-ares-excerpt.pdf",
+      "access_note": "Two PDF pages, printed pp72–75; secondary summary, not Castelli original book.",
+      "bytes": 214541,
+      "sha256": "5949ed3d00a34347af70192a1598b78f8e1d121562445734fc3a5cfc27c456f9"
+    },
+    {
+      "id": "CACCI0PPOLI",
+      "author_and_background": "Giovanni Caccioppoli, compiler",
+      "type": "Heavenly Facts and Words of Wisdom, 2019",
+      "url": "https://www.caccioppoli.com/Heavenly%20Facts.%20June%202019.pdf",
+      "local_file": "caccioppoli-heavenly-2019.pdf",
+      "access_note": "162 PDF pages; selected entries and citations checked as leads, underlying cited books not all obtained.",
+      "bytes": 1628226,
+      "sha256": "29bee3aa6058cffe612eca64553a0f712c683ffbf9d3c6bf6a1b05af073c7b8c"
+    },
+    {
+      "id": "DALLAIRE",
+      "author_and_background": "Glenn Dallaire, devotional writer",
+      "type": "2010 healing compilation explicitly cited by Muse",
+      "url": "https://www.miraclesofthesaints.com/2010/10/miraculous-cures-in-lives-of-saints.html",
+      "local_file": "savino-dallaire-2010.html",
+      "access_note": "Public page saved; late account, original hospital document and Meyer circular not obtained.",
+      "bytes": 80316,
+      "sha256": "0e7506bd4e7263b3ba8b5881a0e921a8fb8168a71047728f574a9444a2132bd1"
+    },
+    {
+      "id": "PROULX1994",
+      "author_and_background": "François Proulx and colleagues, Pediatrics, Sainte-Justine Hospital/Université de Montréal",
+      "type": "Pediatric multiple organ failure cohort comparator",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8205810/",
+      "local_file": null,
+      "access_note": "Bibliographic/abstract discovery; full text not reviewed; no Colella-specific risk calculated."
+    },
+    {
+      "id": "PROULX1996",
+      "author_and_background": "François Proulx and colleagues, Pediatrics, Sainte-Justine Hospital/Université de Montréal",
+      "type": "Pediatric sepsis/MODS cohort comparator",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8635327/",
+      "local_file": null,
+      "access_note": "Abstract reviewed; full text not reviewed; no matched Colella cohort established."
+    },
+    {
+      "id": "LETEURTRE1999",
+      "author_and_background": "Stéphane Leteurtre and colleagues; institutional affiliations not independently checked in this pass",
+      "type": "Pediatric organ-dysfunction score-development comparator",
+      "url": "https://doi.org/10.1177/0272989X9901900408",
+      "local_file": null,
+      "access_note": "Abstract reviewed; no full text or case-specific application."
+    },
+    {
+      "id": "VIOLI_CONSIGLIA",
+      "author_and_background": "Pietro Gerardo Violi, physician and scientific collaborator in Pio investigations",
+      "type": "Participant medical-investigation account",
+      "url": "https://www.padrepioesangiovannirotondo.it/piosgr/il-miracolo-della-beatificazione-di-padre-pio/",
+      "local_file": "violi-consiglia.html",
+      "access_note": "Public full text; quotes imaging and discharge diagnosis, not original film/chart.",
+      "bytes": 102924,
+      "sha256": "8ae88fd94d323670e0cf491f999bdc3af7580559e1edfe3d6a52ca386c3a551c"
+    },
+    {
+      "id": "GRECO_TEXT",
+      "author_and_background": "Joe Greco, named lay eyewitness",
+      "type": "First-person confession testimony",
+      "url": "https://padrepiodevotions.org/testimonials/",
+      "local_file": "devotions-first-person-testimony.html",
+      "access_note": "Section Your Father is All Right Now; earliest writing date not established.",
+      "bytes": 2409693,
+      "sha256": "b67714fba08d9031fef4e75410fe33da4a140a3becfc158053e81aed71beab13"
+    },
+    {
+      "id": "GRECO_FILM",
+      "author_and_background": "Joe Greco interview; original documentary production unidentified",
+      "type": "First-person documentary interview",
+      "url": "https://www.youtube.com/watch?v=UbgXRODiT04&t=935s",
+      "local_file": "joe-greco-UbgXRODiT04.en.json3",
+      "access_note": "Automatic English captions, relevant segment reviewed; uploader silencehugger, upload 2012-10-05, not established production date. Metadata and caption-derived transcript also saved; no video/audio downloaded.",
+      "bytes": 715014,
+      "sha256": "4be7707f06d2f09c3e7dedb917d3e12899153799b2d3eacab69058abfe698bbd"
+    },
+    {
+      "id": "GIFTS_IT",
+      "author_and_background": "Giovanni Caccioppoli, retired physician/psychiatrist and compiler",
+      "type": "Italian compilation with source leads",
+      "url": "https://www.caccioppoli.com/I%20Doni%20profusi%20dallo%20Spirito%20Santo%20su%20Padre%20Pio.pdf",
+      "local_file": "caccioppoli-gifts-italian.pdf",
+      "access_note": "Secondary compilation; original cited books not all recovered.",
+      "bytes": 1019457,
+      "sha256": "089993ade5e389bdfc4a01db4ac1a0e36dda2c16afc632be4a249677564ef939"
+    },
+    {
+      "id": "SCSS_LEUVEN",
+      "author_and_background": "Albrecht Betrains and colleagues, University Hospitals Leuven",
+      "type": "2021 eight-patient case series",
+      "url": "https://doi.org/10.1093/omcr/omab029",
+      "local_file": "PMC8143671.xml",
+      "access_note": "Open full-text XML via https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8143671/fullTextXML clinical comparator, not retrospective De Martino diagnosis.",
+      "bytes": 46639,
+      "sha256": "b85b96c4792f2ff1c972059194b5a7313ad4f94ec574c348d8872110f8290838"
+    },
+    {
+      "id": "MRL_BONN",
+      "author_and_background": "Marius Vach and colleagues, principally University Hospital Bonn radiology",
+      "type": "2022 ten-patient MR lymphangiography study",
+      "url": "https://doi.org/10.1002/lio2.919",
+      "local_file": "PMC9575114.xml",
+      "access_note": "Open full-text XML via https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9575114/fullTextXML",
+      "bytes": 93285,
+      "sha256": "8987814295a9205c5989c9b3be51222e701749dcdb54addb24479fc5330fd01c"
+    },
+    {
+      "id": "HONORHEALTH",
+      "author_and_background": "Jacqueline O’Neill MD and Kevin Ranum MD, HonorHealth Internal Medicine, Arizona",
+      "type": "Clinical case poster",
+      "url": "https://www.honorhealth.com/sites/default/files/2020-09/internal-med-residency-follow-fluid-spontaneous-thoracic-duct-rupture.pdf",
+      "local_file": "honorhealth-thoracic-duct-case.pdf",
+      "access_note": "One patient, thoracentesis and MCT diet; not an untreated exact duplicate.",
+      "bytes": 338736,
+      "sha256": "aed28a8a1aaf3a13f9d716c94305279145449ca447b8a6b685d37e703333bf51"
+    },
+    {
+      "id": "POLTAWSKA_ACCOUNT",
+      "author_and_background": "Wanda Półtawska, Polish physician; account reprinted in devotional pamphlet",
+      "type": "Attributed first-person account",
+      "url": "https://www.pamphletstoinspire.com/nl/_files/ugd/a84285_09f559e37ea944db8d4cdaf541641421.pdf",
+      "local_file": "poltawska-personal-account.pdf",
+      "access_note": "Two PDF pages; original publication provenance not established; editorial text distinct from first-person text.",
+      "bytes": 903383,
+      "sha256": "eae42f124083901a5888351f5eb3d2d1b1257d71c40f8da3a9f4c81ef585e818"
+    },
+    {
+      "id": "WOJTYLA_FACSIMILES",
+      "author_and_background": "Bishop Karol Wojtyła, later Pope John Paul II",
+      "type": "Reproduced handwritten request and thanks",
+      "url": "https://caccioppoli.com/Close%20encounters%20of%20a%20special%20kind%20with%20Padre%20Pio%20around%20the%20world%2C%20without%20leaving%20the%20convent..html",
+      "local_file": "poltawska-letters-facsimile-page.html",
+      "access_note": "Request and thanks jpgs also saved and visually checked; thanks dated 1962-11-28; date not visible in request crop.",
+      "bytes": 54255,
+      "sha256": "6f8fc39ab45c98f96bc9fc63b3d5354a7aa3559758b13a349fa536c60c9a108f"
+    },
+    {
+      "id": "RAI_ARCHIVE",
+      "author_and_background": "Filippo Anastasi, formerly head of religious news, Radio Rai",
+      "type": "Archive-audio programme lead",
+      "url": "https://www.raiplaysound.it/programmi/padrepio-lasuavoceelasuastoria",
+      "local_file": null,
+      "access_note": "Official programme metadata read through web tool. Direct HTML download failed 559. Audio not reviewed or transcribed."
+    },
+    {
+      "id": "SPADA_HISTORY",
+      "author_and_background": "Padre Pio Foundation of America, preserving founder Marge Spada’s account",
+      "type": "Institutional/devotional preservation of witness accounts",
+      "url": "https://padrepio.com/about/history/",
+      "local_file": "foundation-spada-history.html",
+      "access_note": "Post-death fragrance, handkerchief and household reports; not physical authentication of object origin.",
+      "bytes": 137852,
+      "sha256": "9bb896fa10fd376584609616017d601f71cdc180ec759e5de0b90479399992c7"
+    },
+    {
+      "id": "ABRESCH_CASTELLO",
+      "author_and_background": "Padre Pio Devotions, 2014 accounts of photographer Friedrich Abresch and priest Nello Castello",
+      "type": "Institutional/devotional preservation of witness accounts",
+      "url": "https://padrepiodevotions.org/issue-61-october-december-2014/",
+      "local_file": "confession-abresch-castello-2014.html",
+      "access_note": "Later account; original Abresch written testimony and Castello source not separately obtained.",
+      "bytes": 646920,
+      "sha256": "12dcaa083a07d46b9e105bccb533d88a85faf40d2410d35977025219d60c2eb3"
+    }
+  ]
+}

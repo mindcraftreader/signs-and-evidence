@@ -1,0 +1,98 @@
+SHROUD OF TURIN — SCIENTIFIC DATING ASSESSMENT
+26 October 2026
+
+JUDGMENT
+On the currently reviewed scientific dating evidence, I give greater weight to a
+medieval age indicated by the 1988 radiocarbon measurements than to a first-century
+age inferred from alternative aging methods plus a repaired-corner explanation.
+This is a qualitative judgment about evidential weight, not a calculated probability,
+and not a judgment about whether the Resurrection happened.
+
+WHY THE RADIOCARBON RESULT CURRENTLY CARRIES MORE WEIGHT
+Radiocarbon dating measures an age-dependent isotopic ratio using an extensively
+developed archaeological dating method. In this case, three laboratories used
+different preparation procedures and measured comparison textiles with known ages.
+All reported medieval measurements, although the Shroud results were heterogeneous.
+The entire Shroud allocation came from one corner strip: three laboratories are
+not three independent locations on the cloth. That shared sampling weakness matters.
+The measurements were made in 1988 and published in 1989, not 1984. [C14-1989]
+
+THE REPAIR ARGUMENT IS A SUBSTANTIVE CHALLENGE, NOT A SETTLED FACT
+Rogers reported compositional differences, including cotton and a gum/dye coating,
+and interpreted the dating region as replacement cloth. If that interpretation is
+correct, a perfectly accurate measurement of the sampled carbon could still be an
+inaccurate date for the main cloth. Known fire patches elsewhere do not establish
+an invisible repair in this corner. The proportions and distribution of newer fibers
+would need to account quantitatively for the measured results. [ROGERS-2005]
+
+The April 2026 study of retained Arizona fragments provides direct counterevidence:
+the examined fragments contained flax with matching structural characteristics;
+no cotton was observed and the inspected surfaces lacked significant contamination.
+This is not a new radiocarbon date and its limited microscopic sampling cannot rule
+out every local anomaly. It nevertheless makes treating a mixed-cotton replacement
+as established scientifically unjustified. [FRAGMENTS-2026]
+
+Mass-spectrometry criticism and a published response are included together in this
+folder; neither should be presented as the last word without reading the other.
+[BELLA-2015; ROGERS-REPLY-2016]
+
+WHAT THE NEWER METHODS ADD
+Fanti and colleagues reported a combined mechanical/FTIR/Raman estimate of AD 90
+plus or minus 200 years at their stated 95% confidence. The individual estimates
+were approximately 250 BC, AD 30 and AD 260. Those are positive published findings
+supporting antiquity, not merely philosophical objections to the radiocarbon test.
+They use calibrated material-aging proxies, however. The spectroscopy calibration
+used eight selected FTIR textiles and eleven Raman textiles; the mechanical
+calibration used eleven selected textiles. Selection and the effects of temperature,
+humidity, treatment and contamination therefore require scrutiny. A correlation in
+a small selected calibration set is not the same as broad independent validation of
+the date of an unfamiliar, heavily handled archaeological textile. [FTIR-RAMAN-2013;
+MECHANICAL-2014; MULTIMETHOD-2015]
+
+The 2022 WAXS study reports degradation consistent with roughly two millennia and
+with a first-century Masada specimen. Its authors argue that an ordinary medieval
+storage history is difficult to reconcile with their model. That favorable result
+must be represented fairly. But the conversion from cellulose degradation to age
+requires long-term environmental assumptions. The paper specifies temperature and
+humidity conditions for thirteen undocumented centuries. It measures neither
+radiocarbon nor a unique elapsed-time clock independent of environment. A new
+method is not wrong for being new; its validation and environmental model determine
+how much weight it should carry. [WAXS-METHOD-2019; WAXS-2022]
+
+The 2026 Fanti synthesis is saved as well, but it synthesizes existing results and
+proposed mechanisms; it is not an additional independent dating experiment.
+[FANTI-SYNTHESIS-2026]
+
+STATISTICAL CRITICISM OF THE ORIGINAL DATE
+Casabianca and colleagues identify heterogeneity and challenge the original
+procedure and aggregation. That can affect confidence in the quoted narrow range
+without showing that the true date lies thirteen centuries earlier. Dating a
+replacement would be a stronger objection than merely finding excess scatter,
+but the replacement itself must be demonstrated. The 2020 reassessment is also
+included. [RAW-2019; STATISTICS-2020]
+
+HOW THIS CHANGES THE OVERALL CONCLUSION
+The medieval date is currently the better-supported scientific age inference in
+my assessment. The quoted AD 1260–1390 interval should not be treated as though
+all sampling and statistical questions were resolved. The alternative studies keep
+an ancient date under investigation, but do not collectively overturn the medieval
+measurements merely because several newer estimates favor antiquity. Several share
+researchers, material sources or environmental-aging issues, so they are not simply
+independent votes to be counted or averaged together.
+
+WHAT WOULD MOST CHANGE THIS ASSESSMENT
+Fresh, well-characterized samples from several original-cloth locations, analyzed
+by multiple laboratories with documented handling and explicit repair/coating
+checks, would address the main shared vulnerability. Blinded validation of the
+alternative methods on representative known-age textiles with varied treatments
+and environments would strengthen their comparative weight. An ancient linen date
+would still date the material rather than independently establish the identity of
+its former occupant or the cause and date of its image.
+
+SOURCE ACCESS
+Source IDs refer to shroud-sources/sources.json, sources.csv and the searchable
+index.html. Each entry has an individual note with the DOI/URL, qualifications and
+download status. Saved PDF copies are in shroud-sources/papers/. The authorized
+public reprint of the original radiocarbon paper is also saved as HTML where possible.
+Links-only records are explicitly labeled; an unavailable full text is not represented
+as a downloaded paper. Existing image references remain linked to their providers.

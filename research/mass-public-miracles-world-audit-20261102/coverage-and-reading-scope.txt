@@ -1,0 +1,7 @@
+Languages used for discovery: English, Arabic, Chinese, Hebrew, Hindi, Japanese, Indonesian and Bengali. This was targeted public-web and archive discovery, not a complete search of newspaper runs or a new university-database pass.
+
+Original videos were not independently played or authenticated. CCTV official player metadata was recovered. Government Putuo PDF excerpts were read through search retrieval, not the complete PDF. Tan's publisher description and an indexed case lead were inspected, not the full chapter. Azusa's publication index was read, not the complete thirteen issues. Timor reporting was inspected in selected passages. Downloading HTML does not by itself mean full substantive reading.
+
+The AP direct download returned a client challenge and was relabeled. AP article text was read through the web research tool. The official Mahim PDF download failed and was not read. The Al-Ahram direct download failed; web-extracted text was inspected. These limitations are retained in the source register.
+
+No laboratory authentication is inferred from a newspaper, official chronicle or academic discussion of a community's beliefs. Cases are not counted as proved false merely because documentation remains incomplete. No numerical tally was changed.

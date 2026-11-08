@@ -1,0 +1,415 @@
+{
+  "created": "2026-11-04",
+  "scope": "Shroud-specific Jenga blocks, separated from the existing modern-miracle debate tally. Historical source assessments retained verbatim; they are not automatically converted into scored victories.",
+  "rules": [
+    "Keep an evidentiary claim separate from a challenge against that claim.",
+    "State the exact proposition and the reason it matters before debating it.",
+    "Use sustained, defeated, narrowed, or open as outcomes, with the supporting reasoning.",
+    "A failed objection counts against that objection; do not silently enlarge the conclusion.",
+    "Credit recorded concessions without forcing them to be reargued.",
+    "Do not count overlapping restatements as independent victories or convert counts directly into probabilities.",
+    "Keep peripheral findings distinct from challenges to core claims.",
+    "Do not attribute an assistant qualification to Daniel as his concession unless he accepted it.",
+    "Preserve old outcomes when substantive new evidence warrants reopening a challenge."
+  ],
+  "background": "Carry forward the bounded Marian-intervention assessment recorded in marian-cumulative-statement-20261104.txt. Do not start again from a negligible supernatural prior.",
+  "blocks": [
+    {
+      "block_id": "01",
+      "title": "One sampled region is not three regions",
+      "recorded_assessment": "Conceded. Calling this three independent samples of the whole cloth overstates the evidence. It remains stronger than one laboratory measurement of that region.",
+      "new_scored_challenge": false
+    },
+    {
+      "block_id": "02",
+      "title": "The cloth has a documented repair history",
+      "recorded_assessment": "Established. This makes repair a concrete issue to investigate, rather than a repair invented solely to evade the date. It does not locate a medieval replacement in the exact 1988 strip.",
+      "new_scored_challenge": false
+    },
+    {
+      "block_id": "03",
+      "title": "Material differences support an atypical region",
+      "recorded_assessment": "Positive evidence exists for your objection. Neither study measured the replacement fraction needed to produce the medieval date or mapped a complete repair boundary. Rogers also stated that the soluble gum would be removed by the carbon laboratories’ pretreatment; gum alone is not his full explanation.",
+      "new_scored_challenge": false
+    },
+    {
+      "block_id": "04",
+      "title": "The interior mechanical collection matters",
+      "recorded_assessment": "Conceded as a collection-location advantage against a corner-specific repair. Loose fibers can move between cloth and backing. Better location, secure fiber identity and a well-validated dating method are three separate questions.",
+      "new_scored_challenge": false
+    },
+    {
+      "block_id": "05",
+      "title": "The body image is not ordinary painted linen",
+      "recorded_assessment": "A substantial constraint on simple painting explanations. This does not mean that no pigment exists anywhere on the cloth, or that every proposed artificial process uses paint.",
+      "new_scored_challenge": false
+    },
+    {
+      "block_id": "06",
+      "title": "The coloration is remarkably superficial",
+      "recorded_assessment": "Supported, with measurement limits. Fiber-wall depth, thread penetration and fabric penetration are different quantities. A local microscopic estimate is not a measured statistical distribution for the entire image.",
+      "new_scored_challenge": false
+    },
+    {
+      "block_id": "07",
+      "title": "The negative appearance is the cherry on top",
+      "recorded_assessment": "A real visual feature requiring explanation. It need not imply knowledge of photography; some transfer processes can produce negative-like tones. Our research has not established a near-contemporary artwork matching the entire Shroud combination.",
+      "new_scored_challenge": false
+    },
+    {
+      "block_id": "08",
+      "title": "Anatomy and depth deserve a serious account",
+      "recorded_assessment": "There is published work on the relationship. It does not establish a unique, anatomically perfect three-dimensional scan. A fitted head or cloth model imports assumptions; our custom model supplies no independent authentication.",
+      "new_scored_challenge": false
+    },
+    {
+      "block_id": "09",
+      "title": "No complete manufacture has been agreed upon",
+      "recorded_assessment": "Conceded: the literature does not supply an agreed complete medieval production account. “We lack a demonstrated complete method” is defensible; “every artificial method is impossible” exceeds what has been demonstrated.",
+      "new_scored_challenge": false
+    },
+    {
+      "block_id": "10",
+      "title": "Several approaches point toward antiquity",
+      "recorded_assessment": "Conceded. Agreement across different kinds of measurement is relevant. These were not four independent laboratories testing four securely mapped, pristine locations. FTIR and Raman were reported as corner threads; WAXS used material near the carbon and Raes corner.",
+      "new_scored_challenge": false
+    },
+    {
+      "block_id": "11",
+      "title": "Agreement needs an explanation if the cloth is medieval",
+      "recorded_assessment": "No single demonstrated explanation presently disposes of every ancient estimate in our review. Conversely, related cellulose aging, overlapping reference materials and uncertain histories can make errors dependent. Possible dependence is a concern to test, not proof of a shared error.",
+      "new_scored_challenge": false
+    },
+    {
+      "block_id": "12",
+      "title": "Published precision is not a universal error curve",
+      "recorded_assessment": "Our reviewed comparisons are too small and heterogeneous to establish trustworthy far-tail probabilities. A reported mechanical check about 82 years from its reference and selected WAXS checks averaging about 40 years are not validated error distributions for all ancient linen. See the local dating workbook and probability audit.",
+      "new_scored_challenge": false
+    },
+    {
+      "block_id": "13",
+      "title": "The astronomical odds were not established",
+      "recorded_assessment": "The earlier conditional figure of 9 × 10⁻²⁰¹ is not a defensible actual chance of a medieval cloth. Our leave-one-out mechanical recalculation also produced one error about 1,330 years too old. That is a calculation from published data, not a new lab experiment; it shows why the favorable checks cannot define a universal narrow bell curve.",
+      "new_scored_challenge": false
+    },
+    {
+      "block_id": "14",
+      "title": "The relic interpretation has an existing framework",
+      "recorded_assessment": "That is a coherent cumulative argument. We have not independently audited every philosophical, prophetic and historical argument mentioned in the chat. Christianity’s cultural importance explains the stakes but does not itself authenticate the cloth.",
+      "new_scored_challenge": false
+    },
+    {
+      "block_id": "15",
+      "title": "The binary needs a precise definition",
+      "recorded_assessment": "The first statement is a true binary. The narrower pair does not exhaust every possible history: for example, an ancient cloth with a later image would fall outside it. Such possibilities are not established explanations, but cloth age, identity and image cause remain distinct questions.",
+      "new_scored_challenge": false
+    },
+    {
+      "block_id": "16",
+      "title": "Relevant descriptions predate Lirey",
+      "recorded_assessment": "A substantial omitted supporting strand. Twelve texts are not twelve independent eyewitnesses or a continuous custody chain. Face-only accounts must remain face-only; the Pray Codex’s proposed Turin connection is disputed. John 20 supplies burial-cloth context without explicitly identifying the Turin image. [15, 16]",
+      "new_scored_challenge": false
+    },
+    {
+      "block_id": "17",
+      "title": "The medieval allegation deserves equal attention",
+      "recorded_assessment": "It must be weighed rather than omitted. The surviving account is retrospective; it does not supply a named maker’s signed confession or a manufacturing recipe. Its transmission and the papal texts require source criticism. Permission for restricted display was not scientific authentication. [17, 18]",
+      "new_scored_challenge": false
+    },
+    {
+      "block_id": "18",
+      "title": "A capable workshop is not an identified maker",
+      "recorded_assessment": "General medieval incapacity is too strong; an exceptional anonymous maker is historically possible. However, the proposed Évrard d’Orléans connection has no recovered Shroud commission or Charny link. Painted linen comparisons also supply no representative microscopic-depth distribution from which to calculate the Shroud’s rarity. See the local workshop and linen reports.",
+      "new_scored_challenge": false
+    },
+    {
+      "block_id": "19",
+      "title": "Skilled historical reweaving was real",
+      "recorded_assessment": "Conceded: sophisticated repair is not a modern invention. We did not establish a documented convent transmission chain or an exact period demonstration of microscopically invisible repair in this fine herringbone. Patches, linings, tapestry repair and replacement of the original weave are different operations.",
+      "new_scored_challenge": false
+    },
+    {
+      "block_id": "20",
+      "title": "Preservation and handling must be interpreted locally",
+      "recorded_assessment": "Overall condition does not prove uniform original material. The lining date does not establish that every earlier display was unsupported or that handling stopped in 1534. Fire and water marks document exposure, not uniform heat or continuous damp storage. The 1997 rescue involved a protected enclosure, rather than the bare cloth surviving another direct burning.",
+      "new_scored_challenge": false
+    },
+    {
+      "block_id": "21",
+      "title": "Pollen and DNA are a separate provenance strand",
+      "recorded_assessment": "They do not uniquely establish a first-century Palestinian origin. Pollen identification and deposition dates are disputed; mixed DNA includes later contamination. The 2026 study also carbon-dated two loose reliquary threads to repair-era ranges. Those are additional carbon tests, but not new dates of securely located original image-bearing linen. [24]",
+      "new_scored_challenge": false
+    },
+    {
+      "block_id": "22",
+      "title": "The injury pattern and blood add constraints",
+      "recorded_assessment": "The numerous marks and their distribution raise the explanatory burden for a statue or relief account. A model matching the body outline still needs an account of the detailed wound pattern, blood behavior, materials and sequence. The number of marks alone does not quantify how much less likely a statue becomes: a proposed sculpted source could itself depict wounds, and related marks are not independent diagnoses. Forensic authors also disagree on some anatomical reconstructions. [27, 28]",
+      "new_scored_challenge": false
+    },
+    {
+      "block_id": "22a",
+      "title": "Reported AB correspondence with Lanciano",
+      "recorded_assessment": "The supported wording is reported AB, not established AB-negative. The cited Shroud study tests the ABO system and does not establish Rh status. Shared ABO type cannot establish a common individual donor. Kearse challenges the specificity of old-material serology because microbes can express A/B-reactive structures; Serafini defends the historical tests and their controls, and Kearse responds. The correspondence remains a conditional supporting observation pending stronger validation, rather than an independently authenticated blood match. [29–33]",
+      "new_scored_challenge": false
+    },
+    {
+      "block_id": "23",
+      "title": "Occam asks about explanatory unity",
+      "recorded_assessment": "Conceded as the right cumulative challenge. A single process explaining several features deserves credit; correlated features cannot be multiplied as independent improbabilities. Neither an unnamed genius nor an omnipotent creator is a complete discriminating explanation by itself. The Christian explanation must remain eligible without a zero prior, and both sides must state which observations their proposed history actually explains.",
+      "new_scored_challenge": false
+    },
+    {
+      "block_id": "24",
+      "title": "Historical checkpoints predate modern investigation",
+      "recorded_assessment": "The basic image and recognizable features existed centuries before Pia photographed the Shroud in 1898. Photography revealed its striking negative-like appearance and made some details easier to recognize; it did not first make the body image visible. This block supports continuity across the documented period. Its reach does not extend by itself to a first-century date or to identifying an earlier ambiguous relic.",
+      "new_scored_challenge": false
+    }
+  ],
+  "opening_position": {
+    "claim": "Three laboratories did not test three separated Shroud regions.",
+    "status": "previously_conceded",
+    "scope": "Independent laboratory checks of a shared sampled region; not three-location representativeness.",
+    "score_added_to_existing_tally": false
+  },
+  "next_challenge": {
+    "id": "S-REPAIR-01",
+    "target_blocks": [
+      "02",
+      "03",
+      "19",
+      "20"
+    ],
+    "proposition_to_test": "The available sample-specific evidence makes substantial replacement in the 1988 dated strip more likely than original cloth.",
+    "status": "open_not_adjudicated",
+    "why_core": "Affects whether the medieval date should be applied to the main linen.",
+    "evidence_for": "Rogers material differences; actual repair history and historical repair skill.",
+    "evidence_against": "Compatible flax, weave, twist and counts in retained pieces; no substantial coating or cotton found in the examined 2026 material; substantial replacement fraction required in illustrative mixing calculation.",
+    "limits": "Rogers and the retained-fragment studies do not examine identical specimens or map the entire consumed strip. Matching weave does not alone exclude matched-linen replacement. No score assigned."
+  },
+  "score_note": "No numerical Shroud total has been retrospectively invented; the existing modern-miracle tally is unchanged.",
+  "separate_carbon_date_challenges": [
+    {
+      "id": "S-REPAIR-01",
+      "claim": "The dated region contains substantial younger replacement material.",
+      "status": "open_not_adjudicated"
+    },
+    {
+      "id": "S-IRRADIATION-01",
+      "claim": "Historical irradiation altered the isotope content of original material, causing an artificially young radiocarbon age.",
+      "status": "open_not_adjudicated",
+      "source": "https://doi.org/10.17352/ahcrr.000044",
+      "researcher": "Giulio Fanti, Department of Industrial Engineering, University of Padua",
+      "direct_observation": "Preliminary beta-channel activity attributed to a blood-bearing specimen, with glass/background controls described.",
+      "missing_link": "Isotope-specific identification and quantitative evidence of added C14 retained in dated linen after pretreatment, sufficient to account for 1988 ratios.",
+      "scope_note": "Even demonstrating original textile in the carbon strip would not alone dispose of this distinct hypothesis. These are alternative proposals, not two independently established historical events."
+    }
+  ],
+  "discussion_updates": [
+    {
+      "date": "2026-11-04",
+      "user_argument": "A medieval-origin explanation must account for the ancient-compatible results across the other dating approaches, alongside both repair and irradiation explanations of the carbon result; the corner argument cannot be assessed as if radiocarbon were the only age evidence.",
+      "assistant_response": "Accepted as the scope required for the overall chronology comparison. Four main newer method families are FTIR, Raman, mechanical and WAXS; reused analyses are not additional independent clocks. Several medieval-versus-ancient discrepancies are large relative to reported conditional uncertainties, but external error distributions and dependence are not established. The mechanical reference reanalysis with an approximately 1330-year old-direction discrepancy is concrete counterevidence to universal narrow predictive accuracy; it does not dispose of WAXS or establish a common bias.",
+      "score_effect": "No challenge closed or point awarded; repair and irradiation branches remain open."
+    },
+    {
+      "date": "2026-11-04",
+      "topic": "Image comparisons, faintness and negative-like tonality",
+      "recorded_outcomes": [
+        {
+          "claim": "Medieval paintings demonstrate equivalent Shroud spatial fidelity.",
+          "outcome": "Not established; the assistant acknowledges these paintings do not defeat that geometric block."
+        },
+        {
+          "claim": "A maker intending public veneration would have little reason to make the image faint.",
+          "outcome": "Assistant withdrew this objection after Daniel noted that a faint trace could serve a simulated burial cloth."
+        },
+        {
+          "claim": "Negative-like tones necessarily require a maker to understand photography or a separate extraordinary accident.",
+          "outcome": "Relief rubbing supplies a partial ordinary mechanism for negative-like tones; full combination remains unresolved."
+        }
+      ],
+      "score_effect": "Qualitative outcomes recorded; no user-approved numerical Shroud score invented."
+    },
+    {
+      "date": "2026-11-05",
+      "topic": "Daniel clarifies uncertainty and residual neutron-irradiation possibility",
+      "user_statement": "I would also say i'm undecided or atleast I fully acknoledge the jenga blocks could be answered. But the fanti claim is hard to disprove which would leave a thread of hope even with 5 random sample carbod dating",
+      "position_recorded": "Undecided/open; acknowledges Jenga blocks could be answered. Do not characterize Daniel as certain of authenticity.",
+      "analyst_distinction": "Consistent medieval dates across original linen at separated locations would strengthen medieval dating and weaken a local-repair explanation. Neutron-induced carbon-14 is a separate, testable physical hypothesis; Fanti's preliminary beta counts do not identify the isotope or quantify an age correction. Specific irradiation models can be constrained by spatial and isotope-specific tests.",
+      "new_numerical_tally_assigned": false
+    }
+  ],
+  "intersection_map": "shroud-jenga-tally-intersection-20261104.txt",
+  "research_updates": [
+    {
+      "id": "spatial-geometry-deep-dive-20261105",
+      "completed": "2026-11-05",
+      "block_ids": [
+        "07",
+        "08",
+        "09",
+        "18"
+      ],
+      "report": "shroud-spatial-geometry-deep-dive-20261104/assessment.txt",
+      "analyst_assessments": [
+        {
+          "claim": "Meaningful tonal/spatial structure",
+          "assessment": "sustained",
+          "evidence": [
+            "S01",
+            "S02"
+          ],
+          "scope": "Reported sampled association and body/cloth-compatible structure, not uniquely recovered original anatomy."
+        },
+        {
+          "claim": "The raw photograph produces a metrically perfect full-body scan",
+          "assessment": "not_established",
+          "evidence": [
+            "S01",
+            "S02",
+            "S04",
+            "S05"
+          ],
+          "scope": "Raw broad relief needed correction; reconstruction requires cloth, transfer function, anatomical and registration assumptions."
+        },
+        {
+          "claim": "Cloth-corrected body compatibility",
+          "assessment": "supported_with_model_dependence",
+          "evidence": [
+            "S02",
+            "S04",
+            "S05",
+            "S13"
+          ],
+          "scope": "Affirmative fit under selected conditions. Competing posture and endpoint definitions remain."
+        },
+        {
+          "claim": "No artwork can produce useful depth-encoded tones",
+          "assessment": "counterexample_to_absolute_claim",
+          "evidence": [
+            "S08",
+            "S09"
+          ],
+          "scope": "Craig/Bresee drawing reports R2=.59 at 33 features; not a directly comparable full-body Shroud replication."
+        },
+        {
+          "claim": "A single simulated drape rules out every real-body origin",
+          "assessment": "not_sustained",
+          "evidence": [
+            "S02",
+            "S04",
+            "S10",
+            "S13"
+          ],
+          "scope": "Moraes tests chosen simulation. Latendresse supplies real scan-based alternative with its own unvalidated transfer assumptions."
+        },
+        {
+          "claim": "No reviewed process explains all relevant properties together",
+          "assessment": "retained",
+          "evidence": [
+            "S01",
+            "S09",
+            "S10",
+            "S17",
+            "S18"
+          ],
+          "scope": "This audit does not demonstrate a complete manufacture or quantify global impossibility."
+        }
+      ],
+      "tally_effect": {
+        "modern_case_numerical_tally_changed": false,
+        "new_shroud_numerical_score_assigned": false,
+        "user_concession_inferred": false
+      },
+      "replication_limits": [
+        "No Blender execution",
+        "No original Shroud depth ground truth",
+        "Full 2026 commentary texts not obtained",
+        "CT article abstract only",
+        "Latendresse peer-reviewed publication independently unverified"
+      ]
+    },
+    {
+      "id": "waxs-deep-dive-20261105",
+      "completed": "2026-11-05",
+      "block_ids": [
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "report": "shroud-waxs-deep-dive-20261105/assessment.txt",
+      "analyst_assessment": {
+        "conditional_ancient_evidence": "retained and quantitatively reproduced",
+        "ordinary_medieval_europe_model": "strong mismatch to measured AP under published assumptions",
+        "general_calendar_reliability_for_unknown_exposure": "not established by located validation",
+        "empirical_ordinary_explanation_of_actual_shroud_AP": "not established",
+        "four_non_anchor_checks": "positive within-study evidence; mean gap40yr, average95%width602.5yr",
+        "screening_limit": "Known modern bleached control passes preliminary R>4 criterion; suitability requires more information."
+      },
+      "new_numerical_tally_assigned": false,
+      "user_concession_inferred": false
+    },
+    {
+      "id": "mechanical-ftir-raman-deep-dive-20261105",
+      "completed": "2026-11-05",
+      "block_ids": [
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "report": "shroud-other-dating-deep-dive-20261105/assessment.txt",
+      "analyst_assessment": {
+        "completed": "2026-11-05",
+        "mechanical": {
+          "ancient_shroud_estimate": "retained as conditional positive evidence",
+          "successful_published_holdout": "Masada AD65 -> AD147, gap82 years",
+          "analyst_recalculated_holdout": "Sample D AD575 -> approx 758BC, 1332-year ancient error; nominal three-channel inverse regression from rounded Table2",
+          "universal_108_year_predictive_sigma": "not established",
+          "2017_full_text_access": "institutional abstract only; custodian objections separately attributed"
+        },
+        "ftir": {
+          "ancient_shroud_estimate": "retained under correction/calibration choices",
+          "analyst_two_ratio_nominal_holdout_MAE_years": 364.7939242163181,
+          "2025_study": "actual heat/irradiation experiments; reuses Shroud spectrum, not new Shroud dating",
+          "absolute_modern_control_dates": "not admissible as calendar-validation failures; authors restrict experiment to relative changes",
+          "covariance": "shared spectral bands; actual error correlations not estimated"
+        },
+        "raman": {
+          "ancient_shroud_estimate": "supporting conditional indication, weaker precision",
+          "2016_followup": "supports spectral aging, not blind validation of original calendar formula",
+          "2015_uncertainty_table": "standard250 versus expanded400 despite stated factor2; unresolved inconsistency"
+        },
+        "waxs": "prior audit carried forward unchanged",
+        "combined_authenticity_probability": "not established",
+        "ordinary_process_reproducing_all_actual_shroud_aging_measurements": "not established",
+        "new_numerical_tally_assigned": false,
+        "user_concession_inferred": false
+      },
+      "new_numerical_tally_assigned": false,
+      "user_concession_inferred": false
+    },
+    {
+      "id": "neutron-testability-20261105",
+      "completed": "2026-11-05",
+      "report": "shroud-neutron-testability-20261105/assessment-and-test-plan.txt",
+      "related_topics": [
+        "carbon dating",
+        "replacement",
+        "irradiation",
+        "model falsifiability"
+      ],
+      "analyst_assessment": {
+        "fanti_beta_measurements": "Testable experimental lead; isotope source and quantitative linen age correction not established.",
+        "rucker_spatial_prediction": "2018/2020 model predicts strong location differences, including apparent future radiocarbon dates near elbows. Numerical map is version-specific.",
+        "author_accepts_negative_tests": "Rucker 2019 explicitly says statistically significant negative isotope results are evidence against the hypothesis.",
+        "current_model_issue": "2026 manuscripts fit unknown positions to existing data; a frozen current prediction map and rejection criteria are needed before new tests.",
+        "isotope_background": "Natural and anthropogenic backgrounds, composition and retention must be considered.",
+        "completed_independent_shroud_wide_validation": "Not located in bounded search; proposals and laboratory analogues are not actual Shroud-wide verification."
+      },
+      "new_numerical_tally_assigned": false,
+      "user_concession_inferred": false
+    }
+  ]
+}

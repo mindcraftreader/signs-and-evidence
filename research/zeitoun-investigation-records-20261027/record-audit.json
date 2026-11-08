@@ -1,0 +1,239 @@
+{
+  "title": "Zeitoun original-investigation and healing-record audit",
+  "date": "2026-10-27",
+  "sources": [
+    {
+      "id": "GOV",
+      "title": "Ministry of Tourism, Department of Inquiries report",
+      "author": "William Farid Basili, Director of Inquiries and Complaints",
+      "date": "1968-04-30",
+      "url": "https://ourladyofzeitoun.com/en/report/ministry-of-tourism-department-of-inquiries/",
+      "material": "Six Arabic page scans, including signed final page; modern English transcription.",
+      "review": "All six Arabic scans visually inspected. Cutoff wording checked directly on page 3; author, role, date and signature checked on page 6. Not an independent authentication of the physical paper or signature."
+    },
+    {
+      "id": "COM",
+      "title": "First patriarchal investigative committee report",
+      "author": "Hegumens Guirguis Matta, Youhanna Abdel-Messih, Benjamin Kamel",
+      "date": "1968-04-30",
+      "url": "https://ourladyofzeitoun.com/en/report/report-of-the-committee-formed-by-his-holiness-the-pope-to-verify-the-authenticity-of-the-apparitions-of-the-virgin-mary/",
+      "material": "Four Arabic printed-page scans and modern English transcription.",
+      "review": "All four scans visually inspected. They reproduce a dated report with names under a signatures heading, not three visually identifiable handwritten original signatures. Arabic calls the men priests; modern English mistranslates some titles as bishop/archbishop."
+    },
+    {
+      "id": "MATTA",
+      "title": "A case report concerning Wagih Rizk Matta",
+      "author": "Dr Zarif Bishara Rizk, FRCS, MRCOG; consultant surgeon and gynaecologist, Manchiet El Bakry Hospital, Cairo, as printed on the report",
+      "date": "May 1968; handwritten day appears to be 15, requiring higher-quality confirmation",
+      "url": "https://ourladyofzeitoun.com/en/eyewitness/waguih-rizk-matta/",
+      "material": "Legible image of a typed English medical report with reproduced signature, plus modern account.",
+      "review": "Entire typed report visually read. A copy/reproduction has been inspected, not the physical original. No independent credential or signature authentication claimed."
+    },
+    {
+      "id": "BOOK",
+      "title": "St. Mary’s Apparitions at the Coptic Orthodox Church of Zeitun, Cairo",
+      "author": "Fawzi Mansour / papal documentation committee under Bishop Gregorios, attribution from archive",
+      "date": "1969, per archive; introduction marks first anniversary",
+      "url": "https://ourladyofzeitoun.com/en/report/st-marys-apparitions/",
+      "material": "Modern full English transcription of near-contemporary booklet.",
+      "review": "Full transcription read; original booklet scan not obtained. Contains eight selected healing summaries and refers to fuller medical files."
+    },
+    {
+      "id": "W5",
+      "title": "Watani, 5 May 1968",
+      "author": "Newspaper reporting, modern English transcription",
+      "date": "1968-05-05",
+      "url": "https://ourladyofzeitoun.com/en/newspaper/watani-newspaper-may-5-1968/",
+      "material": "English transcription and five Arabic newspaper page scans (1,2,3,5,7) saved.",
+      "review": "English text reviewed. Arabic newspaper pages preserved but the cutoff paragraph has not been independently located and translated within them. Much of the passage reproduces the Ministry narrative; not counted as an independent cutoff experiment."
+    },
+    {
+      "id": "W26",
+      "title": "Watani, 26 May 1968",
+      "author": "Massad/Masaad Sadiq/Sadek, transliteration varies",
+      "date": "1968-05-26",
+      "url": "https://ourladyofzeitoun.com/en/newspaper/watani-26-may-1968/",
+      "material": "Modern English transcription.",
+      "review": "Describes medical committee participation and calls Shafik Abdel Malik a former professor at Ain Shams Medical School. This attribution should not be silently replaced with Cairo University, as some later summaries do."
+    },
+    {
+      "id": "W2J",
+      "title": "Watani, 2 June 1968",
+      "author": "Masaad Sadek; published examinations attributed to Dr Shafiq Abdel Malek",
+      "date": "1968-06-02",
+      "url": "https://ourladyofzeitoun.com/fr/newspaper/watani-june-21968/",
+      "material": "Modern French transcription of an Arabic issue.",
+      "review": "Medical-committee procedure and William Rizk/Iyad Malak Shenouda examination passages read. Not independently translated from original Arabic. Transcription contains conspicuous date errors (an adult described as born in 1966), so precise biographical dates must not be repeated without the scan."
+    },
+    {
+      "id": "PAPAL",
+      "title": "Coptic Patriarchate statement",
+      "author": "Coptic Orthodox Patriarchate",
+      "date": "1968-05-04",
+      "url": "https://ourladyofzeitoun.com/en/report/statement-by-the-coptic-orthodox-patriarch/",
+      "material": "Modern English reproduction of the statement, attributed to Palmer translation.",
+      "review": "Saved/read; official affirmative declaration. Not a substitute for individual medical files or a power-utility record."
+    },
+    {
+      "id": "ZAKI",
+      "title": "Our Lord’s Mother Visits Egypt in 1968 & 1969",
+      "author": "Pearl Zaki",
+      "date": "Undated copy/reprint: prefatory note mentions Bishop Samuel’s death in 1981",
+      "url": "https://www.miraclehunter.com/marian_apparitions/approved_apparitions/zeitun/OLMVE.pdf",
+      "material": "35-page image PDF, locally rendered and OCRed.",
+      "review": "Relevant pages visually checked: PDF p9 / printed p5 (Atwa’s finger), PDF p26 / printed p22 (wire tearing and claimed 15-mile search). Do not label this copy a 1968 publication."
+    },
+    {
+      "id": "MUSSO",
+      "title": "University of Essex thesis, comparative Marian apparition research",
+      "author": "Valeria Cespedes Musso",
+      "date": "2017 repository thesis",
+      "url": "https://repository.essex.ac.uk/19964/1/PhD%20revisions%20MUSSO%200966602.pdf",
+      "material": "Public university PDF.",
+      "review": "Downloaded and text searched for source leads; no directly supporting clinical or cutoff record found. Not treated as an independent empirical verification."
+    }
+  ],
+  "healing_cases": [
+    {
+      "id": "H01",
+      "patient": "Wagih Rizk Matta",
+      "reported_prior_condition": "Motor-car injury on 27 June 1967; open elbow injury, fracture/dislocation, reported avulsion of biceps and brachialis; later severely restricted elbow movement.",
+      "record_found": "Reproduced typed, signed physician report, May 1968.",
+      "named_medical_personnel": "Dr Zarif Bishara Rizk; report names Manchiet El Bakry Hospital. Modern narrative also names other treating doctors.",
+      "reported_result": "Surgeon reports later full elbow flexion/extension and says he cannot medically explain it.",
+      "limitations_and_next_record": "Report describes operative care, intact artery/median nerve, failed attempt to approximate muscle, plaster, serum and antibiotics. Wound healed over 55 days. Does not date the recovery to the apparition, document the instant of recovery, supply strength testing or establish long-term follow-up. Obtain hospital records and better copy of signature/date.",
+      "sources": [
+        "MATTA",
+        "BOOK"
+      ]
+    },
+    {
+      "id": "H02",
+      "patient": "Sami Abd-el-Malek",
+      "reported_prior_condition": "Recurrent bladder carcinoma after earlier operation.",
+      "record_found": "1969 committee summary; no signed oncology file found.",
+      "named_medical_personnel": "Dr Aziz Fam, identified in booklet as professor of urology, Cairo University.",
+      "reported_result": "Summary reports negative cystoscopy/analyses and disappearance of symptoms/tumor after a sighting.",
+      "limitations_and_next_record": "Need original pathology, pre/post cystoscopy, treatment dates and later follow-up. Secondary retellings disagree on chronology; do not smooth them into one established history.",
+      "sources": [
+        "BOOK"
+      ]
+    },
+    {
+      "id": "H03",
+      "patient": "Fatma Zahi Reda",
+      "reported_prior_condition": "Thyroid disease for about four years.",
+      "record_found": "1969 committee summary; no original examination or imaging found.",
+      "named_medical_personnel": "Dr Ahmed Farouk, Government Manial Hospital, according to summary.",
+      "reported_result": "Reported recovery after husband’s prayer at Zeitoun; she reportedly remained at home.",
+      "limitations_and_next_record": "Diagnosis insufficiently specified. Need thyroid examination, laboratory/imaging results, treatments and follow-up. This is not her own visual sighting at the church.",
+      "sources": [
+        "BOOK"
+      ]
+    },
+    {
+      "id": "H04",
+      "patient": "Madiha Mohammed Said",
+      "reported_prior_condition": "Loss of sight and speech attributed to severe psychic shocks.",
+      "record_found": "1969 committee summary; no original neurological/ophthalmological files found.",
+      "named_medical_personnel": "Dr Fares Samaan, Dr Mohammed Abou-el Fath and named hospitals in the account.",
+      "reported_result": "Reported immediate restoration on 4 June 1968.",
+      "limitations_and_next_record": "Do not convert the original functional/psychological description into proven destroyed eyes or nerves. Need original diagnosis, examination and follow-up.",
+      "sources": [
+        "BOOK"
+      ]
+    },
+    {
+      "id": "H05",
+      "patient": "Insherah Amin El-Nayal",
+      "reported_prior_condition": "Severe left-leg paralysis; walking with a stick.",
+      "record_found": "1969 committee summary; no signed neurological file found.",
+      "named_medical_personnel": "Dr Abbas Azab, Dr Ali Labib, Dr Mohamad Said, per summary.",
+      "reported_result": "Reported unassisted walking after night of 29–30 April 1968.",
+      "limitations_and_next_record": "Specific underlying disease, baseline tests and follow-up missing. Do not rename the patient as her husband Mahmoud Shoukry Ibrahim or upgrade left-leg impairment to total paraplegia.",
+      "sources": [
+        "BOOK"
+      ]
+    },
+    {
+      "id": "H06",
+      "patient": "Linda Kamal",
+      "reported_prior_condition": "Hand paralysis reportedly lasting twelve years.",
+      "record_found": "1969 committee summary; no signed pre/post file found.",
+      "named_medical_personnel": "Professors Badei Guirguis, Youssef Guenena, Lotfy Basta, per summary.",
+      "reported_result": "Reported recovery during night of 1 June 1968 and later physician examination.",
+      "limitations_and_next_record": "Need diagnosis, examinations and duration of sustained recovery. The twelve-year duration belongs to this patient; modern Matta page also incorrectly uses it alongside his 1967 accident.",
+      "sources": [
+        "BOOK"
+      ]
+    },
+    {
+      "id": "H07",
+      "patient": "Dr William Nashed Zaki",
+      "reported_prior_condition": "Longstanding hernia requiring support belt.",
+      "record_found": "Physician-patient testimony reproduced in committee summary.",
+      "named_medical_personnel": "Patient identified as former director, Masarra treatment unit.",
+      "reported_result": "Reported pain relief and disappearance of hernia after 30 May visit.",
+      "limitations_and_next_record": "Need independent examination, precise hernia type, before/after evidence and follow-up; distinguish from Dr William Rizk below.",
+      "sources": [
+        "BOOK"
+      ]
+    },
+    {
+      "id": "H08",
+      "patient": "Fikry Riad Abdou",
+      "reported_prior_condition": "Hypertension.",
+      "record_found": "1969 committee summary with two blood-pressure readings.",
+      "named_medical_personnel": "No physician named in this brief summary.",
+      "reported_result": "Reported change from 220/110 to 165/95.",
+      "limitations_and_next_record": "The reported second reading is lower but not normal; the summary alone establishes neither elimination of hypertension nor an inexplicable cure. Need timing, technique, medication and repeated follow-up measurements.",
+      "sources": [
+        "BOOK"
+      ]
+    },
+    {
+      "id": "H09",
+      "patient": "Farouk Mohammed Atwa",
+      "reported_prior_condition": "Gangrenous finger scheduled for amputation the following day, as narrated.",
+      "record_found": "Episode, modern accounts and later Zaki reprint; no original signed doctor’s statement found in this pass.",
+      "named_medical_personnel": "Doctor not identified in the retrieved first-night healing account.",
+      "reported_result": "Finger reportedly found healed before amputation.",
+      "limitations_and_next_record": "Find surgeon’s identity, original diagnosis/appointment, earliest published account and signed assessment. Absence from the retrieved selected booklet cases is not proof the file never existed.",
+      "sources": [
+        "ZAKI"
+      ]
+    },
+    {
+      "id": "H10",
+      "patient": "Dr William Rizk",
+      "reported_prior_condition": "Severe joint disease with impaired walking; hypertension and kidney/urinary problems also reported.",
+      "record_found": "Watani 2 June modern French transcription quotes an examination attributed to Dr Shafiq Abdel Malek dated 29 May 1968.",
+      "named_medical_personnel": "Dr Shafiq Abdel Malek, medical-committee head.",
+      "reported_result": "Account reports walking without usual support, satisfactory examination and no medication since 30 April.",
+      "limitations_and_next_record": "Published doctor-attributed findings are stronger than an unnamed cure story, but original Arabic, signed report, laboratory results, diagnosis and long-term follow-up not checked. Do not merge with William Nashed Zaki.",
+      "sources": [
+        "W2J"
+      ]
+    },
+    {
+      "id": "H11",
+      "patient": "Iyad Malak Shenouda",
+      "reported_prior_condition": "Severe asthma despite medication and earlier attempted surgical treatment.",
+      "record_found": "Watani 2 June modern French transcription quotes an examination dated 28 May 1968.",
+      "named_medical_personnel": "Dr Shafiq Abdel Malek; prior doctors include Abdel Aziz Sami and Ahmed Hafez Moussa in transcription.",
+      "reported_result": "Report describes normal respiratory examination, pulse and blood pressure and no current need for medication.",
+      "limitations_and_next_record": "Asthma varies over time; normal examination alone does not demonstrate permanent elimination. Obtain original prior records, serial lung-function results, subsequent history and original Arabic to correct transcription errors.",
+      "sources": [
+        "W2J"
+      ]
+    }
+  ],
+  "scope": "Publicly accessible sources located in this pass. This is not an exhaustive census of patients or a claim that inaccessible files do not exist.",
+  "key_results": [
+    "The cutoff narrative is present in a reproduced six-page Arabic government report dated and signed 30 April 1968; the relevant wording was visually checked on page 3.",
+    "Arabic says the lights of the whole area were extinguished; it does not supply the later five-kilometre/hours specification, identify the switching officer, or provide a power-utility record.",
+    "One reproduced signed individual medical report was visually inspected: Matta, Dr Zarif Bishara Rizk. Two more dated examination reports were located in a modern French transcription of contemporary newspaper reporting.",
+    "The 1969 booklet supplies eight selected case summaries. Seven lack an inspected signed individual report in this pass. Additional patients and files are mentioned; the selected cases are not the full caseload.",
+    "Contemporary source descriptions support a real investigation and affirmative testimony; independence, complete clinical documentation and causal inference remain separate questions."
+  ]
+}

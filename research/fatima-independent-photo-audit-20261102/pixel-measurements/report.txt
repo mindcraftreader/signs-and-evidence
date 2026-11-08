@@ -1,0 +1,57 @@
+D115 PIXEL MEASUREMENTS — 2 NOVEMBER 2026
+
+RESULT
+
+A computational measurement pass was completed on the existing 1669 × 1181 unannotated JPEG. It does not require the 6K scan. The actual measured quantity is a luminance boundary near the hat. A provisional two-feature geometry calculation yields 27.14° under explicitly adopted camera and physical-feature assumptions. This is NOT an independent establishment of the true source elevation or a successful full replication of Dalleur's shadow selections. In particular, the detected boundary may be the hat silhouette against bright material rather than an independently identified cast-shadow tangent.
+
+HAVE THE INPUTS BEEN DISPUTED?
+
+Yes. Mark Grant, who describes himself as a mathematics graduate student with a software-development background, disputes the clarity and precision of several object–shadow correspondences in sections 1–1.2 of his public critique. He discusses short-baseline sensitivity, the hat, the horizon and an umbrella-ground construction. His document also explicitly says that part of the discussion is out of date following new arguments from Dalleur. He acknowledges misidentifying which hat shadow Dalleur emphasizes: the principal cue is the crown's shadow on the brim, rather than only the shadow inside the crown's crease.
+
+The authoritative preserved critique text is:
+research/fatima-photo-analysis-20261027/grant-critique.txt
+Public document: https://docs.google.com/document/d/1t-wlHbqyUUL1-wN2Lf-zOs6_v77NmG9gmBK0BDWXe4c/edit
+
+Ethan Muse's current response, section 3, addresses those disputes and quotes Dalleur defending the hat and other sharp shadow contours, the convergence of multiple features, and the inadequacy of the particular bright-cloud simulation to reproduce the other cues together. Those quotations are mediated by Muse's publication, not correspondence independently obtained by this audit.
+https://motivacredibilitatis.substack.com/p/it-wasnt-the-sun
+
+Thus 'disputed' is correct; 'disproved' has not been established by the reviewed objections. This pass does not reverse the prior adjudication or add a debate tally.
+
+SOURCE AND MEASUREMENT
+
+Source: sources/D115-commons.jpg in the parent folder. SHA256 is recorded in results.json. R, G and B are identical throughout this JPEG (maximum channel spread 0), so there is no separate color signal to exploit. Luminance values here describe the digitized reproduction, not calibrated physical illumination or infrared energy.
+
+The detector selects the largest positive vertical luminance gradient in rows 738–772 for each column of four declared hat-region windows: x=850–882, 856–878, 862–880, and 866–880. It fits a line to the returned source-pixel coordinates. The unfiltered measurement is preserved, followed by diagnostic Gaussian blur radii 0.6, 1.0 and 1.4 pixels on temporary working copies. No generative processing, sharpening, or master-image alteration occurred. Original coordinates, raw RGB values and gradient strengths are exported as CSV.
+
+The first, full-window unfiltered fit has projected edge angle 34.1035° and residual RMS approximately 1.5 pixels. Across all windows and blur settings, edge-fit angles range from 25.4677° to 35.2814°. These are angles of a boundary within the photograph, not elevations above the real horizon. The contour is curved: changing the fitted section changes its slope. Fit residuals do not capture semantic misidentification, camera uncertainty or the complete photogrammetric uncertainty.
+
+I had already seen Dalleur's and Grant's figures, so this is not blinded selection. Dalleur's published vanishing-point coordinates were not fed into the edge detector.
+
+PROVISIONAL GEOMETRY SKETCH
+
+Manual stone-tip search box: x=180–187, y=950–957.
+Manual nearby shadow-tip search box: x=174–182, y=960–967.
+These brackets are visual hypotheses, not algorithmically confirmed corresponding vertices. The strongest local corner detector can select the adjacent pebble instead of the intended stone, illustrating why an automatic corner is not necessarily the correct physical point.
+
+Using the box centers (183.5,953.5) and (178,963.5), and the primary hat-edge fit, gives an intersection at approximately (-45.22,1369.36) in source pixels. Adopting Dalleur's 4:3 original-plate/sky-crop assumption gives principal point (834.5,555.125). Adopting his h=0.31 puts the horizon at y=411.41. With 37 mm equivalent focal length, the conditional source elevation is 27.1398°. A separate 3D vector dot-product calculation agrees with the equation-based result.
+
+This uses newly selected image coordinates but retains Dalleur's camera assumptions and an unverified interpretation of the fitted edge as a beam line. It must not be called an independent confirmation of 27° or 28°.
+
+Across the declared edge fits and focal lengths 30,33,37,45 mm at the manual box centers, conditional elevations range approximately 18.03–32.29°. A finite sensitivity grid using each box's endpoints and midpoint gives 4,212 retained scenarios, ranging 17.30–37.25°; 972 geometrically inconsistent scenarios are rejected under the adopted behind-camera-source interpretation. These counts are parameter combinations, NOT independent measurements. This finite grid is NOT a sampling distribution, a confidence interval, a verified maximum error, a probability of authenticity, or a rigorous exclusion of 42.72°. Physical feature assignment and camera uncertainty are not exhausted by it.
+
+FURTHER CUES INSPECTED
+
+The hand-on-hat region, stick/knee region, left boy's hand and lower-right pebbles were inspected as source-coordinate grids. They contain dark regions, but this pass did not establish additional unique casting/receiving point correspondences. No extra rays were invented or counted as independent confirmations. Their grid images are in the parent's previews folder.
+
+CONCLUSION
+
+The available file supports real computational boundary measurements and a low-elevation conditional reconstruction. It does not independently settle the central shadow-correspondence question. No new successful ordinary-solar reconstruction or refutation of Dalleur is supplied. The 6K file remains useful for distinguishing nearby physical edges and identifying the intended faint shadow boundaries; its absence is not a prerequisite objection to using the existing evidence.
+
+FILES
+
+results.json — full method, coordinates, assumptions, fitted results and limitations.
+edge-points.csv — measured edge coordinates and gradient strengths.
+raw-pixel-profiles.csv — unfiltered RGB samples over the hat search region.
+pixel-boundaries.png — annotated source-pixel crops.
+conditional-geometry.png — explicitly conditional two-feature overlay.
+../pixel_audit.py — reproducible measurement and figure code.

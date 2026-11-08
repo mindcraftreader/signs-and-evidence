@@ -1,0 +1,67 @@
+IMAM REZA / MASHHAD: PERSIAN PRIMARY-RECORD AND PATIENT AUDIT
+3 November 2026
+Research subtask: primary cases and commission records. No tally awarded.
+
+FINDING
+The Charan2024 paper is not the entire evidentiary record. Persian material contains named patients, a claim-review office, reported medical examinations, and at least two quoted physician certificates with medical-registration numbers. These are more specific than undifferentiated miracle stories. I did NOT recover an original signed patient report, original diagnostic pathology, paired clinical images, quantitative before/after results, or independent clinical follow-up sufficient to establish a best-Lourdes-case equivalent in this pass. Several institutional originals were inaccessible; that access failure is not evidence that the records do not exist.
+
+Strongest concrete new record lead: Kolthum / Kolsum Rezaei, a young woman from Behshahr, reported breast-lump disappearance at the shrine in May1993. Strongest newly found scholarly lead: the1999 Hakim paper now being pursued separately by the clinical-paper agent. The anonymous BMC Nursing neurological model case remains potentially stronger clinically, but its provenance must be resolved by that agent.
+
+1. KOLTHUM REZAEI: NAMED PATIENT, OFFICE NUMBER, PHYSICIAN NUMBER
+Source: https://realmuslim.blogfa.com/post/180
+Source class: devotional narrative/republication, not an original medical report.
+The narrative places the event at the shrine on1Khordad1372 (May1993). It reports earlier surgery/biopsy and a malignant breast lump, but supplies no pathology. It quotes a shrine examination attributed to Dr Nosrati, medical-registration19410, stating no lump was found. It identifies welfare-office reference1034/560 dated4/3/1372 and an examination dated2/3/1372. Nosrati is described as Dar al-Shifa's trusted physician; no specialty or university affiliation is established. Treating names Asadollahpour and Pirgheibi are also mentioned without complete credentials.
+What this adds: patient identity and a recoverable archival/physician trail.
+Still needed: original certificate, biopsy report establishing malignancy, exact surgery and other treatment, objective pre/post findings and durability. A narrative's attributed certificate is not the certificate itself.
+The same patient is also the subject of Hamidreza Soheili's literary account, https://hr-shafa.blogfa.com/post/420 . Repetitions of the story are not independent confirmations.
+
+2. F.S., EIGHT-YEAR-OLD FROM AZADSHAHR: QUOTED PEDIATRICIAN
+Source: https://meisamc30.blogfa.com/1388/12?p=3 (section در نهایت ناامیدی)
+Source class: repost explicitly attributed to the healed-persons blog.
+Event7/5/1382, re-examination9/5/1382 (July2003). It attributes a normal joint/limb examination after one year of joint rheumatism to pediatrician Seyyed Majid Hosseini-Bay, medical-registration50509. No university affiliation, laboratory diagnosis, images or signed original is supplied. The story is a shrine-linked recovery claim; a normal later examination by itself does not show irreversible structural damage was reversed. Clinical diagnosis, treatment and follow-up remain missing.
+
+3. ISFAHAN WOMAN,32, RECOVERY IN1395 (2016-17)
+Source: https://telegram.me/s/saiberiemamzaman313?before=11816
+Source class: secondary Telegram reproduction, attributed to commission member Abbas Farazi-Nia; exact original report/date not recovered.
+She reportedly recovered while hospitalized at Mehrgan Hospital, Isfahan, after shrine servants visited with its flag. Her case was reportedly accepted at the eighth commission session and records signed/approved by the shrine custodian were said to be retained at Astan Quds Razavi's Documents Center. The item names neither the woman, disease nor examining doctors. Farazi-Nia is identified as a cleric, not her medical examiner. This is an archive-location lead, not accessible clinical proof. The described recovery occurred in a hospital; it is linked to the shrine devotionally, not a recovery in its pool/courtyard.
+
+4. MAEDEH, ISFAHAN HOSPITAL: SEPARATE PATIENT, NOT MERGED WITH ABOVE
+Source: https://t.me/s/salehabad_online?before=42284
+Source class: secondary Telegram report attributed to IRNA.
+Describes servants visiting Al-Zahra Hospital before planned surgery; next-morning testing reportedly found no disease and surgery was cancelled, followed by one year of commission review. The recovered extract does not establish complete identity, diagnosis, operation type, physician names, underlying test values or signed report. Different hospital and details mean it must not be assumed to be the same32-year-old woman. Worth tracing to original IRNA record, but no clinical equivalence established here.
+
+5. BUSHEHR WOMAN AND KARAJ TEENAGER
+Source: https://mail.wocoshiac.org/en/news-events/all-news-en/all-news-b-en/razavi-timpani-played-on-occasion-of-healing-of-two-pilgrims
+Source class: religious news reprint attributed to Abna24, quoting clerical commission member Abbas Farazi-Nia.
+One disabled woman reportedly healed at the shrine and approved after one year. A teenager with leukemia reportedly also approved after record review, interviews and field investigation. Neither patient nor examining doctors is identified. No blood counts, marrow pathology, treatment chronology, relapse monitoring or signed decision is published in the recovered item. Ceremonial drums establish public recognition, not the clinical findings that justified it.
+
+6. ELEVEN-YEAR-OLD GIRL,2019 PRESS COVERAGE
+Primary newspaper issue identified: Kayhan,22Tir1398 /13July2019:
+https://www.pishkhan.com/Archive/1398/04/13980422/KayhanNews75979710412150525070211.pdf
+The indexed issue reports Seyyed Khalil Monabbati, shrine official/commission head, announcing approval after a year's investigation of a girl's claimed recovery of leg movement. It does not publish the clinical dossier or name a physician. Web PDF text opened, but subsequent find/screenshot retrieval timed out; direct download failed DNS resolution. Do not claim complete visual inspection or locally saved PDF. A matching report survives in https://t.me/s/alef_news?before=156601 attributed to IRNA. Those repetitions are not independent medical examinations.
+
+7. MOBARAKEH MALEKZADEH,2021: VIDEO AND FAMILY INTERVIEW LEAD
+Original Fars URL identified but unavailable through web tool:
+https://www.farsnews.ir/ilam/news/14000801000028
+Reproduction: https://www.aelaa.net/fa/viewtopic.php?f=2155&sid=e41c4bfd1f5dee09e18f8fb742865704&t=10721
+The reproduced interview names the girl and father, reports walking/talking improvement after longstanding neurological problems, and mentions crowd video. It also distinguishes the claim from commission approval, still pending in that report. No primary chart, imaging, examining doctor's signed statement or final committee result was recovered. Do not count this as an accepted clinical miracle just because a video exists. Not the same person as the eleven-year-old2019 case.
+
+COMMISSION: WHAT IS ACTUALLY RECOVERED
+Asre Iranian,31July2022,issue3612,p4:
+https://www.pishkhan.com/Archive/1401/05/14010509/AsreIranian651157310111448535784254.pdf
+This primary newspaper report of Farazi-Nia's remarks describes a commission formed in1396 (2017-18) including physicians, a judge and shrine servants, with approval by all members before ceremonial announcement. Web PDF text opened; screenshot and direct download failed, so full visual QA was not completed. It does not establish when every earlier healed-person registration office originated.
+The2021 reproduced Fars report describes two specialist physicians, a trusted cleric, a judge and three servants; another reproduction describes two physicians/two judges/two clerics/two servants. These versions must not be silently harmonized into a verified fixed membership list. No physicians' full names, clinical independence, written exclusion criteria, denominator or rejection totals were recovered. Reported scrutiny can be acknowledged without claiming the criteria match Lourdes.
+
+AUTHOR AND ARCHIVE PROVENANCE: A USEFUL POSITIVE FINDING
+Hamidreza Soheili's own post, https://hr-soheili.blogfa.com/post/482 , reproduces a shrine publication announcement and explains his40-story collection was commissioned with AQR public relations. He describes using claim forms, reported medical records and patient contact, with literary elaboration. His self-described background is writer/director/storyteller/critic, not physician. This supports an archive behind some stories, but means narrated dialogue should not be treated as a verbatim clinical interview without its underlying record.
+
+HISTORICAL NEWSPAPER ANTHOLOGY: ACQUISITION LEAD
+Seyyed Mehdi Seyed-Qotbi's author page:
+https://mehdiqotbi.blogfa.com/post/2
+Describes شفایافتگان حرم مطهر امام رضا (علیه‌السلام) در آینه مطبوعات (Healed persons of Imam Reza's shrine in the mirror of the press),60 newspaper reports through1370 (1991-92), with selected newspaper facsimiles and references. This establishes a potentially useful source collection, not60 verified clinical cures. Full book not acquired/read. Its linked Ketabrah record17495 timed out. The author's page is primary evidence of what his anthology claims to contain. No message sent.
+
+RESEARCH BOUNDARY
+Searches included Persian variants of commission/healing/medical-record terms, named patients and registration numbers, AQR/IRNA/Mehr/Tasnim domains, English commission names and primary newspaper archive issues. Results were often reposts; the original AQR legacy link returned403. No authorized library/UI used in this subtask. No restricted access bypassed, no emails, no purchases, no contact requests.
+
+FAIR COMPARISON
+The recovered Persian record gives enough specificity to reject the statement that there is literally no documentary trail anywhere. It does not yet supply the inspectable clinical evidence required by our comparison. Accordingly: Charan's unsupported millions figure remains unsupported; the entire Mashhad case must be assessed separately, pending the1999 medical-paper lead and original dossiers. This report does not alter the tally.

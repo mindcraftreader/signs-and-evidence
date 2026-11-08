@@ -1,0 +1,89 @@
+{
+  "date": "2026-11-03",
+  "scope": "Persian primary/case audit, no tally change",
+  "sources": [
+    {
+      "file": "research/lourdes-comparative-healing-shrines-20261102/mashhad-primary-audit-20261103/sources/kolthum-rezaei-narrative.html",
+      "url": "https://realmuslim.blogfa.com/post/180",
+      "bytes": 87818,
+      "sha256": "e46ecb798ec58baabf225cc1f82be7f194b62d95de277da9ac5de663b26b08ea",
+      "access": "Downloaded public HTML via curl"
+    },
+    {
+      "file": "research/lourdes-comparative-healing-shrines-20261102/mashhad-primary-audit-20261103/sources/kolthum-rezaei-narrative.txt",
+      "url": "https://realmuslim.blogfa.com/post/180",
+      "bytes": 38732,
+      "sha256": "d20b70cf4c1e803e1e98993e70d5853b95d2420da6aae7ea519a523968c48e5d",
+      "access": "Downloaded public HTML via curl; text extracted locally with HTMLParser"
+    },
+    {
+      "file": "research/lourdes-comparative-healing-shrines-20261102/mashhad-primary-audit-20261103/sources/soheili-source-provenance.html",
+      "url": "https://hr-soheili.blogfa.com/post/482",
+      "bytes": 28688,
+      "sha256": "dba2da9c7cd87c39d7e4bc982478d8df54c5683e8bf8226d5b5f17b0994765b2",
+      "access": "Downloaded public HTML via curl"
+    },
+    {
+      "file": "research/lourdes-comparative-healing-shrines-20261102/mashhad-primary-audit-20261103/sources/soheili-source-provenance.txt",
+      "url": "https://hr-soheili.blogfa.com/post/482",
+      "bytes": 16855,
+      "sha256": "73a5ab5c888b58a13462a301ae749e8bebcfb8c62f98ee1d4936342ecc6b0fe4",
+      "access": "Downloaded public HTML via curl; text extracted locally with HTMLParser"
+    },
+    {
+      "file": "research/lourdes-comparative-healing-shrines-20261102/mashhad-primary-audit-20261103/sources/qotbi-newspaper-anthology.html",
+      "url": "https://mehdiqotbi.blogfa.com/post/2",
+      "bytes": 26911,
+      "sha256": "ff92e9db8cd726fc13858e336b1a4b56f3dc2a390feaebad4374d0d4e377730c",
+      "access": "Downloaded public HTML via curl"
+    },
+    {
+      "file": "research/lourdes-comparative-healing-shrines-20261102/mashhad-primary-audit-20261103/sources/qotbi-newspaper-anthology.txt",
+      "url": "https://mehdiqotbi.blogfa.com/post/2",
+      "bytes": 16406,
+      "sha256": "e238725387cbc97546209810513b076344b2317a9ae43f1bfa7ef1436597e607",
+      "access": "Downloaded public HTML via curl; text extracted locally with HTMLParser"
+    },
+    {
+      "file": "magiran-keyword.html",
+      "url": "https://www.magiran.com/keyword/1016/%D8%B4%D9%81%D8%A7",
+      "note": "Downloaded5488byte Cloudflare challenge page, not academic article; do not count as acquired source. Web indexed keyword snippet supplied1999Hakim lead."
+    },
+    {
+      "url": "https://www.pishkhan.com/Archive/1401/05/14010509/AsreIranian651157310111448535784254.pdf",
+      "access": "Web PDF text opened; screenshot timed out. curl failed DNS resolution. No local PDF."
+    },
+    {
+      "url": "https://www.pishkhan.com/Archive/1398/04/13980422/KayhanNews75979710412150525070211.pdf",
+      "access": "Web PDF text opened; find timed out. curl failed DNS resolution. No local PDF."
+    },
+    {
+      "url": "https://www.farsnews.ir/ilam/news/14000801000028",
+      "access": "Original identified from reproduction, tool reports inaccessible. No original text recovered."
+    },
+    {
+      "file": "research/lourdes-comparative-healing-shrines-20261102/mashhad-primary-audit-20261103/sources/ranjbar-kolthum.html",
+      "url": "https://ranjbarir.blogfa.com/post/784",
+      "bytes": 28438,
+      "sha256": "4df9531066797c627ee8df0907ea279b146ce14e03e0464f22683a73d98689cf"
+    },
+    {
+      "file": "research/lourdes-comparative-healing-shrines-20261102/mashhad-primary-audit-20261103/sources/ranjbar-kolthum.txt",
+      "url": "https://ranjbarir.blogfa.com/post/784",
+      "bytes": 18722,
+      "sha256": "968ba1f6f30ef039958afe9d6b94725be89da2c5c5bb51a99baf5148adabb301"
+    },
+    {
+      "file": "research/lourdes-comparative-healing-shrines-20261102/mashhad-primary-audit-20261103/sources/soheili-kolthum-2017.html",
+      "url": "https://hr-shafa.blogfa.com/post/420",
+      "bytes": 37865,
+      "sha256": "9f12d959502c53ac2bd414b4585be3e0ecef7a813816b2ae60d7392e4b129ac0"
+    },
+    {
+      "file": "research/lourdes-comparative-healing-shrines-20261102/mashhad-primary-audit-20261103/sources/soheili-kolthum-2017.txt",
+      "url": "https://hr-shafa.blogfa.com/post/420",
+      "bytes": 19571,
+      "sha256": "1b956b1bebef9361bf0bcfb01b77943dc71a194aec5fb76d2200f673b0067804"
+    }
+  ]
+}

@@ -1,0 +1,239 @@
+LOURDES HEALING CLAIMS, RECOVERIES1858–1918
+2 November 2026
+
+RESULT
+
+The strongest new finding is access to original-era medical publications rather
+than another set of devotional summaries. The 1899 joint De Rudder paper has been
+retrieved in full scan, along with Le Bec's 1922 medical case collection and
+Boissarie's 1900 book. Canonical BMJ1910 page images reproduce treating-doctor and
+examining-doctor testimony about Marie Borel. Actual published photographs show
+De Rudder's healed bones and Borel's recently closed fistula sites.
+
+These documents substantially improve provenance. They are not the complete raw
+clinical files, and their publication does not mean that a journal independently
+certified supernatural causation. No new miracle verdict or tally point is assigned.
+
+USER'S QUESTION PRESERVED
+
+The hypothesis under examination is a recurring, religiously identified place or
+practice of healing associated with Mary's apparition and Lourdes. An unexplained
+individual recovery alone is not automatically a vindication of a religion. Exact
+context matters: French Lourdes baths, water taken home, Eucharistic procession,
+replica shrine and distant prayer are recorded separately. Several cases commonly
+included in the Lourdes corpus did not occur in the French baths.
+
+PERIOD COVERAGE
+
+The inherited official 72-case summary list contains 40 recoveries in 1858–1918,
+all dated no later than 1911:1850s 7; 1860s 0; 1870s 2; 1880s 3; 1890s 13; 1900s 13;
+1910–1918:2. These are officially recognized cases in that current list, not all
+reported cures or all medical investigations. Zero in a decade does not establish
+zero claims. The parent audit handles wider denominators.
+
+This pass has 12 targeted candidate entries, including unrecognized candidates,
+and prioritizes four below. It does not claim to have medically re-examined all
+40 cases. Source IDs refer to source-register.json; cases have exact URLs, dates,
+reading limits and next-document targets in case-register.json.
+
+1. PIERRE DE RUDDER —7 APRIL1875; RECOGNIZED25 JULY1908
+
+Priority: highest for an unusually substantial physical/documentary evidence chain.
+Context: prayer/pilgrimage at Oostakker's Lourdes-replica grotto, Belgium, not the
+French Lourdes pool. The 1899 narrative describes drinking local fountain water;
+the official summary says no connection with water from the French grotto.
+
+The original paper is L.Van Hoestenberghe, E.Royer and A.Deschamps, S.J.,
+Revue des questions scientifiques 46(series 2,16), October 1899, pp 517–560[E01].
+Van Hoestenberghe was a local physician and examiner; Royer a physician conducting
+the 1893 investigation; Deschamps a Jesuit doctor of medicine/natural sciences.
+This is an original-era scientific-journal publication, not a modern blinded trial.
+
+Its facts section pp 517–529 and documentary appendix pp 555–560 contain named
+witnesses and specific source dates. The authors reproduce a 27 April 1875 neighbors'
+attestation concerning the exposed fracture before pilgrimage, and a 15 April 1875
+statement of recovery signed by local officials and clergy. They cite a 9 April 1875
+religious newspaper account and aJuly 1875 Scheerlinck book. These earlier issues
+were not independently obtained in this pass; their transcription/provenance is
+documented in the 1899 publication. Several more detailed interviews date 1893/1899.
+
+Thus 'nothing was recorded until eighteen years afterward' would be inaccurate.
+Conversely, every detailed sentence in 1899 cannot be treated as an independent
+1875 record. One very detailed travel witness statement, for example, is expressly
+signed 9 July 1899. The appendix distinguishes these dates instead of hiding them.
+
+Exhumed bones demonstrate an old fracture and later union, with visible residual
+deformity. Le Bec's actual plate was visually inspected[E02, PDFpage 147]. The
+anatomical specimen supports the reality of structural injury; it cannot alone
+date union to the pilgrimage day. The rapidity argument depends on the before/
+after observational chain. No before-cure X-ray is claimed for 1867–75.
+
+There is a concrete timing conflict requiring original records: the 1899 paper
+places Van Hoestenberghe's detailed examinations in 1874 and late 1874. Dr Paul
+Deschepper's 2019 FIAMC account says the physician later acknowledged only one
+pre-cure examination in 1871, citing De Meester's 1957 documentary edition[E08].
+This later article also describes bishop correspondence rediscovered in 1956.
+Those letters need direct inspection. Deschepper's repeated 'eight years ten
+months' conflicts with the event dates; the 1899 paper correctly says about eight
+years two months. These discrepancies do not by themselves establish fabrication.
+
+Useful next records: original 1875 bishop correspondence; Scheerlinck 1875/76;
+De Meester 1957 full edition; original Logie/Deschamps 1903 medical exchange; surviving
+specimens and dated radiographs assessed by an orthopedic specialist. The claim
+that bandaging enabled gradual prior union must confront the actual recent
+mobility/wound testimony, not merely the existence of healed bones.
+
+2. MARIE BOREL —21–22 AUGUST1907; RECOGNIZED4 JUNE1911
+
+Priority: strongest newly retrievable early case specifically connected to the
+French Lourdes baths, with externally observable lesions and close clinical dates.
+
+Le Bec, honorary surgeon at St Joseph's Hospital, Paris and Lourdes Bureau
+president, presents a detailed account at printedpp 175–180[E02]. A real plate is
+captioned 22 August 1907 and shows the six closed-site scars. We retrieved the full
+scan and visually inspected the plate and key page 177. The old operation records
+were not available even to Le Bec; he expressly says so.
+
+The course is more specific than 'six holes disappeared instantaneously': four
+outlets reportedly closed between morning and evening dressings on 21 August; the
+other two on 22 August. On 23 August, the author reports Desplats/Sablé examination:
+all tracks closed, but two sites still lacked complete epidermis, which developed
+over subsequent days. This is still a claim of strikingly rapid organic recovery;
+the exact staged description must replace an inflated instantaneous-regrowth story.
+
+Thurston's 20 August 1910 BMJ article p 470[E06] reproduces a 15 October 1907 letter
+from Dr Bardol of Mende, who personally operated/explored the patient and confirms
+the fistula history and unexpected recovery. It also cites Dr Henri Guinier,
+former agrégé libre of Montpellier's medical faculty, describing his own
+22 August 1907 and 20 August 1908 examinations in Études 5 December 1909, p 595.
+
+Guinier's account was published within two years of his examination, and the BMJ
+reproduction within three. These are appreciably better than a present-day shrine
+summary. Nevertheless, Herbert Thurston was a Jesuit author who explicitly calls
+himself medically a layman. This is documentation published in BMJ, not BMJ
+independently undertaking a clinical validation or declaring a miracle.
+
+Actual limits: no before photograph, complete operative report, fistulography,
+microbiology or complete daily treatment/nutrition chart was obtained. Tuberculosis
+is inferred in Le Bec, not established by a recovered culture or histology.
+Six external outlets should not silently become six independent full-thickness
+intestinal perforations; the account describes communicating fistulae. The BMJ
+account associates Desplats/Sablé observations with 22 August, Le Bec with 23 August.
+The Italian official narrative has an apparent 1919/1907 typo, preserved in register.
+
+A genuine ordinary medical comparator is Visschers et al., Maastricht University
+Medical Centre surgery/NUTRIM,2012[E11]. Their prospective 79-patient cohort had
+23 spontaneous closures, median 39 days, range 7–163, under sepsis/nutrition/wound care.
+This refutes a categorical assertion that intestinal fistulae never close without
+an operation. It does not reproduce Borel's reported overnight multi-outlet closure
+after a chronic course. The clock in that study runs from convalescence/treatment,
+not from the last observed discharge, so it is not a calibrated bound on the final
+closure interval. No standard deviation, probability or matched diagnosis is claimed.
+
+Next records: original 1907 Bureau file; Bardol's actual signed letter; Guinier's
+complete 1909 article; nurses' notes; anatomical connections and treatment timeline.
+Public modern criticism that only a shrine-recognized story exists is too broad;
+primary-era testimony and photographs are public. Questions about completeness
+and modern interpretation of that testimony remain substantive.
+
+3. JOACHIME DEHANT —SEPTEMBER1878; RECOGNIZED25 APRIL1908
+
+Priority: large externally visible wound with reproduced dated physician
+certificates, more directly tied to the baths than De Rudder.
+
+Le Bec 146–151[E02] reproduces Dr Gustave Froidebise's 6 September 1878 pre-journey
+description and 19 Septemberpost-journey finding. He identifies an extensive
+knee-to-ankle ulcer, discusses 32×15 cm dimensions, and describes dramatic closure
+after baths. Names include treating Dr Manrique of Gesves. Froidebise is identified
+as doctor at Ohey, Namur; a university professorship is not established here.
+
+The source reports 16 nonfamily witnesses interviewed separately at home in 1893,
+with written declarations and later favorable follow-up. That constitutes a
+specific investigation, not 16 new observations independently collected by us.
+
+Important discrepancy: the official summary dates healing 13 September 1878; Le Bec
+says 15 September. No original signed certificates, photographs, microbiology or
+original 1893 report was recovered. The fundamental lesion/closure claim is stronger
+than further precise claims about destroyed tendon replacement or exact depth.
+
+Next records: original 1878 certificates and Royer 1893 report, plus the 1908 diocesan
+assessment. A date discrepancy is a reason to reconcile sources, not by itself a
+disproof of the documented change.
+
+4. MARIE LEBRANCHU —20 AUGUST1892; RECOGNIZED6 JUNE1908
+
+Priority: possible bacteriological support and a public, controversial contemporary
+setting around Zola's visit.
+
+Boissarie 1900 pp 74–79[E03] quotes a Lourdes register entry describing cavitary
+pulmonary tuberculosis and earlier characteristic bacilli in sputum at Hôtel-Dieu,
+in Professor Germain Sée's service. It names hospice physician Marquezy's
+certificate and describes negative post-bath auscultation and repeated follow-up.
+Printed p 74 was visually checked; p 75 was rendered for review; the register quotation is expressly dated
+22 August 1893. It is not the actual pre-cure hospital bacteriology sheet.
+
+No paired radiographs or original lab slides/culture report were obtained.
+Claims of immediate disappearance of structural cavities are inferred from
+clinical examination, not before/after imaging. Zola's fictional Grivotte must not
+be used as a literal independent clinical follow-up for the real patient.
+
+Next records: Hôtel-Dieu and Franco-Dutch hospital records; 1892/93 Bureau entries;
+actual sputum method/results and Zola's nonfiction observations. François(Lyon 1),
+Sternberg(NIH)andFee(NLM)retrospective scholarly review[E10] preserves the case's
+importance while highlighting variable early diagnostic standards and follow-up.
+
+ADDITIONAL REGISTERED CANDIDATES
+
+Marie Biré 1908: official summary says sight returned after Mass at the grotto;
+same-day small-print reading despite residual optic-disc pallor, later resolution.
+Original named ophthalmologist reports and fundus findings remain unretrieved.
+Do not claim experimentally verified regrowth of destroyed optic nerves.
+
+Gabrielle Durand 1908: Le Bec 140–146 describes his own treatment at St Joseph's,
+a later chest film and normal peritoneum at an operation in 1916. This offers a
+new first-person hospital source to investigate, though not a complete original
+chart or pre-cure histology. Not in the current 72 recognized list.
+
+Marguerite Verzier 1909: Le Bec 131–140 reproduces Dr Jean Tournaire's dated
+certificate (Lyon medical faculty graduate, treating physician at Tain), with
+7 Julyabnormal mobility and 9 Julywalking/apparent union; Professor Eugène Vincent
+of Lyon/Charité examined her in 1911 and supplied later X-ray discussion. Vincent
+explicitly cautions this was a 3-month-old delayed-union fracture, not a fresh
+fracture healed instantly. Residual shortening/deformity remained. This occurred
+at La Teppe during prayer/communion, not the French spring/pool. Not in 72 list.
+
+Joseph Duncan Boothman 1910: BMJp 471 reproduces pre-event surgeon Richard Lake's
+12 Mayletter and post-event C.F.Murphy, F.R.C.S.,2 Juneletter about an ear recovery
+associated with Mass at Dover's Home of Our Lady of Lourdes. Actual otoscopic
+images/audiometry are absent. Not a French-pool recovery or a recognized 72 case.
+
+Louis Bouriette and Blaisette Cazenave 1858 remain early ocular-record targets.
+Bouriette's old injury must be distinguished from the shorter reported complete
+blindness interval. Marie Bailly 1902 and Gabriel Gargam 1901 are retained as
+well-known unrecognized candidates with independent hospital/court leads, not
+presented as newly completed case investigations. Absence from 72 is not proof of
+ecclesiastical rejection.
+
+WHAT THIS PASS HAS NOT ESTABLISHED
+
+No raw original full clinical dossier obtained, no original preserved bones examined
+by us, no physician personally consulted, no mail/contact/purchase undertaken, and
+no numeric likelihood or broad supernatural/ordinary verdict computed. Long
+medical history is real; its documentation changes across decades. A modern
+diagnostic standard cannot be projected backward without examining the actual
+tests, while an early date is not grounds to discard precise surviving evidence.
+
+The four priority cases justify focused document requests, with Borel now an
+especially practical early Lourdes-bath case. Parent should present the actual
+published evidence and precise gaps together, not say either 'all merely anecdotal'
+or 'fully independently established supernatural tissue regeneration'.
+
+FILES
+
+case-register.json:12 targeted case entries, contexts, dates, credentials and next records.
+source-register.json:source provenance, URLs, local files, access and reading scope.
+scope-and-method.json:period coverage and limits.
+file-manifest.json:hashes and sizes of retrieved source files.
+qa/:selected original scans and medical plates rendered for visual checking.
+
+No change to global debate tally or main argument files.

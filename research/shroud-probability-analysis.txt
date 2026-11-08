@@ -1,0 +1,243 @@
+SHROUD DATING: DISTRIBUTIONS, CONDITIONAL PROBABILITIES AND CALIBRATION AUDIT
+27 October 2026
+
+RESULT
+The newer dating results are substantially inconsistent with a medieval age
+under their stated dating models. The published information does not establish
+the real-world error distributions needed for defensible probabilities that
+each method is wrong by about 1300 years, or a combined authenticity probability.
+This is not merely a generic concern: reproducing the mechanical calculation
+on another included reference textile gives a roughly 1330-year discrepancy.
+
+LOCAL ARCHIVE
+At the beginning of this pass the archive had 144 source entries and 54 saved
+PDFs. All seven full PDFs retrieved in the preceding pass were saved locally.
+Other entries have local source notes and links; this does not mean that 144
+full texts have been obtained. No catalogued local file paths were broken.
+New sources from this pass are identified separately in the source index.
+
+WHAT THE CITATION COUNTS AND VALIDATION COUNTS ACTUALLY MEAN
+The 27 October OpenAlex snapshots give 46 citing records for the joint FTIR/
+Raman founding paper, 16 for the mechanical paper, and 23 for WAXS 2019. These
+are scholarly uptake, not 46/16/23 independent successful dating experiments.
+FTIR and Raman are two techniques sharing a founding paper and some reference
+materials, not one technique or two independent lists of 46 citations.
+
+The accessible promising texts among the 68 distinct citing records supplied:
+- WAXS: ONE study with FOUR non-anchor C14 reference checks. Absolute central-
+  age differences 10, 40, 0, 110 years; mean 40, range 0-110. Average reported
+  interval widths approximately 600 years WAXS and 160 years carbon reference.
+- Mechanical: ONE published selected withheld-reference check, FII/Masada.
+  Known AD65 versus predicted AD147: difference 82 years. This is not an average
+  over a validation series. Original C14 lab documentation for this reference
+  was not traced, and the papers differ in historical/C14 attribution. There
+  are carbon-dated calibration textiles; calibration is not external validation.
+- FTIR: TWO modern control pieces from ONE fabric in Barta 2025, estimated at
+  AD1598/1626 rather than expected AD2020: differences 422/394, mean 408 years.
+  They were not a paired ancient C14-validation series.
+Unread full texts remain marked in corpus-screening.csv. These findings are
+not an exhaustive assertion about every unavailable paper or all archaeology.
+
+CLAIM: FTIR IS BY FAR THE LEAST ACCURATE
+Not established by these comparisons. They mix a four-object WAXS check, one
+selected mechanical holdout and two modern portions of one FTIR control fabric.
+There is no common large blind validation set comparing all four techniques.
+Different reported precisions and different observed errors cannot establish
+a population accuracy ranking. The mechanical reanalysis below further changes
+the earlier impression produced by the single 82-year result.
+
+CLAIM: A MEDIEVAL DATE IS AT LEAST THREE TIMES OUTSIDE EVERY EXPECTED RANGE
+One can compare a discrepancy with a quoted interval HALF-WIDTH, but that is
+not a probability. A 95% coverage interval is not a maximum possible error.
+The largest observed validation error is also not a population error bound.
+For example, 1300/422 = 3.08 is arithmetic, not a three-sigma calculation.
+
+Using AD1300 as a fixed hypothetical true date and the 2015 estimates:
+  Method          Estimate       Standard u    Expanded k=2    Gap/u   Gap/(2u)
+  FTIR            250 BC             200             400         7.75    3.875
+  Raman           AD30               250             500         5.08    2.540
+  Mechanical MC   AD278              108             216         9.46    4.731
+
+Thus 'at least three times' is not true across these entries. Raman is 2.54
+times its k=2 half-width. WAXS does not supply an unconditional Gaussian
+calendar-age error bar suitable for this table. Earlier mechanical AD400
++/-400 (k=2) is 2.25 half-widths from AD1300. These are alternative analyses
+of the same method/data family, not additional independent experiments.
+
+Table 10 of MATEC 01001 prints Raman standard u=250 and expanded U=400, while
+the accompanying text specifies k=2. This is internally inconsistent. The
+calculation above explicitly uses the stated standard u and k=2 (U=500), not
+the inconsistent U=400. The updated mechanical MC result replaces, rather
+than adds to, the companion regression estimate AD260 with standard u=137.
+
+ACTUAL DISTRIBUTIONS: WHAT IS AND IS NOT AVAILABLE
+FTIR/Raman: Gaussian-style GUM standard/expanded uncertainties are reported,
+not large empirical distributions of blind prediction errors. Barta 2025
+derives standard deviations from eight calibration residuals for individual
+ratios and combines them into a weighted uncertainty. All ratios come from
+related spectral information, so joint error covariance matters. The newer
+heat corrections also differ. None of this supplies a demonstrated far-tail
+frequency for a 1300-year error on the Shroud.
+
+Mechanical: the 2015 MC paper explicitly assumes Gaussian input uncertainties
+and simulates 100,000 trials. It reports an approximately Gaussian output,
+AD278 with standard u=108. Its Gaussian fit assessment depends on binning:
+three of seven runs fail its stated 103-bin criterion, and the authors choose
+an eighth passing run. Even a passing central-shape test on simulated draws
+does not establish real-world prediction-error tails at nine sigma. The
+simulation propagates the assigned inputs; it cannot validate omitted model
+discrepancy just by producing a narrow histogram.
+
+WAXS: measured aging parameter AP=0.60 +/-0.02 is converted through a nonlinear,
+temperature/humidity-dependent degradation model. Under assumed conditions,
+the 2022 paper gives a total aging time 20.2 +/-0.8 centuries. That conditional
+result is not a universal AD0 +/-80-year Gaussian age distribution. Its 2019
+reference intervals are asymmetric. Four checks cannot determine whether
+population tails are Gaussian, heavy-tailed or a mixture of sample conditions.
+The later temperature paper identifies the AP measurement bounds as +/-one
+standard deviation. That still does not measure all uncertainty in historical
+environment, calibration applicability or the degradation model.
+
+FORMAL GAUSSIAN CALCULATION: THE NUMBERS REQUESTED, WITH THEIR CONDITIONS
+Assume an unbiased normally distributed complete dating error with the quoted
+standard u, and a fixed true manufacture date AD1300. The probability of an
+estimate at least as OLD as the reported one is Phi((estimate-1300)/u):
+  FTIR 2015:        z=7.750; one-sided tail 4.5946e-15
+  Raman 2015:       z=5.080; one-sided tail 1.8872e-7
+  Mechanical MC:    z=9.463; one-sided tail 1.4967e-21
+Two-sided tails are twice these values. They are conditional mathematical
+outputs, not empirically validated error frequencies or posterior odds.
+
+Barta 2025 sensitivity to publication/correction choice:
+  Table 1 mean heat-corrected date 206 BC with weighted u=274:
+    z=5.496; normal one-sided tail 1.9387e-8 under the same assumptions.
+  Applying its 216-year correction gives 442 BC. If the same u is carried
+  over illustratively, z=6.358; tail 1.0242e-10. A complete uncertainty for
+  that revised correction is not established by simply retaining u=274.
+These are reanalyses of reused Shroud spectra, not independent datings.
+
+WAXS MEASUREMENT-ONLY ILLUSTRATION, NOT A REAL-WORLD AGE PROBABILITY
+The initial 2022 study gives AP about 0.027 for seven centuries in its assumed
+European environment. The later temperature follow-up includes monthly
+nonlinearity and gives a medieval-history AP range 0.041-0.052 (Figure 9).
+Use the larger, more conservative 0.052 against measured 0.60 with measurement
+u=0.02. If that model prediction were exact and measurement error wholly
+Gaussian, the standardized residual would be (0.60-0.052)/0.02 = 27.4, with
+one-sided normal tail about 1.3713e-165. This excludes environmental and model
+discrepancy. It does not establish a 27.4-sigma historical dating claim. The
+authors' medieval-history scenarios are not a precise fixed-AD1300 test.
+
+JOINT CALCULATIONS
+Adding independence to the complete Gaussian assumptions, the directional
+joint tail for FTIR2015, Raman2015 and mechanicalMC is 1.2978e-42. This is
+the probability of the specified three-coordinate directional event; it is
+not automatically a calibrated omnibus p-value. A corresponding sum-of-
+squares goodness-of-fit statistic is chi-square=175.4166 with 3 degrees of
+freedom, giving conditional p=8.6140e-38. Different tests answer different
+questions, which is why these outputs differ.
+
+For the user's three named methods (FTIR, mechanical, WAXS), multiplying the
+two calendar tails and the measurement-only WAXS tail gives 9.4298e-201.
+That is an illustration of the unsupported assumptions, not a defensible
+scientific odds estimate. It cannot be used to say the cloth has that chance
+of being medieval. No justified real-world joint probability was identified.
+
+The errors need not be independent: the methods draw on overlapping reference
+textiles, related cellulose ageing and overlapping researchers. The actual
+covariance has not been estimated. This does not prove a common bias exists
+or explain why all results favor older dates. It means their independence
+cannot be assumed as a measured fact.
+
+For transparency, assumed-common-bias-sensitivity.csv shows a toy model:
+estimate_i = true_date + b + epsilon_i, with b Gaussian of assumed scale tau.
+The independent Gaussian weighted mean of the first three is AD142.5, u=88.8.
+With tau=0 its one-sided tail under AD1300 is 4.11e-39. With hypothetical
+tau=250, 500 and 1000 years the corresponding values are 6.42e-6, 0.0113 and
+0.1245. Those tau values are NOT estimates or documented explanations. This
+is sensitivity to a missing input, not a replacement authenticity probability.
+Posterior odds additionally require rival-model likelihoods and prior odds;
+P(data|medieval,model) cannot be substituted for P(medieval|data).
+
+NEW REANALYSIS OF PUBLISHED MECHANICAL REFERENCE DATA
+Source: Basso, Fanti and Malfi 2015, MATEC 01003, Table 2, equations (5),(6),
+(5'),(6'), Tables 3-7. This is our calculation, not a published validation
+series or newly measured samples. The original MATLAB source was not supplied.
+
+Procedure: fit each of the three transformed mechanical readings as m*date+q
+on eight references, invert the fit for the omitted reference, then average
+the three predicted dates, following the nominal published procedure. Use
+the printed rounded data. A second closed-form regression independently
+checks every nominal coefficient. Reproduce the published selected FII
+holdout before interpreting any other result.
+
+Reproduction check: FII reference AD65. Nominal result AD147.57; our 100,000-
+draw reproduction mean AD148.35, standard deviation 107.76, compared with
+published AD147, standard u=107. This is close enough to support a substantive
+check of the procedure, without claiming bit-identical reproduction.
+
+Other admitted reference D is carbon-dated to AD544-605 in the companion
+paper's Table 1; the MC paper uses AD575, standard u=17. It is included in
+the calibration, not an excluded chemically bleached modern sample.
+Withhold D: three nominal predictions are approximately -997.6, -828.0 and
+-446.9 signed years. Their mean is -757.50 (about 758 BC), a discrepancy of
+1332.50 years toward excessive antiquity. Our MC reproduction gives mean
+-758.90, standard deviation 110.74 and central 95% quantiles -980.61 to
+-545.36. The reference AD575 is far outside this simulated interval.
+
+This demonstrates a limitation in treating the narrow propagated uncertainty
+as universal predictive accuracy. It does not establish that the Shroud is
+medieval, nor that all methods fail together. It does invalidate describing
+82 years as an established general mechanical validation error.
+
+All nine nominal omissions, reference => prediction, absolute discrepancy:
+  LII  -3250 => -6675.2     3425.2 years [endpoint extrapolation]
+  K    -2652 =>  -804.4     1847.6
+  HII   -860 =>  -832.4       27.6
+  E     -375 =>  -370.7        4.3
+  NII   -290 =>  -295.6        5.6
+  FII     65 =>   147.6       82.6
+  D      575 =>  -757.5     1332.5
+  DII   1072 =>  1746.8      674.8
+  B     2000 =>  2364.3      364.3 [endpoint extrapolation]
+
+Do not turn these nine into independent laboratory experiments or a reliable
+population distribution. They reuse one small selected calibration set;
+withholding endpoints requires extrapolation. They nevertheless show that
+the single favorable middle-reference check is not representative of all
+omissions. A maximum error, MAE or scatter from this set is not a justified
+far-tail distribution for every archaeological textile.
+
+ACADEMIC WORDING SUPPORTED BY THIS AUDIT
+The FTIR, Raman, mechanical and WAXS results provide convergent evidence for
+greater antiquity under their respective calibration and ageing assumptions.
+Several reported estimates are substantially inconsistent with a medieval
+manufacture date when compared with their quoted model uncertainties.
+Available external validation and error-covariance information are insufficient
+to assign a reliable combined probability to that discrepancy. In particular,
+the mechanical method's selected 82-year holdout cannot be generalized to a
+typical prediction error; reanalysis of another included reference produces
+an approximately 1330-year discrepancy.
+
+REPRODUCIBLE FILES
+shroud-probability-audit/calculate-probabilities.py
+conditional-normal-tails.csv; conditional-joint-results.json
+assumed-common-bias-sensitivity.csv
+mechanical-table2-transcription.csv; mechanical-all-reference-holdouts.csv
+mechanical-reproduced-monte-carlo.csv; reanalysis-summary.json
+
+PRIMARY SOURCES
+Fanti, Malfi, Crosilla 2015, Table 10 and calibration Table 1:
+https://doi.org/10.1051/matecconf/20153601001
+Basso, Fanti, Malfi 2015, Tables 2-7 and Sections 3-6:
+https://doi.org/10.1051/matecconf/20153601003
+Barta et al. 2025, Tables 1,2,5 and Sections 4-5:
+https://doi.org/10.1016/j.microc.2024.112502
+De Caro et al. 2019, Tables 1 and 3:
+https://doi.org/10.3390/heritage2040171
+De Caro et al. 2022, WAXS Shroud application, Table 2/Section 4:
+https://doi.org/10.3390/heritage5020047
+De Caro et al. 2022, temperature follow-up, Section 5/Figure 5:
+https://doi.org/10.3390/info13100458
+JCGM 100:2008, ISO online text, Sections 3.1.6,3.3.2,3.4.2:
+https://www.iso.org/sites/JCGM/GUM/JCGM100/C045315e-html/C045315e_FILES/MAIN_C045315e/03_e.html
+Citation counts/access classifications: archived 27 October 2026 audit tables.

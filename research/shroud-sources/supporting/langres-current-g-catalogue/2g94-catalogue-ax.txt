@@ -1,0 +1,56 @@
+Browser tab: 24, Title: "Moteur de recherche des Archives départementales de la Haute Marne - Consultation du document « Chambrier, Chantre. »", URL: "https://recherche.archives.haute-marne.fr/archives/show/FRAD052_00000002G_de-143".
+1 AXWebArea URL: recherche.archives.haute-marne.fr/archives/show/FRAD052_00000002G_de-143, Moteur de recherche des Archives départementales de la Haute Marne - Consultation du document « Chambrier, Chantre. »
+	2 container
+		3 container wrapper
+			4 heading Bach, Value: 1
+				5 link Description: Bach, Help: Notre actu, nos missions..., Value: haute-marne.fr/culture/archives-departementales/
+			6 container container
+				8 container nav_div
+					9 link Description: Le guide, Value: haute-marne.fr/liens-utiles/archives-departementales/archives-en-ligne/
+					10 link Description: Panier, Value: recherche.archives.haute-marne.fr/basketList
+					11 link Description: Historique, Value: recherche.archives.haute-marne.fr/searchhistoList
+					12 link Description: Connexion, Value: recherche.archives.haute-marne.fr/login
+				13 content list
+					14 link Description: Accueil, Value: recherche.archives.haute-marne.fr/home
+					15 link Description: Chercher, Value: recherche.archives.haute-marne.fr/archives/search
+					16 link Description: Soldats, Value: recherche.archives.haute-marne.fr/matricules/search
+					17 link Description: Inventaires en ligne, Value: recherche.archives.haute-marne.fr/archives/classification-scheme
+					18 link Description: Index, Value: recherche.archives.haute-marne.fr/archives/browse
+				19 container
+					20 content list
+						21 link Description: Fonds du chapitre cathédral de Langres et divers chapitres collégiaux, Value: recherche.archives.haute-marne.fr/archives/show/FRAD052_00000002G_description
+						22 link Description: › Chapitre cathédrale de Langres, Value: recherche.archives.haute-marne.fr/archives/show/FRAD052_00000002G_tt1-1
+						23 link Description: › Dignités - Prébendes, Value: recherche.archives.haute-marne.fr/archives/show/FRAD052_00000002G_tt2-54
+					24 heading Chambrier, Chantre. • 1207-1675 Situer dans l'inventaire Ajout à votre panier, Value: 2
+						25 text Chambrier, Chantre.  • 1207-1675
+						26 link Description: Situer dans l'inventaire, Value: recherche.archives.haute-marne.fr/document/FRAD052_00000002G#de-143
+						27 link Description: Ajout à votre panier, Value: recherche.archives.haute-marne.fr/basketAdd/FRAD052_00000002G_de-143
+					28 link Description: Item précédent, Help: Afficher l'item précédent Chambrier, Chantre., Value: recherche.archives.haute-marne.fr/archives/show/FRAD052_00000002G_de-142, ID: prev_comp
+					29 link Description: Item suivant, Help: Afficher l'item suivant Canonicats et Prébendes, conflits., Value: recherche.archives.haute-marne.fr/archives/show/FRAD052_00000002G_de-144, ID: next_comp
+					30 link Description: Imprimer, Value: recherche.archives.haute-marne.fr/printDoc/FRAD052_00000002G_de-143
+					31 tab group
+						32 tab (selected, expanded, settable, boolean) Description: Description, Secondary Actions: Collapse, Value: 1
+Description
+					33 container Description: Description, ID: de-143
+						34 container
+							35 heading Date de l'unité documentaire, Value: 3
+								36 text Date de l'unité documentaire
+							37 text 1207-1675
+						38 container
+							39 heading 3
+							40 text Archives publiques
+						41 container
+							42 heading 3
+							43 text Grand domaine de recherche :
+							44 link Description: Inventaires d'archives, Value: recherche.archives.haute-marne.fr/archives/search?filter_field=dyndescr_cSubject_liste-grandDomaine&filter_value=Inventaires+d%27archives
+							45 text Sous-domaine de recherche :
+							46 link Description: Archives religieuses, Value: recherche.archives.haute-marne.fr/archives/search?filter_field=dyndescr_cSubject_liste-sousDomaine&filter_value=Archives+religieuses
+						47 container
+							48 text Cotes extrêmes  2 G 94
+				49 container footer
+					50 text © 2026 Archives départementales de la Haute Marne | Développé par Anaphore | 
+					51 link Description: Mentions légales, Value: recherche.archives.haute-marne.fr/footer/legals
+					52 text  | 
+					53 text Gestion des cookies
+
+The focused UI element is 1 AXWebArea URL: recherche.archives.haute-marne.fr/archives/show/FRAD052_00000002G_de-143, Moteur de recherche des Archives départementales de la Haute Marne - Consultation du document « Chambrier, Chantre. »

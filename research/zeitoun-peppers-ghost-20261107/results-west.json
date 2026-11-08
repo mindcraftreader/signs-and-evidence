@@ -1,0 +1,1616 @@
+[
+  {
+    "target": "central_to_south",
+    "foot_height_m": 12.5,
+    "sector": "west_garden_mid",
+    "deck_m": 8.5,
+    "margin_m": 0,
+    "aperture_radius_m": 2.5,
+    "westward_travel_m": 0,
+    "rooftop_actor": false,
+    "counts": {
+      "in_footprint": 55741,
+      "classic_45": 767,
+      "horizontal": 13,
+      "caps_clear": 0,
+      "source_path_clear": 0
+    },
+    "smallest_sampled_patches": {
+      "in_footprint": {
+        "area_m2": 0.9005477898133737,
+        "pane_axes_m": [
+          0.6390725942046185,
+          1.4091478776901454
+        ],
+        "normal_elevation_deg": 47,
+        "normal_azimuth_from_east_deg": 342,
+        "gap_m": 8.549999999999999,
+        "actor_center_enh_m": [
+          -10.215016833924812,
+          -0.014090673942822651,
+          0.8438517023121876
+        ],
+        "hit_center_enh_m": [
+          -6.939200149616217,
+          -1.0157645935270212,
+          9.340617678666828
+        ],
+        "hit_min_enh_m": [
+          -7.477748322755012,
+          -1.4251482396971253,
+          8.863217151308444
+        ],
+        "hit_max_enh_m": [
+          -6.39932548573257,
+          -0.6268946556979431,
+          9.824253692978672
+        ]
+      }
+    },
+    "least_central_aperture_radius_m": null
+  },
+  {
+    "target": "central_to_south",
+    "foot_height_m": 12.5,
+    "sector": "west_garden_mid",
+    "deck_m": 10,
+    "margin_m": 2,
+    "aperture_radius_m": 3.2,
+    "westward_travel_m": 0,
+    "rooftop_actor": false,
+    "counts": {
+      "in_footprint": 42680,
+      "classic_45": 708,
+      "horizontal": 8,
+      "caps_clear": 0,
+      "source_path_clear": 0
+    },
+    "smallest_sampled_patches": {
+      "in_footprint": {
+        "area_m2": 1.155713274242735,
+        "pane_axes_m": [
+          0.7451505649761945,
+          1.5509795316060142
+        ],
+        "normal_elevation_deg": 24,
+        "normal_azimuth_from_east_deg": 342,
+        "gap_m": 6.0,
+        "actor_center_enh_m": [
+          -9.549632525074005,
+          -0.23028714145276957,
+          8.4691602830904
+        ],
+        "hit_center_enh_m": [
+          -4.246167887839113,
+          -1.9127756608429958,
+          10.724193610121077
+        ],
+        "hit_min_enh_m": [
+          -4.631978776413032,
+          -2.3338938962918236,
+          10.024505995199027
+        ],
+        "hit_max_enh_m": [
+          -3.862590630002643,
+          -1.5086632339519896,
+          11.441396301194349
+        ]
+      }
+    },
+    "least_central_aperture_radius_m": null
+  },
+  {
+    "target": "central_to_south",
+    "foot_height_m": 12.5,
+    "sector": "west_garden_span",
+    "deck_m": 8.5,
+    "margin_m": 0,
+    "aperture_radius_m": 2.5,
+    "westward_travel_m": 0,
+    "rooftop_actor": false,
+    "counts": {
+      "in_footprint": 40107,
+      "classic_45": 547,
+      "horizontal": 6,
+      "caps_clear": 0,
+      "source_path_clear": 0
+    },
+    "smallest_sampled_patches": {
+      "in_footprint": {
+        "area_m2": 3.017381083261461,
+        "pane_axes_m": [
+          0.995676903437074,
+          3.0304821502291253
+        ],
+        "normal_elevation_deg": 43,
+        "normal_azimuth_from_east_deg": 339,
+        "gap_m": 4.05,
+        "actor_center_enh_m": [
+          -4.654129955491248,
+          -1.4949408158228155,
+          7.825813283493764
+        ],
+        "hit_center_enh_m": [
+          -2.644694463180979,
+          -2.344319416449109,
+          11.426094454204978
+        ],
+        "hit_min_enh_m": [
+          -3.709959836914795,
+          -2.9354559611934468,
+          10.339148747802708
+        ],
+        "hit_max_enh_m": [
+          -1.6089715687803654,
+          -1.6085289492935857,
+          12.555503086063602
+        ]
+      }
+    },
+    "least_central_aperture_radius_m": null
+  },
+  {
+    "target": "central_to_south",
+    "foot_height_m": 12.5,
+    "sector": "west_garden_span",
+    "deck_m": 10,
+    "margin_m": 2,
+    "aperture_radius_m": 3.2,
+    "westward_travel_m": 0,
+    "rooftop_actor": false,
+    "counts": {
+      "in_footprint": 29062,
+      "classic_45": 404,
+      "horizontal": 8,
+      "caps_clear": 0,
+      "source_path_clear": 0
+    },
+    "smallest_sampled_patches": {
+      "in_footprint": {
+        "area_m2": 2.7717218403984467,
+        "pane_axes_m": [
+          0.9939273032371463,
+          2.7886565057335257
+        ],
+        "normal_elevation_deg": 41,
+        "normal_azimuth_from_east_deg": 339,
+        "gap_m": 3.15,
+        "actor_center_enh_m": [
+          -3.5624993782511645,
+          -1.913978533970235,
+          9.216828117359807
+        ],
+        "hit_center_enh_m": [
+          -1.8343604992454103,
+          -2.637582852639863,
+          11.863961222320254
+        ],
+        "hit_min_enh_m": [
+          -2.7960266349845284,
+          -3.219437303440265,
+          10.831157565464304
+        ],
+        "hit_max_enh_m": [
+          -0.9040402916862043,
+          -1.9401849579997208,
+          12.935783346291954
+        ]
+      }
+    },
+    "least_central_aperture_radius_m": null
+  },
+  {
+    "target": "central_to_south",
+    "foot_height_m": 12.5,
+    "sector": "west_and_street",
+    "deck_m": 8.5,
+    "margin_m": 0,
+    "aperture_radius_m": 2.5,
+    "westward_travel_m": 0,
+    "rooftop_actor": false,
+    "counts": {
+      "in_footprint": 0,
+      "classic_45": 0,
+      "horizontal": 0,
+      "caps_clear": 0,
+      "source_path_clear": 0
+    },
+    "smallest_sampled_patches": {},
+    "least_central_aperture_radius_m": null
+  },
+  {
+    "target": "central_to_south",
+    "foot_height_m": 12.5,
+    "sector": "west_and_street",
+    "deck_m": 10,
+    "margin_m": 2,
+    "aperture_radius_m": 3.2,
+    "westward_travel_m": 0,
+    "rooftop_actor": false,
+    "counts": {
+      "in_footprint": 30,
+      "classic_45": 0,
+      "horizontal": 0,
+      "caps_clear": 0,
+      "source_path_clear": 0
+    },
+    "smallest_sampled_patches": {
+      "in_footprint": {
+        "area_m2": 104.54636634487787,
+        "pane_axes_m": [
+          14.766965445940812,
+          7.079746121679718
+        ],
+        "normal_elevation_deg": 74,
+        "normal_azimuth_from_east_deg": 90,
+        "gap_m": 2.25,
+        "actor_center_enh_m": [
+          0.8763678,
+          -4.858268101176495,
+          9.024322368277568
+        ],
+        "hit_center_enh_m": [
+          2.078264755552626,
+          -4.746384201249335,
+          11.332913906921357
+        ],
+        "hit_min_enh_m": [
+          -6.625630305424728,
+          -7.787988939411417,
+          10.25363753005601
+        ],
+        "hit_max_enh_m": [
+          8.141335140516084,
+          -0.9825001756728344,
+          12.205080030891462
+        ]
+      }
+    },
+    "least_central_aperture_radius_m": null
+  },
+  {
+    "target": "central_to_south",
+    "foot_height_m": 15,
+    "sector": "west_garden_mid",
+    "deck_m": 8.5,
+    "margin_m": 0,
+    "aperture_radius_m": 2.5,
+    "westward_travel_m": 0,
+    "rooftop_actor": false,
+    "counts": {
+      "in_footprint": 56104,
+      "classic_45": 483,
+      "horizontal": 18,
+      "caps_clear": 0,
+      "source_path_clear": 0
+    },
+    "smallest_sampled_patches": {
+      "in_footprint": {
+        "area_m2": 0.8514975015248306,
+        "pane_axes_m": [
+          0.6189459116972382,
+          1.3757219902946005
+        ],
+        "normal_elevation_deg": 52,
+        "normal_azimuth_from_east_deg": 342,
+        "gap_m": 9.45,
+        "actor_center_enh_m": [
+          -10.190127615072711,
+          -0.022177671371721386,
+          0.9565967568329565
+        ],
+        "hit_center_enh_m": [
+          -7.419167317074392,
+          -0.8558581840170314,
+          10.688589812153632
+        ],
+        "hit_min_enh_m": [
+          -7.9690367122791805,
+          -1.2504338604280418,
+          10.266537076940383
+        ],
+        "hit_max_enh_m": [
+          -6.865939801522234,
+          -0.48056511921129097,
+          11.113516107123107
+        ]
+      }
+    },
+    "least_central_aperture_radius_m": null
+  },
+  {
+    "target": "central_to_south",
+    "foot_height_m": 15,
+    "sector": "west_garden_mid",
+    "deck_m": 10,
+    "margin_m": 2,
+    "aperture_radius_m": 3.2,
+    "westward_travel_m": 0,
+    "rooftop_actor": false,
+    "counts": {
+      "in_footprint": 73400,
+      "classic_45": 938,
+      "horizontal": 16,
+      "caps_clear": 0,
+      "source_path_clear": 0
+    },
+    "smallest_sampled_patches": {
+      "in_footprint": {
+        "area_m2": 0.7939734936294046,
+        "pane_axes_m": [
+          0.6045470104427983,
+          1.3133362334351162
+        ],
+        "normal_elevation_deg": 48,
+        "normal_azimuth_from_east_deg": 342,
+        "gap_m": 10.049999999999999,
+        "actor_center_enh_m": [
+          -11.914890770945398,
+          0.5382318493081415,
+          0.9127890079043788
+        ],
+        "hit_center_enh_m": [
+          -7.732211705967686,
+          -0.7516282415822726,
+          10.495732037325066
+        ],
+        "hit_min_enh_m": [
+          -8.234915579972563,
+          -1.1297243286576224,
+          10.05834477219434
+        ],
+        "hit_max_enh_m": [
+          -7.227200418882404,
+          -0.3916161710302912,
+          10.937138242425837
+        ]
+      }
+    },
+    "least_central_aperture_radius_m": null
+  },
+  {
+    "target": "central_to_south",
+    "foot_height_m": 15,
+    "sector": "west_garden_span",
+    "deck_m": 8.5,
+    "margin_m": 0,
+    "aperture_radius_m": 2.5,
+    "westward_travel_m": 0,
+    "rooftop_actor": false,
+    "counts": {
+      "in_footprint": 34333,
+      "classic_45": 471,
+      "horizontal": 4,
+      "caps_clear": 0,
+      "source_path_clear": 0
+    },
+    "smallest_sampled_patches": {
+      "in_footprint": {
+        "area_m2": 3.5349872312094455,
+        "pane_axes_m": [
+          0.9952096095059466,
+          3.552002711232184
+        ],
+        "normal_elevation_deg": 46,
+        "normal_azimuth_from_east_deg": 339,
+        "gap_m": 5.55,
+        "actor_center_enh_m": [
+          -6.322198181168874,
+          -0.8546294159998352,
+          7.8653282162409734
+        ],
+        "hit_center_enh_m": [
+          -3.705349671507619,
+          -1.9605158508284815,
+          12.838805017960901
+        ],
+        "hit_min_enh_m": [
+          -4.977788840365889,
+          -2.5860612816227952,
+          11.624123182863768
+        ],
+        "hit_max_enh_m": [
+          -2.453598014782063,
+          -1.1548035206339566,
+          14.091551598114261
+        ]
+      }
+    },
+    "least_central_aperture_radius_m": null
+  },
+  {
+    "target": "central_to_south",
+    "foot_height_m": 15,
+    "sector": "west_garden_span",
+    "deck_m": 10,
+    "margin_m": 2,
+    "aperture_radius_m": 3.2,
+    "westward_travel_m": 0,
+    "rooftop_actor": false,
+    "counts": {
+      "in_footprint": 58977,
+      "classic_45": 635,
+      "horizontal": 15,
+      "caps_clear": 0,
+      "source_path_clear": 0
+    },
+    "smallest_sampled_patches": {
+      "in_footprint": {
+        "area_m2": 3.2766899080833807,
+        "pane_axes_m": [
+          0.9946064167304414,
+          3.294458846198486
+        ],
+        "normal_elevation_deg": 45,
+        "normal_azimuth_from_east_deg": 339,
+        "gap_m": 4.6499999999999995,
+        "actor_center_enh_m": [
+          -5.262943968340562,
+          -1.2612390122643744,
+          9.27390693496511
+        ],
+        "hit_center_enh_m": [
+          -2.9436042187771556,
+          -2.2361749469830197,
+          13.335324015547533
+        ],
+        "hit_min_enh_m": [
+          -4.11831273392146,
+          -2.848507402541273,
+          12.190119237834221
+        ],
+        "hit_max_enh_m": [
+          -1.79675745745514,
+          -1.467978671415331,
+          14.51965342832118
+        ]
+      }
+    },
+    "least_central_aperture_radius_m": null
+  },
+  {
+    "target": "central_to_south",
+    "foot_height_m": 15,
+    "sector": "west_and_street",
+    "deck_m": 8.5,
+    "margin_m": 0,
+    "aperture_radius_m": 2.5,
+    "westward_travel_m": 0,
+    "rooftop_actor": false,
+    "counts": {
+      "in_footprint": 0,
+      "classic_45": 0,
+      "horizontal": 0,
+      "caps_clear": 0,
+      "source_path_clear": 0
+    },
+    "smallest_sampled_patches": {},
+    "least_central_aperture_radius_m": null
+  },
+  {
+    "target": "central_to_south",
+    "foot_height_m": 15,
+    "sector": "west_and_street",
+    "deck_m": 10,
+    "margin_m": 2,
+    "aperture_radius_m": 3.2,
+    "westward_travel_m": 0,
+    "rooftop_actor": false,
+    "counts": {
+      "in_footprint": 0,
+      "classic_45": 0,
+      "horizontal": 0,
+      "caps_clear": 0,
+      "source_path_clear": 0
+    },
+    "smallest_sampled_patches": {},
+    "least_central_aperture_radius_m": null
+  },
+  {
+    "target": "central_to_south",
+    "foot_height_m": 17,
+    "sector": "west_garden_mid",
+    "deck_m": 8.5,
+    "margin_m": 0,
+    "aperture_radius_m": 2.5,
+    "westward_travel_m": 0,
+    "rooftop_actor": false,
+    "counts": {
+      "in_footprint": 49522,
+      "classic_45": 231,
+      "horizontal": 18,
+      "caps_clear": 772,
+      "source_path_clear": 0
+    },
+    "smallest_sampled_patches": {
+      "in_footprint": {
+        "area_m2": 0.812792776718449,
+        "pane_axes_m": [
+          0.6034531337977267,
+          1.3469029013127827
+        ],
+        "normal_elevation_deg": 56,
+        "normal_azimuth_from_east_deg": 342,
+        "gap_m": 10.2,
+        "actor_center_enh_m": [
+          -9.972842916121952,
+          -0.0927777497508605,
+          0.9376335198771524
+        ],
+        "hit_center_enh_m": [
+          -7.785301269440906,
+          -0.7338776016666605,
+          11.704130602721968
+        ],
+        "hit_min_enh_m": [
+          -8.340102548133904,
+          -1.1160255507557704,
+          11.32795819173338
+        ],
+        "hit_max_enh_m": [
+          -7.22563714831521,
+          -0.36991242963323856,
+          12.081136735811647
+        ]
+      }
+    },
+    "least_central_aperture_radius_m": 7.810678489235731
+  },
+  {
+    "target": "central_to_south",
+    "foot_height_m": 17,
+    "sector": "west_garden_mid",
+    "deck_m": 10,
+    "margin_m": 2,
+    "aperture_radius_m": 3.2,
+    "westward_travel_m": 0,
+    "rooftop_actor": false,
+    "counts": {
+      "in_footprint": 80314,
+      "classic_45": 816,
+      "horizontal": 23,
+      "caps_clear": 0,
+      "source_path_clear": 0
+    },
+    "smallest_sampled_patches": {
+      "in_footprint": {
+        "area_m2": 0.7601240875425026,
+        "pane_axes_m": [
+          0.5905753274755585,
+          1.2870908285174867
+        ],
+        "normal_elevation_deg": 52,
+        "normal_azimuth_from_east_deg": 342,
+        "gap_m": 10.799999999999999,
+        "actor_center_enh_m": [
+          -11.771055531511672,
+          0.4914969470037469,
+          0.8289677220948082
+        ],
+        "hit_center_enh_m": [
+          -8.065123319392823,
+          -0.6407136214476655,
+          11.507333220409752
+        ],
+        "hit_min_enh_m": [
+          -8.575966302454496,
+          -1.0083575998364855,
+          11.11205022275036
+        ],
+        "hit_max_enh_m": [
+          -7.55059109790338,
+          -0.2902765120696307,
+          11.90446246111356
+        ]
+      }
+    },
+    "least_central_aperture_radius_m": null
+  },
+  {
+    "target": "central_to_south",
+    "foot_height_m": 17,
+    "sector": "west_garden_span",
+    "deck_m": 8.5,
+    "margin_m": 0,
+    "aperture_radius_m": 2.5,
+    "westward_travel_m": 0,
+    "rooftop_actor": false,
+    "counts": {
+      "in_footprint": 26217,
+      "classic_45": 231,
+      "horizontal": 2,
+      "caps_clear": 0,
+      "source_path_clear": 0
+    },
+    "smallest_sampled_patches": {
+      "in_footprint": {
+        "area_m2": 3.9515270456159777,
+        "pane_axes_m": [
+          0.9938056190606805,
+          3.976156875980294
+        ],
+        "normal_elevation_deg": 48,
+        "normal_azimuth_from_east_deg": 339,
+        "gap_m": 6.75,
+        "actor_center_enh_m": [
+          -7.556909897702257,
+          -0.38066799438582516,
+          7.817544856055181
+        ],
+        "hit_center_enh_m": [
+          -4.4572772740091695,
+          -1.688427278070867,
+          13.873033392320552
+        ],
+        "hit_min_enh_m": [
+          -5.901108075925812,
+          -2.3506780384213046,
+          12.559642954543307
+        ],
+        "hit_max_enh_m": [
+          -3.0249565434068426,
+          -0.8238987774897009,
+          15.220211215945946
+        ]
+      }
+    },
+    "least_central_aperture_radius_m": null
+  },
+  {
+    "target": "central_to_south",
+    "foot_height_m": 17,
+    "sector": "west_garden_span",
+    "deck_m": 10,
+    "margin_m": 2,
+    "aperture_radius_m": 3.2,
+    "westward_travel_m": 0,
+    "rooftop_actor": false,
+    "counts": {
+      "in_footprint": 63155,
+      "classic_45": 700,
+      "horizontal": 14,
+      "caps_clear": 0,
+      "source_path_clear": 0
+    },
+    "smallest_sampled_patches": {
+      "in_footprint": {
+        "area_m2": 3.6778073533578888,
+        "pane_axes_m": [
+          0.9936356631272867,
+          3.7013640812595856
+        ],
+        "normal_elevation_deg": 47,
+        "normal_azimuth_from_east_deg": 339,
+        "gap_m": 5.85,
+        "actor_center_enh_m": [
+          -6.573025942333209,
+          -0.7583456595003937,
+          9.293161691055708
+        ],
+        "hit_center_enh_m": [
+          -3.7258253854296632,
+          -1.9531158866359224,
+          14.414045131558174
+        ],
+        "hit_min_enh_m": [
+          -5.061406686121732,
+          -2.5960353036786135,
+          13.169604251524765
+        ],
+        "hit_max_enh_m": [
+          -2.4097785141936043,
+          -1.1300405363459767,
+          15.693928484938043
+        ]
+      }
+    },
+    "least_central_aperture_radius_m": null
+  },
+  {
+    "target": "central_to_south",
+    "foot_height_m": 17,
+    "sector": "west_and_street",
+    "deck_m": 8.5,
+    "margin_m": 0,
+    "aperture_radius_m": 2.5,
+    "westward_travel_m": 0,
+    "rooftop_actor": false,
+    "counts": {
+      "in_footprint": 0,
+      "classic_45": 0,
+      "horizontal": 0,
+      "caps_clear": 0,
+      "source_path_clear": 0
+    },
+    "smallest_sampled_patches": {},
+    "least_central_aperture_radius_m": null
+  },
+  {
+    "target": "central_to_south",
+    "foot_height_m": 17,
+    "sector": "west_and_street",
+    "deck_m": 10,
+    "margin_m": 2,
+    "aperture_radius_m": 3.2,
+    "westward_travel_m": 0,
+    "rooftop_actor": false,
+    "counts": {
+      "in_footprint": 0,
+      "classic_45": 0,
+      "horizontal": 0,
+      "caps_clear": 0,
+      "source_path_clear": 0
+    },
+    "smallest_sampled_patches": {},
+    "least_central_aperture_radius_m": null
+  },
+  {
+    "target": "central_to_south",
+    "foot_height_m": 12.5,
+    "sector": "west_garden_mid",
+    "deck_m": 8.5,
+    "margin_m": 0,
+    "aperture_radius_m": 2.5,
+    "westward_travel_m": 0,
+    "rooftop_actor": true,
+    "counts": {
+      "in_footprint": 82953,
+      "classic_45": 826,
+      "horizontal": 8,
+      "caps_clear": 0,
+      "source_path_clear": 0
+    },
+    "smallest_sampled_patches": {
+      "in_footprint": {
+        "area_m2": 1.1406379394257447,
+        "pane_axes_m": [
+          0.7347713855637297,
+          1.5523712025756513
+        ],
+        "normal_elevation_deg": 17,
+        "normal_azimuth_from_east_deg": 342,
+        "gap_m": 6.1499999999999995,
+        "actor_center_enh_m": [
+          -10.310480597589104,
+          0.016927383148228725,
+          9.753828031910338
+        ],
+        "hit_center_enh_m": [
+          -4.436414683250829,
+          -1.8494558605272984,
+          10.6294074661619
+        ],
+        "hit_min_enh_m": [
+          -4.745206851733737,
+          -2.24802225091633,
+          9.897597245280972
+        ],
+        "hit_max_enh_m": [
+          -4.130298237871077,
+          -1.465370756361585,
+          11.382137209324124
+        ]
+      }
+    },
+    "least_central_aperture_radius_m": null
+  },
+  {
+    "target": "central_to_south",
+    "foot_height_m": 15,
+    "sector": "west_garden_mid",
+    "deck_m": 8.5,
+    "margin_m": 0,
+    "aperture_radius_m": 2.5,
+    "westward_travel_m": 0,
+    "rooftop_actor": true,
+    "counts": {
+      "in_footprint": 135262,
+      "classic_45": 1365,
+      "horizontal": 16,
+      "caps_clear": 0,
+      "source_path_clear": 0
+    },
+    "smallest_sampled_patches": {
+      "in_footprint": {
+        "area_m2": 1.1280327911372237,
+        "pane_axes_m": [
+          0.7343288728627004,
+          1.5361411389691266
+        ],
+        "normal_elevation_deg": 28,
+        "normal_azimuth_from_east_deg": 342,
+        "gap_m": 6.6,
+        "actor_center_enh_m": [
+          -10.208108614909952,
+          -0.01633529036664072,
+          9.652975371226242
+        ],
+        "hit_center_enh_m": [
+          -4.522276141100381,
+          -1.820769402932545,
+          12.492521585476922
+        ],
+        "hit_min_enh_m": [
+          -4.939546962666395,
+          -2.238810000487204,
+          11.821112227353042
+        ],
+        "hit_max_enh_m": [
+          -4.106153433528036,
+          -1.4198820460426989,
+          13.177444348297405
+        ]
+      }
+    },
+    "least_central_aperture_radius_m": null
+  },
+  {
+    "target": "central_to_south",
+    "foot_height_m": 17,
+    "sector": "west_garden_mid",
+    "deck_m": 8.5,
+    "margin_m": 0,
+    "aperture_radius_m": 2.5,
+    "westward_travel_m": 0,
+    "rooftop_actor": true,
+    "counts": {
+      "in_footprint": 138521,
+      "classic_45": 1738,
+      "horizontal": 23,
+      "caps_clear": 0,
+      "source_path_clear": 0
+    },
+    "smallest_sampled_patches": {
+      "in_footprint": {
+        "area_m2": 1.0955493355623385,
+        "pane_axes_m": [
+          0.7246758686971977,
+          1.5117784141645103
+        ],
+        "normal_elevation_deg": 36,
+        "normal_azimuth_from_east_deg": 342,
+        "gap_m": 7.199999999999999,
+        "actor_center_enh_m": [
+          -10.20329293383091,
+          -0.017899999999997918,
+          9.385892366988388
+        ],
+        "hit_center_enh_m": [
+          -4.794108293588351,
+          -1.7301653183876917,
+          13.826279448868492
+        ],
+        "hit_min_enh_m": [
+          -5.274944211014226,
+          -2.152309561309095,
+          13.218916551760818
+        ],
+        "hit_max_enh_m": [
+          -4.312618458540843,
+          -1.326063056167043,
+          14.441970980549119
+        ]
+      }
+    },
+    "least_central_aperture_radius_m": null
+  },
+  {
+    "target": "central_to_south",
+    "foot_height_m": 15,
+    "sector": "west_garden_mid",
+    "deck_m": 10,
+    "margin_m": 2,
+    "aperture_radius_m": 3.2,
+    "westward_travel_m": 3,
+    "rooftop_actor": false,
+    "counts": {
+      "in_footprint": 54949,
+      "classic_45": 604,
+      "horizontal": 16,
+      "caps_clear": 0,
+      "source_path_clear": 0
+    },
+    "smallest_sampled_patches": {
+      "in_footprint": {
+        "area_m2": 2.960497004029619,
+        "pane_axes_m": [
+          1.081706889219118,
+          2.736875426731169
+        ],
+        "normal_elevation_deg": 66,
+        "normal_azimuth_from_east_deg": 12,
+        "gap_m": 7.5,
+        "actor_center_enh_m": [
+          -6.591359273326745,
+          -4.886379547691437,
+          2.146818135360983
+        ],
+        "hit_center_enh_m": [
+          -8.318082517462257,
+          -0.8868872034972115,
+          10.738351107437808
+        ],
+        "hit_min_enh_m": [
+          -9.585400834805496,
+          -1.518403702884184,
+          10.182020384170665
+        ],
+        "hit_max_enh_m": [
+          -7.049634146721809,
+          -0.32310341495558603,
+          11.29520790775595
+        ]
+      }
+    },
+    "least_central_aperture_radius_m": null
+  },
+  {
+    "target": "west_roof_edge",
+    "foot_height_m": 12.5,
+    "sector": "west_garden_mid",
+    "deck_m": 10,
+    "margin_m": 2,
+    "aperture_radius_m": 3.2,
+    "westward_travel_m": 0,
+    "rooftop_actor": false,
+    "counts": {
+      "in_footprint": 8043,
+      "classic_45": 50,
+      "horizontal": 1,
+      "caps_clear": 0,
+      "source_path_clear": 0
+    },
+    "smallest_sampled_patches": {
+      "in_footprint": {
+        "area_m2": 0.9636200269684642,
+        "pane_axes_m": [
+          0.5813938053419285,
+          1.6574308465528649
+        ],
+        "normal_elevation_deg": 66,
+        "normal_azimuth_from_east_deg": 0,
+        "gap_m": 3.5999999999999996,
+        "actor_center_enh_m": [
+          -10.534124380145762,
+          3.7626159999999995,
+          6.772472704973276
+        ],
+        "hit_center_enh_m": [
+          -10.715667684589619,
+          3.8138404726939044,
+          10.79399159435915
+        ],
+        "hit_min_enh_m": [
+          -11.467920205944486,
+          3.5121408300614814,
+          10.454778136804814
+        ],
+        "hit_max_enh_m": [
+          -9.953781784719386,
+          4.09353463540341,
+          11.128915995462007
+        ]
+      }
+    },
+    "least_central_aperture_radius_m": null
+  },
+  {
+    "target": "south_roof_edge",
+    "foot_height_m": 12.5,
+    "sector": "west_garden_mid",
+    "deck_m": 10,
+    "margin_m": 2,
+    "aperture_radius_m": 3.2,
+    "westward_travel_m": 0,
+    "rooftop_actor": false,
+    "counts": {
+      "in_footprint": 33326,
+      "classic_45": 433,
+      "horizontal": 8,
+      "caps_clear": 0,
+      "source_path_clear": 0
+    },
+    "smallest_sampled_patches": {
+      "in_footprint": {
+        "area_m2": 1.2241268428593932,
+        "pane_axes_m": [
+          0.7795436770991104,
+          1.5703120669449788
+        ],
+        "normal_elevation_deg": 27,
+        "normal_azimuth_from_east_deg": 339,
+        "gap_m": 5.1,
+        "actor_center_enh_m": [
+          -12.365685158808368,
+          -0.21624055273031823,
+          8.719296902656625
+        ],
+        "hit_center_enh_m": [
+          -7.936923836358957,
+          -1.8013713341205286,
+          10.723512513072025
+        ],
+        "hit_min_enh_m": [
+          -8.36243681371589,
+          -2.2488977486011414,
+          10.032916863007877
+        ],
+        "hit_max_enh_m": [
+          -7.511681622604584,
+          -1.3746593862459768,
+          11.432075159667574
+        ]
+      }
+    },
+    "least_central_aperture_radius_m": null
+  },
+  {
+    "target": "central_to_south",
+    "foot_height_m": 12.5,
+    "sector": "west_garden_span",
+    "deck_m": 8.5,
+    "margin_m": 0,
+    "aperture_radius_m": 2.5,
+    "westward_travel_m": 0,
+    "rooftop_actor": true,
+    "counts": {
+      "in_footprint": 75567,
+      "classic_45": 785,
+      "horizontal": 8,
+      "caps_clear": 0,
+      "source_path_clear": 0
+    },
+    "smallest_sampled_patches": {
+      "in_footprint": {
+        "area_m2": 2.1593383397270456,
+        "pane_axes_m": [
+          0.9763931378536728,
+          2.2115460013102375
+        ],
+        "normal_elevation_deg": 16,
+        "normal_azimuth_from_east_deg": 342,
+        "gap_m": 0.75,
+        "actor_center_enh_m": [
+          -0.494953499680602,
+          -3.1723306998700638,
+          12.9365439662745
+        ],
+        "hit_center_enh_m": [
+          0.23800372592005833,
+          -3.38799023750707,
+          12.994080617302169
+        ],
+        "hit_min_enh_m": [
+          -0.1649084233917506,
+          -3.9037260531937052,
+          11.904147857244336
+        ],
+        "hit_max_enh_m": [
+          0.6468997410299249,
+          -2.857267980025366,
+          14.030022317109424
+        ]
+      }
+    },
+    "least_central_aperture_radius_m": null
+  },
+  {
+    "target": "central_to_south",
+    "foot_height_m": 15,
+    "sector": "west_garden_span",
+    "deck_m": 8.5,
+    "margin_m": 0,
+    "aperture_radius_m": 2.5,
+    "westward_travel_m": 0,
+    "rooftop_actor": true,
+    "counts": {
+      "in_footprint": 123576,
+      "classic_45": 1255,
+      "horizontal": 16,
+      "caps_clear": 0,
+      "source_path_clear": 0
+    },
+    "smallest_sampled_patches": {
+      "in_footprint": {
+        "area_m2": 2.2018640823022055,
+        "pane_axes_m": [
+          0.9848207415027659,
+          2.235801897249157
+        ],
+        "normal_elevation_deg": 30,
+        "normal_azimuth_from_east_deg": 342,
+        "gap_m": 0.8999999999999999,
+        "actor_center_enh_m": [
+          -0.6061825863833957,
+          -3.136190178806329,
+          14.950000000000001
+        ],
+        "hit_center_enh_m": [
+          0.16044160286073014,
+          -3.3597867836912947,
+          15.367480368296237
+        ],
+        "hit_min_enh_m": [
+          -0.4646446559603987,
+          -3.910057210171555,
+          14.39988526351081
+        ],
+        "hit_max_enh_m": [
+          0.7698244357877453,
+          -2.7712072136303174,
+          16.336146504358027
+        ]
+      }
+    },
+    "least_central_aperture_radius_m": null
+  },
+  {
+    "target": "central_to_south",
+    "foot_height_m": 17,
+    "sector": "west_garden_span",
+    "deck_m": 8.5,
+    "margin_m": 0,
+    "aperture_radius_m": 2.5,
+    "westward_travel_m": 0,
+    "rooftop_actor": true,
+    "counts": {
+      "in_footprint": 124004,
+      "classic_45": 1596,
+      "horizontal": 23,
+      "caps_clear": 0,
+      "source_path_clear": 0
+    },
+    "smallest_sampled_patches": {
+      "in_footprint": {
+        "area_m2": 2.302956779056155,
+        "pane_axes_m": [
+          0.9926648535101736,
+          2.3199741291460487
+        ],
+        "normal_elevation_deg": 44,
+        "normal_azimuth_from_east_deg": 342,
+        "gap_m": 1.05,
+        "actor_center_enh_m": [
+          -0.5603110895393089,
+          -3.1510947316266584,
+          16.391217422036107
+        ],
+        "hit_center_enh_m": [
+          0.06475476879670494,
+          -3.325004283520823,
+          17.231506578370258
+        ],
+        "hit_min_enh_m": [
+          -0.7886226524528972,
+          -3.9052478581312613,
+          16.422740365525907
+        ],
+        "hit_max_enh_m": [
+          0.852828456759287,
+          -2.678833752590265,
+          18.091590092376666
+        ]
+      }
+    },
+    "least_central_aperture_radius_m": null
+  },
+  {
+    "target": "central_to_south",
+    "foot_height_m": 15,
+    "sector": "west_garden_span",
+    "deck_m": 10,
+    "margin_m": 2,
+    "aperture_radius_m": 3.2,
+    "westward_travel_m": 3,
+    "rooftop_actor": false,
+    "counts": {
+      "in_footprint": 36995,
+      "classic_45": 312,
+      "horizontal": 10,
+      "caps_clear": 0,
+      "source_path_clear": 0
+    },
+    "smallest_sampled_patches": {
+      "in_footprint": {
+        "area_m2": 8.955773812242974,
+        "pane_axes_m": [
+          1.834963997389949,
+          4.88062644552245
+        ],
+        "normal_elevation_deg": 43,
+        "normal_azimuth_from_east_deg": 339,
+        "gap_m": 5.85,
+        "actor_center_enh_m": [
+          -8.612128957931807,
+          -0.5514034006329542,
+          7.870619187268766
+        ],
+        "hit_center_enh_m": [
+          -5.258322536563429,
+          -1.8342386315903365,
+          12.5977176035653
+        ],
+        "hit_min_enh_m": [
+          -7.004289874345627,
+          -2.6655891113904424,
+          10.771722807880543
+        ],
+        "hit_max_enh_m": [
+          -3.436166009839045,
+          -0.770726719746083,
+          14.341187025033804
+        ]
+      }
+    },
+    "least_central_aperture_radius_m": null
+  },
+  {
+    "target": "west_roof_edge",
+    "foot_height_m": 12.5,
+    "sector": "west_garden_span",
+    "deck_m": 10,
+    "margin_m": 2,
+    "aperture_radius_m": 3.2,
+    "westward_travel_m": 0,
+    "rooftop_actor": false,
+    "counts": {
+      "in_footprint": 184,
+      "classic_45": 1,
+      "horizontal": 0,
+      "caps_clear": 0,
+      "source_path_clear": 0
+    },
+    "smallest_sampled_patches": {
+      "in_footprint": {
+        "area_m2": 4.735824352811574,
+        "pane_axes_m": [
+          1.3935417511364179,
+          3.3984086583337465
+        ],
+        "normal_elevation_deg": 57,
+        "normal_azimuth_from_east_deg": 351,
+        "gap_m": 2.55,
+        "actor_center_enh_m": [
+          -10.349082036058379,
+          4.197137612021278,
+          9.07278010347834
+        ],
+        "hit_center_enh_m": [
+          -9.557869903271566,
+          3.822373353196522,
+          11.56774110027046
+        ],
+        "hit_min_enh_m": [
+          -11.001996369054542,
+          3.0581518790898503,
+          10.692655115855086
+        ],
+        "hit_max_enh_m": [
+          -8.2687296042628,
+          4.696282511670166,
+          12.543561128116691
+        ]
+      }
+    },
+    "least_central_aperture_radius_m": null
+  },
+  {
+    "target": "south_roof_edge",
+    "foot_height_m": 12.5,
+    "sector": "west_garden_span",
+    "deck_m": 10,
+    "margin_m": 2,
+    "aperture_radius_m": 3.2,
+    "westward_travel_m": 0,
+    "rooftop_actor": false,
+    "counts": {
+      "in_footprint": 22893,
+      "classic_45": 215,
+      "horizontal": 8,
+      "caps_clear": 0,
+      "source_path_clear": 0
+    },
+    "smallest_sampled_patches": {
+      "in_footprint": {
+        "area_m2": 3.2916593289593865,
+        "pane_axes_m": [
+          1.0921739983019796,
+          3.0138598191103085
+        ],
+        "normal_elevation_deg": 45,
+        "normal_azimuth_from_east_deg": 336,
+        "gap_m": 2.85,
+        "actor_center_enh_m": [
+          -7.563110271721129,
+          -1.833828440687082,
+          9.319491347236681
+        ],
+        "hit_center_enh_m": [
+          -6.10926959793023,
+          -2.456894139156617,
+          11.768426805711087
+        ],
+        "hit_min_enh_m": [
+          -7.231894187859297,
+          -3.0682358572707997,
+          10.728818859547799
+        ],
+        "hit_max_enh_m": [
+          -5.0448912205234535,
+          -1.7379033126745487,
+          12.859939575186358
+        ]
+      }
+    },
+    "least_central_aperture_radius_m": null
+  },
+  {
+    "target": "central_to_south",
+    "foot_height_m": 12.5,
+    "sector": "west_and_street",
+    "deck_m": 8.5,
+    "margin_m": 0,
+    "aperture_radius_m": 2.5,
+    "westward_travel_m": 0,
+    "rooftop_actor": true,
+    "counts": {
+      "in_footprint": 4632,
+      "classic_45": 25,
+      "horizontal": 0,
+      "caps_clear": 0,
+      "source_path_clear": 0
+    },
+    "smallest_sampled_patches": {
+      "in_footprint": {
+        "area_m2": 15.303909370245814,
+        "pane_axes_m": [
+          1.5345999238021086,
+          9.972572742170486
+        ],
+        "normal_elevation_deg": 85,
+        "normal_azimuth_from_east_deg": 156,
+        "gap_m": 0.8999999999999999,
+        "actor_center_enh_m": [
+          1.019685119210262,
+          -3.6817089816139292,
+          11.556849543434861
+        ],
+        "hit_center_enh_m": [
+          1.5123529662005266,
+          -4.141414847787904,
+          12.516022373554685
+        ],
+        "hit_min_enh_m": [
+          -3.422507871488854,
+          -6.520743313238945,
+          12.046134063796762
+        ],
+        "hit_max_enh_m": [
+          5.544503054915076,
+          -2.020562769901872,
+          12.915301048245682
+        ]
+      }
+    },
+    "least_central_aperture_radius_m": null
+  },
+  {
+    "target": "central_to_south",
+    "foot_height_m": 15,
+    "sector": "west_and_street",
+    "deck_m": 8.5,
+    "margin_m": 0,
+    "aperture_radius_m": 2.5,
+    "westward_travel_m": 0,
+    "rooftop_actor": true,
+    "counts": {
+      "in_footprint": 11309,
+      "classic_45": 63,
+      "horizontal": 1,
+      "caps_clear": 0,
+      "source_path_clear": 0
+    },
+    "smallest_sampled_patches": {
+      "in_footprint": {
+        "area_m2": 12.421130015343342,
+        "pane_axes_m": [
+          1.4358965582747047,
+          8.650435119273423
+        ],
+        "normal_elevation_deg": 86,
+        "normal_azimuth_from_east_deg": 153,
+        "gap_m": 0.8999999999999999,
+        "actor_center_enh_m": [
+          0.9882440517787021,
+          -3.674903797475295,
+          14.054384709532318
+        ],
+        "hit_center_enh_m": [
+          1.526208575411271,
+          -4.114572092280331,
+          15.004058186907953
+        ],
+        "hit_min_enh_m": [
+          -2.5667340120345195,
+          -6.278139908108379,
+          14.691374141686932
+        ],
+        "hit_max_enh_m": [
+          5.168630945366139,
+          -2.2979005398250134,
+          15.294797991959786
+        ]
+      }
+    },
+    "least_central_aperture_radius_m": null
+  },
+  {
+    "target": "central_to_south",
+    "foot_height_m": 17,
+    "sector": "west_and_street",
+    "deck_m": 8.5,
+    "margin_m": 0,
+    "aperture_radius_m": 2.5,
+    "westward_travel_m": 0,
+    "rooftop_actor": true,
+    "counts": {
+      "in_footprint": 16439,
+      "classic_45": 94,
+      "horizontal": 3,
+      "caps_clear": 0,
+      "source_path_clear": 0
+    },
+    "smallest_sampled_patches": {
+      "in_footprint": {
+        "area_m2": 10.794224683963177,
+        "pane_axes_m": [
+          1.3946797479382047,
+          7.7395722565847755
+        ],
+        "normal_elevation_deg": 85,
+        "normal_azimuth_from_east_deg": 153,
+        "gap_m": 0.8999999999999999,
+        "actor_center_enh_m": [
+          1.0161492037355635,
+          -3.6891221825693252,
+          16.056849543434865
+        ],
+        "hit_center_enh_m": [
+          1.4278605566562657,
+          -4.045065674270881,
+          17.006519247368924
+        ],
+        "hit_min_enh_m": [
+          -2.2660562695189483,
+          -5.97529394366012,
+          16.65304211566092
+        ],
+        "hit_max_enh_m": [
+          4.649362141521287,
+          -2.395343682839413,
+          17.327590284232734
+        ]
+      }
+    },
+    "least_central_aperture_radius_m": null
+  },
+  {
+    "target": "central_to_south",
+    "foot_height_m": 15,
+    "sector": "west_and_street",
+    "deck_m": 10,
+    "margin_m": 2,
+    "aperture_radius_m": 3.2,
+    "westward_travel_m": 3,
+    "rooftop_actor": false,
+    "counts": {
+      "in_footprint": 0,
+      "classic_45": 0,
+      "horizontal": 0,
+      "caps_clear": 0,
+      "source_path_clear": 0
+    },
+    "smallest_sampled_patches": {},
+    "least_central_aperture_radius_m": null
+  },
+  {
+    "target": "west_roof_edge",
+    "foot_height_m": 12.5,
+    "sector": "west_and_street",
+    "deck_m": 10,
+    "margin_m": 2,
+    "aperture_radius_m": 3.2,
+    "westward_travel_m": 0,
+    "rooftop_actor": false,
+    "counts": {
+      "in_footprint": 843,
+      "classic_45": 0,
+      "horizontal": 1,
+      "caps_clear": 0,
+      "source_path_clear": 0
+    },
+    "smallest_sampled_patches": {
+      "in_footprint": {
+        "area_m2": 31.13669800625719,
+        "pane_axes_m": [
+          17.325754325185034,
+          1.7971337594806083
+        ],
+        "normal_elevation_deg": 78,
+        "normal_azimuth_from_east_deg": 63,
+        "gap_m": 2.25,
+        "actor_center_enh_m": [
+          -8.03037524587222,
+          2.928987971618537,
+          8.948335796697878
+        ],
+        "hit_center_enh_m": [
+          -3.351150856185315,
+          0.5596084742153365,
+          11.245798337970752
+        ],
+        "hit_min_enh_m": [
+          -11.235004564844674,
+          -3.7291156600560313,
+          11.05807640419101
+        ],
+        "hit_max_enh_m": [
+          4.382566364714492,
+          4.0990366769792175,
+          11.4317215227503
+        ]
+      }
+    },
+    "least_central_aperture_radius_m": null
+  },
+  {
+    "target": "south_roof_edge",
+    "foot_height_m": 12.5,
+    "sector": "west_and_street",
+    "deck_m": 10,
+    "margin_m": 2,
+    "aperture_radius_m": 3.2,
+    "westward_travel_m": 0,
+    "rooftop_actor": false,
+    "counts": {
+      "in_footprint": 1657,
+      "classic_45": 0,
+      "horizontal": 0,
+      "caps_clear": 0,
+      "source_path_clear": 0
+    },
+    "smallest_sampled_patches": {
+      "in_footprint": {
+        "area_m2": 21.56854729986156,
+        "pane_axes_m": [
+          1.4066646602328525,
+          15.333112368296227
+        ],
+        "normal_elevation_deg": 82,
+        "normal_azimuth_from_east_deg": 156,
+        "gap_m": 2.25,
+        "actor_center_enh_m": [
+          -3.3089231060635376,
+          -3.7279145995092597,
+          8.893793690662935
+        ],
+        "hit_center_enh_m": [
+          -2.112538170380562,
+          -4.509577376181315,
+          11.364192391706617
+        ],
+        "hit_min_enh_m": [
+          -10.056910994469858,
+          -7.665939647914303,
+          10.133007184561416
+        ],
+        "hit_max_enh_m": [
+          3.644193286343125,
+          -0.8148223943388793,
+          12.266963980226336
+        ]
+      }
+    },
+    "least_central_aperture_radius_m": null
+  }
+]

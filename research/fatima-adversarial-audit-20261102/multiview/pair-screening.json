@@ -1,0 +1,1556 @@
+[
+  {
+    "pair": [
+      1,
+      2
+    ],
+    "archive_ids": [
+      [
+        "D0000107"
+      ],
+      [
+        "D0000108"
+      ]
+    ],
+    "features": [
+      4923,
+      4851
+    ],
+    "mutual_ratio_matches": 3
+  },
+  {
+    "pair": [
+      1,
+      3
+    ],
+    "archive_ids": [
+      [
+        "D0000107"
+      ],
+      [
+        "D0000109"
+      ]
+    ],
+    "features": [
+      4923,
+      4960
+    ],
+    "mutual_ratio_matches": 1
+  },
+  {
+    "pair": [
+      1,
+      4
+    ],
+    "archive_ids": [
+      [
+        "D0000107"
+      ],
+      [
+        "D0000110"
+      ]
+    ],
+    "features": [
+      4923,
+      4904
+    ],
+    "mutual_ratio_matches": 0
+  },
+  {
+    "pair": [
+      1,
+      5
+    ],
+    "archive_ids": [
+      [
+        "D0000107"
+      ],
+      [
+        "D0000111"
+      ]
+    ],
+    "features": [
+      4923,
+      4914
+    ],
+    "mutual_ratio_matches": 1
+  },
+  {
+    "pair": [
+      1,
+      6
+    ],
+    "archive_ids": [
+      [
+        "D0000107"
+      ],
+      [
+        "D0000112"
+      ]
+    ],
+    "features": [
+      4923,
+      2040
+    ],
+    "mutual_ratio_matches": 2
+  },
+  {
+    "pair": [
+      1,
+      7
+    ],
+    "archive_ids": [
+      [
+        "D0000107"
+      ],
+      [
+        "D0000114"
+      ]
+    ],
+    "features": [
+      4923,
+      4897
+    ],
+    "mutual_ratio_matches": 2
+  },
+  {
+    "pair": [
+      1,
+      8
+    ],
+    "archive_ids": [
+      [
+        "D0000107"
+      ],
+      [
+        "D0000113"
+      ]
+    ],
+    "features": [
+      4923,
+      4818
+    ],
+    "mutual_ratio_matches": 0
+  },
+  {
+    "pair": [
+      1,
+      9
+    ],
+    "archive_ids": [
+      [
+        "D0000107"
+      ],
+      [
+        "D0000115"
+      ]
+    ],
+    "features": [
+      4923,
+      4853
+    ],
+    "mutual_ratio_matches": 0
+  },
+  {
+    "pair": [
+      1,
+      10
+    ],
+    "archive_ids": [
+      [
+        "D0000107"
+      ],
+      [
+        "D0000118"
+      ]
+    ],
+    "features": [
+      4923,
+      4949
+    ],
+    "mutual_ratio_matches": 0
+  },
+  {
+    "pair": [
+      1,
+      11
+    ],
+    "archive_ids": [
+      [
+        "D0000107"
+      ],
+      [
+        "D0000116"
+      ]
+    ],
+    "features": [
+      4923,
+      4999
+    ],
+    "mutual_ratio_matches": 2
+  },
+  {
+    "pair": [
+      1,
+      12
+    ],
+    "archive_ids": [
+      [
+        "D0000107"
+      ],
+      [
+        "D0000117"
+      ]
+    ],
+    "features": [
+      4923,
+      4891
+    ],
+    "mutual_ratio_matches": 1
+  },
+  {
+    "pair": [
+      1,
+      13
+    ],
+    "archive_ids": [
+      [
+        "D0000107"
+      ],
+      [
+        "D0000119"
+      ]
+    ],
+    "features": [
+      4923,
+      4956
+    ],
+    "mutual_ratio_matches": 0
+  },
+  {
+    "pair": [
+      2,
+      3
+    ],
+    "archive_ids": [
+      [
+        "D0000108"
+      ],
+      [
+        "D0000109"
+      ]
+    ],
+    "features": [
+      4851,
+      4960
+    ],
+    "mutual_ratio_matches": 2
+  },
+  {
+    "pair": [
+      2,
+      4
+    ],
+    "archive_ids": [
+      [
+        "D0000108"
+      ],
+      [
+        "D0000110"
+      ]
+    ],
+    "features": [
+      4851,
+      4904
+    ],
+    "mutual_ratio_matches": 6
+  },
+  {
+    "pair": [
+      2,
+      5
+    ],
+    "archive_ids": [
+      [
+        "D0000108"
+      ],
+      [
+        "D0000111"
+      ]
+    ],
+    "features": [
+      4851,
+      4914
+    ],
+    "mutual_ratio_matches": 4
+  },
+  {
+    "pair": [
+      2,
+      6
+    ],
+    "archive_ids": [
+      [
+        "D0000108"
+      ],
+      [
+        "D0000112"
+      ]
+    ],
+    "features": [
+      4851,
+      2040
+    ],
+    "mutual_ratio_matches": 4
+  },
+  {
+    "pair": [
+      2,
+      7
+    ],
+    "archive_ids": [
+      [
+        "D0000108"
+      ],
+      [
+        "D0000114"
+      ]
+    ],
+    "features": [
+      4851,
+      4897
+    ],
+    "mutual_ratio_matches": 1
+  },
+  {
+    "pair": [
+      2,
+      8
+    ],
+    "archive_ids": [
+      [
+        "D0000108"
+      ],
+      [
+        "D0000113"
+      ]
+    ],
+    "features": [
+      4851,
+      4818
+    ],
+    "mutual_ratio_matches": 4
+  },
+  {
+    "pair": [
+      2,
+      9
+    ],
+    "archive_ids": [
+      [
+        "D0000108"
+      ],
+      [
+        "D0000115"
+      ]
+    ],
+    "features": [
+      4851,
+      4853
+    ],
+    "mutual_ratio_matches": 2
+  },
+  {
+    "pair": [
+      2,
+      10
+    ],
+    "archive_ids": [
+      [
+        "D0000108"
+      ],
+      [
+        "D0000118"
+      ]
+    ],
+    "features": [
+      4851,
+      4949
+    ],
+    "mutual_ratio_matches": 0
+  },
+  {
+    "pair": [
+      2,
+      11
+    ],
+    "archive_ids": [
+      [
+        "D0000108"
+      ],
+      [
+        "D0000116"
+      ]
+    ],
+    "features": [
+      4851,
+      4999
+    ],
+    "mutual_ratio_matches": 1
+  },
+  {
+    "pair": [
+      2,
+      12
+    ],
+    "archive_ids": [
+      [
+        "D0000108"
+      ],
+      [
+        "D0000117"
+      ]
+    ],
+    "features": [
+      4851,
+      4891
+    ],
+    "mutual_ratio_matches": 1
+  },
+  {
+    "pair": [
+      2,
+      13
+    ],
+    "archive_ids": [
+      [
+        "D0000108"
+      ],
+      [
+        "D0000119"
+      ]
+    ],
+    "features": [
+      4851,
+      4956
+    ],
+    "mutual_ratio_matches": 3
+  },
+  {
+    "pair": [
+      3,
+      4
+    ],
+    "archive_ids": [
+      [
+        "D0000109"
+      ],
+      [
+        "D0000110"
+      ]
+    ],
+    "features": [
+      4960,
+      4904
+    ],
+    "mutual_ratio_matches": 1
+  },
+  {
+    "pair": [
+      3,
+      5
+    ],
+    "archive_ids": [
+      [
+        "D0000109"
+      ],
+      [
+        "D0000111"
+      ]
+    ],
+    "features": [
+      4960,
+      4914
+    ],
+    "mutual_ratio_matches": 2
+  },
+  {
+    "pair": [
+      3,
+      6
+    ],
+    "archive_ids": [
+      [
+        "D0000109"
+      ],
+      [
+        "D0000112"
+      ]
+    ],
+    "features": [
+      4960,
+      2040
+    ],
+    "mutual_ratio_matches": 2
+  },
+  {
+    "pair": [
+      3,
+      7
+    ],
+    "archive_ids": [
+      [
+        "D0000109"
+      ],
+      [
+        "D0000114"
+      ]
+    ],
+    "features": [
+      4960,
+      4897
+    ],
+    "mutual_ratio_matches": 1
+  },
+  {
+    "pair": [
+      3,
+      8
+    ],
+    "archive_ids": [
+      [
+        "D0000109"
+      ],
+      [
+        "D0000113"
+      ]
+    ],
+    "features": [
+      4960,
+      4818
+    ],
+    "mutual_ratio_matches": 8,
+    "fundamental_inliers": 7,
+    "homography_inliers": 4,
+    "F": [
+      [
+        -6.156147892814996e-08,
+        3.130325277586023e-07,
+        -0.00033177189659982977
+      ],
+      [
+        1.3846492770791662e-06,
+        1.7570647155319552e-06,
+        -0.003823037362570616
+      ],
+      [
+        0.00011742494082767067,
+        -0.0008833269944001835,
+        1.0
+      ]
+    ],
+    "H": [
+      [
+        -0.019948287217244856,
+        -0.15196527630585444,
+        172.94355327959718
+      ],
+      [
+        -0.23181645271732818,
+        0.3990983286148154,
+        180.9563807160406
+      ],
+      [
+        -0.0006408032724074931,
+        0.0001529346762261052,
+        1.0
+      ]
+    ]
+  },
+  {
+    "pair": [
+      3,
+      9
+    ],
+    "archive_ids": [
+      [
+        "D0000109"
+      ],
+      [
+        "D0000115"
+      ]
+    ],
+    "features": [
+      4960,
+      4853
+    ],
+    "mutual_ratio_matches": 1
+  },
+  {
+    "pair": [
+      3,
+      10
+    ],
+    "archive_ids": [
+      [
+        "D0000109"
+      ],
+      [
+        "D0000118"
+      ]
+    ],
+    "features": [
+      4960,
+      4949
+    ],
+    "mutual_ratio_matches": 0
+  },
+  {
+    "pair": [
+      3,
+      11
+    ],
+    "archive_ids": [
+      [
+        "D0000109"
+      ],
+      [
+        "D0000116"
+      ]
+    ],
+    "features": [
+      4960,
+      4999
+    ],
+    "mutual_ratio_matches": 3
+  },
+  {
+    "pair": [
+      3,
+      12
+    ],
+    "archive_ids": [
+      [
+        "D0000109"
+      ],
+      [
+        "D0000117"
+      ]
+    ],
+    "features": [
+      4960,
+      4891
+    ],
+    "mutual_ratio_matches": 2
+  },
+  {
+    "pair": [
+      3,
+      13
+    ],
+    "archive_ids": [
+      [
+        "D0000109"
+      ],
+      [
+        "D0000119"
+      ]
+    ],
+    "features": [
+      4960,
+      4956
+    ],
+    "mutual_ratio_matches": 5
+  },
+  {
+    "pair": [
+      4,
+      5
+    ],
+    "archive_ids": [
+      [
+        "D0000110"
+      ],
+      [
+        "D0000111"
+      ]
+    ],
+    "features": [
+      4904,
+      4914
+    ],
+    "mutual_ratio_matches": 41,
+    "fundamental_inliers": 38,
+    "homography_inliers": 28,
+    "F": [
+      [
+        3.717392172000575e-08,
+        -3.1460257642534135e-06,
+        0.0010028807958234178
+      ],
+      [
+        3.0370190269346976e-06,
+        1.993325182773145e-08,
+        0.0014070754783851605
+      ],
+      [
+        -0.0006561485014183535,
+        -0.0010250145041108218,
+        0.01576666276939414
+      ]
+    ],
+    "H": [
+      [
+        0.9413671617578776,
+        -0.020764432996783235,
+        132.60203268607265
+      ],
+      [
+        -0.023947869994551743,
+        0.9713835871293801,
+        -87.03800729088304
+      ],
+      [
+        -4.95784365893532e-05,
+        1.277967652397665e-05,
+        1.0
+      ]
+    ]
+  },
+  {
+    "pair": [
+      4,
+      6
+    ],
+    "archive_ids": [
+      [
+        "D0000110"
+      ],
+      [
+        "D0000112"
+      ]
+    ],
+    "features": [
+      4904,
+      2040
+    ],
+    "mutual_ratio_matches": 1
+  },
+  {
+    "pair": [
+      4,
+      7
+    ],
+    "archive_ids": [
+      [
+        "D0000110"
+      ],
+      [
+        "D0000114"
+      ]
+    ],
+    "features": [
+      4904,
+      4897
+    ],
+    "mutual_ratio_matches": 3
+  },
+  {
+    "pair": [
+      4,
+      8
+    ],
+    "archive_ids": [
+      [
+        "D0000110"
+      ],
+      [
+        "D0000113"
+      ]
+    ],
+    "features": [
+      4904,
+      4818
+    ],
+    "mutual_ratio_matches": 3
+  },
+  {
+    "pair": [
+      4,
+      9
+    ],
+    "archive_ids": [
+      [
+        "D0000110"
+      ],
+      [
+        "D0000115"
+      ]
+    ],
+    "features": [
+      4904,
+      4853
+    ],
+    "mutual_ratio_matches": 1
+  },
+  {
+    "pair": [
+      4,
+      10
+    ],
+    "archive_ids": [
+      [
+        "D0000110"
+      ],
+      [
+        "D0000118"
+      ]
+    ],
+    "features": [
+      4904,
+      4949
+    ],
+    "mutual_ratio_matches": 4
+  },
+  {
+    "pair": [
+      4,
+      11
+    ],
+    "archive_ids": [
+      [
+        "D0000110"
+      ],
+      [
+        "D0000116"
+      ]
+    ],
+    "features": [
+      4904,
+      4999
+    ],
+    "mutual_ratio_matches": 1
+  },
+  {
+    "pair": [
+      4,
+      12
+    ],
+    "archive_ids": [
+      [
+        "D0000110"
+      ],
+      [
+        "D0000117"
+      ]
+    ],
+    "features": [
+      4904,
+      4891
+    ],
+    "mutual_ratio_matches": 4
+  },
+  {
+    "pair": [
+      4,
+      13
+    ],
+    "archive_ids": [
+      [
+        "D0000110"
+      ],
+      [
+        "D0000119"
+      ]
+    ],
+    "features": [
+      4904,
+      4956
+    ],
+    "mutual_ratio_matches": 1
+  },
+  {
+    "pair": [
+      5,
+      6
+    ],
+    "archive_ids": [
+      [
+        "D0000111"
+      ],
+      [
+        "D0000112"
+      ]
+    ],
+    "features": [
+      4914,
+      2040
+    ],
+    "mutual_ratio_matches": 1
+  },
+  {
+    "pair": [
+      5,
+      7
+    ],
+    "archive_ids": [
+      [
+        "D0000111"
+      ],
+      [
+        "D0000114"
+      ]
+    ],
+    "features": [
+      4914,
+      4897
+    ],
+    "mutual_ratio_matches": 1
+  },
+  {
+    "pair": [
+      5,
+      8
+    ],
+    "archive_ids": [
+      [
+        "D0000111"
+      ],
+      [
+        "D0000113"
+      ]
+    ],
+    "features": [
+      4914,
+      4818
+    ],
+    "mutual_ratio_matches": 0
+  },
+  {
+    "pair": [
+      5,
+      9
+    ],
+    "archive_ids": [
+      [
+        "D0000111"
+      ],
+      [
+        "D0000115"
+      ]
+    ],
+    "features": [
+      4914,
+      4853
+    ],
+    "mutual_ratio_matches": 2
+  },
+  {
+    "pair": [
+      5,
+      10
+    ],
+    "archive_ids": [
+      [
+        "D0000111"
+      ],
+      [
+        "D0000118"
+      ]
+    ],
+    "features": [
+      4914,
+      4949
+    ],
+    "mutual_ratio_matches": 1
+  },
+  {
+    "pair": [
+      5,
+      11
+    ],
+    "archive_ids": [
+      [
+        "D0000111"
+      ],
+      [
+        "D0000116"
+      ]
+    ],
+    "features": [
+      4914,
+      4999
+    ],
+    "mutual_ratio_matches": 2
+  },
+  {
+    "pair": [
+      5,
+      12
+    ],
+    "archive_ids": [
+      [
+        "D0000111"
+      ],
+      [
+        "D0000117"
+      ]
+    ],
+    "features": [
+      4914,
+      4891
+    ],
+    "mutual_ratio_matches": 3
+  },
+  {
+    "pair": [
+      5,
+      13
+    ],
+    "archive_ids": [
+      [
+        "D0000111"
+      ],
+      [
+        "D0000119"
+      ]
+    ],
+    "features": [
+      4914,
+      4956
+    ],
+    "mutual_ratio_matches": 0
+  },
+  {
+    "pair": [
+      6,
+      7
+    ],
+    "archive_ids": [
+      [
+        "D0000112"
+      ],
+      [
+        "D0000114"
+      ]
+    ],
+    "features": [
+      2040,
+      4897
+    ],
+    "mutual_ratio_matches": 2
+  },
+  {
+    "pair": [
+      6,
+      8
+    ],
+    "archive_ids": [
+      [
+        "D0000112"
+      ],
+      [
+        "D0000113"
+      ]
+    ],
+    "features": [
+      2040,
+      4818
+    ],
+    "mutual_ratio_matches": 4
+  },
+  {
+    "pair": [
+      6,
+      9
+    ],
+    "archive_ids": [
+      [
+        "D0000112"
+      ],
+      [
+        "D0000115"
+      ]
+    ],
+    "features": [
+      2040,
+      4853
+    ],
+    "mutual_ratio_matches": 0
+  },
+  {
+    "pair": [
+      6,
+      10
+    ],
+    "archive_ids": [
+      [
+        "D0000112"
+      ],
+      [
+        "D0000118"
+      ]
+    ],
+    "features": [
+      2040,
+      4949
+    ],
+    "mutual_ratio_matches": 6
+  },
+  {
+    "pair": [
+      6,
+      11
+    ],
+    "archive_ids": [
+      [
+        "D0000112"
+      ],
+      [
+        "D0000116"
+      ]
+    ],
+    "features": [
+      2040,
+      4999
+    ],
+    "mutual_ratio_matches": 3
+  },
+  {
+    "pair": [
+      6,
+      12
+    ],
+    "archive_ids": [
+      [
+        "D0000112"
+      ],
+      [
+        "D0000117"
+      ]
+    ],
+    "features": [
+      2040,
+      4891
+    ],
+    "mutual_ratio_matches": 1
+  },
+  {
+    "pair": [
+      6,
+      13
+    ],
+    "archive_ids": [
+      [
+        "D0000112"
+      ],
+      [
+        "D0000119"
+      ]
+    ],
+    "features": [
+      2040,
+      4956
+    ],
+    "mutual_ratio_matches": 4
+  },
+  {
+    "pair": [
+      7,
+      8
+    ],
+    "archive_ids": [
+      [
+        "D0000114"
+      ],
+      [
+        "D0000113"
+      ]
+    ],
+    "features": [
+      4897,
+      4818
+    ],
+    "mutual_ratio_matches": 3
+  },
+  {
+    "pair": [
+      7,
+      9
+    ],
+    "archive_ids": [
+      [
+        "D0000114"
+      ],
+      [
+        "D0000115"
+      ]
+    ],
+    "features": [
+      4897,
+      4853
+    ],
+    "mutual_ratio_matches": 0
+  },
+  {
+    "pair": [
+      7,
+      10
+    ],
+    "archive_ids": [
+      [
+        "D0000114"
+      ],
+      [
+        "D0000118"
+      ]
+    ],
+    "features": [
+      4897,
+      4949
+    ],
+    "mutual_ratio_matches": 1
+  },
+  {
+    "pair": [
+      7,
+      11
+    ],
+    "archive_ids": [
+      [
+        "D0000114"
+      ],
+      [
+        "D0000116"
+      ]
+    ],
+    "features": [
+      4897,
+      4999
+    ],
+    "mutual_ratio_matches": 4
+  },
+  {
+    "pair": [
+      7,
+      12
+    ],
+    "archive_ids": [
+      [
+        "D0000114"
+      ],
+      [
+        "D0000117"
+      ]
+    ],
+    "features": [
+      4897,
+      4891
+    ],
+    "mutual_ratio_matches": 2
+  },
+  {
+    "pair": [
+      7,
+      13
+    ],
+    "archive_ids": [
+      [
+        "D0000114"
+      ],
+      [
+        "D0000119"
+      ]
+    ],
+    "features": [
+      4897,
+      4956
+    ],
+    "mutual_ratio_matches": 0
+  },
+  {
+    "pair": [
+      8,
+      9
+    ],
+    "archive_ids": [
+      [
+        "D0000113"
+      ],
+      [
+        "D0000115"
+      ]
+    ],
+    "features": [
+      4818,
+      4853
+    ],
+    "mutual_ratio_matches": 3
+  },
+  {
+    "pair": [
+      8,
+      10
+    ],
+    "archive_ids": [
+      [
+        "D0000113"
+      ],
+      [
+        "D0000118"
+      ]
+    ],
+    "features": [
+      4818,
+      4949
+    ],
+    "mutual_ratio_matches": 2
+  },
+  {
+    "pair": [
+      8,
+      11
+    ],
+    "archive_ids": [
+      [
+        "D0000113"
+      ],
+      [
+        "D0000116"
+      ]
+    ],
+    "features": [
+      4818,
+      4999
+    ],
+    "mutual_ratio_matches": 6
+  },
+  {
+    "pair": [
+      8,
+      12
+    ],
+    "archive_ids": [
+      [
+        "D0000113"
+      ],
+      [
+        "D0000117"
+      ]
+    ],
+    "features": [
+      4818,
+      4891
+    ],
+    "mutual_ratio_matches": 0
+  },
+  {
+    "pair": [
+      8,
+      13
+    ],
+    "archive_ids": [
+      [
+        "D0000113"
+      ],
+      [
+        "D0000119"
+      ]
+    ],
+    "features": [
+      4818,
+      4956
+    ],
+    "mutual_ratio_matches": 3
+  },
+  {
+    "pair": [
+      9,
+      10
+    ],
+    "archive_ids": [
+      [
+        "D0000115"
+      ],
+      [
+        "D0000118"
+      ]
+    ],
+    "features": [
+      4853,
+      4949
+    ],
+    "mutual_ratio_matches": 4
+  },
+  {
+    "pair": [
+      9,
+      11
+    ],
+    "archive_ids": [
+      [
+        "D0000115"
+      ],
+      [
+        "D0000116"
+      ]
+    ],
+    "features": [
+      4853,
+      4999
+    ],
+    "mutual_ratio_matches": 1
+  },
+  {
+    "pair": [
+      9,
+      12
+    ],
+    "archive_ids": [
+      [
+        "D0000115"
+      ],
+      [
+        "D0000117"
+      ]
+    ],
+    "features": [
+      4853,
+      4891
+    ],
+    "mutual_ratio_matches": 4
+  },
+  {
+    "pair": [
+      9,
+      13
+    ],
+    "archive_ids": [
+      [
+        "D0000115"
+      ],
+      [
+        "D0000119"
+      ]
+    ],
+    "features": [
+      4853,
+      4956
+    ],
+    "mutual_ratio_matches": 1
+  },
+  {
+    "pair": [
+      10,
+      11
+    ],
+    "archive_ids": [
+      [
+        "D0000118"
+      ],
+      [
+        "D0000116"
+      ]
+    ],
+    "features": [
+      4949,
+      4999
+    ],
+    "mutual_ratio_matches": 5
+  },
+  {
+    "pair": [
+      10,
+      12
+    ],
+    "archive_ids": [
+      [
+        "D0000118"
+      ],
+      [
+        "D0000117"
+      ]
+    ],
+    "features": [
+      4949,
+      4891
+    ],
+    "mutual_ratio_matches": 4
+  },
+  {
+    "pair": [
+      10,
+      13
+    ],
+    "archive_ids": [
+      [
+        "D0000118"
+      ],
+      [
+        "D0000119"
+      ]
+    ],
+    "features": [
+      4949,
+      4956
+    ],
+    "mutual_ratio_matches": 4
+  },
+  {
+    "pair": [
+      11,
+      12
+    ],
+    "archive_ids": [
+      [
+        "D0000116"
+      ],
+      [
+        "D0000117"
+      ]
+    ],
+    "features": [
+      4999,
+      4891
+    ],
+    "mutual_ratio_matches": 3
+  },
+  {
+    "pair": [
+      11,
+      13
+    ],
+    "archive_ids": [
+      [
+        "D0000116"
+      ],
+      [
+        "D0000119"
+      ]
+    ],
+    "features": [
+      4999,
+      4956
+    ],
+    "mutual_ratio_matches": 2
+  },
+  {
+    "pair": [
+      12,
+      13
+    ],
+    "archive_ids": [
+      [
+        "D0000117"
+      ],
+      [
+        "D0000119"
+      ]
+    ],
+    "features": [
+      4891,
+      4956
+    ],
+    "mutual_ratio_matches": 1
+  }
+]

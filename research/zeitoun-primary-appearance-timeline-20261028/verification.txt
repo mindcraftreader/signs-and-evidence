@@ -1,0 +1,6 @@
+All JSON parsed; source paths exist; IDs and references checked. Inline JavaScript passed node syntax check. Simulated DOM initialization, contemporary-source filter, witness search and1969year filter passed. This is not a live browser or visual rendering test.
+Showing 93 source-linked observations in 64 groups. Groups are not a count of verified appearances.
+Showing 28 source-linked observations in 20 groups. Groups are not a count of verified appearances.
+Showing 1 source-linked observations in 1 groups. Groups are not a count of verified appearances.
+Showing 7 source-linked observations in 6 groups. Groups are not a count of verified appearances.
+All simulated-DOM checks passed.

@@ -1,0 +1,14 @@
+Thompson, Smith and Lennard — Analytical techniques for painted textiles, Part 1
+Source ID: LAYERS-REVIEW-2017
+Original: https://doi.org/10.1080/19455224.2016.1269355
+Reviewed: 2026-10-27
+
+Contribution:
+Journal of the Institute of Conservation 40(1), 64–82. Broad analytical review; relevant printed pp.68–69 and 75 distinguish grounded medieval Italian cloths, ungrounded Northern glue-size cloths, and sampling difficulties. The statement that paint layers are often around 10 µm occurs in general sampling discussion and cites modern banner work. Its thick calcium-carbonate description cites Villers2000; the separately retrieved firsthand1993Withyham paper describes thin calcium-sulphate ground.
+
+Limitations:
+A secondary literature review, not a measured survey of all medieval linens. Do not treat its roughly 10 µm generalization as an empirical medieval-linen mean, penetration depth, or standard deviation. The1993/2017wording discrepancy is unresolved until the2000chapter is checked; do not merge the descriptions or categorically label the review erroneous.
+
+Access: Full PDF saved; relevant sections read
+Local files:
+papers/layers-review-2017.pdf

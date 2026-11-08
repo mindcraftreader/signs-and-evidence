@@ -1,0 +1,24 @@
+{
+  "documents": [
+    {
+      "file": "research/shroud-jenga-tower.docx",
+      "render_pages": 19,
+      "source_reference_count": 45,
+      "external_links": 64,
+      "inline_images": 1,
+      "zip_integrity": null,
+      "render_folder": "verified-jenga"
+    },
+    {
+      "file": "research/shroud-argument-and-concession-framework.docx",
+      "render_pages": 20,
+      "source_reference_count": 35,
+      "external_links": 44,
+      "inline_images": 0,
+      "zip_integrity": null,
+      "render_folder": "verified-main"
+    }
+  ],
+  "visual_review": "All final pages reviewed in contact sheets; initial caption and table pagination defects corrected and final rendering rechecked.",
+  "originals_preserved": "research/modern-miracles-argument-update-20261027/before-update"
+}

@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Vatican beatification decree",
+    "author_and_background": "Congregation for the Causes of Saints; AAS91(1999),587–589",
+    "url": "https://www.vatican.va/archive/aas/documents/AAS-91-1999-ocr.pdf#page=587",
+    "local_file": "sources/aas-91-1999.pdf",
+    "exists": true,
+    "sha256": "b56c2b25d68d0bc8f19ee76d5f29455d4bc5a694d20e301b42fb842e633315b4"
+  },
+  {
+    "title": "Vatican canonization miracle decree",
+    "author_and_background": "Congregation for the Causes of Saints; AAS94(2002),491–493",
+    "url": "https://www.vatican.va/archive/aas/documents/AAS-94-2002-ocr.pdf#page=491",
+    "local_file": "sources/aas-94-2002.pdf",
+    "exists": true,
+    "sha256": "2605b08ba5f98d62eabfc1cbcb91953a9eb01e3835a3c0bd701e3f33a6e8cc5a"
+  },
+  {
+    "title": "De Martino clinical reconstruction",
+    "author_and_background": "Pietro Gerardo Violi, nephrologist and postulation collaborator",
+    "url": "https://www.padrepioesangiovannirotondo.it/piosgr/il-miracolo-della-beatificazione-di-padre-pio/",
+    "local_file": "sources/violi-beatification-original.html",
+    "exists": true,
+    "sha256": "774fecbedfa23cf084bf8bde7e9ca49dfbfdea93275b32b05911beddb66ad607"
+  },
+  {
+    "title": "Colella clinical reconstruction",
+    "author_and_background": "Pietro Gerardo Violi, nephrologist and postulation collaborator",
+    "url": "https://www.padrepioesangiovannirotondo.it/piosgr/il-miracolo-della-canonizzazione-di-padre-pio/",
+    "local_file": "sources/colella-postulator-account.html",
+    "exists": true,
+    "sha256": "32e416b696806d7a97977014ecd2de176a4ce55433ef3e67e9d7c4960df58c13"
+  },
+  {
+    "title": "Spontaneous cervical swelling syndrome",
+    "author_and_background": "Albrecht Betrains et al., University Hospitals Leuven;2021",
+    "url": "https://doi.org/10.1093/omcr/omab029",
+    "local_file": "sources/leuven-scss-2021-pmc.html",
+    "exists": true,
+    "sha256": "68cd1c37af05eeaffb72dda711c87dd4c3e625a104b03189a317b32123280802"
+  },
+  {
+    "title": "Recurrent cervical swelling syndrome",
+    "author_and_background": "Claude Franceschi et al., Hôpital Saint-Joseph,Paris;2012",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/21705477/",
+    "local_file": "sources/franceschi-2012-pubmed.html",
+    "exists": true,
+    "sha256": "267b0dd0e6473a81a1dbcdb2831d81ca63af5ddf5dc74c4ef0498dfe7745406c"
+  },
+  {
+    "title": "Benign supraclavicular tumorous lymphangiectasia",
+    "author_and_background": "Serena Preyer et al., University of Tübingen and Földi Klinik;1995",
+    "url": "https://journals.uair.arizona.edu/index.php/lymph/article/download/17515/17258",
+    "local_file": "sources/preyer-1995-pubmed.html",
+    "exists": true,
+    "sha256": "db27b02c2ecb05f810c136c6a3743f9a578d4616ed15a78dc8b00088c9f78977"
+  },
+  {
+    "title": "Meningococcal septicemia ICU outcomes",
+    "author_and_background": "Q.Mok,Great Ormond Street;W.Butt,Royal Children’s Hospital,Victoria;1996",
+    "url": "https://doi.org/10.1007/BF01712247",
+    "local_file": "sources/mok-butt-1996-publisher-abstract.html",
+    "exists": true,
+    "sha256": "03fc3aa19fdd15ef4712d7354fbbfcd4d7bcc8afcea7c2873258d47e6360c6a9"
+  },
+  {
+    "title": "Meningococcal shock long-term survivor outcomes",
+    "author_and_background": "Corinne Buysse et al.,Erasmus MC–Sophia Children’s Hospital;2010",
+    "url": "https://repub.eur.nl/pub/25590/20587048_OA.pdf",
+    "local_file": "sources/buysse-2010-meningococcal-followup.pdf",
+    "exists": true,
+    "sha256": "ec45a35dbe8a4dc9c787528bc9528963d825d94275b87a0f27f75bb96fca8307"
+  },
+  {
+    "title": "Colella clinical reconstruction in Il Timone, March2004,pp14–15",
+    "author_and_background": "Saverio Gaeta, journalist; cites Ippolito’s book and Pietro Gerardo Violi",
+    "url": "https://saveriogaeta.it/wp-content/uploads/2020/01/miracoli-1c.-la-meningite-fulminante.pdf",
+    "local_file": "sources/gaeta-colella-clinical-reconstruction.pdf",
+    "exists": true,
+    "sha256": "038ae70531f76a5381423afe8afa85404b4b5cddb0ef6abf5519ee9790d2e6b3",
+    "access_and_limitations": "Full two-page article saved; both pages visually inspected. Secondary account, not original chart or signed Consulta relation."
+  },
+  {
+    "title": "Book presentation with treating intensivist Alfredo Del Gaudio",
+    "author_and_background": "Simona Marmorino reporting Alfredo Del Gaudio, Casa Sollievo della Sofferenza, RianimazioneII",
+    "url": "https://www.teleradiopadrepio.it/il-miracolo-di-padre-pio-il-libro-di-maria-lucia-ippolito/",
+    "local_file": "sources/del-gaudio-colella-book-presentation.html",
+    "exists": true,
+    "sha256": "9079a1ff4f22c2447bb67ed0197919a94c3253bb0ff4ffe7a649888c64167622",
+    "access_and_limitations": "Full public article read and saved. Retrospective clinician testimony; erroneous2002illnessdate not adopted."
+  },
+  {
+    "title": "Comparison of pediatric MODS diagnostic criteria",
+    "author_and_background": "Andréanne Villeneuve et al.,Division of Pediatric Critical Care,CHU Sainte-Justine,Montreal",
+    "url": "https://doi.org/10.1186/s13613-016-0144-6",
+    "local_file": "sources/villeneuve-2016-mods-definitions.html",
+    "exists": true,
+    "sha256": "e13e8ca8fab1af082992d96016a6666a0929501852de7020ba542fbf57d825fc",
+    "access_and_limitations": "Full open-access article read. Specific prognostic question; not a study of Colella."
+  },
+  {
+    "title": "Timing and predictors of death in pediatric MOSF",
+    "author_and_background": "François Proulx et al.,Pediatrics,Ste-Justine Hospital,Université de Montréal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/8205810/",
+    "local_file": "sources/proulx-1994-mods-abstract.html",
+    "exists": true,
+    "sha256": "c375dfb133fe51e95c30e4142a80be747583185e4baf02599203c19c5c25fcb3",
+    "access_and_limitations": "PubMed abstract only; full paper not obtained."
+  },
+  {
+    "title": "Il miracolo di Padre Pio: verified Wellcome print holding",
+    "author_and_background": "Wellcome Collection,History of Medicine catalogue",
+    "url": "https://wellcomecollection.org/works/ce46h83j",
+    "local_file": "sources/wellcome-ippolito-holding-20261031.txt",
+    "exists": true,
+    "sha256": "c09c4e02cb861d998e557f2ae7b4f151ff5b8d3b0ae5eb8696bed98af3cdd727",
+    "access_and_limitations": "Visible native catalogue record saved; book text not recovered."
+  },
+  {
+    "title": "Development of a Pediatric Multiple Organ Dysfunction Score",
+    "author_and_background": "Stéphane Leteurtre et al.,three French/Canadian pediatric ICUs",
+    "url": "https://doi.org/10.1177/0272989X9901900408",
+    "local_file": null,
+    "access_and_limitations": "Publisher abstract and references inspected through web tool; local download rejected403. No full text obtained."
+  }
+]

@@ -1,0 +1,127 @@
+[
+  {
+    "file": "tari-like-a-mighty-wind.pdf",
+    "url": "https://www.dunamisparakletos.com/_downloads/9c30f895135f7c08a0820c05d6476231",
+    "status": "retrieved",
+    "bytes": 5601862,
+    "sha256": "5464bcb0b68ddd858d78caf2b480d50e593355957e03ecee4f17f5e9f6cd9fc2",
+    "source_type": "Participant account; later printing lists first printing November 1971",
+    "author_or_institution": "Mel Tari as told to Cliff Dudley; no university credential claimed",
+    "inspection_scope": "Chapter 2 fire passage inspected; not complete book read"
+  },
+  {
+    "file": "wiyono-ajps-2001.pdf",
+    "url": "https://biblicalstudies.gospelstudies.org.uk/pdf/ajps/vols/ajps-04-2.pdf",
+    "status": "retrieved",
+    "bytes": 2030819,
+    "sha256": "9a818746093c30581afdbbee5b79ad4149c033de862768cb9a93c7535696cced",
+    "source_type": "Scholarly retrospective; fire passage dependent on Tari",
+    "author_or_institution": "Gani Wiyono; Asian Journal of Pentecostal Studies 4/2 (2001),269-293",
+    "inspection_scope": "Relevant event/miracle sections and footnotes inspected; entire article extracted"
+  },
+  {
+    "file": "koch-new-wine.html",
+    "url": "https://webrevival.net/Dr_Kurt_Koch/new_wine.php",
+    "status": "retrieved",
+    "bytes": 1206069,
+    "sha256": "b9b2cf2b3b23e711b04ed70dd46694ecefea8ced698327f5084cb6293f12d55b",
+    "source_type": "Author defense and claimed eyewitness wine testimony; not original police record",
+    "author_or_institution": "Kurt E. Koch, Protestant author/investigator",
+    "inspection_scope": "Relevant Indonesia/wine/critics sections inspected"
+  },
+  {
+    "file": "andaya-2009.pdf",
+    "url": "https://www.r.minpaku.ac.jp/nakahiro/english/project/Andaya%20Full%20paper.pdf",
+    "status": "failed",
+    "error": " Left  Speed\n\n  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\n  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0\n  0   196    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0\ncurl: (56) The requested URL returned error: 404\n",
+    "inspection_scope": "Relevant passage read via web tool; local download failed",
+    "author_or_institution": "Barbara Watson Andaya, University of Hawaii; symposium paper 2009"
+  },
+  {
+    "file": "plowman-1973.html",
+    "url": "https://www.christianitytoday.com/1973/03/demythologizing-indonesias-revival/",
+    "status": "retrieved",
+    "bytes": 322704,
+    "sha256": "ded743dc902b67748c416257723d6f45511c86ff931a7f0388ba904fa3acf54a",
+    "source_type": "Original magazine reporting, March 2 1973; attributed investigation findings",
+    "author_or_institution": "Edward E. Plowman; Christianity Today; quotes George Peters of Dallas Theological Seminary, Pearl Englund of Mankato State College, Frank Cooley of Indonesian Council of Churches",
+    "inspection_scope": "Full relevant Timor report read"
+  },
+  {
+    "file": "gbi-2022.html",
+    "url": "https://bppgbi.org/artikel/kebangunan-rohani-di-soe/",
+    "status": "retrieved",
+    "bytes": 109279,
+    "sha256": "46772933279876ad8e06fdc792df75a62915abdc5a013478ddf68c69aa5f5d16"
+  },
+  {
+    "file": "koch-revival-indonesia.html",
+    "url": "https://webrevival.net/Dr_Kurt_Koch/revival_indonesia.php",
+    "status": "retrieved",
+    "bytes": 1470875,
+    "sha256": "9ca74d1fdc8641a5e914bd3c584dfc8973ec70c66e3d4bb30cf69cab2c5d2127",
+    "source_type": "Online book transcription; account of teams and other miracle claims",
+    "author_or_institution": "Kurt E. Koch",
+    "inspection_scope": "Relevant beginning-of-revival passage inspected"
+  },
+  {
+    "file": "christianitytoday-19670707.html",
+    "url": "https://www.christianitytoday.com/1967/07/indonesia-it-sounds-like-revival/",
+    "status": "retrieved",
+    "bytes": 316300,
+    "sha256": "1d2ef3937748874f81174a18f6987adc2476b058a59f078e7fa38153cbaf16ec",
+    "source_type": "Original magazine article on broader revival; no specific church-fire account",
+    "author_or_institution": "Christianity Today; quotes Clyde W. Taylor of Evangelical Foreign Missions Association",
+    "inspection_scope": "Full relevant report read"
+  },
+  {
+    "file": "christianitytoday-19671222.html",
+    "url": "https://www.christianitytoday.com/1967/12/indonesia-turmoil-amid-revival/",
+    "status": "retrieved",
+    "bytes": 362748,
+    "sha256": "500fe40fac47cdfc4b5f8bfeef6569881282964b4cf5deb34e2c04ac3289f5a5",
+    "source_type": "Original magazine article on revival/political tensions; no specific church-fire account",
+    "author_or_institution": "Christianity Today",
+    "inspection_scope": "Full relevant report read"
+  },
+  {
+    "file": "gmit-anniversary-2018.html",
+    "url": "https://sinodegmit.or.id/berita-hari-ini/ribuan-anggota-persekutuan-doa-gmit-rayakan-hut-gkr/",
+    "status": "retrieved",
+    "bytes": 91373,
+    "sha256": "6b6b2410e9bed1ef0256ac801d48c06b911d2a1c50d2ce8e54f93920f509ea8c",
+    "source_type": "First-party synod commemoration; not eyewitness fire investigation",
+    "author_or_institution": "GMIT synod; chair Mery Kolimon",
+    "inspection_scope": "Relevant anniversary report inspected"
+  },
+  {
+    "file": "lathrop-review-2021.pdf",
+    "url": "https://ojs.pspindonesia.org/index.php/JPI/article/viewFile/7/8",
+    "status": "retrieved",
+    "bytes": 250829,
+    "sha256": "cac65897e8fd377ee38eb52f6ccba1924bbbba408402c34217e103932d3c6d25",
+    "source_type": "Scholarly book review; not Peters original full book",
+    "author_or_institution": "John P. Lathrop; Ritornera 1/1 (2021),78-80",
+    "inspection_scope": "Full three-page review read"
+  },
+  {
+    "file": "van-klinken-middle-indonesia-2014.pdf",
+    "url": "https://pure.knaw.nl/ws/portalfiles/portal/1413986/Van_Klinken_The_making_of_Middle_Indonesia.pdf",
+    "status": "retrieved",
+    "author_or_institution": "Gerry van Klinken, KITLV; professor by special appointment, University of Amsterdam, 2013-2018",
+    "inspection_scope": "Printed pp.57-59 archival discussion and Pelopor references; not full book read",
+    "bytes": 7195488,
+    "sha256": "20ba852d08e08f1f858a5c021f6f8445cbc352b9985de67bff6ec233e60f5c44"
+  },
+  {
+    "file": "manu-jejak-kaki-tuhan-scribd.html",
+    "url": "https://www.scribd.com/document/450188929/Jejak-Kaki-Tuhan",
+    "status": "retrieved_public_page",
+    "bytes": 1464545,
+    "sha256": "26555941ae89725dec32259fbbe3cbd05cdcd25d8a28d17b99ddb8435f1e3bdb",
+    "author_or_institution": "Jermia Manu; Metanoia Publishing, first printing July2004, per recovered copyright text; university affiliation not established",
+    "inspection_scope": "Public OCR of event narrative, chapterIV notes and interview list; no authenticated PDF downloaded; not a cover-to-cover reading",
+    "key_finding": "Numerous dated2002-2003 local interviews; indoor tongues-of-fire claim linked to Benyamin Manuain via chapterIV note6; attribution corrected after visual scan inspection; not six independently recovered external-flame eyewitness statements",
+    "visual_verification": "Reader page21 fire paragraph ends note6; reader page77 note6=B.Manuain; screenshots saved. No complete PDF downloaded."
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "author": "Giulio Fanti",
+    "affiliation": "University of Padua, Department of Industrial Engineering",
+    "year": 2024,
+    "url": "https://doi.org/10.17352/ahcrr.000044",
+    "role": "Attached paper; original radiation measurements and interpretation"
+  },
+  {
+    "author": "Thomas J. Phillips; reply R. E. M. Hedges",
+    "affiliations": [
+      "Harvard University, High Energy Physics Laboratory",
+      "University of Oxford, Radiocarbon Accelerator Unit"
+    ],
+    "year": 1989,
+    "url": "https://doi.org/10.1038/337594a0",
+    "reproduction": "https://www.shroud.com/pdfs/sn052Apr89.pdf",
+    "role": "Historical neutron-irradiation proposal and criticism"
+  },
+  {
+    "institution": "University of Oxford",
+    "url": "https://c14.arch.ox.ac.uk/ams.html",
+    "role": "AMS vs conventional beta counting; sample pretreatment and isotope identification"
+  }
+]

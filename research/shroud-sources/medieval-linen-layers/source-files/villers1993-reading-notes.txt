@@ -1,0 +1,12 @@
+Villers, Stevenson and Sharp, The Technique of Four 14th-Century Italian Paintings on Fabric Supports. ICOM Committee for Conservation1993,volI,pp104–109.
+Official publisher record: https://www.icom-cc-publications-online.org/2736/The-Technique-of-Four-14th-Century-Italian-Paintings-on-Fabric-Supports
+All six scanned pages visually read,27October2026. The running headers confirm1993; the Southampton later bibliography assigning this exact title to1990Dresden is inconsistent with the actual paper and publisher record.
+
+p104: four Withyham Passion scenes, late14th-centuryFlorentine, possibly Gerini circle; study in progress.
+p105: each approximately1m², each two fabric pieces neatly backstitched; medium-weight closely woven linen,17×15yarns/cm².
+p106: later animal-skin-glue attachment to mahogany, assumed English. Ground unpigmented white calcium sulphate, mixture of anhydrite and gypsum identified by XRD, normal skin-glue binder indicated by solubility. No evidence of layered application; later glue stained ground yellow; original size cannot be distinguished. Authors describe ground as thin and contrast it with Northern sized/no-ground cloths. Starch/sugar not tested. They report grounds in Spinello, Barnaba da Siena, Monaco Intercession and Lippo di Dalmasio based on technical examinations/personal communications, not numerical data reproduced here.
+p107: very thin red bole for gilding; egg-tempera paint medium identified.
+p108: generally one paint layer with glazes, occasionally two; Cennini's advice for thicker canvas paint is not borne out by these cross-sections. Flesh has three described strata: thin green earth, verdaccio, vermilion/lead-white finish. Pigments studied by optical microscopy and sometimes SEM/EDX.
+p109: only Flagellation and Mocking closely examined by publication; other work ongoing. Fiber identification credited to Dinah Eastop. FTIR and differential scanning calorimetry credited for medium identification. No calibrated cross-section image or micrometre film/fiber-depth distribution printed in this six-page paper.
+
+Unresolved discrepancy: Thompson etal2017 describe thick calcium-carbonate ground in14th-centurylinen, citing Villers2000p4. Directly verified1993 Withyham paper instead describes thin calcium-sulphate ground. The2000chapter has not been obtained, so revised analysis/different work or layer cannot yet be excluded; do not label the review categorically erroneous or merge its account with1993.

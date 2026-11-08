@@ -1,0 +1,106 @@
+{
+  "research_date": "2026-10-28",
+  "scope": "MEDIA/SCIENTIFIC AGE ONLY after user correction. Ancient narrative leads excluded from main results.",
+  "candidates": [
+    {
+      "id": "J01",
+      "candidate": "Rachel apparition to Gaza soldiers",
+      "event_date": "January 2009 / Operation Cast Lead",
+      "primary_report_date": "2009-05-24; rumors reported 2009-01-21",
+      "type": "luminous figure / group battlefield apparition",
+      "direct_source": "https://www.kikar.co.il/haredim-news/794",
+      "academic_source": "https://doi.org/10.3390/rel9100311",
+      "researcher": "Elisheva Rosman, Department of Political Studies, Bar-Ilan University",
+      "researcher_credentials": "https://cris.biu.ac.il/en/persons/elisheva-rosman-stollman/",
+      "claimed_witnesses": "Avner Azulai describes group; total unspecified. Rosman identifies four recorded testimonies, three filmed and one radio; not four independent events.",
+      "matches": "Media age; named first-person witness; group claim; womanlike luminous figure; divine protection explicitly Jewish.",
+      "mismatches": "No public sustained gathering; no event film located; no independently verified co-witness roster; January rumors preceded May named testimony; filmed versions describe elderly Arab woman rather than light.",
+      "assessment": "Closest qualitative modern female/luminous Jewish apparition found, substantially weaker public-documentary comparability to claimed Zeitoun core."
+    },
+    {
+      "id": "J02",
+      "candidate": "Posthumous Rebbe sightings, including Ramat Aviv",
+      "event_date": "After June1994; Ramat Aviv thread comments mostly2007, later2015 post",
+      "type": "repeated human apparition reports",
+      "direct_source": "https://www.chabad.fm/604/7448.html",
+      "other_primary_sources": [
+        "https://www.chabad.fm/141/12924.html",
+        "https://seeingtherebbe.wordpress.com/"
+      ],
+      "academic_sources": [
+        "https://doi.org/10.1177/0037768610383372",
+        "https://sociology.huji.ac.il/publications/us-more-eever-making-absent-rebbe-present-messianic-chabad"
+      ],
+      "researchers": "Simon Dein, UCL Mental Health Science (affiliation in2010 paper); Yoram Bilu, Hebrew University anthropology/psychology",
+      "claimed_witnesses": "Generally individuals by promoter own account; occasional family/co-witness claims, including at least three purported seers in one2007 comment. No mass optical sighting established.",
+      "matches": "Modern repeated sightings; some named direct testimony; photography claim; believer/nonobservant Jewish range claimed.",
+      "mismatches": "Usually private; camera claim is image-only with unknown figure back to camera; no comparable cross-religious mass sighting; ritual crowd presence not optical co-witness count.",
+      "assessment": "Strongest sustained Jewish apparition tradition found; not equivalent to Zeitoun."
+    },
+    {
+      "id": "J03",
+      "candidate": "Western Wall moisture",
+      "event_date": "2002-07",
+      "type": "public physical phenomenon with messianic interpretation",
+      "direct_source": "https://iol.co.za/news/world/2002-07-04-whose-plumbers-fix-whose-holy-pipes/",
+      "claimed_witnesses": "Publicly accessible damp patch drawing worshippers; no verified total",
+      "matches": "Contemporary press; publicly inspectable object; Jewish location; religious interpretation.",
+      "mismatches": "40x10cm damp patch rather than luminous person; IAA archaeologist Jon Seligman suggested faulty pipe; initial story left cause unresolved; supernatural status not established.",
+      "assessment": "Physical public observation genuine subject of contemporary coverage, poor analogue."
+    },
+    {
+      "id": "J04",
+      "candidate": "Six-Day War prediction / protection",
+      "event_date": "1967-05-28 address before June war",
+      "type": "public prediction and public outcome",
+      "direct_source": "https://www.chabad.org/therebbe/livingtorah/player_cdo/aid/1515871/jewish/G-d-Is-Guarding-His-Children-You-Can-Help.htm",
+      "claimed_witnesses": "Parade audience; surviving archival film and posted transcript. Exact crowd count not audited.",
+      "matches": "Advance publicly delivered assurance; religious linkage to observance; observable subsequent successful outcome.",
+      "mismatches": "General success assurance, no exact sign/date/image; victory has military mechanisms; archive attribution inspected but original film not independently authenticated in this pass.",
+      "assessment": "Best original archival prediction lead located, rather than a demonstrated supernatural event."
+    },
+    {
+      "id": "J05",
+      "candidate": "Leonard Lovitch eye recovery",
+      "event_date": "1986 according to photo context; interview September2011",
+      "type": "modern healing claim",
+      "direct_source": "https://www.chabad.org/therebbe/article_cdo/aid/2218150/jewish/Seeing-Is-Believing.htm",
+      "identified_people": "Patient general surgeon Leonard Lovitch, wife Sharon; treating surgeon Steven E. Feldon",
+      "credentials": "https://www.urmc.rochester.edu/people/112359117-steven-e-feldon",
+      "matches": "Identified first-person patient, interviewed with wife; specific injury, surgery and named treating specialist; claimed connection to ritual advice from Rebbe.",
+      "mismatches": "Retrospective oral history; no medical records or independent Feldon endorsement recovered; healed over weeks, not eyewitness mass instantaneous repair.",
+      "assessment": "Best specific modern Jewish healing lead found for further record-level audit, not clinical verification."
+    },
+    {
+      "id": "J06",
+      "candidate": "Yisroel Swimmer retinal disease disappearance",
+      "event_date": "1983-09-28 blessing; publication2019-06-06",
+      "type": "modern healing claim",
+      "direct_source": "https://anash.org/vision-for-torah-study/",
+      "identified_people": "Patient Yisroel Swimmer; uncle Dr Rodney Unterslak",
+      "matches": "Named first-person testimony; exact visit date; alleged multiple diagnoses and subsequent absence of retinitis pigmentosa; religiously directed outcome.",
+      "mismatches": "No records reproduced; specialists unnamed; not established total blindness before cure; retrospective testimony.",
+      "assessment": "Serious identifiable lead with large diagnosis-validation gap."
+    },
+    {
+      "id": "J07",
+      "candidate": "Baba Sali soldier recovery / inexhaustible arak",
+      "event_date": "Reported soldier after1973 war; later anecdotes",
+      "type": "healing and material multiplication claims",
+      "source": "https://www.jpost.com/israel-news/article-692447",
+      "matches": "Modern miracle-worker tradition with bodily cure and multiplication claims.",
+      "mismatches": "Source explicitly presents anecdotes; no named soldier/primary records retrieved; cannot substitute popularity for clinical documentation.",
+      "assessment": "Famous great-miracle tradition worth future tracing, lower documentation than named Lovitch/Swimmer cases."
+    },
+    {
+      "id": "J08",
+      "candidate": "Meron mass pilgrimage",
+      "event_date": "Annual contemporary",
+      "type": "large public religious gathering with miracle tradition",
+      "primary_source": "https://www.chabad.org/news/article_cdo/aid/4020521/jewish/Amid-Threats-of-War-in-Israels-North-600000-Stream-to-Meron-on-Lag-BaOmer.htm",
+      "matches": "Very large modern public religious attendance; miracles sought; spiritual light language.",
+      "mismatches": "Source describes human-lit bonfires symbolizing spiritual light, not hundreds of thousands seeing an unlit supernatural figure.",
+      "assessment": "Do not count mass attendance as a mass miracle."
+    }
+  ]
+}

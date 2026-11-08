@@ -1,0 +1,438 @@
+{
+  "updated": "2026-10-31",
+  "scope": "All named critical, mixed, administrative and lead-only voices recovered in this pass; not a complete Vatican witness roll",
+  "count": 34,
+  "people": [
+    {
+      "name": "Elvira Serritelli",
+      "role_or_credentials": "Lay spiritual daughter; born 1890 according to Capuchin biography",
+      "category": "Direct allegation reported",
+      "position": "Alleged sexual relationship about 1922–1930, followed by Morcaldi.",
+      "nuance": "Her own alleged experience and her claim about another woman require separate corroboration. Full signed statement/recording missing. A secondary Spanish reproduction uses conditional language attributed to Maccari and reports the phrase without malice; the full original context is needed.",
+      "sources": [
+        "S01",
+        "S08",
+        "S10",
+        "S19",
+        "S20",
+        "S21",
+        "S25",
+        "S31",
+        "S35"
+      ],
+      "locator": "Positio IV, pp. 127–130, via Luzzatto; dates vary 1921/1922",
+      "access_status": "Published evidence; original complete record not inspected",
+      "followup": "Earlier complaints referenced to Agostino Diario p.154 and later biographies; first disclosure of personal affair unresolved. Continued confession to 1965 remains a single explicit retrospective claim; Ciccone independently recalls her taking him to Mass in childhood."
+    },
+    {
+      "name": "Carlo Maccari",
+      "role_or_credentials": "Apostolic visitor in 1960; later Archbishop of Ancona-Osimo",
+      "category": "Documented critic; formal cause witness",
+      "position": "Criticized truthfulness, boundaries, discipline and cult administration.",
+      "nuance": "Doubted Serritelli according to Luzzatto’s reading; retained Morcaldi concerns; also acknowledged benefits of confession and proper celebration of Mass. No established intercourse finding recovered.",
+      "sources": [
+        "S01",
+        "S03",
+        "S04"
+      ],
+      "locator": "Positio IV pp. 103–141; diary pp. 160–171; later memorandum pp. 419–442",
+      "access_status": "Published evidence; original complete record not inspected"
+    },
+    {
+      "name": "Girolamo Bortignon",
+      "role_or_credentials": "Capuchin Bishop of Padua",
+      "category": "Documented critic; formal cause witness",
+      "position": "Adverse/concerned voice explicitly heard ex officio.",
+      "nuance": "Separate complete testimony missing. Supportive accounts connect him with financial disputes; motive allegations need checking. Do not assign him Maccari’s every charge.",
+      "sources": [
+        "S04"
+      ],
+      "locator": "Postulator’s witness account",
+      "access_status": "Published evidence; original complete record not inspected"
+    },
+    {
+      "name": "Giustino da Lecce",
+      "role_or_credentials": "Capuchin; Pio’s assistant",
+      "category": "Documented concerned friar; formal cause witness",
+      "position": "Concerned about lay control; participated in surveillance.",
+      "nuance": "Later mistakes/apology reported; does not establish retraction of every observation.",
+      "sources": [
+        "S02"
+      ],
+      "locator": "Positio II pp. 378, 384; Mischitelli, Il Confratello p. 162",
+      "access_status": "Published evidence; original complete record not inspected"
+    },
+    {
+      "name": "Umberto Terenzi",
+      "role_or_credentials": "Priest, rector/parish priest of Divino Amore, Rome",
+      "category": "Documented intermediary/critic",
+      "position": "Transmitted complaints and recordings to officials.",
+      "nuance": "One transmission chain does not create additional eyewitnesses to the alleged affair. Later formal hearing unverified.",
+      "sources": [
+        "S02",
+        "S10"
+      ],
+      "locator": "Declaration 19 July 1960; Positio IV pp. 491–493, 503, 509",
+      "access_status": "Published evidence; original complete record not inspected"
+    },
+    {
+      "name": "Paolo Philippe, O.P.",
+      "role_or_credentials": "Dominican Holy Office consultor; later cardinal",
+      "category": "Documented adverse official report",
+      "position": "Adverse Relazione e voto dated 20 March 1961; published excerpts explicitly assert sexual intercourse and conscious false mysticism.",
+      "nuance": "Published1961 excerpts contain serious adverse judgments. A later published quotation of his8February1969 report acknowledges the earlier report was too severe and over-weighted accusations and Maccari. Full1969 report unread; no blanket recantation inferred. Not an independent eyewitness to intercourse.",
+      "sources": [
+        "S02",
+        "S23",
+        "S24",
+        "S27",
+        "S28",
+        "S33"
+      ],
+      "locator": "S.O. 255/19 p. 21",
+      "access_status": "Published evidence; original complete record not inspected",
+      "followup": "Reassessment published by Campanella2010, printed53, notes6–7 on57: Relazione e voto8February1969, ds.DF255/19 pp.5and4. Includes reported judicial-process reservations. This materially qualifies the earlier dossier’s emphasis on his1961 conclusion. Complete signed reports remain uninspected."
+    },
+    {
+      "name": "Pasquale Gagliardi",
+      "role_or_credentials": "Archbishop of Manfredonia",
+      "category": "Early moral/disciplinary critic",
+      "position": "Reported disorder, commercialization and women’s access.",
+      "nuance": "Observed access/care and an inference of sexual misconduct are different. Accusations against Gagliardi do not themselves refute his claims.",
+      "sources": [
+        "S01"
+      ],
+      "locator": "Printed pp. 137–138; notes to chapter V",
+      "access_status": "Published evidence; original complete record not inspected"
+    },
+    {
+      "name": "Giuseppe Prencipe",
+      "role_or_credentials": "Local archpriest; canon-law doctorate reported",
+      "category": "Early critical witness",
+      "position": "Interviewed in Rossi’s 1921 inquiry.",
+      "nuance": "Specific complete testimony still needed; no blanket fraud allegation assigned here.",
+      "sources": [
+        "S01"
+      ],
+      "locator": "Printed p. 147 and subsequent inquiry discussion",
+      "access_status": "Published evidence; original complete record not inspected"
+    },
+    {
+      "name": "Domenico Palladino",
+      "role_or_credentials": "Local canon/parish finance officer",
+      "category": "Early critical witness",
+      "position": "Adverse local voice in the 1921 dossier.",
+      "nuance": "Later oral retraction reported by Alberto D’Apolito; no written retraction recovered.",
+      "sources": [
+        "S01",
+        "S11"
+      ],
+      "locator": "Luzzatto p. 147; Tosatti printed p. 37",
+      "access_status": "Published evidence; original complete record not inspected"
+    },
+    {
+      "name": "Michele De Nittis",
+      "role_or_credentials": "Local canon, later archpriest",
+      "category": "Secondary-source lead",
+      "position": "Named among early local opponents in later biographies.",
+      "nuance": "Original adverse statement not recovered; not an independently verified fraud witness.",
+      "sources": [
+        "S15"
+      ],
+      "locator": "Yves Chiron, Padre Pio: Le stigmatisé, Spanish public edition",
+      "access_status": "Lead only"
+    },
+    {
+      "name": "Amico Bignami",
+      "role_or_credentials": "Professor of medical pathology, Royal University of Rome",
+      "category": "Direct medical examiner; natural explanation",
+      "position": "Proposed pathology and possible chemical maintenance after 1919 examination.",
+      "nuance": "Medical hypothesis is distinct from observing deliberate fabrication.",
+      "sources": [
+        "S16"
+      ],
+      "locator": "Published 1919 report in Di Flumeri, Le stigmate",
+      "access_status": "Published medical report available in existing collection"
+    },
+    {
+      "name": "Agostino Gemelli",
+      "role_or_credentials": "Franciscan physician; founder of the Catholic University of the Sacred Heart, Milan",
+      "category": "Medical/psychological critic",
+      "position": "Proposed a natural/psychological interpretation.",
+      "nuance": "Did not conduct the authorized direct wound examination needed to equate his assessment with Bignami’s.",
+      "sources": [
+        "S01",
+        "S16"
+      ],
+      "locator": "Existing medical dossier; compare actual access to wounds",
+      "access_status": "Published evidence; original complete record not inspected"
+    },
+    {
+      "name": "Joseph Lemius, O.M.I.",
+      "role_or_credentials": "Holy Office qualifier; Oblate procurator general",
+      "category": "Critical desk reviewer, provisional",
+      "position": "1921 Voto favored a natural account and further investigation.",
+      "nuance": "A dossier review, not personal medical examination. Avoid erroneous identification as a Dominican.",
+      "sources": [
+        "S01"
+      ],
+      "locator": "Voto 22 January 1921; printed pp. 139–145",
+      "access_status": "Published evidence; original complete record not inspected"
+    },
+    {
+      "name": "Enrico Morrica",
+      "role_or_credentials": "Foggia-based professor; university/clinical affiliation unverified",
+      "category": "Contemporary public skeptic",
+      "position": "Il Mattino article questioned miracle and wound interpretations.",
+      "nuance": "Do not upgrade to a university medical examiner; original newspaper not recovered.",
+      "sources": [
+        "S01"
+      ],
+      "locator": "Il Mattino 30 June 1919, “L’avventura francescana…”; printed pp. 55–56",
+      "access_status": "Published evidence; original complete record not inspected"
+    },
+    {
+      "name": "Valentini Vista",
+      "role_or_credentials": "Foggia pharmacist",
+      "category": "Procurement witness with suspicions",
+      "position": "Reported chemical supply and suspected a wound connection.",
+      "nuance": "No observed chemical wound production; connected to De Vito’s transaction, not independent fabrication.",
+      "sources": [
+        "S01"
+      ],
+      "locator": "Printed pp. 133–139",
+      "access_status": "Published evidence; original complete record not inspected"
+    },
+    {
+      "name": "Maria De Vito",
+      "role_or_credentials": "Laywoman involved in procuring supplies",
+      "category": "Procurement witness, not necessarily blanket opponent",
+      "position": "Reported requests, including discretion; sterilization purpose stated.",
+      "nuance": "Preserve her testimony without turning procurement into observed fraud.",
+      "sources": [
+        "S01"
+      ],
+      "locator": "Printed pp. 133–139",
+      "access_status": "Published evidence; original complete record not inspected"
+    },
+    {
+      "name": "Giuseppe Maria da Sarezzano",
+      "role_or_credentials": "Capuchin curial official",
+      "category": "Later documentary critic",
+      "position": "1952 memorandum repeated a breached-seal account.",
+      "nuance": "Retrospective and secondhand; chronology/interpretation disputed in existing audit.",
+      "sources": [
+        "S17"
+      ],
+      "locator": "Existing bandaging audit, original memorandum locator",
+      "access_status": "Published evidence; original complete record not inspected"
+    },
+    {
+      "name": "Pietro d’Ischitella",
+      "role_or_credentials": "Capuchin provincial",
+      "category": "Mixed administrative/medical witness",
+      "position": "Raised concern about local fanaticism; organized wound controls.",
+      "nuance": "Reported seal-story source; also supplied evidence of persistent wounds. Not a single-position opponent.",
+      "sources": [
+        "S01",
+        "S17"
+      ],
+      "locator": "1919 report and published control records",
+      "access_status": "Published evidence; original complete record not inspected"
+    },
+    {
+      "name": "Clemente da Milwaukee",
+      "role_or_credentials": "Capuchin minister general",
+      "category": "Administrative inquiry request",
+      "position": "Requested visitation, including hospital administration, 14 April 1960.",
+      "nuance": "Seeking an inquiry does not itself reject sanctity or prove sexual wrongdoing.",
+      "sources": [
+        "S02"
+      ],
+      "locator": "Positio IV p. 99",
+      "access_status": "Published evidence; original complete record not inspected"
+    },
+    {
+      "name": "Bonaventura da Pavullo",
+      "role_or_credentials": "Capuchin general definitor",
+      "category": "Mixed institutional position",
+      "position": "Concerned about lay intrusion; involved in inquiry/surveillance arrangements.",
+      "nuance": "Also described Pio favorably. Do not count as unqualified fraud accuser.",
+      "sources": [
+        "S02"
+      ],
+      "locator": "Positio IV p. 65",
+      "access_status": "Published evidence; original complete record not inspected"
+    },
+    {
+      "name": "Mario Crovini",
+      "role_or_credentials": "Holy Office official",
+      "category": "Mixed investigator",
+      "position": "Associated with initial 1960 examination.",
+      "nuance": "Later account objected to surveillance; separate investigation from endorsement of every charge.",
+      "sources": [
+        "S02"
+      ],
+      "locator": "Positio IV p. 69; 1976 report S.O. 255/19 doc. 1225 p. 16",
+      "access_status": "Published evidence; original complete record not inspected"
+    },
+    {
+      "name": "Pellegrino da Sant’Elia a Pianisi",
+      "role_or_credentials": "Capuchin superior",
+      "category": "Mixed, valuable counter-observer",
+      "position": "Questioned devotional excess; described three watched meetings as proper.",
+      "nuance": "Supports conduct in those meetings, not a retrospective disproof of a 1920s affair.",
+      "sources": [
+        "S01",
+        "S10"
+      ],
+      "locator": "Positio II p. 241; Luzzatto printed p. 389",
+      "access_status": "Published evidence; original complete record not inspected"
+    },
+    {
+      "name": "Masseo da San Martino in Pensilis",
+      "role_or_credentials": "Capuchin brother",
+      "category": "Surveillance participant, later regret",
+      "position": "Assisted surveillance.",
+      "nuance": "Later regret reported while retaining esteem for Pio; participation is not firsthand proof of sexual activity.",
+      "sources": [
+        "S02"
+      ],
+      "locator": "Mischitelli, Il Confratello p. 234",
+      "access_status": "Published evidence; original complete record not inspected"
+    },
+    {
+      "name": "Daniele da Roma",
+      "role_or_credentials": "Capuchin friar",
+      "category": "Surveillance collaborator",
+      "position": "Named in the surveillance reconstruction.",
+      "nuance": "Specific independent accusation and formal cause hearing not verified.",
+      "sources": [
+        "S02"
+      ],
+      "locator": "",
+      "access_status": "Published evidence; original complete record not inspected"
+    },
+    {
+      "name": "Aurelio da Sant’Elia a Pianisi",
+      "role_or_credentials": "Capuchin friar",
+      "category": "Surveillance collaborator",
+      "position": "Named in the surveillance reconstruction.",
+      "nuance": "Do not merge with Pellegrino or assign unverified firsthand charges.",
+      "sources": [
+        "S02"
+      ],
+      "locator": "",
+      "access_status": "Published evidence; original complete record not inspected"
+    },
+    {
+      "name": "Emilio da Matrice",
+      "role_or_credentials": "Capuchin friar",
+      "category": "Surveillance collaborator",
+      "position": "Named in the surveillance reconstruction.",
+      "nuance": "Specific independent accusation and formal cause hearing not verified.",
+      "sources": [
+        "S02"
+      ],
+      "locator": "",
+      "access_status": "Published evidence; original complete record not inspected"
+    },
+    {
+      "name": "Pietro Parente",
+      "role_or_credentials": "Holy Office assessor",
+      "category": "Official/conduit",
+      "position": "Conveyed serious concerns to papal authorities.",
+      "nuance": "No firsthand eyewitness evidence of intercourse recovered from him.",
+      "sources": [
+        "S02",
+        "S10"
+      ],
+      "locator": "",
+      "access_status": "Published evidence; original complete record not inspected"
+    },
+    {
+      "name": "Pietro Palazzini",
+      "role_or_credentials": "Curial official; later cardinal",
+      "category": "Reported authorization lead",
+      "position": "Named by Peña in the surveillance approval chain.",
+      "nuance": "Underlying authorization not inspected; status as independent opponent unproved.",
+      "sources": [
+        "S10"
+      ],
+      "locator": "Printed p. 41",
+      "access_status": "Lead through secondary narrative"
+    },
+    {
+      "name": "Alfredo Ottaviani",
+      "role_or_credentials": "Cardinal, Holy Office leadership",
+      "category": "Institutional decision-maker",
+      "position": "Responsible for institutional investigation.",
+      "nuance": "Commissioning an investigation is not independent eyewitness corroboration.",
+      "sources": [
+        "S02"
+      ],
+      "locator": "",
+      "access_status": "Published evidence; original complete record not inspected"
+    },
+    {
+      "name": "John XXIII",
+      "role_or_credentials": "Pope",
+      "category": "Institutional concern, conditional",
+      "position": "Private notes record serious reported misconduct.",
+      "nuance": "Conditional reception of allegations, not personal observation or a final sexual finding.",
+      "sources": [
+        "S01"
+      ],
+      "locator": "Notes to printed pp. 392 onward; conditional Latin in papal record",
+      "access_status": "Published evidence; original complete record not inspected"
+    },
+    {
+      "name": "Marietta / “Manetta” Serritelli",
+      "role_or_credentials": "Elvira’s sister as named in transmitted accounts",
+      "category": "Related credibility witness, identity caution",
+      "position": "Reported remarks and gestures interpreted as hostile to Pio.",
+      "nuance": "Do not silently identify with Angela Serritelli. Nested hearsay does not directly disprove Elvira’s alleged encounters.",
+      "sources": [
+        "S11"
+      ],
+      "locator": "Printed p. 37",
+      "access_status": "Published evidence; original complete record not inspected"
+    },
+    {
+      "name": "Vincenzo Tangaro",
+      "role_or_credentials": "Physician, Naples, according to later accounts",
+      "category": "Unresolved public-criticism lead",
+      "position": "Early skeptical medical statements attributed in later literature.",
+      "nuance": "Attribution may overlap Morrica’s 30 June 1919 article. Original article and credentials not recovered; not counted as another verified examiner.",
+      "sources": [
+        "S18"
+      ],
+      "locator": "consolidated-medical-analysis.txt, attribution caution",
+      "access_status": "Lead only"
+    },
+    {
+      "name": "Giuseppina Finocchi (name as printed)",
+      "role_or_credentials": "Identity and role not established",
+      "category": "Unresolved named mention",
+      "position": "Tosatti lists this name among alleged adversaries.",
+      "nuance": "No specific signed accusation recovered. Do not invent a role, merge with another woman or treat this as independent evidence.",
+      "sources": [
+        "S11"
+      ],
+      "locator": "Printed p. 53",
+      "access_status": "Unresolved identity/claim"
+    },
+    {
+      "name": "“Padre Faustino” (name as printed)",
+      "role_or_credentials": "Identity not established; possible naming error",
+      "category": "Unresolved named mention",
+      "position": "Tosatti calls him the man of the recorders.",
+      "nuance": "The book elsewhere names Giustino for recording. Possible error or another person; do not count an extra surveillance witness.",
+      "sources": [
+        "S11"
+      ],
+      "locator": "Printed p. 53",
+      "access_status": "Unresolved identity; possible duplicate"
+    }
+  ]
+}

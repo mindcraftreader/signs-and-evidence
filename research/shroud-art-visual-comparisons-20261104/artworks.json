@@ -1,0 +1,226 @@
+{
+  "date": "2026-11-04",
+  "scope": "Selected high-quality painting and technical comparisons, mainly c.1260–1500. Not a universal ranking or full census.",
+  "works": [
+    {
+      "id": "cimabue",
+      "artist": "Cimabue",
+      "title": "Crucifix, Santa Croce",
+      "date": "Before 1288",
+      "material": "Tempera and gold on wood",
+      "size": "433 × 390 cm, entire cross",
+      "source": "https://www.santacroceopera.it/en/catalogue-of-works/cimabue-crucifix/",
+      "image": "https://www.datocms-assets.com/35103/1610375743-osc-263-9811b-zepstudio.jpg?w=1000&fit=max",
+      "why": "Monumental full-body Passion painting before the first Lirey exhibitions; examine rib cage, torso shading, limbs and loincloth.",
+      "limitation": "A panel painting, not painted linen. The 1966 flood destroyed about 60% of its painted surface; losses must not be treated as the original artist’s technique.",
+      "details": [
+        {
+          "label": "Face and torso detail",
+          "url": "https://www.datocms-assets.com/35103/1610375636-osc-265-9816b-zepstudio.jpg?w=1200&fit=max"
+        }
+      ]
+    },
+    {
+      "id": "giotto-cross",
+      "artist": "Giotto",
+      "title": "Crucifix, Santa Maria Novella",
+      "date": "Late 1280s–1290s; dating varies",
+      "material": "Painted wooden crucifix",
+      "size": "Monumental complete figure; exact body height not measured here",
+      "source": "https://www.smn.it/en/artworks/the-crucifix-by-giotto/",
+      "image": "https://archivio.smn.it/images/ch0305.jpg",
+      "why": "A strong early comparison for monumental painted anatomy, modeled flesh and Passion wounds. The close-up makes the facial technique visible.",
+      "limitation": "The church page proposes 1288–89; other catalogues commonly use around 1290–95, and the archive discusses a later proposal. Wood, not linen. Image dimensions and cross dimensions do not equal the figure’s height.",
+      "details": [
+        {
+          "label": "High-resolution face and torso",
+          "url": "https://www.datocms-assets.com/43/1459258000-6copia.jpg"
+        },
+        {
+          "label": "Church archival record",
+          "url": "https://archivio.smn.it/arte/ch03a.htm"
+        },
+        {
+          "label": "OPD conservation monograph record",
+          "url": "https://opificiodellepietredure.cultura.gov.it/pubblicazioni/giotto/"
+        }
+      ]
+    },
+    {
+      "id": "giotto-lamentation",
+      "artist": "Giotto",
+      "title": "Lamentation, Scrovegni Chapel",
+      "date": "1303–1305, chapel cycle",
+      "material": "Fresco",
+      "size": "Museum record: approximately 200 × 200 cm, entire scene",
+      "source": "https://cappellascrovegni.padovamusei.it/it/collezioni/vita-cristo/il-compianto-cristo-morto",
+      "image": "https://cappellascrovegni.padovamusei.it/sites/default/files/styles/original_2000/public/opera/copertina/95107.jpg?itok=A8xSK6tl",
+      "why": "An early-fourteenth-century treatment of Christ’s dead body, surrounding faces, bodily weight and grief.",
+      "limitation": "A multi-figure wall painting, not a life-size body print or cloth painting. Chapel dating: https://cappelladegliscrovegni.it/index.php/it/la-cappella-di-giotto",
+      "details": []
+    },
+    {
+      "id": "pucelle",
+      "artist": "Jean Pucelle",
+      "title": "Hours of Jeanne d’Evreux: Betrayal of Christ / Annunciation",
+      "date": "c. 1324–1328",
+      "material": "Grisaille, tempera and ink on vellum",
+      "size": "Single folio 9.2 × 6.2 cm",
+      "source": "https://www.metmuseum.org/art/collection/search/470309",
+      "image": "https://images.metmuseum.org/CRDImages/cl/original/DP233162.jpg",
+      "why": "A named French royal artist working before Lirey. Especially useful for close inspection of French grisaille faces, hands and sculptural modeling.",
+      "limitation": "An exceptionally small manuscript, not linen or a life-size figure. Enlargement reveals workmanship but does not change original scale.",
+      "details": []
+    },
+    {
+      "id": "giottino",
+      "artist": "Giottino",
+      "title": "Lamentation over the Dead Christ / Pietà di San Remigio",
+      "date": "Uffizi: c. 1350–1355; other catalogues c. 1360–1365",
+      "material": "Tempera on wood with gold ground",
+      "size": "195 × 134 cm, entire panel",
+      "source": "https://www.uffizi.it/en/artworks/lamentation-giottino",
+      "image": "https://www.datocms-assets.com/103094/1698163242-giottino.jpg?auto=format&fit=max&w=1400",
+      "why": "A close chronological and thematic comparison for a dead Christ on a shroud, with modeled torso, limbs, wounds and intimate faces.",
+      "limitation": "Date disagreement is retained rather than silently resolved. Whole-panel height does not establish a life-size Christ. The Bologna Zeri catalogue dates it 1360–65.",
+      "details": [
+        {
+          "label": "Christ and surrounding faces, official detail",
+          "url": "https://www.datocms-assets.com/103094/1698163315-giottino-01.jpg?auto=format&fit=max&w=1600"
+        },
+        {
+          "label": "Second official detail",
+          "url": "https://www.datocms-assets.com/103094/1698163385-giottino-02.jpg?auto=format&fit=max&w=1600"
+        },
+        {
+          "label": "Alternative catalogue dating",
+          "url": "https://catalogo.fondazionezeri.unibo.it/entry/work/2809/Giotto%20di%20Maestro%20Stefano%2C%20Compianto%20sul%20Cristo%20morto"
+        }
+      ]
+    },
+    {
+      "id": "narbonne",
+      "artist": "Attributed to Jean d’Orléans / Master of the Parement",
+      "title": "Parement de Narbonne",
+      "date": "Late 14th century; conventionally c. 1375",
+      "material": "Gray wash on moiré silk, subsequently mounted/lined",
+      "size": "76.5 × 285.5 cm",
+      "source": "https://collections.louvre.fr/en/ark:/53355/cl020111524",
+      "image": "https://collections.louvre.fr/media/cache/original/11/15/24/00/AGO111524-000_PE.jpg",
+      "why": "A near-period French monochrome Passion textile. A much closer support/function comparison than an unrelated oil painting.",
+      "limitation": "Silk, not linen; figures are smaller than life-size. After the conventional first Lirey exhibition. The museum records attribution alternatives. c. 1375 is conventional and is not printed as a production date in this short Louvre record.",
+      "details": [
+        {
+          "label": "Louvre detail 2",
+          "url": "https://collections.louvre.fr/media/cache/original/11/15/24/00/AGO111524-001_PE.jpg"
+        },
+        {
+          "label": "Louvre detail 3",
+          "url": "https://collections.louvre.fr/media/cache/original/11/15/24/00/AGO111524-002_PE.jpg"
+        }
+      ]
+    },
+    {
+      "id": "spinello",
+      "artist": "Spinello Aretino",
+      "title": "Saint Mary Magdalen / reverse: Flagellation of Christ",
+      "date": "c. 1395–1400",
+      "material": "Tempera on canvas, gold ground",
+      "size": "176.5 × 120 cm, entire banner",
+      "source": "https://www.metmuseum.org/art/collection/search/437744",
+      "image": "https://images.metmuseum.org/CRDImages/ep/original/DP296526.jpg",
+      "why": "A substantial surviving double-sided painted processional textile with a complete standing Christ, torso modeling and Passion subject.",
+      "limitation": "After both the conventional first Lirey display and the upper end of the 1988 interval. The Met calls the support canvas; this record does not independently establish its fiber as linen. Christ’s face on the reverse is a photographic facsimile of a detached medieval original, not original paint currently on the banner.",
+      "details": [
+        {
+          "label": "Mary Magdalen side",
+          "url": "https://images.metmuseum.org/CRDImages/ep/original/DP296527.jpg"
+        },
+        {
+          "label": "Technical binder study",
+          "url": "https://pubs.rsc.org/en/content/getauthorversionpdf/C4AY01919A"
+        }
+      ]
+    },
+    {
+      "id": "withyham",
+      "artist": "Anonymous Florentine painters",
+      "title": "Four Passion scenes, Withyham / Leeds Castle group",
+      "date": "Late 14th century / around 1400",
+      "material": "Paint on linen with calcium-sulfate ground and animal glue; egg tempera reported",
+      "size": "Each approximately 1 m²; exact figure heights not recovered",
+      "source": "https://www.icom-cc-publications-online.org/2736/The-Technique-of-Four-14th-Century-Italian-Paintings-on-Fabric-Supports",
+      "image": null,
+      "why": "A genuinely near-period linen-painting group with specialist technical examination by Caroline Villers, John Stevenson and Jennifer Sharp. Flagellation and Mocking examined closely.",
+      "limitation": "Original paper and notes are saved in the existing local library. No independently verified public image endpoint was recovered in this pass; this entry is a technical reference rather than an illustrated comparison. Around 1400 is later than first Lirey.",
+      "details": []
+    },
+    {
+      "id": "bouts-entombment",
+      "artist": "Dieric / Dirk Bouts",
+      "title": "The Entombment",
+      "date": "Probably 1450s",
+      "material": "Glue tempera on identified linen",
+      "size": "87.5 × 73.6 cm",
+      "source": "https://www.nationalgallery.org.uk/paintings/dirk-bouts-the-entombment",
+      "image": "https://www.nationalgallery.org.uk/media/zbtlmwhv/n-0664-00-000024-web-hd.jpg?width=1280",
+      "why": "An especially useful later linen comparison: Christ’s body and burial shroud, faces and fine modeling, with a conservation literature describing actual painting materials.",
+      "limitation": "Approximately a century after first Lirey; a small picture, not a life-size body. A published paint technique is not a Shroud-image mechanism.",
+      "details": [
+        {
+          "label": "National Gallery technical study: Bomford, Roy and Smith",
+          "url": "https://www.nationalgallery.org.uk/research/publications/technical-bulletin/the-techniques-of-dieric-bouts-two-paintings-contrasted"
+        }
+      ]
+    },
+    {
+      "id": "bouts-annunciation",
+      "artist": "Dieric Bouts",
+      "title": "The Annunciation",
+      "date": "c. 1450–1455",
+      "material": "Distemper on linen",
+      "size": "90 × 74.5 cm",
+      "source": "https://www.getty.edu/art/collection/object/103QS9",
+      "image": "https://media.getty.edu/iiif/image/72d6e499-515a-47ee-8888-d7dcd5afedec/full/!1200,1200/0/default.jpg",
+      "why": "A second independently housed linen painting associated with the Bouts group, useful for fine facial modeling and understanding later cloth-painting practice.",
+      "limitation": "A later comparison, not proof of what could be made in 1300s France. Not a Passion scene itself.",
+      "details": [
+        {
+          "label": "Getty catalogue with dimensions and medium",
+          "url": "https://www.getty.edu/publications/resources/virtuallibrary/0892364289.pdf"
+        }
+      ]
+    },
+    {
+      "id": "justus",
+      "artist": "Joos van Wassenhove / Justus of Ghent",
+      "title": "The Adoration of the Magi",
+      "date": "Met: 1472–1474; technical article: c. 1470",
+      "material": "Distemper on canvas; technical study identifies linen",
+      "size": "109.2 × 160 cm",
+      "source": "https://www.metmuseum.org/art/collection/search/436803",
+      "image": "https://images.metmuseum.org/CRDImages/ep/original/DP-16339-001.jpg",
+      "why": "A major surviving cloth painting with fine faces, spatial composition and unusually helpful technical photographs and examination.",
+      "limitation": "Later than first Lirey by over a century. Thin paint and exposed weave must not be equated with measured coloration inside Shroud fiber walls.",
+      "details": [
+        {
+          "label": "Met conservation researcher Sophie Scully and art historian Christine Seidel: full technical article",
+          "url": "https://jhna.org/articles/tuchlein-justus-van-ghent-adoration-of-the-magi-metropolitan-museum-of-art-re-examined/"
+        }
+      ]
+    },
+    {
+      "id": "mantegna",
+      "artist": "Andrea Mantegna",
+      "title": "Lamentation over the Dead Christ",
+      "date": "c. 1483",
+      "material": "Tempera on canvas",
+      "size": "68 × 81 cm",
+      "source": "https://pinacotecabrera.org/en/collezioni/collezione-on-line/lamentation-over-the-dead-christ/",
+      "image": "https://pinacotecabrera.org/wp-content/uploads/2024/11/Mantegna-Cristo-Morto.jpg",
+      "why": "A later Renaissance comparison for an injured, foreshortened dead Christ on a burial surface; important for the “centuries ahead” visual comparison.",
+      "limitation": "Around 130 years after first Lirey, not contemporaneous. The work is smaller than life-size and uses deliberate pictorial projection; realistic appearance is not a calibrated anatomical error measurement.",
+      "details": []
+    }
+  ]
+}

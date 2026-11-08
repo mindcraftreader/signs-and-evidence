@@ -1,0 +1,12 @@
+Provins municipal manuscript catalogue — ms 85, item 148: Pierre de Tiercelieue and Jean Truelle
+Original: https://patrimoine.mediathequesprovinois.fr/sites/patrimoine.mediathequesprovinois.fr/files/pdf/Patrimoine/%5B%21%5DCatalogue_des_manuscrits_du_Fonds_ancien_de_PROVINS%20%282%29.pdf
+Reviewed: 2026-10-27
+
+Catalogue p 25 describes a report to Parlement by Jean Truelle, lieutenant of Pierre de Tiercelieue, concerning annual dues disputed by Saint-Quiriace and Saint-Jacques of Provins. The correct target is manuscript 85, item 148.
+
+Limitations: Catalogue description only; original act not obtained. This is Pierre, not Jean the Langres patron. No proved kinship or Lirey connection; different Provins institutions must not be conflated.
+
+Access: Indexed catalogue entry reviewed through web; local PDF request returned Country not allowed and is not registered as a PDF
+
+Local files:
+supporting/tiercel-provins-catalogue/provins-catalogue-target.txt

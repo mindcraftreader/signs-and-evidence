@@ -1,0 +1,14 @@
+CIROLLI RESEARCH INDEX — 3 NOVEMBER 2026
+
+assessment.txt — parent synthesis and judgment
+parent-working-record.json — parent provenance and updates
+pathology/report.txt — diagnosis, booklet acquisition, detailed critic audit
+pathology/source-register.json — source scope and access
+comparators/report.txt — actual untreated/treated regression comparisons
+comparators/source-register.json — comparison source scope
+ documentary/film-evidence-report.txt —1998film/caption retrieval, exact time windows and limitations
+ documentary/source-register.json — production, custody and upload provenance
+
+Most useful new result: recovered public upload and automatic captions of The Miracle Police(1998);42:15–42:56 distinguishes the narrator's possibleTB suggestion from an interviewee's tentative diagnostic criticism. Direct listening/visual speaker identification remains unfinished. Do not call it a confirmed histological TB diagnosis or proven personal slide examination.
+
+Original Cirolli slides, serialfilms and completeTrifaud/Colvinbooklet were not acquired. Published clinical accounts and comparator original pages are retained with explicit reading scope. No new numerical probability or tally assigned. No purchases, emails or credentialed database access used.

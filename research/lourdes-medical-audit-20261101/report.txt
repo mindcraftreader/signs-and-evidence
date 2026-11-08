@@ -1,0 +1,181 @@
+LOURDES MEDICAL EVIDENCE AUDIT — 1 NOVEMBER 2026
+Scope: screening the 72 recognized cases, with a deeper search for the strongest retrievable medical documentation from 1858 onward.
+
+The most useful finding is that original-document access is better than the earlier conversation suggested. Published before-and-after radiograph reproductions for Vittorio Micheli have now been retrieved and visually inspected. The original French 1926 John Traynor record, its English translation, a substantial Antonia Raco medical report, and patient/physician testimony for Bernadette Moriau have also been downloaded. These files give us a concrete starting set rather than merely assurances that medical files exist.
+
+This is a bounded audit. All 72 official entries were screened at summary level. It is not a claim that 72 original clinical files have been obtained or medically adjudicated. “Best” below means priority for independent investigation, considering objective measurements, source proximity, accessibility and identified limitations. It is not a numerical probability of a miracle.
+
+The user's refined criterion is preserved: an individual recovery explicitly connected to Lourdes, its water, baths, sacraments or processions can contribute to a public, religiously situated vindicatory argument. A mass simultaneous healing is not required. Timing and public inspectability strengthen or weaken that connection. Clinical findings and the inference to divine agency are recorded separately without excluding the latter from consideration.
+
+ACCESS LEVELS
+A: original-era published record or reproduced dated image actually retrieved.
+B: firsthand treating/investigating doctor's later published account, with specific medical findings or quotations from records.
+C: official case summary or scholarly reconstruction describing underlying files not yet retrieved.
+D: archival/catalogue lead only.
+These are access labels, not truth grades. A historical A document can have weaker diagnostic tools than a modern B document.
+
+PRIORITY CASES
+
+1. VITTORIO MICHELI — recovery beginning 1963; recognized 26 May 1976; official case 63.
+Why first: structural bone destruction and subsequent reconstruction are represented by actual published radiographs. Jim Garner's 1974 Canadian Medical Association Journal article reproduces Fig.1 dated 1 August 1962 (printed p.1257) and Fig.2 dated 23 August 1963 (p.1259), supplied by the Lourdes Medical Bureau from Italian military/civil sources. Canonical PMC page images have been saved and visually checked. These are low-contrast printed reproductions, not original films or modern DICOM scans. [S2]
+Barbara A. Neilan of Regional Hematology Oncology subsequently described biopsy findings and serial imaging, drawing on Professor Michel-Marie Salmon's medical report. Salmon was a Marseille surgeon and professor of pediatric/orthopedic surgical clinic, with anatomy expertise. The reported rapid symptomatic change was followed by bone remodeling over time, not a fully reconstructed pelvis instantly visible on film. [S3,S10]
+Important unresolved conflict: Garner reports a two-month chemotherapy trial; Neilan says neither chemotherapy nor radiotherapy was given. The original treatment chart and Salmon report must settle this. The discrepancy does not remove the documented imaging change, but prevents an unqualified “untreated” assertion. Garner also dates a recovery film to 1963, whereas a passage in Neilan places the first post-pilgrimage films in 1964. Neither publication should be silently merged into one flawless narrative. [S2,S3]
+Next file: Salmon's full 52-page report and treatment/biopsy records, not another devotional retelling. A 1995 English edition is catalogued in the Hautes-Pyrénées departmental archives, call number 8°BR 1548. [S11]
+
+2. JOHN TRAYNOR — 25–27 July 1923; recognized 8 December 2024; official case 71.
+Access A: the four-page original issue of Journal de la Grotte, 26 December 1926, including Vallet's signed 2 October 1926 report, is saved. The 2025 AMIL English translation is also saved. The report reproduces examinations dated 24 July (before), 25 July and 27 July 1923, and later follow-up. Named physicians include Azurdia, Denis Finn and James Marley; Vallet's 1926 examination also involved Harrington and Moorkens. The record describes recovery of walking, right-arm use, sensation and cessation of observed seizures. [S4]
+It documents residual clawing of the hand and a remaining forearm-circumference difference in 1926: “perfect in every anatomical detail” would overstate it. Skull opening closure is a clinical/palpation observation; no paired skull radiographs or nerve histology were retrieved. Vallet's account of nerve regeneration is an explanatory inference from function, not direct microscopy. [S4]
+The original records make this an important historical candidate despite late recognition. Archbishop Malcolm McMahon's 2024 statement describes recovery of the 1926 evidence by Dr Kieran Moriarty and further archival review. That statement is saved. [S5]
+Next file: original wartime operation notes, Ministry of Pensions examinations and any radiographs in the 2024 dossier.
+
+3. ANTONIA RACO — major improvement around July/August 2009; recognized 16 April 2025; official case 72.
+Access B: Sandro de Franciscis's 2025 AMIL report supplies excerpts of clinical records and the internal review history. Neurologist Adriano Chiò of the University of Turin documented serial weakness and respiratory impairment; neurologist Vincenzo Silani of the University of Milan/Auxologico provided further assessment. Their institutional backgrounds are independently sourced. [S6,S12,S13]
+The report contains FVC values of 56% (April 2007), 62% (January 2009) and 93% (September 2009), plus muscle-strength assessments and a normalized swallowing study. It explicitly acknowledges a clinical PLS diagnosis without abnormal motor-evoked potentials or corresponding corticospinal imaging. Sudden functional improvement was followed by progressive normalization; this is not an MRI-demonstrated replacement of destroyed neurons. [S6]
+The 2019 CMIL vote was 12 yes/13 no, with no decision; following revised diagnostic criteria and their validation, the 2024 vote was 17 yes/4 no. The supplied 22-page PDF ends at printed p.57 despite a header giving pp.36–59: check completeness. The original test traces, films and entire clinical file remain uncollected. [S6]
+Next files: full Chiò/Silani reports, serial pulmonary/swallowing/neurophysiology data and the complete 2024 committee assessment.
+
+4. SISTER BERNADETTE MORIAU — 11 July 2008 at home after pilgrimage; recognized 11 February 2018; official case 70.
+Access B: a seven-page 2019 AMIL publication records testimony from Moriau, her rural family doctor Christophe Fumery, investigator de Franciscis and Bishop Benoît-Gonnin. Fumery describes foot paralysis, braces, bladder self-catheterization, an implanted neurostimulator and substantial analgesic treatment before the change. He personally observed her markedly improved mobility afterward. The committee vote is reported as 26 yes/1 no. [S7]
+This publication is firsthand testimony from a treating physician and the investigation's participants, not the full neurological/surgical dossier. It contains no paired CT/MRI plates or electrophysiology values. The claim that scans prove anatomical restoration has not been established from the retrieved material. Recovery occurred after return to Bresles, during/after adoration in explicit spiritual communion with Lourdes. Her clinical recovery and its religious context are both relevant. [S7]
+Next files: specialist reports from Nantes and elsewhere, before/after neurological examinations, CT/MRI and EMG documentation. A public bishops' statement corroborates the process and dates but does not replace these records. [S8]
+
+5. DELIZIA CIROLLI — recovery around Christmas 1976 after August pilgrimage; recognized 28 June 1989; official case 65.
+Access B: Dr St John Dowling, a British GP and CMIL member, published a case analysis in the Journal of the Royal Society of Medicine in 1984, pp.636–637. He identifies University of Catania investigations, serial X-rays, biopsy slides, and pathology reviews by Cordaro, Payan, Nezelof and Mazabraud/Curie colleagues. The lesion enlarged after pilgrimage; later radiographs showed bone repair. Amputation and irradiation had been proposed but not undertaken. [S9]
+The initial pathology opinion was metastatic neuroblastoma; reviewers favored Ewing's tumour while not absolutely excluding neuroblastoma. Recovery occurred months later at home while the family continued prayer and use of Lourdes water. There was residual knee angulation. These facts neither prove an ordinary cause nor permit a story of an instant bath-side disappearance with certain modern molecular classification. [S9]
+Next file: Triffaut and Colvin's full 48-page medical report, original biopsy slides/reviews, serial films and surgical history. Actual paired images have not yet been retrieved.
+
+ADDITIONAL HISTORICAL AND MODERN CONTENDERS
+
+The following should be retained for further retrieval, rather than presented as already independently audited. Their official case entries are in the 72-case register. All recovery/recognition dates below are kept separate. [S1]
+
+6. Danila Castelli (case 69): 4 May 1989 / 20 June 2013. Recurrent severe hypertensive crises; radiology, ultrasonography, scintigraphy and multiple operations are described by the Sanctuary, followed by five medical reviews through 2010. Priority is the biochemical and pathological diagnosis, treatment chronology and objective blood-pressure/endocrine follow-up. A list of reviews is not itself the raw medical record.
+
+7. Jeanne Frétel (case 52): 8 October 1948 / 20 November 1950. Tuberculous peritonitis with substantial hospital/surgical history and long later survival. Worth requesting the hospital, laboratory, imaging and committee file. Current access is a published case narrative and scholarly historical review, not the original full dossier.
+
+8. Marie Biré (case 37): 5 August 1908 / 30 July 1910. Vision recovery with a published diagnosis of central blindness/bilateral papillary atrophy. The key request is the pre/post ophthalmological examination record, visual-acuity testing and fundus descriptions/images. “Optic nerves grew back” should not be substituted for the actual clinical language.
+
+9. Pierre/Pieter De Rudder (case 8): 7 April 1875 / 25 July 1908. Non-united fractured leg with later preserved bones and examination history. Recovery occurred at the Lourdes replica shrine in Oostakker, Belgium, not at the French grotto. Tine Van Osselaer's scholarly historical introduction traces the postmortem examination and subsequent debates; the original 1899 medical publication and bone documentation remain retrieval priorities. Bones showing a healed fracture establish union, not by themselves the time taken to heal. [S14]
+
+10. Louis Bouriette (case 2): March 1858 / 18 January 1862. Injury to the right eye with later complete vision loss, followed by recovery associated with washing in spring water. Dozous's 1874 book is an original doctor's retrospective account; Vergez's commission material is a key earlier source to retrieve. The Gallica link was located but access failed in this pass. Do not change “trauma nineteen/twenty years earlier, complete blindness for the last two years” into a verified twenty-year complete blindness claim.
+
+11. Blaisette Cazenave (case 3): March 1858 / 18 January 1862. Chronic eye/lid disease with ectropion offers an externally observable anatomical claim. Request Henri Vergez's examination and the diocesan commission documents. It is not equivalent to regrowth of a missing eye.
+
+12. Rose Martin (case 48): July 1947 / 17 March 1958. Cervical cancer is a potentially useful pathology-defined candidate. Retrieve the original surgical/pathology material and later checks before labeling it a certain untreated cancer disappearance.
+
+13. Juliette Tamburini (case 62): July 1959 / 11 May 1965. Fistulating femoral osteomyelitis could supply objective radiology, wound findings and microbiology. Request Salmon's committee report and antibiotic chronology; a treatment-compatible improvement must be assessed rather than assumed absent.
+
+14. Jean-Pierre Bély (case 66): 9 October 1987 / 9 February 1999. Severe disability diagnosed as multiple sclerosis, followed by sustained recovery; Bishop Claude Dagens's original 1999 declaration is downloaded. It is an ecclesiastical statement about clinical findings, not a published paired-MRI or raw neurophysiology dataset. [S15]
+
+15. Luigina Traverso (case 68): 23 July 1965 / 11 October 2012. Paralysing lumbar/sciatic condition in meningocele after spinal operations, with recovery during the Eucharistic procession. The described dossier and long follow-up justify retrieval of operative and neurological records. Original imaging and the full committee report remain uncollected.
+
+Reserve candidates include Joachime Dehant's extensive ulcer (case 9), Marie Lemarchand's visible ulcers/TB (17), Marie Lebranchu's bacteriologically described TB (16), Catherine Latapie's hand paralysis (1), and Francis Pascal's childhood blindness/paralysis (45). These are historically important but the best available summaries should not be mistaken for possession of the original evidence. For Pascal, the detailed Italian Sanctuary page gives 2 October 1938 while its compact official list gives 31 August 1938; the latter fits the reported age of three years ten months. The discrepancy needs checking against the original file rather than silent correction.
+
+OUTSIDE THE 72 RECOGNIZED CASES
+
+Recognition is not a complete census of investigated claims. Marie-Louise Bailly's 1902 recovery witnessed by Alexis Carrel, Gabriel Gargam's 1901 recovery, and some historical medical-certificate cases deserve an additional queue. Carrel's later memoir and contemporaneous statements must be distinguished. Carrel's later Nobel Prize cannot supply missing diagnostic tests. This pass has not independently authenticated their original clinical files.
+
+The Royal College of Physicians of Ireland catalogues a historical Lourdes lantern-slide collection, including a chest X-ray labelled “Paul Merat — taken 27 May 1914” (LS/2/2). This is a concrete archival lead for additional images; a catalogue description does not establish a matched before-and-after series or a recognized miracle. [S16]
+
+A MEDICAL COMPARATOR THAT MUST BE RETAINED
+
+Dissing, Heerfordt, Schiødt and Sneppen, working through Copenhagen's Finsen Institute and Rigshospitalet/University of Copenhagen, published a 1978 adult pelvic bone-tumour regression with serial radiographs and biopsy images. The malignant nature was supported, although the exact subtype remained uncertain. No chemotherapy or radiotherapy was administered. After continued progression, improvement unfolded gradually over years, with six-year follow-up; the authors could not identify a cause. [S17]
+This is relevant to evaluating whether bone-tumour regression/reconstruction alone requires a miracle. It is not a public-vindicatory event for a rival religion, and its gradual course does not by itself explain Micheli's reported rapid functional turn. The evidence supports a specific medical comparator, not a wholesale ordinary reconstruction of Lourdes.
+
+RESEARCH QUALITY AND SOURCE CONFLICTS
+
+University of Lyon physician Bernard François, NIH researcher Esther Sternberg and National Library of Medicine historian Elizabeth Fee performed a substantial archival reappraisal. They identified both unusually sustained recoveries and concrete shortcomings in some cases. Their recognition of impressive recoveries and their criticisms should travel together. Examples requiring particular caution include prior cancer treatment in Ganora, absent diagnostic materials in Aloi and late blindness in Baillie. Their reviewed sample is not all recognized Lourdes cases, and it predates Raco's and Moriau's adjudications. [S18]
+
+The strongest access improvements in this pass are specific: two published dated Micheli films; original-era Traynor observations; measurable Raco data and recorded dissent; firsthand Moriau physician testimony. These are not all the same kind of evidence and should not be counted as independent experiments merely because they appear in several publications.
+
+PRIORITY RETRIEVAL REQUESTS — NOT SENT
+1. Obtain Salmon's complete Micheli report, treatment chart and biopsy reports to resolve chemotherapy and imaging-date conflicts.
+2. Obtain Raco's complete clinical file and full 2025 article; distinguish published excerpts from original instrumental traces.
+3. Obtain Moriau's specialist neurological, imaging and electrophysiological records, including results rather than only lists of tests performed.
+4. Obtain Traynor's wartime operation/Ministry of Pensions records and any structural imaging.
+5. Obtain Triffaut/Colvin's Cirolli report and original pathology/radiology.
+6. Retrieve Vergez's 1860 commission report and Dozous's original eye-cure account, then Biré's ophthalmological file.
+
+No emails, contact forms, purchases or edits to the main Jenga/framework documents were made by this subagent.
+
+SOURCE REGISTER
+
+S1 — Sanctuary official 72-case list
+https://www.lourdes-france.com/it/guarigioni-miracolose/
+Access: All 72 published entries screened; not all underlying medical dossiers obtained.
+
+S2 — Jim Garner, CMAJ associate editor, 1974
+https://pmc.ncbi.nlm.nih.gov/articles/PMC1955914/
+Access: Micheli and Traynor sections read; all six canonical journal page scans saved; pp1257/1259 visually inspected. Author was a journalist/editor, not identified as a physician; he reports restricted original-record access.
+
+S3 — Barbara A Neilan, Regional Hematology Oncology, 2013
+https://pmc.ncbi.nlm.nih.gov/articles/PMC6027009/
+Access: Entire substantive article read. Secondary clinical account derived with permission from Salmon medical report; no actual image plates in this article.
+
+S4 — Auguste Vallet, original 1926 medical record / AMIL 2025 translation
+[private link omitted]
+Access: Original four-page newspaper scan saved, relevant original pages2/3 and masthead inspected. Entire14-page English translation read.
+
+S5 — Archbishop Malcolm McMahon, 8 December 2024 declaration
+https://www.lourdes-france.org/wp-content/uploads/2024/12/Statement-on-John-Traynor-Case-FINAL.pdf
+Access: Complete two-page statement read. Institutional account of archival review, not original wartime medical charts.
+
+S6 — Sandro de Franciscis, Lourdes Medical Bureau, AMIL August2025
+[private link omitted]
+Access: Entire supplied22-page PDF text read; relevant page images inspected. It reproduces clinical excerpts and review history, not complete raw clinical file; ends at printed57 despite header36-59.
+
+S7 — Monique Bouges (AMIL secretary), Moriau/Fumery/de Franciscis/Benoit-Gonnin testimony, June2019
+[private link omitted]
+Access: Entire seven-page published testimony read. Includes firsthand treating physician and investigator accounts; not the full medical dossier.
+
+S8 — French Bishops Conference / Bishop of Beauvais, 2018
+https://eglise.catholique.fr/actualites/452640-70e-miracle-de-lourdes-officiellement-reconnu-leveque-de-beauvais/
+Access: Substantive statement and patient account read.
+
+S9 — St John Dowling MB MRCGP, GP and CMIL member, 1984
+https://doi.org/10.1177/014107688407700803
+Access: Publisher PDF text read, notably Cirolli analysis pp636-637 and assessment methodology; canonical PMC journal page PNGs saved. PDF download attempt returned challenge HTML and is not counted as a valid local PDF.
+
+S10 — Comité des travaux historiques et scientifiques, Salmon biography
+https://cths.fr/an/savant.php?id=4692
+Access: Institutional historical credential source checked.
+
+S11 — Catalogue collectif de France: Salmon report holding
+https://ccfr.bnf.fr/portailccfr/ark%3A/16871/0017270345
+Access: Catalogue record checked:1995 English52-page edition, Hautes-Pyrénées archives,8°BR1548. Full report not retrieved.
+
+S12 — University of Turin CRESLA, Adriano Chiò profile
+https://www.cresla.unito.it/il-centro/chi-siamo
+Access: University institutional credential source checked.
+
+S13 — Auxologico: Vincenzo Silani professional history
+https://www.auxologico.it/equipe/prof-vincenzo-silani
+Access: Institutional career profile checked; historical Milan academic affiliation matches clinical report.
+
+S14 — Tine Van Osselaer, Sign or Symptom? introduction, Leuven UP2017
+https://repository.uantwerpen.be/docman/irua/890274/144128.pdf
+Access: Relevant introduction on De Rudder pp7-10 read;33-page supplied preview not entire book. University repository copy downloaded; original1899 medical paper not retrieved.
+
+S15 — Bishop Claude Dagens, Bély declaration9 February1999
+https://archivesweb.cef.fr/public/historique.cef.fr/historique.cef.fr/catho/espacepresse/communiques/1999/comm91.html
+Access: Complete substantive declaration read; not original neurological records.
+
+S16 — Royal College of Physicians of Ireland, Lourdes slides LS/2/2
+https://calmview.co.uk/rcpi/CalmView/Record.aspx?id=LS/2/2&pos=14&src=CalmView.Catalog
+Access: Catalogue metadata only: chest radiograph labelled Paul Merat27May1914. Actual slide not retrieved.
+
+S17 — Dissing/Heerfordt/Schiødt/Sneppen, Copenhagen, Acta Orthop1978
+https://actaorthop.org/actao/article/download/29079/33959/82545
+Access: Complete five-page primary case report read; radiographs/histology present. Medical comparator, not a documented religious-vindication claim.
+
+S18 — Bernard François (Lyon1), Esther Sternberg (NIH), Elizabeth Fee (NLM), 2012/2014
+https://pmc.ncbi.nlm.nih.gov/articles/PMC3854941/
+Access: Methods, relevant tables, substantive critical assessment, conclusions and cited case reports read. Original archival data described by authors; not independently re-examined here.
+
+S19 — Sanctuary, Raco official chronology2025
+https://www.lourdes-france.com/en/antonietta-raco-72nd-lourdes-miracle/
+Access: Complete substantive chronology read.
+
+S20 — Saint Beluga, source-discovery page
+https://www.saintbeluga.org/our-lady-of-lourdes-immaculate-conception
+Access: Discovery source for linked AMIL PDFs. Article clinical commentary not used as substitute for linked records; unnamed MD collaboration not treated as independently verified Harvard institutional endorsement.
+

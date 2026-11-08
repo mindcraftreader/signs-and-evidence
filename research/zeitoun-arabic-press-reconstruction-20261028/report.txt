@@ -1,0 +1,42 @@
+ZEITOUN ARABIC NEWSPAPER EYEWITNESS RECONSTRUCTION
+28 October 2026 — first research edition
+
+DELIVERED
+A source-linked resource covering15 selected newspaper issue groups and62 narrative/context entries. Thirty entries have a scan-level check (some limited to a specific time/date or core paragraph);32 remain archive-translation leads requiring close Arabic passage verification. These are not62 independent witnesses,62 distinct appearances, or62 authenticated miracles.
+
+The corpus comprises selected Watani, Al-Ahram, Al-Gomhuria, Al-Akhbar, Akhbar al-Youm and Al-Fida al-Jadid pages. Fifteen publication-date groups span21April1968–3August1970. No complete1968–1971 run was recovered. The earliest claimed Watani14April issue and many intervening issues remain acquisition gaps.
+
+PRIMARY-SOURCE ADVANCES
+1. Watani5May1968,p2: the Arabic itself gives Athanasius2:45–5a.m.,clear figure for2h15 and movement. This is not an embellishment originating solely in the website’s English translation.
+2. Watani5May,p5,Michel Tekla: actual Arabic gives02:30 for his first described sighting, not03:00 in the modern English version. For the followingSunday it gives19:20–20:10 and an hour less ten minutes, i.e.50minutes. The website’s one hour and ten minutes is a translation error; the original arithmetic is consistent. NightThursday25April retains after-midnight date ambiguity.
+3. Watani26May,p1: the original box records intermittentSunday01:30–05:30(YanniMaqar),Wednesday23:00for a few minutes(ThurayaMattaBaqtur),andThursday22:15andmidnight(Aziza). Calendar datesMay19/22/23–24 are reasoned inferences, not printed numeric dates.
+4. Al-Fida al-Jadid3August1970: actual masthead confirmsMonday3August1970,issue78. Original headline saysFridaydawn;body sayspreviousThursdayaround05:00. The disagreement is printed,not invented by an English translator. Keep30/31July candidates rather than choose silently.
+5. Watani5May,p2: an unnamed priest reports unnamed twin brothers standing together on9April1968,one seeing the completefigure and the other only a faint ray. It also says some saw a clear figure,some light,some nothing. The modern English paraphrase omits the explicit9Aprildate. The account is contemporary and relevant to simultaneous perceptual variation, but it lacks the twins’ names, separate interviews and exact positions. ZT-061.
+6. Watani5May,p1,item about a picture: paper says photographer offered a purported apparition photograph twice,neighbors pressed for publication,and paper refused because it judged the image not to represent reality. Original item is omitted from the retrieved website prose transcriptions. It does not identify the image or photographer and does not say all Zeitoun photographs are false. ZT-062.
+
+SOURCE QUALITY
+Normal public curl retrieval succeeded for34 archive article HTML pages and34 image files, all status200; these retrieval logs and original files are saved. The web search tool sometimes returned403for the same pages. No authentication or access-control bypass was used. Files were retrieved directly from public URLs without spoofing headers.
+The34 images include ancillary/redundant page assets. Source-index associates selected relevant scans to each issue; unrelated-looking OpenGraph images are excluded from those source lists, while raw retrieval logs preserve them. Do not call34files34 independent newspaperpages without reviewing duplication and relevance.
+The Arabic website path labeledAl-Ahram5April1970actually contains Watani5May1968pages. Printed masthead and page headers take precedence over catalog path. An ArabicAl-Akhbar7MayURL says1986; the catalog labels1968,while the clipping still needs a complete-issue check. TheMay11printed masthead isAkhbaral-Youm,although the website categorizes itAl-Akhbar. Stable record IDs are retained with corrections visible.
+The EnglishAl-Akhbar5May archive text literally includesChatGPTsaid and inconsistent narration about the patriarch personally announcing versus delegating the statement. It is a finding aid,not primary wording. The original Arabic/facsimile must control.
+
+TRANSLATION METHOD
+English descriptions in the register are factual research summaries,not complete verbatim article translations. Only fields explicitly labeledshortoriginalexcerpt/directtranslation are direct quotations. Reproduced expressive excerpts are kept short; original scans remain cited for detailed checking. Arabic names are retained and Latin spellings follow accessible source conventions; apparent spelling variations are not silently merged into new witnesses.
+Verification tiers distinguish core Arabic scan checking,clock/date-only checking,partial checks and archive-translation leads. A scan-level label does not claim every word on the newspaper page has been transcribed.
+
+CHRONOLOGY AND COUNTING
+Publication dates are separate from observation dates. Relative weekdays are converted only as labeled candidates. Night labels may cross midnight; no timezone conversion was imposed on historical clock readings. Repeated brief recurrences in one night are not automatically different calendar appearances. Unspecified spiritualphenomena,dovesonly,privatebedroomvisions,healingclaims and waitinginterviews remain separately labeled.
+A named person quoted in multiple newspapers is not multiple independent witnesses. TheMay4pressconference,the Ministryreport,and the patriarchalstatement recur across newspapers. These source dependencies are recorded. No statement in this resource settles supernatural causation; the task is faithful reconstruction.
+
+REMAINING WORK
+Close Arabic checking of32 translation leads; full issue acquisition for clipped/unpaginated sources; earliestWatani14/21/28April andMay19issues; fuller1969–1971 coverage; testimony originals underlying press summaries; crossmatching the newly recoveredGregoriosvolume with press sources. The source-index is the present acquisition inventory,not a claim of exhaustiveness.
+
+FILES
+index.html: standalone searchable resource.
+source-index.json/.csv:15 issue groups,links,scans,datechecks.
+testimony-register.json/.csv:62 narrative/context records,verificationlabels and direct-excerpt fields.
+retrieval-log.json/image-retrieval-log.json:public acquisition provenance.
+sources/:downloaded HTML/text and facsimiles.
+crops/:checked passages and header finding aids.
+
+31OCTOBER FOLLOW-UP: Four full Al-Ahram issues acquired and selected Arabic passages checked. ZT-024–027now have complete-issue verification links. New source-reading hub: ../zeitoun-arabic-primary-followup-20261031/index.html. Earlier30/32verification counts above describe28Octoberedition and are superseded by current per-record labels. No debate tally change.

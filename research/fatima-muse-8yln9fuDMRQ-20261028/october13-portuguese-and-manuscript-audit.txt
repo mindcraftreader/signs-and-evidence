@@ -1,0 +1,53 @@
+OCTOBER 13 WORDING AND MANUSCRIPT CHECK
+28 October 2026
+
+Result and access boundary
+The exact Portuguese wording appealed to by Muse is present in a public 1923 printing of Formigao's interrogation. Downloaded the Sanctuary-hosted four-page issue, extracted its text and visually inspected page 4. A facsimile of the relevant ink notebook was not located. Do not describe this as handwriting independently checked. The 2013 selected documentary edition omits this interrogation; the full critical Volume I, documents 13-14 and its critical apparatus, is the next precise documentary target.
+
+Primary published witness
+Voz da Fatima, no.11, 13 August 1923, page4, heading Dia 13 de Outubro de 1917; after the apparition, 7 p.m., house of Francisco and Jacinta's family; Interrogatorio da Lucia. Formigao published under the pseudonym Visconde de Montelo.
+https://www.fatima.pt/files/upload/voz_da_fatima/VF0011_1923-08-13.pdf
+Saved original: voz-fatima-1923-08-13.pdf
+Verified page image: voz-1923-page-4.png
+
+Diplomatic transcription of relevant answer, joining printed line breaks, preserving older orthography:
+Disse que se emendasse a gente, que não offendesse a Nosso Senhor, que estava muito offendido, que rezasse o terço e pedisse a Nosso Senhor perdão dos nossos pecados, que a guerra acabaria hoje e que esperassemos os nossos soldados muito breve.
+
+Literal reading offered by this audit, not a certified translation:
+She said that the people should amend their ways, that they should not offend Our Lord, who was deeply offended, that they should pray the Rosary and ask Our Lord's forgiveness for our sins, that the war would end today, and that we should expect our soldiers very soon.
+
+Linguistic analysis
+The first se can naturally be the pronominal element of emendar-se (amend one's ways), attracted before the verb in a subordinate clause introduced by que. It need not be the conjunction if. Emendasse, ofendesse, rezasse and pedisse are consistent with reported instructions using the imperfect subjunctive. The later acabaria can express future relative to a past speech act (would end), not necessarily the consequent of an explicit condition. A gente takes singular grammatical agreement and can refer semantically to we; the later esperassemos does not by itself prove a conditional construction.
+
+An illustrative explicit conditional would be: Disse que, se a gente se emendasse, a guerra acabaria. That example is an explanatory reconstruction, NOT a transcription from Formigao.
+
+A contextual conditional interpretation remains possible. The grammar alone does not establish the claim that the October13 passage unambiguously records an if-then prophecy. This audit disagrees with that strong linguistic claim; it does not claim to have interviewed native speakers or refuted the reported private consultations.
+
+Supporting language references
+Carlos Rocha, doctorate in historical linguistics, University of Lisbon, Ciberduvidas executive coordinator: Se se nao e redundancia, 5 September2025, distinguishes conditional conjunction se from a pronominal se and explains why two can be required. General linguistic reference, NOT his opinion on Fatima.
+https://ciberduvidas.iscte-iul.pt/artigos/rubricas/idioma/se-se-nao-e-redundancia/5828
+Author biography:
+https://ciberduvidas.iscte-iul.pt/autores/carlos-rocha/433/pagina/1
+Maria Regina Rocha, Ciberduvidas language consultant, Sobre a colocacao do se,25 January2005, describes pronoun placement before verbs in subordinate clauses. General reference, NOT a Fatima interpretation.
+https://ciberduvidas.iscte-iul.pt/consultorio/perguntas/sobre-a-colocacao-do-se/13653
+Sara Mourato, Ciberduvidas, A diferenca entre corrigir e emendar,28 July2014, includes the pronominal moral-amendment sense emendar-se.
+https://ciberduvidas.iscte-iul.pt/consultorio/perguntas/a-diferenca-entre-corrigir-e-emendar/33006
+
+Proponent textual history: status remains attributed
+Veritatis Splendor, In Defense of the Miracle of the Sun, AppendixA, reports that original pencil versionA no longer preserves Lucia's pages; B is Formigao's ink copy, C a copy ofB, G1 typed copy, G2 the1923 printing, H1927book. This account has NOT been independently checked against full VolumeI critical apparatus or the physical manuscripts here. It must not be silently upgraded into an archival verification. The appendix explicitly describes its H quotation as reconstructed from apparatus notes. It also reports consulted Portuguese speakers favoring a conditional reading and displays an anonymized email of assent, without enough identity/context to independently audit that consultation.
+https://splendoroftruth.substack.com/p/in-defense-of-the-miracle-of-the
+
+Independent corroboration of the published Portuguese wording
+Luciano Coelho Cristino, then director of the Sanctuary's Service of Studies and Dissemination, reproduces the same wording when discussing the October13 interrogation, Apostolo do Reino, printedp151. The collection documents his institutional role. Saved publisher/custodian-hosted PDF: formigao-apostolo-reino.pdf. No facsimile of the relevant notebook was recovered through this source.
+https://reparadorasfatima.pt/wp-content/uploads/2025/07/apostolo_reino.pdf
+
+Countervailing early testimony
+Jacinta's October19 answer in Formigao's interrogation explicitly has que se o povo se emendasse acabava a guerra, followed by the world-ending clause and later further questions/answers. Official DCF selection, document18, printedp104. The conditional conjunction and pronominal se are separate here. This is real early support for a conditional tradition; it prevents treating the defense as only a late invention.
+https://www.fatima.pt/files/upload/fontes/F001_DCF_selecao.pdf#page=105
+
+Debate status
+Neither an unambiguous failed divine prophecy nor an unambiguous October13 conditional quotation has been established by this check. The substantial point is a translation and transmission dispute. No skeptical debate victory or proved supernatural cause is recorded. The public-sign prediction and solar event are distinct arguments and were not tested by this grammar pass.
+
+
+LIVE TALLY UPDATE — 28 OCTOBER 2026
+Following explicit discussion, the assistant withdraws the missed-prophecy objection as an established challenge. Early conditional wording supplies a substantive defense; unresolved syntax does not establish a failed divine prediction. F-01closed in favor of Daniel’s defense; no Fatima thread defeated; assistant gains no point. Exact grammar and manuscript-access limits above remain recorded. Refer to research/argument-thread-audit-20261028/live-debate-tally.txt.

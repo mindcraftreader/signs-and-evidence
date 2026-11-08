@@ -1,0 +1,226 @@
+LOURDES HEALING RECORDS: RECOVERY YEARS 1919–1976
+Research pass completed 2 November 2026
+
+Scope and outcome
+
+This pass builds on the1November medical audit. It does not count re-reading
+the same report, a translation of it, or a later summary as an independent
+medical observation. The official72-case register contains28 recognized cases
+with recovery dates in this period:1920s2;1930s4;1940s7;1950s11;1960s2;1970–76two.
+No1919 recovery appears in that register. These counts are by reported recovery,
+not recognition year. They include Traynor1923/recognized2024 and Traverso1965/
+recognized2012. They are not a census of all reports to the Medical Bureau.
+
+The strongest accessible starting cases remain Micheli, Traynor and Cirolli.
+The useful new acquisitions are a publicly reproduced Traynor pension card,
+specific holdings for the medical monographs, and a VU doctoral thesis whose
+physician author reports examining the Micheli/Cirolli/Perrin booklets at Lourdes.
+The original military operations files, pathology slides and complete committee
+dossiers have not been retrieved. No new causal verdict or tally is assigned.
+
+Medical evidence and religious connection are tracked separately, then assessed
+together. A healing after a pilgrimage is relevant to Daniel's shrine-pattern
+argument; it must not be automatically excluded as 'private'. Conversely, a
+remote later recovery must not be described as an instant cure in a bath.
+
+Vittorio Micheli:1963 recovery, recognized26May1976
+
+The existing retrieved CMAJ1974 page reproductions were visually rechecked:
+Fig.1 is captioned1August1962; Fig.2 is captioned23August1963, ten weeks after
+return from Lourdes. The second image itself also carries the1963 date. Thus
+these are actual published before-and-after radiographs, not merely a claim
+that films once existed. They are low-contrast printed reproductions supplied
+by the Medical Bureau, not the original films or a new radiologist's reading.
+[M2]
+
+The retained record distinguishes an abrupt reported change in pain/appetite
+associated with the bath from subsequent restoration of walking and progressive
+bone reconstruction. It does not document an entire pelvis regenerating
+instantaneously on film. Regional Hematology Oncology author Barbara Neilan's
+2013 paper derives from Michel-Marie Salmon's report, with permission. Salmon
+was Marseille's professor of anatomy and later pediatric/orthopedic surgical
+clinic, and a national correspondent of the Academy of Medicine. [M3,M10]
+
+The major treatment conflict remains unresolved. CMAJ associate editor Jim
+Garner explicitly reports a chemotherapy trial stopped after two months without
+improvement. Neilan says no radiotherapy or chemotherapy was given. Additional
+report-derived summaries also say no anticancer treatment. Counting those as
+several independent treatment records would be incorrect. The original treatment
+chart and Salmon monograph are needed to settle what drug, dose and interval,
+if any, occurred. A chemotherapy mention is not proof that treatment caused the
+recovery; omitting it as inconvenient would also be unsound. [M2,M3]
+
+There is a second chronology conflict: Neilan calls1964 the first post-pilgrimage
+X-rays, while Garner publishes a film labelled23August1963. The date discrepancy
+has not been reconciled from original film envelopes or hospital charts.
+
+New concrete monograph holdings: French1995edition56pages at Hautes-Pyrénées
+departmental archives, Tarbes,8°BR1546; English1995edition52pages,8°BR1548. The
+French book title/catalogue is newly saved; these are catalogue records, not
+retrieved report contents. [N4,N5]
+
+Christian Delourmel, a former general practitioner and Paris Psychoanalytic
+Society author, discusses the case in a2014conference/2015web text and2017text.
+He quotes Salmon and points to the1971 Marseille bone-tumor meeting account,
+Revue de chirurgie orthopédique57(4),pp321–324,especiallyp323. His interpretation
+explores psychosomatic mechanisms but does not experimentally demonstrate one.
+The original meeting pages were not recovered. His2017note says he can make
+Salmon's complete observation available to readers: a useful future retrieval
+lead, not evidence obtained by this agent. [N6,N7]
+
+Do not describe this meeting as independently verified blind testing. Secondary
+accounts say Lourdes was not mentioned at presentation, while the quoted printed
+summary explicitly mentions the pilgrimage. That is a question about oral versus
+published disclosure; it cannot be settled without the original record. The
+case's clinical significance does not depend on upgrading it into a blind trial.
+
+Comparison: Dissing, Heerfordt, Schiødt and Sneppen of Copenhagen's Finsen
+Institute and Rigshospitalet/University of Copenhagen documented a histologically
+malignant destructive pelvic tumor that improved without radiotherapy or
+chemotherapy. Their1978report includes serial radiographs and histology. The
+subtype was uncertain, but malignancy was retained. Deterioration continued into
+1973; improvement and sclerosis unfolded over years. This is direct evidence
+that spontaneous regression with substantial pelvic-bone changes has occurred
+outside a documented shrine context. It does not reproduce Micheli's reported
+bath-linked functional turn, and the authors themselves could not identify its
+cause. It does refute any categorical claim that documented malignant pelvic
+tumor regression has never otherwise occurred. [M17]
+
+Priority next records: Salmon's full monograph; Verona/Trento/Borgo treatment
+charts and biopsy reports; original serial films and their dates;1971meeting
+abstract. This pass did not resolve the chemotherapy conflict.
+
+John Traynor:25–27July1923 recovery, recognized8December2024
+
+The original published French report signed by Auguste Vallet on2October1926
+is available directly from the Sanctuary as a16MBPDF, now saved in this period
+folder. Its SHA256 is identical to the earlier library copy: it is the same
+evidence, not a second report. Original relevant pages and the2025AMIL English
+translation were rechecked. [M4,N1]
+
+The report incorporates examinations attributed to doctors Azurdia, Denis Finn
+and James Marley on24July before the recovery,25July after the procession and
+27July before departure. The24July certificate was issued subsequently: the
+retrieved object is its1926published reproduction, not an original1923clinical
+chart. It reports observed seizures, severe right-arm paralysis/atrophy, a skull
+opening, lower-limb deficits and incontinence. On25July walking was possible
+but difficult, with painful congested feet. On27July walking, arm use and
+sensation were improved and the skull opening was smaller. MacConnell's23June
+1924certificate, reproduced in the report, states seizures had ceased since
+July1923. Vallet's1926assessment records durable function, residual clawing of
+the hand and a remaining forearm circumference difference. [M4]
+
+That is stronger than a single late devotional anecdote. It is not direct nerve
+histology or paired skull radiographs. The dramatic nerve-regrowth description
+is Vallet's inference from reported prior injury and restored function, not a
+microscopic observation. The nerve operations themselves still need their
+original records. Ordinary labels such as functional paralysis cannot be treated
+as a proven explanation of the entire case merely because they are possible.
+
+New documentary acquisition: the Western Front Association's19December2024
+article publishes an image of Traynor's pension card. The image has been saved
+and visually inspected. It records his name, RNRservice, address at121Grafton
+Street,Liverpool, and a right-chest gunshot injury; its listed birth year1882
+differs from the article's1883. The WFA reports100%disability. The card is an
+administrative routing/index record with handwritten correspondence references,
+not the operative or neurological file. It corroborates independent military/
+pension documentation; it does not by itself prove every clinical detail or a
+post-cure medical reassessment affirming incurability. [N2,N3]
+
+The WFA links National Archives record D8562562 and a Fold3 pension-record item.
+The National Archives page returned a robot-verification requirement; the full
+record was not obtained or bypassed. No claim that missing original medical
+files do not exist is made. The familiar story that officials knowingly kept
+paying because a cure was impossible still needs its actual correspondence,
+not merely a card showing that a pension was administered.
+
+The religious connection is direct in the medical narrative: baths and the
+Eucharistic procession, with examinations immediately around the pilgrimage.
+The2024ecclesiastical recognition is not itself the date of the medical report.
+
+Priority next records: the original unsuccessful nerve-operation notes,
+neurological/pension-board examinations and correspondence, and the2024canonical
+dossier's source list. No direct contact or paid access was attempted.
+
+Delizia Cirolli:December1976 recovery, recognized28June1989
+
+St John Dowling, MB MRCGP, a Much Hadham general practitioner and CMILmember,
+published a case analysis in JRSM1984. The original printed pages636–637 were
+visually rechecked. University of Catania orthopedic physician Mollica obtained
+a biopsy, read by Cordaro as metastatic neuroblastoma. Marseille's Payan, Paris's
+Nezelof and Mazabraud/Curie colleagues subsequently favored Ewing's tumor while
+not wholly excluding neuroblastoma. This is expert reassessment of actual slides
+as reported by a committee member; the slides were not acquired by this agent.
+[M9]
+
+Amputation and cobalt irradiation were proposed and declined; no anticancer
+treatment was administered in Dowling's narrative. After an August1976pilgrimage
+including bathing, SeptemberX-rays reportedly showed extension of the lesion.
+Improvement began shortly before Christmas at home in Sicily, where the family
+continued Marian prayer and gave her Lourdes water. Later films showed bone
+repair; there was residual knee angulation. Thus a four-month delay is part of
+the published positive medical narrative, not a newly discovered contradiction
+that advocates had necessarily hidden. [M9]
+
+The exact tumor classification matters for natural-history comparisons. Statements
+that no spontaneous regression was known at this age are historical literature
+judgments and should not be repeated as an exhaustive statement about today's
+entire oncology literature without a fresh subtype-specific search. This pass
+does not demonstrate an ordinary explanation of her recovery. It does establish
+that 'instant tumor disappearance while bathing' is not the retrieved account.
+
+BNF now supplies exact retrievable holdings: André Trifaud and Bernard C.Colvin,
+French1989report47pages,8-KPIECE-2500; English1990report47pages,8-KPIECE-2501.
+The2005edition cited by François et al. is48pages; these are distinct editions.
+Trifaud is the authority-record spelling, rather than 'Triffaut' in some later
+citations. The booklets themselves were not downloaded. [N8,N9]
+
+The medical review by Bernard François of Lyon1, Esther Sternberg of NIH/NIMH
+and Elizabeth Fee of the National Library of Medicine raises delayed attribution
+as a specific concern. That concern weakens a tightly timed bath-effect inference;
+it does not erase the explicitly continuing Lourdes-water/prayer association or
+prove the event ordinary. Their broader neuroimmune hypothesis is not a
+demonstrated Cirolli mechanism. [M18]
+
+Priority next records: Trifaud/Colvin report, original biopsy and radiology, and
+independent contemporary pathology review using the best available classification.
+
+Perrin and the value/limits of a later firsthand research account
+
+Physician Dirk Johan Kruijthoff's2023Vrije Universiteit Amsterdam theology PhD
+reports personally inspecting the three detailed Lourdes booklets in2012. His
+printedpp28–30describe the presence of radiographs/histology and the decision
+arguments. This is a concrete firsthand account of documentary access, not an
+independent re-examination by us. It adds a useful Serge Perrin lead:1970recovery
+after anointing, prior recurrent hemiplegia/visual symptoms, inconclusive
+arteriograms, and the committee's attribution to vascular disease. Original
+Mouren/Bartoli report32pages remains the decisive document. [N10]
+
+Kruijthoff's brief summaries have date/anatomical simplifications relative to the
+other records. For example, his Cirolli pilgrimage month is July rather than
+Dowling's August, and his 'X-rays normal' Micheli shorthand omits the displaced
+reconstructed acetabulum described by Neilan. Do not silently merge them into a
+single flawless medical chronology or count their repetition as new cases.
+
+How to use this period in the cumulative argument
+
+The period supplies multiple serious, medically scrutinized recovery claims and
+specific published observations worth investigating. The close bath/procession
+timing is strongest in Micheli and Traynor; Cirolli has continuing shrine-linked
+practice but a much longer interval. Those distinctions should remain visible.
+
+The28official recognized recoveries cannot by themselves establish an excess
+healing rate at the shrine. There is no complete matched denominator here for
+diagnosis, treatment, exposure, follow-up and spontaneous-remission expectation.
+This is a limit on a rate-based argument, not evidence that the recoveries were
+fabricated or that their religious interpretation is automatically false.
+
+Keep the Church-recognized roster separate from François et al.'s25medically
+acknowledged1947–76cases: their tables include cases without episcopal recognition
+and document some later relapse/adverse follow-up. Dowling also records that
+medical acceptance and canonical recognition can diverge. A low recognition ratio
+demonstrates filtering, not that every unrecognized claim was medically disproven.
+
+Sources and exact read scopes are in source-register.json. All28official-period
+rows, decade counts and detailed assessments are in case-register.json.
+No email, purchase, Chrome session, global tally or main-argument document changed.

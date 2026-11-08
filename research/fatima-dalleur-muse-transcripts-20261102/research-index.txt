@@ -1,0 +1,59 @@
+DALLEUR / MUSE TRANSCRIPT RESEARCH INDEX
+Collected / consolidated 2 November 2026
+
+Seven source videos; all nonempty cues retained from the selected caption tracks.
+Automatic captions can corrupt names and technical terminology. Speaker labels are not inferred.
+Collection is not a claim that every newly collected interview has been closely read.
+Source videos and recommended passages follow; detailed provenance is in transcript-manifest.json.
+
+Fatima's Miracle Photo D115 - Sun Height Estimation
+Channel: BioPhilo | Runtime: 00:09:08 | Track words: 1208
+https://www.youtube.com/watch?v=0e8VSSHAB6c
+Caption track: Automatic English
+
+Sun position estimation technique + HUD
+Channel: BioPhilo | Runtime: 00:23:03 | Track words: 2296
+https://www.youtube.com/watch?v=UQhGi7-znsk
+Caption track: English subtitle track; French track retained separately; authorship of translation not authenticated
+
+Fatima's Miracle New Findings: Unusual 28° Sun's Height at Noon!
+Channel: BioPhilo | Runtime: 00:08:45 | Track words: 1358
+https://www.youtube.com/watch?v=vmHj5HO-J2o
+Caption track: English-US subtitle track; compare automatic English-original track if needed
+
+Apostate Filmmaker Tried to Debunk Fatima. He Failed.
+Channel: Capturing Catholicism | Runtime: 01:30:24 | Track words: 17841
+https://www.youtube.com/watch?v=GZZ3H-ExWMc
+Caption track: Automatic English-original
+
+In Defense of Fatima: Failed Prophecy? and More! - Ethan Muse
+Channel: Intellectual Catholicism | Runtime: 01:35:14 | Track words: 18076
+https://www.youtube.com/watch?v=8yln9fuDMRQ
+Caption track: Automatic English-original
+
+Ethan Muse Dustin Crummett Fatima Debate
+Channel: Deliberation Under Ideal Conditions | Runtime: 02:29:56 | Track words: 24204
+https://www.youtube.com/watch?v=V5U7d47iBAo
+Caption track: English caption track
+
+5 Hours Investigating the Strongest Miracle Evidence for Catholicism  (Ethan Muse) | Ep. 581
+Channel: Matt Fradd | Runtime: 05:04:48 | Track words: 61950
+https://www.youtube.com/watch?v=tp1ivUSSz2s
+Caption track: Automatic English-original
+
+PHOTOGRAPHIC-ANALYSIS READING ROUTE
+Dalleur D115 walkthrough: 02:47–05:20 shadow identification; 05:40–06:55 focal/vertical checks.
+Dalleur template tutorial: 00:56–02:35 VP; 09:30–10:36 focal fit; 15:17–16:36 ray-probe checks.
+Muse / Bradley response: 30:00–35:00 geometry; 39:00–55:00 camera/lens; 1:03–1:07 validation; 1:10–1:15 surface geometry.
+Muse / Sonna: approximately 08:00–11:30 photographic discussion (previously reviewed).
+Muse / Crummett: approximately 1:16–1:22 and 1:43–1:48 (previously reviewed).
+Pints episode581: inspect approximately 1:04–1:17 for the photographic discussion; timestamps follow this YouTube version, not ad-inserted podcast versions.
+Additional Dalleur demonstration: see transcript and original video; new material, not yet declared fully reviewed.
+
+Combined source runtime: 11:21:18
+Combined caption words: 126933
+Searchable topic occurrences: 425
+
+
+REVIEW UPDATE — 2 NOVEMBER 2026
+Focused Fatima review completed; see review-notes.txt and review-coverage.json for exact scope. Full Pio/Lanciano review is not claimed. Three Portuguese color-testimony passages were followed to edited documentary scans and visually checked. No new tally point.

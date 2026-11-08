@@ -1,0 +1,665 @@
+LOURDES MEDICAL EVIDENCE TALLY
+7 November 2026
+
+Selected Lourdes-linked cases graded for the strength and timing of clinical evidence. The selection includes all 25 patients in the published 1947–76 medical cohort and 42 reports matched to published accounts in Bertrin’s 1891 section. One of those 1891 reports is anonymous. The 1891 audit keeps 23 index-only entries in its own denominator and identifies a separate December 1891 case filed by Bertrin under 1892. The 1960 public source audit adds an unnamed Irish pilgrimage claim and updates the existing Gaultier entry.
+
+Reviewed cases by grade
+
+Solid before/after, fast recovery  10 total, 6 on the official baseline
+Solid before/after, slow or staged recovery  4 total, 4 on the official baseline
+Mid tier  64 total, 28 on the official baseline
+Claim with limited accessible medical evidence  17 total, 2 on the official baseline
+
+Selected cases  95 total. 40 on the official baseline and 55 additional Lourdes-linked reports.
+Official baseline awaiting case grades  32 of 72.
+
+Grades describe the documented clinical endpoint and its timing. The evidence for diagnosis, cause and ecclesiastical recognition is tracked separately.
+The date is the recovery year. Each person is counted once where identifiable. Shrine visits, home use of Lourdes water, and devotion elsewhere retain their distinct associations.
+Published counts and postwar case review — published-tallies-and-case-expansion.txt
+Complete 1891 section and evidence audit — bertrin-1891/report.txt
+1960 public source audit — journal-1960/report.txt
+1998 public source audit — magazine-1998/report.txt
+
+SOLID BEFORE/AFTER, FAST RECOVERY
+
+Specific dated clinical observations or tests on both sides, with a reasonably close window for a major change. The grade applies to the stated clinical endpoint. A window of days or roughly two weeks can establish a rapid clinical change without establishing the hour or biological mechanism.
+
+1878  Joachime Dehant  |  Official case 9
+French Lourdes baths.
+Reproduced certificates bracket the observed change in a large leg ulcer between 6 and 19 September. The exact recovery day varies, and the records do not measure tissue depth or tendon repair.
+Cause — Undetermined on reviewed evidence.
+Dossier — ../lourdes-period-audit-20261102/1858-1918/report.txt
+
+1891  Amélie Chagnon  |  Official case 14
+French Lourdes baths.
+Dupont's August 30 certificate describes drainage and severe knee symptoms just before departure, then a firm foot scar and no joint tenderness on return. Gaillard documented free movement and symmetric knee size September 5. The grade covers wound and joint findings within about eleven days. The sources give different tract lengths and timing of splint removal. Bone repair and the historical TB diagnosis lack direct confirmation.
+Cause — Undetermined on reviewed evidence.
+Dossier — bertrin-1891/report.txt
+
+1891  Frère Adolphe  |  Additional Lourdes-linked case
+Lourdes water administered at the Hospitallers of Saint John of God in Lyon.
+Carrier's November 10 certificate describes extreme weakness, cold skin, an imperceptible pulse and difficulty breathing on August 15 after prolonged vomiting. After water by mouth he tolerated drinks and ate before dawn. The physician describes the improvement persisting into November, and the community superior gives a detailed account. The grade covers the clinical turnaround and feeding. The original labels of anemia and neurosis and the lack of measurements limit diagnostic conclusions. The printed index calls him a Lazarist and groups him under September.
+Cause — Undetermined on reviewed evidence. Carrier himself considered a neurotic mechanism for the abrupt symptom change.
+Dossier — bertrin-1891/report.txt
+
+1891  Marie Seguin  |  Additional Lourdes-linked case
+French Lourdes baths.
+The Bureau report records moist chest sounds on August 22 despite subjective improvement, then their absence with only slight residual left-sided reduction in breath sounds on August 24. That is a dated clinical pair for a rapid change in auscultation. The referred TB diagnosis lacks organism confirmation and the recorded change does not establish its eradication.
+Cause — Undetermined on reviewed evidence.
+Dossier — bertrin-1891/report.txt
+
+1891  Sœur Labadie  |  Additional Lourdes-linked case
+Novena to Our Lady of Lourdes in Molfetta, Italy.
+Hospital physician Pansini records onset January 30, bloody sputum, cyanosis, breathlessness, delirium and a barely palpable pulse as the illness progressed. On day 13 she could eat and entered convalescence without fever. His report gives specific clinical findings on both sides across days. The editorial introduction puts the turn on the February 11 anniversary. The prose in Bertrin misplaces it in January and calls it day 12. No temperature chart or cultures were available.
+Cause — A crisis of lobar pneumonia is a plausible ordinary course. The specific mechanism remains undetermined.
+Dossier — bertrin-1891/report.txt
+
+1892  Marie Lemarchand  |  Official case 17
+French Lourdes baths.
+The treating doctor documents draining lesions before the pilgrimage and dry wounds with scar tissue five days after the reported improvement. The early medical record supports rapid visible wound change. The lupus diagnosis and attribution of other symptoms are disputed.
+Cause — Undetermined on reviewed evidence.
+Dossier — ../lourdes-expanded-audit-20261103/1858-1918/report.txt
+
+1907  Marie Borel  |  Official case 35
+French Lourdes pilgrimage and baths.
+The treating surgeon describes bowel-communicating fistulas. Dressing observations bracket staged closure across 21–22 August and physicians examined the closed sites shortly afterward. Later epithelial healing and exact tract anatomy are separate.
+Cause — Undetermined on reviewed evidence.
+Dossier — ../lourdes-period-audit-20261102/1858-1918/borel-deep-followup.txt
+
+1909  Marguerite Verzier  |  Additional Lourdes-linked case
+Lourdes devotion at La Teppe.
+Tournaire describes marked fracture-site mobility on 7 July and apparent clinical stabilization with supported walking on 9 July. The paired examinations support rapid clinical change in a three-month-old fracture. Later imaging cannot establish precisely when bony union occurred.
+Cause — Undetermined on reviewed evidence.
+Dossier — ../lourdes-period-audit-20261102/1858-1918/report.txt
+
+1923  John Traynor  |  Official case 71
+French Lourdes baths and procession.
+Reproduced examinations from 24, 25 and 27 July describe major gains in walking and arm function over days. Follow-up records functional gains and residual findings. The evidence grades function and does not measure anatomical nerve regeneration.
+Cause — Undetermined on reviewed evidence.
+Dossier — ../lourdes-period-audit-20261102/1919-1976/traynor-deep-followup.txt
+
+1948  Jeanne Frétel  |  Official case 52
+Communion and grotto at French Lourdes.
+A reproduced Rennes hospital temperature chart brackets a rapid change from fever swings to a near-normal trace across the October 1948 pilgrimage. The October 9 Bureau examination documents walking and a soft, painless abdomen; later follow-up confirms continued improvement. The chart has a gap during the trip. The grade covers fever and function; exact onset, TB clearance and the effect of prior treatment remain separate.
+Cause — Undetermined on reviewed evidence.
+Dossier — published-tallies-and-case-expansion.txt
+
+SOLID BEFORE/AFTER, SLOW OR STAGED RECOVERY
+
+Specific clinical findings or tests on both sides, with documented recovery in stages or substantial improvement developing over weeks, months, or longer. Record a rapid initial improvement separately when supported.
+
+1953  Marie Bigot  |  Official case 59
+French Lourdes pilgrimages and return travel.
+A near-contemporary physician paper reports surgery, low pre-recovery acuity, and specific later hearing and vision results. Mobility improved in 1953 and sensory functions in 1954. Some individual changes were rapid. The patient-level course spans distinct stages.
+Cause — Undetermined on reviewed evidence.
+Dossier — ../lourdes-expanded-audit-20261103/1919-1959/bigot-close-reading-20261103.txt
+
+1963  Vittorio Micheli  |  Official case 63
+French Lourdes baths.
+Dated published radiographs show destructive pelvic changes and subsequent bone repair. Initial reported pain relief preceded structural recovery. Sources conflict on chemotherapy and on the timing of the earliest post-pilgrimage film.
+Cause — Undetermined on reviewed evidence.
+Dossier — ../lourdes-period-audit-20261102/1919-1976/micheli-deep-followup.txt
+
+1976  Delizia Cirolli  |  Official case 65
+French Lourdes visit, later water and prayer at home.
+A named committee physician reports biopsy, September progression, clinical change around Christmas and later radiographic repair. The structural course is documented in publication, with original films unavailable. The precise tumor diagnosis is contested.
+Cause — Undetermined on reviewed evidence.
+Dossier — ../lourdes-cirolli-deep-audit-20261103/assessment.txt
+
+2009  Antonia Raco  |  Official case 72
+French Lourdes baths, improvement demonstrated at home.
+Dated clinician reports document improved gait, spirometry, and swallowing. The early functional gain was abrupt and later normalization progressive. PLS remains clinically credible, with incomplete independent access to the exclusion workup and no identified better-fitting diagnosis.
+Cause — Undetermined on reviewed evidence.
+Dossier — ../argument-thread-audit-20261028/l-01-raco-diagnosis-20261107.txt
+
+MID TIER
+
+There is substantive medical or physical evidence, and at least one element of the paired record or recovery timing is incomplete, indirect, or materially disputed. Either strong clinical evidence with uncertain timing or a clear recovery report with an incomplete medical pair can qualify.
+
+1858  Catherine Latapie  |  Official case 1
+French shrine and spring.
+Reported immediate return of finger movement after immersion. Early commission-derived medical narrative describes longstanding flexion and weakness. The original examination and quantified clinical pair are unavailable.
+Cause — Undetermined on reviewed evidence.
+Dossier — ../lourdes-expanded-audit-20261103/1858-1918/report.txt
+
+1858  Louis Bouriette  |  Official case 2
+Lourdes spring water used at home.
+A reported monocular reading test supports restored function. The prior severity and duration of blindness vary across derivative sources.
+Cause — Undetermined on reviewed evidence.
+Dossier — ../lourdes-expanded-audit-20261103/1858-1918/report.txt
+
+1858  Blaisette Cazenave  |  Official case 3
+Lourdes spring water applied locally.
+Early narrative describes visible lid disease and improvement after applications. The clinical pair is indirect and lash return is described over time.
+Cause — Undetermined on reviewed evidence.
+Dossier — ../lourdes-expanded-audit-20261103/1858-1918/report.txt
+
+1875  Pierre De Rudder  |  Official case 8
+Lourdes replica shrine in Belgium.
+Exhumed bones support a prior fracture and eventual union. The time of union depends on the disputed pre-recovery examination and witness chronology.
+Cause — Undetermined on reviewed evidence.
+Dossier — ../lourdes-period-audit-20261102/1858-1918/report.txt
+
+1882  Elisa Seisson  |  Official case 10
+French Lourdes baths.
+Named before and after certificates can be traced, with an early published summary of the later one. The retrieved evidence supports reported changes in edema and function more directly than structural cardiac recovery.
+Cause — Undetermined on reviewed evidence.
+Dossier — ../lourdes-expanded-audit-20261103/1858-1918/report.txt
+
+1891  Clémentine Trouvé  |  Official case 15
+French Lourdes baths.
+Cibiel documents a resistant calcaneal lesion in June and a painless scar with weight-bearing on September 1. An August hospital account and eyewitnesses support a closer interval. The contemporary Bureau author confirms inspecting the mark afterward and explicitly says he could not determine whether it had still been draining at entry into the bath. The report gives a firm endpoint and a less secure timing bracket.
+Cause — Undetermined on reviewed evidence.
+Dossier — bertrin-1891/report.txt
+
+1891  Amélie Dubreuil  |  Additional Lourdes-linked case
+French Lourdes baths.
+The account reports prior aspiration of fluid and a measured 6 cm reduction in waist circumference after a third bath. It explicitly says signs of the original mass remained and calls the outcome an improvement. The measurement method, timing of baseline and later tumor course are unavailable.
+Cause — Undetermined on reviewed evidence.
+Dossier — bertrin-1891/report.txt
+
+1891  Amélie Lefrançois  |  Additional Lourdes-linked case
+French Lourdes baths.
+The report describes a referring physician's chest diagnosis, symptomatic improvement after the third bath, a negative post-event chest exam and a recheck two days later. No specific pre-bath lung findings or durable follow-up were found.
+Cause — Undetermined on reviewed evidence.
+Dossier — bertrin-1891/report.txt
+
+1891  Anita Toussaint  |  Additional Lourdes-linked case
+French Lourdes baths.
+Gélade's August 30 certificate reports longstanding severe calf pain and inability to walk easily before pilgrimage and recovery on return. Her priest describes walking on August 27 and continued activity four months later. The issue's medical editor considers a functional recovery plausible and explicitly judges the claimed restoration of muscle size inadequately measured. The certificate does not give a dated final pre-trip exam.
+Cause — Undetermined on reviewed evidence.
+Dossier — bertrin-1891/report.txt
+
+1891  Anna Poyen  |  Additional Lourdes-linked case
+French Lourdes grotto.
+The chronicle names Dr Lejeune for prior motor and sensory loss and persistent vomiting. It describes a marked change at the grotto on September 4 with residual weakness. No post-event neurological examination or follow-up was identified.
+Cause — Undetermined on reviewed evidence.
+Dossier — bertrin-1891/report.txt
+
+1891  Antoinette Frédouille  |  Additional Lourdes-linked case
+French Lourdes baths.
+Boissarie describes prolonged Hôtel-Dieu hospitalization under two named doctors, post-bath walking and eating, and a Bureau visit witnessed by Gouraud. He reports later news of continued improvement and hospital readmission for shelter. No detailed baseline neurological exam or original hospital record was located.
+Cause — Undetermined on reviewed evidence.
+Dossier — bertrin-1891/report.txt
+
+1891  Berthe Petit  |  Additional Lourdes-linked case
+French Lourdes baths.
+A named patient from Paris arrived with reported paraplegia and a lower-back prominence that a bath attendant saw. The report describes walking afterward and residual cautery marks with no apparent prominence. The diagnosis of Pott disease and actual vertebral position lack paired measurements. This woman, aged 34, is distinct from the Belgian mystic of the same name.
+Cause — Undetermined on reviewed evidence.
+Dossier — bertrin-1891/report.txt
+
+1891  Caroline Cassabois  |  Additional Lourdes-linked case
+French Lourdes baths.
+The first report describes walking and tolerating lying flat after the bath, following reported paralysis and syncope. A Bureau follow-up in 1892 says she returned without recurrence and suggests a nervous origin. The baseline diagnosis of structural heart disease is unverified.
+Cause — Undetermined on reviewed evidence.
+Dossier — bertrin-1891/report.txt
+
+1891  Charlotte Bernard  |  Additional Lourdes-linked case
+French Lourdes grotto washes and baths.
+A Paris clinician reported loss of eardrum and ossicles and left-sided deafness. Lourdes physicians observed that the child could hear a watch at 30 cm after the washes and bath. The source gives no comparable pre-bath watch test, audiometry or post-event anatomical ear exam. The reported endpoint is hearing a sound.
+Cause — Undetermined on reviewed evidence.
+Dossier — bertrin-1891/report.txt
+
+1891  Georges Verdier  |  Additional Lourdes-linked case
+French Lourdes baths.
+An 18-year-old with right foot pain and inability to walk after a sprain wore a silicate splint. The account records restored use after its removal at the bath, with residual swelling much reduced two days later. Exact pre-trip clinical findings and later follow-up were unavailable.
+Cause — Undetermined on reviewed evidence.
+Dossier — bertrin-1891/report.txt
+
+1891  Jean Hennion  |  Additional Lourdes-linked case
+French Lourdes baths.
+Delbecq's complete certificate dated September 19, 1892 describes several years of treatment for severe headaches with reported anemia, inability to read briefly, and full return to school after the November 1891 pilgrimage. The Bureau saw him in 1892. The close timing is testimonial and laboratory evidence of anemia or its resolution is unavailable.
+Cause — Undetermined on reviewed evidence.
+Dossier — bertrin-1891/report.txt
+
+1891  Jeune religieux, unnamed  |  Additional Lourdes-linked case
+French Lourdes baths.
+An unnamed 17-year-old reports hemoptysis, poor appetite and weakness, with a physician's pre-trip TB diagnosis and a normal post-bath chest examination described by the Bureau. The report makes its verdict conditional on durability. No paired tests or individual follow-up were found.
+Cause — Undetermined on reviewed evidence.
+Dossier — bertrin-1891/report.txt
+
+1891  Lucie Michel  |  Additional Lourdes-linked case
+French Lourdes baths.
+Dr Chaplût's account describes right-sided paralysis, contracture and vomiting, initial improvement by the sixth bath and later independent walking and eating. He reports maintained recovery in the 1892 account. The neurological diagnosis is unsettled and matched measurements close to the event are unavailable.
+Cause — Undetermined on reviewed evidence.
+Dossier — bertrin-1891/report.txt
+
+1891  Lucie Renauld  |  Additional Lourdes-linked case
+French Lourdes baths.
+A pre-trip certificate describes left-leg atrophy. The Bureau reported the old shoe lift was removed and gait improved after the August 24 bath. The issue says 4 cm lift and Boissarie's later book says 3 cm. A lift is an indirect proxy. Monnier's paired numerical measurements are for Charlotte in 1892 and cannot establish Lucie's anatomical change.
+Cause — Undetermined on reviewed evidence.
+Dossier — bertrin-1891/report.txt
+
+1891  Marguerite Gaffié  |  Additional Lourdes-linked case
+Novena to Our Lady of Lourdes in Valence-d’Albi.
+Annales dates the improvement December 8, 1891. Her treating physician and father describes recurrent painful right foot swelling before, followed by painless motion and diminished prominence. The last comparable pre-event examination is not dated. Bertrin filed her under 1892, outside the 65 entries in the 1891 section.
+Cause — Undetermined on reviewed evidence.
+Dossier — bertrin-1891/report.txt
+
+1891  Marie Bertrand  |  Additional Lourdes-linked case
+French Lourdes baths.
+The report describes prolonged immobilization, impaired gait with a cane and knee swelling on arrival. After five baths, movement was free and painless by the Bureau report, which noted residual marks near the trochanter. The original orthopedic record and durable follow-up are unavailable.
+Cause — Undetermined on reviewed evidence.
+Dossier — bertrin-1891/report.txt
+
+1891  Marie Kopp  |  Additional Lourdes-linked case
+French Lourdes baths.
+Dr Schalck is named for the pre-trip gastric condition. The chronicle records that she walked easily at the Bureau and reported return of appetite and digestion. Gait was observed afterward. Baseline paresis and nutrition are indirect, with no quantified follow-up.
+Cause — Undetermined on reviewed evidence.
+Dossier — bertrin-1891/report.txt
+
+1891  Marie Rayon  |  Additional Lourdes-linked case
+French Lourdes Blessed Sacrament procession.
+A referral warned against bathing given her severe state, following reported pleurisy, hemoptysis and prolonged bed rest. The Bureau account describes standing August 21 and a subsequent chest exam without rales but with residual signs. A precise before auscultation and durable follow-up were unavailable.
+Cause — Undetermined on reviewed evidence.
+Dossier — bertrin-1891/report.txt
+
+1891  Mathurin Roussel  |  Additional Lourdes-linked case
+French Lourdes baths.
+The chronicle attributes to Dr Langlois a diagnosis of osteoarthritis of the left ankle or instep with five wounds, three draining. It describes visible closure, relief of pain and easy motion after the second bath. No signed paired certificate, objective size or later exam was found.
+Cause — Undetermined on reviewed evidence.
+Dossier — bertrin-1891/report.txt
+
+1891  Mlle Loranchet  |  Additional Lourdes-linked case
+French Lourdes baths.
+A physician from Luxeuil supplied a Pott disease diagnosis. She arrived on a stretcher in an iron corset and reportedly walked after bathing. The Bureau physician saw the cautery marks after the event and explicitly favored a functional disorder over vertebral damage based on the history. Evidence concerns movement. Vertebral tuberculosis was disputed in the original report.
+Cause — Undetermined on reviewed evidence.
+Dossier — bertrin-1891/report.txt
+
+1891  Sara Farry  |  Additional Lourdes-linked case
+French Lourdes baths.
+The Bureau narrative describes years of immobility after a fall, transport by her brother and walking with residual weakness after her sixth bath on August 21. A second contemporary reporter saw her at the Bureau August 24. The structural diagnosis is reported without an underlying examination and no long-term follow-up was found.
+Cause — Undetermined on reviewed evidence.
+Dossier — bertrin-1891/report.txt
+
+1891  Sœur Dorothée  |  Additional Lourdes-linked case
+French Lourdes baths and Blessed Sacrament procession.
+The Bureau account describes longstanding bed rest and vomiting, standing after immersion, walking after the procession, and visibly improved general condition on August 24. The pre-event diagnosis of anemia and spinal ischemia has no paired testing in this account.
+Cause — Undetermined on reviewed evidence.
+Dossier — bertrin-1891/report.txt
+
+1891  Sœur Jeanne de Valois  |  Additional Lourdes-linked case
+French Lourdes baths.
+The chronicle dates relief of knee arthritis to September 2. A later issue records presentation to Boissarie and colleagues and continued improvement. The register names Frogé. His certificate and paired joint measurements were not located.
+Cause — Undetermined on reviewed evidence.
+Dossier — bertrin-1891/report.txt
+
+1891  Sœur Marie-Marthe  |  Additional Lourdes-linked case
+French Lourdes baths.
+Dr Sirot's August 28 pre-trip excerpt records exertional breathlessness and recurrent angina-like episodes. She reported symptom relief after immersion. The writer expected later medical confirmation. The available account gives no paired exertion test or structural cardiac diagnosis.
+Cause — Undetermined on reviewed evidence.
+Dossier — bertrin-1891/report.txt
+
+1891  Théophile Devaux  |  Additional Lourdes-linked case
+French Lourdes baths.
+The November follow-up quotes a signed parish statement describing longstanding dependence on two crutches before departure on August 31 and unassisted walking on return September 5. It dates recovery to September 2. The text says recent physicians were unavailable because he had stopped consulting them. Witness evidence supports mobility without establishing the neurological diagnosis.
+Cause — Undetermined on reviewed evidence.
+Dossier — bertrin-1891/report.txt
+
+1891  Vve Menuau  |  Additional Lourdes-linked case
+French Lourdes Blessed Sacrament procession.
+The reports describe hospital treatment for suspected gastric ulcer, repeated hematemesis and recent inability to eat. She got up and ate after the procession. September's chronicle gives August 22 and identifies her as Mme Charles Menuau. There is a clinical history and observable functional change, with no paired study of the ulcer or later bleeding record.
+Cause — Undetermined on reviewed evidence.
+Dossier — bertrin-1891/report.txt
+
+1891  Élisabeth Villeneuve  |  Additional Lourdes-linked case
+French Lourdes baths.
+A specialist had performed two iridectomies and reportedly described marked visual loss from glaucoma. The Bureau tested reading in both eyes after the second bath. No matched visual acuities, pressure readings or pre-trip test results were located. Surgery remains relevant to causal assessment.
+Cause — Undetermined on reviewed evidence.
+Dossier — bertrin-1891/report.txt
+
+1892  Marie Lebranchu  |  Official case 16
+French Lourdes baths.
+An early medical register as quoted describes prior sputum bacilli and later reassuring clinical findings. Paired films and the underlying bacteriology are absent from the accessible record.
+Cause — Undetermined on reviewed evidence.
+Dossier — ../lourdes-period-audit-20261102/1858-1918/report.txt
+
+1901  Gabriel Gargam  |  Additional Lourdes-linked case
+French Lourdes pilgrimage.
+An early medical narrative describes prior disability and sustained later work. The hospital and compensation records remain leads, and the available record cannot grade the precise injury and recovery interval at the highest tier.
+Cause — Undetermined on reviewed evidence.
+Dossier — ../lourdes-period-audit-20261102/1858-1918/report.txt
+
+1902  Marie Bailly  |  Additional Lourdes-linked case
+French Lourdes pilgrimage and water applications.
+Early medical witnesses describe severe abdominal illness and improvement. The exact date and pathology are uncertain, and the early clinical file is incomplete.
+Cause — Undetermined on reviewed evidence.
+Dossier — ../lourdes-period-audit-20261102/1858-1918/report.txt
+
+1908  Marie Biré  |  Official case 37
+Mass at the French Lourdes grotto.
+Guinier gives a near-contemporary firsthand post-recovery eye examination and monocular reading observations. The accessible evidence lacks a calibrated pre-recovery acuity measure.
+Cause — Undetermined on reviewed evidence.
+Dossier — ../lourdes-expanded-audit-20261103/1858-1918/report.txt
+
+1908  Gabrielle Durand  |  Additional Lourdes-linked case
+French Lourdes baths.
+The surgeon gives firsthand history and later radiographic and operative observations. Those findings support a later change while leaving the claimed rapid onset and disease classification uncertain.
+Cause — Undetermined on reviewed evidence.
+Dossier — ../lourdes-period-audit-20261102/1858-1918/report.txt
+
+1910  Joseph Duncan Boothman  |  Additional Lourdes-linked case
+Mass at a Lourdes home in Dover.
+Published medical letters describe prior eardrum damage and discharge and a subsequent dry ear with good hearing. The available paired documentation is limited for an anatomical repair claim and its exact timing.
+Cause — Undetermined on reviewed evidence.
+Dossier — ../lourdes-period-audit-20261102/1858-1918/report.txt
+
+1924  Henriette Bressolles  |  Official case 41
+Procession and grotto at French Lourdes.
+Named before and after certificates are cited through a later source chain. Initial changes were reported quickly and walking improved over weeks with residual limitations. Original paired records remain unrecovered.
+Cause — Undetermined on reviewed evidence.
+Dossier — ../lourdes-expanded-audit-20261103/1919-1959/report.txt
+
+1938  Francis Pascal  |  Official case 45
+French Lourdes baths.
+An attributed treating-physician certificate gives concrete pre-recovery findings after meningitis. Later reports describe recovered sight and function. The originals and the exact August date require checking.
+Cause — Undetermined on reviewed evidence.
+Dossier — ../lourdes-expanded-audit-20261103/1919-1959/report.txt
+
+1947  Jeanne Gestas  |  Official case 49
+French Lourdes baths.
+Postoperative obstructive and digestive symptoms were reported after surgery. The Sanctuary describes improvement over two baths in August 1947, renewed eating and weight gain. The archive study records the 1950 and 1951 approvals. Pre/post operative findings and a measured recovery timeline are unavailable.
+Cause — Undetermined on reviewed evidence.
+Dossier — published-tallies-and-case-expansion.txt
+
+1947  Marie-Thérèse Canin  |  Official case 50
+French Lourdes Blessed Sacrament procession.
+The Sanctuary describes severe spinal and abdominal tuberculosis, 38 kg before recovery, regained mobility at Lourdes October 9, a next-day Bureau assessment and 55 kg by June 1948. The Bureau and committee approved later. The dated weight gain supports sustained improvement; paired imaging, fistula examination and treatment records were unavailable.
+Cause — Undetermined on reviewed evidence.
+Dossier — published-tallies-and-case-expansion.txt
+
+1947  Ernestine Gibault  |  Additional Lourdes-linked case
+French Lourdes Blessed Sacrament procession.
+The 1950 diocesan bulletin describes inability to sit or walk, then sitting and standing over two days and a treating physician certificate of regained walking and hearing two months later. François dates the recovery September 15; the bulletin dates the first change September 16 and standing the following day. The 1980 follow-up says she was blind, a different endpoint.
+Cause — Undetermined on reviewed evidence.
+Dossier — published-tallies-and-case-expansion.txt
+
+1947  Gérard Baillie  |  Additional Lourdes-linked case
+French Lourdes Stations of the Cross and pilgrimage.
+Clinicians described severe bilateral visual impairment and optic atrophy before the pilgrimage. Published accounts report object and color recognition afterward and 1949 acuities of 0.2 and 0.3, with conflicting accounts of fundus findings. The 1978 archive follow-up records blindness; whether it had the same cause is unknown.
+Cause — Undetermined on reviewed evidence.
+Dossier — published-tallies-and-case-expansion.txt
+
+1948  Maddalena Carini  |  Official case 51
+French Lourdes grotto.
+A history of multisite tuberculosis, sanatorium care and low weight in July 1948 precedes a reported sudden improvement August 15. The Bureau and committee approved in 1950 and 1951. The exact immediate clinical endpoint and the paired laboratory or imaging record were not available in this pass.
+Cause — Undetermined on reviewed evidence.
+Dossier — published-tallies-and-case-expansion.txt
+
+1950  Théa Angele  |  Official case 53
+French Lourdes baths and Blessed Sacrament procession.
+The reported MS course includes loss of speech and mobility, then major functional improvement during the May 17–21 pilgrimage. The committee endorsed the dossier in 1961. The original neurologic findings and serial diagnostic tests were unavailable; later activity is evidence of function.
+Cause — Undetermined on reviewed evidence.
+Dossier — published-tallies-and-case-expansion.txt
+
+1950  Evasio Ganora  |  Official case 54
+French Lourdes baths.
+Archival research corroborates a medically reviewed recovery report and records prior cancer treatment. The paired oncology and treatment records remain unavailable.
+Cause — Undetermined on reviewed evidence.
+Dossier — ../lourdes-expanded-audit-20261103/1919-1959/report.txt
+
+1950  Edeltraud Fulda  |  Official case 55
+French Lourdes baths.
+Reported adrenal insufficiency required daily hormone injections. The Sanctuary describes improvement at the August 12 bath, stopping injections, and sustained ability to work. Approval followed in 1955. Monden describes an August 16 Bureau exam reporting that the pigmentation had cleared. Endocrine test results and a complete hormone treatment record were unavailable.
+Cause — Undetermined on reviewed evidence.
+Dossier — published-tallies-and-case-expansion.txt
+
+1950  Paul Pellegrin  |  Official case 56
+French Lourdes baths.
+A postoperative fistula after drainage of a liver abscess had persisted for months. The Sanctuary describes closed skin observed by clinical staff in Toulon October 5, two days after the reported change. Original pre-trip examination, drainage records and proof of the deep tract outcome were not inspected.
+Cause — Undetermined on reviewed evidence.
+Dossier — published-tallies-and-case-expansion.txt
+
+1952  Léo Schwager  |  Official case 57
+French Lourdes Blessed Sacrament procession.
+A named physician observed the April 30 episode in a man reported to have MS. The record describes leaving his wheelchair and sustained later activity; the committee approved in 1959. The pre-trip neurologic exam and matched clinical measurements were unavailable.
+Cause — Undetermined on reviewed evidence.
+Dossier — published-tallies-and-case-expansion.txt
+
+1952  Alice Couteault  |  Official case 58
+French Lourdes pilgrimage; accounts differ on the immediate setting.
+Witness accounts describe prior walking and speech impairment with marked improvement May 15; the family doctor reported recovery afterward. The official narrative puts the first walking after a bath, while Marnham ties the change to a procession. Original neurologic records were not inspected.
+Cause — Undetermined on reviewed evidence.
+Dossier — published-tallies-and-case-expansion.txt
+
+1952  Anna Santaniello  |  Official case 67
+French Lourdes baths.
+The medical study lists rheumatic mitral stenosis and regurgitation. The Sanctuary describes severe symptoms, arrival on a stretcher and walking after the August 19 bath. The 1964 medical acceptance preceded the 2005 Church recognition; the paired cardiac measurements needed to assess valve function were unavailable.
+Cause — Undetermined on reviewed evidence.
+Dossier — published-tallies-and-case-expansion.txt
+
+1952  Berthe Bouley  |  Additional Lourdes-linked case
+Lourdes-linked; precise setting not verified.
+A contemporary bulletin records disappearance of symptoms attributed to MS and committee acceptance in May 1962. Original pre/post neurologic findings were unavailable. The archive study says the available follow-up was insufficient to establish durable remission.
+Cause — Undetermined on reviewed evidence.
+Dossier — published-tallies-and-case-expansion.txt
+
+1954  Ginette Nouvel  |  Official case 60
+French Lourdes pilgrimage; improvement continued at home.
+The reported Budd–Chiari illness improved across weeks after September 1954. Dowling reports the committee reconsidered its conclusion after her death and acknowledged that it had underestimated natural remission. The Sanctuary describes a probable recurrence. Paired vascular findings were unavailable.
+Cause — The committee later considered natural remission plausible; cause undetermined on reviewed evidence.
+Dossier — published-tallies-and-case-expansion.txt
+
+1958  Elisa Aloi  |  Official case 61
+French Lourdes water dressings.
+Published descriptions give visible fistulas before and later closure. Radiographic and bacteriological support for the original disease and the primary follow-up record remain incomplete.
+Cause — Undetermined on reviewed evidence.
+Dossier — ../lourdes-expanded-audit-20261103/1919-1959/report.txt
+
+1959  Juliette Tamburini  |  Official case 62
+French Lourdes water applied to wound.
+Named clinician statements are reported for closure of a draining wound in a relapsing illness. The original clinical dossier, treatment course, and objective paired findings remain incompletely accessible.
+Cause — Undetermined on reviewed evidence.
+Dossier — ../lourdes-expanded-audit-20261103/1919-1959/report.txt
+
+1959  Simone Rams  |  Additional Lourdes-linked case
+Lourdes-linked; precise setting not verified.
+Reported recovery from thyroid cancer with a suspected femur metastasis occurred over years. The committee approved in May 1964. The later archive review flags discordant pathology, radiology and clinical history, leaving the original tumor extent and recovery uncertain.
+Cause — Undetermined on reviewed evidence.
+Dossier — published-tallies-and-case-expansion.txt
+
+1960  Edmond Gaultier  |  Additional Lourdes-linked case
+French Lourdes Basilica of St. Pius X.
+The Sanctuary announced medical acceptance of a reported 7 October 1960 recovery. A contemporary Paris Match clipping attributes a weak pulse on arrival to a named doctor, and accounts describe Gaultier walking afterward. The original paired neurological records are unavailable. The diagnosis and degree of pre-pilgrimage disability remain disputed.
+Cause — Undetermined on reviewed evidence.
+Dossier — journal-1960/report.txt
+
+1965  Luigina Traverso  |  Official case 68
+Eucharistic observance at French Lourdes.
+A detailed decree names medical reviewers and recounts lasting functional recovery. The operative and paired neurological records remain unexamined in the accessible file.
+Cause — Undetermined on reviewed evidence.
+Dossier — ../lourdes-expanded-audit-20261103/1960-present/report.txt
+
+1970  Serge Perrin  |  Official case 64
+Anointing at French Lourdes.
+Paired visual measures are strong. The best recovered tests are later and give less direct support to the claimed same-day timing. The neurological report explicitly questions a proposed arterial lesion and qualifies some symptoms.
+Cause — Undetermined on reviewed evidence.
+Dossier — ../lourdes-expanded-audit-20261103/1960-present/report.txt
+
+1987  Jean-Pierre Bely  |  Official case 66
+Sacraments during French Lourdes pilgrimage.
+Official declaration and named specialist review support a durable recovery report. The accessible record lacks a sufficiently specific paired neurologic and diagnostic file for the solid grade.
+Cause — Undetermined on reviewed evidence.
+Dossier — ../lourdes-period-audit-20261102/1977-present/report.txt
+
+1989  Danila Castelli  |  Official case 69
+French Lourdes baths.
+Multiple operations and later medical reviews are documented in summaries. Paired endocrine measurements, pathology, and the treatment chronology remain unavailable.
+Cause — Undetermined on reviewed evidence.
+Dossier — ../lourdes-period-audit-20261102/1977-present/report.txt
+
+2002  Serge François  |  Additional Lourdes-linked case
+French Lourdes spring and grotto.
+A signed diocesan declaration reports an investigated, durable functional recovery and the patient gives a close water-linked chronology. The original paired neurological records are missing. The dossier calls this a remarkable healing.
+Cause — Undetermined on reviewed evidence.
+Dossier — ../lourdes-period-audit-20261102/1977-present/report.txt
+
+2008  Bernadette Moriau  |  Official case 70
+Recovery at home after French Lourdes pilgrimage.
+Her treating doctor recalls the supported baseline and directly observed markedly improved movement after the reported change. The contemporary paired measurements and neurological records are sparse in the public dossier. This grade preserves substantial testimony about function.
+Cause — Undetermined on reviewed evidence.
+Dossier — ../lourdes-period-audit-20261102/1977-present/report.txt
+
+CLAIM WITH LIMITED ACCESSIBLE MEDICAL EVIDENCE
+
+The inspected material mainly describes a recovery or refers to a dossier that has yet to be inspected. Clinical verification is limited on the currently accessible record.
+
+1891  Joseph Bey  |  Additional Lourdes-linked case
+French Lourdes Blessed Sacrament procession.
+The report names Mme Joséphine Bey from the same place with the same symptom cluster. It attributes return of movement and eating to the procession and expressly awaits certificates. Roy's certificate was not located. Identification is likely given the correspondence, but the register prints Joseph.
+Cause — Insufficient accessible evidence to assess cause.
+Dossier — bertrin-1891/report.txt
+
+1891  Julienne Paris  |  Additional Lourdes-linked case
+French Lourdes baths.
+A chronicle describes headache, inability to open her eyes and paralysis, followed by seeing the statue and reportedly improved movement after immersion. The report gives no named medical examiner or later corroboration.
+Cause — Insufficient accessible evidence to assess cause.
+Dossier — bertrin-1891/report.txt
+
+1891  Louise Servais  |  Additional Lourdes-linked case
+French Lourdes baths.
+The account describes intermittent convulsive and cataleptic episodes with sensory, gait and speech symptoms. She felt markedly improved after bathing on September 4 with weakness persisting. The register names Morlot but the cited page does not reproduce his certificate or show a paired exam.
+Cause — Insufficient accessible evidence to assess cause.
+Dossier — bertrin-1891/report.txt
+
+1891  Maria Ouvrie  |  Additional Lourdes-linked case
+French Lourdes baths.
+The pilgrimage chronicle describes longstanding lower-limb symptoms and an apparently complete change after an August 26 bath. No paired examinations or explicit measured functional endpoint were supplied.
+Cause — Insufficient accessible evidence to assess cause.
+Dossier — bertrin-1891/report.txt
+
+1891  Marie Laroche  |  Additional Lourdes-linked case
+French Lourdes baths.
+The matching chronicle calls her Maria Laroche and describes left hip symptoms for four years and abrupt relief on August 28. There is no specific pre/post examination.
+Cause — Insufficient accessible evidence to assess cause.
+Dossier — bertrin-1891/report.txt
+
+1891  Marie Poirier  |  Additional Lourdes-linked case
+French Lourdes baths.
+Same name and village, but the cited account describes suspected pulmonary disease, not the register's hip condition. It gives a September 16 bath and reports improved walking and appetite. The chronology and diagnosis conflict with the index entry, and clinical examinations are missing.
+Cause — Insufficient accessible evidence to assess cause.
+Dossier — bertrin-1891/report.txt
+
+1891  Marie Talohre  |  Additional Lourdes-linked case
+French Lourdes grotto.
+The chronicle describes severe weakness September 3 and getting up after the bishop prayed. It expressly leaves durability for later assessment. The index label of arthritis is not elaborated in this account.
+Cause — Insufficient accessible evidence to assess cause.
+Dossier — bertrin-1891/report.txt
+
+1891  Mme Compas  |  Additional Lourdes-linked case
+French Lourdes baths.
+The pilgrimage chronicle describes a woman aged 39 with longstanding ataxic symptoms and reports abrupt relief after immersion. It supplies neither a measured neurological change nor follow-up. It places the episode in the August 15 feast account, while the register groups it August 18.
+Cause — Insufficient accessible evidence to assess cause.
+Dossier — bertrin-1891/report.txt
+
+1891  Mme Martin  |  Additional Lourdes-linked case
+French Lourdes baths.
+The chronicle describes rheumatic symptoms and return of leg use at the baths August 26. The printed index groups it August 28. No examinations are cited in the available account.
+Cause — Insufficient accessible evidence to assess cause.
+Dossier — bertrin-1891/report.txt
+
+1891  Mélanie Boyer  |  Additional Lourdes-linked case
+French Lourdes baths.
+The chronicle describes a few months of left hip symptoms and relief on August 28. It supplies no dated clinical examinations, measurements or follow-up.
+Cause — Insufficient accessible evidence to assess cause.
+Dossier — bertrin-1891/report.txt
+
+1891  Victorine Beaumard  |  Additional Lourdes-linked case
+French Lourdes baths.
+The matching account is Marie Baumard from the same town with paralysis and severe vomiting. It reports improvement after three baths and substantial residual weakness. The identity spelling and given name differ. The chronicle gives no medical examination.
+Cause — Insufficient accessible evidence to assess cause.
+Dossier — bertrin-1891/report.txt
+
+1891  Églantine Roué  |  Additional Lourdes-linked case
+French Lourdes baths.
+The pilgrimage chronicle reports years of hip symptoms and walking without crutches after a bath. No clinical certificate or durability evidence was located.
+Cause — Insufficient accessible evidence to assess cause.
+Dossier — bertrin-1891/report.txt
+
+1910  Juliette Orion  |  Official case 39
+Lourdes prayer at home.
+The account describes illness and recovery after prayer. The physician and direct clinical documentation remain unverified in the accessible dossier.
+Cause — Insufficient accessible evidence to assess cause.
+Dossier — ../lourdes-expanded-audit-20261103/1858-1918/report.txt
+
+1947  Rose Martin  |  Official case 48
+French Lourdes recognized series.
+The archive identifies cervical cancer and a reported recovery as a candidate. The inspected case material lacks the surgical, pathology, and follow-up records needed for paired adjudication.
+Cause — Insufficient accessible evidence to assess cause.
+Dossier — ../lourdes-medical-audit-20261101/report.txt
+
+1949  Mauri (given name unverified)  |  Additional Lourdes-linked case
+Lourdes-linked; exact setting not verified.
+The archive study lists peritoneal and genital tuberculosis in 1945, recovery May 25, 1949 and two medical approvals. The clinical record of the recovery, treatment, and route of association were not located. Later thyroid cancer is a distinct diagnosis and does not establish TB recurrence.
+Cause — Insufficient accessible evidence to assess cause.
+Dossier — published-tallies-and-case-expansion.txt
+
+1960  Unnamed Irish pilgrimage returnee  |  Additional Lourdes-linked case
+Return from the Irish pilgrimage to Lourdes.
+In April 1961, Bureau president Alphonse Olivieri reported a possible recovery on the return from the previous year's Irish pilgrimage and planned an examination. No name, condition, exact date, clinical findings, or outcome of that examination appears in the accessible entry.
+Cause — Insufficient accessible evidence to assess cause.
+Dossier — journal-1960/report.txt
+
+2004  Nadine, surname unverified  |  Additional Lourdes-linked case
+Prayer on French Lourdes pilgrimage.
+An institutional publication mentions recovery and calls it remarkable. The available entry supplies neither an identifiable clinical file nor paired examinations.
+Cause — Insufficient accessible evidence to assess cause.
+Dossier — ../lourdes-period-audit-20261102/1977-present/report.txt
+
+SELECTED CASES BY RECOVERY DECADE
+
+Decade   Fast   Slow/staged   Mid   Claim
+1850s       0             0     3       0
+1870s       1             0     1       0
+1880s       0             0     1       0
+1890s       5             0    28      12
+1900s       2             0     4       0
+1910s       0             0     1       1
+1920s       1             0     1       0
+1930s       0             0     1       0
+1940s       1             0     5       2
+1950s       0             1    12       0
+1960s       0             1     2       1
+1970s       0             1     1       0
+1980s       0             0     2       0
+2000s       0             1     2       1
+
+Decades here reflect the selection of reviewed cases.
+
+OFFICIAL BASELINE CASES AWAITING A FORENSIC GRADE
+
+ 4  1858  Henri BUSQUET
+ 5  1858  Justin BOUHORT
+ 6  1858  Madeleine RIZAN
+ 7  1858  Marie MOREAU
+11  1883  Suor EUGENIA nata Marie MABILLE
+12  1889  Suor JULIENNE
+13  1890  Suor JOSÉPHINE MARIE
+18  1892  Elisa LESAGE
+19  1892  Sr MARIE DE LA PRÉSENTATION (Sylvie Delporte)
+20  1893  Padre CIRETTE
+21  1895  Aurélie HUPRELLE
+22  1896  Esther BRACHMANN
+23  1897  Jeanne TULASNE
+24  1898  Clémentine MALOT
+25  1899  Rose FRANÇOIS
+26  1900  Padre SALVADOR
+27  1901  Suor MAXIMILIEN (Nun of l’Espérance)
+28  1901  Marie SAVOYE
+29  1904  Johanna BÉZENAC
+30  1904  Suor SAINT HILAIRE (Lucie Jupin)
+31  1904  Suor SAINTE BÉATRIX (Rosalie Vildier)
+32  1905  Marie-Thérèse NOBLET
+33  1905  Cécile DOUVILLE de FRANSSU
+34  1907  Antonia MOULIN
+36  1908  Virginie HAUDEBOURG
+38  1909  Aimée ALLOPE
+40  1911  Marie FABRE
+42  1930  Lydia BROSSE
+43  1937  Suor MARIE MARGUERITE nata Françoise Capitaine
+44  1937  Louise JAMAIN (Mrs Maître)
+46  1943  Gabrielle CLAUZEL
+47  1945  Yvonne FOURNIER
+
+Baseline source — ../lourdes-expanded-audit-20261103/baseline-roster.json
+Machine-readable register — forensic-tally.json

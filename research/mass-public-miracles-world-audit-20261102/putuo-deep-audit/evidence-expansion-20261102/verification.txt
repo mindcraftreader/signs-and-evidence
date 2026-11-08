@@ -1,0 +1,1 @@
+Local HTML parsed successfully. All local links and image references exist. All successful-download hashes match. Browser visual rendering of the local HTML was unavailable because the browser tool blocks file URLs; no alternate browser route was attempted. Source PDFs and selected source images were inspected separately.

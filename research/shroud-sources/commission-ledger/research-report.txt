@@ -1,0 +1,166 @@
+ÉVRARD: COMMISSION PRICES, PROJECT SCALE AND THE SHROUD
+Reviewed 27 October 2026
+
+The strongest controlled price comparison is the two Langres bargains acknowledged on 5 June 1341:140 versus 16 livres tournois, a ratio of 8.75. It controls maker, date and currency, but not scope, materials, number of objects or transport. No price-per-height or price-per-area regression is justified.
+
+Corbeil supplies the best labor-scale evidence: seven painters and an assistant over 136 stated working days. If the entry applies the same days to all, it represents 952 painter-days and 136 assistant-days. It establishes that a royal campaign associated with Évrard could employ a substantial team; it does not measure the labor needed to make the Shroud.
+
+There is no dataset here of independently measured complete artwork areas paired with total prices and actual labor days. The two-foot dimensions concern individual figures inside bundles. Chapel/gallery areas are absent. A statistical size–price correlation would create precision the records do not support.
+
+The Shroud has no established manufacturing method, production duration or medieval invoice. Fourteen feet of cloth is not a labor measure: weaving/procurement, image-making, staging or transfer, chemistry, drying and later alteration could have very different time requirements. A long modern replication effort would not establish the original duration.
+
+An artistic-production hypothesis consistent with these records is a patron hiring a master who procures materials and coordinates specialists. That is a historically documented business structure. Identifying this master as the Shroud’s maker would require a cloth/relic/image commission, a patron chain or a relevant material purchase, not merely an expensive or vaguely described payment.
+
+No retrieved entry is a positive financial match to the Shroud. The large 1,200-tournois item has a named building purpose; the 973-parisis figure aggregates many works; the 480-tournois obligation is not an artwork price. Their size alone does not make them stronger candidates.
+
+KNOWN GAPS
+Royal remuneration: Prost p 393 reports 12 deniers/day in 1305 and 1322–1323; unnamed painter at 3 sous/day 1327–1329 is his proposed identification. Keep pensions/payroll separate from project prices.
+Royal accounts 1335–1342: Prost p 394 note 1 lists numerous KK5 folios; individual entries have not all been retrieved or classified. This is a verified working ledger, not a complete lifetime cashbook.
+July 1323 arrears for Palais de la Cité work and Sainte-Chapelle supervision around 1332–1333: known in Lorentz; no new securely checked amount here.
+Conflans May/October 1315 receipts: known dates, amounts not yet read. Original building bargain/devis not retrieved; Richard p 291 reports their loss.
+Maubuisson retable attribution and surviving fragment dimensions do not supply a paid contract naming Évrard. Do not turn an attribution into a payment.
+The 1314 cross/image receipt does not establish Christ as the figure or linen as its support. No direct Évrard–Charny/Lirey/Shroud transaction has been identified.
+
+C01 | 1304–1305 | Corbeil royal painting campaign
+7 painters at 3 sous/day each; assistant at 12 deniers/day; team rate 22 sous/day
+Type: Labor account quoted in a documentary study
+Size: No surface area stated
+Schedule: 136 working days in the printed numeral; 7 painters and 1 assistant
+Source: EVRARD-PROST-1896 pp 393
+Limit: Évrard is named on the adjoining colors line, not as each painter’s personal employer. Currency standard is not specified in the quotation. Printed wage total appears to be 140 livres 12 sous, inconsistent with 22 sous × 136 = 149 livres 12 sous; original account must resolve this before using its total.
+
+C02 | 1304–1305 | Colors for the Corbeil campaign, through master Évrard, painter to the king
+46 livres 11 sous
+Type: Materials account
+Size: No quantity or painted area stated
+Schedule: Same account as C01
+Source: EVRARD-PROST-1896 pp 393
+Limit: Not Évrard’s fee and not a separate artwork price; currency standard not specified in the excerpt.
+
+C03 | 21 August 1313 | Unspecified works for Mahaut; recipient Everart the image-maker
+20 livres parisis
+Type: Receipt of funds for works
+Size: Not stated
+Schedule: No work duration
+Source: EVRARD-DEHAISNES-1886 pp 206
+Limit: The receipt does not give d’Orléans as surname or specify an object; identification rests on the editor/context. Not an unidentified Shroud commission.
+
+C04 | 23 March 1314 (editor’s normalized year) | House/hall at Mahaut’s Conflans manor
+1,200 livres petits tournois contract; 300 authorized as first payment
+Type: Payment order stating contract total
+Size: Not stated
+Schedule: No labor period or delivery date in excerpt
+Source: EVRARD-DEHAISNES-1886 pp 209
+Limit: An authorization is not a receipt. March authorization and June receipt may document the same first installment; Richard p 354 treats June as the advance. Do not add them as two proven disbursements.
+
+C05 | 18 June 1314 | Hall at Conflans
+300 livres petits tournois
+Type: Receipt of installment due at coming Saint John Baptist feast
+Size: Not stated
+Schedule: Payment deadline, not days worked
+Source: EVRARD-DEHAISNES-1886 pp 210
+Limit: Probably the contract in C04; not an additional 300-livre commission and not automatically an additional payment beyond the March order.
+
+C06 | 21 June 1314 | Cross and image of the deceased lord of Artois, near Maubuisson
+20 livres parisis
+Type: Receipt toward named work; whole-project price unproved
+Size: Not stated
+Schedule: Work still described as to be done; no duration
+Source: EVRARD-DEHAISNES-1886 pp 210
+Limit: Receipt does not explicitly call the figure Christ, identify linen, or establish that this is the entire price.
+
+C07 | November 1314: 15 th in quoted entry; 25 th in Richard’s narrative | Jean de Rouen painting Othon’s tomb, by a bargain arranged by Évrard
+8 livres parisis (Richard’s currency identification)
+Type: Payment to another artist under a contract arranged by Évrard
+Size: Not stated
+Schedule: No duration
+Source: EVRARD-RICHARD-1887 pp 313 note 4; 355
+Limit: Direct documentary evidence of Évrard coordinating a specialist, not money paid to Évrard. Narrative and quoted account disagree on day. February gilding receipt C09 may overlap; do not automatically sum.
+
+C08 | 1 February 1315 (editor’s normalized year) | Works at Mahaut’s Conflans house
+80 livres parisis
+Type: Receipt; component or installment unknown
+Size: Not stated
+Schedule: No work duration
+Source: EVRARD-DEHAISNES-1886 pp 211–212
+Limit: Not a proved separate commission; do not add to the 1,200-tournois contract without reconciling scope and currencies.
+
+C09 | 4 February 1315 | Jean de Rouen gilding Othon’s tomb
+8 livres parisis
+Type: Receipt to another artist for amount owed
+Size: Not stated
+Schedule: No duration
+Source: EVRARD-DEHAISNES-1886 pp 212
+Limit: Related project, but this receipt alone does not name Évrard. Possible overlap with November painting payment must be checked.
+
+C10 | 28 May 1315 | Conflans works
+Amount not supplied in passage
+Type: Additional receipt reported by archival researcher
+Size: Not stated
+Schedule: Payment date only
+Source: EVRARD-RICHARD-1887 pp 291
+Limit: Receipt itself not retrieved. Retained as a known gap, not assigned an invented amount.
+
+C11 | 26 October 1315 | Conflans works
+Amount not supplied in passage
+Type: Additional receipt reported by archival researcher
+Size: Not stated
+Schedule: Payment date only
+Source: EVRARD-RICHARD-1887 pp 291
+Limit: Receipt itself not retrieved. Same limits as C10.
+
+C12 | Work dated 1317; account compiled about 1320 | Conflans chapel painting, arranged by Évrard
+60 livres; parisis inferred from account total
+Type: Expenditure entry
+Size: Not stated
+Schedule: Year of campaign, no days or crew count
+Source: EVRARD-DEHAISNES-1886 pp 233–234
+Limit: Had painted does not prove Évrard painted it personally; not a specified linen support. Amount is not explicitly labeled a total contract price.
+
+C13 | Work conventionally dated 1319; account about 1320 | Conflans galleries before chapel
+30 livres stated price; 20 paid by Évrard; parisis inferred from total
+Type: Contract price distinguished from amount disbursed
+Size: Not stated
+Schedule: Campaign year, no days or crew count
+Source: EVRARD-DEHAISNES-1886 pp 234
+Limit: 30 and 20 describe one job, not two commissions. No area or iconography supplied.
+
+C14 | Account about 1320, referring to Conflans campaigns | Jehan de Sez glazing hall, chapel, chamber and wardrobe
+46 livres parisis paid by Évrard
+Type: Payment onward to named glazier
+Size: No pane count or area
+Schedule: No duration
+Source: EVRARD-DEHAISNES-1886 pp 234
+Limit: Proves coordination of a separate trade; not Évrard’s personal income or a cloth image.
+
+C15 | Account about 1320 | Conflans expense subtotal and obligation
+126 livres parisis subtotal; 480 livres tournois obligation
+Type: Accounting subtotal and financial obligation, not two artworks
+Size: Not applicable
+Schedule: Not labor duration
+Source: EVRARD-DEHAISNES-1886 pp 234
+Limit: 126 = 20 gallery + 60 chapel + 46 glazing. Do not add subtotal again. Obligation has intervening omitted text and uncertain wider context; not an unexplained art commission.
+
+C16 | 5 June 1341 acknowledgment of earlier bargains | Langres Virgin and kneeling Guy Baudet, tabernacles, painted doors, gold, stone supports, gilded copper crozier and delivery
+140 livres tournois, acknowledged received
+Type: Agreed package price acknowledged fully paid
+Size: Bishop: two feet; Virgin size specified by comparison to a Paris model; modern associated Virgin record gives 95 cm
+Schedule: Delivery by Saint Rémy, interpreted by Ronot as 1 October 1341; 118 calendar days after acknowledgment, not production time
+Source: EVRARD-RONOT-1933 pp 195–196; document 202–204
+Limit: Record acknowledges an earlier agreement; work could have begun before June. Price includes materials, several objects and transport. Do not treat 95 cm as dimensions of the entire priced ensemble.
+
+C17 | 5 June 1341 acknowledgment of earlier bargains | Saint Mammès and wooden tabernacle for Jean de Tiercelieue; support and delivery
+16 livres tournois, acknowledged received
+Type: Separate agreed package price acknowledged fully paid
+Size: Saint: two feet; tabernacle compared with bishop’s
+Schedule: Same Saint Rémy delivery deadline; no labor days stated
+Source: EVRARD-RONOT-1933 pp 203–204
+Limit: Same maker/date/currency as C16, but different bundle. 140/16 = 8.75 is a package-price ratio, not a size or labor ratio.
+
+C18 | 22 January 1350 (new-style date in Prost); works 1328–1340 | Multiple royal works, paintings and other work
+973 livres 7 sous 6 deniers parisis was amount owed; balance settled in 1350
+Type: Aggregate claim with later balance payment
+Size: No individual projects or dimensions given
+Schedule: Work-date range spans 1328–1340; not continuous labor on one object
+Source: EVRARD-PROST-1896 pp 394
+Limit: Not a 973-livre single commission, not annual salary, and not necessarily the amount of the final balance disbursement.

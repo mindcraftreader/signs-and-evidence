@@ -1,0 +1,105 @@
+{
+  "created": "2026-10-26",
+  "type": "Photographic intensity-to-height relief; not an anatomical body fit",
+  "image_attribution": "2002 Shroud photographs published through Sindonology.org; contrast-enhanced versions by Rudolf Berwanger, Wikimedia Commons, 2022.",
+  "license": "CC BY-SA 4.0, as declared on the source file pages",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "source_pages": {
+    "face": "https://commons.wikimedia.org/wiki/File:Antlitz_im_Turiner_Grabtuch,_Foto_2002,_in_hoher_Aufl%C3%B6sung.jpg",
+    "full_cloth": "https://commons.wikimedia.org/wiki/File:Turiner_Grabtuch_in_voller_L%C3%A4nge,_aufgenommen_w%C3%A4hrend_der_Restaurierung_2002.jpg"
+  },
+  "source_processing": "The source file pages explicitly describe increased contrast. Pixel dimensions do not establish native optical resolution or a calibrated radiometric response. No AI upscaling or generative reconstruction was applied in this project.",
+  "mapping": "Let v be 8-bit grayscale luminance. Set d=(255-v)/255, or its explicitly selected inverse. Coordinates x and y retain the crop aspect ratio. z=gain*100*(d-mean(d)); gain defaults to 0.65. Units are arbitrary. Mean subtraction translates the relief without altering its relative heights. No local normalization, anatomical adjustment, cloth-drape correction, inpainting, stain masking or manual feature sculpting is applied.",
+  "smoothing_encoding": "Raw luminance is uint8; filtered luminance remains float32 to avoid introducing quantization terraces. The saved filtered PNG is 16-bit.",
+  "sampling": "Read images with JPEG draft decoding at half dimensions, crop in documented original-image coordinates, then resample with Lanczos to the mesh grid. An optional separable Gaussian filter with sigma 4 mesh-grid pixels (truncated at 3 sigma) suppresses weave and JPEG noise. Both unblurred and blurred luminance maps are supplied.",
+  "limitations": "Photographic exposure, enhanced contrast, stains, damage, weave, creases and illumination affect the height map. Depth has no physical calibration. This is an open surface, not a watertight human model. It cannot independently establish anatomy, identity, original image formation, or cloth-to-body distances.",
+  "datasets": [
+    {
+      "key": "face",
+      "label": "Face",
+      "source": "face",
+      "source_dimensions": [
+        7293,
+        7227
+      ],
+      "crop_original_pixels": [
+        0,
+        0,
+        7293,
+        7227
+      ],
+      "rotation_degrees": 0,
+      "grid": [
+        256,
+        254
+      ],
+      "vertices": 65024,
+      "triangles": 129030,
+      "width_units": 100.0,
+      "height_units": 99.2156862745098,
+      "default_model": "models/face-relief-smoothed.obj"
+    },
+    {
+      "key": "front",
+      "label": "Front body image",
+      "source": "full_cloth",
+      "source_dimensions": [
+        7683,
+        29362
+      ],
+      "crop_original_pixels": [
+        1800,
+        14500,
+        5800,
+        28700
+      ],
+      "rotation_degrees": 0,
+      "grid": [
+        160,
+        568
+      ],
+      "vertices": 90880,
+      "triangles": 180306,
+      "width_units": 100.0,
+      "height_units": 356.60377358490564,
+      "default_model": "models/front-relief-smoothed.obj"
+    },
+    {
+      "key": "back",
+      "label": "Back body image",
+      "source": "full_cloth",
+      "source_dimensions": [
+        7683,
+        29362
+      ],
+      "crop_original_pixels": [
+        1800,
+        600,
+        5800,
+        14400
+      ],
+      "rotation_degrees": 180,
+      "grid": [
+        160,
+        552
+      ],
+      "vertices": 88320,
+      "triangles": 175218,
+      "width_units": 100.0,
+      "height_units": 346.54088050314465,
+      "default_model": "models/back-relief-smoothed.obj"
+    }
+  ],
+  "original_downloads": [
+    {
+      "file": "images/face-2002-commons.jpg",
+      "bytes": 11787887,
+      "sha256": "d06e4dd0efe3fc486add50d5366c78201371d3121f732e98eb20d2350c3b8624"
+    },
+    {
+      "file": "images/full-cloth-2002-commons.jpg",
+      "bytes": 27500583,
+      "sha256": "2b92e6174ce6d707f53b3488ca0cb4108f446c081ef9348a589e19ac8fffa138"
+    }
+  ]
+}

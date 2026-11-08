@@ -1,0 +1,8 @@
+2026-10-28
+JavaScript syntax: both final inline scripts parse.
+Inline D3 loaded in isolated Node context; polygon winding checked and corrected.
+Data: eight entries, seven locality names; all coordinates finite and in Portugal; no claimed measured eyewitness azimuths.
+All referenced map/control DOM IDs are present; dropdown and table selection handlers update selected record and redraw both maps.
+Static overview visually inspected and crowded regional labels removed.
+Municipal coordinate page rendered and visually checked against decimal conversion.
+Interactive HTML was not driven through a browser session; static rendering and JavaScript/data checks are distinct verification steps.

@@ -1,0 +1,35 @@
+{
+  "scope": "Inherited current72-case official-summary register,first40recoveries1858–1911;notallclaimsor40clinicaldossiersreadanew.",
+  "recognized_summary_cases": 40,
+  "counts_by_recovery_decade": {
+    "1850s": 7,
+    "1860s": 0,
+    "1870s": 2,
+    "1880s": 3,
+    "1890s": 13,
+    "1900s": 13,
+    "1910–1918": 2
+  },
+  "case_register_detailed_or_targeted_candidates": 12,
+  "primary_priorities": [
+    "L1875-DERUDDER",
+    "L1907-BOREL",
+    "L1878-DEHANT",
+    "L1892-LEBRANCHU"
+  ],
+  "source_count": 14,
+  "raw_original_clinical_dossiers_obtained": 0,
+  "new_original_era_publications_obtained": [
+    "DeRudder1899journalPDF",
+    "LeBec1922completebookPDF",
+    "Boissarie1900bookPDF",
+    "ThurstonBMJ1910canonicalpageimages"
+  ],
+  "date_corrections": [
+    "Allope28May1909confirmedfromofficialFrenchandSpanishlists;Italianextractionmissingyear.",
+    "Dehant13Septemberofficialvs15SeptemberLeBecpreserved.",
+    "Borel22vs23Augustexamdatespreserved."
+  ],
+  "no_contact": true,
+  "no_tally_changes": true
+}

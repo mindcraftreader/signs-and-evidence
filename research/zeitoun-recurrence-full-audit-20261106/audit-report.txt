@@ -1,0 +1,78 @@
+ZEITOUN: RECURRENCE, WITNESSES, AND THE THREE-YEAR CLAIM
+Audit completed 6 November 2026
+
+Judgment
+
+I withdraw the proposed recurrence objection. After distinguishing figures from lights, separating observing nights, and tracing repeated citations to their sources, the record still contains multiple named observers reporting recognizable moving figures on separate nights. Contemporary Arabic press is a substantial part of that record. It does not collapse into a single initial sighting, a few flashes, or one story copied by later writers.
+
+That conclusion is narrower than proving that Mary appeared. Reported duration, identification, and independence remain historical questions; testimony is not an instrument recording. But I did not establish a core rebuttal by asking whether recurrence survives scrutiny. An incomplete exhaustive census is not grounds for leaving this objection indefinitely open.
+
+The three proposals from this chat therefore produced no established assistant win: the two Lourdes/exclusivity proposals had already been withdrawn; this Zeitoun proposal is now withdrawn. This is not an instruction to add three new user points. The earlier Z01 challenge already covered prolonged recognizable figures versus ambiguous lights, and the ledger excludes duplicate scoring and source follow-ups. The canonical tally files are unchanged. See adjudication.json for the precise disposition.
+
+What was audited
+
+The test was whether sustained recognizable-figure testimony recurs across observing nights and observers, after removing duplicate retellings, partial forms, brief flashes, and multiple phases during one vigil. I reviewed all 93 entries in the existing observation register and their source descriptions; the register groups them into 64 event groups, 57 dated and seven undated. These are not 93 witnesses or 64 independently verified apparition nights. Even event groups on opposite sides of midnight can belong to one observing night.
+
+I checked selected original Arabic newspaper images and the Gregorios appendix, acquired the full Dumsday book and read its relevant historical, witness, and source discussions, obtained Keriakos's complete 2007 article, recovered a 1971 Watani reprint with its original newspaper clippings, and obtained Bayless's original 1981 journal article. I did not read every page of Dumsday or freshly inspect all 67 appendix pages. The preceding audit's Al-Ahram OCR screen is incorporated with its limitations. This is a completed audit of the recurrence challenge and its major accessible source leads, not a claim to have read every Egyptian newspaper issued in three years or audited every possible Zeitoun argument.
+
+The strongest early evidence
+
+Watani of 5 May 1968 publishes named accounts corresponding to different April nights. Zaki Shenouda describes a life-sized luminous figure with extended arms at dawn on 28 April. Athanasius and Major Asaad Iskandar describe the 30 April dawn episode. Overlapping descriptions on that second night provide corroboration, but the common newspaper/press-conference channel is not a blind replication. The patriarchal statement repeating an account is not another eyewitness. The later booklet also describes an interruption between the initial appearance and the 04:00–05:00 return; 02:45–05:00 must not automatically become uninterrupted visibility.
+
+The May–June press extends recurrence beyond that early cluster. I visually checked all six supplied scans from Watani of 26 May and 2 June against the archived transcriptions. The 26 May issue explicitly separates Sunday, Wednesday, and Thursday appearances. The dates 19, 22, and 23 May are normalized from those weekdays relative to publication, rather than independently printed dates in each witness paragraph. The Sunday account reports intermittent scenes over several hours; it is not one continuous four-hour figure. Thuraya Matta Baqtur and Aziza, wife of Ilhami Georgy, give separate figure reports, but their shared address counsels against treating them as unrelated witness networks.
+
+The 2 June issue's printed page 3 is especially useful. Its Monday-dawn account attributes repeated figure phases to engineer Wahba Massaad Khalil and his family, with Dr Aziz Barsoum and his daughter. Eight short phases between approximately midnight and 02:00 count as one observing night. The following Tuesday account describes a full figure and a return with extended hands lasting about five minutes. That is another observing night, not eight plus two additional nights. Some details are newspaper narration rather than individually attributed words of every named observer.
+
+Even this conservative selection is enough to defeat an objection that the recognizable figure has no recurring contemporary testimonial basis. It does not establish statistically independent observations: the witnesses occupied a shared crowd, knew the expected interpretation, and their statements passed through overlapping religious and editorial channels.
+
+The 1969 record
+
+The Arabic appendix in the 2007 collected Gregorios volume contains named, dated reports of figures on 23 February, 14 March, and 5 April 1969, among other episodes. The March account gives about an hour; one April phase about five minutes. I checked the relevant printed pages, including paragraphs continued across page boundaries. These are later published collected witness reports. Their original signed forms and original recording dates were not displayed, so I do not promote them to newly recovered contemporary depositions.
+
+A separate near-contemporary press strand helps. The Egyptian Gazette clipping of 11 April 1969 has a legible headline reporting that the apparition was still being seen. Its recovered web image is too small to verify the complete body. Dumsday reproduces a more specific account of a roughly half-hour figure on 4 April, and other recent appearances, explicitly through Zaki's Before Our Eyes, p.42. The correct chain is Gazette → Zaki → Dumsday, with a partially legible original clipping recovered. It is not three independent confirmations or a fully inspected original Gazette issue.
+
+The 1970 and 1971 distinction
+
+Al-Fida, Monday 3 August 1970, issue 78, provides original contemporary evidence of renewed appearances. Its supplied front and inside pages describe a clear dawn apparition and a run of recent phenomena. The wording includes a Friday headline and a Thursday description; it should not be forced into a precise list of new Gregorian nights without resolving that discrepancy. Nor does a list of several evenings prove equally detailed full figures on every one. Only four scans of an eight-page newspaper were supplied. Nevertheless, this is positive contemporary evidence against ending the whole recurrence record in 1968 or assuming that all later testimony is modern legend.
+
+I recovered twelve original clipping images embedded in Watani's later reprint of its 15 August 1971 issue. The printed masthead confirms the date. The Zeitoun feature, signed Ezzat Sami on printed page 3, describes the church as an international shrine, crowds during the Virgin's fast, hymns, worship, and the continuing significance of the original events. It recalls the initial April 1968 appearance. It does not supply a fresh, dated 1971 recognizable-figure sighting. A 1971 article about Zeitoun is not automatically evidence of a 1971 apparition. Other recovered clippings concern politics, church affairs, advertising, and sports.
+
+Attempts to recover Watani's 7 June 1970 scans were unsuccessful in this run. The archived article page was recovered, but the tested C-70 image captures failed and the availability check for C-70-1 returned no capture. Their contents are not treated as inspected. Al-Fida already provides a stronger verified 1970 source than relying on inaccessible images.
+
+The nun's diary: what the original intermediary actually says
+
+Bayless's original article, Journal of the Southern California Society for Psychical Research, volume 2 (1981), printed pp.6–34, was acquired and read. Printed p.21 summarizes an anonymous Roman Catholic nun's diary as published by Pearl Zaki. Bayless reports 105 visits between 21 August 1969 and 11 June 1971, 17 individual Marian apparitions, bird forms on 24 nights, and other lights on 85 nights. The categories overlap. The count is 105 here, not the 108 sometimes repeated. Seventeen individual apparitions must not silently become seventeen independently dated nights; Bayless gives no date-by-date list in this summary.
+
+The final dated event on 11 June 1971 is a reported water-container phenomenon, not an explicitly dated full-figure sighting. The diary period extending into 1971 therefore does not, on its own, locate one of the seventeen figure sightings in 1971. Bayless is an intermediary, not the diary's author or an observer at those vigils. His discussion also records conflicting duration claims, including a note attributed to an August 1971 Fate reprint and a bishop's July 1970 cessation statement. The Fate original was not acquired here. Bayless even labels an anniversary Gazette item April 1968, although the first anniversary places it in 1969. These are reasons to maintain a source chain, not reasons to discard every witness.
+
+His own 1980–81 interviews add detailed retrospective testimony: Fr and Mrs Bishoy Gobreial describe a moving figure on 31 May 1968; Mona Mikhael describes several figure experiences. Husband and wife are one linked witness group, and interviews thirteen years later are not contemporary statements. Bayless also records Dr Azmy Morid explicitly saying that he saw bird-like lights, not the Virgin. That witness belongs in the light category despite his confidence in the religious interpretation. Such distinctions matter more than stacking impressive professional titles.
+
+Fayek Ishak's 1991 Coptic Encyclopedia article was also recovered from Claremont and checked visually. It describes repeated appearances through the beginning of September in the initial narrative and mentions the feast instituted in 1969. It does not give 29 May 1971 as an ending date. Citing it alongside a later author does not turn it into independent confirmation of that exact date. Dumsday's exact late dates rely on Johnston, Watson, and Westbrook; repeated secondary citations are not new observers.
+
+Was there already a serious archival researcher?
+
+Sandrine Keriakos is the strongest lead found. Her complete 2007 ASDIWAL article uses contemporary press alongside religious narratives and discusses the phenomenon over nearly two years. It is a scholarly historical/anthropological study, not a published night-by-night optical verification. Her 2012 chapter in Sharing Sacred Spaces in the Mediterranean is quoted by Dumsday, p.35 of the acquired ebook, as reporting about 2,400 Watani witness reports, varying from names to detailed narratives, with a qualification about coverage through 1971. I did not acquire that full chapter or her thesis and cannot certify a complete three-year serial census. The number is therefore a secondary report about an archive, not 2,400 inspected, independent, full-figure depositions.
+
+The earlier Al-Ahram search screened 889 OCR files representing 887 distinct metadata dates from 2 April 1968 to 11 June 1971: 249 dates in 1968, 347 in 1969, 291 in 1970, and none in the target part of 1971. Two dates have duplicate files with different issue numbers. All 889 downloaded OCR files matched the host MD5. That verifies download integrity, not the accuracy of OCR or completeness of the collection. There are 279 absent dates within the 1,166-day target interval. It was a keyword screen with selected visual checks, not 887 issues fully read by a human. Known missed hits prohibit treating silence as evidence of no appearances.
+
+What survives as criticism
+
+Exact totals, uninterrupted durations, crowd estimates, original statement dates, and the last apparition date need qualified wording. The popular 90–95 estimate is not a recovered 90-night calendar. Adding the early 27 count, an extrapolated middle period, and the nun's 17 later apparitions does not create a verified total of distinct nights.
+
+Cynthia Nelson's contemporary field observations remain relevant: she describes an initial mistaken alarm, ambiguous light, and different interpretations in the crowd. This shows that misidentification and suggestion occurred in at least some episodes. It does not demonstrate the mechanism behind another observer's sustained figure on another night. Conversely, a witness saying that everyone saw Mary is not a census of every observer's perception. Muslim participation does not remove shared Marian expectations or establish methodological independence.
+
+I found no new optical reconstruction, demonstrated fraud, or sufficiently specific alternative explanation in this recurrence audit that accounts for the strongest separate-night reports. That absence does not prove such explanations impossible. The defensible judgment is that repeated recognizable-figure testimony is a substantial feature of the evidence, while its supernatural interpretation remains a further inference. The count and end-date corrections do not sustain the core objection I proposed.
+
+Sources and reproducibility
+
+Selected evidence is separated by observing night in selected-night-register.csv and .json. Its rows are a curated sample, not a minimum number of independently proven apparitions. source-manifest.json records acquired sources, reading scope, missing items, and SHA-256 hashes for the newly collected source files. Historical registers and prior reports are preserved rather than silently rewritten.
+
+Key external sources:
+Bayless original journal: https://survivalresearch.ca/SCSPR/Journal_SCSPR_volume_2_1981.pdf
+Keriakos 2007: https://www.persee.fr/doc/asdi_1662-4653_2007_num_2_1_878
+Keriakos 2012 volume publisher: https://iupress.org/9780253223173/sharing-sacred-spaces-in-the-mediterranean/
+Dumsday publisher: https://svspress.com/the-marian-apparitions-at-zeitoun-an-evidential-inquiry/
+Ishak institutional record: https://ccdl.claremont.edu/digital/collection/cce/id/2120/
+Ishak PDF: https://ccdl.claremont.edu/digital/api/collection/cce/id/1903/download
+Gazette clipping mirror: https://storage.ghost.io/c/be/b2/beb2e498-f089-4f96-8ffb-b7ccee3bfe35/content/images/wordpress/2016/03/4-1.jpg
+Watani recovered image URLs and Wayback access paths: sources/watani-19710815-recovery-manifest.json

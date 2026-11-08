@@ -1,0 +1,253 @@
+33. Joseph of Cupertino
+
+[2433] 2026-11-05T01:39:21.663000-05:00 | USER | msg_01a1aa6e-f83f-7153-b6d4-475d5982ad8d
+
+should we argue joseph of cupertino
+
+──────────────────────────────────────────────────────────────────────
+
+[2434] 2026-11-05T01:39:35.184000-05:00 | ASSISTANT · PROGRESS | msg_0ba21eb1608b0282016aec24a6360087d283b8a2d808558102
+
+Yes. Joseph of Cupertino is a useful next case: the central claim is repeated bodily levitation before witnesses. I’ll look for the strongest documented episode and assess the testimony using historical standards appropriate to the period.
+
+──────────────────────────────────────────────────────────────────────
+
+[2435] 2026-11-05T01:40:17.025000-05:00 | USER | msg_01a1aa6f-d081-7ad2-bafb-cb77416b7d89
+
+not just levitaion, gettting wwhipped around in the air without his robes fluttering
+
+──────────────────────────────────────────────────────────────────────
+
+[2436] 2026-11-05T01:40:23.002000-05:00 | ASSISTANT · PROGRESS | msg_0ba21eb1608b0282016aec24d5bbe487d2ac32465f67e45daf
+
+Yes—rapid movement through the air and robes reportedly remaining still are distinct parts of the claim. I’ll look for the exact accounts of those details: who witnessed them, what motion they described, and whether the robe detail appears in firsthand testimony.
+
+──────────────────────────────────────────────────────────────────────
+
+[2437] 2026-11-05T01:41:25.963000-05:00 | ASSISTANT · PROGRESS | msg_0ba21eb1608b0282016aec2514538887d28ca6c9f48ee6b951
+
+The claim includes more than hovering: the accounts I’ve located describe flights to an altar and back, among other movements. I’ve also found a reference to clothing remaining still, but haven’t yet traced that detail to an original witness. Public-domain scans of early biographies are available, so I’m checking those next.
+
+──────────────────────────────────────────────────────────────────────
+
+[2438] 2026-11-05T01:44:18.878000-05:00 | ASSISTANT · PROGRESS | msg_0ba21eb1608b0282016aec25c12dd887d2b704c1df3bfa4c71
+
+I found the clothing detail in Angelo Pastrovicchi’s 1753 Italian biography, as well as its 1918 English translation. It says his clothing remained orderly and close to his body while he was carried forwards, backwards, upwards and downwards. The passage cites the Osimo proceedings collectively; I haven’t yet isolated the named witness behind that specific statement.
+
+──────────────────────────────────────────────────────────────────────
+
+[2439] 2026-11-05T01:45:09.951000-05:00 | ASSISTANT | msg_0ba21eb1608b0282016aec25efe45887d29b37b65f38a33992
+
+**Yes—and I found that specific clothing detail in an eighteenth-century source.**
+
+Angelo Pastrovicchi’s biography says:
+
+> “during his many ecstatic flights, upwards and downwards, forwards and backwards, his garments were never disarranged.”
+
+That is the 1918 English translation, page 109.
+
+[Local source: pastrovicchi-1918.pdf]
+
+I also checked the **1753 Italian original**, page 78. It describes his clothing remaining orderly and close to his body while he was carried forwards, backwards, upwards, downwards and in every direction. Its margin cites testimony from the Osimo proceedings.
+
+[Local source: pastrovicchi-1753.pdf]
+
+So the case we should examine includes **suspension, travel through the air, changes of direction, duration and the clothing’s reported behavior**.
+
+The remaining source question is which named witnesses supplied those particular details. “Never disarranged” also needs to be distinguished from the more precise claim that no part of his robes fluttered during rapid flight.
+
+I’ve recorded the full scope in the [Joseph case file](research/joseph-cupertino-opening-audit-20261105/opening-assessment.txt). An ordinary explanation will need to address the actual movements and circumstances established by those records.
+
+──────────────────────────────────────────────────────────────────────
+
+[2440] 2026-11-05T01:52:02.754000-05:00 | USER | msg_01a1aa7a-9542-7d50-a96a-c6f5f84e615b
+
+how many written testimonies are there? how many big conversions
+
+──────────────────────────────────────────────────────────────────────
+
+[2441] 2026-11-05T01:52:13.447000-05:00 | ASSISTANT · PROGRESS | msg_0ba21eb1608b0282016aec279ce5e887d2aaf96be94c879b14
+
+I’ll separate written statements from individual witnesses and reported events, then trace the major conversion stories to their sources.
+
+──────────────────────────────────────────────────────────────────────
+
+[2442] 2026-11-05T01:53:21.723000-05:00 | ASSISTANT · PROGRESS | msg_0ba21eb1608b0282016aec27dfbc7887d28648c06c61c55391
+
+One published collection gives us a firm starting count: 103 non-hearsay accounts, including 73 describing aerial phenomena. The larger “about 150” figure also appears in the literature, but I haven’t verified a complete witness census. For conversions, one major German prince is clear; a second named convert appears in the sources, though his connection to witnessing Joseph’s flights needs closer checking.
+
+──────────────────────────────────────────────────────────────────────
+
+[2443] 2026-11-05T01:55:39.416000-05:00 | ASSISTANT | msg_0ba21eb1608b0282016aec2862477487d28429fab4c9e8aa93
+
+**Approximately 150 written eyewitness accounts are reported in the broader literature. One major princely conversion is clearly documented, with a second named convert whose eyewitness connection needs checking.**
+
+For testimony, two counts matter:
+
+| Count | What it represents |
+|---|---|
+| **At least 150 eyewitness accounts** | Reported from the Assisi archival material by Franciscan scholar **Gustavo Parisciani**, cited through Michael Grosso by researcher Bob Rickard. I haven’t independently recounted that archive. |
+| **103 non-hearsay written accounts** | Explicitly analyzed by independent researchers **Daniel Costa and Stefano Chiozza**: **73 concern aerial phenomena**, while 30 concern other episodes. |
+
+The 103-account collection includes repeated witnesses, so it does not mean 103 different people. These counts also overlap and should not be added. [Costa–Chiozza study](https://doi.org/10.1016/j.ebr.2026.100865).
+
+[Local source: jsre-volume9-issue1-2023.pdf]
+
+For **significant conversions**:
+
+1. **Johann Friedrich—John Frederick—later Duke of Brunswick-Lüneburg/Hanover.** A Lutheran German prince who became Catholic in **1651**, subsequently employing Leibniz as his librarian and adviser. Historian **Georg Schnath’s _Neue Deutsche Biographie_ entry** connects his conversion with meeting Joseph. Joseph’s biographies specifically attribute his change to witnessing extraordinary experiences at Mass, including levitation. [Historical biography](https://www.deutsche-biographie.de/119218968.html).
+
+2. **Heinrich Julius Blume**, a Protestant scholar designated for a professorship at Helmstedt. His **1653 conversion** is independently documented. Pastrovicchi’s English edition identifies him as the troubled Lutheran companion in the prince’s miracle story. However, his historical biography gives a chronology that complicates that identification. **His conversion is established; conversion because he personally witnessed Joseph flying remains unverified.** [Blume’s biography](https://www.deutsche-biographie.de/sfz4799.html).
+
+[Local source: pastrovicchi-1918.pdf]
+
+I would presently count **one strong high-profile conversion association, plus one promising second case**, rather than claim several royal conversions.
+
+──────────────────────────────────────────────────────────────────────
+
+[2444] 2026-11-05T01:56:28.070000-05:00 | USER | msg_01a1aa7e-a1a6-7202-a057-6aa8e39c5808
+
+ok dig into the duke and blume. do we have their own written accounts of seeing joseph fly? and can we straighten out the conversion timeline and im sure there were more conversions
+
+──────────────────────────────────────────────────────────────────────
+
+[2445] 2026-11-05T01:56:35.145000-05:00 | ASSISTANT · PROGRESS | msg_0ba21eb1608b0282016aec28a1a7f487d2b108853b2e350be5
+
+I’ll trace the duke’s and Blume’s own writings, compare the dates of their visits and conversions, and look for additional named converts. I’ll distinguish their own accounts from statements by people who knew them and later biographies.
+
+──────────────────────────────────────────────────────────────────────
+
+[2446] 2026-11-05T01:58:36.201000-05:00 | ASSISTANT · PROGRESS | msg_0ba21eb1608b0282016aec291a7a5087d292db0b473b326076
+
+Bernino’s early biography names two sources behind the duke’s story: Cardinal Facchinetti’s testimony and a statement from the duke’s widow about his lasting devotion to Joseph. I haven’t found the duke’s own account of seeing a flight. The conversion chronology is becoming clearer, though: the sources appear to distinguish an earlier visit, reception at Assisi in February 1651, and a later public profession.
+
+──────────────────────────────────────────────────────────────────────
+
+[2447] 2026-11-05T02:04:16.402000-05:00 | ASSISTANT · PROGRESS | msg_0ba21eb1608b0282016aec2a6d7b0487d2b8fa21716f8ea158
+
+The key distinction is between evidence that they converted and evidence that they personally described a flight. I’ve recovered an account preserved in Leibniz’s handwriting that places the duke’s profession of Catholic faith before Joseph in February 1651. Blume’s case is less settled: I’m checking whether the early correspondence supports identifying him as the Protestant companion in the flight story.
+
+──────────────────────────────────────────────────────────────────────
+
+[2448] 2026-11-05T02:06:16.530000-05:00 | ASSISTANT · PROGRESS | msg_0ba21eb1608b0282016aec2ae6b36487d2bafdffb6006323b4
+
+I found a useful date correction: Räss prints a letter to Blume as May 1651, but the older correspondence collection he cites dates it **19 May 1652**. That fits Blume’s later public conversion in 1653. The letter also preserves a short quotation from Blume about Italy drawing people toward Catholicism, though it says nothing about seeing Joseph fly.
+
+──────────────────────────────────────────────────────────────────────
+
+[2449] 2026-11-05T02:08:36.898000-05:00 | ASSISTANT · PROGRESS | msg_0ba21eb1608b0282016aec2b72cbcc87d2924206db4414fbb8
+
+There’s a stronger contemporary lead for the duke: I found the original **1680 publication of a sermon preached before him in 1679**, which discusses Joseph’s role in his conversion. I’m checking its wording now. This brings us closer to what was publicly said during the duke’s lifetime, even though it is not his own written account.
+
+──────────────────────────────────────────────────────────────────────
+
+[2450] 2026-11-05T02:12:41.987000-05:00 | ASSISTANT · PROGRESS | msg_0ba21eb1608b0282016aec2c66efa487d2b74b03d811820080
+
+The duke’s connection to Joseph is well supported, but I still haven’t found either man’s own description of a flight. The dates also need a qualification: Leibniz gives February 1651, while Bono’s contemporary sermon gives 1652. I’m preserving that discrepancy in the notes. I also found a dedicated academic study of Blume’s conversion by University of Georgia scholar Thomas Cerbu; that is the best next lead for checking the companion’s identity.
+
+──────────────────────────────────────────────────────────────────────
+
+[2451] 2026-11-05T02:13:47.846000-05:00 | ASSISTANT | msg_0ba21eb1608b0282016aec2c9740b087d2b0437c02d42314b5
+
+**The duke’s conversion has stronger early documentation than we had—but I have not yet recovered either his or Blume’s own written account saying, “I saw Joseph fly.”** Their conversions and their alleged witnessing need separate source trails.
+
+**For the duke, I found three important sources:**
+
+- **Leibniz, his court historian and librarian**, records that in **February 1651** Johann Friedrich went to Assisi and professed Catholic faith before the “miracle-working Father Joseph.” The editor identifies this text as preserved in Leibniz’s handwriting and originally published under his supervision in **1685**. This firmly connects the conversion with Joseph, although Leibniz does not describe a flight. See printed p.9. [Local source: leibniz-1847.pdf]
+- **Domenico Bernino’s 1722 biography** gives the flight narrative and explicitly cites **Cardinal Facchinetti’s process testimony** attributing the conversion to Joseph’s prayers and arguments. It also reports testimony from the duke’s widow about his enduring devotion to Joseph. Those are identifiable sources worth pursuing directly; neither is the duke’s own flight narrative. See pp.180–183 and 193–194. [Local source: bernino-1722.pdf]
+- **A newly recovered contemporary publication:** Capuchin **Giuseppe Bono da Diso’s sermon**, identified as preached **before the duke in 1679**, publicly credits Joseph with bringing him into Catholicism. It was printed in 1680. That establishes that this attribution circulated during the duke’s lifetime; the relevant passage does not recount him witnessing a flight. [Original in Paderborn’s library](https://digital.ub.uni-paderborn.de/eab/content/titleinfo/579641).
+
+**The chronology now looks like this:**
+
+| Date | What the sources support |
+|---|---|
+| October 1649 | Duke begins his Italian journey. This alone does not date the Assisi encounter. |
+| October 1650 | In Rome, discussing religion with Vatican librarian Luca Holstenius and others. |
+| February 1651 | Catholic profession before Joseph at Assisi, according to Leibniz. |
+| Later 1651 | Returns to Rome; confirmation and notification of his family follow. |
+| Autumn 1651 | Blume is sent to oppose the conversion and arrives too late, according to historian Ernst Henke. |
+| 1653 | Blume publicly converts at Regensburg. |
+
+There are genuine discrepancies to retain: Bernino/Pastrovicchi’s early-visit dating is difficult to reconcile, and **Bono gives 1652 for the duke’s profession**, against Leibniz’s February 1651. We have clarified the sequence substantially, but cannot honestly claim every ceremony and visit is dated conclusively. [Henke’s Blume biography](https://www.deutsche-biographie.de/gnd122883187.html#adbcontent).
+
+**Blume is the less secure flight witness.** The early narratives describe an **unnamed Lutheran companion**. Nineteenth-century Bishop **Andreas Räss** identifies him as Blume; the 1918 English biography repeats that identification. I haven’t recovered the primary document establishing that connection.
+
+I also caught a concrete error: Räss dates a Conring-to-Blume letter **19 May 1651**, but the older collection he cites actually prints **19 May 1652**. The letter preserves words attributed to Blume about Italy drawing people toward Catholicism—but nothing about seeing Joseph fly. [Local source: gruber-1745.pdf]
+
+**There are additional conversion leads.** Bouflet names **Landgrave Ernst of Hesse-Rheinfels** among the duke’s friends who converted; Ernst and his wife converted in 1652. But I have not established that they witnessed Joseph’s flights or converted because of them. They belong on the investigation list, not yet in a verified count of flight-induced conversions. [Ernst’s historical biography](https://www.newadvent.org/cathen/05524a.htm).
+
+Everything is saved in the [detailed research report](research/joseph-cupertino-duke-blume-20261105/assessment.txt). The most promising next targets are **Facchinetti’s original deposition**, the duke’s reported autograph entry in Assisi’s Franciscan register, and **University of Georgia scholar Thomas Cerbu’s dedicated study of Blume’s conversion**. [Cerbu’s publication listing](https://www.cmlt.uga.edu/directory/people/thomas-cerbu).
+
+──────────────────────────────────────────────────────────────────────
+
+[2452] 2026-11-05T10:59:02.410000-05:00 | USER | msg_01a1ac6f-5f0a-7481-b662-3985fe23812e
+
+What about flying in front of Pope Leo?
+
+──────────────────────────────────────────────────────────────────────
+
+[2453] 2026-11-05T11:00:43.675000-05:00 | ASSISTANT · PROGRESS | msg_0ba21eb1608b0282016aeca82ab4c487d28fb060bf94416b22
+
+I’ll check which pope the account names and trace the description back to its early source.
+
+──────────────────────────────────────────────────────────────────────
+
+[2454] 2026-11-05T11:02:47.567000-05:00 | ASSISTANT | msg_0ba21eb1608b0282016aeca89ff3bc87d2aa0c103092332926
+
+**Yes—the account names Pope Urban VIII, rather than Leo.** It is in the early biographies.
+
+**Domenico Bernino’s 1722 biography, pp.102–103**, says:
+
+- Joseph’s Franciscan superior brought him to a papal audience.
+- While bending to kiss the pope’s feet, Joseph entered an ecstasy and **rose into the air**.
+- He remained elevated until his superior recalled him.
+- Urban reportedly said that **if Joseph died during his pontificate, he would personally attest to what happened**. [Local source: bernino-1722.pdf]
+
+Bernino supplies a reference to the process material, so **this is a specific, traceable claim of a papal eyewitness**, worth investigating alongside the duke.
+
+The distinction we still need to resolve is documentary: **I have the biography reporting Urban’s observation and words; I haven’t recovered Urban’s own written statement or the original deposition underlying that passage.** Urban died before Joseph, so the conditional offer to testify should not be mistaken for an actual papal deposition.
+
+Also, the passage I checked says Joseph rose and remained elevated. It does **not** specify the more dramatic detail found in some later accounts that he flew above the pope’s head.
+
+──────────────────────────────────────────────────────────────────────
+
+[2455] 2026-11-05T11:21:00.225000-05:00 | USER | msg_01a1ac83-7ac1-7170-a037-5bf10b89d8ca
+
+what did the vatican investigation for beatification process say
+
+──────────────────────────────────────────────────────────────────────
+
+[2456] 2026-11-05T11:21:35.232000-05:00 | ASSISTANT · PROGRESS | msg_0ba21eb1608b0282016aecad0e777887d2b634962a17896bd0
+
+I’ll check what the beatification record says about Joseph’s levitations, including whether it specifically addresses the papal audience.
+
+──────────────────────────────────────────────────────────────────────
+
+[2457] 2026-11-05T11:25:27.296000-05:00 | ASSISTANT · PROGRESS | msg_0ba21eb1608b0282016aecadf59f8087d28d0fd50301f21663
+
+I found a more direct source: Benedict XIV himself wrote that eyewitnesses whose credibility he regarded as beyond objection testified to Joseph’s elevations and substantial flights. He had examined the cause as Promoter of the Faith—the official charged with scrutinizing its weaknesses. I’m verifying the original Latin and the passage’s exact reference.
+
+──────────────────────────────────────────────────────────────────────
+
+[2458] 2026-11-05T11:30:37.541000-05:00 | ASSISTANT | msg_0ba21eb1608b0282016aecaf23824887d2b562f47dd714d75e
+
+**The investigation concluded favorably—and I found Benedict XIV’s own explicit statement accepting the credibility of the flight witnesses.** That is stronger evidence than simply pointing to Joseph’s eventual sainthood.
+
+Before becoming pope, **Prospero Lambertini—later Benedict XIV—examined Joseph’s cause as Promoter of the Faith**, the official responsible for scrutinizing its weaknesses. In his treatise, **Book III, chapter 49, paragraph 9**, he writes, in my translation:
+
+> “Eyewitnesses beyond objection reported the celebrated elevations from the ground and great flights of that servant of God while in ecstasy and rapture.”
+
+He also says the question of Joseph’s virtues was resolved favorably after he left that office. I checked this against the original Latin scan, printed p.257. **He was discussing bodily elevation and actual flights, not merely spiritual uplift.** [Local source: benedict-xiv-book3-1788.pdf]
+
+The formal sequence was:
+
+- **1735:** Clement XII approved Joseph’s heroic virtues.
+- **1752:** Benedict XIV approved two posthumous healing miracles: restoration of a severely injured eye and disappearance of a longstanding disabling knee swelling.
+- **24 February 1753:** Joseph was beatified. [Vatican record](https://www.causesanti.va/it/celebrazioni/beatificazioni/1753.html).
+
+The reproduced miracle decree says Benedict personally reviewed the evidence, written medical opinions, and the consultors’ and cardinals’ judgments. Those **two specifically approved miracles were healings**; the favorable assessment of flight testimony appears separately in his treatise. [Local source: pastrovicchi-1753.pdf]
+
+**For the flight before Urban VIII specifically:** the beatification-era biography includes it and cites process records. I have not yet recovered the underlying deposition or an episode-specific ruling. But the broader proposition is now directly documented: **the former examiner who subsequently beatified Joseph regarded the eyewitness testimony to his elevations and flights as credible.**
+
+──────────────────────────────────────────────────────────────────────
+

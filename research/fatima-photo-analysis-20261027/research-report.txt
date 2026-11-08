@@ -1,0 +1,178 @@
+FATIMA PHOTOGRAPH D115: LIGHT-SOURCE GEOMETRY AND WET/DRY PATTERNS
+Research assessment, 27 October 2026
+
+Conclusion
+
+Dalleur's analysis is an actual geometric argument with successful worked
+examples. It should not be dismissed as an impression of the crowd's gaze.
+I reproduced its principal numerical result from the published inputs. I have
+not demonstrated that ordinary sunlight fits all the relevant D115 shadows.
+The remaining issue is the reliability and joint uncertainty of the image
+measurements, especially object-to-shadow correspondences and the off-frame
+vanishing point. The worked examples support the technique, but do not by
+themselves supply a measured error distribution for this historical picture.
+
+The wet/dry pattern can corroborate the witness evidence. It does not provide
+an independent measurement of the drying time or the infrared spectrum. The
+well-supported preceding rain, wet ground, and numerous drying reports must
+remain part of the assessment; they are not unsupported premises to discard.
+
+1. Sources and scope
+
+UPDATE 1 NOVEMBER 2026: A complete reading of all 37 pages, including footnotes and bibliography, and visual inspection of all numbered figures and mathematical pages has now been completed. The original scope below describes the 27 October selective pass, not an earlier full reading. See complete-reading-20261101.txt for the exact coverage and limits. The PDF compatibility comparison by itself was not a reading audit.
+
+Philippe Dalleur, Pontifical University of the Holy Cross, Rome:
+Fatima Pictures and Testimonials: In-depth Analysis, Scientia et Fides 9(1),
+2021, pp.9-45. DOI https://doi.org/10.12775/SetF.2021.001
+Publisher unavailable during this retrieval; complete PDF obtained from:
+https://www.ourladyisgod.com/images/eBooks/Fatima-Pictures-Testimonials-Philippe-Dalleur-2021.pdf?download=1
+
+Dalleur's own current technical pages:
+https://sites.google.com/pusc.it/elevation-azimuth/fatimas-miracle-photo
+https://sites.google.com/pusc.it/elevation-azimuth/examples
+https://sites.google.com/pusc.it/elevation-azimuth/theory/the-maths
+
+Ethan Muse, updated defense, photogrammetry section revised 18 April 2026:
+https://motivacredibilitatis.substack.com/p/it-wasnt-the-sun
+Archived article is in ../fatima-muse-review-20261027/.
+
+Mark Grant's primary critique (math graduate student; no institutional
+affiliation verified):
+https://docs.google.com/document/d/1t-wlHbqyUUL1-wN2Lf-zOs6_v77NmG9gmBK0BDWXe4c/edit
+PDF and extracted text saved here. This is technical commentary, not a
+peer-reviewed experimental replication. Grant flags parts as out of date.
+
+Read Dalleur's methods, uncertainty discussion and conclusions; visually
+inspected PDF pages 8,23-25,28-29,31 (printed pages 16,31-33,36-37,39).
+Read Grant's main discussion and inspected his annotated wet/dry figure,
+PDF page 23, and methodological discussion on page 18. Read Muse's current
+responses, including his quotations of Dalleur on Grant's later simulations.
+Those quotations were assessed as replies, not as independently rerun renders.
+
+2. Correct numbers and calibration examples
+
+D115 inferred elevation: approximately 25-32 degrees above the horizon.
+Sun at solar noon: approximately 42.72 degrees. Central inferred value:
+28.24 degrees. The discrepancy is about 11-18 degrees, centrally 14.48.
+The remembered comparison of 56 degrees and 82 degrees is not the paper's
+principal elevation result. Do not mix elevation, zenith angle and azimuth.
+
+Dalleur's own examples page supplies specific checks:
+- Castel Gandolfo: true solar elevation 16.59 degrees; estimates 17.07 at
+  assumed 35 mm and 15.75 at 38 mm; an alternative zero-roll 35 mm fit gives
+  16.93. Absolute deviations 0.48,0.84,0.34 degrees respectively.
+- Saint Hubert: true 50.82 degrees; inferred 50.246; deviation 0.574 degrees.
+- Synthetic scene with specified light elevation 30 degrees and relative
+  azimuth 45 degrees is supplied as a template demonstration.
+
+These are meaningful checks of the method, including real photographs. They
+are author-conducted examples, not a blind independent laboratory validation
+with a reported sample size and error distribution for D115-like scenes.
+Muse describes accuracy within tenths of a degree; the displayed real examples
+support subdegree accuracy on those images, not automatically that accuracy
+on every image. Some example camera parameters are adjusted using scene cues.
+
+3. Independent arithmetic check and sensitivity
+
+check_geometry.py implements equation 5 using a=2.4207, e=-1.9927, h=0.31,
+scaled image width 3.6, f=FD/10. It gives:
+FD 30 mm: 31.8593 degrees
+FD 33 mm: 30.2417 degrees
+FD 37 mm: 28.2386 degrees
+FD 45 mm: 24.7624 degrees
+This agrees with the paper's table except a negligible approximately 0.01
+degree difference in its last row. It is not an explanation of the anomaly.
+
+At 37 mm, a one-degree pitch error has a first-order effect of about 0.824
+degree on elevation, and a one-degree roll error about 0.565 degree. Dalleur
+does examine camera uncertainty; saying he ignores it would be incorrect.
+
+If all other inputs stay fixed at 37 mm, raising the inferred elevation to
+42.72 by moving only the horizon requires a pitch of about 23.22 degrees
+instead of 4.79, and a horizon shift about 35.5% of image width. Moving only
+the vanishing point vertically requires about 43.3% of image width. These
+are large conditional changes: a vague appeal to a slightly misplaced
+horizon is not a demonstrated answer. They do not bound simultaneous changes
+in several parameters, nor directly quantify endpoint measurement error:
+small changes in a short projected ray can move a distant intersection far.
+
+The 25-32 interval varies focal length under the selected geometry. It is
+not a statistically calibrated 95% confidence interval for every uncertainty.
+
+4. What remains open in the photographic inference
+
+Projected lines through corresponding object and shadow points legitimately
+estimate the direction of parallel illumination. A sloping ground surface
+does not invalidate this geometry by itself. A curved cloth surface does
+not invalidate a correctly matched point pair either; tracing an arbitrary
+curved tonal edge is a different operation and may not identify a light ray.
+
+The decisive empirical question is whether the selected points really are
+matching object/shadow features, and whether independent selections keep
+the fitted source well below 42 degrees. Several convergent ray estimates
+would strengthen that claim. Common feature-selection or processing errors
+cannot be treated as statistically independent just because there are many
+lines. A reproducible endpoint table with uncertainties is more informative
+than counting overlaid rays alone.
+
+Figure 9 explicitly uses denoising and contrast processing. That does not
+prove the features are artifacts. Quantitative measurements should remain
+traceable to the unprocessed scan. The original 6K scan was not independently
+obtained and remeasured in this pass; inspecting PDF figures is a limitation.
+
+Grant corrected an early misreading of the hat. His lapel-based alternative
+and subjective face-orientation estimates do not establish a solar fit to
+Dalleur's selected correspondences. His bright-cloud simulation, as described
+in the later exchange, raises a real issue about mixed illumination, but
+Dalleur replies that it removes the very sharp shadows still visible in
+D115. I have not verified a simulation satisfying all those constraints.
+Neither an acknowledged obsolete objection nor a generic possibility of
+uncertainty is a successful refutation.
+
+5. Wet/dry and the cumulative evidence
+
+The photographed trousers have a pronounced upper dark zone and lighter
+exposed regions. Dalleur's interpretation connects the upper boundary to
+the jacket's prior coverage, and the irregular transition to orientation
+relative to drying rays. This is a scene-related shape with visible fabric
+texture, not simply an arbitrary blotch. Muse is right that calling it an
+unknown development defect does not explain the garment-related structure.
+
+The observation, wetness interpretation, drying history and IR explanation
+are nevertheless distinct steps. Ordinary black-and-white brightness is not
+a moisture meter. A single exposure does not record the earlier buttoned
+jacket, the moment it opened, initial water in each region, elapsed drying
+time or wavelength of the heating. Even if wetness and very rapid drying
+are accepted, the photograph does not independently measure the IR flux.
+
+The known rain and wet conditions and repeated reports of rapid drying
+give this interpretation evidential context. They should be assessed
+together, rather than pretending each photo must re-establish the weather.
+The defensible claim is that the picture is consistent with, and may
+corroborate, differential drying under a covering. The stronger claim that
+the picture alone proves a short intense infrared event is not established.
+No physically measured alternative drying history is established here either.
+
+6. What would resolve the most important photographic dispute
+
+Use the original scan, publish every selected feature pair and its coordinate
+uncertainty, have analysts select features without seeing the target answer,
+and jointly fit plausible camera geometry and ordinary solar illumination.
+Compare that fit with the alternative source, retaining all sharp shadow
+constraints. If the ordinary solar model cannot fit those independent data
+within justified errors, the anomalous-direction claim becomes substantially
+stronger. This is a concrete test of the remaining uncertainty, not a claim
+that an unidentified error has already explained the result.
+
+Follow-up clarification from the counterargument research pass (same date)
+
+The successful Castel Gandolfo example has the sun visible and, explicitly,
+no shadows. It validates the angle-reconstruction pipeline but does not test
+the difficult identification of faint object/shadow pairs in D115. The
+Saint Hubert and synthetic examples provide further checks, but the set
+is not a matched blind validation sample furnishing an error distribution
+for D115. See ../fatima-photo-counters-20261027/research-report.txt for the
+direct critiques by Grant, Fodor, Bradley and Ray, plus the latest replies.
+
+2 NOVEMBER 2026 REAUDIT
+See ../fatima-dalleur-reaudit-20261102/report.txt and claim-matrix.json. Full paper and complete90:24 Muse/Bradley-response transcript reread; relevant other Muse transcripts and current author pages rechecked. Core geometry/arithmetic and intended sensitivity factors reproduce. The unresolved measurement-verification issue is not a demonstrated refutation. Historical lens measurements support low distortion; new minor printed/citation consistency issues do not reverse the main result. Do not repeat already answered categorical objections or erase the convergence and validation evidence. No new solar fit or tally change.

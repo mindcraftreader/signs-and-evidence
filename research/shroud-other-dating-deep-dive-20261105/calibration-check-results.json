@@ -1,0 +1,71 @@
+{
+  "status": "Analyst recalculation from rounded tables; not published validation experiments",
+  "mechanical_FII": {
+    "sample": "FII",
+    "reference_signed_AD": 65,
+    "prediction_signed_AD": 147.56868513043253,
+    "error_years": 82.56868513043253,
+    "endpoint_extrapolation": false,
+    "channel_1_signed_AD": 86.83565425553806,
+    "channel_2_signed_AD": 286.32567322803334,
+    "channel_3_signed_AD": 69.54472790772621
+  },
+  "mechanical_D": {
+    "sample": "D",
+    "reference_signed_AD": 575,
+    "prediction_signed_AD": -757.4973947059636,
+    "error_years": -1332.4973947059636,
+    "endpoint_extrapolation": false,
+    "channel_1_signed_AD": -997.6477340798856,
+    "channel_2_signed_AD": -827.9516029649396,
+    "channel_3_signed_AD": -446.8928470730657
+  },
+  "mechanical_nominal_shroud_channels": [
+    601.5037620581313,
+    260.219731394993,
+    -28.62636642954722
+  ],
+  "mechanical_nominal_shroud_mean": 277.69904234119235,
+  "ftir_refitted_inverse_coefficients": [
+    {
+      "intercept": 1728.0999849305476,
+      "log_ratio_multiplier": 1816.483640190807
+    },
+    {
+      "intercept": 1705.0031584752358,
+      "log_ratio_multiplier": 2390.865956068947
+    }
+  ],
+  "ftir_mean_absolute_holdout_error": 364.7939242163181,
+  "ftir_holdout_D": {
+    "sample": "D",
+    "reference_signed_AD": 575,
+    "prediction_signed_AD": 1601.9629830979811,
+    "error_years": 1026.9629830979811,
+    "endpoint_extrapolation": false,
+    "channel_1_signed_AD": 1827.4699230146934,
+    "channel_2_signed_AD": 1376.4560431812686
+  },
+  "ftir_correlation_sensitivity": [
+    {
+      "assumed_equal_correlation": 0,
+      "combined_standard_uncertainty_years": 273.6520050066497
+    },
+    {
+      "assumed_equal_correlation": 0.5,
+      "combined_standard_uncertainty_years": 384.90149810004147
+    },
+    {
+      "assumed_equal_correlation": 1,
+      "combined_standard_uncertainty_years": 470.5453289908986
+    }
+  ],
+  "limitations": [
+    "Mechanical checks apply to the three-channel inverse-regression MC model, not every mechanical model.",
+    "FTIR checks refit the two ratios in the 2015 table; original three-ratio spectra were not redigitized.",
+    "These are development references, not independent blind tests; sample selection is held fixed.",
+    "Small, heterogeneous samples and endpoint extrapolations cannot establish universal Gaussian error tails.",
+    "Correlation sensitivity is hypothetical, not an estimated covariance or a replacement confidence interval.",
+    "No inference that the actual Shroud has any particular source of systematic bias."
+  ]
+}

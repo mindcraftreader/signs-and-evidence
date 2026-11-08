@@ -1,0 +1,73 @@
+DEEPER HEALING-SHRINE COMPARISON — 3 NOVEMBER 2026
+
+ASSESSMENT
+The recovered cases do not currently establish a sustained, medically investigated shrine pattern equivalent to the Lourdes cases in our collection. Vasu Bhardwaj is a substantive candidate: documents support illness and improvement. The other inspected galleries chiefly document diagnoses, without comparable outcome records. Mashhad has reported institutional review and specific archive leads, but no matching clinical dossier was recovered. This sustains the comparative documentation advantage for Lourdes in this pass. It does not establish global absence of other such cases, or prove every other recovery ordinary or fraudulent.
+
+SCOPE
+Three agents continued distinct tasks: Bhardwaj's treatment and source chronology; Kolthum Rezaei's medical-record chain; acquisition of the 1999 Hakim article. Parent read their reports, inspected primary sources and medical response criteria, screened the narrative text of all 18 entries on the archived 2013 mission cancer page, retrieved Harmeet Kaur's gallery and inspected its three scans. Parent also independently viewed Bhardwaj's three scans, Amarjit Kaur's cytology report and two Reeta Garg diagnostic documents. Screening 18 entries is not auditing 18 complete clinical dossiers. Balbir Singh appears at the same address in two entries about renal surgery and subsequent metastatic disease; do not count these as independent cures. Website entry timestamps in 2013 are not necessarily event dates or last verified follow-up dates.
+
+1. VASU BHARDWAJ
+Three reproduced medical documents establish this limited chronology:
+- 15 August 2001: serum-protein electrophoresis reports monoclonal gammopathy.
+- 24 August 2002: radiologist Anil M. Patel, MD (Radio-Diagnosis), reports regression of osteolytic abnormalities compared with 2001 films, with residual abnormalities.
+- 7 April 2003: serum-protein electrophoresis reports no myeloma band.
+Kiran C. Shah, MD, is named on the laboratory forms; the radiology referral identifies hemato-oncology. An independent Indian government trial document identifies a matching Kiran C. Shah as consultant hemato-oncologist at Apple Hospital, Surat. Pankaj M. Shah's oncology career and Gujarat Cancer Research Institute leadership are independently documented. Neither institutional source contains a case-specific opinion about Bhardwaj.
+
+The patient acknowledges six chemotherapy sessions, one every 28 days. The drugs, doses, last treatment date, latest pre-visit disease findings and original imminent-death prognosis are not recovered. His account describes abrupt pain relief and restored appetite and mobility during a 48-hour May 2002 recitation at the Golden Temple. The alleged 25 May negative marrow and electrophoresis reports remain missing. The available objective documents are months later; they do not time complete pathological reversal to those 48 hours. They support improvement, without establishing its cause.
+
+International Myeloma Working Group criteria require more than negative serum electrophoresis to establish complete response: serum/urine immunofixation, marrow and plasmacytoma findings matter. Conversely, residual bone abnormalities do not by themselves refute remission. Do not call the August residual lesions proof that prayer failed, or the April absent band proof of permanent eradication.
+https://www.myeloma.org/resource-library/international-myeloma-working-group-imwg-uniform-response-criteria-multiple
+
+Primary patient account:
+https://sikhnet.com/news/story-vasu-bhardwaj
+Archived gallery:
+https://web.archive.org/web/20080703/http://www.gurunanakhealing.com/medical_report1.htm
+Original Tribune interview, 16 March 2003:
+https://web.archive.org/web/20030320/http://www.tribuneindia.com/2003/20030316/ldh1.htm
+The newspaper quotes the patient; it supplies no independent examining-oncologist interview. Automatic captions of his 43-minute testimony add no secure treatment schedule. A promised doctor letter was not recovered. The mission reports death in 2006, without reliable cause or final oncology status. A later column's two-decade storytelling claim conflicts with that notice and cannot establish twenty-year follow-up.
+Detailed agent report: ../other-shrines-audit-20261103/vasu-treatment-followup-20261103.txt
+
+CLINICAL CONTEXT, NOT AN INDIVIDUAL EXPLANATION
+Michele Cavo and colleagues at Bologna's Seragnoli Institute of Hematology and Medical Oncology reported objective response rates of 47–53% across conventional regimens in a 2002 randomized trial of 527 patients. These are not permanent-cure rates or this patient's probabilities. A. Riccardi and colleagues at the University of Pavia/IRCCS Policlinico San Matteo likewise reported complete and partial responses after conventional chemotherapy. This establishes that treatment could produce remission in that era; it does not establish which treatment Bhardwaj received or that it caused his recovery. Only the abstracts were inspected.
+https://pubmed.ncbi.nlm.nih.gov/12217805/
+https://pubmed.ncbi.nlm.nih.gov/12504655/
+Direct curl copies are short interstitial pages, explicitly marked as such in the register; they are not acquired articles. The IMWG page is saved as full HTML.
+
+2. HARMEET KAUR
+The mission describes advanced bilateral stage 3 breast cancer disappearing without treatment after prayer in 2008. The three attached documents do not establish that claim:
+- 16 January 2008, Navya Diagnostics: multiple bilateral nodules, possible malignancy on the LEFT, recommendation for fine-needle aspiration and clinical correlation. Letterhead names Dr Naveen Pereira, MBBS/DMRD, with DMC and former CMCH affiliations printed.
+- 31 January 2008, Mohan Dai Oswal Cancer Treatment & Research Foundation: suspicious left-sided findings; RIGHT lesions assessed as probably benign; left aspiration recommended. Satish Jain is the referring physician, not necessarily the interpreting radiologist.
+- An undated handwritten PROVISIONAL report from the same foundation again describes left suspicious lesions and right probable benign/fibroadenoma findings. Signature not confidently identified.
+No confirming cytology/pathology or post-healing imaging is in this gallery. Thus confirmed bilateral stage 3 malignancy and objective complete disappearance are not established by the attachments. This is a specific mismatch between the advertised diagnosis/outcome and the supplied records; it does not prove no serious illness or no improvement.
+https://web.archive.org/web/20080703/http://www.gurunanakhealing.com/medical_report121.htm
+New unmodified scans saved as sources/repo121_1.JPG, repo121_2.JPG and repo121_3.JPG.
+
+3. AMARJIT KAUR AND REETA GARG
+Amarjit's sole gallery image is a Punjab Clinical Lab fine-needle aspiration report diagnosing infiltrating ductal carcinoma, grade II. This is meaningful diagnostic evidence, not evidence of the later cure. No objective post-healing document was recovered from that gallery.
+https://web.archive.org/web/20080703/http://www.gurunanakhealing.com/medical_report23.htm
+
+Reeta's gallery includes diagnostic skull radiology and neurosurgical material describing sellar destruction and suspected pituitary tumor, with further MRI contemplated. D. R. Gulati's letterhead prints a McGill neurosurgery diploma and former PGI professorship; those credentials are not a miracle endorsement. No post-healing scan was recovered. Handwritten dates were not securely harmonized, so no chronology objection is derived from them.
+https://web.archive.org/web/20080703/http://www.gurunanakhealing.com/medical_report2.htm
+
+4. WHAT THE REMAINING CANCER-PAGE NARRATIVES ESTABLISH
+The mission openly acknowledges surgery in Amar Singh, Narinder Kaur, Sucha Singh Rana and Balbir Singh; chemotherapy in several cases; and ongoing Tata Memorial treatment in Balwinder Kaur Deol. These factors require assessment before attributing survival or improvement to prayer alone. They do not prove treatment explains each individual course.
+Some advertised cures concern symptom or functional improvement despite unchanged disease markers. Manju Anand's narrative says scans still show metastases; Balbir Singh Dhami's says MRI was unchanged. Khushwant Kaur Gill's CLL narrative emphasizes few symptoms, rather than demonstrated eradication of the malignant clone. Gurdev Kaur's narrative states later death with liver metastases. These cannot automatically be tallied as permanent anatomical cancer reversals. Not all report galleries have been inspected; this is narrative screening.
+
+5. KOLTHUM REZAEI / MASHHAD
+The repeated 1993 breast-lump story says PART of a lump was surgically removed. Do not assert the entire tumor was removed. No original pathology, operative report or objective remaining-lesion assessment immediately before the shrine visit was recovered. Dr Nosrati's quoted result, registration 19410, is a normal clinical breast examination with no lump. The attributed certificate is not reproduced; his full identity and specialty remain unverified. A normal examination cannot by itself establish the earlier lump's pathology or exclude effects of prior treatment. No ordinary mechanism is proved here either.
+Agent report: ../mashhad-primary-audit-20261103/kolthum-followup.txt
+Narrative chain:
+https://ranjbarir.blogfa.com/post/784
+https://realmuslim.blogfa.com/post/180
+
+6. HAKIM 1999 AND OTHER ACADEMIC CLAIMS
+Ashraf Sadat Sanei and colleagues, ثبت تصویری و نوشتاری شفایافتگان, Hakim volume 2, issue 3, beginning page 199, is verified by the Magiran issue and abstract. The abstract announces scientific documentation; its recovered excerpt supplies no patient, outcome or shrine identification. The current journal archive begins at volume 8/2005, a confirmed coverage gap. Full text remains unacquired. The article's purpose cannot be counted as its result. No affiliation is assigned to Sanei from a namesake.
+https://www.magiran.com/volume/2292
+Agent report: ../mashhad-clinical-audit-20261103/hakim-acquisition-followup.txt
+
+The 2023 BMC Nursing study could not interview healed people and supplies no identified clinical dossier for its model case. The 2024 Charan study's millions figure remains unsupported. These findings concern those specific papers, rather than every Muslim healing record.
+
+COMPARISON WITH LOURDES
+Lourdes has the stronger inspectable medical and review documentation in this collection. Retain its logged limitations: Micheli's treatment/date discrepancies, Raco's diagnostic dispute, and absence of complete raw hospital dossiers. Do not require every original chart from a rival while accepting selected reports for Lourdes. Bhardwaj is a serious shrine-linked recovery candidate, but the current material does not establish a comparable sustained, clinically investigated pattern. Since Daniel already allows healings outside Catholicism, finding another illness followed by recovery does not alone contradict his position.
+
+No numerical tally changed. No emails, purchases or new credential actions. Download failures and interstitial pages are distinguished from acquired clinical evidence in the source register.

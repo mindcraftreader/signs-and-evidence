@@ -1,0 +1,123 @@
+SHROUD DATING: MECHANICAL, FTIR AND RAMAN
+Audit date: 5 November 2026
+
+Assessment
+==========
+The alternative dating results remain positive evidence for an ancient cloth under their respective calibrations. They are real measurements and published methods, not simply religious assertions. This audit does not produce a demonstrated ordinary process that explains all the Shroud results as medieval. It does, however, find specific reasons not to turn the reported uncertainties into universal error rates or multiply them into an authenticity probability. Mechanical dating has a notably unsuccessful nominal holdout as well as its published successful one. FTIR has substantial calibration scatter, heat corrections, and an unresolved covariance issue. Raman has the greatest dependence on fluorescence and the least convincing calendar precision of these three methods.
+
+This supplements, and does not replace, the separate WAXS audit. WAXS retained substantial conditional ancient-age evidence, including the reproduced mismatch with the authors' medieval European climate model. Nothing below demonstrates that the measured Shroud WAXS value has an ordinary medieval explanation.
+
+1. What these methods measure
+============================
+Mechanical dating stretches tiny individual flax fibers, measuring breaking strength, stiffness and energy lost during loading cycles. FTIR measures absorption of infrared light by different molecular groups. Raman measures changes in laser light scattered by the molecules, with fluorescence requiring special attention. Their instruments and underlying physical measurements have broad scientific uses. The narrower question is whether a particular formula reliably converts those measurements into calendar dates for linens of unknown manufacturing and conservation history.
+
+Giulio Fanti and Pierandrea Malfi's 2014 Textile Research Journal paper lists Padua University as its affiliation. The 2015 mechanical Monte Carlo paper adds Roberto Basso of Padua's Department of Industrial Engineering; Malfi is then affiliated with CRIS, the Committee for Engineering Research on the Turin Shroud. The original 2013 spectroscopy team comprises Fanti and Basso at Padua, Pietro Baraldi in Chemical and Geological Sciences at the University of Modena and Reggio Emilia, and Anna Tinti at the University of Bologna's DIBINEM. Tinti's 2015 paper expands that affiliation as Biomedical and Neuromotor Sciences.
+
+The methods share researchers and much of their reference collection. They are different measurements; they are not four wholly separate teams independently establishing four universal linen clocks. Agreement can still carry weight without assuming full statistical independence.
+
+2. Mechanical dating: the affirmative evidence
+============================================
+The 2014 paper establishes correlations of approximately 0.90–0.955 between age and five mechanical properties in a selected reference collection. The development is technically substantive: very small forces require a specially designed machine, repeated loading changes stiffness, and fiber selection and position within a thread matter. The authors explicitly recognize environmental effects and attempt to screen unsuitable fibers.
+
+Their strongest response to the environmental objection is a multi-property consistency check. In their experiments, repeated flexing or scraping made strength/modulus dates look older but loss-factor dates look younger. Damage therefore need not silently imitate ordinary aging across every channel. This is affirmative evidence that deserves consideration; merely saying 'environment matters' does not defeat it. Fire simulations compatible with the Shroud's color were judged insufficient to explain the whole dating discrepancy.
+
+Published estimates have several versions:
+- Original five-parameter result: about AD 372, commonly rounded to AD 400, with approximately ±400 years expanded uncertainty.
+- A different 2015 multivariable regression: AD 260 ±274 years.
+- The 2015 three-channel Monte Carlo treatment: about AD 278/279 ±216 years.
+These are related analyses, not three independent mechanical experiments. The last interval, taken literally, runs approximately AD 62–494; it is ancient but does not itself place AD 30 or 33 inside its nominal 95% interval. The paper acknowledges proximity to that boundary and discusses a possible small bias.
+
+The 2015 synthesis describes eight tested Shroud-attributed fibers from vacuum filter h, collected behind the gluteal area. This is a more interior collection location than the radiocarbon corner, but it is a collection of loose material, not a documented excision of each fiber from the original weave. The authors identify the fibers using microscopy, including kink bands and cross-polarization. An interior collection location is useful provenance information; it does not guarantee that every loose fiber is original or representative.
+
+3. Mechanical dating: test the 82-year accuracy claim
+===================================================
+The Monte Carlo paper withholds Masada sample FII from the calibration. Its reference date is AD 65; the predicted date is AD 147 ±107 years standard uncertainty. The roughly 82-year gap is a successful within-study holdout. It is not the method's established average accuracy across independent museums and laboratories.
+
+Our earlier holdout calculation has now been reproduced using Python's standard library and the rounded published Table 2. It reproduces both the nominal Shroud estimate (AD 277.70) and the selected FII holdout (AD 147.57). The same procedure applied to another included reference, sample D, gives:
+
+Sample D reference date: AD 575 (radiocarbon range AD 544–605).
+Prediction when D is withheld: approximately 758 BC.
+Error: approximately 1,332 years too old.
+Individual channel predictions: approximately 998 BC, 828 BC and 447 BC.
+
+This is a consequential result: a large age error in the ancient direction can occur in this calibration framework without our inventing a Shroud-specific contaminant. It does not prove the Shroud's date wrong, and it is not an independent laboratory failure. It is our nominal recalculation from rounded development data, holding the paper's sample selection fixed. It applies to the three-channel inverse-regression model used in the Monte Carlo study; it does not automatically invalidate every mechanical estimator or demonstrate that D would pass every newly devised diagnostic.
+
+The all-reference outputs are saved, including the favorable holdouts. Endpoint extrapolations and a small heterogeneous sample prevent those outputs from defining a universal probability distribution. A simulated Gaussian histogram propagates assumed input uncertainties; it does not establish the frequency of large calendar errors on unfamiliar textiles.
+
+The separate AD 260 regression has an additional statistical limitation. Its printed formula propagates coefficient covariance to the predicted regression mean, t Cov(beta) t-transpose. In ordinary regression, predicting the date of an individual new object also requires consideration of residual variation beyond uncertainty in the fitted mean. The paper's formula does not by itself establish that broader prediction interval. No replacement numerical interval is asserted here.
+
+4. The later mechanical test and the sample-custodian objection
+=============================================================
+Fanti and Basso's 2017 paper reports an improved fiber fixture and a comparison of modern linen, Egyptian mummy linen and a Shroud-attributed fiber. Padua's institutional abstract says it confirms ancient compatibility. The full paper was not recovered in this pass; its detailed numerical result has not been independently reconstructed here.
+
+STERA, the organization lending the sticky-tape slides, published a direct objection. Its board questioned the identity of a very short surface fiber, possible effects of a deteriorating adhesive slide, and whether destructive testing complied with the loan. These are the custodian's documented concerns, not experimentally demonstrated contamination or proof that the fiber was foreign. They concern the 2017 tape test and must not be silently transferred to the earlier vacuum-filter study. The loan dispute also does not decide the physical age of the fiber.
+
+5. FTIR: ancient estimate, material correction, limited precision
+==============================================================
+The 2013 Fanti/Baraldi/Basso/Tinti paper analyzes eight selected FTIR references from an initial group of fourteen. Exclusions include modern NaOH-bleached linen, paper-making treatments, and suspected chemical effects. Contamination screening and water washing are documented. The authors also tested stronger acid-alkali-acid cleaning and judged it too invasive for this particular spectroscopic purpose. Thus 'cleaning' cannot be assumed neutral for a cellulose-degradation clock.
+
+The original work finds a combined spectral correlation of about 0.961 and reports standard uncertainty on the order of 200 years. The 2015 synthesis gives the Shroud about 250 BC ±400 years at nominal 95% confidence. The estimate already corrects for a heat effect measured on reference fabrics: multiplying the two relevant measured ratios by about 1.18 changes inferred age by several centuries.
+
+Our nominal leave-one-out check of the two ratios printed in 2015 Table 7 gives an average absolute gap of about 365 years across eight references, with individual gaps ranging from roughly 14 to 1,027 years. Sample D, reference AD 575, predicts about AD 1602 when withheld. That particular error is toward a younger date, not a parallel ancient bias. This is a development-data diagnostic, not eight independent blind validations. Refitted inverse coefficients closely reproduce the published coefficients; original three-ratio spectra were not newly digitized.
+
+The most useful later work is César Barta and Elisa María Ruiz-Navas of Carlos III University of Madrid, José Luis Pérez-Díaz of the University of Alcalá, Robert Rucker, an independent researcher, and Thomas McAvoy of the University of Maryland's Chemical and Biomolecular Engineering Department. Their 2025 Microchemical Journal paper performs actual heating and irradiation experiments. It reuses the previously measured Shroud spectrum; it does not make a new Shroud measurement or establish another independent Shroud date.
+
+Its Table 1 derives individual date standard uncertainties of 531, 513 and 408 years from the original eight-reference calibration residuals. Inverse-variance combination produces about 274 years standard uncertainty, reported as ±548 at 95%. With a +452-year heat correction, the mean Shroud estimate is about 206 BC. A different experimentally motivated +216-year correction gives about 442 BC; the earlier two-ratio correction gives about 249 BC. These are correction/model alternatives, not additional independent observations. They remain substantially older than medieval manufacture under the adopted formula.
+
+The covariance question matters. The ratios share spectral bands, including a common denominator, and arise from the same fabric and spectrum. The paper does not establish that the three inferred date errors are uncorrelated. Reproducing its combination gives u=273.65 years. For illustration only, preserving the same weights and assigning an equal correlation of 0.5 gives u=384.90; perfect positive correlation gives u=470.55. These are sensitivity scenarios, not estimates of the actual covariance and not new confidence intervals. They show why a published combined sigma is conditional on more than measurement repeatability.
+
+The 2025 investigators explicitly say their different spectrometer and baseline algorithm prevent a confident absolute dating application. They analyze relative changes on the same fabric. Therefore the apparent ages assigned to their modern controls must not be advertised as independently demonstrated absolute calendar errors.
+
+Their heat experiment produces a relative apparent aging of about 216 years after 180°C for five hours. Their irradiation results predict little FTIR age shift at the proposed low neutron dose. The latter is useful experimental support for a conditional point: such irradiation could, in principle, affect radiocarbon while leaving this FTIR clock substantially unchanged. It is not evidence that the actual Shroud received that dose. Neither result supplies a demonstrated 1,300-year ordinary bias across all alternative methods.
+
+6. Raman: additional ancient indication, weakest calendar precision here
+======================================================================
+The original method uses the ratio of a C–O–C band around 1097 cm−1 to a C–OH band around 3251 cm−1. Eleven selected references were retained. Fluorescence materially changes the relationship; the authors divide references into groups and interpolate for the Shroud's intermediate fluorescence. The 2015 estimate is approximately AD 30.
+
+There is a reporting inconsistency: Table 10 lists Raman standard uncertainty as 250 years and expanded uncertainty as 400, although its explanatory text says expansion uses a factor of two. Those entries do not agree. They must be flagged rather than silently converted into a precise Gaussian error model. Earlier popularized Raman dates also differ from the later synthesis; they should not be counted as separate experiments.
+
+A useful follow-up is Letizia Bonizzoni and Paolo Tiberio of the University of Milan's Physics Department, Silvia Bruni and Chiara Zaffino of its Chemistry Department, and Fanti of Padua (Microchemical Journal, 2016). They study 23 historical flax fibers and eleven modern fibers, including treated controls. The work supports a real spectral aging signal and studies a different Raman-band ratio, 1121/1096 cm−1. It finds a correlation of about 0.69 for that ratio and about 0.71 for fluorescence. Treatment and conservation matter. It is not a blind validation of the 2013 calendar formula and does not issue independent calendar dates with errors of only a few decades. Counting all those fibers as successful paired Raman/radiocarbon dates would be incorrect.
+
+Raman remains a relevant supporting measurement. The strongest defensible role in this comparison is an ancient-compatible spectroscopic indication with substantial model dependence, not a separately validated near-infallible calendar clock.
+
+7. Treatment evidence cuts both ways
+==================================
+F. Ferrero, F. Testore and G. Malucelli of the Polytechnic of Turin and C. Tonin of Italy's CNR investigated ancient and modern linens in 1998. Their thermal/FTIR work found that impurities and cleaning could obscure age effects. This is pertinent evidence about sample history. It predates the Fanti clock and is not a failed trial of that exact formula. Its two ancient samples are not newly paired radiocarbon determinations in that paper.
+
+Barta and Ruiz-Navas's 2026 npj Heritage Science bleaching study adds an affirmative response to blanket treatment objections. Their comparison of published Shroud spectra with experimental bleaching spectra is more compatible with no or mild bleaching than with the more intensive treatments studied. They acknowledge limitations in recreating ancient natron processing. This weakens an unsupported claim that the Shroud necessarily underwent one of those strong treatments. It is not a new dating experiment and does not eliminate every manufacturing or storage variable.
+
+8. What changes in the Jenga discussion
+======================================
+Retained: different measurements return ancient-compatible Shroud estimates; that convergence deserves positive weight. The experiments and institutions behind them are substantive. No ordinary treatment reproducing the whole suite of actual Shroud observations has been demonstrated here. The separate WAXS findings remain in force.
+
+Narrowed: 'all methods would have to make unprecedented, many-sigma errors in the same direction' is too strong. The mechanical calibration itself can yield a roughly 1,330-year ancient error on a withheld reference. FTIR's broad scatter, heat corrections and covariance need explicit treatment. Raman calendar precision is less secure than the simple published date might suggest.
+
+Not established: a global Gaussian predictive error distribution for each method, the correlations among them, or a numerical probability that a medieval cloth would produce all these results. No combined authenticity odds are reported. Repeated estimates from revised analyses must not be counted as new laboratories or new independent samples.
+
+This is an analyst assessment, not a newly agreed debate tally or a concession attributed to Daniel. It identifies a substantive challenge to the precision/independence argument while retaining the ancient-age evidence itself. Authentication and manufacture remain unresolved.
+
+Sources and reproducibility
+===========================
+Full PDFs, extracted text and selected rendered source pages are in sources/ and figures/.
+The standard-library script check_calibration.py reproduces the numerical checks; its assertions pass. Outputs: calibration-check-results.json, mechanical-nominal-holdouts.csv and ftir-nominal-holdouts.csv. These CSVs are calculation outputs, not a replacement for the larger literature workbook.
+
+Original methods:
+Fanti & Malfi 2014: https://doi.org/10.1177/0040517513507366
+Basso, Fanti & Malfi 2015: https://doi.org/10.1051/matecconf/20153601003
+Fanti, Malfi & Crosilla 2015: https://doi.org/10.1051/matecconf/20153601001
+Fanti, Baraldi, Basso & Tinti 2013: https://doi.org/10.1016/j.vibspec.2013.04.001
+Baraldi & Tinti 2015: https://doi.org/10.1051/matecconf/20153601002
+
+Follow-up and other relevant studies:
+Barta et al. 2025: https://doi.org/10.1016/j.microc.2024.112502
+Bonizzoni et al. 2016: https://doi.org/10.1016/j.microc.2015.11.011
+Barta & Ruiz-Navas 2026: https://doi.org/10.1038/s40494-026-02965-y
+Ferrero et al. 1998: https://doi.org/10.1080/00405009808658642
+Fanti 2026 synthesis: https://doi.org/10.54026/ARS/1034
+
+Later mechanical work, institutional abstract inspected, full paper not recovered:
+Fanti & Basso 2017: https://doi.org/10.1142/S0218539317500061
+https://research.unipd.it/handle/11577/3226813
+Custodian's statement (not an experimental demonstration): https://www.shroud.com/pdfs/disclaimer.pdf
+
+Search scope: original local papers, targeted public searches for follow-up validation and institutional publication records. No newly located independent blinded interlaboratory calendar-validation study is claimed. This is not a proof that none exists in any database.

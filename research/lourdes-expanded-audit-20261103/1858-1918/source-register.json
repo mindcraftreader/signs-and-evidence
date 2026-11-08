@@ -1,0 +1,100 @@
+[
+  {
+    "id": "EE1",
+    "url": "https://archive.org/details/lourdeshistoirem00bois",
+    "local_file": "research/lourdes-expanded-audit-20261103/1858-1918/sources/lourdeshistoirem00bois.pdf",
+    "title": "Lourdes, histoire médicale, 1858–1891",
+    "authors": "Gustave Boissarie",
+    "year": 1891,
+    "background": "Lourdes physician and Bureau director; advocacy collection, not an independent blinded study.",
+    "read_scope": "Printed pp99–108 on Bouriette, Cazenave and Latapie; p347 Seisson certificate summary. PDF pp121 and363 visually inspected. Early narrative footnote explicitly credits Lasserre; not direct possession of Dozous original notes.",
+    "sha256": "68f2ea11f8d99ca6df22ecc2142901ea93df3c93d0da76c77d9c87fc42cfcf6b"
+  },
+  {
+    "id": "EE2",
+    "url": "https://archive.org/details/twentycuresatlou0000drfd",
+    "local_file": "research/lourdes-expanded-audit-20261103/1858-1918/sources/twentycuresatlou0000drfd.pdf",
+    "title": "Twenty Cures at Lourdes Medically Discussed",
+    "authors": "F. de Grandmaison de Bruno; translators Hugo G. Bevenot and H. E. Izard",
+    "year": 1912,
+    "background": "Title identifies author as former interne of Paris hospitals; not assigned an unverified professorship.",
+    "read_scope": "Title, Lemarchand full chapter printed pp20–34 read. Reproduced treating-doctor report on pp25–26 and author differential discussion read; printed p25 visually inspected. Not entire 272-page book.",
+    "sha256": "ff7152c968f974722844857e5470859c8c537289b8d7d6d9763d198b311f636f"
+  },
+  {
+    "id": "EE3",
+    "url": "https://archive.org/details/etudes121jesu",
+    "local_file": "research/lourdes-period-audit-20261102/1858-1918/sources/etudes121jesu.pdf",
+    "title": "Le surnaturel dans les guérisons de Lourdes",
+    "authors": "Henri Guinier",
+    "year": 1909,
+    "background": "Former agrégé libre of Montpellier medical faculty, as contemporary BMJ source identifies; Bureau examiner/medical advocate.",
+    "read_scope": "First-person Biré observation printed p597 read in full and visually inspected. Existing file newly used for this case; earlier pass concerned Borel.",
+    "sha256": "bbd5692dd040b9088f1de73d1630b2c926c0f7b73bbd99ed29525488e505918d"
+  },
+  {
+    "id": "EE4",
+    "url": "https://archive.org/details/histoirecritique00bertuoft",
+    "local_file": "research/lourdes-period-audit-20261102/1858-1918/sources/histoirecritique00bertuoft_djvu.txt",
+    "title": "Histoire critique des événements de Lourdes",
+    "authors": "Georges Bertrin",
+    "year": 1909,
+    "background": "Historian/apologist, not examining physician.",
+    "read_scope": "Printed pp456–459 appendix transcriptions on Bouriette, Cazenave and Latapie read. Reproduces Vergez/Dozous rather than original signed documents.",
+    "sha256": "7d46ded5080c0628743938b7b1cbc00695b31b66f4021dd8743f3f38578f36a6"
+  },
+  {
+    "id": "EE5",
+    "url": "https://cinumedpub.mmsh.fr/Provence-historique/Pdf/PH-1995-45-182_07.pdf",
+    "local_file": "research/lourdes-expanded-audit-20261103/1858-1918/sources/seisson-prov-hist1995.pdf",
+    "title": "Les pèlerinages du diocèse d’Avignon à Lourdes depuis 1872",
+    "authors": "Dominique Javel",
+    "year": 1995,
+    "background": "Historical article in Provence Historique; no medical examination or university appointment inferred.",
+    "read_scope": "Opening source-limit discussion, Seisson pp571–572 and source notes read. Establishes precise 1882 certificate/register references and1896 recheck trail; original manuscripts not obtained.",
+    "sha256": "8261bf46aa44e484a3fd33c78aebad54a305115e75ecb6add8705ac2e3b11d6d"
+  },
+  {
+    "id": "EE6",
+    "url": "https://www.imagomundi.biz/wp-content/uploads/2018/09/GW_57_Jahrgang_2008_Heft_3_optimized.pdf",
+    "local_file": "research/lourdes-expanded-audit-20261103/1858-1918/sources/bire-resch2008.pdf",
+    "title": "Die Wunder von Lourdes II",
+    "authors": "Andreas Resch",
+    "year": 2008,
+    "background": "Modern theological/psychological compilation; not a treating ophthalmologist.",
+    "read_scope": "Printed pp220–224, Biré, Allope, Orion and Fabre read. Mostly relies on Mangiapan; names Dr Lainey of Rouen for Biré, but no original oculist report acquired.",
+    "sha256": "53dc667cc9a48b59b3d5c19be1b8c58eebbda9d71dfd24b87cf6e36814b30266"
+  },
+  {
+    "id": "EE7",
+    "url": "https://www.lourdes-france.com/miracles-et-guerisons/",
+    "local_file": null,
+    "title": "Official French Lourdes case roster",
+    "authors": "Sanctuary of Our Lady of Lourdes",
+    "year": 2026,
+    "background": "Institutional summary.",
+    "read_scope": "Indexed official list verified Allope28May1909, Biré5Aug1908, Orion22July1910 and Fabre26Sept1911. Direct curl403; no claim downloaded full current French HTML. Inherited Italian full list remains local."
+  },
+  {
+    "id": "EE8",
+    "url": "https://paroissenotredamedelucon.fr/art-culture-et-patrimoine/sainte-gemme-la-plaine-patrimoine/",
+    "local_file": "research/lourdes-expanded-audit-20261103/1858-1918/sources/bire-parish.html",
+    "title": "Sainte Gemme la Plaine — Patrimoine",
+    "authors": "Paroisse Notre Dame de Luçon",
+    "year": 2026,
+    "background": "Local church institutional source, not medical dossier.",
+    "read_scope": "Biré ex-voto and quoted30July1910 episcopal recognition checked.",
+    "sha256": "26e1ac58481a3fbeae1214126e42d2d31a133562fb4981baf912475312cd0e16"
+  },
+  {
+    "id": "EE9",
+    "url": "https://archive.org/details/heavensrecentwon00doncuoft",
+    "local_file": "research/lourdes-period-audit-20261102/1858-1918/sources/heavensrecentwon00doncuoft_djvu.txt",
+    "title": "Heaven’s Recent Wonders / The Work of Lourdes",
+    "authors": "Gustave Boissarie",
+    "year": 1909,
+    "background": "Bureau physician/director’s follow-up narrative.",
+    "read_scope": "Printed pp312–313 Lemarchand letter and later examination read. Reports14–15year followup; no underlying original patient letter acquired.",
+    "sha256": "89b01bd0d7016ecff956679fe80fea6e54c67c1425f1a8fcdc59c5dddbd01664"
+  }
+]

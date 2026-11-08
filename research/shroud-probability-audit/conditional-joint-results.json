@@ -1,0 +1,25 @@
+{
+  "assumptions": "Complete unbiased Gaussian errors, fixed AD1300, independent methods; unvalidated conditions",
+  "included_methods": [
+    "FTIR, 2015",
+    "Raman, 2015",
+    "Mechanical Monte Carlo, 2015"
+  ],
+  "joint_directional_event_probability": 1.297761284005373e-42,
+  "chi_square_3df": 175.4165680384088,
+  "omnibus_conditional_p": 8.614033539258115e-38,
+  "independent_weighted_date_signed_AD": 142.53504205046053,
+  "independent_weighted_u": 88.82876640351371,
+  "weighted_date_conditional_one_sided_tail": 4.114488524228325e-39,
+  "waxs_calendar_probability": "Not established: no complete calendar-age predictive distribution",
+  "waxs_measurement_only_illustration": {
+    "observed_AP": 0.6,
+    "measurement_u": 0.02,
+    "fixed_model_expected_AP": 0.052,
+    "z": 27.399999999999995,
+    "normal_one_sided_tail_if_assumed": 1.3712616389466076e-165,
+    "excluded_uncertainties": "Environmental history, degradation-model discrepancy, sample attribution and calibration applicability",
+    "three_requested_methods_independent_tail_if_all_assumed": 9.429813801814315e-201,
+    "status": "Illustration of unjustified extrapolation; not a defensible real-world joint probability"
+  }
+}

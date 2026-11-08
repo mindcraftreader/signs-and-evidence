@@ -1,0 +1,156 @@
+SHROUD REPLICATION EXPERIMENTS AND CONTACTS
+Reviewed 27 October 2026
+
+Purpose: find useful people, archived experiments and reproducible comparisons without new access to the original cloth. No messages sent, no specimens ordered, no paid services commissioned.
+
+MAIN DISTINCTIONS
+1. A photographic display copy reproduces appearance using a known printing process.
+2. An experimental image-forming process is evidence about physical feasibility; its agreement must be measured property by property.
+3. Laser tracing of the existing photograph copies geometry and negative tones by construction. It is not a spontaneous body-to-cloth reconstruction.
+4. Demonstrating a modern radiation process does not by itself establish a medieval energy source or identify the actual origin.
+5. Existing-original photographs/spectra and archived experimental swatches can support new comparisons without touching the Shroud. Access, calibration and comparability still matter.
+
+CONTACT SHORTLIST
+
+Giulio Fanti
+University of Padua Department of Industrial Engineering; affiliation in cited studies
+Work: Corona discharge, with Francesco Lattarulo (Polytechnic of Bari) and Oswald Scheuermann; experimental and numerical work must be distinguished
+Contact: [email omitted]
+Verified university address earlier in this session; user already sent mechanical-dating email
+Best question: What is the best surviving physical specimen and its measured match to the Shroud; are original microscopy and experimental records available?
+
+Paolo Di Lazzaro and Daniele Murra
+ENEA Frascati laser-radiation research group, as affiliated in the 2012 paper; Di Lazzaro self-profile now describes retirement
+Work: Excimer UV/VUV coloration of linen; superficial and latent coloration under selected conditions
+Contact: [email omitted]
+Published corresponding-author address; deliverability not tested
+Best question: Do irradiated swatches, original micrographs and the strongest side-by-side comparisons remain available, and what properties did not match?
+
+Christophe Donnet
+Jean Monnet University, Hubert Curien laboratory UMR 5516 CNRS; professor in chemistry and materials/surface science
+Work: 2019 infrared femtosecond laser marking of the face, guided by a digitized Shroud image; FTIR, Raman and SEM characterization
+Contact: [email omitted]
+Published corresponding-author address, also institutional public profile/records
+Best question: Do marked linen specimens remain available, and which measured fiber-level properties agree or disagree with the original? Digital image supplied means shape/negativity are copied, not independently generated.
+
+Luigi Garlaschelli
+University of Pavia Department of Organic Chemistry in 2010 paper
+Work: Life-size physical reproduction by rubbing/contact and chemical treatment
+Contact: [email omitted]
+Historical corresponding-author address in original paper; current delivery not verified
+Best question: Does the original replica survive; what independent microscopic comparisons have been performed since the published criticism?
+
+Colin S. Berry
+Self-described retired biomedical/food researcher and independent experimenter; no current university affiliation asserted
+Work: Bench experiments with heated objects and flour-based chemical/thermal transfer; independent blog documentation
+Contact: public blog route only
+Public author blogs only; no verified current email; do not confuse with same-name Cardiff or Glasgow academics
+Best question: What is the strongest preserved specimen; are untreated controls, microscopic observations and independent comparisons available?
+
+Hugh Farey
+Independent Shroud researcher and former BSTS newsletter editor; no university affiliation asserted
+Work: Linen scorching/fluorescence experiments and commissioned woven fabric comparisons
+Contact: public blog route only
+Current author blog; no verified email in this pass
+Best question: Which specimens and microscopic comparison records survive, and can Ruth Gilbert’s experimental woven fabric still be obtained?
+
+Russ Breault
+Shroud Encounter lecturer and exhibit presenter
+Work: Full-size photographic inkjet display replica, cotton canvas, archival dyes; not image-formation replication
+Contact: [email omitted]
+Public provider contact
+Best question: Could this have been the traveling replica seen at the parish; who printed it and what photographs is it based on?
+
+Joe Marino / STERA
+President named on provider page; Shroud education and research organization
+Work: Printed photographic display replicas; potential referral network to experimenters
+Contact: [email omitted]
+Public provider contact; current ordering process must be confirmed
+Best question: Who currently supplies replicas and who retains physical experimental image specimens?
+
+SOURCES AND ACCESS
+
+fanti-corona-repository
+https://research.unipd.it/handle/11577/2272747
+Institutional metadata and abstract; 2008 corona discussion, referencing Fanti, Lattarulo and Scheuermann 2005.
+Access: saved
+supporting/replication-contacts-20261027/fanti-corona-repository.html
+
+fanti-comsol
+https://www.comsol.com/paper/download/152079/fanti_paper.pdf
+Primary numerical field model; not a full physical replication. Authors affiliated with Padua and Polytechnic of Bari.
+Access: saved
+supporting/replication-contacts-20261027/fanti-comsol.pdf
+
+di-lazzaro-2012-publisher
+https://opg.optica.org/ao/abstract.cfm?uri=ao-51-36-8567
+Publisher abstract and author affiliations/contact reviewed; full text restricted on publisher page.
+Access: saved
+supporting/replication-contacts-20261027/di-lazzaro-2012-publisher.html
+
+di-lazzaro-2012-slides
+https://www.shroud.com/pdfs/dilazzarovppt.pdf
+Author presentation, Valencia 28 April 2012, 66 slides. Includes experiment photographs; not itself a peer-reviewed article.
+Access: saved
+supporting/replication-contacts-20261027/di-lazzaro-2012-slides.pdf
+
+donnet-2019-publisher
+https://opg.optica.org/ao/abstract.cfm?uri=ao-58-9-2158
+Publisher abstract, affiliations and corresponding author reviewed. Uses digitized image to steer laser; does not recover spontaneous image formation.
+Access: saved
+supporting/replication-contacts-20261027/donnet-2019-publisher.html
+
+donnet-2019-fulltext
+https://skepticsandseekers.wordpress.com/wp-content/uploads/2019/04/dilazzaro-2d-reproduction-a.o.-2019.pdf
+Public mirror of original eight-page 2019 paper; filename misattributes Di Lazzaro but actual authors are Donnet et al. Verify PDF title, DOI and author block.
+Access: saved
+supporting/replication-contacts-20261027/donnet-2019-fulltext.pdf
+
+donnet-university-profile
+https://www.univ-st-etienne.fr/fr/universite/organisation/gouvernance/le-president-et-l-equipe-presidentielle/christophe-donnet.html
+Official Jean Monnet University profile; chemistry/materials and surface science, Hubert Curien laboratory.
+Access: saved
+supporting/replication-contacts-20261027/donnet-university-profile.html
+
+berry-experiments-2015
+https://colinb-sciencebuzz.blogspot.com/2015/04/might-this-be-how-turin-shroud-was.html
+Experimenter’s own account with images. Independent blog, not peer-reviewed full replication; no current email verified.
+Access: saved
+supporting/replication-contacts-20261027/berry-experiments-2015.html
+
+farey-current-blog
+https://medievalshroud.com/
+Independent researcher Hugh Farey; active postings through September 2026 visible at review. Blog route, no verified email.
+Access: download failed; web review may still be available
+No downloaded file
+
+farey-gilbert-weaving
+https://www.shroud.com/pdfs/n85part5.pdf
+First-person report of commissioning a woven sample from Ruth Gilbert; about 200 x 26 cm, not full Shroud. Gilbert explicitly qualifies similarity.
+Access: saved
+supporting/replication-contacts-20261027/farey-gilbert-weaving.pdf
+
+russ-display-replica
+https://shroudencounter.com/life-size-replica/
+Provider explicitly describes photographic inkjet reproduction with archival dyes on cotton canvas. Does not replicate image chemistry.
+Access: saved
+supporting/replication-contacts-20261027/russ-display-replica.html
+
+stera-display-replicas
+https://www.shroud.com/obtain.htm
+Provider page with 2025 transition notice; printed display copies, contact Joe Marino. Do not assume old purchase instructions remain current without confirmation.
+Access: saved
+supporting/replication-contacts-20261027/stera-display-replicas.html
+
+othonia-traveling
+https://othonia.org/bring-the-exhibit/
+Traveling exhibit and life-size replica; no chemical replication established by this page.
+Access: download failed; web review may still be available
+No downloaded file
+
+RESEARCH PRIORITY
+First approach Di Lazzaro/Murra and Donnet for retained linen, raw micrographs, spectra and explicit mismatch lists. Fanti is already contacted; a later follow-up can address corona experiments. Garlaschelli and independent experimenters offer possible period-technique comparisons. Display replica providers are useful for teaching and referrals, not proof of matching chemistry.
+Do not claim the 2012 and 2019 papers were both fully reviewed solely because their abstracts were read. The Donnet mirrored full paper has now been obtained for targeted reading; identify the particular sections reviewed. The 66-page Di Lazzaro presentation is a separate author source.
+
+TARGETED FULL PAPER REVIEW OF DONNET 2019
+Introduction and discussion/conclusion on printed pages 2163–2165 reviewed after download. Authors report local sponge-like structures interpreted as possible melt/resolidification or polymerization; they do not establish exact coloration depth. Their FTIR/Raman findings do not support significant photo-oxidation under these conditions. The conclusion explicitly leaves full reproduction unresolved. The source image controls the laser scan, so visual similarity is not an independent body-shape reconstruction. Ask for original swatches and any follow-up depth measurements rather than presenting this as a complete Shroud match.

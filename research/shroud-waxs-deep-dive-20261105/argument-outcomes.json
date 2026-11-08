@@ -1,0 +1,21 @@
+{
+  "id": "waxs-deep-dive-20261105",
+  "completed": "2026-11-05",
+  "block_ids": [
+    "10",
+    "11",
+    "12",
+    "13"
+  ],
+  "report": "shroud-waxs-deep-dive-20261105/assessment.txt",
+  "analyst_assessment": {
+    "conditional_ancient_evidence": "retained and quantitatively reproduced",
+    "ordinary_medieval_europe_model": "strong mismatch to measured AP under published assumptions",
+    "general_calendar_reliability_for_unknown_exposure": "not established by located validation",
+    "empirical_ordinary_explanation_of_actual_shroud_AP": "not established",
+    "four_non_anchor_checks": "positive within-study evidence; mean gap40yr, average95%width602.5yr",
+    "screening_limit": "Known modern bleached control passes preliminary R>4 criterion; suitability requires more information."
+  },
+  "new_numerical_tally_assigned": false,
+  "user_concession_inferred": false
+}

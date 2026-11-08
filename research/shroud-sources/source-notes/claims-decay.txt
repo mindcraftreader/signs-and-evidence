@@ -1,0 +1,15 @@
+NOAA, radioactive decay of carbon 14
+========================================================================
+Source ID: CLAIMS-DECAY
+Category: Additional technical sources
+Year: 
+Recorded/reviewed: 2026-10-26
+Source: https://gml.noaa.gov/ccgg/isotopes/decay.html
+
+What it contributes:
+Research source retained from the existing interview claim-and-evidence inventory.
+
+Limits and interpretation:
+See the linked claim inventory for the precise claim, qualification and context.
+
+Access: Link and research note saved

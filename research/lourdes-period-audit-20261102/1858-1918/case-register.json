@@ -1,0 +1,406 @@
+[
+  {
+    "id": "L1858-BOURIETTE",
+    "name": "Louis Bouriette",
+    "official_case_number": 2,
+    "status": "Recognized",
+    "recovery_date": "1858-03,official list; precise day varies in retellings",
+    "recognition_date": "1862-01-18",
+    "period": "1850s",
+    "context": "Lourdes spring water applied to injured eye at home,not necessarily immersion at the shrine.",
+    "evidence": "Official summary describes trauma20years earlier and complete blindness/amaurosis during only the last2years. Bertrin reproduces Dozous retrospective account.",
+    "limitations": [
+      "No original1858pre/post ophthalmic chart obtained.",
+      "Do not turn20-year-old injury into20years of verified complete blindness.",
+      "No histology or proof of regrowth of a destroyed optic nerve obtained."
+    ],
+    "source_ids": [
+      "E05",
+      "E07"
+    ],
+    "access": "C; published retrospective original-doctor account remains retrieval target",
+    "next_record": "Dozous1874original pages and Henri Vergez commission report in Lourdes Documents AuthentiquesV,pp351–361."
+  },
+  {
+    "id": "L1858-CAZENAVE",
+    "name": "Blaisette Cazenave",
+    "official_case_number": 3,
+    "status": "Recognized",
+    "recovery_date": "1858-03",
+    "recognition_date": "1862-01-18",
+    "period": "1850s",
+    "context": "Spring water associated with chronic eye/lid disease.",
+    "evidence": "Official list describes chronic ophthalmia/chemosis with ectropion,an externally observable lesion.",
+    "limitations": [
+      "Original pre/post examinations not retrieved.",
+      "Not regrowth of an absent eye."
+    ],
+    "source_ids": [
+      "E07"
+    ],
+    "access": "C",
+    "next_record": "Vergez commission examinations and original diocesan certificates."
+  },
+  {
+    "id": "L1875-DERUDDER",
+    "name": "Pierre/Pieter De Rudder",
+    "official_case_number": 8,
+    "status": "Recognized",
+    "priority": 1,
+    "recovery_date": "1875-04-07",
+    "recognition_date": "1908-07-25",
+    "period": "1870s",
+    "context": "Pilgrimage and prayer at the Lourdes-replica grotto,Oostakker,Belgium.1899narrative says he drank local fountain water before prayer; official summary says no connection with water from Lourdes. Do not classify as French Lourdes-pool immersion.",
+    "examination_dates": [
+      "1867onward:treatment after accident",
+      "1874/late1874medical exams in1899narrative; later sources dispute number/date",
+      "1875-04-08:Affenaer post-cure examination reported",
+      "1875-04-09:Van Hoestenberghe post-cure examination reported",
+      "1893-01-18/19:Royer investigation",
+      "1899-05-24:exhumation and bone removal",
+      "1899-05/08:Deschamps investigation"
+    ],
+    "publication_dates": [
+      "1875-04-09newspaper andJuly1875Scheerlinck book cited by1899paper; not independently obtained",
+      "1899-10original medical paper actually retrieved",
+      "1922Le Bec medical account and bone plate actually retrieved"
+    ],
+    "physicians": [
+      {
+        "name": "L.Van Hoestenberghe",
+        "background": "Stalhille/Jabbeke physician,coauthor and examiner"
+      },
+      {
+        "name": "E.Royer",
+        "background": "physician at Lens-Saint-Remy/Avennes,1893investigator"
+      },
+      {
+        "name": "Alfred Deschamps",
+        "background": "Jesuit doctor of medicine/natural sciences,1899investigator"
+      },
+      {
+        "name": "Affenaer and Verriest",
+        "background": "treating physicians of Oudenburg/Bruges,accounts transmitted in later documents"
+      }
+    ],
+    "evidence": "1899paper reproduces27April1875neighbors’ attestation of exposed broken ends before pilgrimage and15April1875notables’ statement of recovery; names/date chains and1893/1899reinterviews are explicit. Bone specimens and original-era photographs demonstrate old fracture and later union,with residual deformity. No pre-cure X-ray existed in1867–75.",
+    "limitations": [
+      "Mature healed bones do not independently date the union to7April1875.",
+      "Some crucial observations are later recollections; reproduced1875documents not original signed manuscripts obtained here.",
+      "1899story places examinations in1874/late1874; Deschepper2019says Van Hoestenberghe later admitted onlyone examination in1871. Original rediscovered1875letter and1957edition needed.",
+      "Deschepper2019says8years10months; dates in original1899paper support8years2months.",
+      "Original1875certificate is not a contemporaneous surgeon’s examination immediately before pilgrimage."
+    ],
+    "source_ids": [
+      "E01",
+      "E02",
+      "E07",
+      "E08",
+      "E09"
+    ],
+    "access": "A/B: original-era medical publication and physical-evidence plates; no new examination of bones",
+    "next_record": "Original1875bishop correspondence rediscovered1956; De Meester1957full documentary edition;1875Scheerlinck book; independent orthopedic assessment of surviving specimens."
+  },
+  {
+    "id": "L1878-DEHANT",
+    "name": "Joachime/Joachine Dehant",
+    "official_case_number": 9,
+    "status": "Recognized",
+    "priority": 3,
+    "recovery_date": "1878-09-13official;Le Bec narrative says15September",
+    "recognition_date": "1908-04-25",
+    "period": "1870s",
+    "context": "Two Lourdes baths associated with ulcer closure; further bath associated with foot-position change in official summary.",
+    "examination_dates": [
+      "1878-09-06:Froidebise pre-journey certificate reproduced",
+      "1878-09-19:Froidebise post-journey certificate reproduced",
+      "1893-09/10:16-witness investigation and treating doctor follow-up reported"
+    ],
+    "physicians": [
+      {
+        "name": "Gustave Froidebise",
+        "background": "doctor of medicine at Ohey,province Namur; Le Bec also associates him with Louvain,university post not independently established"
+      },
+      {
+        "name": "Manrique",
+        "background": "treating doctor at Gesves,no independently verified university post"
+      },
+      {
+        "name": "E.Royer",
+        "background": "physician,1893investigator"
+      }
+    ],
+    "evidence": "Le Bec reproduces dated medical certificates of a knee-to-ankle extensive ulcer before and its disappearance afterward; reports16nonfamily witnesses interviewed separately in1893; dimensions32×15cm are narrative claim,not a recovered calibrated photograph.",
+    "limitations": [
+      "13vs15Septemberrecovery discrepancy retained.",
+      "No original signed certificates,pre/post photographs,microbiology or modern lesion classification retrieved.",
+      "Most detailed witness investigation15years later.",
+      "Large ulcer healing is the central claim; exact tissue depth and tendon reconstruction are less directly established."
+    ],
+    "source_ids": [
+      "E02",
+      "E07"
+    ],
+    "access": "A/B: original-era reproduced certificates,not raw clinical file",
+    "next_record": "Original1878certificates; Royer1893full report and1908diocesan file."
+  },
+  {
+    "id": "L1892-LEBRANCHU",
+    "name": "Marie Lebranchu",
+    "official_case_number": 16,
+    "status": "Recognized",
+    "priority": 4,
+    "recovery_date": "1892-08-20",
+    "recognition_date": "1908-06-06",
+    "period": "1890s",
+    "context": "First immersion at Lourdes baths followed by claimed rapid recovery and repeated examinations.",
+    "physicians": [
+      {
+        "name": "Gustave Boissarie",
+        "background": "Lourdes Bureau physician/director"
+      },
+      {
+        "name": "Germain Sée",
+        "background": "professor,Hôtel-Dieu service,as Boissarie identifies"
+      },
+      {
+        "name": "Marquezy",
+        "background": "hospice physician signing certificate quoted by Boissarie"
+      }
+    ],
+    "evidence": "Boissarie1900pp74–79quotes an institutional register describing cavitary pulmonary TB and earlier sputum with characteristic bacilli at Hôtel-Dieu; describes negative post-bath auscultation,serial checks and return in1893. The quoted register is expressly dated22August1893in the scanned page,not a raw1892laboratory report.",
+    "limitations": [
+      "Original laboratory result,culture/smear method and hospital charts not obtained.",
+      "No paired chest X-rays; immediate disappearance of all structural lesions is inferred from clinical examination.",
+      "Zola’s Grivotte is a fictionalized character and must not be treated as the real patient’s follow-up or as an independent clinical record.",
+      "Some Zola quotations are transmitted by his opponent Boissarie."
+    ],
+    "source_ids": [
+      "E03",
+      "E07",
+      "E10"
+    ],
+    "access": "A/B: original-era Bureau director narrative quoting records",
+    "next_record": "Hôtel-Dieu/Franco-Dutch hospital records and bacteriology;original Bureau1892/93entries;Zola’s nonfiction travel notes."
+  },
+  {
+    "id": "L1901-GARGAM",
+    "name": "Gabriel Gargam",
+    "official_case_number": null,
+    "status": "Not in current72recognized list; not thereby rejected",
+    "recovery_date": "1901-08-20",
+    "recognition_date": null,
+    "period": "1900s",
+    "context": "Pilgrimage,bath and later Eucharistic procession/blessing; symptoms and recovery sequence must be separated.",
+    "evidence": "Boissarie’s1909medical narrative and scholarly2012review identify long-standing disability after railway accident and later sustained work at shrine. Court/compensation history is a potentially independent record stream.",
+    "limitations": [
+      "Full original hospital,surgical,neurological and compensation files not retrieved in this pass.",
+      "Do not turn narrative gangrene/paralysis into independently imaged severed spinal cord."
+    ],
+    "source_ids": [
+      "E04",
+      "E10"
+    ],
+    "access": "B/C; targeted passages only this pass",
+    "next_record": "1899accident,hospital and compensation judgments,original1901Bureau examination and contemporary Daily Mail report."
+  },
+  {
+    "id": "L1902-BAILLY",
+    "name": "Marie Bailly",
+    "official_case_number": null,
+    "status": "Not in current72recognized list; not thereby rejected",
+    "recovery_date": "1902,precise day remains to check against original report",
+    "recognition_date": null,
+    "period": "1900s",
+    "context": "Water applications/pilgrimage associated with severe abdominal illness; distinguish later Carrel memoir from1902documentation.",
+    "evidence": "Boissarie1909andBertrin1909entries,plus modern scholarly review,identify the case and medical witnesses. Existing Bertrin OCR presents conflicting May dates in adjacent narrative/certificate; not normalized here.",
+    "limitations": [
+      "No original pathology-confirmed peritoneal TB diagnosis or complete1902medical report obtained.",
+      "Alexis Carrel’s later Nobel Prize supplies no missing diagnostic evidence."
+    ],
+    "source_ids": [
+      "E04",
+      "E05",
+      "E10"
+    ],
+    "access": "B/C; source-discovery and targeted excerpt scope",
+    "next_record": "Carrel’s actual1902notes/correspondence and contemporaneous physician statements,not solely posthumous memoir."
+  },
+  {
+    "id": "L1907-BOREL",
+    "name": "Marie Borel",
+    "official_case_number": 35,
+    "status": "Recognized",
+    "priority": 2,
+    "recovery_date": "1907-08-21/22",
+    "recognition_date": "1911-06-04",
+    "period": "1900s",
+    "context": "Lourdes pilgrimage17Augustonward; four outlets reportedly closed between dressings21August; remainingtwo closure noticed afterbath22August. Not all six visibly watched closing during one immersion.",
+    "examination_dates": [
+      "1903:initialMontpellier operation",
+      "1904:Bardol exploration atMende",
+      "1907-08-17to22:nurse dressing observations",
+      "1907-08-22:Desplats/Sablé or Guinier examinations in1910account",
+      "1907-08-23:Desplats/Sablé examination inLe Bec1922",
+      "1907-10-15:Bardol letter",
+      "1908-08-20:Guinier repeat examination",
+      "1910-08:three-year follow-up inLe Bec"
+    ],
+    "physicians": [
+      {
+        "name": "Henri Guinier",
+        "background": "former agrégé libre,Faculty of Medicine,Montpellier,as identified byThurston1910; firsthand post-cure examiner"
+      },
+      {
+        "name": "Henri Desplats",
+        "background": "cited clinical examiner; credentials require direct obituary confirmation, not newly verified here"
+      },
+      {
+        "name": "Bardol",
+        "background": "treating surgeon/physician,hospitalMende; personally operated/explored patient"
+      },
+      {
+        "name": "Sablé",
+        "background": "physician and later certifier; institutional appointment not independently established"
+      },
+      {
+        "name": "Édouard Le Bec",
+        "background": "honorary surgeon,StJoseph’sHospitalParis;medical author"
+      }
+    ],
+    "evidence": "Le Bec175–180reproduces detailed bowel-discharge/dressing chronology and actual photographs captioned22August1907of closed sites. BMJ1910p470reproduces treating-doctor Bardol15October1907letter and Guinier’s1909firsthand account of1907/1908examinations. These substantiate more than a modern shrine summary.",
+    "limitations": [
+      "Original1903operation record was unavailable even toLe Bec.",
+      "TB was suspected from clinical course/family history,not proved by a recovered microbiological/histological result.",
+      "Six skin outlets do not themselves establish six independent perforations of bowel; Le Bec describes communicating fistulae.",
+      "Le Bec p177states two sites lacked complete epidermis on23Augustand finished skin coverage days later; this is not instant restoration of intact skin everywhere.",
+      "Examination22vs23Augustdiscrepancy retained.",
+      "Public before-photograph and original signed certificates not recovered.",
+      "CurrentItalianofficialnarrative has an apparent1919for1907typo."
+    ],
+    "comparator": {
+      "source_id": "E11",
+      "finding": "Maastricht prospective79patient cohort:23spontaneous closures,median39days(range7–163),with sepsis/nutrition/wound care.",
+      "meaning": "Establishes possibility of ordinary fistula closure and relevant management factors; does not reproduce the claimed overnight chronicmulti-outlet course,or justify a numerical miracle probability."
+    },
+    "source_ids": [
+      "E02",
+      "E06",
+      "E07",
+      "E11"
+    ],
+    "access": "A/B: original-era published physician testimony,dated clinical chronology and post-closure photographs",
+    "next_record": "Full1907Bureaufile;Bardol original certificate;Guinier Études5December1909p595;originaloperation/tract anatomy,nurse notes and treatment/diet timeline."
+  },
+  {
+    "id": "L1908-BIRE",
+    "name": "Marie Biré née Lucas",
+    "official_case_number": 37,
+    "status": "Recognized",
+    "recovery_date": "1908-08-05",
+    "recognition_date": "1910-07-30",
+    "period": "1900s",
+    "context": "Sight reportedly returned afterMassatLourdesgrotto,not a bath.",
+    "evidence": "Official summary describes same-day ophthalmic examination,small-print reading despite residualpapillarypallor and laterresolution.",
+    "limitations": [
+      "Originalnamed-ophthalmologist reports and fundus findings not recovered;currentaccessremains summary.",
+      "Do not claim proven completeopticnerve destruction/regrowth or equate retinalpallor with its measuredmechanism."
+    ],
+    "source_ids": [
+      "E07"
+    ],
+    "access": "C",
+    "next_record": "1908Bureauregister,oculistletters,Luçon1910canonicalfile and serialvisual-acuity/fundus records."
+  },
+  {
+    "id": "L1908-DURAND",
+    "name": "Gabrielle Durand",
+    "official_case_number": null,
+    "status": "Not in current72recognized list; not thereby rejected",
+    "recovery_date": "1908-08,day not established here",
+    "recognition_date": null,
+    "period": "1900s",
+    "context": "Prior unsuccessfulLourdespilgrimage1907; subsequentLourdesbath1908associated with claimedrecovery.",
+    "physicians": [
+      {
+        "name": "Édouard Le Bec",
+        "background": "treatingsurgeon,StJoseph’sHospitalParis; reports1907careand1916operation"
+      }
+    ],
+    "evidence": "Le Bec140–146givesownclinicalhistory,aspirationofhalf-litreabscesscontent,plastercorset,multipleclinicallydiagnosedTBlocations;reproduceslaterchestradiographanddescribes1916appendicitisoperationwithnormalperitoneum.",
+    "limitations": [
+      "Nooriginaladmissionchart,bacteriology,histologyorpretreatmentradiographretrieved.",
+      "Laternormalperitoneumorhealedradiographiccavitiesconfirmresolution,notaloneitsinstantaneous1908timing.",
+      "TBmeningitisdiagnosisandextentneedindependentrecordcheck."
+    ],
+    "source_ids": [
+      "E02"
+    ],
+    "access": "B:firsthandtreating-doctornarrativewithlaterimage",
+    "next_record": "StJosephhospital1906–08/1916charts,originalradiographandbacteriology;Bureaudailyobservations."
+  },
+  {
+    "id": "L1909-VERZIER",
+    "name": "Marguerite/Margaret Verzier",
+    "official_case_number": null,
+    "status": "Not in current72recognized list; not thereby rejected",
+    "recovery_date": "1909-07-09",
+    "recognition_date": null,
+    "period": "1900s",
+    "context": "Prayer/communioninvokingOurLadyofLourdesatLaTeppe(Drome),notphysicalLourdeswater/baths.",
+    "physicians": [
+      {
+        "name": "Jean Tournaire",
+        "background": "doctorofmedicine,FacultyofLyon;treatingphysicianatTain"
+      },
+      {
+        "name": "Eugène Vincent",
+        "background": "professor,FacultyofLyon,formerseniorsurgeonCharité;1911examiner"
+      }
+    ],
+    "evidence": "Le Bec131–140reproducesTournaire24July1909certificateof7Julyabnormalmobilityand9Julywalkingwithassistanceandapparentconsolidation;Vincent11November1911examinationandlaterX-ray;1915follow-up.",
+    "limitations": [
+      "OriginalbeforeX-raynotobtained;laterimageconfirmsunionnotprecisetime.",
+      "Vincentexplicitlysaysnotaninstantfresh-fracturecure:injurywas3monthsold,adelayedunioncase.",
+      "Residualshorteningabout2.5cmanddeformitypersisted.",
+      "Sourceadmitsuncertaintyaboutpalpatedperiostealthickeningbeforecure.",
+      "Notashrine-associatedrecoveryforthestrongpoolhypothesis."
+    ],
+    "source_ids": [
+      "E02"
+    ],
+    "access": "A/B:reproduceddatedtreatingphysiciancertificateandlaterfilm",
+    "next_record": "Tournaireoriginalnotes/measurements7and9July,firstpublication,VincentfullreportanddatedX-ray."
+  },
+  {
+    "id": "L1910-BOOTHMAN",
+    "name": "Joseph Duncan Boothman",
+    "official_case_number": null,
+    "status": "Not in current72recognized list; not thereby rejected",
+    "recovery_date": "1910-05-22",
+    "recognition_date": null,
+    "period": "1910s",
+    "context": "YoungpersonatHomeofOurLadyofLourdes,Dover,duringMass/elevation;notFrenchLourdesbaths.",
+    "physicians": [
+      {
+        "name": "Richard Lake",
+        "background": "HarleyStsurgeon,London,as1910letteridentifies"
+      },
+      {
+        "name": "C.F.Murphy",
+        "background": "F.R.C.S.,Dover,post-eventexaminer"
+      }
+    ],
+    "evidence": "ThurstonBMJp471reproduces12May1910surgeonletterdescribingdrumdestruction/chronicdischarge,thenMurphy2June1910letterreporting24Mayexamwithdryear/perfecthearing;patientfatherE.DuncanBoothmanM.A.Cantabprovidesnarrative.",
+    "limitations": [
+      "Nopre/postotoscopicphotographs,audiometryorfullmedicalfile.",
+      "Strongstatementaboutinstanteardrumreconstitutionnotdirectlymeasuredattheclaimedmoment.",
+      "Noordinarycauseadjudicated;notintheshrinepoolcategory."
+    ],
+    "source_ids": [
+      "E06"
+    ],
+    "access": "A:original1910publicationreproducingletters",
+    "next_record": "OriginalLake/Murphychartsandotoscopicfindings;TheTablet4June1910,possiblyfirstpublicaccount."
+  }
+]

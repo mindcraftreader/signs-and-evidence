@@ -1,0 +1,178 @@
+ZEITOUN, APRIL 30, 1968
+One-pane Pepper's Ghost audit, 7 November 2026
+
+FINDING
+A flat reflector can give several observers a moving, human-sized virtual
+image with ordinary parallax. The difficulty at Zeitoun is placing the lit
+source and the pane so the light can reach the witnesses without exposing the
+source. The modeled original roof provided no such path in the tested cases.
+I withdraw the one-pane challenge as presented. The result is conditional
+on the site model and the recovered witness locations.
+
+WITNESSES AND LOCATIONS
+02:45, Bishop Athanasius: outside with the crowds. The May 7 Al-Gomhouria
+interview, preserved in an Arabic excerpt and translation, has him losing
+and regaining sight as the crowd pushed him away and back. At 04:00–05:00
+he watched from the garden of a house west of the church. The house is
+unnamed. This is the best localized position for this episode. The original
+May 7 page was not recovered here. The account's 02:45 and 04:00–05:00
+sequence matches the committee booklet. In the Gregorios compilation, the
+bishop describes a life-size form above the domes, between the central and
+southern domes, moving, turning west and gesturing. The description does not
+measure height, travel or bearing. His May 5 Al-Gomhuria account describes
+the full form and movement, along with a luminous mist and two doves.
+
+02:45, Major Asaad Iskandar: among the crowd. Watani prints his description
+of a full figure moving and turning toward crowds around the church. This
+is evidence of the crowd's distribution and his reading of the gesture. It
+does not place him or other named observers at different surveyed bearings.
+
+02:45, Seti and Makram Shenouda: near the church, no precise position given.
+Their father Zaki reported in Watani that they saw the form between the two
+rear domes for about two hours. The Arabic transcript explicitly says
+القبتين الخلفيتين, the two rear domes. Their father's own sighting from a
+side street was April 28. Two possible rear roof edges were tested as
+alternative image locations because 'rear' does not identify a compass edge.
+
+About 03:00, Louis Marcos: at the church, position unpinned. Watani reports
+he described a luminous form at the press conference and had submitted a
+written testimony. The original written account was not recovered here.
+
+Dawn to 05:00, Dr. Sobhi Farid Shawqi: position unpinned. The Gregorios
+compilation has him describing a white cloud above the figure. This is
+supporting evidence about the same morning and is outside the body ray test.
+
+Jerome Palmer's 1969 interview has a different vantage, a little building
+south of the church, and puts the form five or six metres above the central
+dome. The bishop's own narrative begins April 6, despite the archival
+page's April 29–30 introduction. April 6/7 is also Dumsday's reading.
+The southern office and the extra five or six metres are excluded from the
+April 30 reconstruction. The separately reported April 30 evening cross
+is likewise kept separate.
+
+CHURCH AND RAY TRACE
+The parish lists five domes, 17 m and 12 m summit heights, and a 250 m²
+church. The digitized roof parapet is roughly 19 by 12.5 m (about 237 m²).
+It is the small apparition church west of Toman Bay, separate from the
+larger cathedral on the former garage plot. Coordinates come from manual
+digitization of a 190 x 190 pixel crop of the archived Esri image,
+enlarged to 950 x 950 for tracing. Crop upper left is (901, 898) of the
+2000 x 2000 image, with the original geographic extent in the same archive.
+Perspective and the roof edge limit the precision. The OSM church polygon
+is much larger than the parapet. The 6 May Al-Ahram map fixes the 1968
+street/garage topology and has no usable scale. The west garden is a sector.
+All eye coordinates in the code are hypotheses at 1.65 m above ground.
+The street and garage samples are comparisons, not dated April 30 stations.
+
+Feet heights of 12.5, 15 and 17 m bracket scenarios based on the dome
+heights. The nominal deck is 8.5 m. An alternate test uses 10 m, extends
+the roof polygon by 2 m at every edge and increases the ceiling opening's
+radius from 2.5 to 3.2 m. These are modeling choices, not surveyed dimensions.
+The four small cupolas are floored at the church ceiling according to the
+parish. The main dome communicates with the nave. The Gregorios compilation
+describes fixed colored glazing. For the under-deck light path, the model
+gives the central drum fully open sides and retains the opaque dome caps.
+For the elevated performer the same model asks whether the caps or wall
+can hide the source from the viewers. It does not reconstruct the actual
+columns, window mullions or undocumented scenery.
+
+For every pane, the real source A is the mirror reflection of the virtual
+body I in the plane n·x = d. A = I − 2(n·I − d)n. Eye E and source A must
+be on the same side of the pane, across from I. The line E–I must hit a
+finite reflecting patch in the allowed plan. The source ray A–patch and
+viewer's ray patch–E must both clear masonry. The grid covers all azimuths
+in 3° steps, mirror normal elevations in 1° steps and perpendicular
+image-to-pane distances from 0.15 to 24.9 m in 0.15 m steps. The body is a
+1.7 x 0.9 x 0.7 m envelope. This gives a compact image without fully
+extended arms and allows a tilted or reclining source. The movement check
+uses two endpoints 3 m apart westward as a sensitivity case, not measured
+travel. Grid counts are neither probabilities nor a continuous proof.
+Patch dimensions describe the range of required ray intersections along
+two pane axes. They omit the frame and clearance.
+
+RESULTS
+West garden alone, central–south image, 17 m feet, nominal deck.
+One representative station about 22 m west has 772 sampled configurations
+with the pane and source in plan, the source below the deck, and a clear
+eye-to-pane path. Of those where the source rays also avoid the caps, the
+best requires at least a 7.81 m radius from the central drum axis to admit
+all source rays through the ceiling. That is far larger than the central
+opening. In the illustrated example the body center is at 4.2 m, the
+reflecting point at about 10.0 m, and the central source ray strikes the
+roof 7.0 m from the axis. The roughly 1.9 x 0.55 m patch in this example
+shows why pane size by itself is insufficient to rule the trick out.
+Varying the western bearings and using the expanded roof produced a more
+favorable case at a modeled southwest station with 17 m feet. It still
+required a 3.65 m central opening radius with all drum sides open, compared
+with the generous modeled 3.2 m. This sensitivity is why the result cannot
+be promoted into a surveyed impossibility for every spot in the garden.
+
+Toman Bay alone.
+From the central street sample with a nominal 15 m target, several tilted
+panes fit the footprint and clear the eye path. Even the best surviving
+source-ray trace needs roof passage as far as 8.66 m from the axis.
+The enlarged geometry permits a single pane for three street/garage
+positions in the geometric screen, but none has a clear under-deck
+source path. A separate rooftop-source pass did not find a source hidden
+by the modeled masonry while retaining the required light paths.
+
+West garden plus Toman Bay/garage as a conditional simultaneous test.
+No under-deck one-pane fit even in the geometric screen at 15 or 17 m
+feet for the central–south target, even using the widened plan. At 12.5 m,
+30 candidates pass the widened geometric screen but fail the masonry test.
+Roof-level source trials do not pass the full test either. The alternate
+rear-roof targets at 12.5 m also give no working path in the under-deck
+model. These checks do not assert an April 30 observer at a specific
+garage position at 04:00–05:00.
+
+A horizontal reflector can in principle serve viewers on opposing sides.
+As an illustration, at height 11 m with feet at 15 m, the reflected source
+would occupy about 5.3–7.0 m height upside down. The same three west/street/
+garage eyes would require ray hits spread over about 24.8 m east–west and
+12.6 m north–south, with the farthest ray hitting about 6.4 m east of the
+roof's easternmost point. This is an example, not a universal screen-size
+minimum. A nearly vertical pane can reduce some offsets but makes it harder
+to hide a human source high above the ground. Moving the apparatus outside
+the roof, adding a masking stage or using multiple reflectors changes the
+tested setup. No evidence of such an installation was recovered.
+
+INDEPENDENT SITE CHECK
+In its May 6 issue Al-Gomhuria reported climbing onto the church and
+inspecting the five domes, with two bells mentioned and otherwise empty
+interiors. This is evidence from a different day, not a contemporaneous
+equipment inventory for the April 30 appearance. It gives a proposed
+temporary apparatus a further historical burden without substituting for
+the geometry.
+
+SOURCES AND REPRODUCTION
+Watani, May 5, 1968, pp. 2 and 5 and original Arabic material
+https://ourladyofzeitoun.com/en/newspaper/watani-newspaper-may-5-1968/
+../zeitoun-arabic-press-reconstruction-20261028/sources/page-77fa4a24ce83.txt
+../zeitoun-motion-footage-20261101/april-30-reconstruction.txt
+Al-Gomhouria, May 7, 1968, surviving excerpt in Arabic and English
+https://ourladyofzeitoun.com/ar/skeptic/هوية-طيف-قباب-الزيتون/
+https://ourladyofzeitoun.com/en/skeptic/the-identity-of-the-apparition-over-the-zeitoun-domes/
+Al-Gomhuria, May 5 and May 6, 1968
+https://ourladyofzeitoun.com/en/newspaper/al-gomhuria-may-5-1968/
+https://ourladyofzeitoun.com/en/newspaper/al-gomhuria-may-6-1968/
+Committee booklet and Gregorios compilation
+https://ourladyofzeitoun.com/en/report/st-marys-apparitions/
+https://ourladyofzeitoun.com/en/report/scenes-of-the-apparition/
+../zeitoun-independence-audit-20261027/sources/scenes.txt
+Palmer interview and Dumsday's discussion
+https://ourladyofzeitoun.com/en/eyewitness/h-g-bp-athanasius-the-late-mertopolite-of-beni-suef/
+https://svspress.com/the-marian-apparitions-at-zeitoun-an-evidential-inquiry/
+Parish dimensions, church photo and modern aerial
+https://www.stmaryztn.org/saintmary/en/the-church/about-the-church
+https://commons.wikimedia.org/wiki/File:Virgin_Mary_Church_at_Zeitoun.jpg
+../zeitoun-crowd-estimate-20261027/sources/esri-neighborhood.jpg
+Al-Ahram, May 6, 1968, map
+https://ourladyofzeitoun.com/en/newspaper/al-ahram-newspaper-may-6-1968/
+../zeitoun-crowd-estimate-20261027/ahram-traffic-map-crop.png
+Dircks and Pepper's 1863 patent, reproduced by Pepper in 1890
+https://classic-literature.net/john-henry-pepper-1821-1900/the-true-history-of-the-ghost-and-all-about-metempsychosis/
+
+Run trace.py with the argument base, west or sensitivity to reproduce the
+three result files using Python 3 and NumPy. The draw.py script uses Matplotlib to
+generate the plan and illustrated cross-section. The results do not include
+photometry or recover any optical apparatus from 1968.

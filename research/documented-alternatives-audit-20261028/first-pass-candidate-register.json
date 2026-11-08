@@ -1,0 +1,59 @@
+{
+  "date": "2026-10-28",
+  "assessment": "Six candidate lines, not six adequately supported core defeaters. Goal remains active.",
+  "tally": {
+    "Daniel": 4,
+    "assistant": 0,
+    "changed": false
+  },
+  "candidates": [
+    {
+      "id": "DA-F1",
+      "event": "Fatima",
+      "title": "Coelho repeat observation",
+      "target": "Solar colors and rotation identify an extraordinary external event",
+      "status": "substantive bounded challenge",
+      "limit": "Does not reproduce or explain the whole event."
+    },
+    {
+      "id": "DA-Z1",
+      "event": "Zeitoun",
+      "title": "Paired observers in original Arabic press",
+      "target": "Reported human form was equally recognizable independently of observer",
+      "status": "substantive bounded challenge",
+      "limit": "Unnamed indirect report; Daniel does not require uniform experience."
+    },
+    {
+      "id": "DA-P1",
+      "event": "Padre Pio",
+      "title": "Chemical maintenance and dressing controls",
+      "target": "Medical observations exclude chemical maintenance",
+      "status": "open causal hypothesis",
+      "limit": "Control testimony and full course remain unanswered; extends P-02."
+    },
+    {
+      "id": "DA-P2",
+      "event": "Padre Pio",
+      "title": "Olfactory adaptation and suggestion",
+      "target": "Intermittent/selective fragrance excludes ordinary odor or perception",
+      "status": "bounded mechanism challenge",
+      "limit": "Unexpected transported-object reports remain important counterevidence."
+    },
+    {
+      "id": "DA-F2",
+      "event": "Fatima",
+      "title": "Distant-report geometry",
+      "target": "Regional reports triangulate a local light source over the Cova",
+      "status": "inference qualification",
+      "limit": "Does not defeat regional observations or reopen closed F-02."
+    },
+    {
+      "id": "DA-P3",
+      "event": "Padre Pio",
+      "title": "Borrowed descriptions of divine speech",
+      "target": "Some self-reports independently establish personal supernatural communication",
+      "status": "documented peripheral source challenge",
+      "limit": "Does not explain observed wounds; not a sixth core defeater."
+    }
+  ]
+}

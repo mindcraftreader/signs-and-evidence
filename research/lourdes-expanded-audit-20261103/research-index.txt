@@ -1,0 +1,40 @@
+LOURDES EXPANDED MEDICAL AUDIT — 3 NOVEMBER 2026
+
+User requested deeper understanding of numerous healings across the decades. Three agents are deepening the existing primary-source library. This pass should add case-specific observations and records; another summary of an already reviewed document is not new independent evidence.
+
+Assigned recovery periods:
+1858–1918: early sources, eye/limb recovery, selected1880s/1890s/1900s/1910s cases.
+1919–1959: selected cases spanning1920s,1930s,1940s and1950s; new dossiers beyond Traynor.
+1960–present: selected1960s/1970s/1980s/2000s cases; modern investigations and dissent.
+
+COMPLETED:21 selected dossiers, seven per period, supplementing the earlier Lourdes library. Status: all three period reports and case registers received. This does not mean21newly acquired complete original clinical files or a new examination of all72recognized cases. Several modern dossiers deepen and standardize records already held.
+
+Start with case-index.txt for a readable overview. combined-cases.json preserves the full common-field dossiers. parent-verification.txt records the exact Bigot and Perrin pages independently inspected by the parent agent. validation.json checks register structure and unique case names, not medical validity.
+
+Every dossier should identify:
+1. Original diagnosis and its supporting tests, including uncertainty.
+2. Previous surgery, drugs and other treatment with dates when available.
+3. What changed, how quickly, and what measurements/images support it.
+4. Named examining doctors, actual role, credentials and verified institutional background.
+5. Follow-up, recurrence, residual disability and dissent where documented.
+6. Exact connection to Lourdes: baths, water at home, procession, pilgrimage, distant prayer or replica shrine.
+7. Source type: original chart/film, original-era published physician observation, reproduced medical document, later investigator assessment, official summary or testimonial.
+8. Strongest documented objection and whether any response resolves it.
+
+One recognized cure is not automatically equivalent in evidential quality to another. A source's religious or skeptical stance does not substitute for examination of its records. No complete original clinical chart is inferred from a published summary. No ordinary mechanism is treated as established merely because conceivable; no supernatural mechanism is treated as medically proven merely because an ordinary cause is not demonstrated.
+
+Baseline roster: baseline-roster.json. Seventy-two recognized cases are inherited from the official summary screening. These are not all reported cures or all medically investigated cases. Recovery dates and recognition dates are separate. The English generic shrine page still says70and is stale relative to its current72-case roster/Raco2025page. Allope's omitted recoveryyear was corrected to28May1909 from the current official French list; recognition was5August1910.
+
+The inherited recognized roster contains no recovery dated in the1860s,1990s,2010s or2020s. This means no such entry in that roster, not proof no healing happened in those decades. Later recognition of a much earlier recovery must not fill an empty recovery decade.
+
+Prior library:
+../lourdes-medical-audit-20261101/
+../lourdes-period-audit-20261102/
+../lourdes-post1950-shortlist-20261102/
+
+Output:
+1858-1918/report.txt,cases.json,source-register.json
+1919-1959/report.txt,cases.json,source-register.json
+1960-present/report.txt,cases.json,source-register.json
+
+No email, purchase, library credential action or debate-tally mutation authorized by this dispatch.

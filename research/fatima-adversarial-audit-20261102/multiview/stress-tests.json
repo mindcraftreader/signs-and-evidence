@@ -1,0 +1,571 @@
+{
+  "scope": "Descriptive stress test only: bootstrap correspondence resampling plus assumed0.5px Gaussian coordinate perturbations, and assumed ±30px optical-center alternatives. Neither range is an established error model for these historical scans.",
+  "source_pair": "D110 / D111; 26 potential background correspondences in a narrow ~45px-high band",
+  "focal_min": 12.438870122749869,
+  "focal_max": 55.941947925855416,
+  "focal_percentiles": [
+    14.355517970646167,
+    29.84463044692003,
+    53.35689893960535
+  ],
+  "boundary_hits": 0,
+  "samples": [
+    {
+      "sample": 0,
+      "equiv_mm": 15.230895330557187,
+      "rotation_spread": 0.2719353287520591
+    },
+    {
+      "sample": 1,
+      "equiv_mm": 27.667760457278895,
+      "rotation_spread": 0.1435782850256777
+    },
+    {
+      "sample": 2,
+      "equiv_mm": 21.146370595426564,
+      "rotation_spread": 0.1913675498763251
+    },
+    {
+      "sample": 3,
+      "equiv_mm": 54.416561599968354,
+      "rotation_spread": 0.029847285241064118
+    },
+    {
+      "sample": 4,
+      "equiv_mm": 50.66885218408096,
+      "rotation_spread": 0.0257176933571403
+    },
+    {
+      "sample": 5,
+      "equiv_mm": 28.476998275406586,
+      "rotation_spread": 0.022506976419505505
+    },
+    {
+      "sample": 6,
+      "equiv_mm": 41.793928910407885,
+      "rotation_spread": 0.08672820263975044
+    },
+    {
+      "sample": 7,
+      "equiv_mm": 31.188264988874884,
+      "rotation_spread": 0.12542826239656601
+    },
+    {
+      "sample": 8,
+      "equiv_mm": 27.565399391110173,
+      "rotation_spread": 0.1441798093183487
+    },
+    {
+      "sample": 9,
+      "equiv_mm": 12.438870122749869,
+      "rotation_spread": 0.14725856384350589
+    },
+    {
+      "sample": 10,
+      "equiv_mm": 14.009788074161982,
+      "rotation_spread": 0.1204232652669991
+    },
+    {
+      "sample": 11,
+      "equiv_mm": 21.455166969694485,
+      "rotation_spread": 0.18821950603969856
+    },
+    {
+      "sample": 12,
+      "equiv_mm": 33.75591610944309,
+      "rotation_spread": 0.01814493659504002
+    },
+    {
+      "sample": 13,
+      "equiv_mm": 55.03520686705499,
+      "rotation_spread": 0.028353491864580582
+    },
+    {
+      "sample": 14,
+      "equiv_mm": 43.17736929758784,
+      "rotation_spread": 0.0824006907284613
+    },
+    {
+      "sample": 15,
+      "equiv_mm": 14.364485169709575,
+      "rotation_spread": 0.10671769832576129
+    },
+    {
+      "sample": 16,
+      "equiv_mm": 29.004586099653107,
+      "rotation_spread": 0.028654850468646003
+    },
+    {
+      "sample": 17,
+      "equiv_mm": 36.911270620764355,
+      "rotation_spread": 0.1031475533546121
+    },
+    {
+      "sample": 18,
+      "equiv_mm": 22.265259154001768,
+      "rotation_spread": 0.043570016318903726
+    },
+    {
+      "sample": 19,
+      "equiv_mm": 53.340969085574805,
+      "rotation_spread": 0.04951427810768119
+    },
+    {
+      "sample": 20,
+      "equiv_mm": 20.824586490335083,
+      "rotation_spread": 0.05483094226720166
+    },
+    {
+      "sample": 21,
+      "equiv_mm": 30.258204046913633,
+      "rotation_spread": 0.03212246087750659
+    },
+    {
+      "sample": 22,
+      "equiv_mm": 13.41344079997305,
+      "rotation_spread": 0.13131366161066865
+    },
+    {
+      "sample": 23,
+      "equiv_mm": 28.738857163875657,
+      "rotation_spread": 0.03277791994461973
+    },
+    {
+      "sample": 24,
+      "equiv_mm": 32.6582308730159,
+      "rotation_spread": 0.11930159323735796
+    },
+    {
+      "sample": 25,
+      "equiv_mm": 16.289069576425927,
+      "rotation_spread": 0.07458381701867632
+    },
+    {
+      "sample": 26,
+      "equiv_mm": 29.502108278752363,
+      "rotation_spread": 0.13417441154743856
+    },
+    {
+      "sample": 27,
+      "equiv_mm": 30.487999507572933,
+      "rotation_spread": 0.12896934247305597
+    },
+    {
+      "sample": 28,
+      "equiv_mm": 28.624023665553953,
+      "rotation_spread": 0.1373226468908861
+    },
+    {
+      "sample": 29,
+      "equiv_mm": 48.74718489630921,
+      "rotation_spread": 0.022248351495502607
+    },
+    {
+      "sample": 30,
+      "equiv_mm": 43.658539752312464,
+      "rotation_spread": 0.07988187829494037
+    },
+    {
+      "sample": 31,
+      "equiv_mm": 26.250475708759428,
+      "rotation_spread": 0.15254308708339576
+    },
+    {
+      "sample": 32,
+      "equiv_mm": 41.051779680942396,
+      "rotation_spread": 0.08824279188541173
+    },
+    {
+      "sample": 33,
+      "equiv_mm": 18.01458799706578,
+      "rotation_spread": 0.08053650712384576
+    },
+    {
+      "sample": 34,
+      "equiv_mm": 49.22439730764043,
+      "rotation_spread": 0.020948901826694157
+    },
+    {
+      "sample": 35,
+      "equiv_mm": 31.954866276460123,
+      "rotation_spread": 0.028676298741470346
+    },
+    {
+      "sample": 36,
+      "equiv_mm": 15.318300895696355,
+      "rotation_spread": 0.09467158140299237
+    },
+    {
+      "sample": 37,
+      "equiv_mm": 51.73498853914412,
+      "rotation_spread": 0.058237345798263083
+    },
+    {
+      "sample": 38,
+      "equiv_mm": 14.646414854262394,
+      "rotation_spread": 0.1044298613497245
+    },
+    {
+      "sample": 39,
+      "equiv_mm": 23.02690446075656,
+      "rotation_spread": 0.17592809817544092
+    },
+    {
+      "sample": 40,
+      "equiv_mm": 47.79540407734929,
+      "rotation_spread": 0.012941508722628727
+    },
+    {
+      "sample": 41,
+      "equiv_mm": 33.8020189482483,
+      "rotation_spread": 0.014510977365737874
+    },
+    {
+      "sample": 42,
+      "equiv_mm": 42.02433091354126,
+      "rotation_spread": 0.08656205335042652
+    },
+    {
+      "sample": 43,
+      "equiv_mm": 37.199556375203095,
+      "rotation_spread": 0.01700304892256785
+    },
+    {
+      "sample": 44,
+      "equiv_mm": 35.740194325047334,
+      "rotation_spread": 0.10603014699836898
+    },
+    {
+      "sample": 45,
+      "equiv_mm": 14.185141188441436,
+      "rotation_spread": 0.09872971714538636
+    },
+    {
+      "sample": 46,
+      "equiv_mm": 16.382713792706337,
+      "rotation_spread": 0.08806333803873131
+    },
+    {
+      "sample": 47,
+      "equiv_mm": 19.858230101031438,
+      "rotation_spread": 0.06416124495433977
+    },
+    {
+      "sample": 48,
+      "equiv_mm": 31.34788352629933,
+      "rotation_spread": 0.12584845177359089
+    },
+    {
+      "sample": 49,
+      "equiv_mm": 53.65956616618577,
+      "rotation_spread": 0.05078353233721542
+    },
+    {
+      "sample": 50,
+      "equiv_mm": 22.30081423892915,
+      "rotation_spread": 0.1812292863236521
+    },
+    {
+      "sample": 51,
+      "equiv_mm": 54.655790299227924,
+      "rotation_spread": 0.03463780353940333
+    },
+    {
+      "sample": 52,
+      "equiv_mm": 17.89890648707091,
+      "rotation_spread": 0.07568613743806572
+    },
+    {
+      "sample": 53,
+      "equiv_mm": 47.93085725650188,
+      "rotation_spread": 0.0686954077467066
+    },
+    {
+      "sample": 54,
+      "equiv_mm": 53.01507706946832,
+      "rotation_spread": 0.04105126248771437
+    },
+    {
+      "sample": 55,
+      "equiv_mm": 16.608073066956763,
+      "rotation_spread": 0.0869980119066363
+    },
+    {
+      "sample": 56,
+      "equiv_mm": 27.63428644784797,
+      "rotation_spread": 0.14449812435257464
+    },
+    {
+      "sample": 57,
+      "equiv_mm": 20.934271470433856,
+      "rotation_spread": 0.05077263858047485
+    },
+    {
+      "sample": 58,
+      "equiv_mm": 31.60242914883227,
+      "rotation_spread": 0.017663288069857255
+    },
+    {
+      "sample": 59,
+      "equiv_mm": 12.630924546824028,
+      "rotation_spread": 0.15348044062953628
+    },
+    {
+      "sample": 60,
+      "equiv_mm": 35.348318780422154,
+      "rotation_spread": 0.10954012932685607
+    },
+    {
+      "sample": 61,
+      "equiv_mm": 34.982841374944634,
+      "rotation_spread": 0.10856070624309644
+    },
+    {
+      "sample": 62,
+      "equiv_mm": 51.18479970747624,
+      "rotation_spread": 0.05810991309075804
+    },
+    {
+      "sample": 63,
+      "equiv_mm": 40.31270391165872,
+      "rotation_spread": 0.0917387207633817
+    },
+    {
+      "sample": 64,
+      "equiv_mm": 48.759251079960734,
+      "rotation_spread": 0.0645118401691277
+    },
+    {
+      "sample": 65,
+      "equiv_mm": 33.20539310287768,
+      "rotation_spread": 0.11587900682515337
+    },
+    {
+      "sample": 66,
+      "equiv_mm": 51.50650700143306,
+      "rotation_spread": 0.05919102044145675
+    },
+    {
+      "sample": 67,
+      "equiv_mm": 27.114891846503195,
+      "rotation_spread": 0.14583756368358855
+    },
+    {
+      "sample": 68,
+      "equiv_mm": 20.308835556462174,
+      "rotation_spread": 0.06083890202222989
+    },
+    {
+      "sample": 69,
+      "equiv_mm": 30.18715261508769,
+      "rotation_spread": 0.026208655588396086
+    },
+    {
+      "sample": 70,
+      "equiv_mm": 16.752181300552056,
+      "rotation_spread": 0.11119918406257634
+    },
+    {
+      "sample": 71,
+      "equiv_mm": 36.6157618956252,
+      "rotation_spread": 0.01897782157567488
+    },
+    {
+      "sample": 72,
+      "equiv_mm": 27.113862428503097,
+      "rotation_spread": 0.03558563315453935
+    },
+    {
+      "sample": 73,
+      "equiv_mm": 14.567095765407236,
+      "rotation_spread": 0.09664141890130792
+    },
+    {
+      "sample": 74,
+      "equiv_mm": 32.56186899663218,
+      "rotation_spread": 0.01789065501165591
+    },
+    {
+      "sample": 75,
+      "equiv_mm": 27.41942069247522,
+      "rotation_spread": 0.1448097511435869
+    },
+    {
+      "sample": 76,
+      "equiv_mm": 55.941947925855416,
+      "rotation_spread": 0.029660979474059667
+    },
+    {
+      "sample": 77,
+      "equiv_mm": 38.19345295651272,
+      "rotation_spread": 0.09895083844037882
+    },
+    {
+      "sample": 78,
+      "equiv_mm": 16.591529186184975,
+      "rotation_spread": 0.08141671377925185
+    },
+    {
+      "sample": 79,
+      "equiv_mm": 23.06957073075497,
+      "rotation_spread": 0.17575354707403537
+    },
+    {
+      "sample": 80,
+      "equiv_mm": 30.741410520326223,
+      "rotation_spread": 0.1279590298561674
+    },
+    {
+      "sample": 81,
+      "equiv_mm": 15.600000232496,
+      "rotation_spread": 0.10052466055317386
+    },
+    {
+      "sample": 82,
+      "equiv_mm": 20.840974216744772,
+      "rotation_spread": 0.056574564902058415
+    },
+    {
+      "sample": 83,
+      "equiv_mm": 20.910652724879643,
+      "rotation_spread": 0.05877314357646065
+    },
+    {
+      "sample": 84,
+      "equiv_mm": 19.529275924719332,
+      "rotation_spread": 0.06027856713892447
+    },
+    {
+      "sample": 85,
+      "equiv_mm": 28.18197724756895,
+      "rotation_spread": 0.14128242960376908
+    },
+    {
+      "sample": 86,
+      "equiv_mm": 47.67342715501402,
+      "rotation_spread": 0.015187435317890496
+    },
+    {
+      "sample": 87,
+      "equiv_mm": 31.02130754690405,
+      "rotation_spread": 0.12586125385296998
+    },
+    {
+      "sample": 88,
+      "equiv_mm": 41.32251767221474,
+      "rotation_spread": 0.08839525757296905
+    },
+    {
+      "sample": 89,
+      "equiv_mm": 27.592109462760394,
+      "rotation_spread": 0.14392145849434448
+    },
+    {
+      "sample": 90,
+      "equiv_mm": 44.86319143454292,
+      "rotation_spread": 0.07699456791824738
+    },
+    {
+      "sample": 91,
+      "equiv_mm": 48.52693034973252,
+      "rotation_spread": 0.0675648605803713
+    },
+    {
+      "sample": 92,
+      "equiv_mm": 34.39450110220285,
+      "rotation_spread": 0.02393415788643596
+    },
+    {
+      "sample": 93,
+      "equiv_mm": 47.94811689133049,
+      "rotation_spread": 0.019957621532163888
+    },
+    {
+      "sample": 94,
+      "equiv_mm": 14.984922404597677,
+      "rotation_spread": 0.10495113904557181
+    },
+    {
+      "sample": 95,
+      "equiv_mm": 18.777208519430697,
+      "rotation_spread": 0.06260999772353566
+    },
+    {
+      "sample": 96,
+      "equiv_mm": 50.918861454696454,
+      "rotation_spread": 0.01786710295909024
+    },
+    {
+      "sample": 97,
+      "equiv_mm": 18.822482803362064,
+      "rotation_spread": 0.06256037920236371
+    },
+    {
+      "sample": 98,
+      "equiv_mm": 15.904036139743281,
+      "rotation_spread": 0.08802111024969017
+    },
+    {
+      "sample": 99,
+      "equiv_mm": 16.73015510428804,
+      "rotation_spread": 0.09010305418743211
+    }
+  ],
+  "center_tests": [
+    {
+      "dy1": -30,
+      "dy2": -30,
+      "equiv_mm": 21.499001269689963,
+      "rotation_spread": 0.05216398873493256
+    },
+    {
+      "dy1": -30,
+      "dy2": 0,
+      "equiv_mm": 22.822724277089225,
+      "rotation_spread": 0.049143947676451256
+    },
+    {
+      "dy1": -30,
+      "dy2": 30,
+      "equiv_mm": 24.122487190727803,
+      "rotation_spread": 0.047330232503557286
+    },
+    {
+      "dy1": 0,
+      "dy2": -30,
+      "equiv_mm": 20.309099615574652,
+      "rotation_spread": 0.05934775026951838
+    },
+    {
+      "dy1": 0,
+      "dy2": 0,
+      "equiv_mm": 21.634942362694844,
+      "rotation_spread": 0.05552791881027843
+    },
+    {
+      "dy1": 0,
+      "dy2": 30,
+      "equiv_mm": 22.95891081192718,
+      "rotation_spread": 0.05312618927010655
+    },
+    {
+      "dy1": 30,
+      "dy2": -30,
+      "equiv_mm": 19.185037865692856,
+      "rotation_spread": 0.06768903567417466
+    },
+    {
+      "dy1": 30,
+      "dy2": 0,
+      "equiv_mm": 20.469486976862306,
+      "rotation_spread": 0.06277206795090487
+    },
+    {
+      "dy1": 30,
+      "dy2": 30,
+      "equiv_mm": 21.79432847570462,
+      "rotation_spread": 0.059557161827205614
+    }
+  ],
+  "judgment": "Conditional minima are not camera identification: pure rotation and historical principal points are unverified; narrow-band correspondence geometry is weak. No complete ordinary-Sun reconstruction established."
+}

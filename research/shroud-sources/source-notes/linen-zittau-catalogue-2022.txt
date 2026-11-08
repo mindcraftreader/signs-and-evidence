@@ -1,0 +1,17 @@
+Städtische Museen Zittau — 550 Jahre Großes Zittauer Fastentuch exhibition catalogue
+========================================================================
+id: LINEN-ZITTAU-CATALOGUE-2022
+category: Large linen survival comparators
+year: 2022
+reviewed_on: 2026-10-27
+url: https://zittau.de/sites/default/files/m_document/2022-09/bro_550ft_2022_inhalt_web.pdf
+
+What it contributes:
+Primary curator catalogue: Brandenburg cloth ca.1290, 428 × 206.5 cm (printed p.30); Lüne linen cloth mid-13th century, 369 × 114 cm (p.18); large Zittau cloth 1472, 820 × 680 cm (p.10); small Zittau cloth 1573, 415 × 340 cm (p.14). Includes named scholarly authors and restoration histories.
+
+Limits and interpretation:
+Exhibition displayed reproductions: use original object dimensions printed in each entry, not reproduction dimensions. Zittau 1472 was torn in 1945 and reassembled in 1994/95; not an untouched intact sheet. Halberstadt 340 × 190 cm entry is incomplete linen-thread net/filet work, not broad plain linen.
+
+Access: PDF saved
+Saved files:
+papers/linen-zittau-catalogue-2022.pdf

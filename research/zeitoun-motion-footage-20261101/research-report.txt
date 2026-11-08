@@ -1,0 +1,45 @@
+ZEITOUN MOTION-PICTURE SEARCH — 1 NOVEMBER 2026
+
+OUTCOME
+Recovered two genuine contemporary newsfilm catalogue records in AP Newsroom, with stable item URLs, video identifiers, original film references and shot lists. This supersedes the earlier statement that no catalogue entry had been recovered. Neither published shot list identifies a moving Marian figure. The user subsequently watched both previews; the assistant inspected sampled frames rather than every second. Do not equate film about an apparition with footage of the figure moving.
+
+AP FILM1
+SYND5 5 68 VIRGIN MARY APPARITION IN EGYPTIAN COPTIC CHURCH IN CAIRO'S ZEITOUN DISTRICT
+VideoID z055347;friendlykey6805041206;NYFilma0049507;LN4863;01:14;black-and-white,silent;HDavailable.
+https://newsroom.ap.org/editorial-photos-videos/detail?itemid=e585c52f2534218a2933f2164072e51e&mediatype=video
+Shotlist includes church, worshippers, crowds looking up, a hand holding a photograph of the apparition, church exterior, and a nighttime crowd. Preview playback confirmed; sampled frames show actual church/crowd film. The photograph shot must not be described as motion of the figure. Catalogue displayed creation4May inUTC(May3,8pmEastern);title5May. July2010arrival is digitization/catalogue arrival,not filming date.
+
+AP FILM2
+SYND9 5 68 VIRGIN VISION
+VideoIDz055226;friendlykey6805091383;LN1925;01:49;black-and-white,silent;HDavailable.
+https://newsroom.ap.org/editorial-photos-videos/detail?itemid=74be5cc6f78c407b57dea7818d3bf724&mediatype=video
+Shotlist covers crowds, religious images, people seeking blessings, a bird described as a bird of prey on the dome, an oil lamp, and services. No moving Marian figure explicitly listed. Do not turn bird shot into supernatural dove footage or footage of ill visitors into filmed healings.9May date appears in title/key;Sept2010arrival is not creation date.
+
+CONTEMPORARY NEWSPAPER TARGET
+Watani12May1968,p2 reports a London InternationalTVdelegation sent by UnitedPress arriving yesterday and a Hollywood delegation preparing a film. This establishes contemporary production intent. Enlarged original Arabic column checked. Same article describes DearViewer/Azizi al-Mushahid,preparedMufidFawzi,presentedAmaniNashid,Thursday9:30pm,lasted45minutes,withbishops/witnessphotographs. Thursday before publication was9May1968. The article does not explicitly say the programme showed a moving figure. CurrentAPfilms are not established as the production by the crew arriving around11May, since their dates precede that arrival.
+
+SPECIFIC FAILED-FILM ATTEMPT
+PearlZaki's OurLord'sMotherVisitsEgyptin1968and1969,printedp7/PDF11,visuallychecked,attributes a still to an unnamed German photographer who came to make a TVfilm but was unable. The reason is not given. It does not establish that every crew failed, that film technology was incapable, that none survives, or that the failure was supernatural. Do not supply any of those explanations without evidence.
+
+ARCHIVAL ROUTE
+AP's researcher page directs video research to APArchive,now APNewsroom. Trade reporting(WorldScreen2July2009)describes APacquisition/restoration of the UPITN/WTNcollection. That makes APan appropriate lead for the reported UnitedPresscrew; it does not prove either located film is that crew's production. Public catalogue search used Zeitoun then VirginMaryEgypt; latter exposed the1968items. Web-index searches alone missed them. No login,purchase,downloadcomp,or external contact completed; ShareLinkattempt requested login. DirectNewTabbutton provided stable publicitemlinks.
+
+COMPLETED CHURCH-VIDEO AUDIT
+All eight official church-linked MP4 files were downloaded and inspected, totaling 51 minutes 50.346 seconds. The pass inspected 627 frames at five-second intervals across the full timelines, 236 additional shot-change candidates, and selected one-second detail sequences. This was systematic visual sampling, not uninterrupted normal-speed playback of all eight files. No authenticated original motion footage of the Marian figure was recovered.
+
+The files include interviews, historical crowd/church footage, still photographs, illustrations, animated overlays and reenactments. In ancient_pro_stmaryztn.mp4 around 02:04–02:07 an illustrated figure appears over a fixed church image; that is not authenticated 1968 motion footage. The later fox_stmaryztn.mp4 uses still photographs and interviews; its filename does not establish any connection with the proposed 1968 Fox production.
+
+Local automatic transcripts are unverified finding aids. English contains errors; Arabic is especially unreliable, with radio_1_ar failing quality review. Empty transcription output is not evidence of absent speech. See church-film-audit.json for each file's duration, hash, URL, inspected-frame counts and assessment.
+
+NEW CONTEMPORARY TELEVISION NOTICE
+Al-Ahram, 9 May 1968, printed page 10, announces Dear Viewer / عزيزي المشاهد for Channel 5 that evening at 21:30. The notice names Mufid Fawzi as preparer and Amani Nashid as presenter, and includes bishops, a healing-committee head and twelve citizens who had seen the apparition. Original page and enlarged notice visually checked. This is a contemporary broadcast announcement, not a claim that original motion footage of the figure would be shown. Together with Watani's subsequent description, it gives a specific programme to trace. The complete issue and provenance are saved locally.
+
+ONE NIGHT RECONSTRUCTED
+april-30-reconstruction.txt assembles the reported night of 29–30 April 1968 from Bishop Athanasius, Air Force Major Asaad Iskandar and Louis Marcos, described as head of the English Department at Ain Shams University. Their reported observations overlap around 02:45–05:00. A later booklet transcription gives a disappearance and return; the duration variant is preserved. The New York Times reports Athanasius's account, not an additional newspaper eyewitness. No identified film crew is placed filming the figure during that night's window by the records recovered here.
+
+NEXT PRECISE TARGETS
+Search associated AP reels/outtakes using exact LN and film IDs; identify the later London crew production and cameraman; identify the unnamed German photographer and reason for his reported failed attempt; locate the Egyptian television picture recording of Dear Viewer, 9 May 1968, Channel 5 at 21:30. The present search does not establish that no motion footage was ever made or survives. See filming-attempt-register.json for the dated source chains and unresolved questions.
+
+
+MAY 9 RECORDING FOLLOW-UP
+Focused online search completed; no authenticated episode recovered. A public Institute Marian tape upload is an unverified carrier candidate, not a located television excerpt. See may9-recording-search.txt and may9-recording-leads.json. Arabic archival inquiry prepared but not sent.

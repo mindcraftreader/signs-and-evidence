@@ -1,0 +1,120 @@
+ZEITOUN: DATED APPEARANCES AND LIGHTING SHUTDOWNS
+Research date: 28 October 2026
+
+MAIN FINDING
+A fuller appearance register was located on the church archive's book-excerpts page, attributed to the collected reports of Bishop Gregorios in volume 20 of his Encyclopedia. The English table has 65 date/time rows on 53 distinct calendar dates, spanning 2 April 1968 to 27 June 1969. The Arabic table was opened and its corresponding dates/time labels were checked. This is substantially fuller than Eric Ouellet's older list of 33 dated entries representing 34 episodes, but it is not yet an inspected facsimile of the original book or witness forms.
+
+Do not call 65 rows 65 separate nights. Evening and following-dawn entries may describe one observing night; some dates have both dawn and evening entries. Do not add these counts to Ouellet's list without checking overlap. Do not infer a lighting shutdown for every dated entry.
+
+LIGHTING EVIDENCE AND DATES
+
+1. Night of 2 April 1968: narrative placement in the government report.
+William Farid Basili, Director of Inquiries and Complaints, Ministry of Tourism, in his report dated 30 April 1968, narrates the first appearance as beginning at 8:30 pm on 2 April. Within that first-night narrative, before the description of dispersal next morning and before the next section dated 9 April, he says searchlights were directed at the figure, nearby streetlamps were smashed, and all lights in the area were extinguished while the image remained visible and became clearer.
+This places the lights-out episode within the first-night account. It does not give a separately timestamped switching event, name the person who cut power, define a radius, identify the circuit, or establish an uninterrupted district-grid outage through all later appearances. The report's governmental authorship should not be confused with an original government shutdown order.
+Source: https://ourladyofzeitoun.com/en/report/ministry-of-tourism-department-of-inquiries/
+Existing original Arabic reproduction, especially page 3: ../zeitoun-investigation-records-20261027/sources/ministry-report-ar-page-3.jpg
+Existing English translation: ../zeitoun-investigation-records-20261027/sources/ministry-en.txt
+
+2. Late April 1968: independent observation of disconnected streetlights.
+Cynthia Nelson, anthropologist at the American University in Cairo, The Virgin of Zeitoun, Worldview 16(9), September 1973, printed p.6. Her second visit is described as a week after 15 April and toward the end of April, without an exact calendar day. She observed a light of uncertain source and stated that streetlights all around the church had been disconnected for several days. Preserve her approximate date; do not convert it to a verified 22 April visit or invent the shutdown start/end dates.
+This independently supports lights-out viewing conditions in late April, though Nelson herself did not describe the clear full figure reported by other witnesses on other nights.
+Publisher: https://www.cambridge.org/core/journals/worldview/article/abs/virgin-of-zeitoun/790CA1806EB0C929371244686C0F2178
+Original PDF: ../zeitoun-independence-audit-20261027/sources/nelson-1973.pdf
+DOI: https://doi.org/10.1017/S0084255900019951
+
+3. 1 June 1968: traffic exclusion, distinct from electricity shutoff.
+Nelson's field notes, printed p.8, describe her visit from 10 pm to 2 am. On asking about headlights, she was told buses and cars had been excluded for two weeks. That is a dated report of a stated traffic restriction, not a dated electricity shutdown or her independent verification of the traffic perimeter. Do not relabel this as a confirmed blackout calendar entry.
+
+4. Wartime lighting restrictions: background, not a recovered calendar.
+Donald A. Westbrook, religious-studies scholar (PhD Claremont Graduate University; currently associated with San Jose State University), Nova Religio 21(2), 2017, printed p.89 and note 13 on p.96, describes wartime Cairo curfew/evening light shutdowns. His specific corroboration is retrospective personal communications with Saad Michael Saad and Hany N. Takla in June 2016. This does not establish that every night of 1968-71 was a complete grid blackout.
+DOI: https://doi.org/10.1525/nr.2017.21.2.85
+Local full text: ../zeitoun-academic-library-20261027/sources/Westbrook-LadyZeitoun19681971-2017.pdf
+
+5. 10 June 1967: separately reported prelude.
+The modern church timeline dates an unexplained interior church illumination during wartime blackout to 10 June 1967, citing Watani 21 April 1968 and Al-Ahram 27 April 1968. Original newspaper passages were not inspected in this pass. This predates the 1968-71 apparition series and must not be included among its appearances.
+https://ourladyofzeitoun.com/en/timeline/
+
+No exact government blackout start/end schedule or municipal electricity log was recovered in this pass. Supported lighting evidence is not equivalent to such a schedule; absence of that schedule does not erase the reports above.
+
+GREGORIOS REGISTER: WHAT WAS RECOVERED
+Source: https://ourladyofzeitoun.com/en/book/excerpts-on-the-apparition-of-the-virgin-from-other-books/
+Arabic: https://ourladyofzeitoun.com/ar/book/مقتطفات-عن-ظهور-العذراء-من-كتب-اخرى-في/
+Section: The Encyclopedia of Anba Gregory, Volume Twenty; prepared by Cleric Mounir Attia.
+The archive describes more than 60 appearances and 187 testimonies received by Gregorios. Those descriptive numbers are the archive's account, not a fresh audit of the underlying 187 reports. All 65 table rows have been saved as structured data in gregorios-entries.json, with source time labels intact and blackout linkage explicitly unestablished for each individual row.
+The separate Arabic and English displayed tables are saved under sources/.
+
+TRANSCRIPTION/CALENDAR FLAGS
+- 24 May 1968 is labeled Thursday in both web tables; the calendar date was Friday.
+- 25 June 1969 is labeled Tuesday in both; it was Wednesday.
+- 27 June 1969 is labeled Thursday in both; it was Friday.
+These are unresolved source inconsistencies, not corrected dates. The original volume/report pages are needed to determine whether the day, date, year or later transcription is wrong.
+- 10 April 1968 is labeled Dawn & Morning; 12 August 1968 is labeled Morning. Without exact times, those labels should not be silently changed to darkness before sunrise. Many other rows explicitly say evening or dawn; some give no time.
+
+THE 90/94 TOTAL
+Fr Anthony Mourad gives 94 documented appearances in Pints with Aquinas episode 601. We have not obtained his underlying 94-entry register.
+Eric Ouellet's 2011 reconstruction also totals about 94, but explicitly estimates about 50 for a gap from mid-1968 to mid-1969, adding 27 early and 17 later appearances. His independently listed dates comprise 33 rows, one marked two episodes on 1 June 1968. Matching totals do not establish that Mourad derived his figure from Ouellet.
+Ouellet: https://parasociology.blogspot.com/2011/10/marian-apparitions-at-el-zeitoun-and.html
+The church archive itself cites Ouellet for 94/95 in its Allegation of Myth page:
+https://ourladyofzeitoun.com/en/skeptic/the-allegation-of-myth/
+This is a now-observed connection between that church page and Ouellet, not proof about Mourad's source.
+The older Ouellet rows and precise book-page leads are preserved separately in ouellet-dated-entries.json. They include later dates in 1970 and 1971 not covered by the Gregorios table.
+
+NEXT SPECIFIC ORIGINAL NEEDED
+Volume 20 of the Encyclopedia of Anba Gregorios, the Virgin Mary volume, especially its second documentary section and any reproduced dated witness forms. That is now a more direct next acquisition for the appearance calendar than a general narrative book. Also useful: Pearl Zaki, Before Our Eyes, p.66 and surrounding pages, describing the nun A.H.'s observing diary. Do not equate 108 visits with 108 appearances.
+
+READING KEY FOR THE APPENDED LIST
+E = Evening; D = Dawn; M = Morning; ? = no time supplied.
+These are calendar dates as printed, not deduplicated night or occurrence counts.
+
+
+GREGORIOS DATE LIST (AS TRANSCRIBED)
+1968-04: 2 E; 9 E; 10 D/M/E; 11 D; 12 ?; 13 E; 14 E; 15 D; 16 E; 17 E; 18 E; 19 D/E; 20 D/E; 21 D/E; 22 D/E; 23 D/E; 24 D/E; 25 E; 26 E; 27 D/E; 28 D/E; 29 E; 30 D/E
+1968-05: 1 D/E; 2 D/E; 4 E; 5 D; 6 D; 10 D; 12 E; 24 E; 28 D
+1968-06: 1 ?; 2 D; 9 ?; 22 E; 25 E; 27 ?
+1968-07: 12 D
+1968-08: 12 M; 21 E
+1968-09: 11 ?
+1968-11: 3 ?
+1968-12: 21 ?
+1969-02: 22 E; 23 D; 27 D
+1969-03: 14 D
+1969-04: 5 E; 11 E
+1969-05: 10 E
+1969-06: 25 E; 27 D
+
+OUELLET DATE LIST AND BOOK-PAGE LEADS (NOT ALL INDIVIDUALLY VERIFIED)
+2 April 1968 — Many (Among others, Zaki pp. 4-5)
+3 April 1968 — Brune, p. 7
+6-7 April 1968 — Kamell et   al., p. 56; Nil, p. 117
+8-9 April 1968 — Palmer, p. 15, Kamell et al., p. 60;   Nil, p. 114
+10 April 1968 — Bayless, p. 7, Kamell et al. P. 66;   Nil, p. 115
+11 April 1968 — Brune, p. 8; Nil, p. 115
+12 April 1968 — Nelson, p. 6; Nil, p. 115
+13 April 1968 — Johnston, p. 6; Nil, p. 44
+19 April 1968 — Bayless, p. 25
+27 April 1968 — Johnston, p. 7
+29-30 April 1968 — Palmer, p. 21; Johnston, p. 19;   Bayless, p. 9; Nil, p. 115
+4-5 May 1968 — Johnston, p. 5; Bayless, p. 10;   Kamell et al. P. 71
+6-7 May 1968 — Palmer, p. 32
+9 May 1968 — Palmer, p. 35
+13 May 1968 — Johnston, p. 29
+15 May 1968 — Johnston, p. 7
+28 May 1968 — Palmer, p. 50
+30 May 1968 — Johnston, p. 28
+31 May 1968 — Bayless, p. 24
+1 June 1968 (2 app) — Palmer, p. 48; Johnston, p. 8;   Bayless, p. 10
+4 June 1968 — Nil, p. 98
+8-9 June 1968 — Johnston, p. 5; Bayless, p. 9
+13 August 1968 — Zaki, p. 7
+15 August 1968 — Nil, p. 80
+11 September 1968 — Nil, p. 80
+6 October 1968 — Nil, p. 120
+5 January 1969 — Palmer, p. 32
+4 April 1969 — Egyptian Gazette
+6 January 1970 — Johnston, p. 25
+14 February 1970 — Johnston, p. 25
+6 March 1970 — Johnston, p. 25
+12 September 1970 — Johnston, p. 25
+29 May 1971 — Johnston, p. 25
+
+Additional calendar observation: 25 and 27 June 1968 were Tuesday and Thursday respectively, matching the weekday labels assigned to the disputed 1969 rows. The same two dates already appear in the 1968 part of the table. A year/transcription duplication is therefore a specific possibility; do not count these as secure distinct 1969 events before inspecting the original records.

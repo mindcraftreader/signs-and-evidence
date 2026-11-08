@@ -1,0 +1,29 @@
+{
+  "date": "2026-11-02",
+  "purpose": "Focused examination of three Lourdes cases requested by Daniel; no new tally adjudication.",
+  "parent_fresh_reading": [
+    "Le Bec1922, entire Borel chapter printed175–180; photograph plate and printed177 visually checked.",
+    "Guinier1909, complete printed595 visually read; parent does not claim reading whole article or volume. Agent read full article577–601.",
+    "Thurston1910 BMJ, complete printed470 visually read; published reproduction of physician testimony, not BMJ independent clinical authentication.",
+    "Garner1974 CMAJ, complete printed1257 and1259 visually read, including image dates and chemotherapy wording.",
+    "Neilan2013, entire substantive saved text read; source derives from Salmon report, not a new independent examination.",
+    "Dissing et al1978, entire five-page primary report text read; earlier saved images remain available.",
+    "Vallet1926, French report across scan2–3 visually checked; entire fourteen-page2025 English rendering read. Translation is not independent corroboration.",
+    "Visschers et al2012, accessible abstract/methods and management framework read; no raw patient data reanalysis.",
+    "All three fresh agent follow-up reports read before synthesis."
+  ],
+  "reports": {
+    "Marie Borel": "research/lourdes-period-audit-20261102/1858-1918/borel-deep-followup.txt",
+    "Vittorio Micheli": "research/lourdes-period-audit-20261102/1919-1976/micheli-deep-followup.txt",
+    "John Traynor": "research/lourdes-period-audit-20261102/1919-1976/traynor-deep-followup.txt"
+  },
+  "central_question": "Medical evidence of recovery and its actual Marian/shrine connection are assessed together; individual healing alone is not assumed to identify a religion.",
+  "no_new_actions": [
+    "No external communication",
+    "No purchase",
+    "No unapproved archive access",
+    "No change to debate tally",
+    "No new physician reading of original films",
+    "No complete raw clinical dossier obtained"
+  ]
+}

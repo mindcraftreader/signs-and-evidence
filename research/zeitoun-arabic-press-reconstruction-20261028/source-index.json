@@ -1,0 +1,325 @@
+{
+  "schema_version": 1,
+  "created": "2026-10-28",
+  "sources": [
+    {
+      "source_id": "ZP-19680421-GOMHURIA",
+      "newspaper": "Al-Gomhuria",
+      "newspaper_ar": "الجمهورية",
+      "publication_date": "1968-04-21",
+      "issue_number": null,
+      "printed_pages": "3",
+      "article_description": "First national daily report and priest interview",
+      "source_url": "https://ourladyofzeitoun.com/en/newspaper/al-gomhuria-newspaper-april-21-1968/",
+      "arabic_archive_url": "https://ourladyofzeitoun.com/ar/newspaper/%d8%a7%d9%84%d8%ac%d9%85%d9%87%d9%88%d8%b1%d9%8a%d8%a9-21-%d8%a7%d8%a8%d8%b1%d9%8a%d9%841968/",
+      "local_english_text": "sources/page-bb04818c3aae.txt",
+      "local_arabic_text": "sources/page-0dfeaee9d27d.txt",
+      "scans": [
+        "sources/scan-922b544b6d56.jpg"
+      ],
+      "date_verification": "Printed date visible on scan",
+      "rights_status": "Copyright/public-domain status not verified. Source scans retained for research; resource presents original factual summaries and limited attributed excerpts, not full article translations.",
+      "transcription_status": "Archive transcription is a finding aid; per-testimony Arabic verification recorded separately.",
+      "coverage_status": "Available selected issue pages/clippings, not full issue and not complete newspaper run."
+    },
+    {
+      "source_id": "ZP-19680505-WATANI",
+      "newspaper": "Watani",
+      "newspaper_ar": "وطني",
+      "publication_date": "1968-05-05",
+      "issue_number": "490",
+      "printed_pages": "1,2,3,5,7",
+      "article_description": "Press conference, government-report reprint and named eyewitness investigations",
+      "source_url": "https://ourladyofzeitoun.com/en/newspaper/watani-newspaper-may-5-1968/",
+      "arabic_archive_url": "https://ourladyofzeitoun.com/ar/newspaper/%d8%a7%d9%84%d8%a3%d9%87%d8%b1%d8%a7%d9%85-%d9%a5-%d8%a3%d8%a8%d8%b1%d9%8a%d9%84-%d9%a1%d9%a9%d9%a7%d9%a0/",
+      "local_english_text": "sources/page-850eccb64c79.txt",
+      "local_arabic_text": "sources/page-77fa4a24ce83.txt",
+      "scans": [
+        "sources/scan-a9fb29dcd3d8.jpg",
+        "sources/scan-7ab378c35650.jpg",
+        "sources/scan-5f9ebe59e644.jpg",
+        "sources/scan-e35d2b127e3e.jpg",
+        "sources/scan-04c722e0fdc6.jpg"
+      ],
+      "date_verification": "Printed masthead confirms5May1968,issue490; printed page numerals checked",
+      "rights_status": "Copyright/public-domain status not verified. Source scans retained for research; resource presents original factual summaries and limited attributed excerpts, not full article translations.",
+      "transcription_status": "Archive transcription is a finding aid; per-testimony Arabic verification recorded separately.",
+      "coverage_status": "Available selected issue pages/clippings, not full issue and not complete newspaper run."
+    },
+    {
+      "source_id": "ZP-19680505-AKHBAR",
+      "newspaper": "Al-Akhbar",
+      "newspaper_ar": "الأخبار",
+      "publication_date": "1968-05-05",
+      "issue_number": null,
+      "printed_pages": "1,3",
+      "article_description": "Patriarchal statement and a report of135minutes",
+      "source_url": "https://ourladyofzeitoun.com/en/newspaper/al-akhbar-newspaper-may-5-1968/",
+      "arabic_archive_url": "https://ourladyofzeitoun.com/ar/newspaper/%d8%ac%d8%b1%d9%8a%d8%af%d8%a9-%d8%a7%d9%84%d8%a3%d8%ae%d8%a8%d8%a7%d8%b1-5-%d9%85%d8%a7%d9%8a%d9%88-1968/",
+      "local_english_text": "sources/page-050a1b7d7a3d.txt",
+      "local_arabic_text": "sources/page-789280b5d6c5.txt",
+      "scans": [
+        "sources/scan-393fae549245.jpg",
+        "sources/scan-87c87c42f594.jpg",
+        "sources/scan-d2be5b7e0fa5.jpg"
+      ],
+      "date_verification": "Front masthead date5May1968; article clipping annotated same date",
+      "rights_status": "Copyright/public-domain status not verified. Source scans retained for research; resource presents original factual summaries and limited attributed excerpts, not full article translations.",
+      "transcription_status": "Archive transcription is a finding aid; per-testimony Arabic verification recorded separately.",
+      "coverage_status": "Available selected issue pages/clippings, not full issue and not complete newspaper run."
+    },
+    {
+      "source_id": "ZP-19680505-GOMHURIA",
+      "newspaper": "Al-Gomhuria",
+      "newspaper_ar": "الجمهورية",
+      "publication_date": "1968-05-05",
+      "issue_number": null,
+      "printed_pages": "1,4",
+      "article_description": "Patriarchal statement and interview with Athanasius",
+      "source_url": "https://ourladyofzeitoun.com/en/newspaper/al-gomhuria-may-5-1968/",
+      "arabic_archive_url": "https://ourladyofzeitoun.com/ar/newspaper/%d8%a7%d9%84%d8%ac%d9%85%d9%87%d9%88%d8%b1%d9%8a%d8%a9-5-%d9%85%d8%a7%d9%8a%d9%88-1968/",
+      "local_english_text": "sources/page-0287194e18e1.txt",
+      "local_arabic_text": "sources/page-5622e6f1bcff.txt",
+      "scans": [
+        "sources/scan-3048a2952188.jpg",
+        "sources/scan-2093dd3d6edc.jpg"
+      ],
+      "date_verification": "Front masthead English date5May1968; inside-page header checked",
+      "rights_status": "Copyright/public-domain status not verified. Source scans retained for research; resource presents original factual summaries and limited attributed excerpts, not full article translations.",
+      "transcription_status": "Archive transcription is a finding aid; per-testimony Arabic verification recorded separately.",
+      "coverage_status": "Available selected issue pages/clippings, not full issue and not complete newspaper run."
+    },
+    {
+      "source_id": "ZP-19680506-AHRAM",
+      "newspaper": "Al-Ahram",
+      "newspaper_ar": "الأهرام",
+      "publication_date": "1968-05-06",
+      "issue_number": null,
+      "printed_pages": "3",
+      "article_description": "Inspection and eyewitness interviews",
+      "source_url": "https://ourladyofzeitoun.com/en/newspaper/al-ahram-newspaper-may-6-1968/",
+      "arabic_archive_url": "https://ourladyofzeitoun.com/ar/newspaper/%d8%a7%d9%84%d8%a3%d9%87%d8%b1%d8%a7%d9%85-6%d9%85%d8%a7%d9%8a%d9%88-1968/",
+      "local_english_text": "sources/page-f4c7f67be9d6.txt",
+      "local_arabic_text": "sources/page-7a4f8920f6bd.txt",
+      "scans": [
+        "sources/scan-ff0c2ab46ab8.jpg"
+      ],
+      "date_verification": "Printed6/5/68 visible; asset filename saysp2but printed page appears3; verify fullissue",
+      "rights_status": "Copyright/public-domain status not verified. Source scans retained for research; resource presents original factual summaries and limited attributed excerpts, not full article translations.",
+      "transcription_status": "Archive transcription is a finding aid; per-testimony Arabic verification recorded separately.",
+      "coverage_status": "Available selected issue pages/clippings, not full issue and not complete newspaper run."
+    },
+    {
+      "source_id": "ZP-19680506-GOMHURIA",
+      "newspaper": "Al-Gomhuria",
+      "newspaper_ar": "الجمهورية",
+      "publication_date": "1968-05-06",
+      "issue_number": null,
+      "printed_pages": "9",
+      "article_description": "Tourism/security and named transport-worker witnesses",
+      "source_url": "https://ourladyofzeitoun.com/en/newspaper/al-gomhuria-may-6-1968/",
+      "arabic_archive_url": "https://ourladyofzeitoun.com/ar/newspaper/%d8%ac%d8%b1%d9%8a%d8%af%d8%a9%d8%a7%d9%84%d8%ac%d9%85%d9%87%d9%88%d8%b1%d9%8a%d8%a9-6-%d9%85%d8%a7%d9%8a%d9%88-1968/",
+      "local_english_text": "sources/page-86bb834765d2.txt",
+      "local_arabic_text": "sources/page-f24916858033.txt",
+      "scans": [
+        "sources/scan-3158a0f7b593.jpg"
+      ],
+      "date_verification": "Printed Monday6May1968 andp9visible",
+      "rights_status": "Copyright/public-domain status not verified. Source scans retained for research; resource presents original factual summaries and limited attributed excerpts, not full article translations.",
+      "transcription_status": "Archive transcription is a finding aid; per-testimony Arabic verification recorded separately.",
+      "coverage_status": "Available selected issue pages/clippings, not full issue and not complete newspaper run."
+    },
+    {
+      "source_id": "ZP-19680507-AHRAM",
+      "newspaper": "Al-Ahram",
+      "newspaper_ar": "الأهرام",
+      "publication_date": "1968-05-07",
+      "issue_number": null,
+      "printed_pages": "3",
+      "article_description": "Crowd scene and named witnesses",
+      "source_url": "https://ourladyofzeitoun.com/en/newspaper/al-ahram-newspaper-may-7-1968/",
+      "arabic_archive_url": "https://ourladyofzeitoun.com/ar/newspaper/%d8%a7%d9%84%d8%a3%d9%87%d8%b1%d8%a7%d9%85-7-%d9%85%d8%a7%d9%8a%d9%88-1968/",
+      "local_english_text": "sources/page-45251a3ef811.txt",
+      "local_arabic_text": "sources/page-bdb363006d5c.txt",
+      "scans": [
+        "sources/scan-b9fe5a2b7a3d.jpg"
+      ],
+      "date_verification": "Printed7/5/68andp3visible; assetfilenamep2not treated as printedpage",
+      "rights_status": "Copyright/public-domain status not verified. Source scans retained for research; resource presents original factual summaries and limited attributed excerpts, not full article translations.",
+      "transcription_status": "Archive transcription is a finding aid; per-testimony Arabic verification recorded separately.",
+      "coverage_status": "Available selected issue pages/clippings, not full issue and not complete newspaper run."
+    },
+    {
+      "source_id": "ZP-19680507-AKHBAR",
+      "newspaper": "Al-Akhbar",
+      "newspaper_ar": "الأخبار",
+      "publication_date": "1968-05-07",
+      "issue_number": null,
+      "printed_pages": "clipping",
+      "article_description": "Church-book plans, interviews, onlookers and security",
+      "source_url": "https://ourladyofzeitoun.com/en/newspaper/al-akhbar-newspaper-may-7-1968/",
+      "arabic_archive_url": "https://ourladyofzeitoun.com/ar/newspaper/%d8%a7%d9%84%d8%a3%d8%ae%d8%a8%d8%a7%d8%b1-7-%d9%85%d8%a7%d9%8a%d9%88-1986/",
+      "local_english_text": "sources/page-44b8cf9fe212.txt",
+      "local_arabic_text": "sources/page-eb8d5aa912d6.txt",
+      "scans": [
+        "sources/scan-b4600b3f924f.jpg"
+      ],
+      "date_verification": "Catalog date; clipped scan lacks independently verified fullmasthead. Arabic URL typo1986doesnotdetermine date",
+      "rights_status": "Copyright/public-domain status not verified. Source scans retained for research; resource presents original factual summaries and limited attributed excerpts, not full article translations.",
+      "transcription_status": "Archive transcription is a finding aid; per-testimony Arabic verification recorded separately.",
+      "coverage_status": "Available selected issue pages/clippings, not full issue and not complete newspaper run."
+    },
+    {
+      "source_id": "ZP-19680511-AKHBAR",
+      "newspaper": "Akhbar al-Youm",
+      "newspaper_ar": "أخبار اليوم",
+      "publication_date": "1968-05-11",
+      "issue_number": null,
+      "printed_pages": "1",
+      "article_description": "Pope reportedly seesapparition",
+      "source_url": "https://ourladyofzeitoun.com/en/newspaper/al-akhbar-newspaper-may-11-1968/",
+      "arabic_archive_url": "https://ourladyofzeitoun.com/ar/newspaper/%d8%a7%d9%84%d8%a3%d8%ae%d8%a8%d8%a7%d8%b1-11-%d9%85%d8%a7%d9%8a%d9%88-1968/",
+      "local_english_text": "sources/page-afca958b52b9.txt",
+      "local_arabic_text": "sources/page-eb0e2c3c3230.txt",
+      "scans": [
+        "sources/scan-1bcc031a6093.jpg"
+      ],
+      "date_verification": "Printed11May1968masthead",
+      "rights_status": "Copyright/public-domain status not verified. Source scans retained for research; resource presents original factual summaries and limited attributed excerpts, not full article translations.",
+      "transcription_status": "Archive transcription is a finding aid; per-testimony Arabic verification recorded separately.",
+      "coverage_status": "Available selected issue pages/clippings, not full issue and not complete newspaper run.",
+      "catalog_correction": "Archive category saysAl-Akhbar; printed masthead saysAkhbaral-Youm. StableID retained."
+    },
+    {
+      "source_id": "ZP-19680512-WATANI",
+      "newspaper": "Watani",
+      "newspaper_ar": "وطني",
+      "publication_date": "1968-05-12",
+      "issue_number": null,
+      "printed_pages": "1,2,3",
+      "article_description": "Dove descriptions and named witness investigation",
+      "source_url": "https://ourladyofzeitoun.com/en/newspaper/watani-may-12-1968/",
+      "arabic_archive_url": "https://ourladyofzeitoun.com/ar/newspaper/%d9%88%d8%b7%d9%86%d9%8a-12-%d9%85%d8%a7%d9%8a%d9%88-1968/",
+      "local_english_text": "sources/page-b3946baf7535.txt",
+      "local_arabic_text": "sources/page-cecd95245625.txt",
+      "scans": [
+        "sources/scan-18d9a6a4e89a.jpg",
+        "sources/scan-027414aa6f39.jpg",
+        "sources/scan-56f7f320619e.jpg"
+      ],
+      "date_verification": "Printed12May1968",
+      "rights_status": "Copyright/public-domain status not verified. Source scans retained for research; resource presents original factual summaries and limited attributed excerpts, not full article translations.",
+      "transcription_status": "Archive transcription is a finding aid; per-testimony Arabic verification recorded separately.",
+      "coverage_status": "Available selected issue pages/clippings, not full issue and not complete newspaper run."
+    },
+    {
+      "source_id": "ZP-19680526-WATANI",
+      "newspaper": "Watani",
+      "newspaper_ar": "وطني",
+      "publication_date": "1968-05-26",
+      "issue_number": null,
+      "printed_pages": "1,2,5",
+      "article_description": "Week of three appearances and new eyewitness narratives",
+      "source_url": "https://ourladyofzeitoun.com/en/newspaper/watani-26-may-1968/",
+      "arabic_archive_url": "https://ourladyofzeitoun.com/ar/newspaper/%d9%88%d8%b7%d9%86%d9%8a-26%d9%85%d8%a7%d9%8a%d9%88-1968/",
+      "local_english_text": "sources/page-b70a1f6020b4.txt",
+      "local_arabic_text": "sources/page-76fb678ec0fb.txt",
+      "scans": [
+        "sources/scan-0daf7d4c1c77.jpg",
+        "sources/scan-5d45547409e0.jpg",
+        "sources/scan-0491fb73c4c9.jpg"
+      ],
+      "date_verification": "Printed26May1968",
+      "rights_status": "Copyright/public-domain status not verified. Source scans retained for research; resource presents original factual summaries and limited attributed excerpts, not full article translations.",
+      "transcription_status": "Archive transcription is a finding aid; per-testimony Arabic verification recorded separately.",
+      "coverage_status": "Available selected issue pages/clippings, not full issue and not complete newspaper run."
+    },
+    {
+      "source_id": "ZP-19680602-WATANI",
+      "newspaper": "Watani",
+      "newspaper_ar": "وطني",
+      "publication_date": "1968-06-02",
+      "issue_number": null,
+      "printed_pages": "1,2,5",
+      "article_description": "Repeated briefappearances and eyewitness/healingrecords",
+      "source_url": "https://ourladyofzeitoun.com/en/newspaper/watani-june-2-1968/",
+      "arabic_archive_url": "https://ourladyofzeitoun.com/ar/newspaper/%d9%88%d8%b7%d9%86%d9%8a-2-%d9%8a%d9%88%d9%86%d9%8a%d9%88-1968/",
+      "local_english_text": "sources/page-9e9686406079.txt",
+      "local_arabic_text": "sources/page-5d949c2a098b.txt",
+      "scans": [
+        "sources/scan-5f1ffdd09caa.jpg",
+        "sources/scan-af6f863e3f06.jpg",
+        "sources/scan-ac8d9aec8b00.jpg"
+      ],
+      "date_verification": "Printed2June1968",
+      "rights_status": "Copyright/public-domain status not verified. Source scans retained for research; resource presents original factual summaries and limited attributed excerpts, not full article translations.",
+      "transcription_status": "Archive transcription is a finding aid; per-testimony Arabic verification recorded separately.",
+      "coverage_status": "Available selected issue pages/clippings, not full issue and not complete newspaper run."
+    },
+    {
+      "source_id": "ZP-19690107-AHRAM",
+      "newspaper": "Al-Ahram",
+      "newspaper_ar": "الأهرام",
+      "publication_date": "1969-01-07",
+      "issue_number": null,
+      "printed_pages": "6",
+      "article_description": "New-year interview with Pope Kyrillos",
+      "source_url": "https://ourladyofzeitoun.com/en/newspaper/al-ahram-january-7-1969/",
+      "arabic_archive_url": "https://ourladyofzeitoun.com/ar/newspaper/%d8%a7%d9%84%d8%a3%d9%87%d8%b1%d8%a7%d9%85-7-%d9%8a%d9%86%d8%a7%d9%8a%d8%b1-1969/",
+      "local_english_text": "sources/page-a6a5e2b14caa.txt",
+      "local_arabic_text": "sources/page-f5f5f10f0c6c.txt",
+      "scans": [
+        "sources/scan-ea488ef1807d.jpg",
+        "sources/scan-3453e6253922.jpeg"
+      ],
+      "date_verification": "Printed7January1969header",
+      "rights_status": "Copyright/public-domain status not verified. Source scans retained for research; resource presents original factual summaries and limited attributed excerpts, not full article translations.",
+      "transcription_status": "Archive transcription is a finding aid; per-testimony Arabic verification recorded separately.",
+      "coverage_status": "Available selected issue pages/clippings, not full issue and not complete newspaper run."
+    },
+    {
+      "source_id": "ZP-19700405-WATANI",
+      "newspaper": "Watani",
+      "newspaper_ar": "وطني",
+      "publication_date": "1970-04-05",
+      "issue_number": null,
+      "printed_pages": "2",
+      "article_description": "Anniversary and eyewitness healingstories",
+      "source_url": "https://ourladyofzeitoun.com/en/newspaper/watani-april-5-1970/",
+      "arabic_archive_url": "https://ourladyofzeitoun.com/ar/newspaper/%d9%88%d8%b7%d9%86%d9%8a5-%d8%a7%d8%a8%d8%b1%d9%8a%d9%84-1970/",
+      "local_english_text": "sources/page-40664fef7a68.txt",
+      "local_arabic_text": "sources/page-5238444c9b5a.txt",
+      "scans": [
+        "sources/scan-08d4e5af61b7.jpg"
+      ],
+      "date_verification": "Printed5April1970at top of clipping; modern French wrapperincorrect1968",
+      "rights_status": "Copyright/public-domain status not verified. Source scans retained for research; resource presents original factual summaries and limited attributed excerpts, not full article translations.",
+      "transcription_status": "Archive transcription is a finding aid; per-testimony Arabic verification recorded separately.",
+      "coverage_status": "Available selected issue pages/clippings, not full issue and not complete newspaper run.",
+      "excluded_ancillary_image": "scan-2462f3fcfc08.jpg is an unrelated-looking OpenGraph image; not assigned to this issue."
+    },
+    {
+      "source_id": "ZP-19700803-FIDA",
+      "newspaper": "Al-Fida al-Jadid",
+      "newspaper_ar": "الفداء الجديد",
+      "publication_date": "1970-08-03",
+      "issue_number": "78",
+      "printed_pages": "1 and three inside pages; inside printed-page numbers not fully verified",
+      "article_description": "Renewed apparition report and testimony",
+      "source_url": "https://ourladyofzeitoun.com/en/newspaper/al-fida-newspaper-3-august-1970/",
+      "arabic_archive_url": "https://ourladyofzeitoun.com/ar/newspaper/%d8%ac%d8%b1%d9%8a%d8%af%d8%a9-%d8%a7%d9%84%d9%81%d8%af%d8%a7%d8%a1-3-%d8%a7%d8%ba%d8%b3%d8%b7%d8%b3-1970/",
+      "local_english_text": "sources/page-8988b24741f4.txt",
+      "local_arabic_text": "sources/page-6c601c4339be.txt",
+      "scans": [
+        "sources/scan-3579e50bc769.jpg",
+        "sources/scan-1fed764ff831.jpg",
+        "sources/scan-2a94af290d8c.jpg",
+        "sources/scan-67953e5a4f23.jpg"
+      ],
+      "date_verification": "PrintedMonday3August1970,issue78; Arabicmasthead verifiespublication identity",
+      "rights_status": "Copyright/public-domain status not verified. Source scans retained for research; resource presents original factual summaries and limited attributed excerpts, not full article translations.",
+      "transcription_status": "Archive transcription is a finding aid; per-testimony Arabic verification recorded separately.",
+      "coverage_status": "Available selected issue pages/clippings, not full issue and not complete newspaper run."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+ZEITOUN: ARABIC PRIMARY-SOURCE FOLLOW-UP
+31 October 2026
+
+ACQUISITION
+Recovered four complete10-page Al-Ahram issue facsimiles:27April1968,no29723;5May,no29731;6May,no29732;7May,no29733. Forty pages acquired; relevant pages visually inspected,not all forty closely read. Source is a public community-uploaded Internet Archive collection,not direct publisher custody. Its filenames,printed dates,page headers and known clippings agree. All eight downloads(four PDFs and four machine-OCR files)match the manifest’s MD5; SHA256 provenance saved. Checksums prove download integrity,not historical authenticity by themselves.
+
+WHAT IS NEW
+The complete27Aprilissue supplies a substantial named-interview feature on pp3and7 before the4Maychurch announcement. The5Mayfrontpage contains the photograph and original caption. Full6Mayand7Mayissues independently confirm the context and pagination of previously collected clippings. Four earlier register records(ZT-024–027)are upgraded to Arabic passage checks. These are source-verification gains,not four newly independent observers.
+
+WHAT THE SOURCES SHOW
+27April: Named witnesses report a nunlike woman,full or partial luminous forms and gestures;some accounts are brief and others repeated. The article also identifies people who waited without a sighting. Farouk’s and Maamoun’s testimony predates the4Mayannouncement in print. This weakens an explanation based only on later English retelling. It does not establish that the first reports arose without any earlier local expectation or communication.
+5May: The photograph caption says the newspaper’s department examined the original film and found no montage. This is contemporary newspaper evidence,not this audit’s independent authentication. The caption’s relative photographic date differs from later13Aprilclaims;it is preserved without forced harmonization. Page3carries the church statement and an interview;reprints do not multiply the underlying bishop’s observation.
+6May: A named reporter interviews the documentary committee and earlier witnesses. Recognizable full-form descriptions and movements occur in the Arabic newspaper,not only modern English websites. The committee’s summary is distinguished from the reporter personally seeing each event.
+7May: Reporter Ezzat al-Saadani records crowd conditions and Safaa Gerges’s earlier sighting. His own overnight narrative ends without an apparition having appeared. This corroborates large-scale public waiting and a named sighting report,not a reporter witnessing the figure on that night.
+
+ARABIC INVESTIGATION WRITING
+All four pages of the Arabic printed reproduction of the three-priest report dated30April1968were checked. The authors identify a23Aprilinvestigation visit and distinguish worker interviews from their own observations. Their own passage describes a full figure moving above the dome,bowing toward the cross and blessing the crowd. It therefore directly addresses the recognizable-figure/gesture question. Exact dates of that own-observation episode are absent. Printed signature names are not authenticated original handwriting. This source was already in the collection;the current pass rechecks its Arabic rather than calling it newly discovered.
+
+ASSESSMENT
+The contemporary Arabic record positively supports the fact that named witnesses and church investigators were reporting a recognizable womanlike luminous figure and movements at the time. A brief ambiguous glimpse by a different observer cannot simply stand in for those longer or more detailed accounts. No new natural mechanism or fraud demonstration has been established in this pass. The previously closed simple ambiguous-light objection is not silently reopened,and no debate score is changed.
+
+These documents do not establish a census of one million unique viewers,a complete90-appearance calendar,or independent interviewing of every crowd member. Appearance dates,publication dates,collective reports and repeated witnesses remain distinct. Existing15issue-group/62narrative-entry resource is retained;the new13passage records are not13new witnesses or13new apparitions.
+
+FILES
+index.html: source-reading hub,Arabic excerpts,English summaries and full-issue links.
+checked-passages.json:13selected newspaper/context passages,verification limits and old-register crosslinks.
+arabic-committee-report-check.json:four-page Arabic report check.
+source-manifest.json:exact remote filenames,download integrity and hashes.
+sources/:four whole issues,unverifiedOCR,and rechecked report reproductions.
+No messages sent,no paid archive access purchased,no site deployed.
+
+FOLLOW-UP: MUSLIM RELIGIOUS VOICES AND EXPANDED PRESS RUN
+31 October 2026
+
+All 58 available April–May1968 Al-Ahram OCR files were downloaded and verified against archive checksums. These are finding aids, not 58 closely read issues. Archive dates April8,15and30 are missing. Four further complete issue PDFs were acquired: May8,10,11and21. Relevant selected pages were visually checked. The total local complete-issue PDF count is now8; selected passage records now17, not17 independent witnesses.
+
+May8,p6: tourism-undersecretary Adel Taher says the religious matter deserves respect and high-level state interest. This documents an official response and proposed crowd facilities; it is not a clerical eyewitness endorsement or proof Nasser saw an appearance.
+May10,p14: Fox documentary proposal. No completed film or authenticated footage recovered.
+May11,p10: reporter Sadeq Aziz’s signed crowd feature and photographs. The headline estimates more than100,000 awaiting an appearance that night. Attendance is not a positive-sighting census. The older woman photographed says she waited all night without seeing it. The scene is consistent with irregular appearances and differing experiences.
+May21,p1: fatal crowd crush after a rumor at Archangel Michael in Shubra; front-page church statement cautions against rumors while affirming Zeitoun’s previously recognized status. Shubra and Zeitoun must remain distinct. Continuation not closely checked.
+
+A separate Muslim-religious response register records Ghazali’s own unsuccessful visit, Abu Zahra as his companion, al-Fandi’s proposed atmospheric mechanism, and the later Sheikh Megahed lead. The book edition and limits are explicit. None establishes a contemporary local shrine imam’s affirmative eyewitness statement.
+
+No new mechanism was demonstrated, no previously closed debate argument was reopened and no score was changed. See research-coverage.json for exact scope and muslim-religious-responses.json/.csv for attribution.

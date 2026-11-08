@@ -1,0 +1,267 @@
+[
+  {
+    "id": "P01",
+    "claim": "Repeatedly documented bodily signs and bleeding",
+    "status": "Documentary support",
+    "sources": "DIFLUMERI",
+    "limitation": "Distinguish observed surface findings from their cause."
+  },
+  {
+    "id": "P02",
+    "claim": "Persistent bleeding during eight medication-free days of bandaging",
+    "status": "Early signed report reproduced; also acknowledged by critical historian",
+    "sources": [
+      "DIFLUMERI",
+      "LUZZATTO"
+    ],
+    "limitation": "Directly relevant to continuous chemical-reapplication hypothesis."
+  },
+  {
+    "id": "P03",
+    "claim": "Daily intact seal checks",
+    "status": "Reported by Paolino recollections",
+    "sources": "DIFLUMERI",
+    "limitation": "Not one continuously unopened dressing; distinguish later procedural recollections from short signed report."
+  },
+  {
+    "id": "P04",
+    "claim": "All examinations establish penetrating holes",
+    "status": "Not established",
+    "sources": "DIFLUMERI",
+    "limitation": "Reports differ in depth and time; Romanelli stronger, Bignami/Festa describe intact bones and differing tissue findings."
+  },
+  {
+    "id": "P05",
+    "claim": "Perfect front/back correspondence",
+    "status": "Overstatement",
+    "sources": "DIFLUMERI",
+    "limitation": "Editor and Festa identify nonexact correspondence."
+  },
+  {
+    "id": "P06",
+    "claim": "Normal skin and no visible scars shortly after death",
+    "status": "Named physician signed attestation",
+    "sources": "DIFLUMERI",
+    "limitation": "Sala 7 July 1969; preceding depth not directly inspected by him."
+  },
+  {
+    "id": "P07",
+    "claim": "Every wound suddenly disappeared precisely at death",
+    "status": "Overstatement",
+    "sources": "DIFLUMERI",
+    "limitation": "Sources also describe gradual earlier fading."
+  },
+  {
+    "id": "P08",
+    "claim": "100mL/day whole-blood equivalent for decades",
+    "status": "Inferred estimate, not measured series",
+    "sources": [
+      "MUSE",
+      "DIFLUMERI"
+    ],
+    "limitation": "Iron-budget inference depends on uncertain inputs."
+  },
+  {
+    "id": "P09",
+    "claim": "Normal blood findings in 1954",
+    "status": "Documentary support",
+    "sources": "DIFLUMERI",
+    "limitation": "Not a 50-year longitudinal anemia study."
+  },
+  {
+    "id": "P10",
+    "claim": "Fragrance associated with Pio and materials",
+    "status": "Multiple testimony leads",
+    "sources": [
+      "MUSE",
+      "CASTELLI_PREVIEW",
+      "DIFLUMERI"
+    ],
+    "limitation": "No chemical source identification or blinded protocol recovered."
+  },
+  {
+    "id": "P11",
+    "claim": "48–50-degree readings reported in an early newspaper",
+    "status": "Specific 1923 lead quoted in 2011",
+    "sources": "CAMPANELLA",
+    "limitation": "Original Le Soir page remains to be obtained."
+  },
+  {
+    "id": "P12",
+    "claim": "Bath thermometers shattered: quoted Merla/Giuva clause",
+    "status": "Translation issue",
+    "sources": [
+      "MUSE",
+      "CAMPANELLA"
+    ],
+    "limitation": "Italian quoted clause says readings stopped at those levels; neighboring sentence separately mentions bursting thermometers."
+  },
+  {
+    "id": "P13",
+    "claim": "Festa personally watched repeated extreme temperature readings",
+    "status": "Overstatement of quoted passage",
+    "sources": "MUSE",
+    "limitation": "His own supervised readings normal; superior took later exceptional readings with instrument left behind."
+  },
+  {
+    "id": "P14",
+    "claim": "Sustained core temperature 48–52 degrees",
+    "status": "Not independently validated here",
+    "sources": "MUSE",
+    "limitation": "Axillary reports deserve investigation; no specific deception established."
+  },
+  {
+    "id": "P15",
+    "claim": "Colella recovery investigated and deemed inexplicable by five-member medical board",
+    "status": "Substantial participant account and official process confirmation",
+    "sources": [
+      "VIOLI",
+      "VATICAN"
+    ],
+    "limitation": "Original chart and signed full expert reports not obtained."
+  },
+  {
+    "id": "P16",
+    "claim": "Colella instantly recovered without treatment",
+    "status": "Not what detailed timeline establishes",
+    "sources": "VIOLI",
+    "limitation": "Intensive treatment and recovery over days/weeks are documented."
+  },
+  {
+    "id": "P17",
+    "claim": "Mortality mathematically 100% for anyone with six failed organs",
+    "status": "Not established as a universal claim",
+    "sources": [
+      "VIOLI",
+      "PROULX1994",
+      "PROULX1996",
+      "LETEURTRE1999"
+    ],
+    "limitation": "Need comparable definitions, severity, population and original prognostic source."
+  },
+  {
+    "id": "P18",
+    "claim": "Savino had an entirely absent eye regenerated",
+    "status": "Provisional",
+    "sources": [
+      "MUSE",
+      "DALLAIRE"
+    ],
+    "limitation": "Muse flags ambiguous term; hospital original and early circular missing. Widow distinguishes surviving injured eye from replacement eye."
+  },
+  {
+    "id": "P19",
+    "claim": "Chemical access proves manufactured stigmata",
+    "status": "Does not follow",
+    "sources": "LUZZATTO",
+    "limitation": "Documented request supplies an investigative lead, not a causal demonstration."
+  },
+  {
+    "id": "P20",
+    "claim": "Pio described bilocation under oath in 1921",
+    "status": "Specific original-book citation located",
+    "sources": "CACCI0PPOLI",
+    "limitation": "Castelli English p208; primary page not independently obtained. Description leaves bodily vs representational nature open."
+  },
+  {
+    "id": "P21",
+    "claim": "Knowledge of hidden sins",
+    "status": "Specific 1921 interrogation source target located",
+    "sources": "CACCI0PPOLI",
+    "limitation": "Italian Castelli p225; strongest named recipient cases still require original-document audit."
+  },
+  {
+    "id": "P22",
+    "claim": "Festa reports fragrance from transported cloth and reactions in Rome",
+    "status": "1920 report reproduced",
+    "sources": "DIFLUMERI",
+    "limitation": "Festa himself anosmic; distinguishes others’ reactions from his own observation."
+  },
+  {
+    "id": "P23",
+    "claim": "Friday intensification of bleeding",
+    "status": "Early self-report and multiple witness accounts",
+    "sources": "DIFLUMERI",
+    "limitation": "No blinded quantitative weekday series; some accounts retrospective."
+  },
+  {
+    "id": "P24",
+    "claim": "Bleeding during Mass",
+    "status": "Directly reported by named attendants and bandaging-test witnesses",
+    "sources": "DIFLUMERI",
+    "limitation": "Gloves removed at Mass; consistent physiological peak not quantified."
+  },
+  {
+    "id": "P25",
+    "claim": "Greco says Pio named an unconfessed incident with year and location",
+    "status": "Filmed first-person testimony and matching written account",
+    "sources": [
+      "GRECO_FILM",
+      "GRECO_TEXT"
+    ],
+    "limitation": "Same witness, not independent records of confession itself; original interview date unknown."
+  },
+  {
+    "id": "P26",
+    "claim": "De Martino fluid resolved without medical or surgical treatment",
+    "status": "Detailed medical participant account",
+    "sources": "VIOLI_CONSIGLIA",
+    "limitation": "Discharge diagnosis suspected thoracic-duct leak; primary films/fluid chemistry not obtained."
+  },
+  {
+    "id": "P27",
+    "claim": "Similar cervical/mediastinal lymphatic swellings can resolve in days",
+    "status": "Published clinical comparators",
+    "sources": [
+      "SCSS_LEUVEN",
+      "MRL_BONN",
+      "HONORHEALTH"
+    ],
+    "limitation": "Relevant overlaps, not retrospective diagnosis; HonorHealth patient received thoracentesis and MCT diet."
+  },
+  {
+    "id": "P28",
+    "claim": "Agnese Stump bone restoration after tumor",
+    "status": "Specific documentary lead",
+    "sources": "CACCI0PPOLI",
+    "limitation": "Ruffin 1991 pp382–383 and Schug 1987 pp85–89; original pathology/radiographs not recovered; prior surgery must be included."
+  },
+  {
+    "id": "P29",
+    "claim": "Wojtyła reported recovery before planned surgery in November 1962",
+    "status": "Handwritten thanks reproduced and inspected",
+    "sources": "WOJTYLA_FACSIMILES",
+    "limitation": "Documents reported recovery and prayer, not pathology confirmation."
+  },
+  {
+    "id": "P30",
+    "claim": "Półtawska says doctors allowed an inflammatory alternative",
+    "status": "Attributed first-person account",
+    "sources": "POLTAWSKA_ACCOUNT",
+    "limitation": "Pamphlet reprint provenance incomplete; editorial canonization claim should not override Vatican record."
+  },
+  {
+    "id": "P31",
+    "claim": "Fragrance reports recur across Pio’s ministry and continue after death, including on objects",
+    "status": "Broad reported phenomenon; examples mapped, not a completed independent-witness census",
+    "sources": [
+      "DIFLUMERI",
+      "CASTELLI_PREVIEW",
+      "CACCI0PPOLI",
+      "SPADA_HISTORY"
+    ],
+    "limitation": "Different objects and episodes; no claim of decades of continuous instrumental measurement."
+  },
+  {
+    "id": "P32",
+    "claim": "Knowledge of unconfessed sins is a recurrent claim by many penitents, not limited to Greco",
+    "status": "Multiple named witness/source threads located",
+    "sources": [
+      "GRECO_FILM",
+      "GRECO_TEXT",
+      "ABRESCH_CASTELLO",
+      "CACCI0PPOLI"
+    ],
+    "limitation": "Complete original testimony corpus not yet audited; no numerical count of independently verified disclosures assigned."
+  }
+]

@@ -1,0 +1,37 @@
+DALLEUR: ACADEMIC RESPONSE CHECK
+1 November 2026
+
+RESULT
+No peer-reviewed technical rebuttal or independent D115 photogrammetric replication was located. This is a scoped search result, not proof of nonexistence or evidence of expert consensus endorsing the result. A mathematical criticism does not become invalid merely because it is unpublished; equally, blog discussion cannot be represented as a published specialist refutation.
+
+SEARCH
+Exact title, DOI, author plus critique/response terms, and a fresh OpenAlex citing-works query for W3152771519. OpenAlex again returns one indexed citing work, Lomas and Case (2023). The database is not exhaustive. The prior source audits of direct critics remain in ../fatima-photo-counters-20261027/.
+
+DIRECT TECHNICAL CRITICS
+Mark Grant: self-described mathematics graduate student and former software developer. Institution unverified. His working Google document contains technical criticism and describes correspondence with Dalleur; parts marked outdated/incomplete. It is not a peer-reviewed journal response.
+https://docs.google.com/document/d/1t-wlHbqyUUL1-wN2Lf-zOs6_v77NmG9gmBK0BDWXe4c/edit
+
+James Fodor: University of Melbourne Centre for Brain, Mind and Markets alumnus, with graduate study in physics/economics and an ANU neuroscience master's, per Melbourne's institutional biography. His presentation discusses error propagation, feature selection and optics. It is a video presentation, not a located journal counteranalysis. This does not establish a doctorate award or photogrammetry specialization.
+https://www.unimelb.edu.au/cbmm/about-us/team/james-fodor
+https://www.youtube.com/watch?v=YPDEfgnGPCM
+
+Georgia Ray: independent biosecurity researcher; Evergreen microbiology undergraduate background and George Mason biodefense master's per her biography. Direct critique is a blog essay, not an academic optical replication.
+https://eukaryotewritesblog.com/2025/09/30/miracle-of-the-sun/
+
+Cade Bradley: professional cinematographer; video/podcast critique, with no specialist academic appointment verified. Not a peer-reviewed response.
+https://www.youtube.com/watch?v=dc8PZK65cz8
+
+Same-day follow-up: complete automatic transcript of Muse/Bertuzzi's21August2026 response to Bradley has now been retrieved and read. Source: https://www.youtube.com/watch?v=GZZ3H-ExWMc . See ../fatima-muse-bradley-response-20261101/research-report.txt. The direct response materially undercuts several broad Bradley objections; it must accompany future summaries of Bradley's critique. This remains an informal technical exchange rather than a newly identified journal rebuttal or independent replication.
+
+ACADEMIC CITATION LOCATED
+Tim Lomas and Brendan Case, From Angels to Aliens: Humankind's Ongoing Encounters with, and Evolving Interpretations of, the Genuine Celestial Unknown. Zygon 58(3), 614–635 (2023). DOI: 10.1111/zygo.12891.
+Successfully downloaded the 22-page publisher PDF today, unlike the prior unsuccessful retrieval. Read author affiliations and relevant Fatima discussion, especially printed pp.621–623. Do not claim the whole article was read in this pass. At publication Lomas was a psychology research scientist in Harvard Epidemiology/Human Flourishing; Case was associate director for research in Harvard's Human Flourishing Program. Their discussion is favorable to Dalleur's argument. It quotes his conclusion but supplies no new D115 reconstruction or independent endpoint measurements. It is not a skeptical reply or an experimental replication.
+https://www.zygonjournal.org/article/14934/galley/30245/download/
+Local: lomas-case-2023.pdf and lomas-case-2023.txt.
+
+NEW RECENT MENTION
+Benjamin Radford, Swatting at Skeptical Gadflies, Skeptical Inquirer, November/December 2026 issue, already publicly accessible on 1 November. The inspected passage acknowledges Dalleur's extensive academic rebuttal to Radford's earlier writing; it does not present a technical answer to D115 geometry. Do not call this a completed academic counteranalysis.
+https://skepticalinquirer.org/2026/10/swatting-at-skeptical-gadflies/
+
+DEBATE CONSEQUENCE
+The present record supports describing Dalleur's work as a published affirmative analysis facing informal technical challenges. It does not support saying it has been refuted by an identified peer-reviewed specialist counterstudy, or that it has independently replicated academic confirmation. No tally change is assigned by this bibliographic audit.

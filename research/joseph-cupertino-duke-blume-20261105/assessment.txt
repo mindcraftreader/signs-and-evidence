@@ -1,0 +1,68 @@
+JOSEPH OF CUPERTINO: THE DUKE, BLUME, AND CONVERSIONS
+Research pass: 5 November 2026
+
+RESULT
+No duke-authored or Blume-authored narrative explicitly describing a flight has been recovered in this pass. This is a retrieval finding, not proof that such a document never existed. The duke's conversion and personal connection with Joseph have appreciably stronger documentation than merely a late devotional anecdote. Blume's conversion is historical, but identifying him as the unnamed Lutheran spectator in the flight narrative is not yet secured by a recovered primary document.
+
+PERSONS
+Johann Friedrich (Giovanni Federico / John Frederick), 1625-1679: prince of the Brunswick-Lüneburg house, ruling in Calenberg-Hanover from 1665. Do not call him a separate Duke of Saxony or count those titles as different converts.
+Heinrich Julius Blume / Bluhm / Blumius: Helmstedt-trained scholar, designated for an academic post in 1650, subsequently diplomat and official. Historical references give conflicting birth/death details; these are not required to identify the conversion. Henke calls the designated post 'professio antiq. et hist. eccl.'; Gruber's footnote calls it theology. Avoid an overprecise job title pending the university records.
+
+THE DUKE'S EVIDENCE
+1. G. W. Leibniz, personalia of Johann Friedrich, reprinted in G. H. Pertz (ed.), Leibnizens geschichtliche Aufsätze und Gedichte (1847), printed p.9, PDF p.30. The editor's preface (PDF p.12) states that the text was preserved in Leibniz's handwriting in the Royal Library at Hanover and printed under his supervision in the duke's Funeralien, Rinteln 1685.
+   Leibniz served the duke as court librarian and historian; he was not a witness to the 1651 visit. The account places the duke in Assisi in February 1651 making his Catholic profession before the 'so-called miracle-working Father Joseph,' then confessing at Loreto and returning to Venice. It does not describe a flight. This is a valuable near-contemporary court account of the conversion, not the duke's own testimony to levitation.
+   Source: https://archive.org/details/leibnizensgesam04leibgoog
+
+2. Domenico Bernino, Vita del venerabile padre fra Giuseppe da Copertino (1722), printed pp.180-183 and 193-195. The copy acquired has a pagination discontinuity between 183 and 193; do not claim to have inspected unrepresented intervening pages. At p.181 the narrative describes Joseph flying backward while kneeling for five paces and returning to the altar; this must not be silently changed into an ascent five paces high. P.183 describes a second elevation one palm above the altar platform, accompanied by an alleged black cross on the host. The two count-companions are not named in these passages.
+   P.193 explicitly quotes Cardinal Facchinetti's process testimony attributing the conversion to Joseph's prayers and arguments (marginal reference fol.503 B.C). The original deposition has not been recovered.
+   P.194 reports an authentic statement received from the duke's widow concerning his enduring devotion to Joseph, Joseph's portrait, and Franciscan/Capuchin patronage. She is not thereby established as a flight eyewitness; she married the duke in 1668, after Joseph's death.
+   Source: https://archive.org/details/bub_gb_Yl3HoD565QwC
+
+3. Giuseppe Bono da Diso, La palma spiccata da sassi (Hanover 1680), original scan from the Archiepiscopal Academic Library, hosted by University Library Paderborn. A sermon title (PDF p.102) explicitly says it was preached before the duke on Easter Tuesday 1679. Printed p.113, paragraph35, credits Joseph's prayers with bringing the duke to Catholicism; p.115 repeats that attribution. This is a published lifetime attribution, not a duke-authored statement, and this passage does not narrate the duke seeing a flight.
+   CAUTION: printed p.114, paragraph37, dates the duke's profession to 1652 and says it was made into the hands of Father Angelo da Casalmaggiore. This conflicts with the February1651 chronology in Leibniz and the usual historical biographies. Do not conceal this discrepancy, or identify 'before Joseph' with the formal receiving priest without investigation. Bono says his account of Joseph's persecutions came from an authenticated statement sent by the provincial of the Loreto province to Bishop Valerio Maccioni. That statement is another archival lead.
+   Source: https://digital.ub.uni-paderborn.de/eab/content/titleinfo/579641
+   Full PDF: https://digital.ub.uni-paderborn.de/eab/download/pdf/579641
+
+4. Angelo Pastrovicchi, Compendio (1753), printed pp.29-31. It reports the flight narrative with unnamed companions. P.31 says the duke entered his name in his own hand in the book of the Franciscan Cord-bearers. The register itself, handwriting, entry date, and repository have not been inspected. A reported autograph membership entry is not an autograph description of flight.
+
+CONVERSION TIMELINE: FIRM AND UNRESOLVED
+October1649: Leibniz places the beginning of the duke's second Italian journey here, through France and northern Italy. This is not itself the date of an Assisi flight.
+April1650: Venice, according to Leibniz.
+October1650: Rome, according to the sequence in Leibniz, with religious discussions involving Vatican librarian Luca Holstenius.
+February1651: Assisi profession before Joseph, followed by Loreto confession; directly stated in Leibniz, printed p.9.
+Later1651: return to Rome in September, followed by audience with the pope, devotions outside Rome and confirmation by Cardinal Colonna; Leibniz does not provide an exact day for each following step. Family dispatches Colonel Görtz and Blume, who arrive too late to prevent conversion.
+December1651: A. W. Ward, The Electress Sophia and the Hanoverian Succession, pp.153-154, gives a public profession when family commissioners reached Rome. This is later historiography; not yet verified against the underlying dated record. Do not confuse public profession, earlier reception, and confirmation.
+1652: return to Germany, then Denmark in November (Leibniz). Bono's1652 Assisi profession is a conflicting witness to the date, not an independently verified second ceremony.
+Early encounter/flight date: Bernino and Pastrovicchi use1649 and age25; they also describe a return the following year. The prince was born25April1625, making the exact age/date combination problematic. A first encounter around1650 and reception1651 is a possible harmonization, not a recovered itinerary proving two visits.
+Rosmi lead: Ángel Peña's modern Spanish book, pp.34-35, quotes Rosmi's diary (1991 edition pp.199,201), saying Joseph recounted the prince's recent visit near the end of April1651. If verified in the original diary, this places a report very close to the event. Peña's quoted passage concerns theological discussion and an extraordinary host episode; he then separately introduces other process witnesses for the bodily elevation. Do not relabel Peña's whole combined narrative as Rosmi's direct eyewitness account.
+
+BLUME: THE ORIGINAL CORRESPONDENCE CORRECTS A DATE
+Ernst Henke, ADB2 (1875), pp.745-746, places Blume's mission to Rome in autumn1651, his relinquishing the intended Helmstedt post in1652, and public conversion at Regensburg in1653. Leibniz independently names him among the representatives who arrived too late to prevent the duke's conversion.
+Source: https://www.deutsche-biographie.de/gnd122883187.html#adbcontent
+
+Andreas Räss, Die Convertiten seit der Reformation, vol6 (1868), pp.450-452 and558-571, identifies the unnamed Lutheran companion with Blume and attributes religious disturbance to the Joseph events. But this is a nineteenth-century identification; its primary evidentiary bridge has not yet been recovered. P.451's footnote acknowledges the difference between inclination toward Catholicism and actual conversion in1653. The1918 English Pastrovicchi footnote repeats the identification and cites Räss; these are not two independent flight eyewitness testimonies.
+
+Räss p.559 dates a Conring-to-Blume letter19May1651. The older collection he explicitly cites, J. D. Gruber (ed.), Commercii epistolici Leibnitiani tomus prodromus (1745), printed p.41, actually prints19May1652. The original printed page has been visually checked. Thus1651 is a date error in Räss relative to his cited edition. No original manuscript has been inspected.
+Gruber pp.42-43 preserves a quotation attributed to Blume about the difficulty, after a long stay in Italy and concern for salvation, of not preferring life in the Roman Church. Conring, professor at Helmstedt, argues back against Catholic claims. This documents a real confessional struggle and preserves Blume's words through his correspondent, but contains no recovered 'I saw Joseph fly' statement. Räss p.560 says the responding letter itself was regrettably not printed.
+Source: https://archive.org/details/bub_gb_vhDQ8ErMPL8C
+
+Additional original letters by Blume exist in the Kircher correspondence; Pontifical Gregorian University GATE/EMLO catalogues them. They have not all been read, and no flight description has yet been located in them. Their existence means 'Blume left no writings' would be incorrect.
+Source: https://gate.unigre.it/wiki/Athanasius_Kircher_Correspondence_metadata_%28EMLO%29/Light_view
+
+ADDITIONAL CONVERTS: DO NOT INFLATE THE COUNT
+Joachim Bouflet's2006 La Lévitation, p.22, names the landgrave of Hesse-Rheinfels among the duke's friends who subsequently converted, along with Blume. Ernst of Hesse-Rheinfels and his wife are valid additional conversion leads. Their1652 conversion does not itself establish that either saw Joseph fly or converted because of his flight. A primary link remains missing.
+Johann Christian von Boineburg: historical1653 convert and Blume's associate; no recovered flight-witness/conversion-from-Joseph statement.
+Count Christopher von Rantzau: involved in the duke's earlier religious discussions, himself previously converted under Holstenius; not automatically a subsequent convert through Joseph.
+Queen Christina of Sweden, John Casimir of Poland, and already-Catholic visiting cardinals cannot be counted as Joseph-produced conversions simply because they visited him.
+Frederick of Hesse-Darmstadt must not be confused with Ernst of Hesse-Rheinfels or Johann Friedrich of Brunswick. His prior conversion is not a second version of the duke's Joseph story.
+Current defensible count in this narrow investigation: one strongly documented named convert personally connected to Joseph (the duke), plus one historically converted scholar whose identification as the flight companion remains unresolved (Blume). This is not a total count of every person converted or spiritually affected by Joseph during his life.
+
+BEST NEXT TARGETS
+1. Original Facchinetti deposition and the process testimonies cited in Bernino180 and Pastrovicchi29; identify witnesses and what each personally saw.
+2. Assisi Cord-bearers' register with the duke's reported autograph entry.
+3. Duke's1650-1652 correspondence and itinerary, including letters to family, to settle first encounter versus reception/public profession.
+4. Thomas Cerbu (University of Georgia, Comparative Literature), 'Conversion, learning, and professional choices: the case of Heinrich Julius Blume', in Die Praktiken der Gelehrsamkeit in der Frühen Neuzeit (2001), pp.179-220. Bibliography verified on UGA faculty page; full chapter not acquired in this pass. It is a particularly well-targeted academic treatment, not evidence already read.
+5. Gustavo Parisciani's1991 edition of Rosmi, pp.199,201; verify language/date directly rather than using Peña's translation alone.
+6. Maccioni/Loreto provincial statement behind Bono1680 and retained original duke/widow papers.
+
+No supernatural/ordinary verdict or debate tally was assigned by this source pass.

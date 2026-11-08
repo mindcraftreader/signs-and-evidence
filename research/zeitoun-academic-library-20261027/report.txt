@@ -1,0 +1,64 @@
+ZEITOUN: UNIVERSITY OF AKRON LIBRARY RETRIEVAL
+Session began 27 October 2026; downloads completed 28 October 2026.
+
+ACCESS VERIFIED
+Used the user's foreground Google Chrome Danny profile, not the separate [profile omitted] extension profile. Opened Akron's A-Z Databases > ZipSearch > article full-text routes. JSTOR visibly recognized University of Akron; EBSCO also delivered the full text through the university proxy. User approved JSTOR's Terms & Conditions for the Westbrook download. No interlibrary-loan request, message, purchase or account creation was submitted.
+
+TWO NEW FULL TEXTS SAVED
+
+1. Donald A. Westbrook. Our Lady of Zeitoun (1968-1971): Egyptian Mariophanies in Historical, Interfaith, and Ecumenical Context. Nova Religio 21(2), November 2017, 85-99.
+DOI: https://doi.org/10.1525/nr.2017.21.2.85
+JSTOR: https://www.jstor.org/stable/26418562
+Local PDF: sources/Westbrook-LadyZeitoun19681971-2017.pdf
+Local extracted text: same basename, .txt
+16 PDF pages: JSTOR cover plus 15 journal pages.
+Academic background: scholar of religious studies and information studies; PhD, Claremont Graduate University, 2015. His current San Jose State University affiliation is independently documented by the university; this report does not project that affiliation back to 2017.
+Background sources:
+https://ischool.sjsu.edu/ciri-research-and-innovation-activities
+https://catalog.utexas.edu/archive/2023-24/undergraduate/information/faculty/faculty.pdf
+
+Scope: historical, political, interfaith and ecumenical analysis. The article is not a new photographic or optical experiment and does not adjudicate every alleged physical feature.
+Relevant findings:
+- Printed pp.86-87 summarize the reported moving female figure and luminous birds and emphasize the unusual Muslim first witnesses and publicly accessible character of the events.
+- Printed p.89 describes Cairo's wartime curfew and evening electricity shutdowns. Note 13, p.96, attributes confirmation to personal communications with Saad Michael Saad and Hany N. Takla in June 2016, both in Egypt at the time. This is retrospective corroboration of wartime conditions, not an original power-grid log or verification of an exact blackout radius.
+- Printed p.87 observes the limited academic treatment of Zeitoun and proposes further research. Do not mistake this lack of scholarly attention for a published scientific refutation or scientific certification.
+- Printed pp.89 and 97 note that crowd totals are estimates. He regards Johnson's title When Millions Saw Mary as likely hyperbolic and points to tens of thousands in the Synaxarion and a possible aggregate in the hundreds of thousands. This is his historical assessment, not a deduplicated crowd census, and should be retained alongside the existing crowd-capacity research.
+- No first-person quotation from Nasser was found in this article.
+
+2. Maura Hearden. Lessons from Zeitoun: A Marian Proposal for Christian-Muslim Dialogue. Journal of Ecumenical Studies 47(3), Summer 2012, 409-426.
+Public record: https://openurl.ebsco.com/results?bquery=IS+0022-0558+AND+VI+47+AND+IP+3+AND+DT+2012&page=1&sid=ebsco:ocu_results:cache
+Retrieved through Akron > EBSCO Academic Search Complete.
+Local PDF: sources/Hearden-Lessons-from-Zeitoun-2012.pdf
+Local extracted text: same basename, .txt
+19 PDF pages: 18 journal pages plus rights notice.
+Academic background: article p.409 identifies her as assistant professor of theology at DeSales University since 2008, with an MA in theology and a 2008 PhD in religious studies specializing in systematic theology from Marquette University. This is a publication-time affiliation directly verified on the PDF page.
+Scope: theological and interreligious interpretation, drawing on earlier historical accounts and an interview with Mary Khair, whose husband witnessed the events. It is not an independent instrumented investigation of the lights.
+Relevant findings:
+- Printed p.415 explicitly includes President Nasser among reported witnesses. Footnote 26 refers collectively to DeVincenzo, Nelson and Bullivant; no words spoken by Nasser are quoted. This adds a scholarly secondary attestation but does not yet fill the first-person quotation gap.
+- Printed p.415 reports removal/disconnection of street lighting, citing Nelson pp.5-6. This is a reuse of Nelson's evidence, not a separate newly discovered blackout observation.
+- Printed pp.415-416 summarize the gestures, cross-bowing, luminous birds and prolonged appearances that are central to the user's argument. Most descriptions trace to DeVincenzo; note 32 also identifies the Khair interview.
+- Printed p.415 gives an estimated 250,000-500,000 total observers, typical nightly crowds around 10,000 and peaks around 100,000. Note 25 cites DeVincenzo p.4 and Bullivant p.76. These are inherited estimates, not a count conducted by Hearden.
+
+FULL TEXTS ALREADY IN OUR LOCAL COLLECTION
+- Cynthia Nelson, American University in Cairo anthropologist, The Virgin of Zeitoun, Worldview 16(9), September 1973, 5-11. Existing original PDF and prior audit: ../zeitoun-independence-audit-20261027/sources/nelson-1973.pdf
+- Valeria Cespedes Musso, University of Essex doctoral research: existing full thesis at ../zeitoun-investigation-records-20261027/sources/musso-essex-thesis.pdf. The thesis is related to, but not identical with, her later journal article and 2019 monograph. Do not label the thesis as those publications.
+
+ADDITIONAL LIBRARY SEARCHES AND ACCESS LIMITS
+The current ZipSearch session offered request-from-other-libraries routes rather than immediate full text for:
+- John S. Derr and Michael A. Persinger, Geophysical Variables and Behavior: LIV. Zeitoun (Egypt) Apparitions of the Virgin Mary as Tectonic Strain-Induced Luminosities. Perceptual and Motor Skills 68(1), 1989, 123-128. https://doi.org/10.2466/pms.1989.68.1.123 . Searched exact DOI. Abstract and catalogue record inspected; full paper not obtained in this pass. Do not treat an abstract as a full methodological audit.
+- Valeria Cespedes Musso, Marian Apparitions in Cultural Contexts: Applying Jungian Depth Psychological Principles to Mass Visions of the Virgin Mary at Zeitoun. International Journal of Jungian Studies 9(3), 2017, 183-196. https://doi.org/10.1080/19409052.2017.1289413 . Exact DOI search. Publisher identifies University of Essex Centre for Psychoanalytic Studies affiliation at publication.
+- Travis Dumsday, The Marian Apparitions at Zeitoun: An Evidential Inquiry. St Vladimir's Seminary Press, 2024. Exact title search. Publisher identifies associate professor of philosophy, Concordia University of Edmonton. https://svspress.com/the-marian-apparitions-at-zeitoun-an-evidential-inquiry/ . Full book not obtained.
+- Donald A. Westbrook's review of Dumsday, Journal of Orthodox Christian Studies 8(1), 2025, 162-164. Catalogue record found; full text not obtained.
+- Ronald Bullivant, The Visions of the Mother of God at Zeitun, Eastern Churches Review 3, 1970, starting p.74. Catalogue record found; request-only route shown. Hearden cites pp.74-76; another bibliography gives pp.74-77. Original final page remains to be checked.
+
+EARLIER SOURCES TO TARGET NEXT
+- Victor DeVincenzo, The Apparitions at Zeitoun, Egypt: An Historical Overview. Journal of Religion and Psychical Research 11(1), 1988, 3-13. Referenced directly in Hearden; exact partial-title library search did not surface the article. This search failure is not proof that Akron cannot obtain it.
+- Ronald Bullivant, especially p.76: potential route behind crowd and Nasser claims.
+- Original Fawzi book pp.77-78: still needed to establish his source for Nasser's reported visit.
+- Existing contemporary Arabic committee and government records remain stronger places to check what investigators actually reported than counting later repetitions as additional investigations.
+
+BOUNDARIES OF THIS PASS
+This is a targeted retrieval and source-chain review, not an exhaustive survey of every scholarly reference to Zeitoun. Two new full journal articles are safely local. Other items are explicitly marked as existing local full text, catalogue/abstract only, or unlocated. Neither newly downloaded paper establishes a physical ordinary cause, and neither constitutes a new controlled demonstration of a supernatural cause.
+
+VISUAL CHECKS
+Rendered relevant pages to previews/. Visually checked Westbrook printed p.89 and Hearden printed pp.409,415,416 against extracted text, including affiliation, Nasser claim and footnotes. The original PDFs are retained unchanged.

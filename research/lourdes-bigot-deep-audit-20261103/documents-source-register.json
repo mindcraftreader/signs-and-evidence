@@ -1,0 +1,46 @@
+[
+  {
+    "id": "DOC1",
+    "title": "Debroise/Dujarier1980, lawful public EPUB sample of2021reissue",
+    "url": "https://assets.edenlivres.fr/medias/cb/c46ec303cdadd08523b2293d39cf7ffa5c7a90.epub",
+    "local_file": "research/lourdes-bigot-deep-audit-20261103/sources/debroise-dujarier-1980-sample.epub",
+    "status": "Acquired legal preview, not complete book",
+    "read_scope": "Entire publicsample including clinicalchapter beginning, preface andTOC; stopsduringJuly1951. No outcomechapters included.",
+    "bytes": 475282,
+    "sha256": "51d802ad7ed2e5c992aad77d605effbeb3eb1b11c574a94be035f0451e3a83c8"
+  },
+  {
+    "id": "DOC2",
+    "title": "Debroise1957 Frenchbook tenpagepublicPDFpreview",
+    "url": "https://excerpts.numilog.com/books/9782307063803.pdf",
+    "local_file": null,
+    "status": "Webtext inspected; directdownload403",
+    "read_scope": "Alltenpreviewpages; title, approval, partialRennesordonnance. Decreeendsmidsentence, signature/date notincluded."
+  },
+  {
+    "id": "DOC3",
+    "title": "Georges-J.DedebanMEP1958Lourdescompilation",
+    "url": "https://www.revistadeespiritualidad.com/upload/pdf/923articulo.pdf",
+    "local_file": "research/lourdes-bigot-deep-audit-20261103/sources/debedan-1958-lourdes-compilation.pdf",
+    "status": "Acquired32pagePDF",
+    "read_scope": "Bigotentryp339/PDF16, filmmakingsectionpp328–329, bibliographicreferences andselectedcontext; NOTentireargumentclinicallyaudited. Page339visuallyinspected.",
+    "bytes": 2210980,
+    "sha256": "bc64d8b4a59fbc663b9ecb7a8ce23b8c856a562a7c690a439f367cd07b9fd1ac"
+  },
+  {
+    "id": "DOC4",
+    "title": "Leclercpubliclistinganddeclaredpreviewlink",
+    "url": "https://e-librairie.leclerc/product/9782307221692_9782307221692_1/un-miracle-a-lourdes",
+    "local_file": null,
+    "status": "Publiclistingread",
+    "read_scope": "Editionmetadata, description, actualpreviewlink; no purchase."
+  },
+  {
+    "id": "DOC5",
+    "title": "Original1957editionbooksellerbibliography",
+    "url": "https://www.bibliorare.com/librairie-davy-11-07.pdf",
+    "local_file": null,
+    "status": "Indexedcatalogueexcerpt",
+    "read_scope": "Item84:72pages,4photographicplates, originalpublisher/date. No bookcontentsaccessinferred."
+  }
+]

@@ -1,0 +1,86 @@
+{
+  "conclusion": "No pre2April1968 prophecy document located; nonexistence not established.",
+  "sources": [
+    {
+      "id": "coptic-history-foundation",
+      "url": "https://www.coptichistory.org/new_page_5410.htm",
+      "retrieved_date": "2026-10-27",
+      "is_pre1968_prophecy_document": false,
+      "final_url": "https://www.coptichistory.org/new_page_5410.htm",
+      "file": "research/zeitoun-pre1968-prediction-20261027/sources/coptic-history-foundation.html",
+      "bytes": 23250,
+      "sha256": "5095d87172ae1e3c6c7e7236afd99e6b4ec9b66c920cc213931dbb74d14cec84",
+      "status": "saved"
+    },
+    {
+      "id": "copts-united-2025",
+      "url": "https://www.copts-united.com/Article.php?A=835904&I=6005",
+      "retrieved_date": "2026-10-27",
+      "is_pre1968_prophecy_document": false,
+      "final_url": "https://www.copts-united.com/Article.php?A=835904&I=6005",
+      "file": "research/zeitoun-pre1968-prediction-20261027/sources/copts-united-2025.html",
+      "bytes": 62498,
+      "sha256": "b5dd5caabff34480ea84b196d4f556d78a7fcebcddd561151de644d94c74088d",
+      "status": "saved"
+    },
+    {
+      "id": "ahram-centenary-2025",
+      "url": "https://gate.ahram.org.eg/daily/NewsPrint/996688.aspx",
+      "retrieved_date": "2026-10-27",
+      "is_pre1968_prophecy_document": false,
+      "status": "not_retrieved",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "id": "openlibrary-meinardus-1965",
+      "url": "https://openlibrary.org/books/OL267815M/Christian_Egypt_ancient_and_modern",
+      "retrieved_date": "2026-10-27",
+      "is_pre1968_prophecy_document": false,
+      "final_url": "https://openlibrary.org/verify_human?next=/books/OL267815M/Christian_Egypt_ancient_and_modern",
+      "file": "research/zeitoun-pre1968-prediction-20261027/sources/openlibrary-meinardus-1965.html",
+      "bytes": 43355,
+      "sha256": "60442d564854048e2891afda9ffa95a3e48eb49564901f763dc48869dc4e4411",
+      "status": "saved"
+    },
+    {
+      "id": "meinardus-archive-metadata",
+      "url": "https://archive.org/metadata/christianegyptan0000mein",
+      "retrieved_date": "2026-10-27",
+      "is_pre1968_prophecy_document": false,
+      "final_url": "https://archive.org/metadata/christianegyptan0000mein",
+      "file": "research/zeitoun-pre1968-prediction-20261027/sources/meinardus-archive-metadata.json",
+      "bytes": 14743,
+      "sha256": "081499ed7ec98e6f1c6e8a2433c1ad875abc6f84eae5b87d77d74ea668a0ddf1",
+      "status": "saved"
+    },
+    {
+      "id": "official-parish-history",
+      "url": "https://www.stmaryztn.org/saintmary/en/the-church/about-the-church",
+      "file": "research/zeitoun-pre1968-prediction-20261027/sources/parish-official-history-en.txt",
+      "status": "read_visible_browser_text_saved",
+      "is_pre1968_prophecy_document": false
+    },
+    {
+      "id": "official-parish-apparition",
+      "url": "https://www.stmaryztn.org/saintmary/en/apparition-story",
+      "file": "research/zeitoun-pre1968-prediction-20261027/sources/parish-apparition-story-en.txt",
+      "status": "read_visible_browser_text_saved",
+      "is_pre1968_prophecy_document": false
+    },
+    {
+      "id": "nelson-1973",
+      "url": "https://doi.org/10.1017/S0084255900019951",
+      "file": "research/zeitoun-independence-audit-20261027/sources/nelson-1973.pdf",
+      "page": 9,
+      "is_pre1968_prophecy_document": false,
+      "note": "Primary collection of circulating tradition, not an inspected pre-event document."
+    },
+    {
+      "id": "mourad-episode601",
+      "url": "https://www.youtube.com/watch?v=-pQKNgwQjdk",
+      "file": "research/zeitoun-pints-20261027/episode-601-transcript.txt",
+      "local_caption_timestamp": "54:26–55:45",
+      "is_pre1968_prophecy_document": false
+    }
+  ]
+}

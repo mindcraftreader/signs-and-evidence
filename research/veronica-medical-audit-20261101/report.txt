@@ -1,0 +1,129 @@
+VERONICA GIULIANI: MEDICAL RECORD AUDIT
+1 November 2026
+
+Finding
+
+This case has substantially better recoverable documentation than a modern saint summary alone suggests. A digitized ecclesiastical Summarium at the Bavarian State Library reproduces a judicial examination protocol, named witnesses, and separate signed opinions by surgeon Giovanni Francesco Gentili and physician Giovanni Francesco Bordiga. Both doctors explicitly judged their findings supernatural. That is positive historical medical testimony and deserves to be represented accurately.
+
+The same documents are more specific than some modern retellings. At death the examiners described smooth, lustrous and sometimes discolored marks, rather than currently bleeding holes. They did not find evidence of penetration into the palms or soles. An internal mark in the fat around the heart corresponded to the external side mark, but the external mark was not seen to form a continuous penetrating channel inward. The heart's external surface was ordinary; formations interpreted as Passion symbols were identified inside an auricular region. Other acknowledged self-inflicted devotional incisions were visibly scarred, which the doctors contrasted with the claimed stigmata.
+
+This pass recovered printed primary-document excerpts and a later reproduction of the 1727 juridical report. It has not recovered the original manuscript folios or a modern histological examination of preserved tissue. The most valuable next source is the Gentili manuscript with drawings at Florence: BNCF, Conventi Soppressi A.IV.1706.
+
+Sources and actual access
+
+1. Tifernaten. beatificationis, et canonizationis ven. servae Dei sororis Veronicae de Julianis... 2, Summarium super dubio, an sit signanda commissio introductionis causae. The Bavarian State Library dates the volume approximately 1800; call number 2 V.ss. 80-2; digital identifier bsb10636824. Latin headings frame largely Italian testimony. It is a printed ecclesiastical evidence compilation, not the original 1727 manuscript. Its excerpts preserve process-folio references and sworn wording.
+Reader: https://www.digitale-sammlungen.de/en/view/bsb10636824
+Manifest: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10636824/manifest
+
+Witness list: printed p. 1, digital image 5.
+Judicial external and internal examination: printed pp. 149–162, digital images 153–166.
+Diagram authentication and medical opinions: printed pp. 163–172, digital images 167–176.
+Targeted OCR and 25 medical page images were saved. The complete 354-page digitization was not audited. Older biographies sometimes cite a differently paginated Summarium; a reference such as “Somm. p. 295” in Romano (1776) should not be assigned automatically to p. 295 of this volume.
+
+2. Giovanni Giacomo Romano, Vita della Venerabile Serva di Dio Suor Veronica Giuliani... estratta da' Processi Apostolici, e da altri documenti autentici (Rome: Generoso Salomoni, 1776). The author identifies himself as the Capuchin cause-postulator; his preface is dated 8 September 1776. The digitized copy comes from Johns Hopkins University's Sheridan Libraries. Full PDF and OCR saved.
+https://archive.org/details/wotb_7331472
+
+This is an advocate's process-derived biography. However, Book IV, chapter IX, second pagination pp. 147–154, reproduces what it identifies as Bishop Codebò's juridical Relazione, published around Veronica's death and transmitted to Pope Benedict XIII. Its detailed description can be compared with the actual printed process excerpts. The heart engraving before this report is PDF page 392: an eighteenth-century illustration, not a photograph of tissue or the original predeath paper model.
+
+3. Filippo Maria Salvatori, Life originally published in Rome in 1839; English translation in The Lives of S. Veronica Giuliani... (London: R. Washbourne, 1874). The preface says it was compiled from three earlier lives and the canonization processes. Full PDF and OCR saved. Relevant printed pages: 134–139, 150–160, 163–177, 243–246. It is an important source-chain witness, but not an additional independent medical examination.
+https://archive.org/details/thelivesofsveron00salvuoft
+https://www.catholickingdom.com/s_Library/Books/L/LIVES_OF_S_VERONICA_GIULIANI_and_Bl_BATTISTA_VARANI_OCR_CK.pdf
+
+4. Claudia Borgia, La documentazione femminile dei fondi monastici e conventuali della Biblioteca Nazionale Centrale di Firenze, archival survey hosted by the State Archive of Florence, pp. 13 and 23. It locates BNCF Conventi Soppressi A.IV.1706, from Santissima Annunziata. Three texts concern Veronica: a confessor's account, a nun's death narrative, and a medical report by Francesco Gentili with drawings of marks. Its title describes Gentili as a Florentine medical doctor and professor of surgery residing in Città di Castello. The actual manuscript images, foliation, date and autograph/copy status remain unverified. Direct PDF download timed out; indexed PDF text was readable.
+https://archiviodistatofirenze.cultura.gov.it/memoriadonne/cartedidonne/cdd_14_borgia.pdf
+
+5. Herbert Thurston, SJ, The Physical Phenomena of Mysticism (1952), and an earlier essay in The Month. These are later critical Catholic discussions, not examinations. Both PDFs saved. The 1952 PDF is image-only; its extracted text is empty. The Month essay, printed p. 534, quotes Gentili's shoulder observation through Salvatori p. 163. Do not count Thurston as a second medical witness.
+https://ignca.gov.in/Asi_data/7290.pdf
+
+6. The Vatican Dicastery biography and Benedict XVI's audience of 15 December 2010 confirm the general biography, diary begun in 1693 (approximately 22,000 manuscript pages), and beatification/canonization dates. They supply no detailed clinical protocol.
+https://www.causesanti.va/it/santi-e-beati/veronica-giuliani.html
+
+Who the examiners were
+
+Giovanni Francesco Gentili: witness VI in the process list, age 46, described as chirurgus. His report identifies him as chirurgo condotto of Città di Castello, a municipal or contracted surgeon. He says he had opened many bodies and hearts. He had attended Veronica's final illness and treated other convent nuns, so was not introduced only for the autopsy. The scanned printed signature line reads 15 July 1787. This is apparently a printing or transcription error: the report describes Wednesday 9 July and Thursday 10 July (matching 1727), concerns the 1727 death, and its substance was already used in Romano (1776). The manuscript date requires comparison; the error must not be silently corrected. No university appointment has been verified. The archival title “professor di chirurgia” must not silently become a chair at a named university.
+
+Giovanni Francesco Bordiga: witness V, age 32, doctor physicus; calls himself medico condotto of Città di Castello. He treated the final illness for approximately three weeks after Pietro Similiani's departure. His separate report appears under his own name in the Summarium. No university department has been verified.
+
+Pietro Similiani: described as the city's first physician; treated the beginning of the final illness and ordered cautery and bleeding. No separate opinion on the stigmata has been recovered.
+
+Bishop Luca Antonio Eustachi (also Eustachj): investigator and Holy Office correspondent in 1697; not a medical examiner.
+Bishop Alessandro Codebò: ordered and attended the 1727 judicial examination and custody arrangements; not a medical examiner.
+Giovanni Domenico Fabri/Fabbri: episcopal chancellor and notary who recorded the protocol.
+Luigi Torrigiani/Torreggiani: civic governor and later cardinal; a witness.
+Luc'Antonio Angelucci: artist asked to draw what was observed. A drawing is an interpretative representation, not an automatic measurement.
+Raniero Guelfi: Oratorian confessor, central witness for the predeath heart model and its delivery to the bishop. He knew its predicted content.
+Florida Ceoli, Gabriella Brozzi and Maria Tomassini: nuns present at identification or examination. Ceoli and Maria Maddalena Boscaini also assisted with the paper model in the later narrative.
+
+Chronology and safeguards
+
+1693: diary begun under obedience. Extensive first-person material is not medical corroboration simply because it contains many pages.
+
+1694: crown-of-thorns and head-pain phenomena. Descriptions of heated needles, drains and caustic plasters in these earlier episodes must not be confused with the later hand-wound treatment.
+
+1695: Salvatori p. 246 places a fifty-day confinement, with a companion watching, in a dispute about fasting and suspected secret eating. This predates the full stigmata.
+
+1696: devotional self-incision near the heart is acknowledged. Salvatori pp. 134–135 describes using a penknife to make a cross and write a blood prayer. The postmortem protocol also acknowledges self-inflicted marks. This was not an allegation concealed by her supporters, and it does not by itself establish how the hand or foot marks arose.
+
+5 April 1697: first full hand, foot and side stigmata according to her account and later process testimony.
+
+28 June 1697: claimed renewal and physical description subsequently attributed to an episcopal report and nuns' depositions.
+
+July–October 1697: Holy Office correspondence, treatments, restrictions and sealed hand coverings. Romano II p. 178 says dressed hands were episcopally sealed and only practitioners were to remove coverings when redressing. Page 187 mentions gloves bearing the bishop's seal and confinement for more than fifty days after the stigmata. Thus there is eighteenth-century documentary support for these controls, beyond a modern Franciscan website. There may have been two confinement episodes: the 1695 fasting dispute and the 1697 stigmata investigation. Their protocols should not be merged without checking the original records.
+
+Salvatori pp. 244–245 attributes swelling, inflammation and rose-water care to Eustachi's letter of 29 August 1697. It quotes a letter of 26 September praising obedience and trying to suppress publicity. Original letters and a complete seal-inspection log have not been retrieved. The reports support a serious investigation but do not yet establish a fully reconstructed modern continuous-surveillance protocol.
+
+5 April 1700: the hand/foot open marks reportedly closed, leaving red or purplish spots, with later intermittent recurrence and bleeding. This is not a history of thirty years of invariant, fully open holes.
+
+1714: Giovanni Maria Crivelli, a Jesuit, conducted a two-month religious discernment investigation according to later biography. Testing obedience and mystical experience differs from measuring wound depth.
+
+6 June 1727: onset of final apoplectic illness, with left-sided paralysis. Cautery, venesection and blistering treatments are described.
+
+9 July 1727: death; preliminary external inspection that morning, formal medical examination and thoracic opening that afternoon.
+
+10 July 1727: heart examination resumed the next morning after overnight preservation. Gentili and Bordiga explicitly give these two dates. Some modern summaries wrongly compress the autopsy into a single examination on 10 July.
+
+15 July, apparently 1727: Gentili's opinion; the printed signature year is 1787, an apparent error requiring manuscript comparison.
+
+What the external examination actually reported
+
+The early description in Salvatori p. 153, attributed to episcopal reporting and nuns, calls the hand/foot wounds round, approximately farthing-sized above and smaller below. It describes penetration while open and a thin scar while closed. The side mark was described using finger-widths: four or five long, one wide centrally, tapered at the ends. This is not a calibrated contemporary measurement in centimeters or a visualized probe through a living hand.
+
+The postmortem protocol, Summarium pp. 150–151, describes dark or purplish foot marks and smooth, lustrous hand marks. Their sizes are compared with old coins and finger-widths. No modern metric conversion has been attempted here because the units and referents need historical verification.
+
+The doctors explicitly examined the soles and palms and did not find signs of penetration there. That does not necessarily refute an earlier opening: the lesions changed. It does prevent citing this autopsy as confirmation of persistent through-and-through holes.
+
+At the side was a smooth whitish closed mark above the left breast. The fat around the pericardium showed a mouth-shaped cleft, about three finger-widths long and one wide, with red margins against yellow fat. The doctors considered this extraordinary, including the absence of pus, serum or blood in the chest cavity. However, the external mark was not seen to penetrate inward, and the heart's outer surface was ordinary before it was opened. The report should not be retold as a proven continuous lance track from skin to heart.
+
+Both doctors said the hand, foot and side marks lacked the scar or callus they expected from natural wounds. Other cross/IHS incisions on the chest were visibly scarred and hardened. This is a real comparison within the same body, not merely an assertion that an observer saw nothing. Their inference that this excluded natural injury is still an eighteenth-century medical judgment, not a modern histological test or a universal rule that all skin lesions scar.
+
+Treatment reportedly produced swelling and inflammation. Therefore “never inflamed” is inaccurate for Veronica. No quantitative blood-loss record, serial blood count or microbiological demonstration of sterility was recovered.
+
+The paper heart, custody and anatomical recognition
+
+The confessor ordered a model before death. The process describes a red paper heart, red and white paper figures, and ink letters. Guelfi says she delivered it around Pentecost, two or three days before the final stroke. He showed and delivered it to the bishop during her illness. The process also describes a sealed wrapper and notarial recognition. This is substantially better documentation than an unlocated later rumor.
+
+On 9 July the heart was removed and opened. Because light was failing, it was placed in spirits, covered, tied crosswise, wax-sealed and locked in a cupboard; the bishop retained the key. The next morning it was rinsed with fresh and then lukewarm water to allow it to expand. These are genuine custody details and also tissue-preparation details relevant to interpretation.
+
+Observers identified a cross, C, crown, flames, seven “swords,” V/P, lance/cane, banner with I/M and a nail. The report places the findings in an orecchietta or auricular region, especially the right one. Modern retellings that say “right ventricle” require correction or justification. Both Gentili and Bordiga say the number and distinctness of the formations convinced them they were supernatural.
+
+Not every predicted mark was found. The juridical report expressly admits other V/O/P/F letters, two additional nails and other instruments were not located. Dissection was stopped because of folds or membranes, fear of damaging tissue, time and decomposition concerns, and distress among the nuns. “Every predicted detail matched perfectly” exceeds this record.
+
+The bishop, doctors, confessor and artist knew the prediction and jointly examined the same organ. This does not erase their observations. It does mean that multiple recognitions are not blinded independent experiments. The necessary comparison is between the actual predeath paper model, Angelucci's dated observation drawings, Gentili's manuscript drawings and the later 1776 engraving. These are not automatically the same artifact or date.
+
+What stands, and what remains open
+
+Supported by recovered process material: named medical professionals; separate written opinions; civil, clerical and notarial witnesses; explicit custody and preservation; examination of real bodily marks; comparison with other scarred injuries; and testimony about a model delivered before the autopsy. “It is all just her own diary” is untenable as a description of this record.
+
+Still requiring original records: the exact 1697 glove and surveillance protocol; the earliest depth examinations; duration, treatment and seal integrity; the complete unabridged medical descriptions; and the actual dated heart drawings. Some sections of the printed medical opinions say “sequitur descriptio,” omitting detailed description while preserving the doctor's conclusion.
+
+Specific limitations or counterevidence recovered: acknowledged self-inflicted devotional incisions; absence of penetrating palm/sole signs at death; no demonstrated continuous side-to-heart channel; incomplete model match; unblinded interpretation of complex anatomy; and medical causal inferences resting on eighteenth-century expectations. These must be assessed directly rather than used as automatic proof of fraud. No retrospective psychiatric diagnosis or settled natural mechanism is established by this pass.
+
+Priority retrievals
+
+1. BNCF Conventi Soppressi A.IV.1706: complete Gentili report and drawings, date, foliation, autograph/copy status.
+2. Original process folios 244 ter–262 ter: full Gentili and Bordiga reports behind Summarium pp. 167–172.
+3. Original process folio 95 ter onward: full 9–10 July autopsy protocol and any Angelucci drawings.
+4. Eustachi's Holy Office letters of 29 August and 26 September 1697; Cybo's letters of 20 July, 10 August, 14 September and 5 October. Check whether administrative closure or silence was later overread as a definitive supernatural-mechanism judgment.
+5. Diary editions with manuscript alignment: Pizzicaria/Bucchioni, 1895–1928; Fiorucci, 1969–1974, especially volume 5, Relazioni, manoscritti, reperti, appendici, lettere. Catalogs located; full editions not retrieved or audited in this pass.
+
+A useful next analysis would have a modern anatomist read the actual historical reports and drawings, then compare the manuscript and printed versions. No contact has been made.

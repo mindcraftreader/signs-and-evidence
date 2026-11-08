@@ -1,0 +1,628 @@
+{
+  "date": "2026-11-05",
+  "source_dois": [
+    "10.3390/heritage2040171",
+    "10.3390/heritage5020047",
+    "10.3390/info13100458"
+  ],
+  "parameters": {
+    "omega": 0.953,
+    "activation_energy_J_mol": 118900.0,
+    "gas_constant": 8.314,
+    "reference_temperature_K": 363.15
+  },
+  "published_shroud_ap": {
+    "central": 0.6,
+    "measurement_sigma": 0.02,
+    "sigma_source": "Information 2022 Figure5 describes +/-1SD; not total model uncertainty"
+  },
+  "four_non_anchor_checks": {
+    "n_non_anchor_checks": 4,
+    "mean_absolute_central_difference_years": 40,
+    "mean_95_interval_width_years": 602.5,
+    "checks": [
+      {
+        "sample": "DII",
+        "reference_age_years": 950,
+        "waxs_age_years": 940,
+        "waxs_95_low": 870,
+        "waxs_95_high": 1010
+      },
+      {
+        "sample": "NII",
+        "reference_age_years": 2310,
+        "waxs_age_years": 2350,
+        "waxs_95_low": 2060,
+        "waxs_95_high": 2860
+      },
+      {
+        "sample": "E",
+        "reference_age_years": 2390,
+        "waxs_age_years": 2390,
+        "waxs_95_low": 2160,
+        "waxs_95_high": 2670
+      },
+      {
+        "sample": "HII",
+        "reference_age_years": 2880,
+        "waxs_age_years": 2770,
+        "waxs_95_low": 2410,
+        "waxs_95_high": 3370
+      }
+    ],
+    "interpretation": "Within-study non-anchor checks, not independent laboratories; these errors do not define a validated far-tail distribution."
+  },
+  "europe_only_monthly_ap": {
+    "1204": 0.05162022600233784,
+    "1354": 0.0407057771969731
+  },
+  "ancient_route_monthly_ap": {
+    "Beirut": {
+      "1204": 0.5661056959076278,
+      "1354": 0.5988805433119114
+    },
+    "Edessa": {
+      "1204": 0.48589618772451326,
+      "1354": 0.5200043007509668
+    },
+    "Memphis": {
+      "1204": 0.6856494074925883,
+      "1354": 0.7135966472436341
+    },
+    "Camulia": {
+      "1204": 0.18999335940569495,
+      "1354": 0.21493703652558838
+    }
+  },
+  "counterfactual_uniform_temperature_offset_c_to_reach_ap_0_60": {
+    "1204": 9.214986937635526,
+    "1354": 10.364414312164957
+  },
+  "counterfactual_offset_sensitivity": [
+    {
+      "offset_c": 0,
+      "1204": 0.05162022600233784,
+      "1354": 0.0407057771969731
+    },
+    {
+      "offset_c": 1,
+      "1204": 0.06527429946595953,
+      "1354": 0.05089922338807784
+    },
+    {
+      "offset_c": 2,
+      "1204": 0.08336800401101374,
+      "1354": 0.06418336713354633
+    },
+    {
+      "offset_c": 3,
+      "1204": 0.10767078080077519,
+      "1354": 0.08172344977443335
+    },
+    {
+      "offset_c": 5,
+      "1204": 0.18601535128412672,
+      "1354": 0.13697822414975347
+    },
+    {
+      "offset_c": 8,
+      "1204": 0.4405862719807626,
+      "1354": 0.31998297498607775
+    },
+    {
+      "offset_c": 10,
+      "1204": 0.7070912518539121,
+      "1354": 0.5506246707190032
+    },
+    {
+      "offset_c": 12,
+      "1204": 0.9138672217033134,
+      "1354": 0.8097069710383301
+    }
+  ],
+  "uniform_lifetime_climate_examples": [
+    {
+      "temperature_c": 12.5,
+      "reference_rate_h_inverse": 0.0023,
+      "years_to_ap_0_60": 7568.217762439408
+    },
+    {
+      "temperature_c": 15,
+      "reference_rate_h_inverse": 0.0023,
+      "years_to_ap_0_60": 4901.731144957054
+    },
+    {
+      "temperature_c": 17.5,
+      "reference_rate_h_inverse": 0.0023,
+      "years_to_ap_0_60": 3198.531009702239
+    },
+    {
+      "temperature_c": 20,
+      "reference_rate_h_inverse": 0.0023,
+      "years_to_ap_0_60": 2102.392649140887
+    },
+    {
+      "temperature_c": 22.5,
+      "reference_rate_h_inverse": 0.0023,
+      "years_to_ap_0_60": 1391.7430483630085
+    },
+    {
+      "temperature_c": 25,
+      "reference_rate_h_inverse": 0.0023,
+      "years_to_ap_0_60": 927.7025112817118
+    },
+    {
+      "temperature_c": 27.5,
+      "reference_rate_h_inverse": 0.0023,
+      "years_to_ap_0_60": 622.5695784967872
+    },
+    {
+      "temperature_c": 30,
+      "reference_rate_h_inverse": 0.0023,
+      "years_to_ap_0_60": 420.5562327266268
+    }
+  ],
+  "bleached_modern_A_counterfactual": {
+    "ap": 0.13366336633663367,
+    "years_if_inappropriately_dated_as_naturally_aged_at_21C": 741.4977211065984,
+    "status": "Author explicitly excluded this known bleached sample. This is our diagnostic counterfactual, not their reported date or evidence the Shroud was bleached."
+  },
+  "limits": [
+    "Mathematical reproduction, not independent experimental validation.",
+    "No historical temperature or humidity was measured here.",
+    "Counterfactual temperature offsets are not documented storage conditions.",
+    "No posterior authenticity probability or combined-method odds calculated."
+  ],
+  "monthly_climate_inputs": {
+    "Jerusalem": [
+      [
+        8.9,
+        71
+      ],
+      [
+        10,
+        69
+      ],
+      [
+        12.8,
+        61
+      ],
+      [
+        16.6,
+        52
+      ],
+      [
+        20.8,
+        47
+      ],
+      [
+        23.9,
+        48
+      ],
+      [
+        25.9,
+        51
+      ],
+      [
+        26.1,
+        55
+      ],
+      [
+        24.2,
+        56
+      ],
+      [
+        20.7,
+        58
+      ],
+      [
+        15.3,
+        59
+      ],
+      [
+        10.8,
+        67
+      ]
+    ],
+    "Beirut": [
+      [
+        10.5,
+        74
+      ],
+      [
+        11.3,
+        73
+      ],
+      [
+        13.7,
+        69
+      ],
+      [
+        16.8,
+        65
+      ],
+      [
+        20.7,
+        60
+      ],
+      [
+        23.8,
+        59
+      ],
+      [
+        25.9,
+        62
+      ],
+      [
+        26.1,
+        66
+      ],
+      [
+        24.5,
+        64
+      ],
+      [
+        21.5,
+        63
+      ],
+      [
+        16.4,
+        63
+      ],
+      [
+        12.4,
+        71
+      ]
+    ],
+    "Edessa": [
+      [
+        4.3,
+        74
+      ],
+      [
+        6.1,
+        72
+      ],
+      [
+        10.4,
+        62
+      ],
+      [
+        15.6,
+        52
+      ],
+      [
+        21.4,
+        41
+      ],
+      [
+        27.8,
+        27
+      ],
+      [
+        31.9,
+        23
+      ],
+      [
+        31.5,
+        25
+      ],
+      [
+        26.3,
+        30
+      ],
+      [
+        19.5,
+        44
+      ],
+      [
+        11.2,
+        61
+      ],
+      [
+        6,
+        71
+      ]
+    ],
+    "Memphis": [
+      [
+        13.4,
+        54
+      ],
+      [
+        14.8,
+        47
+      ],
+      [
+        17.9,
+        42
+      ],
+      [
+        21.4,
+        37
+      ],
+      [
+        25.3,
+        36
+      ],
+      [
+        27.9,
+        40
+      ],
+      [
+        29.1,
+        45
+      ],
+      [
+        29.2,
+        47
+      ],
+      [
+        27.4,
+        48
+      ],
+      [
+        24,
+        52
+      ],
+      [
+        19.4,
+        54
+      ],
+      [
+        15.1,
+        55
+      ]
+    ],
+    "Camulia": [
+      [
+        -2.5,
+        73
+      ],
+      [
+        -0.9,
+        69
+      ],
+      [
+        3.9,
+        62
+      ],
+      [
+        8.8,
+        56
+      ],
+      [
+        13.5,
+        53
+      ],
+      [
+        18.2,
+        45
+      ],
+      [
+        21.9,
+        37
+      ],
+      [
+        22.1,
+        37
+      ],
+      [
+        17.6,
+        40
+      ],
+      [
+        11.5,
+        52
+      ],
+      [
+        4.7,
+        63
+      ],
+      [
+        -0.2,
+        69
+      ]
+    ],
+    "Constantinople": [
+      [
+        6,
+        79
+      ],
+      [
+        6.5,
+        77
+      ],
+      [
+        8.5,
+        75
+      ],
+      [
+        12,
+        75
+      ],
+      [
+        16.9,
+        73
+      ],
+      [
+        21.7,
+        70
+      ],
+      [
+        24.3,
+        69
+      ],
+      [
+        24.6,
+        69
+      ],
+      [
+        21.1,
+        70
+      ],
+      [
+        16.4,
+        75
+      ],
+      [
+        12.2,
+        77
+      ],
+      [
+        8.1,
+        78
+      ]
+    ],
+    "Lirey": [
+      [
+        3.5,
+        84
+      ],
+      [
+        3.9,
+        80
+      ],
+      [
+        6.9,
+        76
+      ],
+      [
+        10.4,
+        71
+      ],
+      [
+        14.2,
+        73
+      ],
+      [
+        17.9,
+        68
+      ],
+      [
+        19.9,
+        65
+      ],
+      [
+        19.5,
+        66
+      ],
+      [
+        16.2,
+        71
+      ],
+      [
+        12.4,
+        79
+      ],
+      [
+        7.5,
+        85
+      ],
+      [
+        4.3,
+        85
+      ]
+    ],
+    "Chambery": [
+      [
+        0.5,
+        79
+      ],
+      [
+        1.6,
+        75
+      ],
+      [
+        5.5,
+        71
+      ],
+      [
+        9.5,
+        68
+      ],
+      [
+        13.3,
+        71
+      ],
+      [
+        17.5,
+        69
+      ],
+      [
+        19.4,
+        67
+      ],
+      [
+        19.1,
+        69
+      ],
+      [
+        15.3,
+        73
+      ],
+      [
+        11.2,
+        77
+      ],
+      [
+        5,
+        81
+      ],
+      [
+        1.4,
+        80
+      ]
+    ],
+    "Turin": [
+      [
+        1.8,
+        74
+      ],
+      [
+        3,
+        71
+      ],
+      [
+        7.4,
+        67
+      ],
+      [
+        11.4,
+        69
+      ],
+      [
+        15.7,
+        69
+      ],
+      [
+        20.3,
+        66
+      ],
+      [
+        22.6,
+        60
+      ],
+      [
+        22.1,
+        62
+      ],
+      [
+        17.8,
+        66
+      ],
+      [
+        12.8,
+        77
+      ],
+      [
+        6.9,
+        79
+      ],
+      [
+        2.5,
+        75
+      ]
+    ]
+  }
+}

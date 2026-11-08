@@ -1,0 +1,141 @@
+{
+  "audit_date": "2026-11-02",
+  "case": "Pu Xian, Kuala Lumpur, 2011",
+  "entries": [
+    {
+      "id": "MY01",
+      "url": "https://www.mybuddhist.net/cms/shishidongtai/bendixinwen/2011/16031.html",
+      "title": "佛开金口 念经眨眼奇景 百名信徒：不是眼花",
+      "date": "2011-03-20",
+      "type": "Contemporary newspaper reprint; credits Guang Ming Daily",
+      "local": "sources/guangming-reprint-web-extraction.json",
+      "reading_scope": "Full extracted article read in Chinese; selective English paraphrase in report. Original print issue not recovered.",
+      "translation": "Agent translation; not a certified translation.",
+      "retrieval": "Web tool successfully returned body. Direct shell HTTP retrieval failed with 406; no error page saved as article.",
+      "sha256": "e155036a84889a012c422cfc48feb832b9f92c9b544bdd59890fbf20f8457ba1"
+    },
+    {
+      "id": "MY02",
+      "url": "https://puxianmalaysia.wordpress.com/testimonials/",
+      "title": "Testimonials — puxianmalaysia",
+      "type": "First-party collection and derivative article preservation",
+      "local": "sources/puxian-testimonials.html",
+      "reading_scope": "Relevant 2011 article, shortlinks and commentary examined. Not all unrelated testimonials read.",
+      "dependency": "Contains Epoch Times/Guang Ming chain; not an additional independent event report.",
+      "sha256": "6b49c25d2e1babcd1ed7cd0b158149f8dad38438ef9a4780debe1da7a917c8ca"
+    },
+    {
+      "id": "MY03",
+      "url": "https://waynedhamma.blogspot.com/2011/03/miraculous-talking-buddha-statues-in-kl.html",
+      "title": "Miraculous Talking Buddha Statues in KL",
+      "date": "2011-03-21",
+      "type": "Contemporaneous Buddhist commentary",
+      "local": "sources/wayne-blog-20110321.html",
+      "reading_scope": "Post and relevant comments read; author not established as an eyewitness.",
+      "dependency": "Comments and general mechanical suggestions not authenticated evidence about actual objects.",
+      "sha256": "0ad66fd2f13d32dc332de5fd340c86ec0143e960efa30793f3509eab7ffb977a"
+    },
+    {
+      "id": "MY04",
+      "url": "https://m.secretchina.com/news/gb/2011/03/23/amp396699.html",
+      "title": "Chinese derivative coverage",
+      "date": "2011-03-23",
+      "type": "Derivative press summary",
+      "local": "sources/secretchina-20110323.html",
+      "reading_scope": "Previously recovered source copied for local case library; no independence assumed.",
+      "sha256": "6259c6574679de677820ca6b42952b589b19075fe3165a3b2e1e2e5a56054d84"
+    },
+    {
+      "id": "MY05",
+      "url": "https://doi.org/10.1515/9789048551835",
+      "title": "Buddhist Revitalization and Chinese Religions in Malaysia",
+      "author": "Tan Lee Ooi",
+      "date": "2020",
+      "publisher": "Amsterdam University Press",
+      "type": "Academic monograph; social-science context",
+      "local": "sources/tan-book-publisher.html",
+      "reading_scope": "Publisher/catalog metadata checked; indexed case section pp. 157–159 read through a third-party mirror returned by focused search, not authenticated publisher/library copy. Footnote 83 not recovered. Social reception analysis, not optical authentication.",
+      "author_background": "NUS PhD; 2020 biography identifies UOW Malaysia KDU Penang University College Mass Communication department head.",
+      "chapter_doi": "https://doi.org/10.5117/9789463726436_ch06",
+      "sha256": "bca64d881fe6e68460ccffb3e47f5746ad7838d45351cda93afbaca373dcae39",
+      "case_excerpt_local": "sources/tan-case-search-excerpts.json"
+    },
+    {
+      "id": "MY06",
+      "url": "https://www.youtube.com/watch?v=zRwEBl3qjEI",
+      "title": "MIracle of Talking Bronze Buddha Statue in Puxian Buddhist Mission",
+      "uploader": "Kim Lim Chin / @klchin77",
+      "type": "Video",
+      "retrieval": "Accessible through browser",
+      "reading_scope": "Sampled images, not full continuous viewing or forensic analysis.",
+      "duration": "~0:41",
+      "local": "sources/video-inspection-log.txt"
+    },
+    {
+      "id": "MY07",
+      "url": "https://www.youtube.com/watch?v=X070Qxu8iFQ",
+      "title": "Talking bronze buddha at puxian buddhist mission 2",
+      "uploader": "Kim Lim Chin / @klchin77",
+      "type": "Video",
+      "claimed_event_date": "2011-02-27, uploader description",
+      "retrieval": "Accessible through browser",
+      "reading_scope": "Images around 0:04 and 0:27 and playback section inspected; not full forensic analysis.",
+      "duration": "~0:30",
+      "local": "sources/video-inspection-log.txt"
+    },
+    {
+      "id": "MY08",
+      "url": "https://www.youtube.com/watch?v=u7JDvXyq9D8",
+      "title": "Miracle at Puxian Buddhist Mission 4",
+      "uploader": "Kim Lim Chin / @klchin77",
+      "type": "Video",
+      "claimed_event_date": "2011-03-24, uploader description",
+      "retrieval": "Accessible through browser",
+      "reading_scope": "Opening and short section around 3:03–3:15 sampled; NOT all ten minutes viewed.",
+      "duration": "~10:11",
+      "local": "sources/video-inspection-log.txt"
+    },
+    {
+      "id": "MY09",
+      "url": "https://www.youtube.com/watch?v=4p3IQT44nKY",
+      "type": "Video lead",
+      "retrieval": "Browser says private video; not viewed.",
+      "resolved_from": "http://bit.ly/hMCVgl"
+    },
+    {
+      "id": "MY10",
+      "url": "https://www.youtube.com/watch?v=iXXULOmYlEU",
+      "title": "Miracle at Puxian Buddhist Mission 5 (Blue light emmited by buddha)",
+      "type": "Video lead",
+      "retrieval": "Linked metadata/related-list title seen, not played.",
+      "resolved_from": "http://bit.ly/gXbnRn"
+    },
+    {
+      "id": "MY11",
+      "url": "https://www.info.gov.hk/gia/general/201005/07/P201005070112.htm",
+      "title": "General holidays for 2011 published",
+      "date": "2010-05-07",
+      "type": "Government calendar reference",
+      "reading_scope": "Search result verified Lunar New Year February 3, 2011; calendar context only, no event testimony."
+    }
+  ],
+  "scope_warning": "Saved source bodies are research captures, not independently verified truth claims. No original video files downloaded.",
+  "failed_retrievals": [
+    {
+      "url": "https://www.kooky.com.my/chinese/node/4310",
+      "result": "Web fetch inaccessible"
+    },
+    {
+      "url": "https://web.archive.org/cdx/search/cdx?url=kooky.com.my/chinese/node/4324&output=json&filter=statuscode:200",
+      "result": "Web fetch inaccessible; archive absence not established"
+    },
+    {
+      "url": "https://www.scienceopen.com/book?vid=2249f382-6e56-444f-bb55-bbf093280eb0",
+      "result": "Browser security verification page; no chapter body read"
+    },
+    {
+      "url": "https://dokumen.pub/buddhist-revitalization-and-chinese-religions-in-malaysia-9789048551835.html",
+      "result": "Direct section reads timed out and shell failed 403; later focused search supplied indexed case text pp. 157–159, saved as search result. Not saved or verified as complete book."
+    }
+  ]
+}

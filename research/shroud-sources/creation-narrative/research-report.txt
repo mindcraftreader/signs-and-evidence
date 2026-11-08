@@ -1,0 +1,238 @@
+WHO COULD HAVE MADE THE SHROUD?
+Research synthesis, 27 October 2026
+
+WORKING CONCLUSION
+Status: Inference, conditional on a medieval artificial image
+
+The best-supported maker category in this investigation is an anonymous workshop familiar with Passion imagery, potentially combining sculpture and painting. A French or nearby workshop is a reasonable starting point because of the Lirey acquisition/display setting; French custody does not establish French manufacture. No reviewed source identifies an individual maker. A gifted but otherwise obscure craftsman would fit as well as a famous court artist.
+
+The narrative below is a testable reconstruction: a medieval representation of Christ’s burial cloth was made and acquired for the Lirey setting, then displayed and contested as a relic. Its historical setting is better supported than its exact manufacturing process. It explains why such an object could exist and how some image properties could arise; it does not yet explain every microscopic feature.
+Sources: SARZEAUD-2024-TRACE, NICOLOTTI-2025, REPLICA-2010, STURP-1982
+
+1. THE LINEN AND THE COMMISSION
+Status: Measured sample age + historical context; commission speculative
+
+The 1988 measurements, published in 1989, give AD 1260–1390 for the sampled linen at the stated 95% confidence. If that strip represents the main cloth, and the conventional first Lirey displays around 1355 are correctly reconstructed, an artificial image could have been made in the late thirteenth or first half of the fourteenth century. Choosing about 1330–1355 is an illustrative scenario, not a new measured image date. Carbon dates flax, not the moment of image formation.
+
+A church or aristocratic patron could commission a large Passion object meant to evoke the burial of Christ. Our large-linen collection shows that large medieval devotional textiles existed, but does not establish a stock supplier of identical herringbone linen. Princeton’s 1300–1350 epitaphios supplies a narrower contextual point: a cloth showing the dead Christ could have a devotional function without purporting to be his actual burial cloth. It is Byzantine embroidery, not a French technical prototype.
+Sources: C14-1989, EPITAPHIOS-PRINCETON, SARZEAUD-2024-TRACE
+
+2. A WORKSHOP DESIGNS THE BODY IMAGE
+Status: Plausible partial mechanism, not a recovered medieval procedure
+
+A sculptor could supply shallow models or a controlled surface for the face and body, while a painter planned the paired front/back arrangement and Passion details. Relief contact or rubbing can make projecting features darker, creating a negative-like tonal pattern without photographic equipment. That observation makes an extraordinary photographic invention unnecessary for this particular property; it does not establish which process made Turin’s image.
+
+Garlaschelli’s 2010 physical experiments combined body rubbing with a relief for the face and manual additions. They demonstrate a practical route to several broad visual effects. Moraes’s 2025 digital study separately shows why a flattened relief can avoid some distortions of a draped full-volume model. Its model is adjusted using the target image, and its cloth uses default cotton settings. It tests selected geometry rather than medieval craftsmanship, image chemistry or every possible body-to-cloth mechanism.
+Sources: REPLICA-2010, MORAES-2025
+
+3. MAKING A FAINT IMAGE THAT SURVIVES
+Status: The principal unresolved technical step
+
+A contact-assisted surface reaction, possibly followed by removal of loose material, is one candidate. It could in principle leave a faint image with little surviving binder. This is a hypothesis, not evidence of a historical washing or aging treatment. Garlaschelli’s effective chemical trials used an aqueous acid/pigment slurry, oven treatment and washing; a proposed centuries-long natural-aging equivalent has not been demonstrated simply by doing that accelerated experiment.
+
+The obstacle is the physical match. Schwalbe and Rogers interpreted the main image as altered cellulose and found serious difficulties for conventional paint and other tested mechanisms. Fanti and Heimburger argue that the Garlaschelli replica misses important fiber-level and image/blood properties. McCrone instead argued for pigments and tempera. Those incompatible interpretations cannot be silently combined into a proven recipe. A convincing photograph of a replica is insufficient; a proposed process must pass the microscopic and chemical comparisons too.
+Sources: REPLICA-2010, STURP-1982, FANTI-HEIMBURGER-2011, VIKAN-1998
+
+4. WOUNDS AND BLOOD ARE A SEPARATE OPERATION
+Status: Observed-material interpretations; sequence remains a constraint
+
+An artificial-image scenario can include real blood, a blood substitute, or different materials in different marks; none should be asserted without tests. Heller and Adler interpreted sampled red material as blood-related. Their protease observations on selected fibers support a blood-before-image interpretation in those samples, rather than a rule that every red mark was added last. Garlaschelli’s later-added surrogate blood does not settle that sequence.
+
+Real human blood, if confirmed, would not by itself identify the person or date the image. Conversely, calling all the red marks paint would dismiss contrary analyses without resolving them. There is no evidence here for a murdered model or a staged medieval crucifixion, and this narrative does not require one.
+Sources: CHEMISTRY-1981, REPLICA-2010, FANTI-HEIMBURGER-2011
+
+5. ACQUISITION AND THE CHANGE FROM IMAGE TO RELIC
+Status: Retrospective documentary allegations; intention unknown
+
+The conventional c.1355 beginning is reconstructed from later documents. In the 1389–1390 controversy, Bishop Pierre d’Arcis alleged earlier manufacture and investigation under his predecessor Henri of Poitiers. The record points to the dean, Robert de Caillac, as procuring the object. It reports an artisan’s admission but does not preserve a named maker’s signed confession, examination protocol or recipe. The bishop’s report is valuable evidence requiring source criticism, not a modern laboratory result.
+
+This leaves two plausible branches: someone commissioned a counterfeit relic, or a representation originally made for devotion was subsequently promoted as an authentic relic. Nicolotti explicitly distinguishes procurement from the unknown artist’s intention. Charny’s association with the foundation and cloth does not prove that he ordered a forgery. Poulle’s criticism of editions and papal drafts is also a reason to avoid using every accusatory phrase as an uncontested fact.
+
+The papal handling permitted a representation to be displayed under restrictions; it was not a scientific authentication. Subsequent custody and prestige could sustain veneration without preserving the maker’s name. That social process explains the loss of an artistic attribution more readily than it supplies a chemical explanation for the image.
+Sources: NICOLOTTI-2025, POULLE-2006, SARZEAUD-2024-TRACE
+
+A PUBLISHED ROYAL-COURT NARRATIVE TO INVESTIGATE
+Status: Published hypothesis, not independently verified here
+
+Gary Vikan’s 2020 publisher synopsis proposes a court artist during the Black Death, a gift from John II to Geoffroi de Charny, and a devotional object later treated as a relic. This is a useful version of the workshop narrative to test against archives. Only the synopsis, not the full book, was reviewed here. I have not independently recovered a contemporary royal gift or payment record establishing that chain, so those attractive details remain outside the factual backbone.
+Sources: VIKAN-2020
+
+WHAT THIS LEAVES OPEN
+Status: Alternatives and limits
+
+A medieval object could have been imported before reaching Lirey; the place of display does not establish place of manufacture. An older cloth could also carry a later image. An authentic ancient cloth under the repaired-corner hypothesis is a different explanation: it requires independent support that the dated strip fails to represent the main linen. The workshop reconstruction does not itself disprove that repair claim, and the repair claim does not identify an image mechanism.
+
+The newer aging-proxy dates must retain their calibration, provenance and shared-environment uncertainties from our dating audit; they are not extra independent votes whose standard deviations can simply be multiplied. None of the historical, replication or geometric studies reviewed here resolves that dependence. The present conclusion is therefore a plausible partial creation narrative, with an anonymous maker and a substantial open chemical step, rather than a solved attribution.
+Sources: ROGERS-2005, C14-1989, MULTIMETHOD-2015, MORAES-2025
+
+WHO TO INVESTIGATE
+
+Anonymous workshop | Best current category | Could combine design, relief carving, surface treatment and finishing. No commission, model or recipe connects a workshop securely to the cloth.
+
+Évrard d’Orléans and circle | First named comparison lead | Painter/sculptor active at the right time, with religious commissions including a cross and commemorative image. Capability and chronology fit; no reviewed Shroud, Charny or Lirey connection.
+
+Jean Pépin de Huy and collaborators | Relevant funerary workshop comparison | Pre-Lirey recumbent and funerary sculpture. No link to the cloth or its surface chemistry.
+
+Ravy / Bouteiller / Notre-Dame workshop | Relevant relief comparison | Christ relief production before 1351. A skill comparison, without acquisition or manufacturing evidence.
+
+Robert de Caillac | Documentary procurement lead | The dean is implicated in the later bishop’s account. A purchaser/exhibitor lead, not an identified sculptor or chemist.
+
+Geoffroi de Charny / family | Patronage and custody lead | Important setting for acquisition and display; does not establish who commissioned or made the image.
+
+Beauneveu, Jean de Liège, Sluter / Marville | Later comparisons | The reviewed major works postdate the conventional first Lirey display; they cannot be credited from those works alone.
+
+EVIDENCE MATRIX
+
+Why make a body image on cloth? | Period devotional and Passion-image contexts support a motive. | Supported context | Does not establish an original liturgical use for Turin.
+
+Why the paired front/back form? | A planned representation could imitate a folded burial cloth. | Inference | No preparatory drawing or exact model recovered.
+
+Negative-like tones and some relief effects | Contact/rubbing and selected relief geometry can generate related effects. | Partial demonstrations | Not an exact whole-image or fiber-level replication.
+
+Faint, superficial yellow body image | A localized surface reaction is a candidate. | Unresolved mechanism | No verified medieval recipe matching all physical evidence.
+
+Red marks and their sequence | A separate wound operation is possible. | Contested material/sequence constraints | Replica surrogate marks do not establish original blood chemistry or chronology.
+
+Medieval linen date | The representative-sample scenario fits the workshop account. | Measurement with sampling condition | Does not separately date the image; repaired-corner claim needs direct evidence.
+
+Arrival at Lirey | Retrospective documents provide a procurement/display setting. | Historical evidence requiring criticism | No named maker, surviving original confession or certain intended deception.
+
+A particular famous artist | Some artists demonstrably had relevant skills. | Comparison only | No discriminating template match, payment or provenance chain.
+
+NEXT TESTS
+
+1. Archive first: trace the dean’s procurement network, Charny connections and relevant church/court payments. A direct commission or inventory description would discriminate better than general facial resemblance.
+2. Compare distinctive design features against securely dated reliefs and drawings, with alternative workshops and controls. Beard, crossed hands and a recumbent Christ are too general for attribution.
+3. Run physical tests with period-appropriate linen, reliefs and full-volume controls; measure fabric properties and vary tension/pressure rather than adopting generic cotton defaults.
+4. Test plausible reagents with untreated controls and several aging conditions. Do not assume an oven exposure equals centuries of natural aging.
+5. Define image comparisons in advance: fiber-color depth and distribution, fluorescence, pigment/binder residues, edge behavior, noncontact image and blood/image sequence. Use independent blinded assessments.
+6. If future custodial access permits, compare multiple cloth locations and the dated corner by thread structure, chemistry and dating. This investigation made no sampling or access request.
+
+SOURCES
+
+SARZEAUD-2024-TRACE — Nicolas Sarzeaud — L’interprétation d’une sainte trace: Le Suaire de Turin et la longue histoire des régimes de preuves (note critique)
+https://doi.org/10.1017/ahss.2024.48
+Access: Full article PDF saved and reviewed
+Limit: A critical historiographical review, not a recovered artist contract or a new physical examination. Distinguish its interpretation of medieval allegations from an eyewitness record of manufacture.
+Local: papers/sarzeaud-2024-trace.pdf
+
+NICOLOTTI-2025 — Andrea Nicolotti — La Sindone, reliquia o frode? Nicola di Oresme e le altre fonti medievali
+https://www.historialudens.it/didattica-della-storia/580-la-sindone-reliquia-o-frode-nicola-di-oresme-e-le-altri-fonti-medievali.html
+Access: Public full-text HTML saved and reviewed
+Limit: Public scholarly essay, not a peer-reviewed new chemical study. The 1389–1390 accusation is retrospective, not a surviving artist confession. Procurement does not establish an artist knowingly forged a relic; no reviewed document names the maker.
+Local: supporting/nicolotti-2025/nicolotti-2025.html
+
+REPLICA-2010 — Luigi Garlaschelli — Life-size Reproduction of the Shroud of Turin and its Image
+https://doi.org/10.2352/J.ImagingSci.Technol.2010.54.4.040301
+Access: PDF saved
+Limit: Partial reproduction is not a reproduction of every relevant feature; claims about microscopic equivalence were challenged. Uses pigment/acid treatments and removal rather than demonstrating a wholly untreated transfer.
+Local: papers/replica-2010.pdf
+
+STURP-1982 — Schwalbe and Rogers — Physics and Chemistry of the Shroud of Turin
+https://doi.org/10.1016/S0003-2670(01)85263-6
+Access: PDF saved
+Limit: Historical research summary, not a continuously updated statement ruling out every subsequent proposal or proving a supernatural cause.
+Local: papers/sturp-1982.pdf
+
+C14-1989 — Damon et al. — Radiocarbon Dating of the Shroud of Turin
+https://doi.org/10.1038/337611a0
+Access: Public article reprint saved as HTML
+Limit: All Shroud portions came from one corner strip. Laboratory independence does not supply independent whole-cloth sampling. Statistical heterogeneity and representativeness have been challenged.
+Local: webpages/c14-1989.html
+
+EPITAPHIOS-PRINCETON — Princeton University Art Museum — Epitaphios, 1300–1350, and liturgical context
+https://artmuseum.princeton.edu/art/collections/objects/29976
+Access: Public full-text HTML saved and reviewed
+Limit: A period devotional-cloth comparison, not French, not a Turin-size linen match, not the same image technique and not evidence that this object was a direct model for the Shroud.
+Local: supporting/epitaphios-princeton/princeton-epitaphios.html, supporting/epitaphios-princeton/princeton-epitaphios-context.html
+
+MORAES-2025 — Cicero Moraes — Image Formation on the Holy Shroud: A Digital 3D Approach
+https://doi.org/10.1111/arcm.70030
+Access: Full article PDF saved and reviewed
+Limit: The Shroud photograph informs the modeled figure. Cloth uses default cotton settings rather than measured Shroud linen properties. Chemistry, blood flow and microscopic fiber structure are explicitly outside scope. No blind physical replication or independently recovered medieval model; public Blender files were inventoried, not rerun here.
+Local: papers/moraes-2025.pdf
+
+FANTI-HEIMBURGER-2011 — Fanti and Heimburger — Letter to the Editor: Comments on Garlaschelli’s life-size reproduction
+https://doi.org/10.2352/J.ImagingSci.Technol.2011.55.2.020102
+Access: Full article PDF saved and reviewed
+Limit: A critical letter, not an independent successful replication or a universally agreed checklist. Some claims and dating arguments are disputed. Its criticisms must be assessed alongside the original experiment rather than treated as proof of supernatural production.
+Local: papers/fanti-heimburger-2011.pdf
+
+VIKAN-1998 — Gary Vikan — Debunking the Shroud: Made by Human Hands; accompanying McCrone sidebar and responses
+https://www.shroud.com/bar.htm
+Access: Public full-text HTML saved and reviewed
+Limit: Popular scholarly argument, not a new controlled image experiment. Vikan’s claim of deliberate deception and McCrone’s pigment/blood conclusions are contested. Modern penitential practices are analogies, not evidence of the Shroud maker’s actions. The composite webpage contains multiple authors and dates.
+Local: supporting/vikan-1998/vikan-1998-and-responses.html
+
+CHEMISTRY-1981 — Heller and Adler — A Chemical Investigation of the Shroud of Turin
+https://doi.org/10.1080/00085030.1981.10756882
+Access: PDF saved
+Limit: Results depend on sampling and test specificity; distinguish body image from blood-mark material.
+Local: papers/chemistry-1981.pdf
+
+POULLE-2006 — Emmanuel Poulle — Le linceul de Turin victime d’Ulysse Chevalier
+https://doi.org/10.1484/J.RHEF.2.304979
+Access: Public full-text reprint saved; original journal PDF unavailable
+Limit: Original journal PDF was not retrieved. Saved HTML is a later public reprint with a separate editorial introduction. Poulle’s broader authenticity interpretation, including the Pray Codex, is an argument rather than established provenance. Papal permission is not a physical authentication.
+Local: supporting/poulle-2006/poulle-2006-reprint.html
+
+VIKAN-2020 — Gary Vikan — The Holy Shroud: A Brilliant Hoax in the Time of the Black Death (publisher synopsis)
+https://www.simonandschuster.com/books/The-Holy-Shroud/Gary-Vikan/9781643134321
+Access: Publisher synopsis reviewed; summary saved; full book not obtained
+Limit: Publisher description reviewed; full book not downloaded or read. Direct publisher-page download returned 403, so only a clearly labeled researcher summary is saved. No named artist or contemporary royal gift record was independently verified here.
+Local: supporting/vikan-2020/vikan-2020-reviewed-extract.txt
+
+ROGERS-2005 — Raymond N. Rogers — Studies on the radiocarbon sample from the Shroud of Turin
+https://doi.org/10.1016/j.tca.2004.09.029
+Access: PDF saved
+Limit: The repair interpretation is contested. The vanillin estimate depends strongly on temperature history. Chemical differences alone do not map the complete geometry or proportions of a proposed reweave.
+Local: papers/rogers-2005.pdf
+
+MULTIMETHOD-2015 — Fanti, Malfi and Crosilla — Mechanical and opto-chemical dating of the Turin Shroud
+https://doi.org/10.1051/matecconf/20153601001
+Access: PDF saved
+Limit: These are calibrated aging proxies, sensitive to environment, material selection and model assumptions. Three methods are not three fully independent validations. The authors explicitly note that ancient linen alone would not authenticate the image.
+Local: papers/multimethod-2015.pdf
+
+ART-EVRARD-MAUBUISSON — Louvre — Communion of Saint Denis, attributed to Évrard d’Orléans
+https://collections.louvre.fr/ark:/53355/cl010093005
+Access: Official museum metadata saved as JSON
+Limit: A stylistic/catalogue attribution, not a signed work. Provides no connection to the Shroud, Lirey or the Charny family. Louvre photographs retain their stated copyright.
+Local: supporting/art-evrard-maubuisson/art-evrard-maubuisson.json
+
+ART-EVRARD-THIRION-1955 — Jacques Thirion — Une sculpture inédite d’Évrard d’Orléans
+https://www.persee.fr/doc/bulmo_0007-473x_1955_num_113_1_8175_t1_0062_0000_1
+Access: Institutional/scholarly HTML snapshot saved
+Limit: A short review of Henry Ronot’s archival work, not a newly checked medieval contract transcription. Later catalogue attributions can differ. No evidence here that Évrard made the Shroud.
+Local: supporting/art-evrard-thirion-1955/art-evrard-thirion-1955.html
+
+ART-PEPIN-PLEURANT — Louvre — Mourner from Othon IV’s tomb, Jean Pépin de Huy and Jean de Brecquessent
+https://collections.louvre.fr/ark:/53355/cl010095171
+Access: Official museum metadata saved as JSON
+Limit: A small fragment of a lost collaborative monument; not solely an autograph by Pépin or a full-body prototype. No documented Shroud connection.
+Local: supporting/art-pepin-pleurant/art-pepin-pleurant.json
+
+ART-NOTREDAME-CHOIR — Notre-Dame de Paris — The Choir Enclosure and its master sculptors
+https://www.notredamedeparis.fr/en/understand/sculptures/the-choir-enclosure/
+Access: Source summary and reference saved; full source download unavailable
+Limit: An architectural workshop project, not individually signed reliefs throughout. Different catalogues assign individual scenes differently. Current paint appearance reflects later conservation and repainting.
+Local: supporting/art-notredame-choir/art-notredame-choir-reviewed-extract.txt
+
+ART-BEAUNEVEU-CHARLES-V — French Ministry of Culture — Charles V’s effigy by André Beauneveu
+https://pop.culture.gouv.fr/notice/palissy/PM93000443
+Access: Institutional/scholarly HTML snapshot saved
+Limit: The dated commission follows the conventional mid-1350s Lirey horizon. It is evidence of later medieval skill, not evidence for Beauneveu’s activity on the Shroud before that horizon.
+Local: supporting/art-beauneveu-charles-v/art-beauneveu-charles-v.html
+
+ART-LIEGE-CHARLES-IV — Louvre — Charles IV’s effigy, Jean de Liège
+https://collections.louvre.fr/ark:/53355/cl010093783
+Access: Official museum metadata saved as JSON
+Limit: The king died in 1328, but this sculpture was made in 1371–1372: death date must not be substituted for production date. Later comparison, not a demonstrated pre-Lirey maker.
+Local: supporting/art-liege-charles-iv/art-liege-charles-iv.json
+
+ART-SLUTER-RIJKSMUSEUM — Rijksmuseum — Claus Sluter’s career and attributed Calvary
+https://www.rijksmuseum.nl/en/press/press-releases/rijksmuseum-attributes-new-acquisition-to-claus-sluter-the-father-of-dutch-sculpture
+Access: Institutional/scholarly HTML snapshot saved
+Limit: The Calvary attribution is a museum argument, not a signed object. Dijon career and major surviving commissions are substantially later than the conventional first Lirey displays. The Well of Moses extends into the 1400s.
+Local: supporting/art-sluter-rijksmuseum/art-sluter-rijksmuseum.html
+

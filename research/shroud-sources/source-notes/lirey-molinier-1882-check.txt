@@ -1,0 +1,15 @@
+Auguste and Émile Molinier — Chronique normande du XIVe siècle (1882): citation check
+Original: https://archive.org/details/chroniquenormand00moliuoft
+Reviewed: 2026-10-27
+
+Retrieved to test Wilson’s claim about a 1371 payment to Ymbert de Damoise for Charny/Audrehem funeral work. The cited pages describe 1369 military events; the claimed receipt was not located in this pass.
+
+Limitations: An unresolved citation check, not proof the receipt never existed. OCR absence is not conclusive. Do not cite this source as a verified 370-franc Charny craftsman payment.
+
+Access: Full 502-page scanned edition saved; cited pp 190–191 visually checked and focused OCR search completed
+
+Local files:
+papers/lirey-molinier-1882-check.pdf
+supporting/lirey-molinier-1882-check/molinier-1882-ocr.txt
+supporting/lirey-molinier-1882-check/molinier-citation-check-278.png
+supporting/lirey-molinier-1882-check/molinier-citation-check-279.png

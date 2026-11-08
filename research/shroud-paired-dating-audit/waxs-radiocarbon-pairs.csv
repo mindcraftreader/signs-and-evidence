@@ -1,0 +1,5 @@
+sample,provenance,reference_method,alternative_method,reference_age_years,reference_low_years,reference_high_years,alternative_age_years,alternative_low_years,alternative_high_years,confidence,source_doi,source_table,role,signed_difference_years,absolute_difference_years,reference_interval_width_years,alternative_interval_width_years,intervals_overlap
+DII,Jericho,Radiocarbon,WAXS,950,870,1030,940,870,1010,"Approximate 95%, as reported in Table 3",10.3390/heritage2040171,3,Non-anchor check,-10,10,160,140,True
+NII,Engedi,Radiocarbon,WAXS,2310,2250,2370,2350,2060,2860,"Approximate 95%, as reported in Table 3",10.3390/heritage2040171,3,Non-anchor check,40,40,120,800,True
+E,Egypt,Radiocarbon,WAXS,2390,2350,2430,2390,2160,2670,"Approximate 95%, as reported in Table 3",10.3390/heritage2040171,3,Non-anchor check,0,0,80,510,True
+HII,Thebes,Radiocarbon,WAXS,2880,2740,3020,2770,2410,3370,"Approximate 95%, as reported in Table 3",10.3390/heritage2040171,3,Non-anchor check,-110,110,280,960,True

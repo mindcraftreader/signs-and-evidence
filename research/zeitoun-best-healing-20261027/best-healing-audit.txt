@@ -1,0 +1,176 @@
+ZEITOUN: BEST HEALING CASE AUDIT
+Research checked 27 October 2026
+
+CHOICE
+The best sight-recovery case to pursue is Riyad Naguib Iskandar, as named in
+Watani, 5 May 1968, page 3. Its strength is unusually specific contemporary
+reporting: a named hospital, named ophthalmologists, a reported pre-recovery
+acuity of 2/60, a described fundus examination and a claimed earlier published
+appeal. I visually checked these points in the original Arabic newspaper scan,
+not only in a modern English translation. This establishes that the detailed
+claim was publicly printed in 1968. It does not turn the patient's quotations
+of doctors into inspected original medical records.
+
+There is no verified amputated limb regrowth among the retrieved cases. Atwa's
+finger story concerns a threatened amputation being avoided; Matta's injured arm
+was never removed. Neither should be presented as regrowth.
+
+WHAT THE ORIGINAL 1968 ARTICLE ACTUALLY SAYS
+The item is headed 'After medicine had failed...' under the newspaper's healing
+coverage. It identifies Riyad Naguib Iskandar, associated with commerce studies
+at Alexandria University, in room 209 at the University's Students' Hospital,
+Shatby. The article introduces a letter that he personally supplied to Watani.
+
+The newspaper introduction calls the condition retinal detachment. The patient's
+own letter describes rupture of a retinal vein, 21 days of bleeding and a clot
+in front of the retina. Those are different descriptions, and the precise
+ophthalmological diagnosis should remain open until his chart is obtained.
+
+The letter says an appeal about his illness had already appeared in Watani on
+7 April 1968, in its complaints-to-the-Minister-of-Health column. This would be
+valuable evidence predating the recovery, but I did not retrieve that issue or
+verify the appeal itself. Do not describe this as already checked before/after
+newspaper documentation.
+
+According to the letter, presidential secretary Mohamed Ahmed became involved,
+and a consultation was chaired by Dr Ahmed Kamel, identified in the article as
+head of ophthalmology at Alexandria University Faculty of Medicine. The patient
+says the consultation offered no effective treatment. That is a contemporary
+attribution of the professor's judgment, not his signed report in our hands.
+
+Riyad describes travelling to Zeitoun with Fikry El-Sayed El-Shahawi, seeing the
+apparition and returning to Alexandria on Tuesday. Back in the hospital he saw
+his roommate Mostafa Kamal Shaarawi waving. Two named nurses, Thania Mahmoud and
+Fayeka Abdel Hady, were called; resident Dr Adly Abdel Aziz was informed.
+
+Dr Bahgat Badawi is identified as an ophthalmologist at the hospital. The letter
+attributes to him an earlier acuity measurement of 2/60 and a warning of possible
+total blindness. The original Arabic explicitly prints 'two over sixty.' Thus
+this was a claim of severe visual impairment with residual vision, not a
+measurement of no light perception or missing/regenerated eyes.
+
+The same doctor reportedly examined the fundus after the improvement and found
+the clot undergoing internal absorption and reduced to a thin membrane. The
+patient reports that Badawi called the abrupt development unexpected. A further
+consultation reportedly observed improvement and vision returning toward normal.
+No numeric post-recovery acuity, fundus photograph or separately signed doctor's
+statement is reproduced in this article. The letter's own account includes a
+physical change (clot absorption); it does not claim an optic nerve was regrown.
+
+The observed Arabic newspaper text supports the main factual content of the
+archive's translation. The disease terminology and identity issues below must
+still be resolved rather than harmonized by assumption.
+
+THE 1970 BOOK: PROMISING BUT NOT YET AN INSPECTED CLINICAL DOSSIER
+The modern archive describes 'The Light Returned' / وعاد النور, author Riad
+Naguib Azer / رياض نجيب عازر. Its scanned cover visibly confirms that author
+name. It also names Bishops Gregorios and Shenouda in its introductory credits.
+The modern archive dates publication to August 1970 and says the book contains
+medical documents and three commissions: 10 April (before), 25 April (after),
+and 7 May 1968 (discharge). It connects the commissions to Alexandria Faculty of
+Medicine and Health Minister Dr Nabawi El-Mohandes.
+
+This is a strong lead, not three original commission reports already retrieved.
+Coptic Treasures links a 22 MB public Google Drive file. That URL currently
+returned a 404 in the browser and download route; the canonical file-preview
+route returned HTTP 401 in a separate public request. No access restriction was
+bypassed. I inspected the cover, archive summary and source download page, but
+could not inspect the book's actual report pages, publication colophon or
+medical appendices. I did not download or render a PDF because none was obtained.
+
+The contemporary newspaper says ISKANDAR, while the book's cover says AZER. The
+modern archive's book narrative has many matching features (commerce student,
+Alexandria hospital, late-April visit, eye recovery, Watani 5 May coverage), so
+it is a plausible match. It is not yet a resolved identity. The Muslim friend's
+surname also differs: El-Shahawi in the newspaper versus Metwally in the modern
+book summary. Recovery sequence is not identical either: the newspaper narrates
+recognition of restored everyday vision after returning to the hospital; the
+modern summary emphasizes regained sight during the apparition and a later
+light at the bedside. Keep these accounts visibly separate pending the book.
+Do not count them as two independent healed men or as independent corroboration
+of one healed man without resolving identity.
+
+SECOND CHOICE: GEORGE LOUIS, THE TODDLER
+Watani, 5 April 1970, page 2, reports the mother's public anniversary testimony
+about her approximately two-year-old son George Louis. I retrieved the full
+original continuation page and visually checked the relevant Arabic columns.
+A photograph shows a woman holding a child before a microphone; its caption
+identifies the child in the context of the sight recovery. The photo documents
+the public presentation, not ophthalmic function.
+
+The mother's reported story describes poor sight in infancy, a glass-like
+cloudiness, five months of treatment and a diagnosis attributed to a specialist
+of optic-nerve atrophy. It says a consultation at the Ophthalmology Hospital in
+Rod El-Farag found no remedy, with surgery discussed but the child judged too
+young. After a Zeitoun visit, the mother says the cloudiness disappeared and a
+specialist and committee found the eyes healthy.
+
+Important new finding: the original Arabic itself names Dr Michel Ishaq at the
+initial examination and Dr Michel Kamel after recovery. This discrepancy is not
+merely introduced by the archive's English translation. The article contains no
+signed examination, numeric acuity, fundus record or test of optic-nerve function.
+The relationship between visible cloudiness, optic-nerve atrophy and proposed
+surgery needs original clinical clarification. I would not diagnose the child
+from the newspaper or claim documented optic-nerve regeneration.
+
+This is the most striking sight-restoration story located, but Riyad is the
+better research lead because of the earlier numeric acuity and much more specific
+hospital and examination trail. Neither currently meets the stronger description
+'we have inspected the complete original before-and-after ophthalmic records.'
+
+THIRD CHOICE: MATTA, STRONGER DIRECT PHYSICIAN DOCUMENT
+Wagih Rizk Matta has a reproduced signed English physician report by Dr Zarif
+Bishara Rizk, FRCS, MRCOG, identified on the document as a consultant surgeon and
+gynaecologist at Manchiet El Bakry Hospital, Cairo. It describes a severe 1967
+elbow injury, prior treatment, very limited movement and unexpectedly restored
+flexion/extension in May 1968. It is the strongest inspected direct physician
+attestation in this retrieval, but is not the requested case of restored sight,
+speech or amputated-limb regrowth. The limb had remained attached, with intact
+main artery and median nerve according to the report. The report alone does not
+establish the exact apparition/recovery timing or demonstrate muscle regrowth.
+
+MADIHA: NOT THE BEST MATCH TO THE USER'S CRITERION
+The 1969 committee booklet reports restored sight and speech in Madiha Mohammed
+Said, but explicitly attributes their loss to severe psychic shocks. The report
+may be meaningful on its own terms. It should not be advertised as demonstrated
+repair of destroyed eyes or vocal structures without further records.
+
+EVIDENCE LEVELS
+1. Inspected period publications: Watani 5 May 1968 p.3 and 5 April 1970 p.2.
+   Primary evidence that specific named claims were printed then. Doctors'
+   examinations are described inside patient/mother testimony, not separate
+   inspected clinical documents.
+2. Inspected reproduced signed physician statement: Matta. Stronger direct
+   clinician attestation, but a different type of healing and incomplete chart.
+3. Modern archive summaries/translations: useful finding aids; not independent
+   confirmations of the underlying events.
+4. Claimed 1970-book medical appendices: not retrieved and not yet gradeable.
+No hospital affiliation or academic position was independently verified beyond
+what these historical sources state. Titles and institutions are attributed
+rather than presented as newly authenticated staff biographies.
+
+CONCRETE NEXT RECORDS, IN ORDER OF VALUE
+- Public/readable full scan or physical copy of 'The Light Returned,' especially
+  its title/colophon, patient identification and reproduced clinical reports.
+- Watani 7 April 1968 complaints-to-health-minister item, to establish whether
+  Riyad's illness really was publicly recorded before the visit.
+- Alexandria University Students' Hospital ophthalmic chart, exact diagnosis,
+  dated measured acuities, treatment record and fundus findings before and after.
+- Any original signed 10 April / 25 April / 7 May commission reports, if the
+  identity matches the book and newspaper; do not count summaries as three files.
+- George Louis's initial and later specialist/committee records, establishing
+  doctor identity, diagnosis and objective function rather than mother's report.
+No external contact or messages were sent. Lack of retrieval does not establish
+that these records never existed.
+
+RECOMMENDED WORDING NOW
+'One particularly specific 1968 report concerns Riyad Naguib Iskandar at
+Alexandria University's Students' Hospital. It records a claimed change from
+severely impaired sight, previously measured at 2/60, to substantial recovery
+after a Zeitoun visit, naming the doctors and describing their examinations.
+The original newspaper supports that contemporary account; we are still seeking
+the actual before-and-after medical file.'
+
+This healing audit is separate from the argument about the public apparitions.
+It should not be used as an objection to an apparition argument that does not
+rely on medical cases.

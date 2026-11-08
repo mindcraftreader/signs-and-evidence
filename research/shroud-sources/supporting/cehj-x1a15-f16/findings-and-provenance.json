@@ -1,0 +1,43 @@
+{
+  "reviewed_on": "2026-10-27",
+  "filter": {
+    "Registre": "X/1a/15",
+    "Feuillet / pièce": "016"
+  },
+  "index_subjects": [
+    {
+      "French": "ANNULATION DE PROCEDURE",
+      "English": "Annulment of procedure"
+    },
+    {
+      "French": "COMMISSAIRE REFORMATEUR",
+      "English": "Reform commissioner"
+    },
+    {
+      "French": "COMMISSAIRE ROYAL",
+      "English": "Royal commissioner"
+    },
+    {
+      "French": "PROCES CIVIL, ORDRE",
+      "English": "Civil proceedings, procedural order"
+    }
+  ],
+  "source_level": "Modern scholarly subject index of a medieval record; not the medieval act or its transcription",
+  "sources": {
+    "CEHJ": "https://cehj-parlement.huma-num.fr/php/parl_1721_search.php",
+    "Grist": "https://grist.numerique.gouv.fr/o/docs/kZGj8Zw18puS/Parlement-civil-Arrets-lettres-et-juges-de-1361-1369-matieres/p/1?embed=true&themeAppearance=light&themeSyncWithOs=false",
+    "FranceArchives_matching_subject_entry": "https://francearchives.gouv.fr/en/facomponent/f62d7a66a83500aa5a0527ee6d12cfa5eae9a4ff",
+    "finding_aid": "https://francearchives.gouv.fr/findingaid/69342a13ebb3223ce0a6f11d6c8adf189fe45ef1",
+    "linked_register": "https://www.siv.archives-nationales.culture.gouv.fr/siv/UD/FRAN_IR_057043/c-an1l0yfrr--5fqpnnj39hzz",
+    "linked_analytical_fiches": "https://www.siv.archives-nationales.culture.gouv.fr/siv/UD/FRAN_IR_057883/c-122x6b20q-16g9nl1gsu7an",
+    "database_warning": "https://cehj-parlement.huma-num.fr/pdf/avertissement_parl1721.pdf"
+  },
+  "exact_act_date": "Not independently checked; Aubert prints 25 February 1353, with calendar style unresolved",
+  "people_in_original": "Not read; no new parties or agents identified from the manuscript",
+  "access_result": {
+    "register": "Browser navigation timed out; web retrieval inaccessible. No manuscript image acquired.",
+    "analytical_fiche": "Browser returned SIA - Erreur 503 / Une erreur est survenue; web retrieval inaccessible. No fiche image acquired."
+  },
+  "coverage_caution": "CEHJ warning guarantees full indexing for X1A 17–21 and lists 240 indexed acts from X1A 15; Archives nationales 2024 mirror describes X1a 15–22 as systematically examined. The difference in descriptions is unresolved. Do not infer absence from an index negative.",
+  "dependency_caution": "CEHJ and FranceArchives derive from the CEHJ indexing work. Agreement is not two independent medieval witnesses."
+}

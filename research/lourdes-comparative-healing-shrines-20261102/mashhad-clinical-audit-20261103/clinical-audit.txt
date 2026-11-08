@@ -1,0 +1,42 @@
+MASHHAD CLINICAL LITERATURE AUDIT — 3 NOVEMBER 2026
+Research scope: academic/medical source chains, before tally. No tally awarded.
+
+FINDING
+No inspectable neurological case report, paired imaging series or signed clinical dossier meeting the current Lourdes comparison filter was recovered in this pass. However, a specifically relevant 1999 Persian medical-journal article has now been located bibliographically and its full text remains outstanding. The entire Mashhad comparator should not be closed solely because Charan's qualitative paper supplied no clinical proof.
+
+BMC NURSING 2023: VERIFIED DETAILS AND PROVENANCE LIMIT
+SadatHoseini, Shareinia and Pashaeypoor give nursing affiliations at Tehran University of Medical Sciences; Mohammadi at Kermanshah University of Medical Sciences. This concept-analysis study interviewed ten informants, including two internists, rather than examining ten cured patients. Its illustrative case describes an unnamed woman with longstanding T7–T8 paraplegia who stood after shrine prayer, then walked after physiotherapy; MRI/NCV/EMG and commission approval are asserted without published results, named examiners, dates or a case-specific source. The limitations explicitly state healed people could not be accessed and interviewed because of confidentiality. Thus the case cannot be treated as an examined patient cohort, or assumed fictional: its real/composite/constructed provenance is unresolved. No supplementary clinical dossier was identified. Supporting study data are available only by reasonable request. Acknowledgment of the shrine commission establishes contact, not the commission's actual criteria or differential diagnosis.
+Source: https://pmc.ncbi.nlm.nih.gov/articles/PMC10391964/
+DOI: https://doi.org/10.1186/s12912-023-01404-8
+Local full text previously saved: ../sources/mashhad-nursing-2023.txt and .html.
+Ethical approval, research project code and journal publication are not medical certification of the case.
+
+NEW MATERIAL LEAD: HAKIM, 1999
+Persian title: ثبت تصویری و نوشتاری شفایافتگان
+Working translation: Visual and written documentation of healed patients.
+Indexed author: اشرف سادات صانعی، همکاران (Ashraf Sadat Sanei and colleagues; coauthors not listed in recovered issue record).
+Hakim Health Systems Research Journal, year/volume 2, issue 3 (serial 8), Autumn 1378 (1999), starts p199. The next article begins p207; a 199–206 span is inferred, not verified from full text.
+The indexed abstract says the purpose is scientific demonstration and documentation of unusual recoveries, rather than a merely statistical survey, and rejects replacing medical care with reliance on intercession alone. This is a genuinely relevant clinical-documentation lead. The abstract recovered does NOT identify a shrine, patient, medical result, or conclusion. It is therefore not yet evidence of a successful Mashhad case or even confirmed Mashhad scope.
+Verified issue/abstract: https://www.magiran.com/volume/2292 (title and abstract at its ninth listed article).
+Keyword search record: https://www.magiran.com/keyword/1016/%D8%B4%D9%81%D8%A7
+Current journal official site: https://hakim.tums.ac.ir/
+Current site identifies Tehran University of Medical Sciences as owner and lists medical-journal indexing. This does not establish 1999 author affiliations. Do not assign an institution to Sanei until the actual article is obtained; matching names in unrelated dental publications are insufficient identification.
+
+ACCESS WORK
+Reached current official journal through Magiran's published redirect link. Current official archive landing page loads, but older pagination returned fetching errors; direct curl encountered redirect loops. No paywall or restricted account was bypassed. Magiran issue record supplies only abstract text in this pass; full article was not read.
+Official archive: https://hakim.tums.ac.ir/browse.php?sid=1&slc_lang=fa&slct_pg_id=44
+Failed older paging URLs used mag_limit_start=5,10,15. These access failures are not evidence that the article lacks clinical records.
+
+OTHER SOURCE CHAINS
+English shrine collections contain physician names and diagnostic claims, but their stories are not independently signed physician case reports. The shared Austria/eye-healing passage traces to a translated biographical excerpt from Ruh-e-Mojarrad, narrated by Allamah Sayyid Muhammad Hussain Hussaini Tehrani, translated by Ali-Quli Qarai. Thus multiple sites repeating it are not multiple independent clinical attestations.
+https://www.imamreza.net/old/eng/imamreza.php?id=1151
+https://shiastudies.com/en/3241/miraculous-healing-by-imam-rezaa-s/
+Do not infer diagnostic precision from informal translated expressions such as thrombosis, cataract, or blood blocking the throat without the charts.
+
+REPRODUCIBLE SEARCHES
+English: "Imam Reza" healing "case report"; "Mashhad" "miraculous" "MRI"; "spinal artery" "Commission for Healed"; "Imam Reza" "miraculous healing" medical -hospital; "Mashhad" "healing" "paraplegia"; "Astan Quds Razavi" "medical records"; "Imam Reza" "miracle" "medical" -hospital -tourism.
+Persian: "حرم امام رضا" "شفا" "مقاله" پزشکی; "شفا" "حرم" "گزارش مورد" پزشکی; "شفایافتگان" "مقاله" پزشکی; "شفایافتگی" "نورولوژی"; "شفایافتگی" "MRI"; "ثبت تصویری و نوشتاری شفایافتگان" and author/title variants; site:sid.ir / site:hakim.tums.ac.ir searches.
+Most English case-report matches concern ordinary treatment at hospitals named Imam Reza. Those were excluded as shrine evidence. This is a targeted public-index search, not an exhaustive search of Iranian print archives or all clinical databases.
+
+NEXT DECISIVE RECORD
+Obtain Hakim vol2 no3 p199 article and inspect actual patients, authors, affiliations, original diagnoses/treatments, chronology, objective test results, exclusions, follow-up and whether cases are connected to Mashhad. Independently request provenance/dossier reference for the 2023 nursing model case if the user chooses outreach. Neither request has been sent.

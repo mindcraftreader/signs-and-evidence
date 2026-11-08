@@ -1,0 +1,133 @@
+[
+  {
+    "id": "TISO2016",
+    "title": "Rainbow Body and Resurrection",
+    "author": "Francis V. Tiso",
+    "date": "2016",
+    "type": "original investigation/book",
+    "url": "https://books.google.com/books/about/Rainbow_Body_and_Resurrection.html?id=jxrXCwAAQBAJ",
+    "access": "Chapter1 original interview transcripts read in public-mirror PDF, locally saved; bibliographic record checked"
+  },
+  {
+    "id": "TIDWELL2024",
+    "title": "Life in Suspension with Death",
+    "author": "Tawni L. Tidwell",
+    "affiliation": "Center for Healthy Minds, University of Wisconsin-Madison",
+    "date": "2024 online;2025 issue",
+    "type": "peer-reviewed observational/ethnographic research",
+    "url": "https://doi.org/10.1007/s11013-023-09844-2",
+    "access": "Full text read",
+    "credentials_url": "https://www.centerhealthyminds.org/people/tawni-tidwell"
+  },
+  {
+    "id": "LOTT2021",
+    "title": "No Detectable Electroencephalographic Activity ... Tukdam",
+    "author": "Lott et al.",
+    "affiliation": "University of Wisconsin-Madison-led collaborative team",
+    "date": "2021",
+    "type": "peer-reviewed physiological investigation",
+    "url": "https://doi.org/10.3389/fpsyg.2020.599190",
+    "access": "Full text methods/results inspected"
+  },
+  {
+    "id": "LEVY",
+    "title": "Physician account of Sixteenth Karmapa death",
+    "author": "Mitchell Levy",
+    "affiliation": "Medical standing verified at Brown University; retrospective account concerns1981",
+    "date": "1981 event;2021 reproduction",
+    "type": "first-person account reproduced by Buddhist translator",
+    "url": "https://dakinitranslations.com/2021/11/05/running-into-the-vast-space-of-miraculous-love-account-of-16th-karmapas-extraordinary-conduct-during-sickness-and-paranirvana-1981-and-showe/",
+    "access": "Narrative inspected; original medical records unavailable",
+    "credentials_url": "https://vivo.brown.edu/display/mlevymd"
+  },
+  {
+    "id": "MYERS2002",
+    "title": "Ivolginsk Journal: A Russian Lama ...",
+    "author": "Steven Lee Myers",
+    "affiliation": "New York Times reporter; reposted by University of Pennsylvania",
+    "date": "2002-10-01",
+    "type": "contemporary reporting",
+    "url": "https://rees.sas.upenn.edu/about/spotlight/lama-itigilov-ivolgin-datsan-buryatiya-russia",
+    "access": "Contemporary full report inspected"
+  },
+  {
+    "id": "ITIGILOV2004",
+    "title": "Scientists recognized the Itigilov phenomenon",
+    "author": "Inform Polis",
+    "date": "2004-12-08",
+    "type": "contemporary press-conference report",
+    "url": "https://www.infpol.ru/167491-uchenye-priznali-fenomen-itigelova/",
+    "access": "Russian text inspected; no underlying laboratory data"
+  },
+  {
+    "id": "PTI2006",
+    "title": "Millions gaze at Buddha statue emanating miracle rays",
+    "author": "Press Trust of India",
+    "date": "2006-08-02",
+    "type": "contemporary news report",
+    "url": "https://www.buddhistchannel.tv/index.php?id=43%2C2986%2C0%2C0%2C1%2C0",
+    "access": "Full short article inspected"
+  },
+  {
+    "id": "AFP2006",
+    "title": "Buddha rays spark statue-gazing in Sri Lanka",
+    "author": "Agence France-Presse",
+    "date": "2006-08-02",
+    "type": "contemporary news report",
+    "url": "https://wwrn.org/articles/22316/",
+    "access": "Full short article inspected"
+  },
+  {
+    "id": "HALL2001",
+    "title": "The scientific study of unusual rapid wound healing: a case report",
+    "author": "H Hall, N S Don, J N Hussein, E White; indexed record",
+    "affiliation": "Division of Behavioral Pediatrics, Case Western Reserve University",
+    "date": "2001",
+    "type": "medical case report",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/11572849/",
+    "doi": "10.1054/ambm.2000.0314",
+    "access": "Original indexed abstract only, not full paper",
+    "credentials_url": "https://gsapp.rutgers.edu/howard-hall"
+  },
+  {
+    "id": "HALLSCHWARTZ2004",
+    "title": "Rapid wound healing: A Sufi perspective",
+    "author": "Howard Hall; Gary E. Schwartz",
+    "affiliation": "University of Arizona metadata",
+    "date": "2004",
+    "type": "peer-reviewed review",
+    "url": "https://experts.arizona.edu/en/publications/rapid-wound-healing-a-sufi-perspective/",
+    "doi": "10.1016/j.sigm.2004.09.004",
+    "access": "Metadata/funding verified; full text not recovered"
+  },
+  {
+    "id": "SADATHOSEINI2023",
+    "title": "A cross-cultural concept analysis of healing in nursing: a hybrid model",
+    "author": "AkramSadat SadatHoseini; Habib Shareinia; Shahzad Pashaeypoor; MohammadMehdi Mohammadi",
+    "affiliation": "Tehran University of Medical Sciences; Kermanshah University of Medical Sciences",
+    "date": "2023-08-01",
+    "type": "nursing concept analysis with qualitative interviews",
+    "url": "https://doi.org/10.1186/s12912-023-01404-8",
+    "access": "Full text methods/model-case genre inspected; not a full neurology case report"
+  },
+  {
+    "id": "BHARDWAJ",
+    "title": "The Story of Vasu Bhardwaj",
+    "author": "Vasu Bhardwaj, self-described journalist/science writer",
+    "date": "2002 event;2010-02-02 republication",
+    "type": "first-person testimony",
+    "url": "https://sikhnet.com/news/story-vasu-bhardwaj",
+    "access": "Full testimony inspected; underlying medical files not recovered"
+  },
+  {
+    "id": "PRILL2011",
+    "title": "Except the True Name, I Have No Miracle: Modern Sikh Understandings of the Miraculous",
+    "author": "Susan E. Prill",
+    "affiliation": "Juniata College religious studies",
+    "date": "2011",
+    "type": "Oxford scholarly chapter",
+    "url": "https://doi.org/10.1093/acprof:oso/9780198075547.003.0007",
+    "access": "Indexed chapter passages identifying Bhardwaj and records inspected; some publisher refetches failed",
+    "credentials_url": "https://academic.oup.com/edited-volume/34369/chapter-abstract/291509867"
+  }
+]

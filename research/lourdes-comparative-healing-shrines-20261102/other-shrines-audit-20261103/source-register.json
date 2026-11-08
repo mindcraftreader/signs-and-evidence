@@ -1,0 +1,232 @@
+{
+  "date": "2026-11-03",
+  "files": [
+    {
+      "file": "amarjit-medical-report23-2008.html",
+      "bytes": 6139,
+      "sha256": "55caf5c4a1e203539f0a1b8b5fc0d3c0e0770c946d0ae4561a64c833e5d59ee5"
+    },
+    {
+      "file": "gurbani-mission.html",
+      "bytes": 147820,
+      "sha256": "d707e32cddcd3befb24cc4e0e00e66d4f943a99d01707a9d6d6e03c5fc845380"
+    },
+    {
+      "file": "mission-cancer-cured-2008.html",
+      "bytes": 41947,
+      "sha256": "ed418d9c9df3bc03d31be84d09c3c714c5da5ae52757f7ea7f2df78e616b624f"
+    },
+    {
+      "file": "mission-cancer-cured1-2008.html",
+      "bytes": 14801,
+      "sha256": "976393482665f6be5e30a79a622aa5327cb179eb4358a57056d156e6a472cfea"
+    },
+    {
+      "file": "mission-cancer-cured2-2008.html",
+      "bytes": 26709,
+      "sha256": "9f76f9f01ee2e767b8425e158ea7e5ebef2242f26e71c2663ba4a7a049b527cf"
+    },
+    {
+      "file": "mission-cancer-testimonials-2013.html",
+      "bytes": 46911,
+      "sha256": "a476efd9b8aad6d7831e54081b5a750288a84686b6a5f3d0fb8c53840e04e5e7"
+    },
+    {
+      "file": "mission-testimonials-2008.html",
+      "bytes": 7920,
+      "sha256": "1594c120b02063815327ba205c463b724d780eaa987337c41d68cebdb7b8cfdb"
+    },
+    {
+      "file": "mission-video-testimonials.html",
+      "bytes": 148737,
+      "sha256": "783d1b8876f76148ca28a2281504184fa94a424dc076ee7f70244a9173e95834"
+    },
+    {
+      "file": "oxford-sikh-miracles.html",
+      "bytes": 5480,
+      "sha256": "a5837d09d88f87aedfe9a8b7ee9e1efec579bfa5699200c8b0e00b80a1311600",
+      "status": "Challenge page, NOT full chapter"
+    },
+    {
+      "file": "reeta-medical-report2-2008.html",
+      "bytes": 6776,
+      "sha256": "3695ef39037c6490676d95232f28d4ba0144da6b2fc18f239fad4b4769d43ecb"
+    },
+    {
+      "file": "repo1.jpg",
+      "bytes": 209985,
+      "sha256": "6fb5fc49342d74093f40a69201e3c78115ce1e5faad936e0583ed9eab2299b51",
+      "url": "https://web.archive.org/web/20080703id_/http://www.gurunanakhealing.com/images/repo1.jpg",
+      "status": "Downloaded original scan; visually inspected"
+    },
+    {
+      "file": "repo2-date-enlargement.png",
+      "bytes": 336519,
+      "sha256": "a39ee6dac8a12e06d274e2bbf745a9ec4a16acbbc9665979994d2de614e4ebce"
+    },
+    {
+      "file": "repo2.jpg",
+      "bytes": 144498,
+      "sha256": "c8945e0b48eea25251bf6dc9a45d70da9146780d6c5c2d5026a011ab33d5adad",
+      "url": "https://web.archive.org/web/20080703id_/http://www.gurunanakhealing.com/images/repo2.jpg",
+      "status": "Downloaded original scan; visually inspected"
+    },
+    {
+      "file": "repo23_1.jpg",
+      "bytes": 64366,
+      "sha256": "fc76233623359cf78b2bfde73258980367833eb551902664b761b34a7f877535",
+      "url": "https://web.archive.org/web/20080703id_/http://www.gurunanakhealing.com/images/repo23_1.jpg",
+      "status": "Downloaded original scan; visually inspected"
+    },
+    {
+      "file": "repo2_1.jpg",
+      "bytes": 307770,
+      "sha256": "109058d4161fbd2f43b07b6be6ca17739e8df0aa560e91c644db5975275a6d9e",
+      "url": "https://web.archive.org/web/20080703id_/http://www.gurunanakhealing.com/images/repo2_1.jpg",
+      "status": "Downloaded original scan; visually inspected"
+    },
+    {
+      "file": "repo2_2.jpg",
+      "bytes": 232925,
+      "sha256": "3afae2d8e936b98cfdd2bc26c038d8fc833626d570c7a162565d24145abf2b4a",
+      "url": "https://web.archive.org/web/20080703id_/http://www.gurunanakhealing.com/images/repo2_2.jpg",
+      "status": "Downloaded original scan; visually inspected"
+    },
+    {
+      "file": "repo2_3.jpg",
+      "bytes": 123425,
+      "sha256": "ab73843187cdf7c194d99165938022138fda83174509f7d581e6c2e443193b01",
+      "url": "https://web.archive.org/web/20080703id_/http://www.gurunanakhealing.com/images/repo2_3.jpg",
+      "status": "Downloaded original scan; visually inspected"
+    },
+    {
+      "file": "repo3.jpg",
+      "bytes": 162086,
+      "sha256": "46a46ddbee1bfee23861828352ead9e338680614d6f151f8e3bb1bdae4397296",
+      "url": "https://web.archive.org/web/20080703id_/http://www.gurunanakhealing.com/images/repo3.jpg",
+      "status": "Downloaded original scan; visually inspected"
+    },
+    {
+      "file": "vasu-medical-report1-2008.html",
+      "bytes": 6673,
+      "sha256": "31872a1b43df2b630bd6d8b33d8478ac36e0eb6fa4d50ecd2538428736a126ae"
+    },
+    {
+      "file": "vasu-patient-testimony.html",
+      "bytes": 77724,
+      "sha256": "7e96213d463e88a5dee605c392c0c62d3bb48f52b71e4bee65539f84ba7ae0b2"
+    },
+    {
+      "file": "vasu-reports-gallery.html",
+      "bytes": 4734,
+      "sha256": "99c74553f4c65a12fa39b1bee4ddc8328122facd97b92b4446946fcc7044ec39",
+      "status": "Archive error/navigation page; not actual gallery"
+    },
+    {
+      "file": "vasu-scan-index.json",
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    },
+    {
+      "file": "wayback-testimonials-index.json",
+      "bytes": 2064,
+      "sha256": "f354e15071ea67a5d10dc77082b033751f61fbd08d17fdd2bbbc4e5425d2d7f1"
+    },
+    {
+      "file": "indian-express-20220413.html",
+      "bytes": 784024,
+      "sha256": "5f5b9fc37992093c1711dee62d82c9e2c681a8c2db51adf8520ab249d20dcf97"
+    },
+    {
+      "file": "mission-cancer-testimonials-2013.txt",
+      "bytes": 26943,
+      "sha256": "38262ac170d1518170186d1f65560afef0dd4135eb4646f10e6642bad0adaa27"
+    },
+    {
+      "file": "mission-faq.html",
+      "bytes": 163032,
+      "sha256": "d3b005cc2388f42de877a72b3deb553b80b3020cf9c467f10e14d01785e10ef9"
+    },
+    {
+      "file": "tribune-20021222-chandigarh.html",
+      "bytes": 57319,
+      "sha256": "f051734ab78ac870d023c73753f08bf39266ffc7bd8e348545dc0c69269a2580",
+      "status": "Original page acquired but target Vimal Sumbly cancer article NOT located in these pages"
+    },
+    {
+      "file": "tribune-20021222-chandigarh.txt",
+      "bytes": 34000,
+      "sha256": "c3625ab2de09e771db4f27f2a0e700ede33f9cea0e90d9dce4d0dd763590f502",
+      "status": "Original page acquired but target Vimal Sumbly cancer article NOT located in these pages"
+    },
+    {
+      "file": "tribune-20021222-home.html",
+      "bytes": 57867,
+      "sha256": "2ff4c99b261c42c4570f52c9549e547c9a914cc0f4c317f82c718ce4ce6331e1",
+      "status": "Original page acquired but target Vimal Sumbly cancer article NOT located in these pages"
+    },
+    {
+      "file": "tribune-20021222-index.html",
+      "bytes": 41783,
+      "sha256": "888a14450b2f7fcc4189d36befa2128d8864a2e6b0036274dd30dedd734b2164",
+      "status": "Original page acquired but target Vimal Sumbly cancer article NOT located in these pages"
+    },
+    {
+      "file": "tribune-20021222.html",
+      "bytes": 48845,
+      "sha256": "83d8c5a1327d1ac8e86eb794047b7e9a4d5f8a0b355750322e1978c4972607f2",
+      "status": "Original page acquired but target Vimal Sumbly cancer article NOT located in these pages"
+    },
+    {
+      "file": "tribune-20021222.txt",
+      "bytes": 30007,
+      "sha256": "db9e1b0cd65a48c54fe7fdbe883df357c251a13b997d355b43b44663875329ee",
+      "status": "Original page acquired but target Vimal Sumbly cancer article NOT located in these pages"
+    },
+    {
+      "file": "tribune-20030316.html",
+      "bytes": 44818,
+      "sha256": "9748a4bdbea859590e0e2bcd0c6327db896abb9b38799140bff33768efcb5961",
+      "url": "https://web.archive.org/web/20030320id_/http://www.tribuneindia.com/2003/20030316/ldh1.htm",
+      "status": "Original newspaper HTML acquired; patient interview inspected"
+    },
+    {
+      "file": "tribune-20030316.txt",
+      "bytes": 26430,
+      "sha256": "f310f90555fe49d89bf72ad1d6ff0f51a1417a3a3ca1af451107e24ecc41d533"
+    },
+    {
+      "file": "vasu-gallery-captures.json",
+      "bytes": 256,
+      "sha256": "d822fdcc2558e8c0e0283d46320655fb501bb2497fffdf3d40c45f8de0bf67fb"
+    },
+    {
+      "file": "vasu-video.en-US-orig.json3",
+      "bytes": 477213,
+      "sha256": "063370a462512e09cd7825b14e65b22f10795b5835875544980111eb21cce658",
+      "url": "https://www.youtube.com/watch?v=Mpx5HFRERQg",
+      "status": "Automatic captions or timestamped extraction; not audio-verified verbatim transcript"
+    },
+    {
+      "file": "vasu-video.en-US-orig.txt",
+      "bytes": 33617,
+      "sha256": "3e6c88e4f624ad0380a747c5620da73dd6712cbdd90c3194aad26817c94fa7a1",
+      "url": "https://www.youtube.com/watch?v=Mpx5HFRERQg",
+      "status": "Automatic captions or timestamped extraction; not audio-verified verbatim transcript"
+    },
+    {
+      "file": "vasu-video.hi-orig.json3",
+      "bytes": 605620,
+      "sha256": "f039015aabac8e4b84db2b5189413dcb91a93c491fdfbd7e2e63d3390912cac8",
+      "url": "https://www.youtube.com/watch?v=Mpx5HFRERQg",
+      "status": "Automatic captions or timestamped extraction; not audio-verified verbatim transcript"
+    },
+    {
+      "file": "vasu-video.hi-orig.txt",
+      "bytes": 68986,
+      "sha256": "e9efb74a73ca73834f7e6046ce2f384b3c095899d1841c9f8728f45a4b84ff8d",
+      "url": "https://www.youtube.com/watch?v=Mpx5HFRERQg",
+      "status": "Automatic captions or timestamped extraction; not audio-verified verbatim transcript"
+    }
+  ]
+}

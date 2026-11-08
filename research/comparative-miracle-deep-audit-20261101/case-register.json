@@ -1,0 +1,555 @@
+{
+  "scope": "Bounded modern comparative audit. False in established_equivalent_public_sign means not established by this review, not proved absent or disproved. Categories include related events; they are not independent statistical trials.",
+  "cases": [
+    {
+      "id": "NC01",
+      "case": "Baptist vision recovery, 1972",
+      "tradition_context": "Non-Apostolic Christian",
+      "review_depth": "deep_primary",
+      "claim_type": "Individual clinical case",
+      "current_assessment": "Substantial documented recovery; causal origin and immediate timing unresolved. Not a matched public doctrinal sign.",
+      "local_sources": [
+        "sources/romez-blindness-2021.pdf",
+        "sources/romez-blindness-supplement-word.docx"
+      ],
+      "references_in_assessment": [
+        1,
+        2,
+        3
+      ],
+      "established_equivalent_public_sign": false,
+      "last_updated": "2026-11-01",
+      "role_in_public_vindicatory_comparison": "Background only; healing evidence is not a counterexample to the agreed narrower claim."
+    },
+    {
+      "id": "NC02",
+      "case": "Mozambique prayer measurements, 2009",
+      "tradition_context": "Charismatic Protestant",
+      "review_depth": "deep_primary",
+      "claim_type": "Field measurement series",
+      "current_assessment": "Measured changes; uncontrolled causal attribution and limited follow-up.",
+      "local_sources": [
+        "sources/stepp-2010.pdf",
+        "sources/stepp-published-2010.pdf"
+      ],
+      "references_in_assessment": [
+        4
+      ],
+      "established_equivalent_public_sign": false,
+      "last_updated": "2026-11-01",
+      "role_in_public_vindicatory_comparison": "Background only; healing evidence is not a counterexample to the agreed narrower claim."
+    },
+    {
+      "id": "HI01",
+      "case": "Sai Baba phenomena and 1992 disputed video",
+      "tradition_context": "Hindu-associated guru movement",
+      "review_depth": "deep_selected_primary_and_authored_critical_analysis",
+      "claim_type": "Multi-decade individual claims",
+      "current_assessment": "Conjuring/fraud better supported than supernatural materialization for performances covered by the magicians' analysis; serious named abuse allegations, denied by Baba. Comparable in claim type to Pio but not established as a comparably strong supernatural case. Separate 1992 video remains inconclusive; complete miracle corpus not individually explained.",
+      "local_sources": [
+        "sources/haraldsson-wiseman-1995-archived.pdf",
+        "sources/beyerstein-magicians-baba-materializations.html",
+        "sources/bbc-secret-swami-20040617.txt",
+        "sai-baba-abuse-allegations-20261102.txt",
+        "sai-baba-comparative-assessment-20261102.txt"
+      ],
+      "references_in_assessment": [
+        5,
+        6
+      ],
+      "established_equivalent_public_sign": false,
+      "last_updated": "2026-11-02"
+    },
+    {
+      "id": "BU01",
+      "case": "Tukdam 2021 preservation",
+      "tradition_context": "Tibetan Buddhist",
+      "review_depth": "deep_primary",
+      "claim_type": "Postmortem preservation",
+      "current_assessment": "Substantive report; uncalibrated unusualness, raw visuals uninspected.",
+      "local_sources": [
+        "sources/tidwell-tukdam-fulltext.xml"
+      ],
+      "references_in_assessment": [
+        7
+      ],
+      "established_equivalent_public_sign": false,
+      "last_updated": "2026-11-01"
+    },
+    {
+      "id": "BU02",
+      "case": "Tukdam EEG series",
+      "tradition_context": "Tibetan Buddhist",
+      "review_depth": "deep_primary",
+      "claim_type": "Instrumented postmortem series",
+      "current_assessment": "No detectable postmortem EEG; not a test disproving preservation.",
+      "local_sources": [
+        "sources/tukdam-eeg-2021.xml"
+      ],
+      "references_in_assessment": [
+        8
+      ],
+      "established_equivalent_public_sign": false,
+      "last_updated": "2026-11-01"
+    },
+    {
+      "id": "IS01",
+      "case": "Sufi cheek piercing clinical case",
+      "tradition_context": "Muslim Sufi",
+      "review_depth": "full_later_firsthand_chapter_original2001_unrecovered",
+      "claim_type": "Individual healing/protection claim with public demonstrations",
+      "current_assessment": "Real puncture accepted by Daniel; supernatural tissue repair and a position beyond ordinary human variability unestablished. Hall was a Sufi initiate/practitioner by his later demonstrations. Classify as individual healing/protection, not an established public vindicatory sign. The stated Sufi purpose is documented but does not itself establish doctrinal vindication.",
+      "local_sources": [
+        "sources/sufi-pubmed-2001.html",
+        "sources/hall-traditional-medicine-chapter.pdf",
+        "sources/mulacz-dcbd-1998-archived.pdf",
+        "sources/hall-2011-sufism-and-healing.pdf"
+      ],
+      "references_in_assessment": [
+        9,
+        10,
+        11
+      ],
+      "established_equivalent_public_sign": false,
+      "last_updated": "2026-11-02",
+      "followup_report": "sufi-followup-20261102.txt",
+      "user_accepted_observation": "Real cheek puncture; this is not Daniel’s disputed component.",
+      "user_current_objections": [
+        "Meaning and measurement of healed versus visible closure",
+        "Left/right timing asymmetry:2minutes left versus75percent at8hours right;12hours complete unverified",
+        "No validated matched injury baseline or population percentile",
+        "Hall’s later role as Sufi initiate/practitioner and spiritual advocate should be explicit"
+      ],
+      "investigator_position": {
+        "name": "Howard Hall",
+        "academic_background": "Case Western Reserve University psychologist",
+        "religious_participation": "Reports Sufi initiation and license to conduct DCBD afterJune2000 visit; Hall2011pp272–273",
+        "hostile_witness_status": "Initial doubt self-reported; later an adherent/practitioner. Not an independently hostile witness throughout."
+      },
+      "timing_explanation": "No documented explanation for asymmetry found in recovered later chapter; original2001 full text still needed.",
+      "role_in_public_vindicatory_comparison": "Not counted as a vindicatory counterexample. Public medical observation and Sufi attribution alone do not establish Allah’s agency or Islam’s truth. Retained for bodily/clinical comparison."
+    },
+    {
+      "id": "HI02",
+      "case": "Prahlad Jani 2003 and 2010 observations",
+      "tradition_context": "Hindu ascetic",
+      "review_depth": "deep_investigator_reports",
+      "claim_type": "Hospital observation",
+      "current_assessment": "Named observers, clinical numbers and institution statements; lifelong claim unverified; raw monitoring/final analysis unavailable.",
+      "local_sources": [
+        "sources/jani-2003-doctors-report-archived.pdf",
+        "sources/jani-2010-doctors-report-archived.pdf",
+        "sources/jani-2010-dipas-original-archived.pdf"
+      ],
+      "references_in_assessment": [
+        12,
+        13
+      ],
+      "established_equivalent_public_sign": false,
+      "last_updated": "2026-11-01"
+    },
+    {
+      "id": "RE01",
+      "case": "Sri Lankan prior-record reincarnation cases, 1988",
+      "tradition_context": "Buddhist milieu; not exclusive doctrine",
+      "review_depth": "deep_primary",
+      "claim_type": "Information claims",
+      "current_assessment": "Specific matches and errors; prior records improve case; ordinary transfer not demonstrated but all channels not experimentally excluded.",
+      "local_sources": [
+        "sources/stevenson-srilanka-1988-archived.pdf"
+      ],
+      "references_in_assessment": [
+        14
+      ],
+      "established_equivalent_public_sign": false,
+      "last_updated": "2026-11-01"
+    },
+    {
+      "id": "RE02",
+      "case": "Children reporting monk lives, 1999",
+      "tradition_context": "Buddhist subjects and one Catholic family",
+      "review_depth": "deep_primary",
+      "claim_type": "Information and behavior claims",
+      "current_assessment": "One published list before contact; failed recognitions and flexible identity matching limit inference.",
+      "local_sources": [
+        "sources/haraldsson-samararatne-1999.pdf"
+      ],
+      "references_in_assessment": [
+        15
+      ],
+      "established_equivalent_public_sign": false,
+      "last_updated": "2026-11-01"
+    },
+    {
+      "id": "RE03",
+      "case": "Birthmark series, 1993",
+      "tradition_context": "Cross-cultural reincarnation claims",
+      "review_depth": "deep_primary",
+      "claim_type": "Clinical/history correspondence",
+      "current_assessment": "Medical documents meaningful; retrospective exposure and selection prevent calibrated probability.",
+      "local_sources": [
+        "sources/stevenson-birthmarks-1993.pdf"
+      ],
+      "references_in_assessment": [
+        16
+      ],
+      "established_equivalent_public_sign": false,
+      "last_updated": "2026-11-01"
+    },
+    {
+      "id": "JE01",
+      "case": "Rachel to Gaza soldiers, 2009",
+      "tradition_context": "Jewish",
+      "review_depth": "targeted_documentary",
+      "claim_type": "Group apparition claim",
+      "current_assessment": "Actual luminous-figure testimony exists; no mass repeated public peer established. Original film and co-witnesses still needed.",
+      "local_sources": [],
+      "references_in_assessment": [
+        17
+      ],
+      "established_equivalent_public_sign": false,
+      "last_updated": "2026-11-01"
+    },
+    {
+      "id": "NC03",
+      "case": "Nairobi robed visitor, 1988",
+      "tradition_context": "Independent Christian; later New Age interpretation",
+      "review_depth": "targeted_primary_press",
+      "claim_type": "Public appearance claim",
+      "current_assessment": "Contemporary press retained; extraordinary disappearance secondhand; transport/date issues unresolved.",
+      "local_sources": [
+        "sources/nandi-1993-thesis.pdf"
+      ],
+      "references_in_assessment": [
+        18,
+        19
+      ],
+      "established_equivalent_public_sign": false,
+      "last_updated": "2026-11-01"
+    },
+    {
+      "id": "SP01",
+      "case": "Brazilian Spiritist surgery, 1995",
+      "tradition_context": "Spiritist/eclectic Christian",
+      "review_depth": "deep_primary",
+      "claim_type": "Clinical procedure series",
+      "current_assessment": "Real procedures; no established curative efficacy or supernatural cause.",
+      "local_sources": [
+        "sources/spiritist-surgery-2000.pdf"
+      ],
+      "references_in_assessment": [
+        20
+      ],
+      "established_equivalent_public_sign": false,
+      "last_updated": "2026-11-01",
+      "role_in_public_vindicatory_comparison": "Background only; healing evidence is not a counterexample to the agreed narrower claim."
+    },
+    {
+      "id": "HI03",
+      "case": "Milk event, 1995",
+      "tradition_context": "Hindu",
+      "review_depth": "earlier_primary_audit_retained",
+      "claim_type": "Mass public ritual effect",
+      "current_assessment": "Excluded as serious supernatural rival on replicated effect/runoff/dye evidence.",
+      "local_sources": [],
+      "references_in_assessment": [
+        21
+      ],
+      "established_equivalent_public_sign": false,
+      "last_updated": "2026-11-01"
+    },
+    {
+      "id": "BU03",
+      "case": "Dhammakaya solar claim",
+      "tradition_context": "Thai Buddhist movement",
+      "review_depth": "earlier_primary_audit_retained",
+      "claim_type": "Public solar claim",
+      "current_assessment": "Inadequate matched counterexample; earlier context and conclusions retained.",
+      "local_sources": [],
+      "references_in_assessment": [
+        21
+      ],
+      "established_equivalent_public_sign": false,
+      "last_updated": "2026-11-01"
+    },
+    {
+      "id": "BU04",
+      "case": "Badulla shrine rays, 1887",
+      "tradition_context": "Buddhist",
+      "review_depth": "earlier_targeted_primary_retained",
+      "claim_type": "Public lights",
+      "current_assessment": "Unsuccessful proposed counterpart to Fatima/Zeitoun on documentary strength and agreed comparison scope. Secondhand letter dated4June1887, reprinted1888; named eyewitness statement published1890. Not no evidence until1890, not proven fraud; ordinary mechanism unestablished.",
+      "local_sources": [],
+      "references_in_assessment": [
+        21
+      ],
+      "established_equivalent_public_sign": false,
+      "last_updated": "2026-11-02"
+    },
+    {
+      "id": "BA01",
+      "case": "Bab execution, 1850",
+      "tradition_context": "Babi/Bahai historical tradition",
+      "review_depth": "earlier_targeted_primary_retained",
+      "claim_type": "Public execution claim",
+      "current_assessment": "Early diplomatic report is secondhand; outside strict comparison window.",
+      "local_sources": [],
+      "references_in_assessment": [
+        21
+      ],
+      "established_equivalent_public_sign": false,
+      "last_updated": "2026-11-01"
+    },
+    {
+      "id": "AH01",
+      "case": "Ahmad-Dowie challenge, 1902-07",
+      "tradition_context": "Ahmadiyya Muslim",
+      "review_depth": "earlier_targeted_primary_retained",
+      "claim_type": "Prediction",
+      "current_assessment": "Genuine pre-outcome press trail; date-unspecified death-order event; outside strict window.",
+      "local_sources": [],
+      "references_in_assessment": [
+        21
+      ],
+      "established_equivalent_public_sign": false,
+      "last_updated": "2026-11-01"
+    },
+    {
+      "id": "NC04",
+      "case": "Welsh revival lights, 1904-05",
+      "tradition_context": "Protestant",
+      "review_depth": "earlier_targeted_primary_retained",
+      "claim_type": "Public/group lights",
+      "current_assessment": "Named early observations; no equivalent public sign established; outside strict window.",
+      "local_sources": [],
+      "references_in_assessment": [
+        21
+      ],
+      "established_equivalent_public_sign": false,
+      "last_updated": "2026-11-01"
+    },
+    {
+      "id": "JE02",
+      "case": "Post-1994 Rebbe sightings",
+      "tradition_context": "Jewish Chabad",
+      "review_depth": "earlier_screening_retained",
+      "claim_type": "Repeated personal apparition claims",
+      "current_assessment": "Primary and academic corpus exists; no comparable mass public exposure established.",
+      "local_sources": [],
+      "references_in_assessment": [
+        21
+      ],
+      "established_equivalent_public_sign": false,
+      "last_updated": "2026-11-01"
+    },
+    {
+      "id": "JE03",
+      "case": "Lovitch and Swimmer visual recoveries",
+      "tradition_context": "Jewish Chabad",
+      "review_depth": "earlier_screening_retained",
+      "claim_type": "Individual healings",
+      "current_assessment": "Named first-person leads; original ophthalmology records not recovered.",
+      "local_sources": [],
+      "references_in_assessment": [
+        21
+      ],
+      "established_equivalent_public_sign": false,
+      "last_updated": "2026-11-01",
+      "role_in_public_vindicatory_comparison": "Background only; healing evidence is not a counterexample to the agreed narrower claim."
+    },
+    {
+      "id": "SI01",
+      "case": "Vasu Bhardwaj recovery, 2002",
+      "tradition_context": "Sikh",
+      "review_depth": "earlier_screening_retained",
+      "claim_type": "Individual healing",
+      "current_assessment": "Specific narrative with concurrent chemotherapy; clinical dossier incomplete.",
+      "local_sources": [],
+      "references_in_assessment": [
+        21
+      ],
+      "established_equivalent_public_sign": false,
+      "last_updated": "2026-11-01",
+      "role_in_public_vindicatory_comparison": "Background only; healing evidence is not a counterexample to the agreed narrower claim."
+    },
+    {
+      "id": "BU05",
+      "case": "Khenpo A Cho rainbow body, 1998",
+      "tradition_context": "Tibetan Buddhist",
+      "review_depth": "earlier_selected_book_read_retained",
+      "claim_type": "Body disappearance claim",
+      "current_assessment": "Retrospective named interviews; no continuous observed dissolution or original body imagery inspected.",
+      "local_sources": [],
+      "references_in_assessment": [
+        21
+      ],
+      "established_equivalent_public_sign": false,
+      "last_updated": "2026-11-01"
+    },
+    {
+      "id": "BU06",
+      "case": "Karmapa 1981 and Itigilov preservation",
+      "tradition_context": "Buddhist",
+      "review_depth": "earlier_screening_retained",
+      "claim_type": "Postmortem bodily claims",
+      "current_assessment": "Named observations; original temperature/autopsy/preservation protocols incomplete.",
+      "local_sources": [],
+      "references_in_assessment": [
+        21
+      ],
+      "established_equivalent_public_sign": false,
+      "last_updated": "2026-11-01"
+    },
+    {
+      "id": "NC05",
+      "case": "Branham 1950 halo",
+      "tradition_context": "Pentecostal/Branham movement",
+      "review_depth": "selected_primary_quotation",
+      "claim_type": "Photographic light claim",
+      "current_assessment": "Quoted examiner authenticates negative/light exposure, not supernatural origin.",
+      "local_sources": [
+        "sources/branham-lacy-report.pdf"
+      ],
+      "references_in_assessment": [
+        22
+      ],
+      "established_equivalent_public_sign": false,
+      "last_updated": "2026-11-01"
+    },
+    {
+      "id": "TE01",
+      "case": "Belgian teenager recovery, 2010-11",
+      "tradition_context": "Tenrikyo",
+      "review_depth": "first_party_narrative_read",
+      "claim_type": "Individual healing",
+      "current_assessment": "Explicit religious claim; hospital care/treatment accompanied recovery; original records absent.",
+      "local_sources": [],
+      "references_in_assessment": [
+        23
+      ],
+      "established_equivalent_public_sign": false,
+      "last_updated": "2026-11-01",
+      "role_in_public_vindicatory_comparison": "Background only; healing evidence is not a counterexample to the agreed narrower claim."
+    },
+    {
+      "id": "QI01",
+      "case": "Zhang Baosheng sealed-container claims",
+      "tradition_context": "Qigong/parapsychology, not automatically a religion",
+      "review_depth": "abstract_only_download_blocked",
+      "claim_type": "Laboratory physical claims",
+      "current_assessment": "Potentially important protocol not audited; other fraud episodes cannot stand in for this one.",
+      "local_sources": [
+        "sources/song-qigong-1999.partial.pdf",
+        "sources/song-qigong-1999-second-attempt.partial.pdf"
+      ],
+      "references_in_assessment": [
+        24
+      ],
+      "established_equivalent_public_sign": false,
+      "last_updated": "2026-11-01"
+    },
+    {
+      "id": "SP02",
+      "case": "Chico Xavier and psychography",
+      "tradition_context": "Spiritist",
+      "review_depth": "screening_only",
+      "claim_type": "Information/writing claims",
+      "current_assessment": "Promising leads not a completed accuracy/provenance audit.",
+      "local_sources": [],
+      "references_in_assessment": [],
+      "established_equivalent_public_sign": false,
+      "last_updated": "2026-11-01"
+    },
+    {
+      "id": "RE04",
+      "case": "James Leininger controversy",
+      "tradition_context": "Reincarnation claim in Christian family",
+      "review_depth": "unread_download",
+      "claim_type": "Information claim",
+      "current_assessment": "Replies exist; no completed adjudication of critique and response.",
+      "local_sources": [
+        "sources/matlock-leininger-2022.pdf"
+      ],
+      "references_in_assessment": [],
+      "established_equivalent_public_sign": false,
+      "last_updated": "2026-11-01"
+    },
+    {
+      "id": "BU07",
+      "case": "Sri Lankan Buddha statue rays, August2006",
+      "tradition_context": "Buddhist",
+      "review_depth": "earlier_contemporary_press_review_retained",
+      "claim_type": "Public statue-light reports",
+      "current_assessment": "Contemporary AFP/PTI coverage exists with optical counterinterpretations. Not established as comparable supernatural public vindicatory sign. Open for renewed case-specific audit; not scored as conclusively debunked. Distinct from1887 Badulla and reincarnation studies.",
+      "local_sources": [
+        "../comparative-public-miracles-20261028/other-traditions/report.txt"
+      ],
+      "established_equivalent_public_sign": false,
+      "last_updated": "2026-11-02"
+    }
+  ],
+  "coverage_gaps": [
+    "Jain traditions: no comparable depth",
+    "Zoroastrian traditions: no comparable depth",
+    "Indigenous traditions: no comparable depth",
+    "Shinto beyond Tenrikyo: no comparable depth",
+    "Latter-day Saint traditions: no comparable depth",
+    "Comprehensive vernacular press/archives in every reviewed religion: not done"
+  ],
+  "prior_dispositions_preserved": [
+    "Hindu milk excluded as serious supernatural comparator",
+    "Thai solar event inadequate Fatima comparator"
+  ],
+  "debate_tally_changed": false,
+  "comparison_scope_clarification": "For Daniel's argument, healing cases are private-miracle claims and do not count as competing public/vindicatory signs. Publicity or medical documentation alone does not change that classification. This does not authenticate every healing claim.",
+  "related_preservation_comparison": "preservation-comparison/comparison.txt",
+  "catholic_preservation_comparators": [
+    "Bernadette Soubirous",
+    "Charbel Makhlouf",
+    "Sister Wilhelmina Lancaster"
+  ],
+  "healing_scope_refinement_20261101": {
+    "status": "qualifies earlier blanket exclusion",
+    "user_distinction": "Personal prayer recovery is private; objectively documented recovery tied to Lourdes bathing is closer to public vindicatory.",
+    "application": "Evaluate specificity of shrine/message/practice connection and objective timing; a single recipient does not automatically exclude vindicatory force. Apply equally across traditions.",
+    "debate_score_change": false
+  },
+  "public_vindicatory_refinement_20261102": {
+    "distinction": "Publicly witnessed or medically documented individual benefit does not by itself attest the truth of the beneficiary’s religion. Examine the sign’s religious message, symbolic acts and specific connection to claims.",
+    "user_applies_to_catholic_private_healings": true,
+    "sufi_disposition": "Individual healing/protection comparison only; not counted as an established public vindicatory counterexample.",
+    "preserves_lourdes_refinement": true,
+    "notes_file": "public-vindicatory-criterion-20261102.txt",
+    "debate_score_change": false
+  },
+  "comparative_challenge_tally_20261102": {
+    "file": "comparative-tally-20261102.json",
+    "counts": {
+      "unsuccessful_challenges": 5,
+      "open_cases_among_these_six": 0,
+      "limited_preservation_comparison_success": 1,
+      "established_comparable_non_apostolic_public_vindicatory_signs": 0
+    },
+    "scope": "Six named comparison cases recalled in current dialogue, not all29 screened entries or the overall metaphysical debate. Unsuccessful challenge means it has not established the intended strong counterexample, not that every claim is proven false.",
+    "overall_debate_tally_changed": false,
+    "clarification": "Daniel meant1887 Badulla, not2006 Sri Lankan statue rays. Comparative challenge tally5–0; this means five unsuccessful attempts to establish the proposed strong counterexample, not five proven fraudulent events. Itigilov remains a separate limited preservation counterpoint."
+  },
+  "mass_apparition_comparison_concession_20261102": {
+    "status": "comparative_objection_conceded_on_investigated_record",
+    "file": "mass-apparition-comparison-concession-20261102.txt",
+    "scope": "Outside Apostolic Christianity; no rival mass-apparition case established as a comparably strong public religious sign to Fatima/Zeitoun. Not a globally exhaustive absence finding.",
+    "substitution_with_other_miracle_categories": false,
+    "automatic_tally_increment": false
+  },
+  "fresh_mass_public_audit_20261102": {
+    "report": "../mass-public-miracles-world-audit-20261102/research-report.txt",
+    "new_open_candidates": [
+      "MountPutuo1997",
+      "Ajmer2002",
+      "KualaLumpurstatues2011"
+    ],
+    "established_equivalents": 0,
+    "previous_tally_unchanged": true,
+    "full_video_and_archive_audits_incomplete": true
+  }
+}

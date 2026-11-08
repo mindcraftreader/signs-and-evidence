@@ -1,0 +1,28 @@
+{
+  "checked_on": "2026-10-31",
+  "user_request": "Affirmative attestations by Muslim Egyptian government authorities and Muslim religious leaders",
+  "primary_gain": "ZT-033 is now checked against the original Arabic scan, rather than only the archive translation.",
+  "counts": {
+    "checked_personal_attestations_by_reported_muslim_officeholder": 1,
+    "checked_named_government_public_endorsements": 1,
+    "affirmative_ministry_report_reproduction": 1,
+    "verified_affirmative_muslim_clerical_attestations": 0
+  },
+  "counting_note": "Counts describe different source categories, not independent experiments. Ministry and newspaper sources share underlying church testimony.",
+  "remaining_targets": [
+    "Original dated Watani front-page item on Interior Minister Shaarawy Gomaa’s congratulation.",
+    "Helmy Armanious, The Virgin of Zeitoun, Intercessor of Generations, printed p33, for the Darwish police-witness account.",
+    "An actual dated endorsement by an identified imam, mufti or Al-Azhar officeholder. Sheikh Megahed’s own account and official position remain unrecovered."
+  ],
+  "not_admitted": [
+    "Nasser personally witnessing or confirming an apparition",
+    "Muhammad al-Fahham’s alleged conversion or personal endorsement",
+    "Congratulatory message by Shaarawy Gomaa as an already verified contemporary quote"
+  ],
+  "website_lead_only": "English church homepage additionally claims an Egyptian Official Gazette publication, but supplies no dated issue; no gazette item verified.",
+  "continued_search": "continued-search.txt",
+  "new_gains": [
+    "Reciter Mustafa Ismail family identification in reproduced witness report; no attestation by reciter himself.",
+    "Al-Azm p166 quotes a Watani p1 report on Gomaa official involvement; original issue and own eyewitness statement still missing."
+  ]
+}

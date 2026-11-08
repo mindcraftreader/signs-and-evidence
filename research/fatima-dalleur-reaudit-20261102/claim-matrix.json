@@ -1,0 +1,98 @@
+{
+  "date": "2026-11-02",
+  "scope": "Technical rereading and source checks, not full image-measurement replication",
+  "tally_change": 0,
+  "claims": [
+    {
+      "id": "D01",
+      "objection_or_claim": "Recovering illumination from a single perspective image is impossible",
+      "status": "answered",
+      "finding": "Correct point correspondences constrain a projected light direction. Physical lengths and a common receiving plane are unnecessary.",
+      "source_locations": "Dalleur pp31-39; Farid section5.7; Bradley response00:28-00:35,01:10-01:15"
+    },
+    {
+      "id": "D02",
+      "objection_or_claim": "Only CGI validates the technique",
+      "status": "factually_inaccurate",
+      "finding": "Known-source real photographs exist. They support applicability; they are not an independent D115 error distribution.",
+      "source_locations": "Dalleur Examples page; Bradley response01:03-01:07"
+    },
+    {
+      "id": "D03",
+      "objection_or_claim": "Focal length, pitch and roll were ignored",
+      "status": "factually_inaccurate",
+      "finding": "Published sensitivity analysis and independent derivative check reproduce the intended factors.",
+      "source_locations": "Dalleur pp34-39; independent-checks.json"
+    },
+    {
+      "id": "D04",
+      "objection_or_claim": "Exact camera/lens identity is indispensable",
+      "status": "not_established",
+      "finding": "Sufficient bounds can replace exact identity. Historical and visible-image constraints are relevant evidence.",
+      "source_locations": "Bradley response00:39-00:55; current Photo and Principles pages"
+    },
+    {
+      "id": "D05",
+      "objection_or_claim": "Vintage radial distortion explains the discrepancy",
+      "status": "not_demonstrated",
+      "finding": "Low distortion has independent historical support. No actual D115 distortion model closing the gap was established. Full cue-by-cue propagation remains unreplicated.",
+      "source_locations": "Magill1955 table2; Bradley response00:49-00:55"
+    },
+    {
+      "id": "D06",
+      "objection_or_claim": "Bright-cloud rendering refutes the full D115 reconstruction",
+      "status": "not_demonstrated",
+      "finding": "It illustrates a failure mode but does not fit all retained protected sharp cues together. The author supplies a specific reply.",
+      "source_locations": "Muse reply section3; earlier ordinary-lighting-fit-test-20261101.txt"
+    },
+    {
+      "id": "D07",
+      "objection_or_claim": "Every projected angle is preserved",
+      "status": "terminology_correction_not_core_refutation",
+      "finding": "Line incidence/collinearity is preserved; arbitrary Euclidean angles are not. The actual calibrated reconstruction performs the needed conversion.",
+      "source_locations": "Dalleur Principles; Bradley response00:29-00:33"
+    },
+    {
+      "id": "D08",
+      "objection_or_claim": "All unknown measurement errors already have an independently checked joint bound",
+      "status": "verification_outstanding",
+      "finding": "Published feature illustrations and convergence matter, but no independently reselected6K endpoints/residual table/joint acceptance-region fit was completed here. This does not establish an error.",
+      "source_locations": "Dalleur Figs9-12; Muse reply section3; Bradley response01:15"
+    },
+    {
+      "id": "D09",
+      "objection_or_claim": "A black-and-white exposure independently measures instantaneous IR drying",
+      "status": "stronger_claim_not_established",
+      "finding": "The garment-related pattern can corroborate rain/drying testimony; water mass, time and infrared flux are not directly measured by one exposure.",
+      "source_locations": "Dalleur Figs3-5; Muse reply section4"
+    },
+    {
+      "id": "D10",
+      "objection_or_claim": "D115 principal numerical result fails arithmetic checking",
+      "status": "not_supported",
+      "finding": "Published inputs give28.2386067deg at37mm equivalent. Intended pitch/roll factors independently reproduce.",
+      "source_locations": "geometry-check.json; independent-checks.json"
+    },
+    {
+      "id": "D11",
+      "objection_or_claim": "Printed consistency corrections defeat the result",
+      "status": "not_supported",
+      "finding": "Equation9 intermediate roll term and an approximately0.01deg table mismatch do not change the base elevation. Magill angle correction still supports subpercent distortion.",
+      "source_locations": "independent-checks.json; report.txt"
+    },
+    {
+      "id": "D12",
+      "objection_or_claim": "The period-photo validation promised in the video is completed evidence in that video",
+      "status": "not_supported",
+      "finding": "The video announces future work. The focused current search did not recover a newly completed matched historical validation dataset.",
+      "source_locations": "Bradley response01:05-01:06"
+    },
+    {
+      "id": "D13",
+      "objection_or_claim": "Dalleur proposes two miraculous orbs invisible from the west",
+      "status": "misattribution",
+      "finding": "The second source is proposed as a bright cloud. The west-visibility discussion concerned a separate event.",
+      "source_locations": "Dalleur pp23,28-30; Bradley response00:21-00:26"
+    }
+  ]
+}

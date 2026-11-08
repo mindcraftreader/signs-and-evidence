@@ -1,0 +1,45 @@
+FRENCH MEDIEVAL ARTISTS — ATTRIBUTION ASSESSMENT
+Reviewed 27 October 2026
+
+Question: if Turin’s image is an artificial medieval work, who could have
+made it? This condition is not itself established by this artist survey.
+
+Working guess at the level currently supported: an unnamed artist or
+workshop familiar with Passion imagery. The reviewed evidence does not
+identify one person, a particular town, or a proven manufacturing method.
+An obscure craftsman remains possible; fame is not a necessary condition.
+
+First named research lead in this selected comparison set: Évrard d’Orléans
+and his circle. Reason: known painter/sculptor, documented early/mid-1300s
+commissions including a cross and commemorative image, and royal/religious patronage.
+The 1341 Langres commission is more useful chronological evidence than
+uncertain birth dates. The Maubuisson relief illustrated is attributed.
+No reviewed record connects him to the Shroud, Charny, Lirey, a cloth-image
+experiment, a relevant payment or a surviving technical model. Consequently
+there is no justified named-maker probability or basis to call him the maker.
+
+Other relevant early comparisons: Jean Pépin de Huy and collaborators;
+Jean Ravy, Jean le Bouteiller and the Notre-Dame workshop; Master of Rieux;
+anonymous Adam and Reims sculptors; Jean Pucelle; Jean Le Noir and workshop.
+
+Later comparisons: André Beauneveu (1364 Charles V effigy), Jean de Liège
+(1371–72 Charles IV effigy), Sluter/Marville at Champmol, and the Narbonne
+Parement painter. These demonstrate later medieval skill, not the making
+of an object already displayed under the conventional mid-1350s chronology.
+The sitter’s death year is not the sculpture’s production year. The Well
+of Moses extends into the 1400s; the Parement is on silk, not linen.
+
+Attribution requires more discriminating evidence than a convincing nude,
+recumbent body, Christ’s beard or monochrome shading: a distinctive matched
+design, a reproducible process consistent with the cloth’s physical evidence,
+and independent documentary links to acquisition, commission or production.
+The 1988 radiocarbon range dates sampled linen, not the image separately.
+
+Scope: France and artists working there in the 1200s–1300s. This is a
+curated comparison set, not an exhaustive census or objective greatness
+ranking. Historical France, the Burgundian court, Hainaut and the Low
+Countries are not collapsed into modern national identities.
+
+Local inventory: artists-and-works.json. Each profile gives artwork samples,
+original catalogue links, archived metadata/page/summary access, known
+attribution qualifiers and specific limitations.

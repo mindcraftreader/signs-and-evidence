@@ -1,0 +1,21 @@
+WRITTEN ACCOUNTS AND CONVERSIONS — 5 November 2026
+
+Counts
+Daniel Costa and Stefano Chiozza (both independent researchers) report 103 non-hearsay testimonies reproduced in Roberto Brunelli's 2017 collection, E lo vedemmo volare: 73 concern aerial phenomena and 30 concern non-aerial episodes. Their supplementary aerial table has 82 entries when nine hearsay entries are included. Their article calls the 73 a mixture including eyewitness depositions and letters from cardinals; therefore do not call all 73 separately sworn depositions. Repeated names in the tables demonstrate that accounts are not identical to distinct witnesses or unique events. The inquiries cited span 1664–1666 and 1688–1689. This is a selected published corpus, not a census of every archival document.
+Source: https://doi.org/10.1016/j.ebr.2026.100865 (full article XML saved).
+
+Bob Rickard, independent researcher, in Journal for the Study of Religious Experience 9(1), pp.39–72 (2023), reports that Franciscan scholar Gustavo Parisciani found at least 150 eyewitness accounts in Vatican materials for Joseph's Assisi period, citing Michael Grosso 2017, pp.224–225. This is a traceable larger reported count, not an archival recount performed here. It cannot be added to the 73/103 or to Rosmi's roughly70 reported observations without deduplication. The relevant article is by Rickard; the downloaded whole issue also includes an article by Grosso. Local source filenames have been corrected to describe the whole issue.
+Source: https://rerc-journal.tsd.ac.uk/index.php/religiousexp/issue/download/14/83
+
+Major conversions
+1. Johann Friedrich / John Frederick / Giovanni Federico, later Duke of Brunswick-Lüneburg (Hanover): one person, not three. His Catholic conversion in1651 is corroborated in Georg Schnath's Neue Deutsche Biographie entry. That entry connects the change of faith to the Italian journey on which he met Joseph; Joseph biographies describe repeated levitation experiences as instrumental. His later appointment of Leibniz as court councillor/librarian in1676 is independently recorded there. Pastrovicchi's translated narrative gives an initial visit in1649 and profession the following year, a chronology that needs reconciliation with1651. Do not claim every narrative detail independently corroborated by the political biography.
+https://www.deutsche-biographie.de/119218968.html
+
+2. Heinrich Julius (Henry Julius) Blume: Pastrovicchi's 1918 edition, printedp44/PDFp77, footnote identifies the Lutheran companion in the narrative as Blume and says he converted in1653, citing Andreas Raess, Die Convertiten, volVI (1868), pp450–452,558–571. The original page was visually inspected. Ernst Henke's Allgemeine Deutsche Biographie entry independently corroborates Blume's scholarly background, planned Helmstedt professorship and1653 conversion. However, it says Blume was sent to Rome in autumn1651 to prevent the prince's conversion and found him already converted. This complicates identifying him as the companion at the earlier alleged miracle encounter. His conversion is documented; its direct causal connection to witnessing Joseph is not yet established.
+https://www.deutsche-biographie.de/sfz4799.html
+
+Current defensible summary
+Approximately150 eyewitness accounts are reported in the broader literature;103 non-hearsay written accounts,73 aerial, are explicitly tabulated in one modern scholarly study. No complete distinct-witness/event census yet. One clearly high-profile royal conversion associated with Joseph, plus a second named learned convert whose direct eyewitness connection requires checking. Already-Catholic princes, cardinals and other visitors are not conversions. Do not turn the provisional inventory into a claim that only these two conversions occurred.
+
+
+FOLLOW-UP 5 November2026: See ../joseph-cupertino-duke-blume-20261105/assessment.txt. New sources include Leibniz court personalia, Bono1680 original sermon, Gruber1745 correspondence. Duke February1651 profession supported; Blume1653 conversion distinguished; original Gruber letter is19May1652 (Räss prints1651). No own flight narrative yet recovered for either man.

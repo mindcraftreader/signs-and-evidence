@@ -1,0 +1,20 @@
+THREE LOURDES CASES — FOCUSED RESEARCH
+2November2026
+
+This folder indexes the focused Borel,Micheli andTraynor work. Reports retain the positive evidence, precise clinical timelines, religion-linked circumstances and strongest source-specific limitations. No case has been declared fraudulent or completely explained by an ordinary mechanism in these bounded passes; neither has a new numerical miracle probability been calculated.
+
+Marie Borel
+research/lourdes-period-audit-20261102/1858-1918/borel-deep-followup.txt
+
+Vittorio Micheli
+research/lourdes-period-audit-20261102/1919-1976/micheli-deep-followup.txt
+
+John Traynor
+research/lourdes-period-audit-20261102/1919-1976/traynor-deep-followup.txt
+
+Parent direct-reading scope:reading-scope.json
+Comparison:case-comparison.json
+
+Image sources actually inspected: Borel qa/lebec-pdf-209.png andguinier-1909-p595.png in the1858–1918period library; Micheli canmedaj01523-0081.png and-0083.png in the original1Novemberlibrary. These are original printed-source reproductions, not modern enhanced clinical scans.
+
+The dossier remains evidence to assess, not an automatic count of independent experiments. Repeated editions and translations must not be counted as new patient observations.

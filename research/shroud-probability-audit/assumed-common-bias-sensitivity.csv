@@ -1,0 +1,6 @@
+assumed_common_bias_sd_years,weighted_date_signed_AD,total_weighted_date_sd,conditional_weighted_tail_at_AD1300,conditional_log10_likelihood_ratio_AD30_over_AD1300,status
+0,142.53504205046053,88.82876640351371,4.114488524228325e-39,36.52060283673077,Sensitivity scenario only; tau is not fitted from the studies
+100,142.53504205046053,133.7555596630286,2.4953461545057056e-18,16.107254244370004,Sensitivity scenario only; tau is not fitted from the studies
+250,142.53504205046053,265.3121741284595,6.424732558575142e-06,4.093839788258173,Sensitivity scenario only; tau is not fitted from the studies
+500,142.53504205046053,507.82925254535115,0.011326388835351413,1.1174028421584075,Sensitivity scenario only; tau is not fitted from the studies
+1000,142.53504205046053,1003.9375228273769,0.12447052569963828,0.2859116332822527,Sensitivity scenario only; tau is not fitted from the studies

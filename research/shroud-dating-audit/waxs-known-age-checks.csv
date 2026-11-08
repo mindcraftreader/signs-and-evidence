@@ -1,0 +1,5 @@
+sample,reference_age_years,reference_95_halfwidth_years,waxs_age_years,waxs_lower_error_years,waxs_upper_error_years
+DII,950,80,940,70,70
+NII,2310,60,2350,290,510
+E,2390,40,2390,230,280
+HII,2880,140,2770,360,600

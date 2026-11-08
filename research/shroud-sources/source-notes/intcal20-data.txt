@@ -1,0 +1,22 @@
+Reimer et al. — IntCal20 Northern Hemisphere radiocarbon calibration curve and data
+========================================================================
+Source ID: INTCAL20-DATA
+Category: Dating and sampling
+Year: 2020
+Recorded/reviewed: 2026-10-27
+Source: https://doi.org/10.1017/RDC.2020.41
+
+What it contributes:
+Official calibration data used for the audit’s illustrative two-component isotope-mixing calculation.
+
+Limits and interpretation:
+The calculation interpolates curve means and does not propagate full calibration uncertainty or fit a Shroud repair geometry. Fractions are carbon fractions remaining after pretreatment, not percentages of DNA reads.
+
+Access: Official calibration data saved
+
+Alternate access:
+https://intcal.org/curves/intcal20.14c
+https://www.intcal.org/curves.html
+
+Saved files:
+data/intcal20.14c

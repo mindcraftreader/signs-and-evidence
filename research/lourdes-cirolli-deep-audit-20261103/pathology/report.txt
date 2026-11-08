@@ -1,0 +1,53 @@
+Delizia Cirolli: pathology and primary-document audit
+3 November 2026
+
+Outcome
+The strongest positive source located remains CMIL member St John Dowling's 1984 clinical report, supported by known Trifaud/Colvin booklet holdings. There is a substantial untreated bone-lesion recovery claim, but the exact tissue diagnosis was disputed. We have not acquired the original booklet, slides, full pathology consultation letters or Cirolli radiographs. The new acquisition is neurologist Francesco D'Alpa's 48-page 2008 critique, which reproduces passages attributed to the CMIL material and supplies a promising older Spanish-copy lead. It is not a new examination of Cirolli's tissue. A separate 1998 specialist rereading reported by Peter May needs the original film/report before its exact conclusion can be assessed.
+
+1. What is actually primary and acquired?
+A. St John Dowling, MB MRCGP, GP in Much Hadham and member of the International Medical Committee of Lourdes: Lourdes cures and their medical assessment, JRSM 77 (1984),634–638, DOI10.1177/014107688407700803. The web tool returned the original five printed pages' full text; pp636–637 were read again. Dowling acknowledges access to all CMIL meeting minutes. His narrative is primary committee-member reporting, not an independent modern slide review. Local direct Sage download returned an access page, retained with an HTML extension; do not call that a downloaded PDF.
+https://journals.sagepub.com/doi/pdf/10.1177/014107688407700803
+https://pmc.ncbi.nlm.nih.gov/articles/PMC 1440112/
+
+B. Booklet: André Trifaud and Bernard C. Colvin, Rapport sur la guérison de Delizia Cirolli, Lourdes, Œuvre de la Grotte,1989,47 pp, bibliography p47, BnF8-K PIECE-2500. English Report on the cure of Delizia Cirolli,1990,47 pp, BnF8-K PIECE-2501. Both catalog records are locally preserved. These are holdings, NOT acquired contents. The 2005 printing cited by physician Dirk Johan Kruijthoff is another edition, not another investigation. BnF also catalogs Spanish 1990 and Italian 1990/1996 translations. No free complete scan was recovered in the present pass.
+https://catalogue.bnf.fr/ark:/12148/cb 35041825 p
+https://catalogue.bnf.fr/ark:/12148/cb 35068926 d
+
+2. Diagnosis, treatment and course from Dowling's report
+At age 11 in 1976 Cirolli developed a painful swollen right knee with radiographic bone damage. Mollica at the University of Catania Orthopaedic Clinic obtained a biopsy; Cordaro interpreted it as metastatic neuroblastoma. Amputation was refused; cobalt irradiation was proposed, but she left the radiotherapy ward before treatment. A Turin consultation also led to no treatment. After the August 1976 Lourdes pilgrimage she worsened; Septemberfilms showed extension. Improvement began near Christmas at home in Sicily, with prayer and Lourdes water continuing. Pain/swelling diminished, weight/general health recovered, films showed repair; genu valgum remained. Annual Lourdes follow-up followed in 1977–1980.
+The original slides were later supplied to French specialists: Payan favored Ewing tumor, Nezelof considered Ewing most likely while retaining neuroblastoma as an alternative, and Mazabraud/Curie colleagues agreed. CMIL selected Ewing in 1982. Thus neither 'no biopsy' nor 'unanimously certain subtype' describes Dowling's account. His no-regression assertion was a 1984 literature judgment, not a current exhaustive search.
+
+3. Newly acquired D'Alpa critique: scope and useful evidence
+Francesco D'Alpa, who identifies himself as a neurologist/neurophysiopathologist at Laiko.it, published this chapter in 2008. No oncology/pathology university appointment was verified. He expressly says the Catania canonical dossier was refused to him, and that he used Mangiapan plus an online Spanish CMIL copy at www.marcel-lefebvre-tam.com, retranslating passages. His quotations preserve diagnostic uncertainty and report a4/6 local medical vote for inexplicability; originals remain needed.
+His challenge is chiefly neuroblastoma's possible regression and imperfect subtype discrimination. His illustrative comparators include an infant given steroids, a2.5-year-old receiving substantial oncology treatment, and an adult given B12 whose stage IV status he hypothesizes. They do not establish Cirolli's mechanism. He does not discuss the 1998 Marsden rereading. All48 pages' extracted text reviewed; rendered medical figures inspected. The embedded figures are publication clippings, not Cirolli radiographs/histology.
+https://www.laiko.it/images/lourdes/La-guarigione-di-Delizia-Cirolli---Una-analisi-critica.pdf
+
+4. Specific quoted-record leads requiring original verification
+D'Alpa supplies dates not all independently confirmed here: biopsy6May 1976; Cordaro report11May; Payan3Oct 1978; Nezelof consultations culminating4Sep 1979; Mollica10Sep 1979; Cordaro2Jul 1980; Mazabraud5Feb 1981. The reported positions match Dowling's broad narrative. They should be called dates reported by D'Alpa from the dossier, not newly acquired original letters.
+His page31contains a small clipped header from Catania Medica, April 2001, Sebastiano Cordaro, 'A proposito di certi…miracoli'. The image verifies a relevant authored article exists; it cuts off the full argument. D'Alpa says Cordaro maintained neuroblastoma. Obtain the full issue before treating every later characterization as Cordaro's exact words.
+No modern immunohistochemistry, EWSR1fusion testing or repeat biopsy was recovered. Whether sufficient original paraffin blocks/tissue survive for these is unknown.
+
+5. Pritchard-Jones / Royal Marsden: serious, but not yet a confirmed alternative diagnosis
+Retired GP Peter May's 2017 Science & Christian Belief29:121–134, pp128–129, recounts recommending that the Channel 4 Equinox team obtain Cirolli's slides. He says they showed them to Royal Marsden consultant paediatric oncologist Dr Kathy Pritchard-Jones and that her film verdict allowed an infection such as TB rather than a tumor. This is May's firsthand report of hearing a specialist in the film; it is not the signed pathology report or original footage. Parent agent is tracing that footage.
+Do not turn 'could have been infection' into confirmed tuberculosis, or treat May's later stronger wording as a second independent review. We do not yet know slide quantity, specimen identity/quality, stains, full differential, her exact words or whether she said no malignant cells. Resolving these could materially change confidence in the malignant diagnosis.
+https://www.cis.org.uk/serve.php?filename=scb-29-2-may.pdf
+
+6. Verified professional context
+Trifaud's role was genuinely bone-tumor/orthopaedic expertise: the Spanish orthopaedic society SECOT's historical account identifies the Marseille chair, GETO cofounding and SOFCOT presidency; EMSOS lists him among its founders. His own 1976 Le Monde byline names his SOFCOT presidency. This supports expertise, not diagnostic infallibility.
+https://75aniversario.secot.es/upload_fck/file/expo/130-160%20Francia%202.pdf
+https://emsos.org/about-us/
+https://www.lemonde.fr/archives/article/1976/08/20/l-honneur-d-un-chirurgien_2964485_1819218.html
+The Dunkeld diocese's 2016 and 2025 institutional accounts verify Colvin as Dundee Royal Infirmary consultant orthopaedic surgeon and CMIL member. Its 2016 item misplaces Cirolli's shrine visit at Christmas 1976, so it is used for Colvin's professional background only.
+https://www.dunkelddiocese.co.uk/papal-knighthood-for-bernard-colvin/
+https://www.dunkelddiocese.co.uk/requiem-mass-for-dr-bernard-colvin-k-s-g/
+D'Alpa: professional self-description at https://www.laiko.it/ Catania medical order's 2020 electoral register independently lists Francesco Mario D'Alpa, but does not establish the claimed specialty or a university affiliation.
+
+7. Acquisition and interpretation limits
+The Spanish website is currently inaccessible. Internet Archive CDX returned a temporarily-offline HTML page, not an archive inventory; the misleading .jsonextension is explicitly flagged in the register. That prevents reconstructing its old filename on this pass. No purchased copy or direct inquiry was attempted.
+Kruijthoff's Vrije Universiteit Amsterdam thesis says he personally inspected booklets containing radiographs and histology pictures. This is evidence of documentary availability to that researcher, not acquisition by us. None of the acquired files permits independent inspection of Cirolli's tumor morphology or serial bone repair. We therefore have good grounds for a real recovery and a real expert diagnostic dispute, while its precise pathology and the 1998 counter-reading remain unresolved.
+
+Next best documents
+1. Complete Trifaud/Colvin booklet, any available edition; compare translated quotations to original letters and plate captions.
+2. Original 1998 film segment and signed Pritchard-Jones assessment, including specimen identity and staining.
+3. Full Cordaro April 2001 Catania Medica article.
+4. Original 1976 slides/blocks and serial dated radiographs, with complete treatment records.

@@ -1,0 +1,14 @@
+{
+  "date": "2026-11-01",
+  "json_parse": "pass",
+  "case_identifiers": "72 unique consecutive cases",
+  "pdf_magic_checks": "6 primary/reproduced PDF sources passed",
+  "paired_micheli_radiograph_publication_pages": "present and visually inspected",
+  "report_source_register": "one",
+  "output_sha256": {
+    "report.txt": "14f40ed6f86968bbab2d39d642e1f06b7c1a04ca26363a168e158542118bc100",
+    "72-case-screening-register.json": "e876a15f93f75a59c14e53924d30b4fdb612ef2912673d0165248828f93af746",
+    "detailed-cases.json": "b5e9e1e875695f19d12aff7321c8d1120fd4bf6f5eaa0894754e6cbf42549aee",
+    "source-register.json": "d61a43fbf3639c13cbedc1e9f7ff097fefc98d1c69d223b4e1d191cb03094763"
+  }
+}

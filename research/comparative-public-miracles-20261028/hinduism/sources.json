@@ -1,0 +1,96 @@
+[
+  {
+    "id": "H01",
+    "title": "Gods drink milk in India",
+    "author": "UPI",
+    "date": "1995-09-22",
+    "url": "https://www.upi.com/Archives/1995/09/22/Gods-drink-milk-in-India/8602811742400/",
+    "kind": "contemporary news dispatch",
+    "access": "Full indexed search text read; direct download blocked 403",
+    "local": null
+  },
+  {
+    "id": "H02",
+    "title": "Preface: A Milk Miracle (Hinduism Today November 1995 reprint)",
+    "author": "Hinduism Today named contributors",
+    "date": "1995-11",
+    "url": "https://himalayanacademy.com/media/books/loving-ganesha/web/preface.html",
+    "kind": "contemporary proponent witness collection",
+    "access": "full HTML read and saved",
+    "local": "sources/hinduism_today_199511_reprint.html"
+  },
+  {
+    "id": "H03",
+    "title": "The Milk Miracle",
+    "author": "Hinduism Today; Kenya report Prabha Prabhakar Bhardwaj",
+    "date": "1995-12-01",
+    "url": "https://www.hinduismtoday.com/1995-12-the-milk-miracle/",
+    "kind": "contemporary proponent collection; partly overlaps H02, not independent corroboration",
+    "access": "full indexed text read and HTML saved",
+    "local": "sources/hinduism_today_199512_morari_prediction.html"
+  },
+  {
+    "id": "H04",
+    "title": "The Great Ganapati Milk Udyog: Times of India reports 22 September 1995",
+    "author": "Times of India; experiment section Ravi Bhatia and N. Suresh",
+    "date": "1995-09-22",
+    "url": "https://theory.tifr.res.in/bombay/leisure/trivia/ganapati-milk.html",
+    "kind": "contemporary newspaper reprint hosted by TIFR",
+    "access": "full text read and saved; reprint says created 1995-09-23",
+    "local": "sources/times_of_india_19950922_reprint.html"
+  },
+  {
+    "id": "H05",
+    "title": "Obscurantism vs Science: Behind the milk-drinking miracle",
+    "author": "T. Jayaraman",
+    "affiliation_verified": "Institute of Mathematical Sciences, Madras; author header",
+    "url": "https://www.imsc.res.in/~jayaram/Articles/milkb.html",
+    "kind": "primary scientist commentary and witnessed demonstration",
+    "access": "full text read and saved",
+    "local": "sources/jayaraman_imsc_primary.html"
+  },
+  {
+    "id": "H06",
+    "title": "Professor Erlendur Haraldsson: Modern miracles and Sathya Sai Baba",
+    "author": "Erlendur Haraldsson abstract on Goldsmiths event site",
+    "date": "2013-10-15",
+    "affiliation_verified": "Professor Emeritus Psychology, University of Iceland; PhD Freiburg, as Goldsmiths biography states",
+    "url": "https://www.gold.ac.uk/calendar/?id=6705",
+    "kind": "original investigator abstract; university-hosted credentials",
+    "access": "full text read and saved",
+    "local": "sources/haraldsson_goldsmiths_2013.html"
+  },
+  {
+    "id": "H07",
+    "title": "Sai Baba",
+    "author": "Erlendur Haraldsson",
+    "date": "2017-08-24; site updated 2026-05-12",
+    "url": "https://psi-encyclopedia.spr.ac.uk/articles/sai-baba/",
+    "kind": "original investigator retrospective article; publisher updated highlights identified as AI generated and not relied on",
+    "access": "body read and saved; original referenced 1977/1995 journal papers not recovered",
+    "local": "sources/haraldsson_spr_sai_baba_2017.html"
+  },
+  {
+    "id": "H08",
+    "title": "An Update on Mr Prahlad Jani Case (2010), with DIPAS observational update",
+    "author": "Dr Sudhir Shah and Dr Urman Dhruv; incorporated release signed Director DIPAS",
+    "date": "2010-05-06 release",
+    "affiliation_verified": "Shah: Professor/consultant neurologist, Sterling Hospital; Dhruv: senior physician, Medisurge Hospital; document identification",
+    "url": "https://sudhirneuro.org/files/press_release.pdf",
+    "kind": "original clinical-investigator press release, not full peer-reviewed study",
+    "access": "all extracted text read; PDF pages 2-3 visually reviewed; saved original",
+    "local": "sources/sudhir_shah_dipas_press_release_2010.pdf"
+  },
+  {
+    "id": "H10",
+    "title": "When the Gods Drink Milk! Empiricism and Belief in Contemporary Hinduism",
+    "author": "Denis Vidal",
+    "date": "1998",
+    "affiliation_verified": "IRD research director, URMIS Paris Diderot per author CV https://cv.hal.science/denis-vidal",
+    "url": "https://doi.org/10.1177/026272809801800203",
+    "alternate": "https://www.persee.fr/doc/ahess_0395-2649_1997_num_52_4_279606",
+    "kind": "scholarly original anthropological treatment",
+    "access": "metadata and indexed extracts read; IRD full English PDF redirected to maintenance; French Persee full text not fully read; not used as full paper audit",
+    "local": null
+  }
+]

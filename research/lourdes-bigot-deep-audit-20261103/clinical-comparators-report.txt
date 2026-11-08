@@ -1,0 +1,62 @@
+Marie Bigot: focused clinical comparator audit
+Audit date: 3 November 2026
+Scope: published cranial/optic/hearing arachnoiditis recovery comparators, plus the specific 2024 paper cited by a 2026 Bigot critique. This is a comparison of clinical reports, not a new diagnosis of Bigot.
+
+RESULT
+Arachnoid-associated visual or hearing deficits can improve, including some untreated optic deficits. It would be incorrect to claim that all such deficits are invariably permanent. However, this bounded search did not recover a fully documented modern comparator reproducing Bigot's reported combination: longstanding profound bilateral deafness and blindness, failed earlier surgery, followed by rapid staged hearing and visual recovery without a new treatment at recovery. That absence is a limitation of the proposed comparison; it is not proof that an ordinary recovery was impossible or a probability estimate.
+
+1. THE SPECIFIC 2024 STUDY CITED AGAINST BIGOT
+Yeng F. Her and James C. Watson, Mayo Clinic Hospital Department of Anesthesiology and Perioperative Medicine; Ryan T. McWilliams, Alaska Native Medical Center Family Medicine; Erik A. Ovrom, Mayo Clinic Alix School of Medicine. Corticosteroid Therapy in Acute and Subacute Arachnoiditis—A Case Series. International Medical Case Reports Journal 17 (2024), 235–240. DOI: 10.2147/IMCRJ.S445705.
+Full primary article and PDF obtained; all three cases and discussion read.
+These are acute/subacute SPINAL syndromes following an epidural blood patch, intrathecal baclofen-pump implantation, and epidural steroid injection. None concerns cranial arachnoiditis, blindness, or deafness. All received corticosteroids. The first two started treatment 8–10 days after symptoms and resolved; the third relapsed after oral treatment, later improved with repeated high-dose IV treatment, and retained mild pain. Case 1 also received pregabalin. Case 2 lacked typical enhancing-root abnormalities and was diagnosed clinically. The paper has no untreated control.
+The conclusion explicitly states that arachnoiditis may resolve spontaneously; the critic therefore has a real textual basis for that general statement. But the three cases themselves establish treatment-associated recovery of early spinal disease, not spontaneous recovery of years-long deaf-blindness. The discussion emphasizes worse treatment outcomes in chronic cases. Its broad closing sentence is not a documented Bigot analogue.
+Primary: https://pmc.ncbi.nlm.nih.gov/articles/PMC10981380/
+Local: sources/her-2024-corticosteroids.pdf and .txt
+
+2. ACTUAL UNTREATED OPTIC IMPROVEMENT: BHATTI ET AL., EMORY, 2000
+M. Tariq Bhatti (ophthalmology), Chad A. Holder (radiology), Nancy J. Newman (ophthalmology/neurology/neurosurgery), Patricia A. Hudgins (radiology), Emory University School of Medicine. MR Characteristics of Muslin-Induced Optic Neuropathy. AJNR 21:346–352. Full primary HTML read and saved.
+A 33-year-old woman developed unilateral optic neuropathy 4.5 years after muslin/glue wrapping and coiling of an aneurysm. The delay was from surgery to ONSET, not years spent blind. At presentation acuity was 20/25 in each eye, with a right inferonasal field defect and abnormal pupillary response. No specific treatment was given. Visual fields and pupillary response improved over 3–6 weeks, with a small residual defect. This is genuine documented spontaneous improvement, but not complete bilateral blindness or deafness.
+A second woman had eight months of progressive unilateral visual loss to hand-motion vision. After seven weeks of corticosteroids, left acuity improved to 20/40; the other eye was 20/25. The enhancing mass persisted while edema improved. That recovery was treated, partial, and unilateral.
+These foreign-body inflammatory lesions are on the authors' stated spectrum with muslin-induced optochiasmatic arachnoiditis. They are relevant to reversibility, with a different cause and clinical course from Bigot. The authors explicitly say natural-history probabilities are unknown.
+Primary: https://pmc.ncbi.nlm.nih.gov/articles/PMC7975342/
+Local: sources/bhatti-2000-pmc.html and .txt
+
+3. SURGICAL HEARING RECOVERY: CEVIZCI ET AL., 2017
+Rasit Cevizci, Ahmet Mahmut Tekin, Yildirim Bayazit, Istanbul Medipol University ENT/Head and Neck Surgery; Alper Dilci, Eskisehir Yunus Emre State Hospital ENT/Head and Neck Surgery. J Int Adv Otol 13:295–297. DOI: 10.5152/iao.2017.3393.
+Primary PDF text available through indexed institutional/journal search results; the direct institutional PDF returned 403, so no verified local PDF acquired. The current journal route returned a different paper and must not be treated as the source.
+The 22-year-old man had two years of left tinnitus, normal audiometry a year earlier, then MILD left sensorineural loss around 4 kHz. Speech discrimination was 72% left, 100% right. MRI showed a large jugular-foramen schwannoma. Intracranial tumor removal and surgical lysis of adhesions around the cochleovestibular nerve were followed by subjective improvement and a postoperative audiogram at ten days. Tumor removal and adhesiolysis were combined, so neither effect was isolated.
+This supports potential surgical reversibility of some nerve dysfunction. It does not show untreated recovery from longstanding bilateral complete deafness, much less simultaneous blindness.
+Institutional source: https://acikerisim.medipol.edu.tr/server/api/core/bitstreams/14629387-941e-4cac-b9c7-69aba9d1e9ad/content
+Repository: https://openaccess.medipol.edu.tr/items/ff46d4c1-b8f5-4f98-bdb4-25dd7f091929
+
+4. MARCUS ET AL., 1986: IMMUNOSUPPRESSION, NOT UNASSISTED RECOVERY
+A. O. Marcus, J. J. Demakas, H. A. Ross, D. S. Duick, R. M. Crowell. Neurosurgery 19:101–103. PMID 3748328; DOI 10.1227/00006123-198607000-00015.
+Primary abstract read; full report not recovered. Institutional affiliations, initial acuity, exact duration and follow-up could not be verified and are not supplied.
+The abstract describes a 24-year-old woman with progressive visual loss, headache and amenorrhea. Dexamethasone, warfarin and dipyridamole failed; adhesiolysis produced temporary improvement followed by deterioration. Cyclophosphamide was followed by normal vision and resolution of the other symptoms. No deafness is described. This is an important medically treated reversible optic case, but its abstract does not establish that she had prolonged total bilateral blindness. The missing details prevent a closer quantitative comparison.
+https://pubmed.ncbi.nlm.nih.gov/3748328/
+The local file marcus-1986-abstract.html is only an access/interstitial page, not the article: do not cite it as preserved full text.
+
+5. OTHER RELEVANT LEADS, WITH STRICT ACCESS LIMITS
+A. Carney and Oatey, 1983, J Clin Neuroophthalmol 3:91–96, PMID 6224820: three cases of delayed visual failure 7–11 months after aneurysm wrapping. Original abstract located, original full text not recovered. Bhatti's primary review reports spontaneous improvement/resolution in all three, but original severity and recovery intervals remain unverified. No claim of Bigot-equivalent impairment is justified.
+https://pubmed.ncbi.nlm.nih.gov/6224820/
+
+B. Z. Bojarski, K. Drozd and R. Rylek, Klinika Oczna 46:97–101 (1976), PMID 1249900: the original indexed title explicitly concerns spontaneous remission in post-traumatic chiasmal arachnoiditis. Bibliographic metadata recovered, not the clinical text or usable English abstract. Severity, duration, treatment exposure and affiliations are unknown. This is a genuine lead against a universal assertion that spontaneous remission never occurs; it is not a verified deaf-blind analogue.
+https://pubmed.ncbi.nlm.nih.gov/1249900/
+
+C. Nobuichi Sakatani and Takao Taki, Department of Ophthalmology, Kobe Medical College, Rinsho Ganka 14:405–408 (1960), DOI 10.11477/mf.1410206868: primary publisher abstract describes a 30-year-old woman with sequential retrobulbar neuritis, a year apart, each eye becoming blind and recovering within weeks. Later abducens palsy resolved after craniotomy; basilar arachnoiditis was diagnosed from operative findings. Treatment during the visual episodes is not specified in the accessible abstract, so those recoveries cannot be labeled untreated. The visual losses were separate acute episodes, not continuous bilateral blindness with deafness.
+https://webview.isho.jp/journal/detail/pdf/10.11477/mf.1410206868
+
+D. J. Innitzer, K. Ehrenberger, M. Emami-Nouri, H. Brenner, Wien Klin Wochenschr 88:668–669 (1976), PMID 997546: primary abstract describes fibrotic tissue tethering the RIGHT acoustic nerve, mistaken preoperatively for a CPA tumor. Decompression improved low-frequency hearing. It names the second ENT department of Vienna University. This is cystic arachnoiditis with fibrotic adhesions, not a simple incidental arachnoid cyst, but recovery was surgical and unilateral; duration and numerical audiometry were unavailable.
+https://pubmed.ncbi.nlm.nih.gov/997546/
+
+COMPARISON RULES AND INTERPRETATION
+- Arachnoid cysts, Chiari malformation and uncomplicated hydrocephalus are not interchangeable with adhesive cranial arachnoiditis. They were excluded as direct mechanisms.
+- A long interval between surgery and new symptoms is not a long duration of sensory loss.
+- Recovery after surgery, steroids or cyclophosphamide cannot be described as spontaneous or unassisted.
+- Normal central acuity with a unilateral field defect cannot be described as years of complete bilateral blindness.
+- A single otologic recovery cannot establish recovery of both visual and auditory systems.
+- A comparator need not be identical to show that reversibility is possible. But using a partial, treated comparator to declare Bigot medically explained goes beyond the reports.
+- Conversely, lack of a matched report does not establish an impossibility or a miracle. Bigot's actual baseline diagnosis, contemporaneous serial testing, treatment chronology and recovery documentation must be assessed independently by the primary-document audit.
+
+NEXT DOCUMENTS WITH THE MOST VALUE
+Obtain Marcus 1986, Carney 1983 and Bojarski 1976 originals for actual pre-recovery acuity, duration, treatment and serial outcomes. No probabilities can responsibly be calculated from this small and heterogeneous set. This audit does not identify an ordinary mechanism as established for Bigot.

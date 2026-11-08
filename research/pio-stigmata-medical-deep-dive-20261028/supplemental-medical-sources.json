@@ -1,0 +1,53 @@
+[
+  {
+    "id": "C01",
+    "authors": "Christopher S. J. Dunkin et al.",
+    "background": "Stoke Mandeville Burns and Reconstructive Surgery Research Trust/Hospital, UK",
+    "year": 2007,
+    "title": "Scarring occurs at a critical depth of skin injury: precise measurement in a graduated dermal scratch in human volunteers",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/17440346/",
+    "doi": "10.1097/01.prs.0000258829.07399.f0",
+    "access": "Primary study abstract checked; full paper not obtained",
+    "sample": "113 human subjects; graduated-depth hip wounds",
+    "finding": "Superficial portion left no visible residual mark after18weeks; deep portion scarred. Model-specific threshold0.56+/-0.03mm.",
+    "relevance": "Supports depth/scar distinction; does not specify Pio depth or universal palm/sole threshold.",
+    "local": "sources/dunkin-2007-pubmed.html"
+  },
+  {
+    "id": "C02",
+    "authors": "Sue E. Gardner, Rita A. Frantz, Bradley N. Doebbeling",
+    "background": "Iowa City VA and University of Iowa nursing/medical research",
+    "year": 2001,
+    "title": "The validity of the clinical signs and symptoms used to identify localized chronic wound infection",
+    "url": "https://doi.org/10.1046/j.1524-475x.2001.00178.x",
+    "access": "Publisher abstract read with web tool; direct curl403; full paper not obtained",
+    "sample": "36 chronic wounds, quantitative cultures",
+    "finding": "11 cultured as infected; no single clinical sign was necessary for infection.",
+    "relevance": "Absence of pus/redness does not prove sterility. Does not establish Pio infection."
+  },
+  {
+    "id": "C03",
+    "authors": "Juan Manuel Muriel-Sanchez, Manuel Cohena-Jimenez, Pedro Montano-Jimenez",
+    "background": "Department of Podiatry, University of Seville",
+    "year": 2021,
+    "title": "Effect of Phenol Application Time in the Treatment of Onychocryptosis: A Randomized Double-Blind Clinical Trial",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8508160/",
+    "doi": "10.3390/ijerph181910478",
+    "access": "Full open-access primary paper, abstract/methods/results checked",
+    "sample": "27patients,54feet,108nailfolds; within-patient30/60second88%phenol applications",
+    "finding": "Mean healing14.93+/-2.81 vs22.07+/-3.16days",
+    "relevance": "No universal eight-day chemical-wound healing deadline. Does not reproduce Pio chronology or scar endpoint.",
+    "local": "sources/muriel-sanchez-2021-pmc.html"
+  },
+  {
+    "id": "E01",
+    "authors": "Pietro Gerardo Violi, interviewed by Riccardo Maccioni",
+    "background": "Former head of microcythemia/thalassemia centre, Casa Sollievo; Pavia medical graduate1971; cause investigator per interview",
+    "year": 2018,
+    "title": "Cent’anni fa le stimmate di Padre Pio: quando la scienza si arrende",
+    "url": "https://www.avvenire.it/chiesa/chiesa-italiana/centanni-fa-le-stimmate-di-padre-pio-quando-la-scienza-si-arrende_35403",
+    "access": "Full primary interview read; retrospective assessment, no living Pio examination",
+    "finding": "Explicitly argues scar-free disappearance following tissue loss is unexplained.",
+    "limits": "Unqualified invariance/normal-function claims conflict with earlier reports; no new medical test."
+  }
+]

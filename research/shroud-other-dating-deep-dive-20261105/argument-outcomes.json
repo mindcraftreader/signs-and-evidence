@@ -1,0 +1,27 @@
+{
+  "completed": "2026-11-05",
+  "mechanical": {
+    "ancient_shroud_estimate": "retained as conditional positive evidence",
+    "successful_published_holdout": "Masada AD65 -> AD147, gap82 years",
+    "analyst_recalculated_holdout": "Sample D AD575 -> approx 758BC, 1332-year ancient error; nominal three-channel inverse regression from rounded Table2",
+    "universal_108_year_predictive_sigma": "not established",
+    "2017_full_text_access": "institutional abstract only; custodian objections separately attributed"
+  },
+  "ftir": {
+    "ancient_shroud_estimate": "retained under correction/calibration choices",
+    "analyst_two_ratio_nominal_holdout_MAE_years": 364.7939242163181,
+    "2025_study": "actual heat/irradiation experiments; reuses Shroud spectrum, not new Shroud dating",
+    "absolute_modern_control_dates": "not admissible as calendar-validation failures; authors restrict experiment to relative changes",
+    "covariance": "shared spectral bands; actual error correlations not estimated"
+  },
+  "raman": {
+    "ancient_shroud_estimate": "supporting conditional indication, weaker precision",
+    "2016_followup": "supports spectral aging, not blind validation of original calendar formula",
+    "2015_uncertainty_table": "standard250 versus expanded400 despite stated factor2; unresolved inconsistency"
+  },
+  "waxs": "prior audit carried forward unchanged",
+  "combined_authenticity_probability": "not established",
+  "ordinary_process_reproducing_all_actual_shroud_aging_measurements": "not established",
+  "new_numerical_tally_assigned": false,
+  "user_concession_inferred": false
+}

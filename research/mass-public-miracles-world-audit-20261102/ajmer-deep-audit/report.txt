@@ -1,0 +1,65 @@
+UPDATE: Expanded source/image audit and recovered context photographs are in expanded-research-20261102.txt. No authenticated 2002 apparition image or original television segment recovered; no tally change.
+
+AJMER SHARIF DOME APPARITION: DEEP AUDIT
+2 November 2026. An audit of recovered documentation, not a probability verdict.
+
+RESULT
+This is a genuine contemporary public religious-image claim with substantial press coverage. It is not merely a late story about a private healing. However, this expanded search has not recovered an authenticated photograph/video of the alleged 2002 effect, the original television investigation, a calibrated optical examination, or a named previously skeptical person directly attesting an extraordinary apparition. On the inspected evidence, it does not yet provide an evidential counterpart to the full Fatima or Zeitoun case argued in this conversation. That judgment concerns the recovered record, not proof that no additional records exist.
+
+WHAT THE IMMEDIATE RECORD SAYS
+The Times of India (TNN, 29 March 2002) reports a Wednesday-evening image on the main shrine dome, about 8 pm. Shrine attendant Syed Irfan Usmani says he distinctly saw a face/half-body and Kaaba imagery; roughly 7,000 gathered. Other supporters remain unnamed. [A01]
+
+Associated Press reporter P. B. Chandra reports 50,000 visitors, additional police, two bearded images, and the same positive witness. Police superintendent Saurab Shrivastav concerns administration. An unnamed television station attributes the effect to fresh reflective paint. Nearby hardware merchant Vivek Munot alleges a gimmick. [A02]
+
+The record therefore supports publicity, substantial attendance and at least one named direct claimant. It does not license converting either attendance estimate into that many separately recorded, independently examined apparition witnesses. The two newspapers have distinct editorial origins, but share their principal named positive informant. Counting reprints increases dissemination, not independent observation.
+
+TIMELINE AND DATE CAUTIONS
+27 March 2002, Wednesday evening: first reported occurrence, inferred from the immediate Wednesday/Thursday sequence. The later devotional sidebar supplies this exact calendar date and says after Maghrib prayer. Do not infer an exact start/end time or continuous all-night visibility from the prayer reference. [A01, D01]
+28 March, Thursday: continuing public attention in the immediate newspaper sequence. [A01]
+29 March, Friday: TNN online timestamp. The AP mirror has a 28 March header but Friday wording. This discrepancy is retained rather than silently resolved; syndication metadata/time zones are possible explanations, not findings. [A01, A02]
+30 March: WIRED publishes a short summary. It supplies no new identified observer or optical examination. [A03]
+2011: Data Ajmeri devotional blog preserves a short 2002 story in a reusable sidebar. Its author is shrine-affiliated; the text does not establish that he personally saw the effect. Adjacent generic shrine images are not authenticated event photographs. [D01]
+2021: A separate viral fish-shaped light video is fact-checked by Aaj Tak. This is a different episode. Its camera-artifact explanation cannot be transferred to 2002 without the missing evidence. [F01]
+
+WITNESS MATRIX
+Usmani: shrine attendant; named positive direct claim. Religious affiliation/institutional role matters to perspective, but is not proof of dishonesty.
+Other khadims/devotees: collective unnamed positive reports; originals and individual viewing positions unavailable.
+Shrivastav: police superintendent; independently named administrative official, not a published positive apparition witness in the recovered report.
+Munot: nearby merchant; named dissenter alleging motive, not a recovered optical examiner or skeptic who confirms a miraculous figure.
+Television station: unnamed in the recovered record; its explanation is contemporaneously reported but its evidence cannot be evaluated until the broadcast is identified.
+TNN and Chandra: contemporary journalists reporting claims; neither recovered article explicitly presents a detailed personal observation of the effect.
+No one in the current set qualifies as an independently documented hostile observer who personally witnessed and then affirmed the extraordinary appearance. That is a finding of this record search, not a universal absence claim.
+
+STRONGEST POSITIVE CASE
+The reports were immediate rather than centuries later. A named witness specifies recognizable religious imagery at the central shrine. Public excitement and a substantial physical gathering are independently newsworthy events; dismissing the entire matter as invented on the ground that it is Muslim would be unjustified. The identification, setting and peace interpretation make it religiously meaningful, so it belongs in a serious comparative audit.
+
+STRONGEST CAUTION / ORDINARY ALTERNATIVE
+The central missing distinction is between a recognizable person externally present and an image perceived in surface illumination. The reports place the image on an architectural surface. A contemporaneously reported reflection explanation is specifically relevant to that surface, unlike an unrelated generic hallucination label. But the original broadcaster, lighting geometry, paint history, multiple viewpoints and repeat test are missing. Accordingly this audit does NOT declare the paint explanation experimentally established. The financial allegation is also not a demonstrated fraud finding. Neither motive alone nor a critic's confident wording settles the physical facts.
+
+No authenticated advance prediction of this particular public sign was located. No spoken doctrinal communication was recovered; the peace message is an interpretation. No detailed independent documentation of purposeful movement, detached flight, extended repeat appearances, or geographically separated observations was recovered. These gaps explain why current comparison strength is limited. Absence of a motion account does not prove the phenomenon could not have moved.
+
+SCIENCE, PHOTOS AND VIDEO
+No peer-reviewed physical investigation of this 2002 effect was found in this pass. No original TV footage was independently played. Searching AP, Reuters, Getty and newspaper terms did not recover a dated effect photograph. The TNN page's image label is not sufficient provenance for a miracle image. A later study of devotional image technologies appeared in searches but was not counted as a scientific investigation of this incident.
+Aaj Tak's 2021 article reports expert camera-flare interpretations and a shrine committee warning about a separate viral clip. That is useful for identifying search contamination, not a retroactive debunk of 2002. [F01]
+
+COMPARISON ELIGIBILITY
+Eligible as a non-Christian public religious apparition claim in the modern news era. Not established as an equal in documentary depth, public behavior or investigative exclusion of ordinary causes to the user's Fatima/Zeitoun bundle. Do not claim: 50,000 authenticated miracle depositions; police authenticated Khwaja; the journalist filmed a supernatural figure; the reflection hypothesis has been demonstrated; the incident is proven fraud. Do not assign a tally outcome until the actual dispute and missing evidence are adjudicated.
+
+NEXT ARCHIVAL TARGETS
+1. Identify the television station and recover its 27–29 March 2002 Ajmer bulletin or assignment logs. Possible national/local broadcasters are search targets, not identified producers.
+2. Obtain print Ajmer/Jaipur editions for 28–30 March: TNN, Rajasthan Patrika and Dainik Bhaskar. Search failure in indexed web does not establish their silence.
+3. Seek the AP original dispatch identifier and attached photo/video records, preserving the mirror date anomaly.
+4. Obtain additional named observers and their contemporaneous statements, including nondevotees, rather than retroactively converting police attendance counts into perception counts.
+5. Recover any documented surface/lighting test and the date the claimed effect stopped or recurred.
+
+READING AND SEARCH SCOPE
+English, Hindi and Urdu indexed web searches covered the exact event, names, date spellings, dome/reflection/paint and shabi-e-mubarak variants, AP mirrors and visual archives. This was not a manual page-by-page search of all Indian newspaper or broadcast archives and not a new Akron licensed-database pass. A search result is not a read source; a downloaded HTML page is not a watched video. Substantive source texts and the blog's relevant HTML context were read; no original motion footage was watched.
+Public HTML saved for TNN, WIRED, the devotional blog and Aaj Tak. AP article read through web tool; local retrieval produced a challenge page and is honestly labeled. Initial Python retrieval failed because requests was absent, then certificate validation failed; successful public retrieval used urllib with certificate verification disabled. No account credentials, email or paid access was used.
+Parent report typo: its “5,0000” should read 50,000 visitors, not an observer count.
+
+SOURCE REGISTER
+[A01] TNN, Times of India, 29 March 2002. https://timesofindia.indiatimes.com/india/khwajas-reflection-at-chishti-shrine/articleshow/5201950.cms
+[A02] P. B. Chandra, Associated Press, header 28 March 2002/body Friday. https://www.mrt.com/news/article/Apparition-Attracts-Thousands-7846886.php
+[A03] WIRED, Shining Goodwill, 30 March 2002. https://www.wired.com/2002/03/shining-goodwill/
+[D01] Data Ajmeri, sidebar on July 2011 blog post. https://dataajmeri.blogspot.com/2011/07/beneficial-lesson.html
+[F01] Jyoti Dwivedi, Aaj Tak, 21 September 2021, separate viral-video claim. https://www.aajtak.in/fact-check/story/fact-check-ajmer-sharif-dargah-miracle-fish-shaped-light-viral-video-ntc-1330035-2021-09-21

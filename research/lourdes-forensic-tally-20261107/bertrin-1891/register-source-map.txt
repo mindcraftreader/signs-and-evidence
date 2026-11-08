@@ -1,0 +1,81 @@
+BERTRIN 1905, APPENDIX 8, COMPLETE 1891 SECTION
+Transcribed against the scan on pp. 400–402 (PDF pp. 445–447).
+Source gallica.bnf.fr / Bibliothèque nationale de France.
+https://gallica.bnf.fr/ark:/12148/bpt6k5478315v
+
+Fields separated by a vertical bar. Page, date group, person as printed
+(accents and abbreviations lightly normalized), place, condition label,
+Annales citation as printed, Bureau register page, certificate, notes, grade,
+review status, located Annales issue and printed page. A dot means no
+entry in the field. The date group is inherited for entries without a
+new date. It is a locator and may differ from the actual event date.
+A is Annales de Notre-Dame de Lourdes. R is Bureau register 1890–1891
+unless indicated. The inherited reference behind Ib. has been expanded.
+The Renauld certificate is listed from Boissarie, outside the index.
+
+
+400|02|Sœur Labadie|Molfetta, Italy|bronchite chronique, pneumonie bilatérale|XXIV 71|.|Pansini, 16 Apr 1891|Bertrin p. 505 cites XXIV 73 for the quotation and gives January for the recovery.|fast|Annales account reviewed|1891-07, 71–73
+400|08-18|Mme Compas|Dijon|névrose|.|151|.|.|claim|Annales account reviewed|1891-08, 115
+400|08-21|Clémentine Trouvé|Rouillé, Vienne|carie du calcanéum|XXIV 208, 303 and XXVIII 12, 102|.|Cibiel, 1 Sep 1891|.|mid|Annales account reviewed|1891-08, 93 and 1891-09, 127–129 and 1891-10, 163–165
+400|08-21|Mlle Loranchet|Oyrières, Haute-Saône|mal de Pott|XXIV 101|.|.|.|mid|Annales account reviewed|1891-08, 101–102
+400|08-21|Georges Verdier|Paris|arthrite du pied droit|XXIV 100|.|.|.|mid|Annales account reviewed|1891-08, 100
+401|08-21|Marie Barrois|Ville-Issey, Oise (as printed)|maladie de cœur et néphrite purulente|.|159|.|.|claim|index only|.
+401|08-21|Amélie Chagnon|Poitiers|carie du deuxième métatarsien et arthrite chronique du genou gauche|XXIV 94, 159 and XXVI 248|.|Gaillard, 5 Sep 1891 and Dupont, 30 Aug 1891|.|fast|Annales account reviewed|1891-08, 94 and 1891-10, 158–163
+401|08-21|Louise Marlet|Paris|carie costale et affection de la moelle|.|161|.|.|claim|index only|.
+401|08-21|Jean Fayet|Bordeaux|hémiplégie gauche|.|162|.|.|claim|index only|.
+401|08-21|Alphonsine Soliveau|Saint-Germain-en-Laye, Seine-et-Oise|bronchite spécifique|.|162|.|.|claim|index only|.
+401|08-21|Marie Seguin|Chavagnes, Vendée|tuberculose pulmonaire|XXIV 98|.|.|.|fast|Annales account reviewed|1891-08, 98
+401|08-21|Marie Rigaud|Poitiers|neurasthénie et anémie|.|163|.|.|claim|index only|.
+401|08-21|Berthe Petit|Paris|paraplégie consécutive à mal de Pott|XXIV 94|.|.|.|mid|Annales account reviewed|1891-08, 94
+401|08-21|Marie Rayon|Versailles|bronchite chronique|XXIV 97|.|.|.|mid|Annales account reviewed|1891-08, 97–98
+401|08-21|Sœur Dorothée|Zélatrices de l’Eucharistie, Paris|anémie, ischémie de la moelle|XXIV 98|.|.|Distinct from the earlier Sœur Dorothée of Mostuéjouls in Bertrin.|mid|Annales account reviewed|1891-08, 98
+401|08-21|M. Brumau|Autun|rhumatisme articulaire|.|167|.|.|claim|index only|.
+401|08-21|Angèle Hemmar|Houplines, Nord|aphonie opiniâtre|.|168|.|.|claim|index only|.
+401|08-21|Marie Lejeune|Autrecourt, Ardennes|aphonie|.|169|.|.|claim|index only|.
+401|08-23|Mme Gruchey|Lisieux, Calvados|bronchite spécifique|.|169|.|.|claim|index only|.
+401|08-23|Vve Menuau|Paris|gastrite ulcéreuse|XXIV 100, 139|.|.|.|mid|Annales account reviewed|1891-08, 100 and 1891-09, 139
+401|08-23|Catherine Bach|Versailles|bronchite spécifique|.|172|.|.|claim|index only|.
+401|08-23|Charlotte Bernard|Paris|otorrhée, perte du tympan et des osselets|XXIV 101|.|.|This is the condition label. It does not specify a recovery endpoint.|mid|Annales account reviewed|1891-08, 101
+401|08-23|Amélie Lefrançois|Bayeux|phtisie|XXIV 99|.|.|.|mid|Annales account reviewed|1891-08, 99
+401|08-23|Amélie Dubreuil|Poitiers|kyste de l’ovaire|XXIV 101|.|.|.|mid|Annales account reviewed|1891-08, 101
+401|08-23|Lucie Michel|Ange, Ardennes|hémiplégie hystérique|XXV 123|.|Chaplut|.|mid|Annales account reviewed|1892-09, 122–123
+401|08-23|Élisabeth Villeneuve|Poitiers|glaucome, irido-cyclite|XXIV 95|.|.|.|mid|Annales account reviewed|1891-08, 95–96
+401|08-23|Marie Milliot|Paris|chorée chronique|.|178|.|.|claim|index only|.
+401|08-23|Joseph Van Ermingen|Chirnarais (reading uncertain)|maladie de poitrine|.|179|.|.|claim|index only|.
+401|08-23|Lucie Renauld|Paris|inégalité des jambes, atrophie musculaire|XXIV 95 and XXV 220|.|Unnamed pre-trip doctor in Boissarie|Boissarie and Bertrin's prose give Aug 24 for the last bath.|mid|Annales account reviewed|1891-08, 95 and 1891-09, 133 and 1892-09, 125–126
+401|08-23|Eugénie Ravin|Versailles|mal de Pott|.|181|.|.|claim|index only|.
+401|08-23|Antoinette Frédouille|Paris|paralysie des membres inférieurs|XXIV 96|.|.|.|mid|Annales account reviewed|1891-08, 96 and 1891-09, 129–131
+401|08-23|Marie Bertrand|Montpellier|coxalgie gauche|XXIV 95|.|.|.|mid|Annales account reviewed|1891-08, 95
+401|08-23|François Corbier|Paris|ulcère de l’estomac|.|184|.|.|claim|index only|.
+401|08-23|Marie Cany|Paris|bronchite chronique spécifique|.|185|.|.|claim|index only|.
+401|08-23|Marie Blin|Paris|hernie ombilicale|.|185|.|.|claim|index only|.
+402|08-23|Sara Farry|Philadelphia, United States|déviation de la colonne vertébrale, lésion de la moelle|XXIV 96|.|.|.|mid|Annales account reviewed|1891-08, 96–97 and 1891-09, 140
+402|08-23|Maria Ouvrie|Tourcoing, Nord|rachitisme, paralysie, hystérie|XXIV 142|.|.|.|claim|Annales account reviewed|1891-09, 142
+402|08-27|Anita Toussaint|Cazideroque, Lot-et-Garonne|douleur au mollet droit et par intermittence dans tout le côté|XXIV 246|.|Gélade, 30 Aug 1891|.|mid|Annales account reviewed|1892-01, 246–250
+402|08-27|Jeune religieux, unnamed|.|phtisie|XXIV 99|.|.|.|mid|Annales account reviewed|1891-08, 99
+402|08-27|Julienne Paris|Vannes|névrose|XXIV 176|.|.|.|claim|Annales account reviewed|1891-10, 176
+402|08-28|Victorine Beaumard|Le Lion-d’Angers|paralysie et vomissements incoercibles|XXIV 141|.|.|.|claim|Annales account reviewed|1891-09, 141
+402|08-28|Mme Martin|Siglet, Vienne|rhumatisme articulaire|XXIV 140|.|.|.|claim|Annales account reviewed|1891-09, 140
+402|08-28|Joséphine Claudepierre|Kayserberg|hystérie|.|192|.|Scan prints a malformed register year (1898–1891). Register page preserved.|claim|index only|.
+402|08-28|Mélanie Boyer|Ransberg, Brabant|coxalgie|XXIV 142|.|.|.|claim|Annales account reviewed|1891-09, 143
+402|08-28|Marie Laroche|Kédange, Alsace|coxalgie|XXIV 145|.|.|.|claim|Annales account reviewed|1891-09, 145
+402|08-28|Marie Kopp|Duttlenheim, Alsace|neurasthénie gastrique|XXIV 145|.|.|.|mid|Annales account reviewed|1891-09, 145
+402|09-01|Marie Grasse|Hargartner, Alsace|hystérie|.|194|.|.|claim|index only|.
+402|09-04|Sœur Jeanne de Valois|Saint-Brieuc|arthrite du genou|.|194|Frogé|.|mid|Annales account reviewed|1891-09, 147 and 1892-09, 151
+402|09-04|Louise Servais|Dijon|hystérie|XXIV 150|.|Morlot|.|claim|Annales account reviewed|1891-09, 150
+402|09-05|Marie Talohre|Vergezac, Haute-Loire|arthrite|XXIV 149|.|.|.|claim|Annales account reviewed|1891-09, 149
+402|09-05|Anna Poyen|Volnay, Sarthe|névrose|XXIV 149|.|.|.|mid|Annales account reviewed|1891-09, 149–150
+402|09-05|Caroline Cassabois|Rouchaux-Estival, Jura|paralysie, dyspepsie, maladie de cœur|XXIV 160|.|.|.|mid|Annales account reviewed|1891-09, 150 and 1892-11, 204
+402|09-06|Joseph Bey|Beaurepaire, Saône-et-Loire|douleurs abdominales, dyspepsie, paralysie des membres inférieurs|XXIV 160|.|Roy|.|claim|Annales account reviewed|1891-09, 150–151
+402|09-07|Sœur Marie-Marthe|Beaune, Côte-d’Or|angine de poitrine|XXIV 151|.|.|.|mid|Annales account reviewed|1891-09, 151
+402|09-07|Églantine Roué|Nantes|coxalgie|XXIV 151|.|.|.|claim|Annales account reviewed|1891-09, 147
+402|09-05|Émilie Boucher|Canada|fibrome|.|.|.|The printed date returns to Sep 5 after Sep 7.|claim|index only|.
+402|09-05|Marie Poirier|Sainte-Cécile, Vendée|coxalgie|XXIV 174|.|.|Distinct from the 1870 Marie Poirier of Saint-Aubin.|claim|Annales account reviewed|1891-10, 174–175
+402|09-29|Madeleine de Formel|Lalamencie, Charente|névrose|.|.|.|.|claim|index only|.
+402|09-29|Frère Adolphe|Lazariste, Lyon|névrose|XXIV 193|.|Carrier|.|fast|Annales account reviewed|1891-11, 195–205
+402|09-29|Théophile Devaux|Bonnieux, Vaucluse|paralysie des membres inférieurs|XXIV 147, 214|.|.|.|mid|Annales account reviewed|1891-09, 147 and 1891-11, 211
+402|09-29|Célina Ferry|Bazegney, Vosges|hystérie|.|.|.|.|claim|index only|.
+402|09-29|Mlle Mercier|.|bronchite|.|.|Béagneux|.|claim|index only|.
+402|09-29|Théodore Loyau|Saint-Symphorien, Indre-et-Loire|carie de la mâchoire inférieure|.|.|.|.|claim|index only|.
+402|09-29|Jean Hennion|Estaires, Nord|céphalalgie|XXV 165|.|Delbecq, 19 Sep 1892|Bertrin p. 505 places the recovery in November 1891 and gives XXV 166 and 29 Sep 1892 for the quotation.|mid|Annales account reviewed|1892-09, 143 and 1892-10, 165–167
+402|09-29|Mathurin Roussel|Sainte-Anne-d’Auray, Morbihan|ostéo-arthrite|XXIV 176|.|.|.|mid|Annales account reviewed|1891-10, 176

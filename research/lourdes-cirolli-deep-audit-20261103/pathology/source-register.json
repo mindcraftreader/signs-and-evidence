@@ -1,0 +1,86 @@
+[
+  {
+    "title": "Dowling 1984",
+    "url": "https://journals.sagepub.com/doi/pdf/10.1177/014107688407700803",
+    "source_type": "Primary committee-member clinical report",
+    "read_scope": "Original full text through web PDF extractor, pages636–637re-read; direct local download was access HTML, not PDF",
+    "local_file": "sources/dowling-1984-sage-access-page.html"
+  },
+  {
+    "title": "Trifaud and Colvin 1989 French booklet",
+    "url": "https://catalogue.bnf.fr/ark:/12148/cb35041825p",
+    "source_type": "Institutional catalog metadata only",
+    "read_scope": "47ppholdings, not contents",
+    "local_file": "sources/trifaud-colvin-1989-bnf-catalog.html"
+  },
+  {
+    "title": "Trifaud and Colvin 1990 English booklet",
+    "url": "https://catalogue.bnf.fr/ark:/12148/cb35068926d",
+    "source_type": "Institutional catalog metadata only",
+    "read_scope": "47ppholdings, not contents",
+    "local_file": "sources/trifaud-colvin-1990-bnf-catalog.html"
+  },
+  {
+    "title": "D Alpa 2008 Cirolli critique",
+    "url": "https://www.laiko.it/images/lourdes/La-guarigione-di-Delizia-Cirolli---Una-analisi-critica.pdf",
+    "source_type": "Medical-author critique quoting/retranslating records; not independent pathology",
+    "read_scope": "Full48pptext, figures/pages31,33,34visually inspected; no Cirolli medical images",
+    "local_file": "sources/dalpa-2008-cirolli-critical.pdf"
+  },
+  {
+    "title": "Peter May 2017 Miracles in Medicine",
+    "url": "https://www.cis.org.uk/serve.php?filename=scb-29-2-may.pdf",
+    "source_type": "Firsthand recollection of film, secondary to underlying specialist words",
+    "read_scope": "pp128–129Cirolli section re-read; original documentary/report not obtained by this agent",
+    "local_file": "sources/may-2017-miracles-in-medicine.pdf"
+  },
+  {
+    "title": "Spanish CMIL dossier lead",
+    "url": "http://www.marcel-lefebvre-tam.com",
+    "source_type": "Former copy reported by D Alpa; not acquired",
+    "read_scope": "Site failed; WaybackCDXreturnedtemporarilyofflineHTML, notJSON",
+    "local_file": "sources/spanish-dossier-wayback-cdx.json"
+  },
+  {
+    "title": "Colvin institutional biography",
+    "url": "https://www.dunkelddiocese.co.uk/papal-knighthood-for-bernard-colvin/",
+    "source_type": "Diocesan institutional biography",
+    "read_scope": "Professional role only; erroneous Cirolli pilgrimage date flagged",
+    "local_file": ""
+  },
+  {
+    "title": "Colvin institutional obituary",
+    "url": "https://www.dunkelddiocese.co.uk/requiem-mass-for-dr-bernard-colvin-k-s-g/",
+    "source_type": "Institutional firsthand colleague tribute",
+    "read_scope": "CMILandconsultantorthopaedicroleverified",
+    "local_file": ""
+  },
+  {
+    "title": "SECOT orthopaedic history",
+    "url": "https://75aniversario.secot.es/upload_fck/file/expo/130-160%20Francia%202.pdf",
+    "source_type": "Professional society history",
+    "read_scope": "Trifaud Marseille chair/GETO/SOFCOTbiographic section",
+    "local_file": ""
+  },
+  {
+    "title": "EMSOS founders",
+    "url": "https://emsos.org/about-us/",
+    "source_type": "Professional society",
+    "read_scope": "Trifaud founding membership",
+    "local_file": ""
+  },
+  {
+    "title": "D Alpa self description",
+    "url": "https://www.laiko.it/",
+    "source_type": "Author primary self-identification",
+    "read_scope": "Neurologist/neurophysiopathologist; not university pathologist",
+    "local_file": ""
+  },
+  {
+    "title": "Catania medical order register",
+    "url": "https://www.ordinemedct.it/wp-content/uploads/2020/04/Elenco-Alfabetico-x-O_M_.pdf",
+    "source_type": "Medical order register",
+    "read_scope": "Indexed name Francesco Mario DAlpa; specialty not verified by register",
+    "local_file": ""
+  }
+]

@@ -1,0 +1,197 @@
+{
+  "audit_date": "2026-10-27",
+  "scope": "Cumulative public-apparition inference, source dependence and shared expectations",
+  "sources": [
+    {
+      "id": "basili1968",
+      "title": "Ministry of Tourism — Department of Inquiries report",
+      "author": "William Farid Basili",
+      "role": "Director of Inquiries and Complaints, Egyptian Ministry of Tourism",
+      "date": "1968-04-30",
+      "url": "https://ourladyofzeitoun.com/en/report/ministry-of-tourism-department-of-inquiries/",
+      "local": "research/zeitoun-investigation-records-20261027/sources/ministry-en.txt",
+      "status": "Read saved modern English transcription; Arabic scan verification performed in prior main-thread audit, not newly authenticated by this agent",
+      "supports": [
+        "Contemporary official report explicitly invokes Fátima and Lourdes",
+        "Initial identification sequence includes a woman apparently in danger before identification as Mary",
+        "Institutional account and witness narrative are combined in a single report"
+      ],
+      "does_not_establish": [
+        "Initial garage witnesses' prior knowledge of Fátima",
+        "That Fátima caused Zeitoun's initial perception",
+        "A numerical dependence penalty"
+      ]
+    },
+    {
+      "id": "watani19680505",
+      "title": "Watani newspaper, 5 May 1968",
+      "date": "1968-05-05",
+      "url": "https://ourladyofzeitoun.com/en/newspaper/watani-newspaper-may-5-1968/",
+      "local": "research/zeitoun-investigation-records-20261027/sources/watani-1968-05-05-en.txt",
+      "status": "Read saved modern English transcription; web search independently surfaced same passages; direct web reader403; original Arabic pages saved by main thread",
+      "supports": [
+        "Explicit Fátima comparison",
+        "Explicit admission that other newspapers reprint Watani accounts",
+        "Named observers describe exposure to reports before their own claimed observations",
+        "Zaki Shenouda describes earlier skepticism and later detailed observation"
+      ],
+      "source_alert": "Tekla English timing7:20–8:10p.m. is called1h10, although interval is50minutes; original Arabic requires comparison",
+      "does_not_establish": [
+        "That expectation caused error",
+        "That every named observer merely copied another witness"
+      ]
+    },
+    {
+      "id": "committee19680430",
+      "title": "Report of the committee formed by Pope Kyrillos VI",
+      "date": "1968-04-30",
+      "authors": [
+        "Guirguis Matta",
+        "Youhanna Abdel-Messih",
+        "Benjamin Kamel"
+      ],
+      "role": "Coptic Orthodox clergy delegated to investigate",
+      "url": "https://ourladyofzeitoun.com/en/report/report-of-the-committee-formed-by-his-holiness-the-pope-to-verify-the-authenticity-of-the-apparitions-of-the-virgin-mary/",
+      "local": "research/zeitoun-investigation-records-20261027/sources/committee-en.txt",
+      "status": "Read local transcription in inherited context; Arabic reproduction and rank corrections documented by main thread",
+      "supports": [
+        "Investigators describe interviewing witnesses before their own reported observations",
+        "Own observations of figure, gestures and luminous birds are asserted, rather than exclusively hearsay"
+      ],
+      "limits": [
+        "Joint report is not three separately recorded blind observations",
+        "Available Arabic reproduction is a printed report with names, not newly authenticated original manuscript"
+      ]
+    },
+    {
+      "id": "dcf_prediction",
+      "title": "Documentação Crítica de Fátima — Seleção de documentos, 2013",
+      "institution": "Sanctuary of Fátima; scientific sponsorship of Portuguese Catholic University Faculty of Theology through CEHR",
+      "url": "https://www.fatima.pt/files/upload/fontes/F001_DCF_selecao.pdf",
+      "relevant_records": [
+        {
+          "date": "1917-07-14",
+          "document": 3,
+          "printed_page": 32
+        },
+        {
+          "date": "1917-09-27",
+          "document": 10,
+          "printed_page": 58
+        }
+      ],
+      "local_audit": "research/fatima-eyewitness-census-20261027/research-note.txt",
+      "status": "Read local audit that checked printed Portuguese pages; separate event agent is rechecking records",
+      "supports": [
+        "Pre-event record of a public evidentiary promise",
+        "Prediction is simultaneously a reason to expect observers to gather"
+      ],
+      "does_not_establish": [
+        "Cause of subsequent phenomenon",
+        "Complete independence of all observers"
+      ]
+    },
+    {
+      "id": "fatima_distant_audit",
+      "title": "Local distant-witness primary-source audit",
+      "date": "2026-10-27",
+      "local": "research/fatima-distant-witnesses-20261027/research-report.txt",
+      "primary_source_urls": [
+        "https://fatima-1917.com/pt/d/iii-1-79",
+        "https://fatima-1917.com/pt/d/iii-1-319",
+        "https://centroculturalcampogrande.pt/pdfs/era.uma.senhora.mais.brilhante.que.o.sol.pdf",
+        "https://digitalis-dsp.uc.pt/institutocoimbra/UCBG-A-24-37a41_v122/UCBG-A-24-37a41_v122_item1/UCBG-A-24-37a41_v122.pdf"
+      ],
+      "role_note": "Diogo Pacheco de Amorim was a University of Coimbra mathematician; João de Marchi was a priest and interviewer",
+      "supports": [
+        "Some remote reports survive in1917 letters",
+        "Some later remote accounts have explicit prior expectation",
+        "Early indirect reports and late direct interviews have different transmission strengths"
+      ],
+      "limits": [
+        "Local audit is a derivative research product; underlying Portuguese scans, not AI summaries, are the source evidence",
+        "Not a complete census"
+      ]
+    },
+    {
+      "id": "fairfield_charman2017",
+      "title": "Explicit Bayesian Analysis for Process Tracing: Guidelines, Opportunities, and Caveats",
+      "authors": [
+        "Tasha Fairfield",
+        "Andrew E. Charman"
+      ],
+      "institutions": [
+        "London School of Economics, Department of International Development",
+        "University of California, Berkeley, Department of Physics"
+      ],
+      "journal": "Political Analysis",
+      "volume": 25,
+      "year": 2017,
+      "pages": "363–380",
+      "relevant_pages": "370–373",
+      "doi": "10.1017/pan.2017.14",
+      "url": "https://doi.org/10.1017/pan.2017.14",
+      "public_full_text": "https://cpd.berkeley.edu/wp-content/uploads/2018/02/CPC_Fairfield_article.pdf",
+      "status": "Read primary full-text sections on dependence and sequential updating via web reader",
+      "supports": [
+        "Independence is relative to hypotheses, not simply physical separation of sources",
+        "Conditional product rule allows cumulative inference without full independence",
+        "Explicit rivals and transparent sensitivity are preferable to arbitrary numerical confidence"
+      ],
+      "does_not_establish": [
+        "Any likelihood or probability for Fátima or Zeitoun"
+      ]
+    },
+    {
+      "id": "xie_hayes2022",
+      "title": "Sensitivity to Evidential Dependencies in Judgments Under Uncertainty",
+      "authors": [
+        "Belinda Xie",
+        "Brett Hayes"
+      ],
+      "institution": "School of Psychology, University of New South Wales Sydney",
+      "journal": "Cognitive Science",
+      "year": 2022,
+      "volume": 46,
+      "article": "e13144",
+      "doi": "10.1111/cogs.13144",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9285361/",
+      "status": "Read primary abstract and introduction/model sections",
+      "supports": [
+        "Independent firsthand observations differ from sequential testimony combining own observations with others' statements",
+        "Controlled experiments demonstrate a real evidential-dependence issue worth tracing"
+      ],
+      "does_not_establish": [
+        "A retrospective perceptual diagnosis for either apparition",
+        "A dependence correction factor for historical crowds"
+      ]
+    },
+    {
+      "id": "nelson1973",
+      "title": "The Virgin of Zeitoun",
+      "author": "Cynthia Nelson",
+      "institution": "American University in Cairo; author note also identifies a year at UC Berkeley Institute of International Studies",
+      "journal": "Worldview",
+      "year": 1973,
+      "volume": 16,
+      "issue": 9,
+      "pages": "5–11",
+      "relevant_pages": "5–6",
+      "doi": "10.1017/S0084255900019951",
+      "url": "https://doi.org/10.1017/S0084255900019951",
+      "local": "research/zeitoun-independence-audit-20261027/sources/nelson-1973.pdf",
+      "status": "Read opening primary text and visually checked printedp6; complete original recovered by Zeitoun audit agent",
+      "supports": [
+        "Concrete cases of perceptual ambiguity and expectation, including crowd self-correction",
+        "Independent acknowledgement of surrounding streetlights disconnected fordays",
+        "Author did not identify the light source"
+      ],
+      "does_not_establish": [
+        "A complete ordinary explanation of the full multi-night record",
+        "That detailed observations on other nights were false"
+      ]
+    }
+  ],
+  "no_numerical_posterior_derived": true,
+  "bottom_line": "Some within-record dependence and shared interpretive context are demonstrated; a blanket claim that the two events are one dependent chain is not. The combined argument survives the dependence caveat, while the magnitude of the update needs explicit source and rival-hypothesis judgments."
+}

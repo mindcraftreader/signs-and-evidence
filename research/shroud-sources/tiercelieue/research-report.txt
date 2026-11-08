@@ -1,0 +1,33 @@
+JEAN DE TIERCELIEUE — NETWORK TEST, 27 October 2026
+
+FINDING
+The lead is more concrete: a Jean de Tiercelieue is documented in the royal judicial administration, with a reported commission in Sens, Chaumont and Bar-sur-Seine. He is a credible person through whom to investigate access to Évrard. No checked document yet joins him to the named Lirey chapter, Charny’s acquisition of the cloth, or an image-bearing linen commission. The current evidence does not justify naming Évrard as the probable maker.
+
+THE STRONGEST NEW EVIDENCE
+1. A roster dated 12 November 1341 names J. de Tercia Leuca among the clerical masters of palace requests. Aubert prints the underlying record, pp 371–373. This is the same year as the Évrard commission, and the name/status are consistent with the Langres canon and royal councillor. His fellow officers include Philippe de Vitry, Philippe d’Arbois, Hugues de la Serre and Pierre de Villaines. Collegial service is documented; friendship and artistic collaboration are not.
+2. Aubert p 123 n 2 reports that Jean and Pierre de Villaines were royal reform commissioners for Sens, Chaumont and Bar-sur-Seine on 25 February 1353. The precise citation is X1a 15 f 16. This is a closer regional lead than merely saying both men knew the court. It is still the historian’s summary of a register, not an independently read manuscript entry. Calendar style is unresolved; the printed year is retained.
+3. Charles V’s confirmation of 28 April 1364 names Johanne de Tiercelieue among the clerical members of the Parlement chamber. This primary-edition text, Aubert p 373, independently checks the later institutional database’s listing. It does not establish an earlier journey, introduction or commission at Lirey.
+
+PARIS PROPERTY RECORDS
+Mirot’s article, L’hôtel de Jean Le Mercier (Hôtel de Nouvion), rue de Paradis au Marais, Mémoires de la Société de l’histoire de Paris et de l’Île-de-France 46 (1919), pp 157–227, reproduces medieval property acts and rent rolls. Selected relevant pages and appendices have been read; the entire article has not been visually checked.
+The 1358 and 1362 rent rolls name a Jean de Tiercelieue with gardens/property in the rue Barbette area; the 1362 excerpt also names a goldsmith, Jean Richart, in the adjoining-property sequence. These are annual land dues, not payments for artworks. They do not establish that an image-making workshop operated in Jean’s home or that Jean patronized this goldsmith. The identity of the property holder with the Langres canon is not supplied by the rent roll and requires further evidence.
+Mirot p 159 says Jean was a relative of Pierre, perhaps his son. A later local-history narrative made this sound firmer; the older author’s explicit uncertainty must be retained. No kinship chain has been established here from Jean through Pierre to Charny or the Lirey clergy.
+
+CORRECTION OF THE EARLIER WORKING DESCRIPTION
+The previously read 1341 contract excerpt proves a separate Saint Mammès order by Jean de Tiercelieue. It does not, by itself, establish that he was an executor or administrator of Guy Baudet’s estate. The two commissions should be described separately unless the complete administrative opening of the contract establishes his executorship. Earlier shorthand implying that he administered Baudet’s commission has been corrected in the attribution-test report.
+
+CHARNY AND LIREY CROSS-CHECK
+The 1341 Parlement roster also names R. de Charniaco in the lay Grand’Chambre. This cannot be treated as Geoffroy of Lirey, nor does the surname establish kinship. The IRHT Bibale entry identifies a councillor Robert de Charny/Charni with a reference to Popoff’s prosopography. Modern Shroud genealogical discussions distinguish other Charny lines. No family bridge was established from primary evidence in this search; the apparent shared surname does not strengthen an Évrard attribution.
+Bounded OCR searches in the newly saved Aubert and Mirot volumes, plus targeted public searches for Jean’s name and Latin variants alongside the named Lirey canons, produced no verified joint transaction. This is not an exhaustive search of the archives, benefice registers or all contemporary spelling variants.
+
+PIERRE DE TIERCELIEUE — A SEPARATE LEAD
+The official Provins manuscript catalogue describes ms 85, item 148: a French report to Parlement by Jean Truelle, lieutenant of Pierre de Tiercelieue, governor of the Troyes/Meaux bailiwicks, concerning annuels contested by Saint-Quiriace and Saint-Jacques of Provins, February 1341. This is an archival target for Pierre’s institutional network. The catalogue entry is not the act itself. It concerns different institutions from the Saint-Ayoul/Notre-Dame-du-Val connections already found for Lirey, and no shared person has been verified. Do not merge them because they are in Provins.
+
+ATTRIBUTION ASSESSMENT
+Évrard’s workshop has documented patronage from a royal cleric with a traceable administrative career. The new regional commission makes Jean a more precise intermediary to test. However, proximity, status and chronological compatibility still leave the decisive acquisition link absent. We cannot presently choose between an Évrard-associated workshop, another French or Italian workshop, or another origin on this prosopographical evidence. The art-origin premise does not itself prove French manufacture or an original intention to deceive.
+
+NEXT TEST THAT COULD CHANGE THE ASSESSMENT
+Retrieve X1a 15 f 16 and identify the parties, places and business of the regional commission; inspect adjacent related entries only as context warrants. Cross-match its actual named agents against Robert de Cailli, Guillaume de Bragelogne, Regnaut de Savoisy, Henry de Seilliers, Jean de Lizines and notary Jean de Liège. Independently retrieve the full 1341 contract opening (Haute-Marne historical G93 / later citation G94) to settle the named executors and notaries. These are two precise documentary checks, not a general instruction to search every archive.
+
+ACCESS AND COVERAGE
+Saved complete 452-page Aubert 1886 volume and complete 254-page 1919 journal volume from Internet Archive, with OCR and selected rendered page images. Only relevant passages have been read. The public Persée 1908 article page was readable in parsed form; its PDF returned an ALTCHA protection notice and was not acquired. The Provins catalogue’s indexed item was readable via web; local download returned “Country not allowed” and was not acquired. Gallica’s 1933 article remains behind security verification in the current browser session; no challenge was solved or gate bypassed. No archive request, email, payment or other external communication was made.

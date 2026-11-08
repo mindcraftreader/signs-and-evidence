@@ -1,0 +1,125 @@
+{
+  "date": "2026-10-29",
+  "arguments": [
+    {
+      "id": "C29-01",
+      "target": "categorical absence of substantial non-Christian public modern miracle comparators",
+      "argument": "1998 Thai Buddhist public solar-miracle claims have contemporary external press and named witnesses; some distinctive reported features overlap",
+      "status": "closed against documentation-matched comparison as presented; partial similarities retained",
+      "limits": [
+        "not an equal complete dossier",
+        "not proof of natural cause",
+        "advance dated prediction and distant observations not established"
+      ],
+      "score_change": 1,
+      "clarification_2026_10_29": {
+        "user_objection": "Compare eyewitness journalism written on the event date, not later interviews repeating a claimed mass observation.",
+        "finding": "Mydans13August1999 is retrospective reporting on1998 events. The Nation2December1998 is a later citation lead; original issue and reporter eyewitness status not recovered. No same-day independent journalist account of the Buddhist solar event established in this search.",
+        "effect": "Withdraw treating the acquired Buddhist press evidence as documentation-matched to the Almeida report. Similar reported features remain a lead, not equivalent evidence.",
+        "fatima_reference": "DCFIII-1doc87: report composed13October1917, published15October1917.",
+        "score_change": 0
+      },
+      "canonical_tally_id": "C-01",
+      "institutional_context_2026_10_29": {
+        "date": "2026-10-29",
+        "topic": "Institutional and financial context of the Dhammakaya/Fatima comparison",
+        "user_argument": "A solar-miracle claim connected with fundraising by a newer religious movement whose leadership faces financial-misconduct proceedings does not begin in the same evidential context as the Fatima case within Apostolic Christianity.",
+        "accepted_assessment": "The direct connection between the claimed sign and fundraising, movement control over promotion, witness independence, and any established deception are relevant to source credibility and must be included in the comparison. The long history of Apostolic Christianity does not itself establish Fatima; immediate independent eyewitness journalism supplies a separate evidential advantage over movement-selected promotional testimony.",
+        "retained_limits": [
+          "Small size or newness alone is not evidence that a religious claim is false; no verified description of Dhammakaya as small is adopted.",
+          "Financial allegations and judicial proceedings are not convictions or proof that a solar event was staged.",
+          "Date each allegation and proceeding: later cases must not be projected back as pending on6September1998 without evidence.",
+          "The legal allegations concern Dhammachayo and must not be transferred to the deceased teacher Sodh Candasaro, whose image some witnesses reported.",
+          "Generic reputational concerns cannot substitute for evaluating the actual observations and primary documents."
+        ],
+        "effect": "Additional accepted context supporting the existing finding that the recovered Thai dossier is not documentation-matched to Fatima; no new independent scored challenge.",
+        "score_change": 0,
+        "references": [
+          "https://www2.kenyon.edu/Depts/Religion/Fac/Adler/Reln260/Dhammakaya.htm",
+          "https://digital.car.chula.ac.th/manusya/vol5/iss1/2/",
+          "https://www.matichon.co.th/local/news_472748",
+          "research/critic-challenge-review-20261029/matichon-evidence-audit-20261029.txt"
+        ]
+      },
+      "solar_comparison_adjudication_2026_10_29": {
+        "date": "2026-10-29",
+        "topic": "Adjudication of Thai low-sun comparison",
+        "user_argument": "Low-sun conditions and prolonged solar viewing make ordinary atmospheric/perceptual effects a credible explanation for important Thai features, weakening equivalence to Fatima near solar noon.",
+        "assistant_assessment": "Accepted as a substantial comparison difference. Approximate elevations are10to5degrees over20minutes onOctober11and4to2degrees over10minutes onNovember1. Specific smog conditions are not established. Ordinary mechanisms are plausible for some features, not a demonstrated complete reconstruction of the monk figure. No additional evidence presently available sustains the Thai case as equivalently documented or comparably strong to the full Fatima case.",
+        "decision": "Existing C-01 successful defense strengthened; no second independent challenge scored. The unresolved monk-figure claim does not itself establish equivalence or reopen the closed comparison.",
+        "score_change": 0,
+        "report": "research/critic-challenge-review-20261029/thai-fatima-solar-comparison-20261029.txt"
+      }
+    },
+    {
+      "id": "C29-02",
+      "target": "Pio supernatural inference from serial wound observations",
+      "argument": "recurrent ordinary injury/healing hypothesis should be tested against full chronology rather than idealized invariant lesion",
+      "status": "invariance framing withdrawn as an objection to Daniel; full chronological causal question remains unresolved",
+      "limits": [
+        "user already accepts variation",
+        "no witnessed wound-production act",
+        "Festa favorable findings and later persistence retained"
+      ],
+      "score_change": 0,
+      "clarification_2026_10_29": {
+        "user_position": "The wounds varied substantially: reports of apparent perforation, membrane, scarring, and renewed bleeding belong to the argument. The retained question concerns the long course, reported absence of infection and visible inflammation, and reported scar-free resolution at death. Quantified blood loss is tentative.",
+        "assistant_correction": "Daniel did not assert invariant wounds. Variation or an earlier scar does not by itself explain the complete history or reported final absence of visible scars. Do not present a correction of invariance as fresh progress against his actual argument.",
+        "remaining_question": "Whether a specified ordinary process adequately fits the retained serial observations and their evidential limits. This review has not established a complete ordinary explanation; that is not a demonstration that every ordinary cause is medically impossible.",
+        "tally_effect": "No new independent challenge or point: this overlaps the previously adjudicated Pio core challenge."
+      }
+    },
+    {
+      "id": "C29-03",
+      "target": "eight-day chemical exclusion",
+      "argument": "postoperative phenol injury can persist longer than eight days",
+      "status": "prior open P-02; corroboration only",
+      "limits": [
+        "already audited",
+        "different anatomy/procedure",
+        "not fifty-year account"
+      ],
+      "score_change": 0
+    },
+    {
+      "id": "C29-04",
+      "target": "Zeitoun gesture/figure reports uniquely resist shared interpretation",
+      "argument": "Warraq witness/video comparison may offer a matched-context perceptual example",
+      "status": "unverified comparative lead",
+      "limits": [
+        "tower identification/provenance not independently established",
+        "not all reports match same footage",
+        "not direct Zeitoun explanation"
+      ],
+      "score_change": 0
+    },
+    {
+      "id": "C29-05",
+      "target": "Pio miracle-pattern uniqueness",
+      "argument": "Bongiovanni has named physician-attributed testimony about decades of stigmata and non-Catholic teachings",
+      "status": "concrete competing claimant, documentation equivalence unestablished",
+      "limits": [
+        "supportive translated publication",
+        "no signed primary clinical records recovered",
+        "cannot infer either fraud or supernatural truth"
+      ],
+      "score_change": 0,
+      "primary_source_update_2026_10_29": {
+        "finding": "Contemporary1992Spanishtranslatedmedicalstatementsrecovered. Nooriginalsignedcasefilesoruniversity-ledstudyverified. EsotericChristianclaimantinvokesJesusMaryFatima.",
+        "report": "research/critic-challenge-review-20261029/bongiovanni-medical-provenance-audit-20261029.txt",
+        "score_change": 0
+      }
+    },
+    {
+      "id": "C29-06",
+      "target": "Zeitoun from Dumsday–Watkins debate",
+      "argument": "vague mixture of ordinary light and social expectation with Salem comparison",
+      "status": "not promoted as materially stronger than closed generic objection",
+      "score_change": 0
+    }
+  ],
+  "current_tally": {
+    "Daniel": 7,
+    "assistant": 0
+  }
+}

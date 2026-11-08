@@ -1,0 +1,67 @@
+ANCIENT LINEN SHEETS AROUND SHROUD LENGTH OR LARGER
+Reviewed 27 October 2026
+
+Scope: ancient linen sheets approximately 14 feet (4.27 m) long or longer.
+Distinguish length alone from both length and width. The Turin Shroud is
+approximately 4.4 x 1.1 m. This is not a census of exact weave, condition,
+first-century date, exposure history or continuous above-ground preservation.
+
+DOCUMENTED GROUP
+Catharine H. Roehrig, Life Along the Nile: Three Egyptians of Ancient Thebes,
+Metropolitan Museum of Art Bulletin 60(1), Summer 2002, printed p.27,
+PDF page 28, reports 76 long fringed linen sheets in three wooden chests
+from Hatnofer/Hatnefer's tomb, ranging from 14 to 54 feet long. They had
+been used, some repaired, and were laundered and folded before burial.
+The museum's 2004 author essay repeats the exact count and length range.
+This establishes survival to modern excavation of dozens of long sheets.
+The summary does not establish the width and present condition of each sheet.
+
+Primary HTML:
+https://www.metmuseum.org/essays/the-housemistress-in-new-kingdom-egypt-hatnefer
+Primary publication page:
+https://www.metmuseum.org/met-publications/life-along-the-nile-the-metropolitan-museum-of-art-bulletin-v-60-no-1-summer-2002
+Downloaded publisher PDF:
+https://cdn.sanity.io/files/cctd4ker/production/016114db7c4fbda8434f3e810022ea1dbd54c34d.pdf
+
+INDIVIDUAL RECORDS, BOTH LONGER AND WIDER THAN THE SHROUD
+These first three share the tomb context of the above group. Their individual
+chest membership has not been mapped here; they are not extra sheets to add.
+
+Met 36.3.111: 515 x 161 cm; ca.1491-1473 BCE; linen.
+https://www.metmuseum.org/art/collection/search/545138
+
+Met 36.3.145: 524 x 140 cm; ca.1491-1473 BCE; linen.
+https://www.metmuseum.org/art/collection/search/560234
+
+Met 36.3.143: 527 x 144 cm; ca.1491-1473 BCE; linen.
+https://www.metmuseum.org/art/collection/search/560232
+
+Separate archaeological context:
+Museo Egizio Suppl.8518/=j: bed sheet, 490 x 125 cm; 1425-1353 BCE;
+linen, Tomb of Kha, TT8, excavated 1906.
+https://collezioni.museoegizio.it/en-GB/material/S_8518__j/
+
+COUNT INTERPRETATION
+76 recovered long sheets in one tomb + at least one distinct long sheet
+from Kha's tomb = a documented minimum of 77 approximately 14-foot-or-longer
+ancient linen sheets. This minimum uses reported length, not individually
+verified width and completeness for all 77. Four individual catalogue
+records above verify cloths larger than the Shroud in both dimensions.
+
+The 1965 Met Bulletin describes 55 sheets in two chests. Do not add its
+count to 76: it describes overlapping material. The later 2002 and 2004
+sources specify three chests and 76. The 2022 Met essay summarizes over
+70 sheets and shirts but does not individually restate all lengths.
+
+No reliable worldwide total applying the requested size criterion was
+located in this search. Do not invent a 100, 1000 or 2000-object estimate
+from a single tomb or from total textile-fragment collection counts.
+There is no established upper bound here. The supported finding is that
+the category includes at least dozens, not merely a handful. A stricter
+global count would require object-level dimension and condition screening
+across collections; buried/folded ancient linen is not automatically a
+matched preservation control for a repeatedly displayed relic.
+
+Verification: downloaded complete Met 2002 PDF (28,881,552 bytes), extracted
+text, rendered PDF page 28 and visually verified the count and length range.
+Current individual museum catalogue records were read online.

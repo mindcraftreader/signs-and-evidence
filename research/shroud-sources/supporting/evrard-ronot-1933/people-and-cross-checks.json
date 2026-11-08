@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Guillaume Gormont",
+    "role": "Garde de la prévosté de Paris: issuing keeper",
+    "evidence": "Named in the opening, p 202",
+    "comparison": "Different named keeper from Guillaume Staise in the checked Charny act of 20 May 1356",
+    "limit": "Public legal authority; neither artist nor identified executor in this clause"
+  },
+  {
+    "name": "Richard Passart",
+    "role": "Clerk and sworn Châtelet notary",
+    "evidence": "Named in the opening, p 202",
+    "comparison": "Different from Raoul du Jardin and Martin le Pietel in Charny’s 1356 act",
+    "limit": "No verified joint Charny/Lirey transaction in this pass"
+  },
+  {
+    "name": "Ponce dit le Bourguignon",
+    "role": "Clerk and sworn Châtelet notary",
+    "evidence": "Named in the opening, p 202",
+    "comparison": "Different from the notaries in Charny’s checked 1356 act and Jean de Liège in the 1353–1354 Lirey material",
+    "limit": "The descriptive byname does not establish kinship or identify him with Ponce de la Roche or any Charny relation"
+  },
+  {
+    "name": "Évrard d’Orléans / Evrart d’Orliens",
+    "role": "Contracting maker acknowledging the bargains and payments",
+    "evidence": "Personally appears; residence beyond Porte Saint-Denis; pp 202–203",
+    "comparison": "Direct sculptural patronage from Jean is documented",
+    "limit": "A residence is specified, not expressly a workshop address. No linen-image commission"
+  },
+  {
+    "name": "Jean de Tiercelieue",
+    "role": "Clerk, royal councillor, separate Saint Mammès customer",
+    "evidence": "Named p 203, with 16 livres received from him",
+    "comparison": "Same name/status used in the existing intermediary investigation",
+    "limit": "This passage does not call him a Langres canon, executor, or royal commissioner for Baudet’s estate"
+  },
+  {
+    "name": "Royal commissioners for Guy Baudet’s last wishes",
+    "role": "Main ensemble’s customers and payers",
+    "evidence": "Described but unnamed in the checked opening/payment clauses",
+    "comparison": "No named list available here for matching Lirey clergy",
+    "limit": "No executor names should be supplied from inference"
+  }
+]

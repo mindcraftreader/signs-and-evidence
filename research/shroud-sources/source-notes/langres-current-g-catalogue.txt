@@ -1,0 +1,16 @@
+Archives départementales de la Haute-Marne — present Langres G / 2G inventory check
+Original: https://recherche.archives.haute-marne.fr/archives/show/FRAD052_00000002G_description
+Reviewed: 2026-10-27
+
+Present G94 is bishopric correspondence, XVIe–1680; 2G94 is Chambrier, Chantre, 1207–1675. The chapter works/repairs group 2G168–170 covers 1307–1789. These descriptions do not identify the 1341 sculpture act or establish a concordance with its historical references.
+
+Limitations: Catalogue records, not inspected archival contents. Broad titles cannot rule out unlisted documents. 2G168–170 is a subject/date search lead, not a verified replacement shelfmark; only 2G168’s individual description opened.
+
+Access: Official catalogue records and chapter inventory read; public text captures saved. No original act or reproduction order obtained
+
+Local files:
+supporting/langres-current-g-catalogue/g94-catalogue-ax.txt
+supporting/langres-current-g-catalogue/2g94-catalogue-ax.txt
+supporting/langres-current-g-catalogue/2g168-catalogue-ax.txt
+supporting/langres-current-g-catalogue/langres-chapter-inventory-text.txt
+supporting/langres-current-g-catalogue/archive-lookup-brief.txt

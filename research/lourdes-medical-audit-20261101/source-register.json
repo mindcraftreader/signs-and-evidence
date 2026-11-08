@@ -1,0 +1,161 @@
+[
+  {
+    "id": "S1",
+    "title": "Sanctuary official 72-case list",
+    "url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+    "local_file": "research/lourdes-medical-audit-20261101/sources/official-cases-it.html",
+    "reading_scope": "All 72 published entries screened; not all underlying medical dossiers obtained.",
+    "sha256": "f1b3659ae6a46c82c6b8195dfa1636f292f61b16babc27e4b9c74ffc55b3f149"
+  },
+  {
+    "id": "S2",
+    "title": "Jim Garner, CMAJ associate editor, 1974",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1955914/",
+    "local_file": "research/lourdes-medical-audit-20261101/sources/garner-1974-pmc.html",
+    "reading_scope": "Micheli and Traynor sections read; all six canonical journal page scans saved; pp1257/1259 visually inspected. Author was a journalist/editor, not identified as a physician; he reports restricted original-record access.",
+    "sha256": "a067eb76580df715e921f43b723d52e5107ec600eebbb145318bff738502539f"
+  },
+  {
+    "id": "S3",
+    "title": "Barbara A Neilan, Regional Hematology Oncology, 2013",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6027009/",
+    "local_file": "research/lourdes-medical-audit-20261101/sources/neilan-micheli-2013.html",
+    "reading_scope": "Entire substantive article read. Secondary clinical account derived with permission from Salmon medical report; no actual image plates in this article.",
+    "sha256": "7e1ec1ea769acefc6f1b538ba3aea4202937bc79da470701b1788c2d308299c9"
+  },
+  {
+    "id": "S4",
+    "title": "Auguste Vallet, original 1926 medical record / AMIL 2025 translation",
+    "url": "[private link omitted]",
+    "local_file": "research/lourdes-medical-audit-20261101/sources/traynor-minutes-french-scan.pdf",
+    "reading_scope": "Original four-page newspaper scan saved, relevant original pages2/3 and masthead inspected. Entire14-page English translation read.",
+    "sha256": "7d4580a52eed341a9035bbac8b8a879cad88421696234d6f0337f2d292c2047e"
+  },
+  {
+    "id": "S5",
+    "title": "Archbishop Malcolm McMahon, 8 December 2024 declaration",
+    "url": "https://www.lourdes-france.org/wp-content/uploads/2024/12/Statement-on-John-Traynor-Case-FINAL.pdf",
+    "local_file": "research/lourdes-medical-audit-20261101/sources/traynor-archbishop-2024.pdf",
+    "reading_scope": "Complete two-page statement read. Institutional account of archival review, not original wartime medical charts.",
+    "sha256": "a0d13dfa12d7f39851462ecc33d8205e39bdb141b8b210abf7c1c19dda1d58bd"
+  },
+  {
+    "id": "S6",
+    "title": "Sandro de Franciscis, Lourdes Medical Bureau, AMIL August2025",
+    "url": "[private link omitted]",
+    "local_file": "research/lourdes-medical-audit-20261101/sources/raco-medical-report-amil.pdf",
+    "reading_scope": "Entire supplied22-page PDF text read; relevant page images inspected. It reproduces clinical excerpts and review history, not complete raw clinical file; ends at printed57 despite header36-59.",
+    "sha256": "dfccbb7000aee818e25de5a8c0061b1761b6a55a7761b46362626635aa9eca4f"
+  },
+  {
+    "id": "S7",
+    "title": "Monique Bouges (AMIL secretary), Moriau/Fumery/de Franciscis/Benoit-Gonnin testimony, June2019",
+    "url": "[private link omitted]",
+    "local_file": "research/lourdes-medical-audit-20261101/sources/moriau-fumery-testimony-amil.pdf",
+    "reading_scope": "Entire seven-page published testimony read. Includes firsthand treating physician and investigator accounts; not the full medical dossier.",
+    "sha256": "8c497c7f471a5efccf50b3a6d617dc6af8a8a2decdf384d738f008e4600a952a"
+  },
+  {
+    "id": "S8",
+    "title": "French Bishops Conference / Bishop of Beauvais, 2018",
+    "url": "https://eglise.catholique.fr/actualites/452640-70e-miracle-de-lourdes-officiellement-reconnu-leveque-de-beauvais/",
+    "local_file": "research/lourdes-medical-audit-20261101/sources/moriau-bishops-2018.html",
+    "reading_scope": "Substantive statement and patient account read.",
+    "sha256": "f2851d350eceaa6f8f5f1a27f2530f4fbec0321bb285f144cd2d1719f5c85746"
+  },
+  {
+    "id": "S9",
+    "title": "St John Dowling MB MRCGP, GP and CMIL member, 1984",
+    "url": "https://doi.org/10.1177/014107688407700803",
+    "local_file": "research/lourdes-medical-audit-20261101/sources/dowling-pmc-html.html",
+    "reading_scope": "Publisher PDF text read, notably Cirolli analysis pp636-637 and assessment methodology; canonical PMC journal page PNGs saved. PDF download attempt returned challenge HTML and is not counted as a valid local PDF.",
+    "sha256": "31e5183494641f4ac034fbd9c6676b3da0841a1b0c6aaf7ac2a1cb3108861e0b"
+  },
+  {
+    "id": "S10",
+    "title": "Comité des travaux historiques et scientifiques, Salmon biography",
+    "url": "https://cths.fr/an/savant.php?id=4692",
+    "local_file": "research/lourdes-medical-audit-20261101/sources/salmon-credential-cths.html",
+    "reading_scope": "Institutional historical credential source checked.",
+    "sha256": "a6173e044413fa07cdd5568e54cff9c17acf3ab7924d064b01dfb4f67084aaee"
+  },
+  {
+    "id": "S11",
+    "title": "Catalogue collectif de France: Salmon report holding",
+    "url": "https://ccfr.bnf.fr/portailccfr/ark%3A/16871/0017270345",
+    "local_file": null,
+    "reading_scope": "Catalogue record checked:1995 English52-page edition, Hautes-Pyrénées archives,8°BR1548. Full report not retrieved."
+  },
+  {
+    "id": "S12",
+    "title": "University of Turin CRESLA, Adriano Chiò profile",
+    "url": "https://www.cresla.unito.it/il-centro/chi-siamo",
+    "local_file": "research/lourdes-medical-audit-20261101/sources/chio-credential-unito.html",
+    "reading_scope": "University institutional credential source checked.",
+    "sha256": "294eaaad5cf9aac46ed5aefdd08794cb2cfe4073f1595c067bfa0411e89e436a"
+  },
+  {
+    "id": "S13",
+    "title": "Auxologico: Vincenzo Silani professional history",
+    "url": "https://www.auxologico.it/equipe/prof-vincenzo-silani",
+    "local_file": "research/lourdes-medical-audit-20261101/sources/silani-credential-auxologico.html",
+    "reading_scope": "Institutional career profile checked; historical Milan academic affiliation matches clinical report.",
+    "sha256": "f784b47de70b0ef950c190b829a8b230840a8f40cae05511a59a23e2ca046809"
+  },
+  {
+    "id": "S14",
+    "title": "Tine Van Osselaer, Sign or Symptom? introduction, Leuven UP2017",
+    "url": "https://repository.uantwerpen.be/docman/irua/890274/144128.pdf",
+    "local_file": "research/lourdes-medical-audit-20261101/sources/de-rudder-antwerp-history.pdf",
+    "reading_scope": "Relevant introduction on De Rudder pp7-10 read;33-page supplied preview not entire book. University repository copy downloaded; original1899 medical paper not retrieved.",
+    "sha256": "4f5f50739032ffa596ee946254f0381098c5cb930cbc90f83cdf24dcc346b90f"
+  },
+  {
+    "id": "S15",
+    "title": "Bishop Claude Dagens, Bély declaration9 February1999",
+    "url": "https://archivesweb.cef.fr/public/historique.cef.fr/historique.cef.fr/catho/espacepresse/communiques/1999/comm91.html",
+    "local_file": "research/lourdes-medical-audit-20261101/sources/bely-declaration-1999.html",
+    "reading_scope": "Complete substantive declaration read; not original neurological records.",
+    "sha256": "eaeb1abcb2be4409ac9337fa76d21bd902abb021eac9e25022b270b695365961"
+  },
+  {
+    "id": "S16",
+    "title": "Royal College of Physicians of Ireland, Lourdes slides LS/2/2",
+    "url": "https://calmview.co.uk/rcpi/CalmView/Record.aspx?id=LS/2/2&pos=14&src=CalmView.Catalog",
+    "local_file": "research/lourdes-medical-audit-20261101/sources/rcpi-lourdes-xray-catalog.html",
+    "reading_scope": "Catalogue metadata only: chest radiograph labelled Paul Merat27May1914. Actual slide not retrieved.",
+    "sha256": "335824d99e4cb68154fefffbd1d119545aeee4295e29a4830327e9b956197c66"
+  },
+  {
+    "id": "S17",
+    "title": "Dissing/Heerfordt/Schiødt/Sneppen, Copenhagen, Acta Orthop1978",
+    "url": "https://actaorthop.org/actao/article/download/29079/33959/82545",
+    "local_file": "research/lourdes-medical-audit-20261101/sources/dissing-natural-regression-1978.pdf",
+    "reading_scope": "Complete five-page primary case report read; radiographs/histology present. Medical comparator, not a documented religious-vindication claim.",
+    "sha256": "3a97b7dff83b5d083755749f81c1826ef28dbda1a2ffc3f03b6a97cb1dcf8c1b"
+  },
+  {
+    "id": "S18",
+    "title": "Bernard François (Lyon1), Esther Sternberg (NIH), Elizabeth Fee (NLM), 2012/2014",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3854941/",
+    "local_file": "research/lourdes-medical-audit-20261101/sources/francois-sternberg-fee-2012.html",
+    "reading_scope": "Methods, relevant tables, substantive critical assessment, conclusions and cited case reports read. Original archival data described by authors; not independently re-examined here.",
+    "sha256": "a521784cf00c06ca656931b978dbc315002583320639251492c057c218bf9331"
+  },
+  {
+    "id": "S19",
+    "title": "Sanctuary, Raco official chronology2025",
+    "url": "https://www.lourdes-france.com/en/antonietta-raco-72nd-lourdes-miracle/",
+    "local_file": "research/lourdes-medical-audit-20261101/sources/raco-official-2025.html",
+    "reading_scope": "Complete substantive chronology read.",
+    "sha256": "89a0becb04a8ca76eeba03b15104fc734a06a26dae34cab82a6fe46d5e81b66d"
+  },
+  {
+    "id": "S20",
+    "title": "Saint Beluga, source-discovery page",
+    "url": "https://www.saintbeluga.org/our-lady-of-lourdes-immaculate-conception",
+    "local_file": "research/lourdes-medical-audit-20261101/sources/saint-beluga-source-links.html",
+    "reading_scope": "Discovery source for linked AMIL PDFs. Article clinical commentary not used as substitute for linked records; unnamed MD collaboration not treated as independently verified Harvard institutional endorsement.",
+    "sha256": "813da912950d109656ed52472ea92bfd0f7e07ffd35522c6e2f909332bed4f8d"
+  }
+]

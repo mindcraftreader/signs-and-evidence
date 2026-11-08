@@ -1,0 +1,49 @@
+FATIMA: MUSE / ALEXANDER / CRUMMETT REVIEW
+Reviewed 27 October 2026
+
+CURRENT PHOTOGRAPHIC ASSESSMENT — 2 NOVEMBER 2026
+Dalleur's geometric reconstruction provides substantive positive evidence for anomalous external illumination, conditional on its image measurements. Its principal arithmetic and intended camera sensitivity factors reproduce. Muse offers specific replies to the camera, lens and mixed-light objections; those replies must be evaluated and not described as absent. No reviewed countermodel has fitted all retained D115 cues with ordinary solar illumination. Independent verification of the original6K feature selections and their joint uncertainty remains incomplete; that is not a demonstrated refutation and must not erase the photographic contribution to the cumulative case. See ../fatima-dalleur-reaudit-20261102/report.txt. The new direct photo inspection is recorded separately in ../fatima-independent-photo-audit-20261102/.
+
+SCOPE
+Read the locally retrieved article bodies of Muse's Our Lady of Fatima, Alexander's original response, and Muse's It Wasn't the Sun!, including its revision dated 18 April 2026. Read the complete available automatic-caption transcript of Muse's debate with Dustin Crummett. Additionally examined the kasina discussion and direct reply to Muse in Alexander's follow-up. Other sections of that follow-up and the debate host's review are archived, not represented as fully reviewed.
+
+The captions are automatic, contain name/transcription errors, and have no reliable speaker labels. This was a text review, not a real-time audiovisual viewing or independent validation of every linked source. Preserve the original caption JSON and timecodes.
+
+FINDINGS
+Muse's core is a cumulative argument: the children's reported experiences, an advance promise, public observations, distant testimony, and claimed photographic traces. Merely labeling the event mass hallucination does not engage that argument adequately.
+Alexander offers a combined account involving visual effects, weather and expectation. He acknowledges important explanatory gaps. His follow-up adds proposed analogies and answers to Muse; his objections are not exhausted by his original post.
+Muse's current reply argues for a local emitter, challenges the compatibility of comfortable viewing with the proposed visual effects, and expands the distant-witness discussion. His descriptions of shadows and wet/dry tonal regions are interpreted photographic evidence, not direct measurements of a luminous body or moisture.
+The debate does not settle the technical optical dispute: Crummett repeatedly acknowledges not having a detailed response. That is a limitation of the exchange, not independent verification of Muse's calculations. His objections also concern memory, later messages, selection effects and religious interpretation.
+Crummett conditionally accepts the cumulative-update principle near the close; he does not concede that Fatima was supernatural. The direct exchange closely matches the user's present argument.
+
+TIME INDEX (AUTOMATIC CAPTIONS; APPROXIMATE)
+00:00-00:10 Crummett's initial account and qualifications.
+00:10-00:40 secrets, publication history and Russia.
+00:40-00:50 war-ending prophecy and conditionality.
+00:50-01:16 children, psychological alternatives and testimony.
+01:16-01:25 photographs and distant witnesses.
+01:25-01:45 parallels, optical effects, context and intention.
+01:45-02:05 drying, skeptical model, coincidence and selection.
+02:05-02:25 supernatural authenticity versus Catholic interpretation.
+02:25-02:29 other traditions and vindicatory versus healing claims.
+02:29:23-02:29:34 cumulative-update exchange.
+
+ASSESSMENT / LIMITS
+The case merits substantive comparison, not dismissal by a blanket impossibility assumption. The remaining hinge is whether the proposed objective physical traces and witness relationships are securely established. Separate direct observations, reconstructed physical quantities and inferred divine intent. No numerical likelihood ratio has been derived.
+For crowd statistics, distinguish attendance, unique people, actual observers of a specified feature, preserved testimony and independent testimony. Repeated attendance is not independent replication. The religious context can be evidential without treating every later message as directly witnessed by the crowd.
+
+SOURCES
+Muse: https://motivacredibilitatis.substack.com/p/our-lady-of-fatima
+Alexander: https://www.astralcodexten.com/p/the-fatima-sun-miracle-much-more
+Muse reply: https://motivacredibilitatis.substack.com/p/it-wasnt-the-sun
+Alexander follow-up: https://www.astralcodexten.com/p/highlights-from-the-comments-on-fatima
+Debate: https://www.youtube.com/watch?v=V5U7d47iBAo
+Host review (archived): https://benthams.substack.com/p/a-clash-of-titans-the-ethan-muse
+Crummett PhD, institutional source: https://commencement.nd.edu/assets/408577/program_2018.pdf
+
+DATED MATERIAL
+The debate metadata reports an upload date of 1 September 2026 and duration of 8,996 seconds. The host review page displays 4 March 2026. These metadata do not establish the original recording date; no reconciliation is assumed here. The downloaded articles are mutable current versions, not guaranteed historical snapshots of what each opponent originally saw.
+
+2 NOVEMBER PIXEL FOLLOW-UP: See research/fatima-independent-photo-audit-20261102/pixel-measurements/report.txt. Direct boundary measurements and a conditional 27.14° sketch are saved. The physical beam assignment and stone correspondence are not independently established, so this must not be cited as a full independent confirmation or new refutation.
+
+2 NOVEMBER CAMERA-ASSUMPTIONS AUDIT: research/fatima-camera-assumptions-audit-20261102/report.txt. Actual camera assumptions were not proven false or likely false. A manufacturer catalogue and Science Museum record establish ordinary rising/cross fronts, so zero shift is not guaranteed by camera family. A wide-angle plus shifted-principal-point solar counter-calibration is constructed, but its actual equipment compatibility, use and whole-image fit remain unverified. Normal focal-length/crop/small-distortion tests do not close the gap; large pitch/roll changes require further image justification. No tally change or successful full ordinary-solar reconstruction is claimed.

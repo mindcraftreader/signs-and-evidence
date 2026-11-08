@@ -1,0 +1,99 @@
+DALLEUR / MUSE FOLLOW-UP
+2 November 2026
+
+SCOPE
+
+Daniel asks to continue the Dalleur/Muse investigation, preserving the standalone
+witness/press case rather than treating original-scan acquisition as a prerequisite
+for evaluating Fatima. The author scan request remains outstanding. No new email
+was sent. No new debate point is assigned.
+
+NEW MATERIAL REVIEWED
+
+Retrieved Dalleur's548-second D115 walkthrough at1920x1080 for research inspection.
+Read its full automatic English captions in the preceding pass; now extracted and
+visually inspected21 sampled full-resolution video frames covering his individual
+shadow cues and focal-length probes. These are a selective frame review, not a
+claim to have watched every moment of the video. The video itself displays a
+denoised/effected image named D0000115HDenoisePhotoEffect2.jpg. It is not the raw
+archival TIFF and does not replace that source.
+https://www.youtube.com/watch?v=0e8VSSHAB6c
+
+Also obtained the English and French subtitle files and metadata for the23-minute
+template-building tutorial. Read the complete English subtitle file. This shows
+how he builds the perspective grid, ray-direction probe and coordinate display.
+The tutorial distinguishes the fixed photographic VP from the camera-dependent
+conversion to an angular source direction. It also shows a synthetic20mm example
+recovered near19.95mm. The video's description contains no public scene/script
+download. Searches for the named LightCam.py and LightCamVerify.py files did not
+locate a released source package.
+https://www.youtube.com/watch?v=UQhGi7-znsk
+
+PRIMARY-PAGE FOLLOW-UP
+
+Rechecked the live official Principles, Maths, Examples and Template pages and
+Muse's reply section3. The examples register distinguishes synthetic checks,
+two ordinary photographic examples with stated astronomical ground truth, and
+a reprojected Google panorama without a recovered independent true-angle value.
+These categories should not be collapsed into four independent blind tests.
+The listed modern photo results remain supportive demonstrations, not a sampled
+measurement-error distribution for the1917 photograph.
+https://sites.google.com/pusc.it/elevation-azimuth/principles
+https://sites.google.com/pusc.it/elevation-azimuth/theory/the-maths
+https://sites.google.com/pusc.it/elevation-azimuth/examples
+https://sites.google.com/pusc.it/elevation-azimuth/theory/a-template
+https://motivacredibilitatis.substack.com/p/it-wasnt-the-sun
+
+WHAT THIS ADDS
+
+The video inspection clarifies the empirical procedure: Dalleur moves a ray probe
+associated with the selected VP across separate features and judges compatibility.
+He does not merely assert that any crisp edge proves a point source. Consequently
+the prior isolated contact-hardening example does not test the whole reconstruction.
+That calculation remains correct general optics, not a successful historical
+counter-fit. No observed defect in the central calculation was established here.
+
+The separate cue locations are useful internal consistency checks. Lines drawn
+from a common hypothesized VP, however, are not twelve statistically independent
+endpoint measurements merely because they converge by construction. The evidence
+lies in their agreement with the actual photographic features. This distinction
+does not prove those feature assignments wrong. A useful further audit would
+record independently selected caster/shadow endpoints or supporting tangents and
+their residuals against competing VP locations.
+
+The pending raw scan would allow those selections and image-processing robustness
+to be checked more directly. Its absence is not counterevidence, and does not make
+the historical witness and press corpus wait upon photogrammetry.
+
+CURRICULUM VITAE
+
+Verified the official Pontifical University of the Holy Cross faculty biography
+and its linked five-page CV through the web tool. They confirm UCLouvain engineering
+and applied-science training, work on space/optical-fibre communications and robotic
+installations for CERN/industry, philosophy doctorate and subsequent university
+teaching. The CV also lists a1984 technical article with P.Delogne on reducing the
+transmission bit rate of digital television. These are verified relevant credentials,
+not proof of any particular Fatima measurement or evidence of a dedicated independent
+photogrammetry replication programme.
+https://docenti.pusc.it/homepage/?u=dalleur
+https://docenti.pusc.it/homepage/getCurriculum?id=63
+
+The web tool could read the CV PDF. A direct command-line retrieval returned404,
+so no local CV PDF is claimed in this folder. The official faculty HTML was already
+saved under ../fatima-photo-analysis-20261027/dalleur-official-cv-page-20261101.html.
+
+FILES
+
+cue-register.csv:11feature/probe entries with author-video timestamps and frame paths.
+worked-example-register.json:4distinct demonstration categories, not4blind trials.
+frames/:sampled native1920x1080frames, manifests, and labelled contact sheet.
+sources/:research video, tutorial metadata and English/French captions.
+local-source-manifest.json:local file sizes and SHA256hashes.
+
+STATUS
+
+No original6Kscan or public Blender scene file recovered. No completed new external
+historical-photo validation dataset located in this focused search. No whole-scene
+ordinary lighting fit, source-identification falsification or reversal of prior
+camera concessions established. Tally unchanged. The documentary case remains a
+separate substantive part of the cumulative argument throughout this follow-up.

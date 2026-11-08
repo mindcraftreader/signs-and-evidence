@@ -1,0 +1,204 @@
+PADRE PIO: EXAMINATION AND TESTIMONY COMPARISON
+20 classified records; not20 independent medical examinations.
+Dates of observation and documentation are kept separate.
+
+R01 | Luigi Romanelli
+Chief surgeon, civil hospital of Barletta
+Observed: 1919-05-15/1919-05-16
+Recorded: 1919-05-15/1919-05-16
+Evidence type: Direct examination
+Findings: Membrane-covered lesions on hands and feet; palpated lack of underlying resistance interpreted as perforation; bleeding linear chest wound; no suppuration. Limb movement described as normal.
+Limits: Perforation inferred by palpation, not demonstrated by imaging or probing. Duration since September 1918 supplied by others; chest depth not measured.
+Source: 147–151; documents [45]; PDF pages [75, 76, 77]
+Independence: One examiner, repeatedly observing the same patient.
+
+R02 | Luigi Romanelli
+Chief surgeon, civil hospital of Barletta
+Observed: July–August 1919 bandaging episode, not personally witnessed in this letter
+Recorded: 1919-08-26
+Evidence type: Contemporary letter reporting information received
+Findings: Reports hearing of Bignami's eight-day healing expectation and increased bleeding at its end.
+Limits: Does not create an independent directly witnessed trial; source chain runs through a Capuchin informant.
+Source: 159–161; documents [48]; PDF pages [81, 82]
+Independence: Corroborates early circulation of the account, not independent replication.
+
+R03 | Amico Bignami
+Professor of medical pathology, Royal University of Rome
+Observed: July 1919; report dated 26 July
+Recorded: 1919-07-26
+Evidence type: Direct examination
+Findings: Predominantly superficial hand/foot eschars; normal underlying bone/soft tissue on palpation; sole pigmentation without visible tissue lesion; superficial chest abrasion; no visible surrounding inflammation. Considered pathological, artificial or mixed causes.
+Limits: No iodine-removal test reported at this examination. Proposed causal explanation is a hypothesis, not observed wound production. No retrieved signed retraction establishes later acceptance of supernatural causation.
+Source: 173–178; documents [51]; PDF pages [88, 89, 90, 91]
+Independence: Different examiner, before Festa's examinations; not a longitudinal fifty-year assessment.
+
+R04 | Paolino, Basilio and Ludovico
+Capuchin friars; Paolino was convent superior
+Observed: Eight-day interval after Bignami visit
+Recorded: Undated; editor assigns July 1919
+Evidence type: Sworn bandaging attestation
+Findings: Wound condition reportedly unchanged except bright-red appearance on final day; daily blood, greater on last day; no medicine applied during dressings; iodine bottle removed.
+Limits: Not a physician's daily measured wound chart. Later Paolino memoir adds medicine removal, seal checks and daily redressing. Do not infer tampering or absence of controls from the short report's brevity.
+Source: 64; documents [14]; PDF pages [34]
+Independence: One intervention, three signatories; later retellings are not new interventions.
+
+R05 | Giorgio Festa
+Examining physician and surgeon in private practice, Rome
+Observed: 1919-10-09/1919-10-10
+Recorded: 1919-10-28; delivered 15 November according to editor
+Evidence type: Direct examination
+Findings: Hand lesions about 2cm, scabs and observed blood; inferred subcutaneous involvement from impaired fist closure; described chest lesion as extremely superficial but actively producing serosanguineous fluid. No surrounding edema/redness/infiltration. Report says nothing applied for over three months under superiors' prohibition.
+Limits: Impaired movement does not itself measure depth. Ordinary-cloth soaking is not measured whole-blood volume. Months-long nonapplication is reported history, not months of continuous sealed observation.
+Source: 179–200; documents [52]; PDF pages [91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102]
+Independence: New examiner; repeated October observations belong to one visit.
+
+R06 | Luigi Romanelli and Giorgio Festa
+Barletta chief surgeon and Rome surgeon
+Observed: 1920-07-16
+Recorded: Romanelli 9 August 1920; Festa 31 August 1920
+Evidence type: Joint direct examination with two accounts
+Findings: Larger/deeper palmar lesions; underlying metacarpal palpated intact by Festa; tissue breaks on dorsal and plantar feet after crust loss; no iodine revealed by alcohol/starch procedure. Festa reports a white shiny scar at a former right-dorsal hand location with an active lesion nearer the joint; describes continued lesions roughly one year after iodine withdrawal.
+Limits: Two observers of one episode, not independent trials. Corresponding holes do not document a probed continuous channel. Iodine-directed procedure does not exclude phenol. Described scar is clinical appearance, without histology.
+Source: 162–164; 200–221, especially 206–213; documents [49, 53]; PDF pages [83, 84, 105, 106, 107, 108]
+Independence: Shared examination; preserve agreement and differences between their accounts.
+
+R07 | Luigi Romanelli
+Chief surgeon, civil hospital of Barletta
+Observed: Five visits over about fifteen months, May 1919–July 1920
+Recorded: 1920-11-07
+Evidence type: Longitudinal synthesis letter
+Findings: Defends unclassifiable persistence, lack of suppuration despite ordinary washing/dressings, original palpated depth and later bleeding. Acknowledges modifications and describes early encounter as friendly observation without pretension to a scientific report.
+Limits: Reassessment by the same examiner, not five new experts. Several medical generalizations need contemporary evaluation; clinical observations and causal conclusions remain distinct.
+Source: 165–172; documents [50]; PDF pages [84, 85, 86, 87, 88]
+Independence: Synthesizes R01/R06 and other visits rather than adding five independent likelihood ratios.
+
+R08 | Raffaello Carlo Rossi
+Bishop of Volterra; Holy Office apostolic visitor; not a medical examiner
+Observed: June 1921
+Recorded: 1921 inquiry; published edition by Francesco Castelli 2008/English2011
+Evidence type: Direct inquiry and examination, accessed through published excerpts
+Findings: Excerpts describe visible signs without an open tissue break at that inspection; Pio describes waxing/waning signs. Investigator also supports fragrance testimony and rejects a crude fraud interpretation.
+Limits: Full original report not independently read in this pass; use as an access lead with qualified wording. Nonmedical observation must not overrule clinical findings by title alone.
+Source: Full Castelli edition not recovered; documents []; PDF pages []
+Independence: Distinct visit; excerpts and later paraphrases are not independent testimonies.
+
+R09 | Giorgio Festa
+Examining physician and surgeon, Rome
+Observed: Review of 1919/1920 observations plus later information
+Recorded: 1925-04-07
+Evidence type: Review submitted to Holy Office, not a fresh April examination
+Findings: Defends persistence and lack of expected inflammation; explains phenol use in convent; records fragrance observations by others while acknowledging his own anosmia.
+Limits: States permission for a new exam requested in December1924 was denied. Therefore 'third report' must not become a third direct examination in April1925. No validated negative phenol assay demonstrated.
+Source: 222–294, especially 224–239; documents [54]; PDF pages [113, 114, 115, 116, 117, 118, 119, 120]
+Independence: Same examiner, heavily reusing earlier evidence.
+
+R10 | Giorgio Festa; Angelo Merla assisting surgery
+Rome surgeon; local physician
+Observed: 1925-10-05
+Recorded: Later published operative narrative, reproduced as document55
+Evidence type: Direct re-examination during postoperative collapse
+Findings: Festa reports re-examining wounds while Pio was unconscious, finding characteristics similar to earlier reports and a fresh red chest lesion after crust loss; additionally reports brief luminous emanations.
+Limits: Observations were incidental, not instrumented longitudinal tests. Merla's presence does not establish a separate signed equivalent examination. Luminous claim not independently measured or established by other data.
+Source: 295–296; documents [55]; PDF pages [149, 150]
+Independence: Important direct five-year follow-up by same examiner; partly unexpected access.
+
+R11 | Luigi Pancaro
+Physician working at Casa Sollievo della Sofferenza; then resident in Foggia
+Observed: 1954-09-13
+Recorded: 1954-09-19
+Evidence type: Clinical examination, laboratory investigation and cloth assessment
+Findings: Reduced wound exudate reported after illness/medications. Blood-count and clotting results characterized as normal; cloth extract gave a Sahli haemoglobin reading of12%.
+Limits: No extraction-volume/dilution protocol sufficient for reconstructing daily whole-blood loss. Do not convert historical Hb80% to a modern concentration without laboratory standard. Temporal drug association is not proof of causation.
+Source: 296–299; documents [56]; PDF pages [150, 151]
+Independence: New later clinical period; Lotti later describes overlapping blood tests, so avoid double counting.
+
+R12 | Alberto Caserta; later report by Francesco Lotti
+Radiologist, Foggia; chief pediatrician, Casa Sollievo
+Observed: 1954-10-13 or1954-10-14 (sources differ)
+Recorded: Radiographs1954; Lotti report8October1968
+Evidence type: Skeletal imaging and retrospective medical report
+Findings: Radiographs reportedly show no skeletal interruption at stigma sites; reproduced plates available.
+Limits: Lotti explicitly did not directly inspect these hand/foot plates; reports radiologist's response. Images date decades after1919 and do not establish a skin biopsy or exclude all soft-tissue channels.
+Source: 300–303; appendix photographs17–21; documents [58]; PDF pages [152, 153]
+Independence: A distinct modality; cannot be treated as direct contradiction of every earlier soft-tissue observation.
+
+R13 | Luigi Pancaro
+Physician, Casa Sollievo della Sofferenza
+Observed: Late August1955
+Recorded: Undated report
+Evidence type: Direct limited inspection
+Findings: Specifically inspected left-hand stigma while investigating febrile/ear symptoms.
+Limits: Explicitly did not inspect other sites. Gives no precise depth measurement establishing all five lesions.
+Source: 299–300; documents [57]; PDF pages [151, 152]
+Independence: Different episode by same physician.
+
+R14 | Francesco Lotti
+Physician and chief pediatrician, Casa Sollievo della Sofferenza
+Observed: 1968-09-22 final Mass; film developed afterwards
+Recorded: Undated declaration, after8October1968 according to editor
+Evidence type: Film and photographic comparison plus medical interpretation
+Findings: Film shows right hand dorsum without visible lesion/scar and left palm retaining a2–3cm red-brown crust. Compared photographs by Elia Stelluto; supplied negative numbers32450/32453/32460.
+Limits: Final postmortem condition reported to him by others; his interpretation is conditional on that account. Surface crust alone does not measure depth underneath it immediately before death.
+Source: 303–308; documents [59]; PDF pages [153, 154, 155, 156]
+Independence: Own predeath film corroborates one endpoint component; subsequent scar assessment not wholly independent of Sala/friars.
+
+R15 | Andrea Cardone
+Pietrelcina physician; treated Pio from1910
+Observed: Specific dates of claimed perforation observations unstated
+Recorded: 1968-11-09
+Evidence type: Signed retrospective declaration
+Findings: Reports1.5cm through-holes in both hands, transmitted light, and fingertips meeting on compression.
+Limits: Does not date those observations. The Capuchin editor and Cruchon explicitly discuss limits of the late recollection. This is testimony for perforation, not proof no such testimony exists.
+Source: 308; documents [60]; PDF pages [156]
+Independence: Distinct witness; chronological placement unresolved.
+
+R16 | Giuseppe Sala
+Pio's personal physician; University of Naples medical-semiotics assistant according to editorial biography
+Observed: Late life and1968-09-23 postmortem inspection
+Recorded: 1969-07-07
+Evidence type: Direct postmortem examination with qualified living-wound description
+Findings: No visible scars and normal soft/elastic/mobile skin reported after death, including palpation. Describes gradual changes before death and last left-palm crust. Reports lack of local suppuration/inflammatory signs but also hand/foot edema.
+Limits: Explicitly says he never conducted a direct examination of the living wounds; describes casual views/palpation. Editor rejects his use as direct proof of their original anatomical depth, while valuing his endpoint account. No retrieved histology.
+Source: 309–312; documents [61]; PDF pages [156, 157, 158]
+Independence: Strong distinct endpoint observer; site-by-site clinical appearance, not microscopic demonstration of regeneration.
+
+R17 | Giacomo Piccirillo
+Capuchin friar and convent photographer
+Observed: 1968-09-23 shortly after death
+Recorded: 1973-01-07
+Evidence type: Direct photographic witness
+Findings: Reports absent wounds, no right-hand scar, a small transparent residue on left palm; photographed hands and feet.
+Limits: Italian scoria is residue, not automatically a fibrous scar. Editor warns chest photographs miss the exact site; hand evidence cannot repair this chest-specific limitation.
+Source: 131–133; documents [38]; PDF pages [67, 68]
+Independence: Own postmortem observation; same event as Sala, photographs not a separate healing event.
+
+N01 | Alessio Parente
+Capuchin attendant, not a physician
+Observed: February1968
+Recorded: 28September1968 statement cited by Cruchon;1972 discussion
+Evidence type: Direct care testimony via1972 published study
+Findings: Describes cleaning blood and detached crust after an episode of dizziness; estimates dorsal hand lesions about1cm deep.
+Limits: Visual estimate rather than instrumented clinical measurement; primary signed original not newly recovered. Clear late-life depth testimony must be preserved, not dismissed as absent.
+Source: Cruchon1972 pp123–124; documents []; PDF pages [73, 74]
+Independence: Distinct observer and care episode; Cruchon's retelling is not a second witness.
+
+N02 | Eusebio Notte
+Capuchin personal assistant1960–1965
+Observed: 1964-07-05
+Recorded: 1972-04-10
+Evidence type: Direct care testimony
+Findings: Saw cross-shaped chest lesion, approximately6–7cm long, appearing rather deep and exuding blood-stained fluid while changing clothing after a fall.
+Limits: No measured depth; statement eight years after event. Incidental observation still has evidential value.
+Source: 129–130; documents [37]; PDF pages [66, 67]
+Independence: Distinct observer and later-life episode.
+
+N03 | Pellegrino Funicelli
+Capuchin attendant
+Observed: Late life, final months and postmortem
+Recorded: 1969 testimony and1972 Cruchon discussion
+Evidence type: Care and endpoint testimony accessed in1972 study
+Findings: Describes decreasing blood over four–five months, longer foot regression and no visible scars after last crust detached.
+Limits: More than one account transmitted in Cruchon's discussion; reconcile the underlying signed records before treating every sentence as one precisely dated deposition.
+Source: Cruchon1972 pp126–128; documents []; PDF pages [75, 76]
+Independence: Distinct witness, overlapping endpoint with Sala/Piccirillo.
+

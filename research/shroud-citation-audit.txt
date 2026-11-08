@@ -1,0 +1,125 @@
+SHROUD LINEN-DATING METHODS: CITATION AUDIT
+Snapshot: 27 October 2026
+
+Question: how often have other scholarly works referenced the specific linen-dating papers?
+Primary source: OpenAlex work records and their incoming-citation lists.
+Secondary cross-check: Crossref is-referenced-by-count.
+All counts are database snapshots, not counts of successful replications or endorsements.
+
+FOUNDING PAPERS
+FTIR and Raman share the same 2013 founding paper:
+  DOI 10.1016/j.vibspec.2013.04.001
+  OpenAlex 46; Crossref 43.
+  OpenAlex includes 29 records typed article, 7 conference papers, 4 book chapters,
+  2 other records, 1 paratext, 1 editorial and 2 dissertations.
+  13 citing works share an indexed author with the founding paper.
+  31 have authors recorded and no indexed author overlap; 2 have no author data.
+  These 46 cannot be counted twice as 92 independent citing works for two methods.
+
+Mechanical dating, online 2013 / journal issue 2014:
+  DOI 10.1177/0040517513507366
+  OpenAlex 16; Crossref 11.
+  Includes 4 articles, 5 conference papers, 2 book chapters, 2 other records,
+  2 reference entries and 1 dissertation.
+  5 share an author; 10 have recorded authors without overlap; 1 lacks author data.
+
+WAXS method, 2019:
+  DOI 10.3390/heritage2040171
+  OpenAlex 23; Crossref 21.
+  Includes 19 articles, 2 other records, 1 reference entry and 1 dissertation.
+  6 share an author; 17 have no indexed author overlap.
+
+There are 68 distinct OpenAlex citing-work IDs across these three founding papers.
+That is database-ID deduplication only, not a claim of 68 independent experiments.
+Some content has separate book/chapter or translation records; the raw WAXS list
+includes a retracted article. These records remain in the raw counts for consistency
+with the radiocarbon benchmarks; they are not endorsements. Do not silently turn
+counts of all indexed work types into counts of peer-reviewed journal articles.
+
+ADDITIONAL METHOD-FAMILY PAPERS (NOT TO BE SUMMED WITHOUT DEDUPLICATION)
+2015 combined mechanical/opto-chemical paper: OpenAlex 16; Crossref 13.
+2016 Raman ageing follow-up: OpenAlex 16; Crossref 14.
+2025 FTIR heating/neutron follow-up, online 2024: OpenAlex 2; Crossref 3.
+2022 WAXS Shroud application: OpenAlex 8; Crossref 8.
+
+RADIOCARBON BENCHMARKS
+1949 Arnold and Libby known-age foundational paper:
+  DOI 10.1126/science.110.2869.678 -- OpenAlex 355; Crossref 292.
+1989 Shroud radiocarbon paper:
+  DOI 10.1038/337611a0 -- OpenAlex 239; Crossref 186.
+2013 IntCal13/Marine13 calibration standard:
+  DOI 10.2458/azu_js_rc.55.16947 -- OpenAlex 14,592; Crossref 9,777.
+2020 IntCal20 Northern Hemisphere calibration standard:
+  DOI 10.1017/RDC.2020.41 -- OpenAlex 7,876; Crossref 7,345.
+2009 Bayesian Analysis of Radiocarbon Dates:
+  DOI 10.1017/S0033822200033865 -- OpenAlex 8,718; Crossref 7,611.
+The IntCal13 comparison is the same publication year as the FTIR/Raman paper.
+Calibration and modelling papers represent broad routine use across subjects;
+these are not total citation counts for radiocarbon dating as a whole.
+
+SPOT CHECKS OF WHAT CITATIONS REPRESENT
+FTIR: Barta et al., Effect of heating and neutron irradiation on the FTIR dating,
+Microchemical Journal 208 (2025), 112502, DOI 10.1016/j.microc.2024.112502.
+Different author team directly examines the proposed approach under heating and
+irradiation. Institutional abstract reviewed; full experiment not retrieved here.
+
+FTIR/Raman: Xiao et al., Microinvasive analysis of textile relics from an ancient
+Silk Road turquoise mining site (2023), DOI 10.1007/s11431-022-2448-1.
+Publisher abstract describes material, dye and degradation analysis of wool.
+It is outside scholarly citation; it is not a reported application of the linen
+calendar-age formula. This distinction follows from the abstract; the exact
+in-text citation context was not accessed.
+
+Mechanical: Wiley, Handbook of Museum Textiles, Volume 2, includes chapter 6,
+State-of-the-Art Characterization Methods for Historic Textiles, and section
+6.2.2, Micromechanical Method for Textiles Dating, page 111. OpenAlex indexes
+chapter DOI 10.1002/9781119983439.ch6 and another edition/chapter record,
+10.1002/9781119983903.ch25, as citing the mechanical paper. Publisher table of
+contents verified; chapter full text not accessed. This is handbook coverage,
+not demonstrated independent dating replication.
+
+WAXS: Melelli et al., Evolution of the ultrastructure and polysaccharide
+composition of flax fibres over time: When history meets science (2022),
+Carbohydrate Polymers 291,119584, DOI 10.1016/j.carbpol.2022.119584.
+Outside author team cites the 2019 method. Publisher abstract identifies this
+as a review of flax history, degradation and characterization, not a new
+independent WAXS dating trial. Exact in-text reference context not accessed.
+
+WAXS: De Caro et al., Shroud application (2022),
+DOI 10.3390/heritage5020047, is a direct application by an overlapping team.
+
+INTERPRETATION
+All four methods have measurable scholarly uptake. The FTIR/Raman foundation
+has several dozen citations including substantial outside-author engagement.
+Mechanical dating has fewer citations and much of its indexed uptake is in
+conference and book/reference material. WAXS has two dozen citations to the
+method paper, with outside materials-science and heritage engagement.
+These results warrant more specific language than calling the work unaccepted
+without identifying the intended meaning of acceptance. Under the user's
+proposed metric (being referenced), all four pass a nonzero-uptake threshold.
+
+Citation counts have diminishing informational returns; 14,592 citations do
+not make a result 317 times as likely to be correct as one cited 46 times.
+A reference may report, apply, review, criticize or merely mention a method.
+Author-ID overlap measures shared authorship, not complete institutional or
+intellectual independence. Missing author metadata and database coverage also
+limit interpretation. No probability of Shroud authenticity is inferred here.
+A citation count cannot independently settle sampling representativeness.
+
+REPRODUCTION AND UNIVERSITY-LIBRARY CROSS-CHECK
+Retrieve https://api.openalex.org/works/https://doi.org/{DOI}
+and read cited_by_count. Retrieve /works?filter=cites:{OpenAlexWorkID}&per_page=200
+for incoming citations to the small method papers. Crossref:
+https://api.crossref.org/works/{DOI}, message.is-referenced-by-count.
+Raw responses are in raw-records/. Citing lists retain all indexed records.
+The two unsuccessful alternate-DOI lookups were not treated as separate works.
+For Scopus or Web of Science, search exact DOIs and export citing records with
+DOI, title, year, authors and document type. Keep database counts separate;
+do not average them or add them. Library access is useful for this cross-check
+and for full handbook/chapter texts, but was not necessary for the public audit.
+
+LATER ACCESS UPDATE - 27 October 2026
+The subsequent paired-dating follow-up obtained the Barta 2025 and handbook
+full texts described above as previously unavailable. See
+shroud-paired-dating-followup.txt and shroud-probability-analysis.txt for the
+current access classifications, content findings and mechanical reanalysis.

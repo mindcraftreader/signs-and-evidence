@@ -1,0 +1,8 @@
+{
+  "snapshot": "2026-10-27",
+  "mechanical_our_LOO_MAE_all_nine": 862.7164002292217,
+  "mechanical_our_LOO_RMSE_all_nine": 1395.0983528910685,
+  "warning": "Convenience calibration set; endpoint omissions extrapolate. Do not treat as a large independent population validation or pool with WAXS.",
+  "empirical_failure_distribution": "Not identified by four WAXS checks and one published mechanical holdout",
+  "actual_joint_authenticity_probability": "Not identified by available data"
+}

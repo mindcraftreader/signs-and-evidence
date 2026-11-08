@@ -1,0 +1,60 @@
+[
+  {
+    "file": "harmeet-gallery.html",
+    "url": "https://web.archive.org/web/20080703id_/http://www.gurunanakhealing.com/medical_report121.htm",
+    "exit": 0,
+    "error": "",
+    "bytes": 6844,
+    "sha256": "f08a8ca0322fa847747ea48ab9d2f8e2bb958ed0a22db24adcec0d354a9ed519"
+  },
+  {
+    "file": "repo121_1.JPG",
+    "url": "https://web.archive.org/web/20080703id_/http://www.gurunanakhealing.com/images/repo121_1.JPG",
+    "exit": 0,
+    "error": "",
+    "bytes": 97131,
+    "sha256": "d18fa999fe0c3dcfd3daf349cc052d0eca8ba9cdeff582434e5fc111fa77ad0d"
+  },
+  {
+    "file": "repo121_2.JPG",
+    "url": "https://web.archive.org/web/20080703id_/http://www.gurunanakhealing.com/images/repo121_2.JPG",
+    "exit": 0,
+    "error": "",
+    "bytes": 122228,
+    "sha256": "646ff89696523dc9e666423b464f93c3c2c4d0605b71b3e7a085e4a2006c2f5c"
+  },
+  {
+    "file": "repo121_3.JPG",
+    "url": "https://web.archive.org/web/20080703id_/http://www.gurunanakhealing.com/images/repo121_3.JPG",
+    "exit": 0,
+    "error": "",
+    "bytes": 58464,
+    "sha256": "2c896672e64c1a2625d824f5faffd669c8cc725ee8dfe3dfc4f3a49b796bbe3f"
+  },
+  {
+    "file": "cavo-2002-trial-pubmed.html",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/12217805/",
+    "exit": 0,
+    "error": "",
+    "bytes": 5590,
+    "sha256": "3e3c6522af46ce15d2483405793f615495f79ac4df6e6c60c71e68f64246956f",
+    "status": "Short interstitial HTML, NOT acquired article/abstract; abstract inspected via web tool and summarized in assessment.txt"
+  },
+  {
+    "file": "riccardi-2003-trial-pubmed.html",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/12504655/",
+    "exit": 0,
+    "error": "",
+    "bytes": 5590,
+    "sha256": "1f856fe3de20ef9644b21d1cba734396515c599398c3f1339bf09b962d0c9c4e",
+    "status": "Short interstitial HTML, NOT acquired article/abstract; abstract inspected via web tool and summarized in assessment.txt"
+  },
+  {
+    "file": "imwg-response-criteria.html",
+    "url": "https://www.myeloma.org/resource-library/international-myeloma-working-group-imwg-uniform-response-criteria-multiple",
+    "exit": 0,
+    "error": "",
+    "bytes": 159299,
+    "sha256": "12cfd7ec456f0641a2388c6d02db5395b16420dcd2169400701a04b4c5a9aa65"
+  }
+]

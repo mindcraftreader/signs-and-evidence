@@ -1,0 +1,26 @@
+Fanti reply and attached blood paper: assessment, 28 October 2026
+
+Email translation:
+“Yes, progress—in the sense that, according to my findings, the Holy Shroud is selectively radioactive, and therefore the 1988 dating needs to take into account additional carbon-14 produced from nitrogen. See the attachment. Regards, GF.”
+
+Author: Giulio Fanti, Department of Industrial Engineering, University of Padua; mechanical and thermal measurements.
+Paper: New Insights on Blood Evidence from the Turin Shroud Consistent with Jesus Christ’s Tortures. Archives of Hematology Case Reports and Reviews 9(1), 001–015 (2024). DOI 10.17352/ahcrr.000044.
+
+Pages 4 and 11, including Figure 21, visually inspected. Full text extracted locally.
+
+What is measured:
+Section 6 explicitly calls its radiation investigation preliminary and not aimed at quantitative radiation measurement or distinguishing the radiation type. For GF-1HB-2 (material from the dorsal feet area, STuRP 1HB, 1978), an alpha/beta counter shows 903 beta-channel counts during 7000 seconds. The author attributes approximately 50% to the sample, 30% to supporting glass, with background accounting for the balance. He reports checking adhesive, oil and linen contributions. Alpha counts and possible gamma activity for that sample were masked by background. A separate Type B specimen gave gamma activity slightly over background; author calls for lower-background instrumentation. Controls are described: it would be inaccurate to say no controls were used.
+
+What is inferred:
+Fanti links radiation to historical neutron irradiation, including nitrogen-14 conversion to carbon-14. This is a real possible nuclear reaction, but the paper does not identify the beta emitter isotopically as carbon-14, quantify newly created carbon-14 in purified linen cellulose, or derive a corrected age for the 1988 sample. A nuclear mechanism for isotope production and evidence that it occurred on this cloth in the required amount are different propositions. This is separate from the younger repair-linen hypothesis.
+
+Important follow-up:
+Ask whether isotope-specific analysis establishes the source of the beta signal; request raw repeated sample/blank measurements, detector efficiency, geometry and uncertainty; ask for C14/C12 ratios from purified linen and their spatial correspondence with the 1988 corner; ask whether other activation products predicted by neutron exposure have been sought. New multi-location AMS dating would remain informative, even if a radiation hypothesis changes its interpretation.
+
+Related primary literature:
+Thomas J. Phillips, Harvard University High Energy Physics Laboratory, proposed neutron irradiation in Nature 337, 594 (1989), DOI 10.1038/337594a0. The accompanying reply by R. E. M. Hedges, Oxford Radiocarbon Accelerator Unit, considered nitrogen capture, dose, chemical pretreatment and spatial predictions. Their exchange establishes that this is a longstanding testable hypothesis, not a new confirmed correction. A reproduction of the correspondence was located; no original full-text Nature PDF was independently downloaded in this pass.
+
+Oxford Radiocarbon WebInfo explains the distinction between conventional radioactivity counting and isotope-selective accelerator mass spectrometry. General beta counts on an assembled microscope specimen are not themselves a corrected radiocarbon date.
+
+Assessment:
+A substantive experimental lead worth following up, but not yet a demonstrated invalidation or numerical correction of the 1988 date. The email does not report that his available fibers have now been AMS-dated.

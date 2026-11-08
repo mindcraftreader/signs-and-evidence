@@ -1,0 +1,60 @@
+HANGING-THREAD PIXEL AUDIT — 2 NOVEMBER 2026
+
+ANSWER
+
+In the same upper-shawl crop previously displayed, the fitted directions are approximately5 degrees left of image vertical when followed downward. Across12 retained brightness-ridge traces, the median is4.6 degrees and mean4.6 degrees. Most are around3–6 degrees, a few around6.5–8 degrees, and one short-segment fit is near zero but changes substantially with the window.
+
+This supports Daniel’s narrower visual objection: the selected group generally does not show the approximately10-degree coherent slant required by the tested ultra-wide/shift camera. The published calibration is closer to these pixel orientations on average. However, the group is not uniformly at the published camera’s1–2-degree prediction either. These measurements do not by themselves establish a complete camera calibration or a mathematical impossibility result.
+
+SOURCE AND ANGLE CONVENTION
+
+Source: ../../fatima-independent-photo-audit-20261102/sources/D115-commons.jpg (actual absolute path and SHA256 in thread-angle-measurements.json).
+Image:1669×1181pixels. Original unchanged. No6K original used.
+Coordinates: x increases right; y increases down. Positive angle means a line moves left as followed downward, measured relative to IMAGE vertical, not an independently known real-world plumb direction.
+ROI: x1270–1420; y508–542 in source pixels. The comparison image includes surrounding pixels for context.
+
+SELECTION AND METHOD
+
+1. Applied a modest Gaussian smoothing (sigma0.6pixels) and subtracted a horizontally blurred background (sigma2pixels). This isolates thin bright ridges; it does not generate historical detail.
+2. Searched straight-line orientations from−20 to+25degrees. Scored the trimmed mean of sampled ridge brightness along each line, removing the top and bottom10percent to reduce isolated crossings/noise.
+3. Retained12 strongest spatially separated candidate ridge paths in this crop, at least4pixels apart at their midpoint. Camera prediction angles did not enter the score. The search and candidate review were NOT blind to previous overlays.
+4. Refined each path locally while retaining feature identity by limiting its midpoint to±0.75pixels of its initial candidate. Marked every candidate on the source crop, sorted left to right.
+5. Repeated over20 combinations of mild smoothing/background subtraction and vertical segment windows. Reported the full range for every trace; not a statistical confidence interval or20 independent observations.
+
+The raw candidate figures were visually inspected. The upper-shawl fits follow visible thin strand-like ridges. An exploratory lower/right crop was rejected as unsuitable for this report because its automatic lines tracked umbrella/fabric edges and crossed features rather than a clear parallel tassel group. That exploratory data remains labeled candidate-only in candidate-ridges.json; it is not included in the12-strand statistics.
+
+SENSITIVITY AND LIMITS
+
+Two traces (T05 andT11) change by more than5degrees across the tested windows. This is a post-hoc descriptive flag, not a pre-registered exclusion. All12 remain in the main summary. The10 less-sensitive traces have a median5.2degrees, close to the approximate5-degree description. Some apparently straight upper sections bend or become obscured farther down.
+
+A one-pixel change in end-to-end lateral displacement across a34-pixel segment changes a small angle by approximately1.7degrees. This illustrates resolution sensitivity; it is not a calibrated±1.7-degree error bar. Optimizer decimal places and the0.25-degree initial search do not establish that physical precision.
+
+The traces overlap the underlying dress and may not all be freely hanging plumb lines. Some brightness ridges could include overlapping threads or fabric texture. Visibility alone does not establish their3D orientation. This is a measurement of visible image features, not an authentication of gravity verticals. It does not replicate Dalleur’s analysis of all three women’s clothing or the full6K image.
+
+MODEL COMPARISON
+
+At these actual midpoint locations, the published camera predicts approximately1.3–1.6degrees; the corrected5×7 ultra-wide solar-fit candidate predicts approximately9.6–11.0degrees.
+
+Against the12 primary pixel fits:
+• Published camera mean absolute angular discrepancy:3.39degrees; RMS3.84degrees.
+• Ultra-wide alternative mean absolute angular discrepancy:5.63degrees; RMS6.16degrees.
+
+These descriptive residuals treat each candidate as a straight visible ridge. They are not probabilities, confidence levels or a validated model-selection test, because physical verticality and the noise/deformation distribution have not been established. Neither model exactly matches the full measured group. The alternative has the larger discrepancy and is not demonstrated as a successful reconstruction.
+
+RELATION TO EARLIER ANSWERS
+
+The earlier1–2degree and9–11degree labels were CAMERA PREDICTIONS, not measured thread directions. This audit now supplies actual pixel-ridge direction estimates in the selected crop. The proper measured description is approximately5degrees, with spread and two unstable traces; it would be inaccurate to call the observed group uniformly1–2degrees or uniformly9–11degrees.
+
+Dalleur’s2021 paper printedp39 and footnote34 describe visual agreement of the right woman’s shawl with33–39mm equivalent focal lengths. This audit does not independently reproduce that focal interval. It tests a particular crop and explicitly specified alternative only.
+Paper: https://doi.org/10.12775/SetF.2021.001
+Source image record: https://commons.wikimedia.org/wiki/File:People_looking_miracle_sun.jpg
+
+No new tally point. The previously tested camera alternative remains unestablished as a rebuttal of the complete photographic argument.
+
+FILES
+
+measured-thread-directions.png — raw image and12 marked fitted segments, measurement/model table.
+thread-angle-measurements.json — complete data, source hash, method, all20 sensitivity fits per trace.
+thread-angle-measurements.csv — flat measurement table.
+../measure_thread_angles.py — reproducible analysis.
+../thread_orientation_probe.py — exploratory candidate selection, including rejected comparison region.

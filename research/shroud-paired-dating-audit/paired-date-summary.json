@@ -1,0 +1,16 @@
+{
+  "snapshot_date": "2026-10-27",
+  "study_doi": "10.3390/heritage2040171",
+  "n_studies": 1,
+  "n_pairs": 4,
+  "mean_absolute_difference_years": 40,
+  "median_absolute_difference_years": 25.0,
+  "minimum_absolute_difference_years": 0,
+  "maximum_absolute_difference_years": 110,
+  "mean_signed_difference_years": -20,
+  "rmse_years": 58.73670062235365,
+  "mean_reference_interval_width_years": 160,
+  "mean_alternative_interval_width_years": 602.5,
+  "overlapping_intervals": 4,
+  "precision_note": "Descriptive agreement in four selected reference checks, not a general accuracy guarantee or +/-40-year uncertainty. Dates and limits were rounded in the source. The source symmetrizes radiocarbon calendar intervals for comparison."
+}

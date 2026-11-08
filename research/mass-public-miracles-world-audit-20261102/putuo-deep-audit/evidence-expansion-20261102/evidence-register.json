@@ -1,0 +1,375 @@
+{
+  "date": "2026-11-02",
+  "scope": "Accessible-evidence collection for joint review, not a globally exhaustive archive search or a final supernatural verdict. No tally change.",
+  "sources": [
+    {
+      "id": "E01",
+      "title": "Phoenix Television: original interview transcript, five pages",
+      "date": "21 November 2007",
+      "role": "Abbot Jieren (戒忍), ceremony announcer and later whole-mountain abbot; broadcaster interviewer and narrator have separate voices.",
+      "url": "https://phtv.ifeng.com/program/whdgy/200711/1121_1624_306312_3.shtml",
+      "local": "sources/phoenix-original-page-4.html",
+      "summary": "Jieren describes a round cloud opening containing Guanyin’s head, looking downward. The narrator assigns more than twenty minutes to the whole display. Jieren attributes dragons and other heavenly figures to other observers. His account of Miaoshan’s 1994 vision says companions did not see it. These are different episodes; the earlier private vision is not a documented prediction of a public appearance in 1997.",
+      "read_scope": "All five original broadcaster transcript pages read; relevant pages 4–5 closely read. Actual Phoenix video not recovered. Later 2009/2010 reposts are the same interview, not additional witnesses.",
+      "source_family": "Jieren/Phoenix"
+    },
+    {
+      "id": "P04",
+      "title": "Tang Yixiong (唐毅雄): claimed eyewitness pilgrimage account",
+      "date": "Original composition/publication undetermined; dated repost 22 September 2013",
+      "role": "Named pilgrim traveling with a Putuo Magazine pilgrimage led by Gao Yanggang; no independent academic or medical credential established.",
+      "url": "https://www.buddha.twmail.cc/1-4/PutoMountain.htm",
+      "local": "../sources/tang-original-request.html",
+      "summary": "Tang reports a silver-white standing Guanyin in the sky as the ceremony began at 8:15, followed by pale pink lotuslike clouds. He describes several minutes and favorable weather, and estimates over ten thousand attendees. His conversation with a television cameraman is reported by Tang; the cameraman is unnamed and has no separately recovered statement.",
+      "read_scope": "Full account read in older linked webpage and 2013 repost. Two embedded YouTube videos now say unavailable. No first-edition print scan or original dated photograph identified.",
+      "source_family": "Tang"
+    },
+    {
+      "id": "P09",
+      "title": "Shen Renyan (沈仁岩): claimed eyewitness account",
+      "date": "Available repost: 28 March 2011; original publication date unknown",
+      "role": "Attributed to the Putuo Buddhist Institute; preserved on another person’s Sina blog.",
+      "url": "https://blog.sina.com.cn/s/blog_71bb3d5e0100qgts.html",
+      "local": "../sources/shen-renyan-eyewitness-reprint-20110328.html",
+      "summary": "Shen describes light from the southeastern sky illuminating the statue and gathering, colored rays and a circular opening, enthusiastic applause, tears and bows. He mentions press and television coverage and interviews, but the original news items remain missing. The attached 1996 essay concerns earlier episodes, not a prior announcement of the 1997 event.",
+      "read_scope": "Full relevant account and attached earlier essay read. Attribution to the Institute is the text’s own identification; reposting does not establish contemporaneous composition.",
+      "source_family": "Shen"
+    },
+    {
+      "id": "E02",
+      "title": "Guanyin Culture in Mount Putuo Region: Society of Zhejiang People, China",
+      "date": "2021; journal issue July, landing page versions August/September",
+      "role": "Zhang Jun, Pitak Noiwangkhang and Mateta Sirisuk; Faculty of Fine-Applied Arts and Cultural Science, Mahasarakham University, Thailand.",
+      "url": "https://tojqi.net/index.php/journal/article/view/4960",
+      "local": "sources/zhang-study-landing.html",
+      "summary": "This qualitative study quotes an account attributed to gazetteer author Wang Liansheng, from a tenth-anniversary publication: a seated Guanyin shape formed in colored clouds and appeared four times, with about one hundred nearby people including police. Original anniversary pages and the police statements are unrecovered. The study also reports that Miaoshan’s secretary Jing Min had not heard Miaoshan personally explain the statue project as prompted by an apparition. It identifies later books and additional 2003 appearance claims. It does not provide an optical experiment or authenticate footage.",
+      "read_scope": "Publisher landing/viewer pages saved. Web service supplied parsed PDF text: title/affiliations, relevant printed pages 7092–7102 and references read; not a full 27-page reading. Direct PDF downloads returned 404 and screenshot requests failed. No original PDF binary saved. See web-retrieval-log.json, entries putuo-study-claims-pages and putuo-study-bibliography. English translation quality is uneven, including a September/October date mismatch; original Chinese underlying texts are needed.",
+      "source_family": "Zhang study"
+    },
+    {
+      "id": "E03",
+      "title": "Zhoushan hometown newsletter, issue 221: a further named witness lead",
+      "date": "31 December 2023, verified colophon; filename says 25 December",
+      "role": "Tu Yihui (屠益輝), travel article author; reports a conversation with former association director Zhuang Mingkang (莊明康).",
+      "url": "https://joushan.org/wp-content/uploads/2024/01/%E8%88%9F%E5%B1%B1%E9%84%89%E8%A8%8A%E7%AC%AC221%E6%9C%9F%E5%85%A7%E6%96%87112.12.25%E7%B6%B2%E8%B7%AF%E5%B0%8F%E6%AA%94.pdf",
+      "local": "sources/zhoushan-newsletter-221-20231225.pdf",
+      "summary": "In a report of a November 2023 visit, Tu says Zhuang told the group he had been present and personally witnessed the 1997 miracle. No detailed description of his own visual experience is reproduced. The surrounding collective account is supplied by a guide. This is a named late witness lead, not five thousand collected depositions or a contemporaneous interview.",
+      "read_scope": "Original 40-page PDF saved. Printed pages 10, 15 and 40 inspected; page 15 contains the report, page 40 establishes issue date. Other pages only searched/skipped.",
+      "source_family": "Tu/Zhuang"
+    },
+    {
+      "id": "P01",
+      "title": "CCTV: 佛指名山 broadcaster text and official documentary player",
+      "date": "Broadcaster text 4 April 2006; educational archive page 30 July 2013",
+      "role": "CCTV director Nanfang (南方), camera credit Liu Xuecheng (刘学成); these credits do not identify the original 1997 camera operator.",
+      "url": "https://www.cntv.cn/program/zbzg/topic/geography/C15494/20060404/101830.shtml",
+      "local": "../sources/putuo-cctv-20060404.html",
+      "summary": "CCTV identifies its opening material as 1997 footage and describes strong sunlight through a cloud opening with congregational prostration. It reports differing perceptions, including flowers, colored clouds and Guanyin. Our paused sky samples show bright cloud openings; they do not resolve a detached luminous human body. The broadcast’s later statue imagery must not be mistaken for a filmed apparition.",
+      "read_scope": "Full broadcaster text read. Eleven screenshots sampled every five seconds from 1:00–1:50; additional earlier audit samples preserved. This is not uninterrupted viewing, motion tracking, calibrated photometry, or original-camera authentication. Raw remote video not downloaded.",
+      "source_family": "CCTV"
+    },
+    {
+      "id": "P07",
+      "title": "Putuo Buddhist Association: institutional history and ceremony photographs",
+      "date": "Retrospective uploaded 2021",
+      "role": "Institutional religious archive; original photographic negatives and camera metadata not recovered.",
+      "url": "https://zt.pusa123.com/zt/30093.html",
+      "local": "../sources/putuo-association-history.html",
+      "summary": "The relevant section identifies the ceremony, organizers and over five thousand participants. Five captioned ceremony photographs and the previously recovered press-clipping photograph are preserved. They document the ceremony and publicity; none has been established here as a photograph of an autonomous figure in the sky.",
+      "read_scope": "Relevant history section/captions and clipping image inspected. Rest skimmed. Five linked original-resolution JPEGs recovered in this pass.",
+      "source_family": "Association"
+    },
+    {
+      "id": "P10",
+      "title": "Zhoushan Municipal Gazetteer (1989–2005), volume lower 2",
+      "date": "Post-2005 compilation; precise edition not independently established",
+      "role": "Municipal historical compilation, rather than a scientific investigation or a named adversarial deposition.",
+      "url": "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web2476/site/attach/0/1-2jzzh-2/%E8%88%9F%E5%B1%B1%E5%B8%82%E5%BF%97%281989%E2%80%942005%EF%BC%89%E4%B8%8B%E5%8D%B72.pdf",
+      "local": null,
+      "summary": "Printed page 2334 describes light resembling white-robed Guanyin, lotuslike clouds, illumination of the statue, crowd response and a roughly ten-second phase. It leaves the cause open. Page 2333 cites Hong Kong Commercial Daily, 15 November 2003, for an October 14 nighttime display reportedly lasting about two hours. That newspaper issue itself has not been recovered.",
+      "read_scope": "Search-indexed relevant passages read. The corrected file title is 舟山市志, including 市. Corrected-URL binary download still returned 403; web opening reported an 18,197,000-byte file too large. Relevant pages not visually inspected; original PDF remains unrecovered.",
+      "source_family": "Municipal gazetteer"
+    },
+    {
+      "id": "E04",
+      "title": "Clearstream Monthly: 千島之城舟山行",
+      "date": "November 2012",
+      "role": "Ling Shunkang (凌順康), travel writer; magazine hosted by Taiwan’s Ministry of Justice Investigation Bureau.",
+      "url": "https://www.mjib.gov.tw/FileUploads/eBooks/97ea9b481a524b96ae12f2959b6b319d/Section_file/0aafd5a53c6044cca294f74d54631f20.pdf",
+      "local": "sources/taiwan-clearstream-201211.pdf",
+      "summary": "A travel account repeats the 1997 story as something said locally: an opening in dark clouds and gentle, moonlike sunlight seen by over five thousand people. It does not claim the author witnessed 1997 or supply scientific analysis. Government hosting does not turn a travel story into an official supernatural finding.",
+      "read_scope": "Original four-page PDF section saved; relevant third page rendered and inspected, fourth page read for surrounding context.",
+      "source_family": "Ling travel account"
+    },
+    {
+      "id": "E05",
+      "title": "Buddhistdoor: 觀音普陀山顯靈，不可思議！",
+      "date": "4 February 2021",
+      "role": "Yanran (演然), devotional commentator; expressly says not an eyewitness.",
+      "url": "https://www.buddhistdoor.org/mingkok/%E8%A7%80%E9%9F%B3%E6%99%AE%E9%99%80%E5%B1%B1%E9%A1%AF%E9%9D%88%E4%B8%8D%E5%8F%AF%E6%80%9D%E8%AD%B0/",
+      "local": null,
+      "summary": "The author supplies a purported Beijing Television narration describing an upper-body silhouette and lotus platform, then repeats Jieren’s interview. The assertion that unbelievers would also believe is rhetorical: it does not name a prior skeptic giving positive testimony. This is useful for tracing the video claim, with uncertain original broadcast provenance.",
+      "read_scope": "Full relevant article read through web service; raw download blocked 403. Parsed text saved in retrieval log. Quoted broadcast not independently matched to its original tape.",
+      "source_family": "Devotional/BTV attribution"
+    },
+    {
+      "id": "P11",
+      "title": "Meteorological Knowledge: 普陀山气象佳景",
+      "date": "2014, issue 6, starting printed page 72",
+      "role": "Lin Zhiguang (林之光), formerly a researcher and climate research division director at the Chinese Academy of Meteorological Sciences; 1959 Nanjing University meteorology graduate. Background verified in a 2014 China Science Daily interview and his 2017 first-person column (E06). Images credited to Zhang Encheng (张恩承).",
+      "url": "https://www.cdstm.cn/knowledge/kpwk/twdl/201504/P020160612554075675047.pdf",
+      "local": null,
+      "summary": "Indexed printed page 73 describes the 30 October 1997 ceremony: overcast skies and intermittent rain, then sunlight through a cloud opening lighting the statue as the ceremony began, lasting about twenty minutes. It gives roughly 4,000 attendees and says one person recorded the scene. This is a published ordinary-lighting description. The recovered passage supplies no independent camera authentication, optical measurements or test of the stronger detached-figure reports.",
+      "read_scope": "Indexed first page (printed 72) and relevant passage of printed 73 read. Original PDF still times out or redirects to a missing page; no full PDF or visual page inspection. Bibliographic issue date 2014 no.6 controls over search-engine upload dates. Description and expert background do not alone establish that every eyewitness claim has an ordinary cause.",
+      "source_family": "Meteorology lead"
+    },
+    {
+      "id": "E06",
+      "title": "Lin Zhiguang: institutional and educational background",
+      "date": "20 June 2014; first-person confirmation 16 June 2017",
+      "role": "Wang Qing, China Science Daily interviewer; Lin’s own later column.",
+      "url": "https://news.sciencenet.cn/sbhtmlnews/2014/6/288487.shtm",
+      "local": "sources/lin-zhiguang-profile-china-science-daily-20140620.html",
+      "summary": "The interview identifies Lin as a former Chinese Academy of Meteorological Sciences researcher and climate research division director. He graduated from Nanjing University in 1959 and edited China Meteorological News. This establishes the background of the author of P11; it adds no eyewitness to 1997.",
+      "read_scope": "Relevant biographical passages read; full HTML archived. A first-person 2017 column confirming his education and career is also archived as sources/lin-zhiguang-first-person-20170616.html.",
+      "source_family": "Lin background"
+    },
+    {
+      "id": "E07",
+      "title": "University of Hong Kong Libraries: newspaper holdings guide",
+      "date": "Updated November 2021",
+      "role": "Special Collections, University of Hong Kong Libraries; institutional holdings inventory.",
+      "url": "https://www.lib.hku.hk/sites/all/files/files/hkspc/pathfinders/HKnewspapers/newspaper_2020s_112021.pdf",
+      "local": "sources/hku-newspaper-holdings-202111.pdf",
+      "summary": "Row 11 lists Hong Kong Commercial Daily in WiseNews from 11 August 1998, and local microfilm only from October 1952 to December 1988, with gaps. The electronic date range includes the cited 2003 report; neither listed route establishes coverage of its 1997 issue. South China Morning Post’s listed ProQuest span includes 1997, offering a separate search route.",
+      "read_scope": "One-page original PDF saved and visually inspected. These are HKU’s November 2021 holdings statements, not proof of Akron subscription or current title-level access, nor confirmation that the target article exists.",
+      "source_family": "Archive access guide"
+    },
+    {
+      "id": "E08",
+      "title": "Academia Sinica: Hong Kong and Macau newspaper resources guide",
+      "date": "URL dated 20 January 2025; internal revision date unverified",
+      "role": "Library of the Institute of Taiwan History, Academia Sinica; institutional resource guide.",
+      "url": "https://hslib.sinica.edu.tw/upload/files/20250120082521_b90ea92ed9.pdf",
+      "local": "sources/sinica-hk-macau-newspaper-guide.pdf",
+      "summary": "The guide independently lists Hong Kong Commercial Daily coverage from August 1998 in WiseNews. It describes that service’s output as full text without page images. Recovering text there may answer what the article said while leaving its layout and photographs unresolved.",
+      "read_scope": "Original five-page PDF saved. Relevant first two pages read in parsed text; no claim that subscriber database was searched.",
+      "source_family": "Archive access guide"
+    },
+    {
+      "id": "E09",
+      "title": "Original anniversary volume: verified title and library holdings",
+      "date": "2007 publication; catalog inspected 2 November 2026",
+      "role": "Zhoushan City Library public catalog; editor Jieren (戒忍), Buddhist abbot and ceremony announcer.",
+      "url": "https://opac.zsodl.cn/NTRdrBookRetrInfo.do?recno=700101",
+      "local": "sources/anniversary-zhoushan-holdings-2007.txt",
+      "summary": "The catalog records 南海观音宝相开光十周年纪念特刊, edited by Jieren, 2007, 126 pages, 28 cm. It lists three Zhoushan City Library copies under B94/235 in its special local-history collection. Original contents and Wang Liansheng’s account remain unrecovered.",
+      "read_scope": "Both catalog records 278445 and 700101 inspected through browser UI. The first gives place 舟山 and publisher 普陀山 but no current holding; the second supplies three barcoded holdings. No original cover, title page or contents examined. Request for lawful excerpts sent after user approval.",
+      "source_family": "Anniversary-volume catalog"
+    },
+    {
+      "id": "E10",
+      "title": "Putuo Mountain Dictionary: verified 2015 catalog record",
+      "date": "2015 as cataloged; inspected 2 November 2026",
+      "role": "Zhoushan library network catalog; chief editor Wang Liansheng, compiling bodies Putuo scenic-area administration and Buddhist Association.",
+      "url": "https://opac.zsodl.cn/NTRdrBookRetrInfo.do?recno=916603",
+      "local": "sources/dictionary-zhoushan-catalog-2015.txt",
+      "summary": "Catalog verifies 普陀山大辞典, Huangshan Shushe, Hefei, 2015, ISBN 9787546127279, preliminary pagination 79 and 910 numbered pages. It lists a Daishan County Library local-history copy, K928.3-61/137. Pages 269–270 have been requested but not received.",
+      "read_scope": "Bibliographic details and listed copy read in UI. Other matching records have 2012 dates with the same ISBN; the original copyright page must resolve this inconsistency. A catalog record is not inspection of the original entries.",
+      "source_family": "Dictionary catalog"
+    }
+  ],
+  "claims": [
+    {
+      "id": "C01",
+      "claim": "A public consecration occurred on 30 October 1997.",
+      "sources": "P01, P07, P10",
+      "assessment": "Well-supported ceremony context. This does not alone authenticate an apparition."
+    },
+    {
+      "id": "C02",
+      "claim": "Thousands attended.",
+      "sources": "P07, P10; P04 has a larger estimate",
+      "assessment": "Attendance estimates are not independently collected observer reports."
+    },
+    {
+      "id": "C03",
+      "claim": "The light appeared at the announcement of the ceremony.",
+      "sources": "P01, P04, P09, E01",
+      "assessment": "Reported timing convergence; original synchronized clock/audio-camera evidence missing."
+    },
+    {
+      "id": "C04",
+      "claim": "A recognizable Guanyin was seen.",
+      "sources": "P04: standing; E01: head; E02: seated cloud figure",
+      "assessment": "Strong form claims are preserved. Determine how their visual descriptions compare with the images."
+    },
+    {
+      "id": "C05",
+      "claim": "Colored or lotuslike clouds accompanied the display.",
+      "sources": "P04, P09, P10",
+      "assessment": "Positive reports; color descriptions require original film and exposure context."
+    },
+    {
+      "id": "C06",
+      "claim": "A figure appeared in four directions.",
+      "sources": "E02 via Wang Liansheng",
+      "assessment": "A substantive additional claim with an unrecovered upstream anniversary source."
+    },
+    {
+      "id": "C07",
+      "claim": "Many nearby people, including police, saw it.",
+      "sources": "E02 via Wang Liansheng",
+      "assessment": "No individually identified police statements recovered; do not count this as adversarial attestation."
+    },
+    {
+      "id": "C08",
+      "claim": "The display lasted seconds or minutes.",
+      "sources": "P10, P04, E01",
+      "assessment": "Accounts differ. They may measure different phases; neither harmonization nor contradiction is established."
+    },
+    {
+      "id": "C09",
+      "claim": "Dragons, heavenly kings or other figures appeared.",
+      "sources": "E01",
+      "assessment": "Attributed by Jieren to other people, not separate recovered depositions."
+    },
+    {
+      "id": "C10",
+      "claim": "Camera footage captures the apparition.",
+      "sources": "P01/P02/P03; P04; E05",
+      "assessment": "Accessible archival sky samples show light/clouds. Tang’s camera operator is unnamed. Other clips need provenance."
+    },
+    {
+      "id": "C11",
+      "claim": "A public apparition was specifically promised before the event.",
+      "sources": "No qualifying prior record recovered",
+      "assessment": "The planned consecration and earlier private vision do not establish this additional claim."
+    },
+    {
+      "id": "C12",
+      "claim": "There were later public appearances.",
+      "sources": "E02; P10 for a 2003 newspaper citation",
+      "assessment": "Live leads, not disproved or authenticated here. It would be incorrect to say no repetitions were claimed."
+    },
+    {
+      "id": "C13",
+      "claim": "There is an independent contemporary newspaper apparition report.",
+      "sources": "P09 mentions reporting; P10 gives a 2003 citation",
+      "assessment": "No same-week 1997 article or original cited 2003 issue recovered in this pass."
+    },
+    {
+      "id": "C14",
+      "claim": "Ordinary sunlight/clouds explain the event.",
+      "sources": "Visible sky samples and light/cloud wording",
+      "assessment": "A case-specific candidate explaining the recorded appearance; not a proved reconstruction of every witness experience."
+    },
+    {
+      "id": "C15",
+      "claim": "It was a staged hoax.",
+      "sources": "No demonstrated construction recovered",
+      "assessment": "Not established. Incentives or later publicity alone do not demonstrate fraud."
+    },
+    {
+      "id": "C16",
+      "claim": "The evidence proves supernatural Buddhist vindication.",
+      "sources": "Interpretation advanced by positive sources",
+      "assessment": "Requires adjudicating the figure and timing claims. Neither broadcasting nor academic discussion settles agency."
+    }
+  ],
+  "upstream_leads": [
+    {
+      "priority": "Highest",
+      "title": "Wang Liansheng anniversary account",
+      "action": "Verified 2007 title 南海观音宝相开光十周年纪念特刊, edited by Jieren, 126 pages. Zhoushan City Library lists three copies, B94/235 (E09). Scan request sent; recover the original Wang account, its date and photographs."
+    },
+    {
+      "priority": "Highest",
+      "title": "Original 1997 camera material",
+      "action": "Identify camera operator, full tape, vantage point, exposure and independent angles; determine which documentary scenes are 1997 footage."
+    },
+    {
+      "priority": "High",
+      "title": "Original 1997 newspapers",
+      "action": "Follow Shen’s mention of People’s Daily, Zhejiang and Shanghai newspapers; distinguish ceremony publicity from reporter eyewitness testimony about an apparition."
+    },
+    {
+      "priority": "High",
+      "title": "Hong Kong Commercial Daily, 15 November 2003",
+      "action": "Recover original issue/story cited by the municipal gazetteer p.2333. Later citation describes a nighttime display on October 14, approximately 00:15–02:20."
+    },
+    {
+      "priority": "High",
+      "title": "Putuo Mountain Dictionary, Wang Liansheng, 2015",
+      "action": "Recover original pp.269–270 cited in E02 for later appearances; compare its dates and duration with the gazetteer rather than merging them."
+    },
+    {
+      "priority": "Medium",
+      "title": "Phoenix and purported Beijing Television videos",
+      "action": "Original Phoenix transcript is saved. Actual full Phoenix interview and alleged BTV program need recovery; repeated broadcasting of one tape is not an independent camera."
+    },
+    {
+      "priority": "Medium",
+      "title": "Witness original publications",
+      "action": "Date Tang and Shen’s original accounts; locate Zhuang Mingkang’s own detailed statement and any named police/cameraman testimony."
+    },
+    {
+      "priority": "Medium",
+      "title": "Weather and optical work",
+      "action": "Recover Lin Zhiguang’s full 2014 article and any event-specific study, weather log, or geometric image analysis."
+    },
+    {
+      "priority": "Separate claim",
+      "title": "Typhoon protection stories",
+      "action": "Mentioned in E02 and devotional sources. Logged for separate meteorological investigation; no supernatural or ordinary outcome adjudicated here."
+    },
+    {
+      "priority": "High",
+      "title": "Recover the 2003 article through a date-covered archive",
+      "action": "HKU’s guide identifies WiseNews Hong Kong Commercial Daily coverage from 11 August 1998. Search 15 November 2003 for 普陀山 / 佛光 / 觀音. Obtain text first; page-image availability needs a separate check. Akron access to this specific archive has not been established."
+    },
+    {
+      "priority": "Medium",
+      "title": "Check South China Morning Post for the 1997 week",
+      "action": "HKU lists a ProQuest archive span including 1997. Search 30 October–6 November 1997 for Putuo / Puto / Pu-tuo / Guanyin. No subscriber search has yet been completed, and absence from public web results is not evidence of no press coverage."
+    }
+  ],
+  "video_leads": [
+    {
+      "title": "Official CCTV-derived documentary",
+      "url": "https://xuexi.12371.cn/2013/07/30/VIDE1375153186123274.shtml",
+      "status": "Playable; sampled paused frames. Archive metadata gives 1557 seconds; visible player rounds to 26:00."
+    },
+    {
+      "title": "Tang embedded clip 1",
+      "url": "https://www.youtube.com/watch?v=U0nlESpEb30",
+      "status": "Checked in browser: video unavailable."
+    },
+    {
+      "title": "Tang embedded clip 2",
+      "url": "https://www.youtube.com/watch?v=q7ZPw23C2sA",
+      "status": "Checked in browser: video unavailable."
+    },
+    {
+      "title": "Phoenix interview repost lead",
+      "url": "http://www.56.com/u32/v_MjM3MDUyODU.html",
+      "status": "Referenced in P06. Not recovered/viewed."
+    },
+    {
+      "title": "Video cited by the 2021 paper",
+      "url": "https://www.iqiyi.com/v_1irua3tesso.html",
+      "status": "Not accessible through web retrieval; not viewed."
+    },
+    {
+      "title": "Tudou clip linked by 2017 repost",
+      "url": "http://video.tudou.com/v/XMTc4NzYzNTQwNA==.html",
+      "status": "Not accessible through web retrieval; not viewed."
+    },
+    {
+      "title": "Other linked 56.com clips",
+      "url": "http://www.56.com/u72/v_NTg0NjQ3OTc.html",
+      "status": "Also links ending v_NzIwOTY5MDI.html and v_NjQ4MjgxMjk.html; not viewed or authenticated."
+    }
+  ],
+  "followup_note": "Public-source follow-up: HKU’s November 2021 holdings guide lists Hong Kong Commercial Daily in WiseNews from 11 August 1998. This covers the cited 15 November 2003 item, but not October 1997. Subscriber access and the original article remain untested/unrecovered. Background control currently exposes only Chrome’s [profile omitted] profile, not the verified [email omitted] profile. Factiva requires campus access or the university VPN. No authenticated search or tally change is claimed."
+}

@@ -1,0 +1,205 @@
+[
+  {
+    "file": "sources/ajmer-ap-200203.html.challenge.html",
+    "url": "https://www.mrt.com/news/article/Apparition-Attracts-Thousands-7846886.php",
+    "retrieved": false,
+    "bytes": 3038,
+    "sha256": "32ed63159c77e21ee19ca1b9aa3213ccf0218eb59539560b132a8e68ef0e18ea",
+    "reading_scope": "Contemporary AP dispatch; mirror headerMarch28 differs from Friday in text; attendance not authenticated eyewitness total.",
+    "error": "HTTP200clientchallenge, notarticlecontent; article text read viawebresearchtool."
+  },
+  {
+    "file": "sources/ajmer-toi-20020329.html",
+    "url": "https://timesofindia.indiatimes.com/india/khwajas-reflection-at-chishti-shrine/articleshow/5201950.cms",
+    "retrieved": true,
+    "bytes": 296058,
+    "sha256": "c7681f1bc0c85fe3c24c28a6fa17885fca02b4df845abde845526551e21c0e27",
+    "reading_scope": "Contemporary report with named shrine worker and crowd estimate; not reporter claiming independent sighting.",
+    "error": null
+  },
+  {
+    "file": "sources/putuo-cctv-20060404.html",
+    "url": "https://www.cntv.cn/program/zbzg/topic/geography/C15494/20060404/101830.shtml",
+    "retrieved": true,
+    "bytes": 33504,
+    "sha256": "67d2736783b5901464cbe66a7bc2a1ee3c21ba8ca634d27cef083ab6da48eecf",
+    "reading_scope": "Broadcaster text read in full; references1997archival footage; footage not independently played.",
+    "error": null
+  },
+  {
+    "file": "sources/putuo-tang-eyewitness-reprint-20130922.html",
+    "url": "https://www.buddhist-experience.org/welcome/article_detail/560.html",
+    "retrieved": true,
+    "bytes": 29871,
+    "sha256": "1d9130a0dbd244f30e832d49468e8d6b32cb602642a55d5fc55431b12aeee1dc",
+    "reading_scope": "Named firsthand narrative;2013repost, original publication date unverified.",
+    "error": null
+  },
+  {
+    "file": "sources/putuo-jieren-interview-reprint-20100925.html",
+    "url": "https://www.fjdh.cn/article/2010/09/194114127676.html",
+    "retrieved": true,
+    "bytes": 22457,
+    "sha256": "6e66bc27ee15d76b66974cfa8194c58d8831edf686b72952d6013c5333fa82ef",
+    "reading_scope": "Substantive interview extract read; says sourcePhoenix2007; not original program independently watched.",
+    "error": null
+  },
+  {
+    "file": "sources/putuo-government-chronicle-page409.html.failed",
+    "url": "https://dfz.zj.gov.cn/zlyz/ossfs/h5/ZS-Z-330900-2005-001-0303/files/basic-html/page409.html",
+    "retrieved": false,
+    "bytes": 0,
+    "sha256": null,
+    "reading_scope": "Official local history reports consecration date and5000attendees; not5000separateapparitionstatements. Source text recovered viawebresearchtool, curldownloadfailed.",
+    "error": "curl: (22) The requested URL returned error: 404\n"
+  },
+  {
+    "file": "sources/putuo-association-history.html",
+    "url": "https://zt.pusa123.com/zt/30093.html",
+    "retrieved": true,
+    "bytes": 132430,
+    "sha256": "50ddcfb529274d9a9c76dc462f40a8f0a2f3cd43f6ca37e5386cdd99e8eb0bbf",
+    "reading_scope": "Association retrospective with event photographs and claims of media coverage; no same-week miracle clipping recovered.",
+    "error": null
+  },
+  {
+    "file": "sources/putuo-episode1-official-player.html",
+    "url": "https://xuexi.12371.cn/2013/07/30/VIDE1375153186123274.shtml",
+    "retrieved": true,
+    "bytes": 107886,
+    "sha256": "ca1528dfa9f310a12a8cc4e2d8c47346ec2e3e0ac585ea885af2da96eee4c3a7",
+    "reading_scope": "Official archive player page identified; content not independently watched.",
+    "error": null
+  },
+  {
+    "file": "sources/malaysia-puxian-testimonials.html",
+    "url": "https://puxianmalaysia.wordpress.com/testimonials/",
+    "retrieved": true,
+    "bytes": 126320,
+    "sha256": "6b49c25d2e1babcd1ed7cd0b158149f8dad38438ef9a4780debe1da7a917c8ca",
+    "reading_scope": "First-party site reproducesEpochTimes2011account citingGuangMingDaily; claim-report chain not multiple independent investigations.",
+    "error": null
+  },
+  {
+    "file": "sources/malaysia-statues-secretchina-20110323.html",
+    "url": "https://m.secretchina.com/news/gb/2011/03/23/amp396699.html",
+    "retrieved": true,
+    "bytes": 96968,
+    "sha256": "6259c6574679de677820ca6b42952b589b19075fe3165a3b2e1e2e5a56054d84",
+    "reading_scope": "Contemporaneous Chinese-language secondary report; not recovered originalGuangMingDailyarticle.",
+    "error": null
+  },
+  {
+    "file": "sources/malaysia-tan-book-publisher.html",
+    "url": "https://www.routledge.com/Buddhist-Revitalization-and-Chinese-Religions-in-Malaysia/Tan/p/book/9781003691990",
+    "retrieved": true,
+    "bytes": 166020,
+    "sha256": "bca64d881fe6e68460ccffb3e47f5746ad7838d45351cda93afbaca373dcae39",
+    "reading_scope": "Publisher verifies author/book; full chapter not recovered from publisher and not claimed read.",
+    "error": null
+  },
+  {
+    "file": "sources/sabarimala-indianexpress-20110426.html",
+    "url": "https://indianexpress.com/article/news-archive/web/makara-vilakku-at-sabarimala-manmade/",
+    "retrieved": true,
+    "bytes": 758707,
+    "sha256": "5420393211413215f2f1137ffe66ccc4e8ee2e931fe25ae4c25f18709dd3624d",
+    "reading_scope": "Contemporary court reporting on admission of human-lit ceremonial fire; not every star associated with festival.",
+    "error": null
+  },
+  {
+    "file": "sources/mahim-mpcb-report-index.html",
+    "url": "https://www.mpcb.gov.in/index.php/en/node/3275",
+    "retrieved": true,
+    "bytes": 67394,
+    "sha256": "afe420089bfc567800ede7d049cf039cf41286c1bcb3330874c0609998d92916",
+    "reading_scope": "Government index links investigationreport; website posting2019notoriginalreportdate.",
+    "error": null
+  },
+  {
+    "file": "sources/mahim-mpcb-report-2006.pdf.failed",
+    "url": "https://www.mpcb.gov.in/sites/default/files/mpcb_files/2019-06/MahimRep280806.pdf",
+    "retrieved": false,
+    "bytes": 0,
+    "sha256": null,
+    "reading_scope": "Primary investigationreport; read status to be updated after retrieval.",
+    "error": "curl: (22) The requested URL returned error: 404\n"
+  },
+  {
+    "file": "sources/mahim-rediff-20060819.html",
+    "url": "https://www.rediff.com/news/report/sea/20060819.htm",
+    "retrieved": true,
+    "bytes": 48719,
+    "sha256": "76b4053c73ae2e0b2fddebb7da71aba8486fffaf249a70aa72b1e74367c1de50",
+    "reading_scope": "Contemporary named-witness account, public samples and crowd; eventfreshwaterclaimnotapparition.",
+    "error": null
+  },
+  {
+    "file": "sources/mecca-ahram-20110722.html.failed",
+    "url": "https://www.ahram.org.eg/Investigations/News/97096.aspx",
+    "retrieved": false,
+    "bytes": 0,
+    "sha256": null,
+    "reading_scope": "ContemporaryArabicreportofviralvideo; notmasscrowdeyewitnessdocumentation. Webresearchtool supplied article text; curldownloadfailed.",
+    "error": "curl: (56) The requested URL returned error: 403\n"
+  },
+  {
+    "file": "sources/jain-toi-20141005.html",
+    "url": "https://timesofindia.indiatimes.com/city/delhi/miracle-draws-hundreds-of-visitors-to-jain-temple/articleshow/44368844.cms",
+    "retrieved": true,
+    "bytes": 265485,
+    "sha256": "32e4235229e5b73f712c717daf14e5a162f88d0b339c47356fd7ef065d7262e6",
+    "reading_scope": "Reportervisitedsiteafterstructurewascovered; namedclaimant; no controlledcause established.",
+    "error": null
+  },
+  {
+    "file": "sources/azusa-original-paper-index.html",
+    "url": "https://archives.ifphc.org/index.cfm?fuseaction=publicationsGuide.apostolicfaithazusa",
+    "retrieved": true,
+    "bytes": 14279,
+    "sha256": "2533472511680cb14c95236c22784ce607fddd22166c6bbe054c0dfc00817ba2",
+    "reading_scope": "Primarypublicationrepositoryindex, notfulloriginal13issuesreadinthispass.",
+    "error": null
+  },
+  {
+    "file": "sources/timor-christianitytoday-197303.html",
+    "url": "https://www.christianitytoday.com/1973/03/demythologizing-indonesias-revival/",
+    "retrieved": true,
+    "bytes": 322704,
+    "sha256": "ded743dc902b67748c416257723d6f45511c86ff931a7f0388ba904fa3acf54a",
+    "reading_scope": "Contemporary1973investigativecomparisonleadfor1965revival; fullarticleaccessnotassumed.",
+    "error": null
+  },
+  {
+    "file": "sources/zoroastrian-abc-20040713.html",
+    "url": "https://www.abc.net.au/news/2004-07-13/ghosts-heal-the-sick-at-sacred-iranian-shrine/2008708",
+    "retrieved": true,
+    "bytes": 325423,
+    "sha256": "b190a22f74351bc4755ef9e33ea1bbd82b73df6f4d1eff7b79df1c30ee8b17e9",
+    "reading_scope": "Contemporaryreport, namedpriest, personalhealingexcludedscope.",
+    "error": null
+  },
+  {
+    "file": "sources/japanese-shinreikyo-kokugakuin.html",
+    "url": "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9784",
+    "retrieved": true,
+    "bytes": 16441,
+    "sha256": "0908191b731bddddc8476dd4d7a0314b59cb75e02bdf2f465a46651b3e77750d",
+    "reading_scope": "Academicencyclopediaentry; individualbodilyclaimsscreenednotpublicmasssign.",
+    "error": null
+  },
+  {
+    "file": "sources/sayeedi-dailystar-20130304.html",
+    "url": "https://archive.thedailystar.net/newDesign/cache/cached-news-details-271242.html",
+    "retrieved": true,
+    "bytes": 33757,
+    "reading_scope": "Contemporaryfrontpagearticlebodyread;notsolelyreaderletter;HTMLsaved."
+  },
+  {
+    "file": "sources/putuo-cctv-official-player-metadata.json",
+    "url": "https://vdn.apps.cntv.cn/api/getHttpVideoInfo.do?pid=7634bed33ee74f91a3368d3e2b9ad09f",
+    "retrieved": true,
+    "bytes": 4697,
+    "reading_scope": "Officialmetadatarecovered;videoNOTplayed."
+  }
+]

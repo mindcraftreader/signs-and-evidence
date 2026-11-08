@@ -1,0 +1,90 @@
+{
+  "updated": "2026-10-31",
+  "records": [
+    {
+      "id": "M-HONESTY",
+      "complaint": "Maccari judged Pio evasive, withholding information and at times untruthful during the1960inquiry.",
+      "basis": "Luzzatto, printedpp386-387, quoting Maccari diary and report.",
+      "limit": "Investigator’s adverse assessment; underlying question-by-question proof of deliberate falsehood not reconstructed here."
+    },
+    {
+      "id": "M-BOUNDARIES",
+      "complaint": "Excessive influence of Cleonice Morcaldi, Tina Bellone and Caterina Telfner; tolerated physical affection and privileged access.",
+      "basis": "Luzzatto, printedpp388-390; Magister1999reproduction of Maccari1991interview.",
+      "limit": "Some testimony and observed conduct, with disputed moral interpretation; not equivalent to established sexual intercourse."
+    },
+    {
+      "id": "M-SEXUAL-ALLEGATION",
+      "complaint": "Elvira Serritelli reportedly claimed a sexual relationship with Pio in1922-1930 and alleged Morcaldi replaced her.",
+      "basis": "Luzzatto, printedp389, citing PositioIV,pp127-130.",
+      "limit": "Reported first-person allegation, not proven affair. Luzzatto says Maccari considered her self-accusation unreliable and suspended judgment on sexual relationships. We have not inspected her complete deposition or full canonization rebuttal."
+    },
+    {
+      "id": "M-CONFESSIONAL",
+      "complaint": "Maccari alleged loud speech and absent screening allowed favored women to overhear confession information and spread it.",
+      "basis": "Maccari1991interview as reproduced by Sandro Magister29April1999.",
+      "limit": "A substantive privacy/secrecy allegation requiring specific incidents and testimony; not a recovered established canonical verdict that Pio deliberately divulged a penitent’s sins."
+    },
+    {
+      "id": "M-COMMERCE",
+      "complaint": "Miracle publicity, images, publications, relic commerce and powerful lay administration formed an industry; Pio allegedly failed to restrain it and was not uninformed.",
+      "basis": "Maccari report quoted by Luzzatto, printedpp390-392;1991interview.",
+      "limit": "Institutional/disciplinary concerns do not establish personal enrichment, fabricated stigmata, or Pio’s knowing participation in any counterfeit relic. Chicken-blood claim in the interview lacks recovered underlying assay or incident documentation."
+    },
+    {
+      "id": "M-DISCIPLINE",
+      "complaint": "Insufficient conformity to religious discipline, excessive attachment to devotees and resistance to reforms of appointments, publicity and governance.",
+      "basis": "Luzzatto, printedp392, quoting Holy Office1960judgment and Maccari recommendations.",
+      "limit": "Distinguish disciplinary assessment from medical cause; retain Pio’s age/health and defenders’ explanations."
+    },
+    {
+      "id": "EARLY-MEDICAL",
+      "complaint": "Bignami proposed pathological lesions with possible chemical maintenance; Gemelli proposed a psychological/natural interpretation.",
+      "basis": "Published Bignami report in Di Flumeri; Vatican Radio2009historical summary for Gemelli’s lack of direct wound examination.",
+      "limit": "Hypotheses, not witnessed puncturing. Bignami did not establish straightforward deliberate simulation. Chemical challenge already adjudicated separately and not reopened merely by repetition."
+    }
+  ],
+  "sources": [
+    {
+      "id": "LUZZATTO",
+      "author_and_background": "Sergio Luzzatto, then University of Turin historian",
+      "file": "research/padre-pio-muse-audit-20261028/sources/luzzatto-french-author-proofs.pdf",
+      "pages": "printed386-392, notes486",
+      "type": "Archival historical study quoting primary reports and diary; originals not inspected"
+    },
+    {
+      "id": "MACCARI-INTERVIEW",
+      "author_and_background": "Carlo Maccari, former apostolic visitor and later Archbishop of Ancona-Osimo; interview reproduced by Vatican journalist Sandro Magister",
+      "url": "[private link omitted]",
+      "local_file": "sources/magister-1999-maccari-and-replies.html",
+      "original_reference": "Europeo,16August1991; not recovered",
+      "reproduction_date": "1999-04-29"
+    },
+    {
+      "id": "CAUSE-POSTULATOR",
+      "author_and_background": "Fr.Paolino Rossi, postulator general",
+      "url": "https://www.catholicculture.org/culture/library/view.cfm?recnum=1018",
+      "local_file": "research/pio-bandaging-audit-20261030/sources/postulator-process-account-1999.html",
+      "finding": "Both Maccari and Bortignon heard ex officio; website chronology errors require cross-check with official Vatican dates"
+    },
+    {
+      "id": "CAUSE-VIRTUES",
+      "author_and_background": "Congregation for the Causes of Saints",
+      "url": "https://www.vatican.va/roman_curia/congregations/csaints/documents/rc_con_csaints_doc_19990502_padre-pio_it.html",
+      "local_file": "research/pio-bandaging-audit-20261030/sources/vatican-virtues-decree.html"
+    },
+    {
+      "id": "CAMPANELLA-2010-SURVEILLANCE",
+      "author_and_background": "Stefano Campanella, director of TeleRadioPadrePio; article in Capuchin periodical Voce di PadrePio",
+      "url": "https://www.vocedipadrepio.com/files/2010_4_ita_3_1.pdf",
+      "local_file": "sources/campanella-2010-surveillance-and-testimony.pdf",
+      "printed_pages": "46-51,especially47-48andnotes51",
+      "finding": "Identifies Giustino’s formal cause testimony, other earlier concerned clerics and later regrets; includes precise Positio locators.",
+      "limits": "Church-side published reconstruction; whole original depositions remain uninspected. Distinguish formal witness, historical record, administrative investigation request and surveillance participation."
+    }
+  ],
+  "revision_notes": [
+    "2026-10-31: Qualify Maccari credibility statement as Luzzatto’s interpretation, not an inspected explicit ruling; see feminist-evidence-review.txt. Preserve original record wording for audit history."
+  ],
+  "feminist_review_sources": "primary-source-access-register.json"
+}

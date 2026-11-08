@@ -1,0 +1,74 @@
+[
+  {
+    "date": "1890",
+    "event": "Elvira birth",
+    "evidence_status": "Capuchin retrospective biography",
+    "sources": "S08"
+  },
+  {
+    "date": "1920",
+    "event": "Morcaldi meets Pio; about sixteen",
+    "evidence_status": "Shrine biography, not independently recovered meeting record",
+    "sources": "S07"
+  },
+  {
+    "date": "1921–1930",
+    "event": "Elvira’s devotional leadership",
+    "evidence_status": "Retrospective Capuchin account",
+    "sources": "S08"
+  },
+  {
+    "date": "1922–1930 (or 1921–1930)",
+    "event": "Alleged Elvira–Pio sexual relationship",
+    "evidence_status": "Allegation reported in later sources; not established fact",
+    "sources": "S01/S10"
+  },
+  {
+    "date": "1930–1968",
+    "event": "Morcaldi’s devotional leadership",
+    "evidence_status": "Retrospective Capuchin account; distinct from alleged sexual succession",
+    "sources": "S08"
+  },
+  {
+    "date": "1960",
+    "event": "Serritelli allegation taken up; surveillance and Maccari inquiry",
+    "evidence_status": "Multiple published accounts; complete original allegation not recovered",
+    "sources": "S01/S02/S10"
+  },
+  {
+    "date": "Easter 1962",
+    "event": "Morcaldi diary passage",
+    "evidence_status": "Published primary excerpt; autograph unchecked",
+    "sources": "S06"
+  },
+  {
+    "date": "1965",
+    "event": "Elvira death",
+    "evidence_status": "Retrospective Capuchin account",
+    "sources": "S08"
+  },
+  {
+    "date": "1987",
+    "event": "Morcaldi death",
+    "evidence_status": "Shrine biography",
+    "sources": "S07"
+  },
+  {
+    "date": "1983–1990 cause inquiry",
+    "event": "Adverse witnesses heard",
+    "evidence_status": "Postulator account, precise individual hearing dates not established here",
+    "sources": "S04"
+  },
+  {
+    "date": "1997",
+    "event": "Morcaldi diary edition; favorable virtues judgment",
+    "evidence_status": "Publication and official judgment are distinct records",
+    "sources": "S09/S05"
+  },
+  {
+    "date": "1999",
+    "event": "Public postulator replies and retrospective interview coverage",
+    "evidence_status": "Not a complete published adjudication",
+    "sources": "S03/S04"
+  }
+]

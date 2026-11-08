@@ -1,0 +1,227 @@
+ARGUMENT-THREAD AUDIT: FATIMA, ZEITOUN AND PADRE PIO
+28 October 2026
+
+Frozen 44-thread list previously supplied in this conversation, not an exhaustive count of every original assertion over all turns.
+One previously numbered argument thread; not one document, eyewitness, experiment or independent likelihood ratio.
+
+COUNTING RULES
+RETAINED: The narrow factual premise or reasoning point survives this conversation and audit. This is not proof of supernatural causation or an independent probability increment.
+QUALIFIED: A meaningful surviving thread whose stronger formulation, precision, causal reach, or evidential scope has been materially narrowed. Neither a complete win nor a complete defeat.
+UNRESOLVED: Required source-level investigation unfinished; not counted as established, false, or defeated.
+SET_ASIDE: Not relied upon under the current agreed evidential standard; not necessarily disproved.
+
+Important: retained and qualified classify the survival of premises/reasoning in our debate, not adjudicated miracle truth. The causal inference from each case and the combined theological conclusion remain disputed. No numerical posterior was calculated. The tally is sensitive to the chosen grouping of threads.
+
+COUNTS
+Fatima: {'retained': 8, 'qualified': 4}
+Zeitoun: {'retained': 5, 'qualified': 4}
+Pio core: {'retained': 4, 'qualified': 6}
+Pio additional: {'unresolved': 3, 'set_aside': 1}
+Cumulative: {'retained': 7, 'qualified': 2}
+Total: {'retained': 24, 'qualified': 16, 'unresolved': 3, 'set_aside': 1}
+
+Core case threads (1-31): 17 retained, 14 qualified, zero fully disproved threads in this defined inventory.
+Additional Pio (32-35): 3 unresolved, 1 set aside.
+Cumulative reasoning (36-44): 7 retained, 2 qualified.
+
+DETAILED LEDGER
+
+1. Fatima | RETAINED | Advance announcement
+Pre-event records preserve the promise of a public sign. Expectation is a counterargument about predictive weight, not a demonstration of retrospective invention.
+Local source: research/fatima-zeitoun-causal-article-20261028/fatima-audit/report.txt
+
+2. Fatima | RETAINED | Authentication purpose
+The announced sign was explicitly connected with belief in the Lady. This preserves the intentional-sign argument without deciding its cause.
+Local source: research/fatima-zeitoun-causal-article-20261028/fatima-audit/report.txt
+
+3. Fatima | RETAINED | Catholic religious content
+Mary, Rosary, repentance and Immaculate Heart give a specifically Catholic setting. Later recorded wording must not automatically be treated as a verbatim 1917 record.
+Local source: research/fatima-zeitoun-causal-article-20261028/fatima-audit/report.txt
+
+4. Fatima | RETAINED | Public scale
+Tens of thousands attended. Attendance is not a census of separately preserved observations; the public character does not depend on choosing 35000 versus 100000.
+Local source: research/fatima-zeitoun-causal-article-20261028/fatima-audit/report.txt
+
+5. Fatima | RETAINED | Contemporary outside journalism
+Almeida supplied contemporary firsthand reporting. This defeats a wholly late-invented-story account, without making his report an instrumental measurement.
+Local source: research/fatima-zeitoun-causal-article-20261028/fatima-audit/report.txt
+
+6. Fatima | RETAINED | Substantial documentary archive
+The critical documentary corpus is substantial and has scholarly oversight. Documents, eyewitnesses and independently confirmed miracle observations are different quantities.
+Local source: research/fatima-zeitoun-causal-article-20261028/fatima-audit/report.txt
+
+7. Fatima | QUALIFIED | Distant witnesses
+Distant reports survive. Their dates, directness and information channels vary; the recovered set is not measured convergent triangulation.
+Local source: research/fatima-zeitoun-causal-article-20261028/fatima-audit/report.txt
+
+8. Fatima | RETAINED | Variation is not automatic disproof
+A common external event need not produce identical descriptions. This does not make every difference immaterial.
+Local source: research/cumulative-disbelief-test-20261028/assessment.txt
+
+9. Fatima | QUALIFIED | Photographic source geometry
+The arithmetic reproduces Dalleur. The discrepancy is roughly 11-18 degrees, not the recalled 30 degrees; historical feature matching and joint uncertainty remain unresolved. No solar fit explaining all selected constraints was demonstrated.
+Local source: research/fatima-photo-analysis-20261027/research-report.txt
+
+10. Fatima | QUALIFIED | Rapid drying
+Rain and drying reports remain evidence. The photograph supplies neither a measured drying interval nor an independently measured anomalous energy transfer.
+Local source: research/fatima-photo-analysis-20261027/research-report.txt
+
+11. Fatima | QUALIFIED | Comfortable solar viewing
+Comfortable viewing is reported. There is no clinical census proving zero retinal injury, and experimental color afterimages do not universally require extreme or painful intensity. No full event reproduction follows from those experiments.
+Local source: research/fatima-zeitoun-causal-article-20261028/fatima-audit/report.txt
+
+12. Fatima | RETAINED | Historical case survives loss of photo argument
+The promise, public reporting and testimony do not disappear if the geometric inference fails.
+Local source: research/cumulative-disbelief-test-20261028/assessment.txt
+
+13. Zeitoun | RETAINED | Repeated reports over years
+Repeated reports in 1968-71 are preserved. This does not certify an exact audited register of 90 or 94 appearances.
+Local source: research/fatima-zeitoun-causal-article-20261028/zeitoun-audit/report.txt
+
+14. Zeitoun | RETAINED | Public access
+Accounts concern public phenomena above a church, not only one privately accessible visionary.
+Local source: research/fatima-zeitoun-causal-article-20261028/zeitoun-audit/report.txt
+
+15. Zeitoun | RETAINED | Cross-religious testimony
+Muslim and other non-Coptic testimony adds evidence beyond a closed devotional circle. Cross-religious does not necessarily mean no shared Marian expectation.
+Local source: research/fatima-zeitoun-causal-article-20261028/zeitoun-audit/report.txt
+
+16. Zeitoun | QUALIFIED | Articulated figure and gestures
+Early named reports describe a moving form and purposeful gestures. That testimony remains significant; a fully resolved external human figure and its agency have not been independently instrumentally established.
+Local source: research/fatima-zeitoun-causal-article-20261028/zeitoun-audit/report.txt
+
+17. Zeitoun | QUALIFIED | Birdlike lights and illumination
+These are reported associated features. Their physical identification, trajectories and causal relationship lack a completed independent measurement audit.
+Local source: research/fatima-zeitoun-causal-article-20261028/zeitoun-audit/report.txt
+
+18. Zeitoun | QUALIFIED | Lighting exclusions
+Local lights-out accounts survive. The roughly 5 km suburb-wide hours-long grid cutoff and exhaustive source exclusion were not validated.
+Local source: research/zeitoun-government-response-audit-20261028/validation-pass/decision.txt
+
+19. Zeitoun | RETAINED | Contemporary institutional investigation
+Identifiable civil and Coptic reports exist. Their existence is not an engineering exclusion of every artificial source.
+Local source: research/fatima-zeitoun-causal-article-20261028/zeitoun-audit/report.txt
+
+20. Zeitoun | RETAINED | Nelson is not a whole-case explanation
+Her record corroborates real light and some interpretive ambiguity. One corrected misidentification does not explain all prolonged articulated-form accounts.
+Local source: research/fatima-zeitoun-causal-article-20261028/zeitoun-audit/report.txt
+
+21. Zeitoun | QUALIFIED | Crowd scale
+Substantial crowds are supported. Peak estimates, cumulative visits, unique viewers and independently documented observations cannot be substituted for each other; one million unique direct observers remains unverified.
+Local source: research/zeitoun-government-response-audit-20261028/validation-pass/decision.txt
+
+22. Pio core | RETAINED | Long duration of bodily signs
+The approximately fifty-year history of reported stigmatic signs survives. This does not establish identical anatomy continuously measured for fifty years.
+Local source: research/cumulative-disbelief-test-20261028/assessment.txt
+
+23. Pio core | RETAINED | Named medical examination
+Named examiners and reports exist, with real disagreement about anatomy and cause. Not every named contributor examined all wounds.
+Local source: research/padre-pio-muse-audit-20261028/wound-witness-roster.txt
+
+24. Pio core | QUALIFIED | Eight-day bandaging observation
+Signed observation survives, but dressings were changed daily. It was not one untouched eight-day seal.
+Local source: research/cumulative-disbelief-test-20261028/assessment.txt
+
+25. Pio core | QUALIFIED | Infection and inflammation
+Minimal visible inflammation or pus remains reported. Sterility and absence of microscopic inflammation were not established; edema was reported.
+Local source: research/padre-pio-muse-audit-20261028/wounds-infection-and-scar-assessment.txt
+
+26. Pio core | QUALIFIED | Scarless disappearance
+Postmortem intact skin without visible scars is reported. Sites faded on different timelines; no histological demonstration settles earlier wound depth or complete deep regeneration.
+Local source: research/padre-pio-muse-audit-20261028/wounds-infection-and-scar-assessment.txt
+
+27. Pio core | QUALIFIED | Mass and Friday pattern
+The reported religious timing remains a thread. No audited continuous quantitative record establishes an exceptionless weekly pattern or measures its effect size.
+Local source: research/cumulative-disbelief-test-20261028/assessment.txt
+
+28. Pio core | RETAINED | Longitudinal fragrance reports
+The corpus extends across decades; reducing it to one cloth or one encounter was an inadequate response. This establishes breadth of reports, not a measured source.
+Local source: research/padre-pio-muse-audit-20261028/scope-of-scent-and-confession.txt
+
+29. Pio core | RETAINED | Different objects and settings
+Distinct objects, settings and distant-fragrance reports exist in the source map. Not every underlying original has been recovered and independently authenticated.
+Local source: research/padre-pio-muse-audit-20261028/scope-of-scent-and-confession.txt
+
+30. Pio core | QUALIFIED | Multiple or unsuspecting fragrance witnesses
+Festa supplies a concrete early thread; some other reports involve multiple people. Lack of uniform perception does not itself exclude ordinary odorants, and unsuspecting status is case-specific.
+Local source: research/padre-pio-muse-audit-20261028/scope-of-scent-and-confession.txt
+
+31. Pio core | QUALIFIED | Post-death fragrance
+Accounts survive. Provenance and physical source remain unestablished; no continuous measured multi-decade emission from one authenticated object is established.
+Local source: research/padre-pio-muse-audit-20261028/scope-of-scent-and-confession.txt
+
+32. Pio additional | UNRESOLVED | Confessional knowledge
+Several named source threads exist. The requested corpus-level verification and alternative information-channel audit are unfinished; neither fraud nor supernatural disclosure is established. Excluded from the reduced core by user instruction.
+Local source: research/padre-pio-muse-audit-20261028/scope-of-scent-and-confession.txt
+
+33. Pio additional | UNRESOLVED | Bilocation
+The original date/location/witness corpus has not been fully audited. Excluded from the reduced core, not disproved.
+Local source: research/cumulative-disbelief-test-20261028/assessment.txt
+
+34. Pio additional | UNRESOLVED | Healings
+The requested original clinical records are not fully assembled. Excluded from the reduced core, not disproved.
+Local source: research/cumulative-disbelief-test-20261028/assessment.txt
+
+35. Pio additional | SET_ASIDE | Extreme temperatures
+Set aside because instrumentation and documentation are insufficient for the extraordinary numerical claim. This is not a demonstrated fabricated measurement or a defeated stigmata/scent argument.
+Local source: research/padre-pio-muse-audit-20261028/fever-and-confession-count-clarification.txt
+
+36. Cumulative | RETAINED | Different phenomena need different explanatory work
+A visual account does not explain skin lesions. Neither side is required to posit a single physical mechanism for all cases.
+Local source: research/cumulative-disbelief-test-20261028/assessment.txt
+
+37. Cumulative | QUALIFIED | Common Christian meaning
+Christian intervention offers a positive purposeful explanation. Shared religious meaning is also compatible with religious interpretation of ordinary stimuli; this thread does not alone settle agency or every Christian doctrine.
+Local source: research/cumulative-disbelief-test-20261028/assessment.txt
+
+38. Cumulative | RETAINED | Explicit authentication at Fatima
+Fatima has an explicit announced-sign structure. Zeitoun and Pio add different corroborative strands rather than three identical predictions.
+Local source: research/cumulative-disbelief-test-20261028/assessment.txt
+
+39. Cumulative | RETAINED | Outside corroboration matters
+Nondevotional and cross-religious testimony contributes evidence; credentials or identities alone decide neither cause nor truth.
+Local source: research/cumulative-disbelief-test-20261028/assessment.txt
+
+40. Cumulative | QUALIFIED | Cross-tradition comparison
+No equally documented counterpart to the entire combination was established in the bounded search. Global absence across all religions and metaphysical frameworks was not proved. Genuine modern comparators exist and require assessment.
+Local source: research/comparative-public-miracles-20261028/assessment.txt
+
+41. Cumulative | RETAINED | Evidence can accumulate
+A logical possibility does not reset evidence to zero. Correlated or shared-source material must not be multiplied as independent experiments.
+Local source: research/cumulative-disbelief-test-20261028/assessment.txt
+
+42. Cumulative | RETAINED | One explained component is not the whole case
+Afterimages, a misidentification or ordinary odor adaptation do not by themselves explain all admitted features.
+Local source: research/cumulative-disbelief-test-20261028/assessment.txt
+
+43. Cumulative | RETAINED | Falsification is independent of replacement
+A demonstrated evidential failure can defeat an inference without a complete replacement account. Naming an unmeasured possibility is not such a demonstration.
+Local source: research/cumulative-disbelief-test-20261028/assessment.txt
+
+44. Cumulative | RETAINED | Supernatural explanation is eligible
+Christian supernatural intervention must be assessed on evidence and explanatory fit; it is not excluded by definition. Eligibility is distinct from having established that it is true.
+Local source: research/cumulative-disbelief-test-20261028/assessment.txt
+
+EARLIER STRONGER FORMULATIONS: NOT ADDITIONAL SCORED THREADS
+The inventory already contains revised claims. A full historical win/loss score would also need every original assertion and response, not just these endpoints. In particular:
+- Five stronger Zeitoun government details were withheld: suburb-wide hours-long grid cutoff; forty officers every night; every nearby rooftop/balcony searched; Nasser personally witnessing and confirming; discounted government land sale. They are unvalidated, not proved false. These overlap with threads18-19 rather than adding five independent defeats.
+- Crowd size or cumulative visits were not validated as millions of independently documented observations, nor as an audited million unique direct viewers. This is a substantive correction of scope, already represented in thread21.
+- The recalled Fatima angular discrepancy was corrected; arithmetic replication does not supply an independently calibrated historical-photo uncertainty distribution. Already represented in thread9.
+- The untouched eight-day Pio seal, zero microscopic inflammation and simultaneous final-days closure of all wounds were not sustained as stated. Already represented in threads24-26.
+- Global religious uniqueness was not established; bounded non-discovery is the surviving comparative result. Already represented in thread40.
+
+ASSISTANT COUNTERARGUMENTS: THEIR REACH
+- Expectation and directed solar attention, with experimental support for ordinary color adaptation: substantive component-level Fatima account; not a full reproduction of rotation/descent, physical illumination or drying.
+- Nelson documented some actual interpretive ambiguity and a corrected misidentification: substantive episode-level evidence, not an explanation of all Zeitoun appearances or of their physical light source.
+- Disagreement about wound depth and timing, together with ordinary odor adaptation and perceptual variation: substantive limits on precise Pio impossibility arguments; no identified cause of the full stigmata-plus-scent record.
+- Dependency, testimony-versus-measurement and bounded comparative-search limits: substantive constraints on cumulative inference, not measurements of the probability of Christian intervention.
+
+FULL-CASE OUTCOME
+No comprehensive skeptical defeat of any of the three complete admitted cases was established by the assessed local research. No overall proof of Christian supernatural causation was established by this tally either. Failure to refute is not the same as positive verification; the retained positive evidence must still carry the inference.
+
+LOCAL BASIS
+This is a fresh classification of existing local audits and the frozen conversational inventory. No new web search or comprehensive rereading of all original documents was performed during this tally. Subsidiary source URLs and researcher credentials are available in the linked local audits.
+
+
+LIVE TALLY UPDATE — 28 OCTOBER 2026
+The categories above describe evidential qualifications, not concessions obtained from Daniel. Current explicit review: Daniel1successful defense; assistant0successful challenges;1open. F-01failed-prophecy objection not sustained; Fatima thread remains standing. P-01scarless-regeneration challenge remains open. Canonical current tally: research/argument-thread-audit-20261028/live-debate-tally.txt

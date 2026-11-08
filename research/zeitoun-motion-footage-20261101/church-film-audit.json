@@ -1,0 +1,107 @@
+{
+  "date": "2026-11-01",
+  "source_page": "https://stmaryztn.org/saintmary/ar/قصة-الظهور/فيديو-الظهور/أفلام-عن-الظهور",
+  "total_files": 8,
+  "total_duration_seconds": 3110.346,
+  "method": "Visual inspection of 627 frames sampled every five seconds across all eight files; additional shot-change candidates found by roughly half-second decoding samples and visually inspected; targeted one-second sequences inspected. This is systematic sampling, not a claim of uninterrupted normal-speed viewing or exhaustive original-film authentication.",
+  "conclusion": "No authenticated moving apparition recovered in this pass. This does not establish that no original footage was ever made or survives elsewhere.",
+  "transcript_limits": "Local faster-whisper base transcripts are unverified finding aids. English has recognisable transcription errors. Arabic is especially unreliable; radio_1_ar failed quality review. Empty output for app_story and mrcls does not prove absence of speech.",
+  "videos": [
+    {
+      "id": "bishop_gregory_ar_2",
+      "title": "Egyptian documentary",
+      "url": "https://stmaryztn.org/saintmary/images/church/media/bishop_gregory_ar_2.mp4",
+      "duration_seconds": 169.982,
+      "sha256": "574437bf9948aeadfc4fbb6470dd9231d0b50c3f2246b62edd481be08f6cf486",
+      "bytes": 8436631,
+      "visual_assessment": "Church exterior/interior, Bishop Gregorios, clergy and crowds. The night roof segment around 00:30–00:40 shows the architecture; no identifiable moving Marian figure established. Original production date/reel custody unresolved.",
+      "inspected_five_second_frames": 34,
+      "inspected_additional_cut_candidates": 18,
+      "authenticated_motion_footage_of_figure_recovered": false
+    },
+    {
+      "id": "pope_shenouda",
+      "title": "Pope Shenouda III narration",
+      "url": "https://stmaryztn.org/saintmary/images/church/media/pope_shenouda.mp4",
+      "duration_seconds": 120.156,
+      "sha256": "c1dfd8c797d736e2e68cd93c00b430fbaccb72c08b8d67ca4a11b14b48783d49",
+      "bytes": 1327799,
+      "visual_assessment": "Newspaper and church-image montage. No identifiable motion sequence of the apparition established.",
+      "inspected_five_second_frames": 25,
+      "inspected_additional_cut_candidates": 1,
+      "authenticated_motion_footage_of_figure_recovered": false
+    },
+    {
+      "id": "radio_1_ar",
+      "title": "From the Heart of the Event / radio interview",
+      "url": "https://stmaryztn.org/saintmary/images/church/media/radio_1_ar.mp4",
+      "duration_seconds": 650.876,
+      "sha256": "1a9856b04e68dc07761eb45ccdd56bcdf53fe0b5dbaace2ef2b798424a122aa8",
+      "bytes": 13160116,
+      "visual_assessment": "Later church-produced compilation, with 2008 credits, historical audio, newspaper scans, photographs, and moving images of clergy/crowds. The opening text attributes the historical recordings to Egyptian radio in 1968. This is not an original television master or proof that its images accompanied the original audio.",
+      "inspected_five_second_frames": 131,
+      "inspected_additional_cut_candidates": 52,
+      "authenticated_motion_footage_of_figure_recovered": false
+    },
+    {
+      "id": "ancient_pro_stmaryztn",
+      "title": "U.S. television film",
+      "url": "https://stmaryztn.org/saintmary/images/church/media/ancient_pro_stmaryztn.mp4",
+      "duration_seconds": 510.02,
+      "sha256": "6ab4e28d75b9c449d06e7888a41459fff297b8c95e9d6f230c47c0fc7404b05a",
+      "bytes": 13845374,
+      "visual_assessment": "Interviews, photographs, illustrations and dramatic reenactments. At about 02:04–02:07 an illustrated figure appears over a fixed church photograph; this is an apparent illustrative overlay, not authenticated 1968 motion footage. Around 04:35–06:00, staged bedroom/healing scenes must not be mistaken for original event recording.",
+      "inspected_five_second_frames": 103,
+      "inspected_additional_cut_candidates": 49,
+      "authenticated_motion_footage_of_figure_recovered": false
+    },
+    {
+      "id": "fox_stmaryztn",
+      "title": "U.S. television program",
+      "url": "https://stmaryztn.org/saintmary/images/church/media/fox_stmaryztn.mp4",
+      "duration_seconds": 146.748,
+      "sha256": "fe605284ec52e8e27385e5fa2bb90a961e0ffcc7b285aa77e7245ec1a4e1c238",
+      "bytes": 3594175,
+      "visual_assessment": "Later interviews with Khairy Malek and physicist John Jackson, church scenes, newspaper images and pans/zooms across familiar still photographs. The English automated finding aid at about 00:59 explicitly introduces photographs. The filename does not link this later programme to the proposed 1968 Fox production.",
+      "inspected_five_second_frames": 30,
+      "inspected_additional_cut_candidates": 36,
+      "authenticated_motion_footage_of_figure_recovered": false
+    },
+    {
+      "id": "app_story",
+      "title": "The Apparition Story",
+      "url": "https://stmaryztn.org/saintmary/images/church/media/app_story.mp4",
+      "duration_seconds": 601.468,
+      "sha256": "0a5c5710ea24e079fbc1a63ab161eacbc72e491c340015575604dc8fd0c63227",
+      "bytes": 10641175,
+      "visual_assessment": "Edited slide presentation: Arabic text, photographs, paintings, color changes, fades and decorative animation. No original moving figure established.",
+      "inspected_five_second_frames": 121,
+      "inspected_additional_cut_candidates": 26,
+      "authenticated_motion_footage_of_figure_recovered": false
+    },
+    {
+      "id": "mrcls",
+      "title": "The Apparition Miracles",
+      "url": "https://stmaryztn.org/saintmary/images/church/media/mrcls.mp4",
+      "duration_seconds": 612.604,
+      "sha256": "b9d07eb8727350991a5587634f4fa610b57707ff0bc14eaf4aa388e62508cc68",
+      "bytes": 12705555,
+      "visual_assessment": "Edited presentation of healing claims, clippings, photographs, religious artwork and effects. No original moving figure established. This audit does not assess the healing claims.",
+      "inspected_five_second_frames": 123,
+      "inspected_additional_cut_candidates": 45,
+      "authenticated_motion_footage_of_figure_recovered": false
+    },
+    {
+      "id": "app_old_ar",
+      "title": "The Apparition and Miracles",
+      "url": "https://stmaryztn.org/saintmary/images/church/media/app_old_ar.mp4",
+      "duration_seconds": 298.492,
+      "sha256": "ab883f62c77462f36d00727125902432ed40e40620c6e8be5ee5e1f1e14aedd0",
+      "bytes": 8870210,
+      "visual_assessment": "Later interview compilation with archival photographs, illustrations, and pans/zooms. The bird images around 03:55–04:15 and luminous figures around 04:20–04:58 are presented as still-image sequences; no authenticated motion capture established.",
+      "inspected_five_second_frames": 60,
+      "inspected_additional_cut_candidates": 9,
+      "authenticated_motion_footage_of_figure_recovered": false
+    }
+  ]
+}

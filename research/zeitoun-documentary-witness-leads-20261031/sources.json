@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Watani: preparations for the fortieth anniversary of the apparition",
+    "url": "https://www.wataninet.com/2001/01/من‏-‏غرفة‏-‏الإعداد‏-‏للاحتفال‏/",
+    "finding": "Indexed article quotes supervising church priest Bishoy Fayek Youssef: recordings with ten metropolitans/bishops, fourteen priests and about260 men/women who witnessed the appearances. Names completed documentary projects My Story with the Virgin(two parts) and My Church(three parts).",
+    "verification": "Search-indexed article passages recovered; direct web opening cache miss. URL year2001 conflicts with fortieth-anniversary context(2008); do not assign publication date from URL.",
+    "limits": "Institution-reported collection size, not260 interviews independently inspected. Religion breakdown, raw interview availability, recording dates and identities not yet established."
+  },
+  {
+    "title": "Al-Watan: Italian film delegation begins Zeitoun documentary work",
+    "url": "https://www.elwatannews.com/news/details/8322208",
+    "date": "2026-07-18",
+    "finding": "Mariam Sherif reports Ensemble3.0Film delegation interviewing priests and contemporary witnesses and collecting historical material. Names producer Umberto Angeloni and director Paolo Carino as transliterated in Arabic report.",
+    "verification": "Full article opened and read.",
+    "limits": "Production-stage report, no verified release date or finished title. No Muslim-witness breakdown given."
+  },
+  {
+    "title": "Church documentary archive",
+    "url": "https://ourladyofzeitoun.com/en/videos/",
+    "finding": "Lists My Story with the Virgin(parts1–3), The Appearance Is Real, testimony by papal committee member Father Benjamin Kamel, and other eyewitness programs.",
+    "verification": "Search-indexed collection listing; direct web fetch403.",
+    "limits": "Listing verified; individual videos not watched in this pass."
+  },
+  {
+    "title": "Church eyewitness podcast",
+    "url": "https://ourladyofzeitoun.com/ar/بودكاست/",
+    "finding": "Lists witness interviews, including Father Boutros Boutros Gayed, described as seeing the appearance aged11, and Father Boulos Naim.",
+    "verification": "Search-indexed listing; direct fetch403.",
+    "limits": "Need individual-video transcripts, interview dates and source provenance."
+  },
+  {
+    "title": "Older official church film listing",
+    "url": "https://www.stmaryztn.org/saintmary/index.php?Itemid=353&catid=11:apparition-videos&id=1326:apparition-videos&lang=en&option=com_content&view=article",
+    "finding": "Lists translated Egyptian documentary,1968radiointerview,U.S.film,U.S.TVprogram,andTheEyewitnesses.",
+    "limits": "Titles listed; production dates and interviewee identities not yet checked."
+  }
+]

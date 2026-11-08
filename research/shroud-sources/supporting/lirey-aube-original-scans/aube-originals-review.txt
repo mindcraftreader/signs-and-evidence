@@ -1,0 +1,12 @@
+ARCHIVES DE L’AUBE — ORIGINAL-SCAN ACCESS
+Reviewed27October2026
+Official page: https://www.archives-aube.fr/page-testlirey
+
+Using the live in-app browser, inspected the catalogue and opened9G1(69images) andI17(16images). Saved the currently observed first-image previews through the browser pageAssets facility. These are previews, not a complete downloaded fonds or a new diplomatic transcription. The collection ranges include medieval and later documents; a first image is not independently dated merely by the folder label.
+
+9G1 first image: https://www.archives-aube.fr/page-testlirey?arko_default_63f3858cbf7be--ficheFocus=#/_recherche-api/visionneuse-infos/arko_default_63f3858cbf7be/arko_fiche_63f38b0739975/arko_default_640203a9ad753/image/106121
+I17 first image: https://www.archives-aube.fr/page-testlirey?arko_default_63f3858cbf7be--ficheFocus=#/_recherche-api/visionneuse-infos/arko_default_63f3858cbf7be/arko_fiche_63f38b0734fda/arko_default_640203a9ad753/image/106118
+
+The I17 foundation is described by the official inventory as20June1353; its medieval Latin needs a full-resolution scan and edition collation for a complete translation. No claim is made to have independently read every word or all85images. The readable1314French translations in the companion report come from the Dehaisnes printed edition and were checked on its page images.
+
+Image rights: © Archives départementales de l’Aube; original source retained.

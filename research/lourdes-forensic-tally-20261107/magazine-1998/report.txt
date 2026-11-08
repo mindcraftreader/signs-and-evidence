@@ -1,0 +1,133 @@
+LOURDES FORENSIC TALLY
+Calendar year 1998 · public source audit · 7 November 2026
+
+GRADE COUNTS FOR RECOVERIES DATED TO 1998
+
+Solid before/after, fast recovery               0
+Solid before/after, slow or staged recovery     0
+Mid tier                                        0
+Claim with limited accessible medical evidence  0
+Total located in the sources searched           0
+
+The calendar year is the year of the reported physical recovery. Reports
+with a name withheld are eligible if the event can be distinguished and
+dated. The dates of declaration, examination, publication, and Church
+recognition are separate. The public search found no qualifying report.
+The number of declarations made to the Bureau in 1998 and the number of
+reported recoveries that occurred in 1998 remain unknown.
+
+PUBLIC SOURCE COVERAGE
+
+Screened the Sanctuary's Lourdes Magazine nos. 68–77 (all ten 1998
+issues) and nos. 78–87 (all ten 1999 issues) for medical reports, case
+follow-up, pilgrim testimony, and letters. Used text extracted from the
+scans, checked case dates in context, and visually checked Walko's
+1997 and 1998 chronology on the scan. No. 70 announces Patrick
+Theillier's appointment; no. 77 contains his invitation to share healing
+testimonies. The magazine reports cases selectively. Its approximate
+6,500 declarations in no. 81, p. 37, are cumulative.
+https://lourdes.centredoc.fr/index.php?lvl=notice_display&id=20387
+https://lourdes.centredoc.fr/doc_num.php?explnum_id=5509#page=8
+https://lourdes.centredoc.fr/doc_num.php?explnum_id=5523#page=3
+
+The Sanctuary catalogue lists the Bulletin de l'Association Médicale
+Internationale de Lourdes, nos. 261–264 for 1998 and 265–268 for 1999.
+The issue records had no linked public scans. The 1998 Bureau register
+and a year-specific intake table were not located. François, Sternberg
+and Fee's archive-based table 2 groups 461 files opened, 65 Bureau
+reviews and 40 committee submissions across 1991–2006. None of
+these figures gives the 1998 intake or a recovery-year denominator.
+https://lourdes.centredoc.fr/index.php?lvl=notice_display&id=16684
+https://pmc.ncbi.nlm.nih.gov/articles/PMC3854941/#T2
+
+sources/issue-inventory.json gives each catalogue record, available PDF
+and local text filename. Supplementary searches covered French, English,
+Italian, Spanish and German reports, Bureau publications, and the 2008
+committee announcement with cases from the 1990s and 2000s.
+
+RECOVERIES FROM OTHER YEARS WITH 1998 BUREAU ACTIVITY
+
+• Jean-Pierre Bély — reported recovery 9 October 1987; Bureau
+  declaration in 1988; International Medical Committee reviewed the
+  dossier in November 1998; Bishop Claude Dagens issued his decree on
+  9 February 1999. The 1998 decision is a review date. Bély is already
+  in the main forensic tally under 1987.
+  Lourdes Magazine no. 76, November 1998, PDF pp. 14–18.
+  https://lourdes.centredoc.fr/doc_num.php?explnum_id=5521#page=14
+  https://eglise.catholique.fr/espace-presse/communiques-de-presse/369147-miracle-a-lourdes/
+
+• Dorothy Walko — on 7 May 1997, reportedly stood and walked near the
+  grotto after a bath; a witness helped interpret at the Bureau the
+  same day and wrote on 7 June. On 20 May 1998 Theillier met with the
+  doctors who had examined her; they recalled unexpected flexibility.
+  He requested the treating physician's clinical records and reported
+  receiving no reply. Walko's daughter wrote that her mother could still
+  walk before her death on 5 February 1998. This is a dated 1997 report
+  with a witness and a same-day post-event exam described in retrospect.
+  Lourdes Magazine no. 81, May 1999, pp. 35–37, PDF pp. 21–22.
+  https://lourdes.centredoc.fr/doc_num.php?explnum_id=5839#page=21
+
+• Roxane D. — reported return of hearing in Canada in 1993 while her
+  grandparents were on pilgrimage. Theillier dates the Bureau report
+  to 4 October 1993 and reproduces a letter he received from her mother
+  in August 1998. He later stated that the case never received an
+  in-depth investigation. The mother described a repeat hearing exam;
+  the public accounts do not reproduce paired audiology records.
+  Lourdes Magazine no. 81, May 1999, p. 35, PDF p. 21.
+  https://lourdes.centredoc.fr/doc_num.php?explnum_id=5839#page=21
+  https://dokumen.pub/et-si-on-parlait-des-miracles-2001-2856168280.html
+
+• Célestine Sabbe — reported recovery on 22 June 1958; the Bureau
+  account describes an exam the next day and later follow-up. Theillier
+  revisited the file after Dr Robert Côte approached him in June 1998.
+  This also supplies the date missing in the 1960 audit's discussion
+  of Sabbe's 1961 committee review. The committee found no demonstrated
+  organic lesion.
+  Lourdes Magazine no. 78, January 1999, pp. 36–37, PDF pp. 22–23.
+  https://lourdes.centredoc.fr/doc_num.php?explnum_id=5525#page=22
+  https://lourdes.centredoc.fr/doc_num.php?explnum_id=15543#page=1
+
+• Louise Creton — wrote in 1933 that she recovered the ability to walk
+  at home after a fall, while her parents prayed at Lourdes. Her daughter
+  contacted the Bureau in 1998. The Sanctuary archive accepted the
+  family's ex-voto in 2000. Notermans and Jansen describe the original
+  letters and the deposit record in Material Religion 7, pp. 184–186.
+  https://www.researchgate.net/publication/266949123_Ex-votos_in_lourdes_contested_materiality_of_miraculous_healings
+
+OTHER DATE CHECKS
+
+• Nicolas — the March–April 1998 issue prints a retrospective account of
+  recovery after traumatic coma and rehabilitation, with prayer at Lourdes.
+  The underlying appeal appears in March–April 1997. The account places
+  the accident around All Saints before that appeal and the rehabilitation
+  through the following June, supporting recovery in 1997 rather than 1998.
+  https://lourdes.centredoc.fr/doc_num.php?explnum_id=5509#page=24
+  https://lourdes.centredoc.fr/doc_num.php?explnum_id=5489#page=20
+
+• Maryvonne Cochet — the August 1998 issue reports the tenth anniversary
+  of her claimed 15 August 1988 recovery from polyarthritis.
+  https://lourdes.centredoc.fr/doc_num.php?explnum_id=5517#page=8
+
+• Jeanne Frétel and Maddalena Carini — a fiftieth anniversary and an
+  obituary, respectively, in 1998. Both reported recoveries were in 1948.
+  https://www.ladepeche.fr/article/1998/10/09/185375-la-miraculee-temoigne.html
+  https://lourdes.centredoc.fr/doc_num.php?explnum_id=5511#page=22
+
+• Molli Cassetty — the 30 January 1998 Criterion reported plans to visit
+  Lourdes while seriously ill; the April obituary records her death on
+  30 March. No subsequent recovery at Lourdes was reported in these items.
+  https://www.archindy.org/criterion/files/1998/pdfs/19980130.pdf#page=21
+  https://www.archindy.org/criterion/files/1998/pdfs/19980410.pdf
+
+• Five cases reported as medically remarkable on 1 December 2008 — the
+  contemporary Zenit account gives 2002 for Serge François and 2004 for
+  three others. It dates Mme M.'s lymphoma to 1992 but gives no recovery
+  year. A later summary places the leukemia about a year after the lymphoma
+  and reports about 15 years without recurrence, which suggests an earlier
+  date than 1998 without fixing it. The recovery year remains unassigned.
+  https://services.catholique.org/bonus/22315-lourdes-le-bureau-medical-observe-cinq
+  https://pdfcoffee.com/le-paranormal-demystifie-par-la-science-pdf-free.html
+
+The main case tally gains no 1998 rows. The public sources identify
+1998 activity without establishing the size or contents of the year's
+full Bureau intake. The medical bulletin and register are the main gaps.

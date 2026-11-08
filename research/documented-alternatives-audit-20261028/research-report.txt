@@ -1,0 +1,137 @@
+DOCUMENTED ALTERNATIVES: FATIMA, ZEITOUN AND PADRE PIO
+Research assessment, 28 October 2026
+
+STATUS AND STANDARD
+This is a record of six candidate challenges, not six victories or six adequate ordinary explanations. Several challenge only a particular inference. They must not be counted as six demonstrated defeaters of Daniel's core cases. The requested threshold of six well-supported core challenges has not yet been reached. The existing tally remains Daniel 4, assistant 0. No closed objection is silently reopened.
+
+The question is whether a documented ordinary mechanism or a substantive source problem explains or undercuts an important part of the retained evidence. Generic possibility, imperfect recordkeeping, and failure to prove a mechanism are not automatically evidence that the event was ordinary. Conversely, a sincere description of an extraordinary experience is not by itself a controlled identification of its cause.
+
+Falsification does not require providing a complete replacement account. A narrow successful criticism nevertheless defeats only what it actually addresses.
+
+1. FATIMA: A CONTEMPORARY WITNESS REPORTS REPRODUCING COLORS AND ROTATION
+Readiness: substantial new evidence for a bounded challenge; not a full explanation.
+
+Primary evidence: Domingos Pinto Coelho, a Catholic lawyer and activist, wrote in A Ordem on 16 October 1917 that he attended the Cova, saw striking solar effects, and then saw the same successive colors and rotation again while observing the Sun partially obscured by clouds. DCF III-1, document 97, printed pp.261-264. The Portuguese transcription and printed p.263 scan were checked. The 17 October follow-up, document 109, says he was not categorically denying a miracle.
+
+This is stronger than simply asserting that crowds are suggestible: a participant reports a subsequent comparison involving two of the relevant visual features. It makes ordinary solar perception an evidentially grounded candidate for those features. He explicitly describes colors and rotation in the repeat; the text does not explicitly establish repetition of the entire terrifying descent. It is one observer's comparison, not a controlled or instrumented replication. The repeat date is inconsistent between the articles: the first implies 15 October, the follow-up says Sunday, which would be 14 October. Retain this discrepancy.
+
+Clinical comparison: ophthalmologists Monique Hope-Ross, Stephen Travers and David Mooney, at the Research Foundation of the Royal Victoria Eye and Ear Hospital, Dublin, published four patients with solar retinopathy following religious practices. One Medjugorje patient reported a dancing Sun changing from orange to black to white. This demonstrates a partially similar experience associated with actual sungazing, not a reproduction of Fatima's public event. DOI 10.1136/bjo.72.12.931. The abstract and accessible case extract were checked; the publisher/PMC PDF requests returned HTML, and no valid local full PDF was obtained.
+
+Best response: Ethan Muse discusses Coelho explicitly in It Wasn't the Sun, section 5.3. He invokes historian Costa Brochado's political reading and another comparison in which Maria de Jesus Raposo distinguished later solar effects from 13 October. This deserves an answer. It does not independently measure the similarity of Coelho's two experiences. Equally, Coelho's judgment cannot establish that everyone else's full experience was the same as his.
+
+What remains: the advance appointment, Almeida's testimony, the full reported motion and distant accounts. This candidate does not restore the previously defeated generic crowd-priming explanation as an adequate full account.
+
+Sources:
+https://fatima-1917.com/pt/d/iii-1-97
+https://fatima-1917.com/pt/d/iii-1-109
+https://doi.org/10.1136/bjo.72.12.931
+https://motivacredibilitatis.substack.com/p/it-wasnt-the-sun
+Local: sources/coelho-1917-doc-97.txt; sources/coelho-1917-doc-109.txt; sources/coelho-doc97-printed263.webp
+
+2. ZEITOUN: AN ORIGINAL NEWSPAPER REPORTS DIFFERENT PERCEPTIONS BY PAIRED OBSERVERS
+Readiness: substantial new source-based challenge to uniform recognition of a physical figure; incomplete as a causal account.
+
+Watani, 5 May 1968, p.2, in the column on spiritual receptivity, reports an unnamed priest's statement about twins standing together on 9 April: one saw a complete figure, the other only a faint ray. The actual Arabic scan was checked. The modern English archive paraphrase omits the date. This is not merely Cynthia Nelson's later anthropological interpretation.
+
+The report supports a contemporary concern that recognition of a complete person was affected by the observer. That is relevant to distinguishing shared illumination from shared perception of an objectively delineated woman. However, the twins are unnamed; their precise positions, sightlines, eyesight and observation durations are not recorded. Their accounts are relayed through a priest, not separately interviewed. It is not a controlled experiment, and ordinary occlusion or a selective supernatural appearance cannot be excluded by this short report.
+
+Strong positive counterweight: the same newspaper corpus preserves sustained figure observations by the ecclesiastical committee, Bishop Athanasius and other witnesses. Athanasius's 2:45-5 a.m. account is genuinely printed in the Arabic. Reports of form, movement and purposeful gestures cannot simply be discarded because other observers saw less. Daniel does not require everyone to see the same thing, so variability alone is not a contradiction of his position.
+
+Additional photographic finding: Watani, 5 May, p.1, refused a proffered apparition photo as not representing reality. This proves a contemporary problem with at least one circulated image, and editorial discrimination. It does not identify the photo, prove all photos false, or explain the reported roof appearances. The archive wrapper omits this item. Sadiq Jalal al-Azm's contemporary critique cites both items; his broader conclusion of mass psychology goes beyond what these two items establish.
+
+Local source resource:
+../zeitoun-arabic-press-reconstruction-20261028/index.html
+../zeitoun-arabic-press-reconstruction-20261028/testimony-register.json (ZT-061 and ZT-062)
+../zeitoun-arabic-press-reconstruction-20261028/crops/watani-19680505-p2-twins-candidate.png
+../zeitoun-arabic-press-reconstruction-20261028/crops/watani-19680505-p1-bottom.png
+Al-Azm chapter metadata: https://doi.org/10.1017/9783940924452.006
+
+3. PIO: CHEMICAL APPLICATION IS DOCUMENTED; THE CONTROLS HAVE TO BE ANSWERED
+Readiness: a genuine causal hypothesis with relevant evidence, not an established diagnosis; extends the already open P-02.
+
+Father Paolino's favorable memoir explicitly says Pio used phenol to clean the lesions and stop bleeding. Thus a chemically active substance at the wound sites is in the supporting record itself. Paolino also explicitly says medicines, especially phenol, were removed before the eight-day sealed-dressing observation and that the seals remained intact. Both statements must be retained. It is improper to use this memoir to prove phenol application while dismissing its control account without a reason.
+
+The earlier short statement names removal of iodine. Its brevity does not prove phenol remained available. Festa's chemical tests were directed at iodine; a correction about what those tests excluded is not itself proof of deliberate wound maintenance.
+
+The same collection, document 30, printed pp.92-95, contains Father Giuseppe Maria da Sarezzano's later, indirect allegation that seals had been broken, attributed to Father Pietro d'Ischitella. This conflicts with the positive control testimony. The editor notes lack of confirmation in the earlier statement and Paolino's memoir. It cannot be treated as established tampering, nor omitted from a balanced account.
+
+Clinical comparison: dermatologists Sandhiya Ramesh, Shrutakirthi Damodar Shenoi and Sudhir U. K. Nayak of Kasturba Medical College, Manipal, reported prolonged drainage and healing after surgical phenol procedures. Eight days without closure is therefore not a universal exclusion of prior chemical injury. These were toe operations, not Pio's hand lesions; drainage is not equivalent to unchanged bleeding wounds. The study does not reproduce decades of persistence, the entire medical sequence, fragrance or the scarless endpoint.
+
+What is still needed: a coherent fit to the joint medical record, not isolated explanations of one examination. I have not established that Pio inflicted or maintained his wounds. No tally point is awarded for the clinical analogy.
+
+Primary compilation: https://www.imagomundi.biz/wp-content/uploads/2025/04/PBSO37-Le_stigmate_di_Padre_Pio_da_Pietrelcina-Gerardo_di_Flumeri.pdf
+Clinical study: https://doi.org/10.4103/JCAS.JCAS_183_19
+Local primary: ../padre-pio-muse-audit-20261028/sources/di-flumeri-stigmate.pdf
+Prior joint analysis: ../pio-stigmata-medical-deep-dive-20261028/consolidated-medical-analysis.txt
+
+4. PIO FRAGRANCE: ORDINARY PERCEPTION CAN BE INTERMITTENT, SELECTIVE AND SINCERE
+Readiness: defensible challenge to categorical exclusion of ordinary odor/perception; no identified cause for the whole Pio corpus.
+
+Pamela Dalton and Charles Wysocki, Monell Chemical Senses Center, experimentally studied two weeks of home odor exposure with laboratory psychophysics. They found odor-specific reductions in sensitivity and perceived intensity, sometimes persisting two weeks after exposure ceased. This undercuts the inference that a continuously present chemical source must be continuously perceived. It does not explain every reportedly distant or posthumous fragrance.
+
+Michael O'Mahony of UC Davis's Food Science and Technology Department reported television/radio smell suggestion: people reported odors in response to cues, including a silent condition described as ultrasonic. The abstract supports an ordinary route to sincere remotely cued reports; it does not show that Pio's witnesses underwent this procedure. Full article not obtained.
+
+Agnieszka Sabiniewicz of TU Dresden's Smell & Taste center and the University of Wroclaw, with colleagues, studied 90 healthy volunteers in virtual scenes with rose odor, orange odor or clean air. The full paper reports odor perceptions even without supplied odor and discusses expectation. It is a limited experimental analogue, not a diagnosis of Pio's observers.
+
+Best positive counterweight: Romanelli reportedly noticed fragrance before knowing the claim. Festa's transported cloth was reportedly noticed by people unaware of it, and Rossi reports his own experience. An explanation based entirely on informed believers' expectations does not answer these accounts. Physical odor retention and suggestion are candidates; no demonstrated source, supply chain or chemical match has been recovered. 'He needed hundreds of litres' is not an established mass-balance calculation, but disproving that estimate would not disprove the experiences.
+
+Sources:
+https://pubmed.ncbi.nlm.nih.gov/8710455/
+https://doi.org/10.1093/chemse/3.2.183
+https://pmc.ncbi.nlm.nih.gov/articles/PMC8020408/
+https://motivacredibilitatis.substack.com/p/st-pio-of-pietrelcina
+Local full VR article: sources/phantom-odors-vr-2021.html
+
+5. FATIMA GEOGRAPHY: REGIONAL TESTIMONY IS NOT A MEASURED CONVERGENCE
+Readiness: a defensible limit on a specific geometric inference; not new evidence that remote reports were ordinary.
+
+The existing map contains eight reports at seven localities, approximately 13-157 km from the Cova. The two contemporary letters are indirect accounts. Richer later reports retain important experiences but often lack exact observation stations and measured bearings. Some report colors and rotation without a falling direction. The Minde account supplies qualitative movement toward Fatima, not several independently measured intersecting rays. Settlement coordinates cannot be substituted for recorded 1917 observing positions.
+
+Consequently the map does not establish a triangulated emitter over the Cova. A shared Sun/sky stimulus with perceptual effects remains geometrically possible; I have not established that it accounts for the reported regional sequence. Geographical separation remains real evidence against a purely Cova-contained crowd account. It does not become worthless because it is not triangulation.
+
+This is a qualification of 'converging directions', not a victory over the remote-witness component as a whole and not a reopening of F-02 by relabeling priming. It cannot count as an adequate ordinary explanation or as a freshly won core challenge.
+
+Primary examples:
+https://fatima-1917.com/pt/d/iii-1-79
+https://fatima-1917.com/pt/d/iii-1-319
+Local full register and limitations: ../fatima-distant-witness-geography-20261028/research-report.txt
+../fatima-distant-witness-geography-20261028/coordinate-register.json
+
+6. PIO'S SELF-REPORTS: LITERARY BORROWING CAN PRODUCE APPARENTLY INDEPENDENT DIVINE SPEECH
+Readiness: substantive evidence about certain first-person locutions; peripheral to Daniel's narrowed stigmata-and-scent case. Do not count this as defeating the medical evidence.
+
+Jesuit Giandomenico Mucci, writing in La Civilta Cattolica in 2003, acknowledges extensive uncredited borrowing in ten Pio letters of 1911-13 from Gemma Galgani's letters and ecstasies. He interprets it as spiritual identification, not plagiarism. Only his publisher's abstract was read, not the full eight pages.
+
+Academic semiotician Francesco Galofaro's chapter in the 2019 volume edited with Jenny Ponzo, associated with the University of Turin's CIRCe/NeMoSanctI research, discusses this borrowing and its devotional/educational genre. The full chapter was obtained and read. It explicitly resists treating borrowing as proof of fraud.
+
+A primary comparison is nevertheless important: Gemma's October 1900 letter to Bishop Volpi and Pio's letter 111 of 29 December 1912 share the sequence of asking Jesus for increased love and suffering, hearing that love is shown through suffering first in spirit then in body, and not understanding the words. That is more specific than generic Catholic language. Literary memory, devotional identification or composition can affect an apparently personal supernatural communication without doctors being accomplices.
+
+The Vatican clergy library's Gemma transcription was checked. The published Pio Epistolario transcription was read through its accessible web cache; no autograph image was obtained. Pio's 2 May 1912 request for Gemma's book does not explicitly say he had never read it. A stronger allegation of a proven lie on that point is not sustained. Galofaro's footnote appears to attribute the quoted passage to an earlier letter, while the checked Epistolario gives it under 29 December 1912; flag rather than silently repeat that discrepancy.
+
+Limit: this is not proof that Pio invented the underlying experience, a general diagnosis of dishonesty, or an explanation of the wounds observed by doctors. Daniel has explicitly narrowed his core to externally observed stigmata and fragrance, so this is background evidence about source interpretation, not a sixth core defeat.
+
+Sources:
+https://www.laciviltacattolica.it/articolo/santa-gemma-galgani-e-san-pio-da-pietrelcina-plagio-o-identificazione/
+https://iris.unito.it/retrieve/e27ce42f-29a1-2581-e053-d805fe0acbaa/semiotica-e-santita-nemosancti-circe-2019.pdf
+https://www.clerus.org/bibliaclerusonline/it/f0c.htm
+https://doczz.net/doc/1339659/epistolario---volume-1
+Local: sources/ponzo-galofaro-2019.pdf; sources/gemma-volpi-late-1900.html
+
+OTHER LEADS SCREENED AND NOT PROMOTED TO EXPLANATIONS
+* Hematidrosis: medically observed bleeding through intact skin exists. It is not a demonstrated explanation of Pio's sustained lesions. Mechanisms remain partly uncertain.
+* Other stigmata cases: some documented fabrications and some unresolved clinical cases exist. Neither class diagnoses Pio by analogy.
+* Hypnotically generated wounds: modern negative experiments prevent presenting this as a well-established reproduction of persistent stigmata.
+* Earthquake lights at Zeitoun: a correlation hypothesis does not demonstrate the reported figure, location, movement and purposeful gestures.
+* General political incentives in 1967-68 Egypt: context for amplification, not evidence that witnesses saw nothing or that the government manufactured the figure.
+* One rejected photo: not proof that all surviving photographs are fraudulent.
+* A witness still wet at 10 p.m., DCF document 359: relevant against universal instant-drying claims, but later rewetting is not excluded and Daniel does not require universal drying. Not a core point.
+* Orione, individual healing and extreme-fever corrections: not promoted against claims Daniel did not make central.
+
+OVERALL FINDING
+The strongest new challenges are the contemporary Coelho comparison and the Arabic paired-observer report. The chemical and odor routes have actual evidence and important unresolved counterevidence. The geographical and literary findings constrain particular inferences. None of this has yet established an adequate ordinary explanation of all three events, or that disbelief is better supported overall. It also does not establish supernatural agency by default. The proper next discussion is a bounded test of the strongest evidence, starting with Coelho, while retaining the strongest positive evidence and Muse's response.
+
+ACCESS NOTE
+Sources/ contains original PDFs, HTML, transcriptions, page images and Arabic machine OCR. OCR is a finding aid, not a verified translation of every page. Some full papers remain unobtained. HTML returned in response to two PDF requests has been renamed as HTML and is not counted as an acquired PDF. The newspaper resource contains 62 entries, 30 scan-checked and 32 translation leads, not 62 independent verified apparitions.
+
+SECOND-PASS UPDATE, 28 OCTOBER 2026
+The initial readiness assessment above is retained as a first-pass snapshot. See six-arguments-for-discussion.txt for six formulated, bounded arguments, now including checked pre-October evidence. Six arguments are ready for discussion; this does not mean six core defeaters or six adequate ordinary explanations have been established. Borrowing from Gemma is not counted among the six. No tally change.

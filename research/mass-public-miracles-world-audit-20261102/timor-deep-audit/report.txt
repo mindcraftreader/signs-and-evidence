@@ -1,0 +1,46 @@
+SOE / WEST TIMOR REVIVAL — CHURCH-FIRE SOURCE AUDIT
+Research date: 2 November 2026
+
+RESULT
+The 26 September 1965 revival is documented as a religious movement. The specific external, non-consuming church-fire story has not been independently established by this pass. The clearest recovered firsthand narrative is Mel Tari's Like a Mighty Wind, copyright 1971, as told to Cliff Dudley. The downloaded copy is a later printing which lists the first printing as November 1971. A scholarly quotation of Tari is not an additional eyewitness. No named bell-ringer, signed police statement, dispatch/fire log, same-week newspaper account, or authenticated photograph/film of that fire was recovered. Do not convert this negative retrieval result into a claim that such documents cannot exist.
+
+No tally automatically awarded or changed in this report. The eight earlier comparative decisions remain separate from this new investigation.
+
+WHAT TARI ACTUALLY SAYS
+Chapter 2, 'A Mighty Wind,' downloaded edition pp. 26-29: approximately 200 people were praying. Tari reports hearing a rushing sound and a fire bell. He attributes the alarm to an unnamed man at the police station across the street who saw the church on fire. Townspeople came with water buckets, saw flames, and found the building was not burning. Tari interprets this as God's fire and connects it to conversions and Spirit baptism.
+
+Precision matters: this is Tari's account ABOUT the man at the station, not a recovered statement BY that man. His quoted passage does not name him, give a sworn interview, establish his religion or initial skepticism, or state a measured duration/temperature. The approximately 200 is attendance in Tari's narrative, not 200 collected independent signed descriptions. Tari explicitly says they had no fire trucks and describes a village bucket response. References to a verified professional fire brigade would exceed this passage.
+
+EARLIER PRESS RECOVERED
+Christianity Today, 7 July 1967, 'Indonesia: It Sounds like Revival': describes conversions, mission activity, reported healings and miracles across Indonesia. Its literal text does not report the Soe church-fire episode. The expression 'fanning the flames of the revival' is metaphorical here, not independent physical-fire evidence.
+Christianity Today, 22 December 1967, 'Indonesia: Turmoil amid Revival': covers conversions, religious/political tensions, and evangelism. No specific Soe external church-fire account appears in the inspected article.
+These are roughly two years after the revival began, not same-day or same-week eyewitness dispatches. They support the historical movement without independently documenting the particular flame phenomenon. They also show it would be inaccurate to say no reporting whatsoever preceded Tari's book.
+
+SCHOLARSHIP AND SOURCE DEPENDENCE
+Gani Wiyono, 'Timor Revival: A Historical Study of the Great Twentieth-Century Revival in Indonesia,' Asian Journal of Pentecostal Studies 4/2 (2001), pp. 269-293. Inspected the beginning-of-revival section, miracle discussion and relevant footnotes, with the full article text extracted locally. At p. 281 the fire narrative is explicitly quoted from Tari; footnote 42 cites Like a Mighty Wind. Other named participants and pastoral interviews in this paper support accounts of the revival and other claimed experiences, but are not a recovered separate bell-ringer statement. The paper is sympathetic to the miraculous interpretation; publication in an academic journal does not add an independent observation of the fire.
+The article's 'September 26, 1995' at p. 281 is an apparent typo within an account consistently concerning 1965. Do not manufacture a second event from it.
+The preceding alleged prophecy concerns evangelistic teams spreading across the island; the recovered wording does not predict a dated, externally visible non-burning church fire. A pre-event manuscript of that prophecy was not recovered.
+
+Kurt E. Koch, The Revival in Indonesia, online transcription: the section on the birth of the first team, dated 26 September 1965, discusses repentance and mission teams without the bell/fire episode in that particular passage. Elsewhere he reports other flames and miracles. This omission is not a disproof of Tari and those other episodes must not be merged with Tari's church-fire claim. Koch sometimes uses pseudonyms (e.g. 'Saul, as we shall call him'); named identity matching requires care.
+
+COMPETING INVESTIGATIONS
+Edward E. Plowman, Christianity Today, 2 March 1973, 'Demythologizing Indonesia's Revival': identifies real disagreements among people who visited the region. Pearl Englund, an anthropologist at Mankato State College, reported interviews contradicting some resurrection, food-multiplication and river-crossing stories. George W. Peters, professor of missions at Dallas Theological Seminary, was reported to offer a syrup explanation of the wine. Frank L. Cooley, research director of the Indonesian Council of Churches, reported researching Timor and doubted several sensational accounts. These are attributed findings reported by Plowman, not original field notes inspected here, and they are not a specific documented disproof of the church fire.
+Koch's The Wine of God / New Wine transcription contains direct defenses and counterclaims. He says he personally witnessed wine transformations, disputes critics' access and interpretation, and alleges that different cases have been conflated. A separate fraudulent wine episode is described in his own defense. This is a reason to compare individual cases, not a basis to assume every wine claim was tested and exposed. No wine laboratory assay or controlled chain of custody was recovered. This audit primarily addresses the fire, not a finished adjudication of all the revival's miracles.
+John P. Lathrop, Ritornera 1/1 (2021), pp. 78-80, reviews Peters's 1973 book and notes both his affirmation of revival and his reservations about nature miracles. Full review retrieved; Peters's full book was not recovered. Do not pretend the review is the original investigation or that revival recognition authenticates each reported miracle.
+
+RELIGIOUS RECEPTION
+The official GMIT synod site reports a 53rd-anniversary commemoration in 2018 attended by thousands of prayer-group members and led in part by synod chair Mery Kolimon. This establishes enduring religious importance of the movement, not independent optical confirmation of the 1965 fire. The report also identifies a 2018 book by Daniel I. S. Talan, Pencurahan Roh Kudus & Api Injil di Kota Soe 1965. Indonesia's national bibliography lists a 300-page 2018 volume, ISBN 978-602-70292-1-7. The actual book has NOT been recovered or inspected. Do not call its title a technical fire-investigation conclusion.
+
+SEARCH COVERAGE AND LIMITS
+Public web discovery in English and Indonesian, focused searches for named police/fire witnesses, earliest publication, photographs and critical investigations; a German fire-bell query did not locate a useful independent statement. Several results merely reproduce Tari. No Akron subscription database or original 1965 Indonesian newspaper run was searched during this pass. No archival absence proven. No human was contacted and no book purchased.
+Primary downloads use ordinary certificate-validating curl. An initial Python certificate failure is recorded; no certificate checks were disabled. The Andaya PDF failed direct retrieval but its relevant discussion was read through web extraction; do not list it as a successfully downloaded full PDF. A publisher URL for the AJPS issue returned 404; the successful full-issue PDF is from the biblicalstudies.gospelstudies.org.uk mirror.
+
+ASSESSMENT FOR THE COMPARATIVE ARGUMENT
+This is a public, religiously interpreted claim in a Protestant setting, so it is categorically relevant to an Apostolic-Christian exclusivity argument. It presently lacks the early independent, event-specific documentation needed to establish a comparable counterexample. It is neither an authenticated supernatural rival nor an established deliberate hoax on this record. A flourishing revival and a physically extraordinary external fire are different propositions and need different evidence.
+
+HIGHEST-VALUE REMAINING LEADS
+1. Recover a named bell-ringer's original account or an identifiable police station record.
+2. Inspect original 1965 GMIT letters/minutes, especially any dated statement about external flames rather than metaphorical spiritual fire.
+3. Obtain Peters's 1973 original book, pp. 15-35 and 62-83, and Cooley's original 'The Revival in Timor,' rather than relying only on summaries.
+4. Inspect Talan's 2018 book and trace each fire witness to an earlier document.
+These are specific leads, not claimed evidence already in hand.

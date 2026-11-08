@@ -1,0 +1,83 @@
+[
+  {
+    "file": "comparison-images/evrard.jpg",
+    "source_id": "ART-EVRARD-MAUBUISSON",
+    "url": "https://collections.louvre.fr/media/cache/large/0000000021/0000093005/0001330073_OG.JPG",
+    "credit": "© 2025 Musée du Louvre, Dist. GrandPalaisRmn / Thierry Ollivier",
+    "reviewed": "2026-10-27",
+    "sha256": "b3d23418632fdcc9c8e49312edbe611b44be2046d3a049d7c6eef0e27b384d86",
+    "alteration": "None"
+  },
+  {
+    "file": "comparison-images/evrard-langres.jpg",
+    "source_id": "ART-EVRARD-LANGRES",
+    "url": "https://popcorn-prd-perf-assets.s3.gra.io.cloud.ovh.net/memoire/AP52W01448/52W01448.JPG",
+    "credit": "Ministère de la Culture, Médiathèque du patrimoine et de la photographie, AP52W01448; see source rights",
+    "reviewed": "2026-10-27",
+    "sha256": "4cecaa1a5cc0e83db0f2e136dbe0b252dd9a1be35ddb1c47a76e4f39ce0b24c0",
+    "alteration": "None"
+  },
+  {
+    "file": "comparison-images/pucelle-original.jpg",
+    "source_id": "ART-PUCELLE-HOURS",
+    "url": "https://images.metmuseum.org/CRDImages/cl/original/DP233162.jpg",
+    "credit": "The Metropolitan Museum of Art, Open Access / public domain",
+    "reviewed": "2026-10-27",
+    "sha256": "6b826ff04be99bddab650103b58a22956826b73b9bf8ebe0e5a32d11e89272c6",
+    "alteration": "None"
+  },
+  {
+    "file": "comparison-images/lenoir.jpg",
+    "source_id": "ART-LENOIR-BONNE",
+    "url": "https://images.metmuseum.org/CRDImages/cl/web-large/DP227315.jpg",
+    "credit": "The Metropolitan Museum of Art, Open Access / public domain",
+    "reviewed": "2026-10-27",
+    "sha256": "ef1b005468a472fff56a728cb07bbf37c9130a94668b0aec262c1b756a665a71",
+    "alteration": "None"
+  },
+  {
+    "file": "comparison-images/narbonne.jpg",
+    "source_id": "ART-NARBONNE-PAREMENT",
+    "url": "https://collections.louvre.fr/media/cache/original/11/15/24/00/AGO111524-000_PE.jpg",
+    "credit": "GrandPalaisRmn / Michèle Bellot",
+    "reviewed": "2026-10-27",
+    "sha256": "313a6ef8e29c308233297992bccafc3a326291eef95f17d2f465a696c6b3cb1f",
+    "alteration": "None"
+  },
+  {
+    "file": "comparison-images/art-adam-notredame.jpg",
+    "source_id": "ART-ADAM-NOTREDAME",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Musee_du_Moyen_Age_A05.JPG",
+    "credit": "Guillaume Blanchard (Aoineko), CC BY-SA 3.0; unmodified photograph; https://commons.wikimedia.org/wiki/File:Musee_du_Moyen_Age_A05.JPG",
+    "reviewed": "2026-10-27",
+    "sha256": "150a8f82955ea901e917f91997e6ba317bdf429535b089c2f1abb693859d66a7",
+    "alteration": "None"
+  },
+  {
+    "file": "comparison-images/art-rieux-james.jpg",
+    "source_id": "ART-RIEUX-JAMES",
+    "url": "https://d2lkryo36aywim.cloudfront.net/eyJidWNrZXQiOiJvcGFjLXByb2QtbWVkaWEiLCJrZXkiOiJ0b3VsbWV0cm8wMVwvb3BhY3dlYl9hdWd1c3RpbnNcLzgwZWYxNjgwLTZiZTMtNGZjNC1iOGJmLWQ0MGQ3NjI0NTRkZi5qcGciLCJ2IjoxNzkwOTQ3MDAyLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjY1MCwiaGVpZ2h0Ijo2NTAsImZpdCI6Imluc2lkZSJ9fX0=",
+    "credit": "Mairie de Toulouse, musée des Augustins — photo Daniel Martin",
+    "reviewed": "2026-10-27",
+    "sha256": "1aced01043e8a9bfb1e349ca194c4addf1ee2b753c19c071038c7606cddde723",
+    "alteration": "None"
+  },
+  {
+    "file": "comparison-images/art-pepin-pleurant.jpg",
+    "source_id": "ART-PEPIN-PLEURANT",
+    "url": "https://collections.louvre.fr/media/cache/large/0000000021/0000095171/0000324920_OG.JPG",
+    "credit": "© 2005 GrandPalaisRmn (musée du Louvre) / René-Gabriel Ojéda",
+    "reviewed": "2026-10-27",
+    "sha256": "8e2800059e1af8b1ae20f484316b83b853a2bb0e9803884f45c717241a2abdc8",
+    "alteration": "None"
+  },
+  {
+    "file": "comparison-images/bouteiller.jpg",
+    "source_id": "ART-BOUTEILLER-RELIEF",
+    "url": "https://www.citedelarchitecture.fr/sites/default/files/styles/oeuvres_collections/public/flora-images/folder_0001/folder_0001/folder_0001/folder_0001/elem_0057/GF56-1.jpg?itok=CMe2vkbD",
+    "credit": "Cité de l’architecture et du patrimoine; catalogue photograph of a later plaster cast; see source rights",
+    "reviewed": "2026-10-27",
+    "sha256": "4ef7e45c1f4b64a4bc4422d31a42c64111c27a1713a4a4771f5c8b274085a91e",
+    "alteration": "None"
+  }
+]

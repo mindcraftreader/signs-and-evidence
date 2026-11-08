@@ -1,0 +1,68 @@
+FÁTIMA DISTANT-WITNESS GEOGRAPHY: COORDINATES AND SIGHTLINES
+28 October 2026
+
+Result
+All eight account entries now have explicit latitude/longitude, position-quality labels, source links, calculated distance and calculated bearing to the Cova. The map plots all seven reported localities. This pass improves São Pedro de Moel from a town representative to an identified historical house. It does not establish exact 1917 observing stations for the other entries.
+
+The distinction matters: a plotted locality is evidence of geographical spread, but drawing lines from every locality to Fátima would merely draw the target we selected. Their meeting there would not independently demonstrate that witnesses saw a single emitter at that location.
+
+New historical-site identification
+The Câmara Municipal da Marinha Grande's official Casa-Museu Afonso Lopes Vieira brochure supplies:
+  Rua Dr. Adolfo Leitão 4, São Pedro de Moel.
+  Latitude 39:45:22,544 N; longitude 9:01:55,639 W.
+  Decimal conversion:39.75626222,-9.03212194.
+  Brochure PDF p 8: coordinates/address; p 6: preservation of the first-floor sea-facing balcony and study.
+  https://www.cm-mgrande.pt/cmmgrande/uploads/document/file/2314/Folheto_museus_PAGES_CMALV_PT.pdf
+
+The Turismo Centro regional guide, PDF p 13, independently lists the same house/address at 39.756548,-9.032310. The two official points differ by approximately 36 m. This is site-level identification, not a reconstruction of the exact spot where the poet stood in 1917, nor a measured line of sight from that balcony.
+  https://turismodocentro.pt/wp-content/uploads/2019/12/Guia-Sub-Regional_Regi%C 3%A 3 o-de-Leiria.pdf
+
+De Marchi's Portuguese account identifies the poet's own veranda and quotes him as saying that he had not remembered the children's prediction. That statement is positive evidence against active expectation in this particular account; it must not be erased while discussing the limitations of its later recording. Haffert's later English narration says the event was over the mountain at Fátima, whereas the Portuguese quotation supplies no measured direction. Narration and measured azimuth remain different things.
+
+Coordinate register (WGS84; latitude, longitude)
+Praia da Granja:41.039500,-8.650200;156.56 km; bearing 180.72°.
+Torres Novas:39.475810,-8.543480;20.59 km; bearing 327.35°.
+Santo Amaro de Oeiras:38.684930,-9.309070;118.69 km; bearing 27.31°.
+São Pedro de Moel house:39.756262,-9.032122;33.69 km; bearing 114.17°.
+Alburitel school group:39.648870,-8.519510;13.30 km; bearing 261.77°.
+Alburitel hill group:same representative locality coordinates; not the same established observing station.
+Minde vicinity:39.516310,-8.687990;12.89 km; bearing 5.65°.
+Leiria:39.743620,-8.807050;16.92 km; bearing 137.34°.
+Every bearing above is calculated toward the Cova. None is a recovered numerical eyewitness azimuth. Decimal precision identifies database points and does not supply historical accuracy. No source-derived numerical location-error radius was found, so none is invented.
+
+What the individual records permit
+1. Granja: next-day 1917 letter by Maria Joaquina Tavares de Proença de Almeida Garrett relays unnamed observers' rotation/pink-cloud report. She herself attended the Cova. No exact station, clock time or viewing direction. DCF III-1 doc 79, pp 214–215.
+   https://fatima-1917.com/pt/d/iii-1-79
+2. Torres Novas:24 November 1917 letter by Adelaide Grego relays an unusual solar appearance at the same hour, explicitly less impressive than the Cova. No exact station or azimuth. DCF III-1 doc 319, p 740.
+   https://fatima-1917.com/pt/d/iii-1-319
+3. Oeiras: José Leite painted coastal rocks. His daughter Berta did not accompany him; the later report passes through Fonseca's 1958 correspondence. Exact rocks/field remain unidentified. Parede, a residence, is not another sighting. Diogo Pacheco de Amorim, University of Coimbra mathematician, O Instituto 122(1960), p 197, §128.
+4. Moel: identified house as above, with recollection of a remarkable sky spectacle from its veranda. Later testimony supports the account but supplies no calibrated direction. De Marchi p 176; Amorim p 196, §126; Haffert consulted 2006 reprint p 40 of work first published 1961.
+5. Alburitel school: named teacher Delfina Pereira Lopes and schoolchild Inácio Lourenço; De Marchi says he corroborated with her and other villagers. Pale disc, rotation, zigzag descent and environmental colors are described. No located 1917 school parcel or recorded numerical direction. A current school cannot be silently substituted. De Marchi pp 176–177.
+6. Alburitel hill: later letter relays Joaquim Lourenço's group of about 20 on a hill overlooking Fátima ridges. Hill unnamed. Prior celestial-sign expectation, including smoked-glass preparation, is explicitly recorded. It remains positive testimony of an experience outside the Cova crowd. Amorim appendix pp 202–204, Fonseca letter 10 June 1958 recounting prior-year conversation.
+7. Minde: Haffert interviewed Albano Barros in Somerville, New Jersey. Book specifies a village NEAR Minde, not an identified field. The witness explicitly describes the falling Sun in Fátima's direction. From the retained Minde representative, the Cova lies roughly north,5.65°. This is the strongest explicit target-direction wording in this set. It is not an independently measured azimuth; the exact village/field and original Portuguese interview notes or recording remain unlocated.
+8. Leiria: Haffert says Guilhermina Lopes da Silva is NOW living at 20 Rua Nossa Senhora da Encarnação. This cannot establish her 1917 observing address. She describes looking toward a mountain and seeing a red flash, then calling two workmen. Neither summit nor numerical direction is supplied. Her relatives' Cova accounts in the same passage are distinct from her own remote observation. A separately quoted early O Mensageiro report remains an additional lead, not an extra plotted station.
+
+Primary publication links
+De Marchi, Portuguese edition with 1966 imprimatur, pp 176–177:
+https://centroculturalcampogrande.pt/pdfs/era.uma.senhora.mais.brilhante.que.o.sol.pdf
+Amorim, O Instituto 122(1960), pp 196–197 and 201–204:
+https://digitalis-dsp.uc.pt/institutocoimbra/UCBG-A-24-37a41_v122/UCBG-A-24-37a41_v122_item1/UCBG-A-24-37a41_v122.pdf
+Haffert, Meet the Witnesses, consulted 2006 reprint pp 40–42:
+https://web.archive.org/web/20161128200651id_/http://johnhaffert.org/wp-content/uploads/2013/08/Meet-the-Witnesses-91511.pdf
+An accessible published-copy mirror located in this pass:
+https://www.basicincome.com/bp/files/Meet_the_Witnesses.pdf
+
+Geometric assessment
+There is substantive testimony of geographically separated experiences. It raises the explanatory burden beyond a story limited to communication or excitement inside the Cova crowd. The record has both contemporary indirect reports and richer later personal accounts; their strengths should not be flattened into either complete independence or complete dismissal.
+
+The present coordinates do not support a solved triangulation. No entry supplies a measured azimuth, angular elevation, or precisely synchronized observation time. Minde's explicit target-direction statement is worth investigating, but drawing its line to the named target adds no independent angular measurement. Moel gives a much better observing-site identification; its precise viewing direction still needs a primary record. Leiria needs a 1917 address and identification of the mountain before a horizon calculation can be tied to its witness. A building coordinate alone cannot establish what part of the sky was visible from the historical standing position.
+
+The next highest-value recoveries are therefore specific: Haffert's original interview material for the Minde village and Leiria address/mountain; Alburitel school property/education records; and Lopes Vieira/Brochado correspondence or deposition material linking the Moel veranda to a direction. Public searches in this pass did not recover these. This is a bounded retrieval result, not proof the records do not exist.
+
+Deliverables and checks
+coordinate-register.json / .csv: eight source-linked entries, location quality, dates and distinctions.
+map-preview.html: self-contained interactive map; all accounts selectable; calculated-bearing layer off by default and clearly labeled.
+map-overview.png: static two-scale map for discussion.
+build_map.py / render_static_map.py: reproducible generation from earlier source records and published geometry.
+sources/: downloaded official municipality and regional-tourism PDFs, verified coordinate-page image, inline D 3 library, simplified published basemap; SHA256 manifest retained.
+Original 2026-10-27 files remain unchanged. This geographical investigation does not reopen or rescore the closed crowd-expectation challenge.

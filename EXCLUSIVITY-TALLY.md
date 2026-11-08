@@ -1,0 +1,20 @@
+# Comparative exclusivity tally
+
+The recorded comparator tally reached **8–0 in Daniel’s favor**, with **Putuo provisional** pending requested publications. Each entry answers a specific question. Did the evidence recovered for that candidate sustain its proposed role as a comparable public sign that supports a competing religious claim? This is a tally of adjudicated challenges within the search. [Final scored exchange](conversation/chapters/23-ajmer-statues-and-the-timor-fire.txt#L666).
+
+| # | Candidate | Recorded outcome |
+| --- | --- | --- |
+| 1 | Dhammakaya solar event in Thailand | The reporting, low-sun conditions, and fundraising context fell short of the proposed Fátima comparison. |
+| 2 | Hindu milk event | Replication, runoff, and dye observations supported an ordinary mechanism for the examined phenomenon. |
+| 3 | Sufi cheek piercing | The piercing was accepted. The record fell short on extraordinary regeneration and public religious vindication. |
+| 4 | Sathya Sai Baba | Magician analysis supported conjuring for the materializations it examined. The proposed comparison with Pio failed. |
+| 5 | Badulla shrine lights, Sri Lanka, 1887 | An early secondhand letter and a later published eyewitness account survive. The recovered documentation fell short of the public-sign comparison. |
+| 6 | Putuo, China | Provisional defense. The recovered footage and witness accounts fell short of the proposed comparison. The original publications could change the assessment. |
+| 7 | Ajmer, India | Completed defense. Contemporary reporting established a crowd and reports of an image. The evidence fell short of establishing a comparable public apparition. |
+| 8 | Malaysian Buddha statue | Completed defense. The available footage and testimony fell short of establishing independent movement of the statue. |
+
+The [first five decisions](research/comparative-miracle-deep-audit-20261101/comparative-tally-20261102.txt) are in the original comparative file. The subsequent decisions are in the dialogue and source audits for [Putuo](conversation/chapters/22-putuo-and-the-shape-of-a-public-sign.txt#L1071), [Ajmer](conversation/chapters/23-ajmer-statues-and-the-timor-fire.txt#L271), and [Malaysia](conversation/chapters/23-ajmer-statues-and-the-timor-fire.txt#L666). [World cases audit](research/mass-public-miracles-world-audit-20261102/research-report.txt).
+
+**Separate dispositions.** Itigilov is a meaningful body-preservation comparison. The LDS claims reviewed were filed as private revelation. The Soe church-fire case in Timor and the broader Lourdes comparison with Mashhad and other healing shrines remained separate from the eight scored cases. The Lourdes discussion explicitly held the broader Mashhad tally pending review of the new sources. [Itigilov and other cases](research/comparative-miracle-deep-audit-20261101/comparative-tally-20261102.txt), [LDS audit](research/mass-public-miracles-world-audit-20261102/lds-deep-audit/report.txt), [Timor audit](research/mass-public-miracles-world-audit-20261102/timor-deep-audit/report.txt), [Lourdes comparison status](research/lourdes-comparative-healing-shrines-20261102/comparative-review-pending-20261103.txt).
+
+**How it bears on the main argument.** A comparably documented sign pointing toward a conflicting religious framework would reduce the force of inferring a specifically Christian cause from the convergence. The main ledger treats the umbrella inference as **C-02** and groups the previously scored Thai comparison **C-01** beneath it. The other comparator decisions remain in their own tally. The recorded result applies to the candidates examined. Zeitoun is Coptic Orthodox, so the broad comparison concerns apostolic Christianity. Roman Catholic specificity is a further inference from the relevant cases and their messages. [Main debate ledger](research/argument-thread-audit-20261028/live-debate-tally.txt).

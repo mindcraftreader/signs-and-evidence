@@ -1,0 +1,36 @@
+GIOVANNI SAVINO — EXTERNAL MEDICAL-RECORD SEARCH
+6 November 2026
+
+QUESTION
+Locate publicly inspectable before/after clinical documentation of the 1949 eye injury and reported recovery, beyond the existing local archive.
+
+RESULT
+No paired original clinical records were located in this search. There is a concrete first-person bibliographic assertion that the hospital records were obtained by C. Bernard Ruffin, rather than only an anonymous assertion that documents exist. A reproduced passage from his third edition explicitly says the records did not record the condition at discharge. This is a material limit on that particular documentary source, not proof that no later eye examination was ever written.
+
+NEW DIRECTLY INSPECTED EVIDENCE
+Ethan Muse's current article, footnote27, reproduces an image of Ruffin's third-edition text. The image was downloaded and visually read in this pass; it is a biographical excerpt, not a scan of Savino's hospital chart. The excerpt says Ruffin obtained records from Foggia's Ospedali Riuniti in1989. It summarizes admission findings, using the contested spelling emoptalmo, and explicitly notes the absence of a discharge-condition entry. It then discusses interviews with the widow and son. Those interviews are testimony, not signed ophthalmological measurements.
+
+Article:
+https://motivesofcredibility.substack.com/p/st-pio-of-pietrelcina
+Image, preserved locally as ruffin-third-edition-excerpt.png:
+https://substack-post-media.s3.amazonaws.com/public/images/40f23a64-6458-43a4-b642-618854816537_2328x1282.png
+
+The article's current note itself says its author is still seeking access to the hospital records to resolve the uncertain medical wording. That is the author's reported access status, not evidence that access is universally impossible.
+
+OTHER LEADS CHECKED
+- English and Italian searches for Savino with cartella clinica, referto/referti, certificato, medical records, hospital records, Ospedali Riuniti, emoptalmo/emoftalmo, Meyer and the1949letter. Several results concern unrelated people with the same name and were excluded.
+- A comment on Muse's article identifies a possible certificate citation dated15February1990 in Ruffin's notes. This remains an unverified acquisition lead: neither certificate nor actual relevant notes page was obtained. Do not treat the comment as inspection of the certificate or interpret its contents.
+https://motivacredibilitatis.substack.com/p/st-pio-of-pietrelcina/comments
+- The public2003PadrePio prayer-group newsletter says DominicMeyer wrote a detailed account inJuly1949. The newsletter is a later narrative, not the original circular or a clinical report.
+https://padrepiodevotions.org/wp-content/uploads/2025/09/April-June-03-Padre-Pio.pdf
+- ItalianVeritas83 reproduces an account attributed to the sonFrancesco's2011book, PadrePio.L'AstrodelGargano. The web-extracted account contains reported dialogue and observations, not a reproduced before/after medical certificate. Original PDF page images were not inspected in this pass; no conclusion depends on its confusing laterality.
+https://www.sanpiox.it/archivio/images/stories/P_Rimini/PDF/Veritas/Veritas_083.pdf
+- Ruffin's third-editionGoogleBooks entry was located; an attempt to inspect its public preview was rate-limited. Savedruffin-google-preview.html is a Googleautomated-query block, NOT an acquiredbook. InternetArchive itempadrepiotruestor00ruff contains a restricted/borrowable Ruffin edition; metadata only was checked. Restricted text/PDF was not accessed. Conflicting1982metadata and1991ISBN mean the edition should not be inferred solely from the date field.
+https://books.google.com/books?id=l11uDwAAQBAJ
+https://archive.org/details/padrepiotruestor00ruff
+
+INTERPRETATION
+The external search improves the provenance of the claimed BEFORE record. It does not produce an inspectable clinical AFTER report. Neither eyewitness descriptions of destruction nor later photographs establish the full initial anatomy or a measured recovery by themselves. The precise medical term must be verified from the underlying document before deriving anatomical conclusions from it. No ordinary mechanism or fraud was established here. No debate tally changed.
+
+NEXT DOCUMENT TARGETS
+Ruffin's actual hospital certificate and associated notes; a dated signed post-recovery ophthalmic examination with acuity/anatomical findings; Meyer's originalJuly1949circular. The circular could improve contemporary testimony but would not automatically constitute a clinical before/after pair.

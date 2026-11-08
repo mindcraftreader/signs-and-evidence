@@ -1,0 +1,58 @@
+[
+  {
+    "file": "perrin-report-reproduction.html",
+    "url": "https://www.mediadedieu.net/l/miracle-de-lourdes-la-guerison-de-serge-perrin/",
+    "exit": 0,
+    "error": "",
+    "bytes": 190940,
+    "sha256": "1500fb486ce97100afd7ec5418894c8844fe761fbb3fd6d3512e56dcea5a7029"
+  },
+  {
+    "file": "traverso-decree-oftal-2012.html",
+    "url": "https://oftalcasale.blogspot.com/2012/10/il-decreto-vescovile-di-monsignor.html",
+    "exit": 0,
+    "error": "",
+    "bytes": 63667,
+    "sha256": "b76f2c15d5dc20378e99d2f3fd6eb16026083903a6903577c0fea3b6c2dc1b4a"
+  },
+  {
+    "file": "traverso-diocese-2025.html",
+    "url": "https://www.diocesicasale.it/sessantanni-fa-la-guarigione-miracolosa-di-suor-luigina-a-lourdes/",
+    "exit": 0,
+    "error": "",
+    "bytes": 124499,
+    "sha256": "8d48f492f9e815e36b16f6043eafd3ebf59eec61a4948d24da8a1de23f0654bd"
+  },
+  {
+    "file": "traverso-ancora-20120311.pdf",
+    "url": "https://www.lancorastorico.it/wp-content/uploads/2017/07/ANC20120311_09.pdf",
+    "exit": 0,
+    "error": "",
+    "bytes": 11561853,
+    "sha256": "b4b77f546747611083615649cf992a48d6b6a61ba48283c953b50bb9e77190c6"
+  },
+  {
+    "file": "balzaretti-official-cv.pdf",
+    "url": "https://trasparenza.asl.novara.it/media/24616/download",
+    "exit": 28,
+    "error": "curl: (28) Connection timed out after 35001 milliseconds\n",
+    "bytes": null,
+    "sha256": null
+  },
+  {
+    "title": "Perrin photographed report",
+    "url": "https://www.mediadedieu.net/l/miracle-de-lourdes-la-guerison-de-serge-perrin/",
+    "local_file": "presentations/miracles/research/lourdes-expanded-audit-20261103/1960-present/perrin-image-register.json",
+    "read_scope": "25images saved. Visuallyinspected images1–6,14,17–20,22,24–25; actualprintedpages29,31,33,35,37,6,14,17–20,22,24–25. No claim all25read."
+  },
+  {
+    "title": "Inherited modernclinicalsource register",
+    "local_file": "research/lourdes-period-audit-20261102/1977-present/source-register.json",
+    "read_scope": "Reused primaryclinicalpublications and explicitlyattributedcriticism; not new independentexaminations."
+  },
+  {
+    "title": "Current official recognized list",
+    "url": "https://www.lourdes-france.com/en/miraculous-healings/",
+    "read_scope": "Checkedlive3Nov2026;72cases."
+  }
+]

@@ -1,0 +1,125 @@
+SHROUD: HISTORICAL AND EXPERIMENTAL EXCLUSIVITY
+Opened 4 November 2026 at Daniel's request
+
+QUESTION
+If the Turin Shroud is a medieval manufacture, what independently documented
+objects, craft traditions or modern experiments are genuinely comparable to
+its relevant properties? Daniel observes a parallel with our comparative
+miracle investigation: an explanation should be tested against its proposed
+class, rather than made plausible solely by assigning the object to it.
+
+THREE DIFFERENT COMPARISONS
+1. Historical counterparts: independently dated surviving objects with the
+   property in question. Record region, date, support, process and what was
+   actually measured. The date of a relief or brass is not automatically the
+   date of a surviving rubbing taken from it.
+2. Experimental counterparts: modern controlled processes reproducing the
+   property. Distinguish period-available processes from modern equipment.
+3. The complete combination: one documented object or coherent demonstrated
+   process matching the relevant optical, chemical, geometrical and stain
+   constraints together. Avoid requiring the same subject or religious
+   identity when it is irrelevant to the physical comparison.
+
+A complete historical match, a partial mechanism and a complete experimental
+replication have different evidential force. None should be mislabeled as
+another. Likewise, a missing published measurement on a comparator is not
+a measured failure of that comparator.
+
+FOUR STARTING COMPARISON GROUPS
+These organize the properties discussed in this conversation; they do not
+assert that Daniel has specified exactly these four exclusive claims.
+
+A. Negative-like tonal behavior of a recognizable human image.
+B. Spatial/anatomical representation and the reported body-distance/shading
+   relationship, rather than merely any software-generated height surface.
+C. Very superficial coloration and body-image chemistry without an ordinary
+   applied paint medium accounting for the image.
+D. Injury/blood-pattern distribution and the proposed relationship between
+   those marks and the body image.
+
+PRELIMINARY FINDINGS
+
+HISTORICAL COMBINATION: NO DEMONSTRATED MATCH IN THE INSPECTED INVENTORY
+Our earlier concrete comparison appendix contains eight cases: medieval
+painted cloth/panel systems, a sculptural comparator, later cloth paintings
+and a 1516 intentional Shroud copy. It identifies no demonstrated match to
+the combined reported local fiber coloration and negative-like tonality.
+Several materials are demonstrably different; other comparator properties
+remain unmeasured. This is a bounded result, not a survey of every surviving
+world artifact or a numerical probability of manufacture.
+
+Local full comparison:
+shroud-sources/historical-comparison-appendix/comparison-report.txt
+
+NEGATIVE CONTRAST: ANCIENT RUBBING TRADITIONS ARE A PARTIAL ANALOGY
+The Field Museum documents Chinese wet-paper ink rubbings as an old craft
+tradition producing white impressions on a black field from incised surfaces.
+Its collection includes rubbings taken much later from ancient originals.
+The British Museum also catalogs a rubbing of a figurative stone relief.
+These demonstrate historical contact-copying and negative contrast without
+photographic technology. They do not establish a Shroud-like continuous
+tonal human image, a linen surface reaction or microscopic equivalence.
+Do not score them as a complete Shroud counterpart.
+https://www.fieldmuseum.org/project-narrative/science/chinese-rubbings-collection
+https://www.britishmuseum.org/collection/object/A_OA-0-384
+
+NEGATIVE/RELIEF EXPERIMENT: GARLASCHELLI REMAINS A PARTIAL COMPARATOR
+University of Pavia chemist Luigi Garlaschelli's 2010 paper describes negative-
+like tones and crude three-dimensional qualities produced by rubbing. Its
+full-body experiment is relevant; it is not only a wrist experiment. Its
+adequacy at fiber level and in the full combination remains disputed in the
+already reviewed Fanti/Heimburger response. This audit preserves that earlier
+assessment rather than reopening it as a new successful rebuttal.
+https://doi.org/10.2352/J.ImagingSci.Technol.2010.54.4.040301
+https://doi.org/10.2352/J.ImagingSci.Technol.2011.55.2.020102
+
+SUPERFICIAL COLORATION: MODERN PARTIAL REPRODUCTION EXISTS
+ENEA Frascati physicist Paolo Di Lazzaro and colleagues report superficial,
+Shroud-like coloration of linen using short vacuum-ultraviolet laser pulses.
+The work demonstrates that selected coloration properties can be reproduced.
+The advanced equipment does not establish a medieval production mechanism,
+nor does the localized coloration experiment itself reproduce the full
+front/back body image and its stain relationships. The statement that every
+individual relevant property remains unreproduced today is therefore too
+strong. The full-combination question remains open.
+https://doi.org/10.1364/AO.51.008567
+Publisher abstract:
+https://opg.optica.org/ao/abstract.cfm?uri=ao-51-36-8567
+Institutional full report checked:
+https://www.eai.enea.it/component/jdownloads/?Itemid=101&catid=42&id=938&task=download.send
+
+SPATIAL IMAGE: RELEVANT STUDY, NOT AN EXCLUSIVITY CENSUS
+Jackson (Kaman Sciences), Jumper (Air Force Institute of Technology) and
+Ercoline (US Air Force Academy) 1984 analyze body-distance/shading correlation
+and candidate processes. They identify partial successes and joint failures.
+This supports a combination-of-constraints test; it does not provide an
+exhaustive inventory proving that all other historical figurative objects
+lack every comparable spatial property.
+https://doi.org/10.1364/AO.23.002244
+
+FORENSIC COMBINATION: RETAIN THE EARLIER AUDIT
+Detailed injuries, red-mark chemistry and sequence constrain manufacture.
+Some selected blood-transfer patterns have experimental analogues. Neither
+the whole-object artificial replication nor global uniqueness of every
+individual forensic interpretation has been established.
+shroud-sources/supporting/injury-forensics-20261027/research-report.txt
+
+INITIAL STATUS
+Supported within reviewed sources: no identified historical counterpart or
+demonstrated complete production process matching the full relevant suite.
+Not established: four independently proved global exclusivities, a measured
+number of centuries by which each feature precedes all counterparts, or
+inability to reproduce every individual property with modern equipment.
+
+EVIDENTIAL USE
+Absence of a relevant prototype, parallel or complete replication can weaken
+a specific workshop/process explanation. It does not logically require that
+an unusual human product have surviving siblings. Its likelihood weight
+depends on the proposed process, expected survival and discovery, how much
+of the artifact's properties are measured, and the actual comparison corpus.
+This does not make the absence irrelevant or remove the manufacturing burden.
+
+The Marian assessment remains relevant background to the competing relic
+explanation. This audit does not assign numerical odds, change existing
+tallies, reopen closed challenges without new evidence, or declare that a
+global art-history survey has been completed.

@@ -1,0 +1,29 @@
+THAI/FATIMA SOLAR-OBSERVATION COMPARISON — 29 OCTOBER2026
+
+Question: are late-afternoon Thai observations adequately matched to Fatima's near-noon claims?
+
+SOLAR GEOMETRY
+Own approximate calculation using NOAA fractional-year solar equations, local historical clock offsets from IANAzoneinfo and representative site coordinates. Not an instrument measurement. Rounded degrees only; no atmospheric refraction correction. Results in solar-elevation-comparison-20261029.json.
+Thailand11October1998,17:15–17:35local: approximately10to5degrees above horizon.
+Thailand1November1998,17:30–17:40local: approximately4to2degrees.
+Fatima13October1917, near solar noon: approximately43degrees. Civil13:20–13:40illustrative bracket, not a newly established precise event minute. Solar noon is not synonymous with overhead/zenith.
+Method https://gml.noaa.gov/grad/solcalc/solareqns.PDF
+Shrine coordinates https://www.fatima.pt/pt/pages/indicacoes-para-a-peregrinacao-a-pe
+Temple approximate location https://mapcarta.com/28628884
+
+ATMOSPHERIC/PERCEPTUAL INFERENCE
+Low sun has much longer atmospheric path; aerosols and clouds can alter brightness and color. NOAA's JohnAugustine andLisaSmith explain aerosol-enhanced red sunlight at sunrise/sunset. https://gml.noaa.gov/grad/about/redsky/
+Doctor herself describes passing cloudsOctober11and heavy rain/cloudNovember1. No contemporaneous quantified smog/aerosol record recovered. Temple is inPathumThani, not automatically centralBangkok; do not invent smog from its metro-region location.
+Color adaptation and afterimages can occur without deliberate invention or a claim of retinal injury. AMNH's own demonstration illustrates altered color perception. https://www.amnh.org/explore/ology/brain/optical-illusions-and-how-they-work/colors
+These establish relevant mechanisms, not an experimentally verified reproduction of either historical event. No universal proposition that every observer staring20minutes would see the described phenomena.
+
+MOTION
+Siriporn's signed account describes rotation and flashing at the apparent solar position. She also describes a large golden seatedSodhfigure with a disc at the abdomen. Not equivalent to a clearly documented account of the whole luminous body plunging or zigzagging toward earth. Color/rotation similarity remains; do not erase Thai motion claims. FatimaAlmeida report includes abrupt movement, and attributes approach/descent to some observers. https://fatima-1917.com/pt/d/iii-1-87
+Thaiaccount https://www.kalyanamitra.org/th/phramahasiri_detail.php?page=256
+
+LIMITS OF SIMPLE SUNSET ACCOUNT
+Steadily increasing atmospheric path alone does not explain her report that the sun became dazzling again at the end ofOctoberexperience despite lowering. Changing cloud/atmospheric transmission is a possible additional factor, not measured in this record. A literal structured monk apparition is not explained merely by a red sunset. Pareidolia/religious interpretation are candidate explanations requiring evaluation, not established diagnoses. Medical credentials do not rule out ordinary visual adaptation; sincerity and professional competence are compatible with perceptual effects.
+Fatima's own cloud/rain setting also means its comfortably viewable disc cannot by itself exclude atmospheric filtering. Higher sun makes a specific sunset/smog analogue weaker; it does not establish supernatural agency by geometry alone. Its prediction, independent contemporary eyewitness journalism and distant reports require separate joint evaluation. Do not reopen closed challenges or score another point from generic optical mechanisms alone.
+
+ASSESSMENT
+User identifies a substantial physical difference. Thai doctor testimony warrants serious attention but a late-afternoon colored/rotating solar disc is less discriminating evidence of an extraordinary external event than the full claimed Fatima sequence. Haze+visualadaptation is a plausible ordinary framework for some features, not a demonstrated full causal reconstruction. On presently recovered evidence the Thai event remains a partial comparator, not a documentation-matched or causally established equivalent to Fatima. No new tally change.

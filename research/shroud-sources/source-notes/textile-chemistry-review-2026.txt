@@ -1,0 +1,18 @@
+Domenech-Carbo, Vicente-Palomino and Yusa-Marco — The chemistry of textile heritage: fiber, yarn, and fabric identification and conservation
+========================================================================
+Source ID: TEXTILE-CHEMISTRY-REVIEW-2026
+Category: Established material-analysis applications
+Year: 11 October 2026
+Recorded/reviewed: 2026-10-27
+Source: https://doi.org/10.1007/s40828-026-00225-x
+
+What it contributes:
+Publisher abstract, references and data-availability statement reviewed. Lecture/review of fiber identification and conservation; the publisher states that no datasets were generated or analyzed.
+
+Limits and interpretation:
+Subscription body not obtained. Bibliographic citation of the linen spectroscopy paper does not represent a new experimental paired-date dataset.
+
+Access: Link and research note saved
+
+Alternate access:
+https://link.springer.com/article/10.1007/s40828-026-00225-x

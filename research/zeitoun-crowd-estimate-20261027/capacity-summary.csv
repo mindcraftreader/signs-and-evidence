@@ -1,0 +1,10 @@
+model,illustrative_scenario,gross_street_m2,modern_cathedral_proxy_fraction,usable_fraction,density_per_m2,conditional_capacity
+core_four_approaches_150m,low,9464.8,0,0.6,2,11358
+core_four_approaches_150m,middle,12604.0,0.5,0.75,3,38583
+core_four_approaches_150m,high,15441.0,1,0.9,4,87080
+all_mapped_streets_250m,low,36154.2,0,0.6,2,43385
+all_mapped_streets_250m,middle,51150.2,0.5,0.75,3,123838
+all_mapped_streets_250m,high,65499.8,1,0.9,4,261381
+all_mapped_streets_400m,low,89400.2,0,0.6,2,107280
+all_mapped_streets_400m,middle,127990.8,0.5,0.75,3,296729
+all_mapped_streets_400m,high,164661.0,1,0.9,4,618361

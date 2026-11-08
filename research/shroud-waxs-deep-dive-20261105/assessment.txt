@@ -1,0 +1,358 @@
+WAXS DATING OF THE SHROUD: VALIDATION, CLIMATE AND THE MEDIEVAL ALTERNATIVE
+5 November 2026
+
+JUDGMENT
+
+WAXS is meaningful conditional evidence for an ancient cloth. The original
+program includes successful checks on other dated linens and a quantitative
+argument against an ordinary medieval European history. I independently
+reproduced that argument's central monthly-climate calculation. It cannot
+fairly be dismissed merely by saying that temperature and humidity matter.
+
+The stronger claim, that this method reliably distinguishes first-century
+from medieval cloth despite an unknown exposure/treatment history, has not
+been established by the validation located here. Four within-study
+non-anchor checks are useful but do not establish reliability for a displayed,
+handled, fire-exposed relic. A single measured aging index also cannot
+independently determine both calendar age and past aging rate.
+
+I did not establish a documented ordinary process that explains away the
+Shroud WAXS result. Conversely, the uncertainties do not justify treating it
+as an independently validated calendar date with a known catastrophic-error
+probability. The distinction is between substantive positive evidence and
+the present limits of its chronological interpretation.
+
+1. PEOPLE, MEASUREMENT AND INFERENCE
+
+The principal method paper is by Liberato De Caro, Cinzia Giannini, Rocco
+Lassandro, Francesco Scattarella and Teresa Sibillano of Italy's National
+Research Council, Institute of Crystallography, with Emilio Matricciani of
+Politecnico di Milano and Giulio Fanti of the University of Padua [1].
+The 2022 Shroud application is by De Caro, Sibillano, Lassandro, Giannini
+and Fanti [2]. The later temperature paper adds independent researcher
+Cesar Barta and Matricciani [3]. These are related investigations, not three
+independent WAXS dating laboratories.
+
+WAXS measures how X-rays scatter from the structural organization of
+cellulose. The authors derive a numerical aging factor from selected
+diffraction intensities, then normalize it to an aging parameter AP.
+AP estimates a fraction of the maximum cellulose-chain breakage in their
+model. It is not simply the percentage of visibly damaged fibers.
+
+The conversion to years uses reaction kinetics, estimated temperature,
+humidity and the premise that natural aging dominates. Established
+X-ray instrumentation, cellulose degradation science and the particular
+calendar-dating calibration are three separate levels of validation.
+
+The scientific foundation extends outside Shroud research. For example,
+Catherine H. Stephens and Paul M. Whitmore of Carnegie Mellon University's
+Art Conservation Research Center studied cotton, linen and kozo papers at
+90 C and 50% relative humidity for thousands of hours [7]. H.-Z. Ding and
+Z. D. Wang of the University of Manchester developed cellulose degradation
+models against several experimental datasets [8]. Those results support
+the kinetics background; neither is an independent WAXS calendar-date trial
+on ancient linens. Only their publisher abstracts were reviewed here.
+
+2. WHAT THE 2019 VALIDATION ACTUALLY CONTAINS [1]
+
+The main kinetic parameters are obtained using the first-century Masada
+sample FII and sample D from Fayyum, dated AD544-605. Modern raw flax and
+very old saturated linen supply normalization references. The authors
+explicitly identify four other radiocarbon dates not used to set the two
+main kinetic parameters. Those four are useful within-study checks.
+
+Sample       Carbon-reference age     WAXS age          Absolute gap
+             (years, as reported)     (years)
+DII/Jericho        950                   940                  10
+NII/Engedi        2310                  2350                  40
+E/Egypt           2390                  2390                   0
+HII/Thebes        2880                  2770                 110
+
+All four reported approximately 95% intervals overlap. Their mean absolute
+central-estimate difference is 40 years. Their WAXS intervals are much wider
+than that figure:
+
+DII: 870-1010 years; NII: 2060-2860; E: 2160-2670; HII: 2410-3370.
+
+The mean total interval width is 602.5 years. These intervals are asymmetric
+near saturation. The 40-year mean gap is not a universal +/-40-year error
+bar. Four comparisons do not define a reliable extreme-tail distribution.
+
+This is not a trivial calibration-only exercise: the four ages were not
+used to determine the two main kinetic parameters. However, it is also not
+a blind external test. Regional climate estimates, parameter choices and
+the same research program are involved. Their controls mostly concern
+preserved Near Eastern/Egyptian material rather than the exposure history
+of an exhibited European relic.
+
+3. THE SHROUD MEASUREMENT [2]
+
+The measured thread was approximately 0.5 x1 mm, attributed to the area
+near the Raes/radiocarbon corner. Thus this WAXS test is not an independent
+sample from the central body image. Its detailed documentary chain of
+custody is not supplied by the paper's brief sampling description.
+
+The authors report aging factor AF=10.0 +/-0.2, compared with Masada's
+AF=10.3 +/-0.2. Their normalized Shroud AP is 0.60 +/-0.02. The pattern and
+aging factor are comparable to Masada under their analysis; that does not
+mean that equal degradation guarantees equal calendar age under different
+exposure histories.
+
+The Shroud was measured after instrument work, including anode-filament
+replacement and optical realignment. The authors repeated a modern fabric
+measurement to establish a common intensity scale across measurement
+sessions. This is a disclosed calibration step, not evidence of fabrication.
+An interlaboratory/raw-data replication would help validate this sensitive
+comparison. I did not independently extract AP from raw detector counts.
+
+4. THE STRONGEST RESULT: THEIR MEDIEVAL CALCULATION WORKS [2,3]
+
+The April 2022 paper predicts AP about0.027 for seven centuries at a
+constant12.5 C and75% relative humidity. The September paper improves the
+calculation by using monthly temperatures, a nonlinear moisture-sorption
+relation and the different European locations.
+
+I transcribed its Table2 climates and implemented Equations1,2,4,5. For
+European histories ending in2021, my results are:
+
+European start    My reproduced AP     Published rounded AP
+AD1204                0.05162                  0.052
+AD1354                0.04071                  0.041
+
+The measured AP is0.60 +/-0.02. Thus the measured normalized aging is
+roughly12-15 times the central predictions of those European-only scenarios.
+That is a real discrepancy under the adopted model. A vague invocation of
+ordinary temperature variability does not close it: the authors already
+model seasonality.
+
+I also reproduced the endpoints for the proposed ancient routes:
+
+Alleged long sojourn      My reproduced range       Published range
+Beirut                     0.5661-0.5989             0.566-0.598
+Edessa                     0.4859-0.5200             0.485-0.519
+Memphis                    0.6856-0.7136             0.685-0.713
+Camulia                    0.1900-0.2149             0.190-0.215
+
+Rounding of printed coefficients/inputs and year conventions can explain
+small differences of order0.001; they do not alter the model comparison.
+The Beirut scenario is compatible with the measured aging. That is a
+successful compatibility check on a proposed route, not independent proof
+that the cloth actually followed it. The authors explicitly acknowledge
+that other unknown routes could give the same result.
+
+5. HOW LARGE AN ENVIRONMENTAL CHANGE WOULD BE NEEDED?
+
+I added the same hypothetical temperature offset to every month in every
+European location, keeping the authors' relative humidities unchanged.
+Within that deliberately simplified counterfactual, reaching AP0.60
+requires approximately:
+
+  AD1204-start European history: +9.21 C in every month/location.
+  AD1354-start European history: +10.36 C in every month/location.
+
+These are not documented past storage conditions and not a proposed
+history of the Shroud. They show the scale of the change needed if one
+tries to close the discrepancy using only this uniform temperature change
+inside the published model. A modest one- or two-degree adjustment does
+not do it. Other mechanisms or model errors would require their own tests.
+
+A separate illustrative calculation holds a cloth at one climate throughout
+its entire lifetime, using the 2019 reaction rate0.0023/hour at90 C:
+
+Constant temperature    Years required to reach AP0.60
+20 C                               2102
+22.5 C                             1392
+25 C                                928
+27.5 C                              623
+
+These uniform-lifetime examples do not respect the documented European
+sojourns and must not be substituted for the European route comparison.
+They explain why AP alone is not a unique calendar reading. The full
+temperature/humidity history determines which age conversion is applicable.
+
+6. A CONCRETE LIMIT TO THE NATURAL-AGING SCREEN [1]
+
+The 2019 paper excludes a known modern bleached sample A because its
+chemical treatment caused non-natural aging. That is a legitimate exclusion
+for a method explicitly intended for naturally aged material.
+
+However, sample A's maximum/minimum diffraction ratio is8.1, above the
+paper's preliminary greater-than4 natural-aging screening threshold.
+Therefore that threshold alone is not sufficient to distinguish all
+chemically altered material. The sample's known bleaching history matters.
+
+Using its reported AF8.1, modern-raw AF7.56 and saturated AF11.6 gives
+AP about0.134. If I inappropriately force that modern bleached sample
+through the natural-aging equation at21 C, it acquires a counterfactual age
+of about741 years. This is my diagnostic calculation, not an age published
+by the authors. It does not demonstrate that the Shroud was bleached or
+that its much larger AP0.60 resulted from a similar process. It demonstrates
+why suitability screening is part of the dating inference rather than an
+optional detail.
+
+The oldest saturated sample also cannot supply a finite WAXS date. That
+is a declared measurement limit, not a failed finite prediction hidden
+from the comparison. The four usable checks remain affirmative evidence.
+
+7. THE FIRE/WATER OBJECTION AND THE AUTHORS' RESPONSE [2-4]
+
+Marco Ricci, Paolo Di Lazzaro and Alfonso Sanchez Hermosilla, writing as
+members of the International Center for Shroud Studies' scientific
+committee, question environmental ambiguity, sampling provenance,
+calibration and whether dry heating represents the Shroud's historical
+fire-and-water exposure [4]. Their commentary is not a blinded laboratory
+rejection or a demonstrated medieval-age explanation.
+
+The original authors did perform an experiment: 200 C for30 minutes with
+uncontrolled, falling relative humidity. They report unchanged WAXS
+profiles despite substantial yellowing. Their September follow-up also
+calculates that30 minutes at100 C/100% RH produces only about0.006 aging,
+and a year at room temperature/100% RH less than0.001. Therefore it is
+incorrect to say they simply ignored heat or moisture.
+
+The remaining gap is whether those tests/calculations adequately bound
+the actual thread's material and exposure history. Neither a dry-oven test
+nor an assumed hot/wet scenario is a measurement of its1532 thermal history.
+I found no experiment here showing that the actual Shroud WAXS observation
+is explained by the documented fire. Fire remains an applicability question,
+not an established disposal of the result.
+
+8. INDEPENDENT ACCEPTANCE AND VALIDATION
+
+On5 November2026, OpenAlex listed23 citing records for the2019 method
+and10 for the2022 Shroud paper,29 distinct records in their union.
+The saved index records include reviews, structural studies, diffraction
+processing, unrelated theoretical citations, duplicated chapter editions
+and one retracted cellulose-fiber application. Citation is not equivalent
+to independent validation of calendar dating.
+
+I screened all29 by title/metadata and inspected promising accessible
+primary material. I did not read all29 full texts. Recent examples include
+Massimo Ladisa's2025/2026 CNR diffraction-processing work: useful signal/
+background methods, not new independently dated archaeological-linen
+calendar trials. A2020 structural review includes members of the original
+WAXS team. These cannot be counted as independent replications.
+
+The2026 dating synthesis by Padua's Fanti reuses the WAXS program rather
+than reporting a second WAXS lab dating a separate Shroud specimen [5].
+It describes the alternative methods as still requiring confirmation.
+
+No blinded interlaboratory calendar-validation study of the specific WAXS
+method was located in this bounded search. That is a search finding, not
+proof that none exists or that every citation has been exhaustively read.
+The founding authors themselves propose such a repeatability/blinding
+campaign. Their CNR institute continues to present the result and calls
+for measurements by multiple laboratories on multiple samples [6].
+
+9. UNCERTAINTIES THAT MUST NOT BE CONFUSED
+
+  Instrument repeatability: how closely a repeat measurement agrees on a
+  particular point of a particular thread.
+
+  Conditional age uncertainty: propagation through the assumed model,
+  including specified parameter/climate uncertainties.
+
+  Applicability uncertainty: whether that model, starting state and exposure
+  description correctly apply to this particular thread.
+
+The first two do not automatically measure the third. The large difference
+between0.60 and about0.05 is many units of the reported0.02 measurement
+uncertainty. It does not follow that the historical medieval-age hypothesis
+has a Gaussian probability computed from those units. Such a probability
+would require a validated model-error distribution for comparable objects.
+The current four-check dataset cannot supply that far-tail distribution.
+
+10. WHAT THIS DOES TO THE JENGA BLOCK
+
+Retained: the measured WAXS result quantitatively challenges the modeled
+ordinary medieval European history; it resembles an ancient comparator;
+four non-anchor reference checks agree with radiocarbon; a valid non-carbon
+dating result would matter greatly to the overall Shroud assessment.
+
+Not established: a reliable first-century-versus-medieval decision for an
+object with unknown treatment history, independent of suitability and
+environmental assumptions; a general +/-40-year accuracy; astronomical
+joint probabilities with the other aging methods.
+
+Not established in the opposite direction: a specific ordinary exposure
+that actually accounts for the Shroud's measured AP or a decisive
+experimental refutation of the WAXS program.
+
+The evidential block therefore remains, with conditional strength. This
+audit identifies concrete validation limits rather than defeating the whole
+alternative-dating argument. These are analyst assessments, not concessions
+attributed to Daniel. No modern-miracle numerical tally is changed.
+
+An especially useful external test would set the model in advance, blind
+the ages, and include securely dated European textiles with differing known
+conservation/treatment histories, alongside Near Eastern tomb controls.
+Cross-laboratory repeat measurements of the same threads would separately
+test the scattering-to-AP step. The failure rates of these two steps should
+be measured separately before deriving authenticity odds.
+
+SOURCE REGISTER AND ACCESS
+
+[1] De Caro et al.2019, X-ray Dating of Ancient Linen Fabrics,
+    Heritage2:2763-2783, https://doi.org/10.3390/heritage2040171
+    Full local PDF; relevant equations, tables, assumptions and discussion
+    inspected. Table3 visually verified against rendered printed page2775.
+    sources/waxs-method-2019.pdf
+
+[2] De Caro et al.2022, X-ray Dating of a Turin Shroud's Linen Sample,
+    Heritage5:860-870, https://doi.org/10.3390/heritage5020047
+    Full local PDF; sampling, normalization, heat experiment and model read.
+    sources/waxs-2022.pdf
+
+[3] De Caro et al.2022, Long-Term Temperature Effects on the Natural Linen
+    Aging of the Turin Shroud, Information13:458,
+    https://doi.org/10.3390/info13100458
+    Full local PDF; monthly model and route outputs numerically reproduced.
+    sources/waxs-temperature-2022.pdf
+
+[4] Ricci, Di Lazzaro, Sanchez Hermosilla, CISS scientific-committee
+    commentary,2022, republished2024:
+    https://cesandalucia.org/en/post/can-the-shroud-be-dated-with-x-rays/
+    Complete republished text inspected and HTML saved. The linked original
+    Sindon PDF returned HTML, not a usable PDF; it has been labeled HTML.
+    sources/ciss-comment-2024.html
+
+[5] Fanti2026, Multiple Dating of the Turin Shroud: Data Synthesis and
+    Comments, Advance Research in Sciences4:1034,
+    https://doi.org/10.54026/ARS/1034
+    Full PDF saved; WAXS and validation discussion inspected.
+    sources/fanti-dating-synthesis-2026.pdf
+
+[6] CNR Institute of Crystallography, X-ray dating, institutional account:
+    https://www.ic.cnr.it/en/attivita/x-ray-dating/
+    Current English page inspected and saved; Italian call for multicenter
+    sampling also surfaced in search. Not independent validation.
+    sources/cnr-xray-dating.html
+
+[7] Stephens, Whitmore2013, Comparison of the degradation behavior of
+    cotton, linen, and kozo papers, Cellulose20:1099-1108,
+    https://doi.org/10.1007/s10570-013-9896-4
+    Publisher abstract and Carnegie Mellon affiliation only; no full text.
+
+[8] Ding, Wang2008, On the degradation evolution equations of cellulose,
+    Cellulose15:205-224, https://doi.org/10.1007/s10570-007-9166-4
+    Publisher abstract and Manchester institutional record inspected.
+    The DOI printed in the2019 WAXS bibliography instead resolves to Paolo
+    Calvini's adjacent commentary,10.1007/s10570-007-9163-7. This is a
+    bibliography correction, not a demonstrated error in the WAXS equations.
+
+[9] Ladisa2025, Denoising X-Ray Diffraction Two-Dimensional Patterns with
+    Lattice Boltzmann Method, https://doi.org/10.3390/cryst15010051
+    Publisher abstract/scope inspected; not an independent date trial.
+
+[10] Ladisa2026, Automated Procedure for Centre Localization, Noise
+     Removal, and Background Suppression in Two-Dimensional X-Ray
+     Diffraction Patterns, https://doi.org/10.3390/app16041776
+     Publisher excerpts/scope inspected; not an independent date trial.
+
+REPRODUCIBILITY
+calculate_sensitivity.py uses Python's standard library and writes
+sensitivity-results.json. It includes source-derived climate inputs,
+reference checks, route predictions and explicitly labeled counterfactuals.
+Assertions check the reconstructed European and ancient-route outputs
+against the published rounded values. It does not process raw X-ray data
+or calculate a posterior probability of authenticity.

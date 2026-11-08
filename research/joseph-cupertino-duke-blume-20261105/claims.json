@@ -1,0 +1,44 @@
+[
+  {
+    "claim": "Duke left his own flight account",
+    "status": "Not located; existence not disproved",
+    "best_source": "Bernino1722; Leibniz1685/1847; Bono1680",
+    "limitation": "These are other authors, not duke-authored flight narrative"
+  },
+  {
+    "claim": "Duke converted personally in Joseph context",
+    "status": "Strongly supported",
+    "best_source": "Leibniz1847p9; Bono1680p113; Bernino1722pp193-194",
+    "limitation": "Does not independently prove levitation caused conversion"
+  },
+  {
+    "claim": "Duke received in February1651",
+    "status": "Directly stated in Leibniz",
+    "best_source": "Leibniz1847p9 PDF30",
+    "limitation": "Bono1680p114 gives1652; early encounter chronology not settled"
+  },
+  {
+    "claim": "Blume converted in1653",
+    "status": "Supported by historical biography and correspondence context",
+    "best_source": "HenkeADB2pp745-746; Räss6pp558-571",
+    "limitation": "Not the duke1651conversion"
+  },
+  {
+    "claim": "Blume was unnamed Lutheran flight companion",
+    "status": "Unresolved identification",
+    "best_source": "Räss1868pp450-451; repeated1918Pastrovicchi footnote",
+    "limitation": "No recovered primary naming bridge; mission chronology requires reconciliation"
+  },
+  {
+    "claim": "Conring-to-Blume date19May1651",
+    "status": "Corrected to19May1652 in cited older printed edition",
+    "best_source": "Gruber1745p41 PDF61 versus Räss1868p559",
+    "limitation": "Original manuscript not inspected"
+  },
+  {
+    "claim": "Additional named flight-induced converts",
+    "status": "Leads, no additional secure names recovered",
+    "best_source": "Bouflet2006p22; wider convert histories",
+    "limitation": "Conversions are not automatically eyewitness accounts or Joseph-caused"
+  }
+]

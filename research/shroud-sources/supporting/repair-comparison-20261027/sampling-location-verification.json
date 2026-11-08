@@ -1,0 +1,15 @@
+{
+  "date": "2026-10-27",
+  "methods_with_region": 5,
+  "methods_with_unnamed_corner": [
+    "FTIR",
+    "Raman"
+  ],
+  "cloth_dimensions_cm": [
+    442,
+    113
+  ],
+  "cloth_aspect_ratio": 3.911504424778761,
+  "primary_location_statement": "Baraldi and Tinti 2015, section 2, printed page 01002-p.2; final two sentences visually checked",
+  "correction": "Earlier absence-of-location statement for FTIR/Raman superseded by directly reported corner origin. Particular corner remains unresolved."
+}

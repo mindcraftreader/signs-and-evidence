@@ -1,0 +1,108 @@
+{
+  "date": "2026-10-28",
+  "scope": "Four priority cases; two officially accepted post-death miracles, two lifetime research leads. No debate tally adjudication.",
+  "cases": [
+    {
+      "id": "H01",
+      "person": "Consiglia De Martino (Lina), wife of Antonio Rinaldi",
+      "event": "31 October–6 November 1995, Salerno",
+      "during_pio_lifetime": false,
+      "tier": "1: specific miracle officially accepted for beatification",
+      "condition": "Large left supraclavicular, mediastinal and abdominal/retroperitoneal fluid collection, attributed to thoracic duct rupture; estimated roughly 2 litres. Original reproduced discharge/attestation qualify mechanism as suspected/presumptive traumatic filtration/rupture.",
+      "hospital": "Ospedali Riuniti S. Giovanni di Dio e Ruggi d’Aragona, Salerno; III General Surgery division",
+      "treatment": "Vatican decree and physician account explicitly report no therapy before resolution; surgery considered but not performed. Diagnostic CT/ultrasound/Xray were performed.",
+      "timeline": "Symptoms 31 Oct; admission and two CT examinations 1 Nov; reduction 2 Nov; swelling absent 3 Nov in decree/clinical reconstruction; ultrasound 4 Nov and repeat CT 6 Nov reported clear. Later devotional anniversary account shifts key healing to 4 Nov; preserve clinical dates.",
+      "medical_review": "30 April 1998 medical board;22 June theologians;20 October cardinals/bishops;21 December 1998 decree. Beatification 2 May 1999.",
+      "named_medical_sources": "Dr Ferdinando Basile, signed hospital attestation reproduced; Dr Pietro Gerardo Violi, physician/nephrologist collaborating with Capuchin postulation, clinical reconstruction 2010; Dr Tommaso Contaldi, treating pulmonologist/book author per published account.",
+      "primary_sources_obtained": [
+        "AAS 91(1999)pp 587–589 decree 21 Dec 1998; full official volume downloaded and pages visually checked",
+        "Reproduced Basile attestation and hospital discharge form, downloaded and visually inspected; publication provenance rather than original hospital custody",
+        "First page handwritten personal narrative reproduced, downloaded and inspected"
+      ],
+      "source_urls": [
+        "https://www.vatican.va/archive/aas/documents/AAS-91-1999-ocr.pdf#page=587",
+        "https://www.padrepioesangiovannirotondo.it/piosgr/il-miracolo-della-beatificazione-di-padre-pio/",
+        "https://www.caccioppoli.com/%27%2015%20Vita%20Consiglia%20De%20Martino%20e%20Matteo%20Pio%20Colella.html"
+      ],
+      "support": "Documented pre/post imaging, no therapeutic intervention reported, prompt complete lasting improvement, formal unanimous medical assessment and theological acceptance.",
+      "unresolved": "Full hospital chart, original CT images/reports, fluid biochemistry, lymphatic imaging, individual 1998 board opinions and full subsequent follow-up not obtained. No aspiration means fluid composition inferred. Clinical comparison with spontaneous cervical swelling/thoracic-duct leakage needed; not a retrospective diagnosis.",
+      "key_cautions": "Do not say all thoracic duct leaks inevitably fatal or incapable of spontaneous resolution. No authenticated exact individual survival probability. No official decree for fragrance as a separate miracle."
+    },
+    {
+      "id": "H02",
+      "person": "Matteo Pio Colella",
+      "event": "20 January–26 February 2000, San Giovanni Rotondo",
+      "during_pio_lifetime": false,
+      "tier": "1: specific miracle officially accepted for canonization",
+      "condition": "Hyperacute meningococcal sepsis with septic shock, severe hypotension, cardiac arrest, prolonged hypoxemia, respiratory distress, disseminated intravascular coagulation and multiorgan failure.",
+      "hospital": "Casa Sollievo della Sofferenza, San Giovanni Rotondo; pediatrics and Rianimazione II",
+      "treatment": "Extensive medical/ICU care. Official decree includes intubation and assisted ventilation. Violi reports vasoactive drugs, platelet transfusion, antithrombin III, diuretics, cooling, CPR, sedation and paralysis; reproduced board conclusion says treatment effective against bacterial infection but insufficient for consequences.",
+      "timeline": "Onset/admission 20 Jan; extreme deterioration then beginning improvement 21 Jan; sedation/paralysis stopped 31 Jan; awake/alert early Feb; return to pediatrics 12 Feb; discharged 26 Feb. Not all organs instantaneously normal 21 Jan.",
+      "medical_review": "Official biography: diocesan process 11 June–17 October 2000; documents 23 October. Legal validity 12 Jan 2001; medical board 22 Nov 2001; theologians 11 Dec; cardinals/bishops 18 Dec; decree 20 Dec 2001. Canonized 16 June 2002. Violi gives several discrepant administrative dates, retained as secondary differences.",
+      "named_medical_sources": "Dr Pietro Gerardo Violi, physician/nephrologist and investigator collaborating with Capuchin postulation; medical board named in his account: Lorenzo Bonomo, Francesco Di Raimondo, Giovanni Battista Pignataro, Rodolfo Proietti, Giovanni Rocchi; secretary Ennio Ensoli. Antonio Colella, father, physician; Maria Lucia Ippolito, mother, teacher and 2002 book author.",
+      "primary_sources_obtained": [
+        "AAS 94(2002)pp 491–493 decree 20 Dec 2001; full official volume downloaded and pages visually checked",
+        "Vatican official biographical record",
+        "Violi signed 2010 clinical/cause reconstruction with attributed chart and expert excerpts; NOT full original dossier"
+      ],
+      "source_urls": [
+        "https://www.vatican.va/archive/aas/documents/AAS-94-2002-ocr.pdf#page=491",
+        "https://www.vatican.va/news_services/liturgy/saints/ns_lit_doc_20020616_padre-pio_en.html",
+        "https://www.padrepioesangiovannirotondo.it/piosgr/il-miracolo-della-canonizzazione-di-padre-pio/",
+        "https://books.google.com/books/about/Il_miracolo_di_Padre_Pio.html?id=y1DZAAAAMAAJ"
+      ],
+      "support": "Severe objectively documented critical illness; unexpectedly good neurological/systemic recovery reported; extensive formal inquiry and unanimous medical conclusion reported by investigator; official miracle decree verified.",
+      "unresolved": "Full chart, real-time physiologic data, microbiology, drug timing, SOFA/PRISM/PELOD-equivalent criteria, complete medical opinions and follow-up assessments not obtained. No independent patient-level prognosis recalculation.",
+      "key_cautions": "Do not infer 100%death from a count of nine affected systems. Definitions and severity/duration matter. Pharmacologically maintained coma is not irreversible brain death. The reported vision is a distinct testimony, not an independently filmed bedside apparition."
+    },
+    {
+      "id": "H03",
+      "person": "Wanda Półtawska, Polish physician",
+      "event": "November 1962, Kraków",
+      "during_pio_lifetime": true,
+      "tier": "2: strong contemporary correspondence; incomplete diagnostic dossier",
+      "condition": "Suspected cancer/tumorous growth; exact site differs in popular versions. Her own published testimony says surgeons allowed a 5%chance of inflammation. Histological malignancy not established by materials obtained.",
+      "hospital": "Kraków oncology hospital according to official Padre Pio portal; no original hospital file obtained",
+      "treatment": "Planned surgery did not occur because lesion was no longer found; exact prior treatments not established from chart",
+      "timeline": "Official portal dates prayer request 17 Nov 1962; cropped request facsimile has no visible date. Thanks letter visibly 28 Nov 1962 states recovery 21 Novbefore surgery. Later personal encounter with Pio 1967.",
+      "medical_review": "Not the named miracle accepted by the beatification/canonization decrees. No recovered case-specific Vaticanmedicalboard judgment.",
+      "named_medical_sources": "Patient Wanda Półtawska, physician; Bishop Karol Wojtyła (later John Paul II), contemporaneous prayer/thanks author; Angelo Battisti, delivery witness reported later.",
+      "primary_sources_obtained": [
+        "Published request/thanks facsimiles, visually reviewed",
+        "Półtawska first-person text reproduced by devotional publication; original bibliographic lead Lay Witness October 1999, not original issue obtained"
+      ],
+      "source_urls": [
+        "https://padrepiodevotions.org/pray-hope-and-dont-worry-issue-18/",
+        "https://www.padrepio.it/mons-wojtyla-a-padre-pio-pregate-per-wanda/",
+        "https://caccioppoli.com/Close%20encounters%20of%20a%20special%20kind%20with%20Padre%20Pio%20around%20the%20world%2C%20without%20leaving%20the%20convent..html"
+      ],
+      "support": "Contemporary request-and-thanks correspondence is substantially better than a story first appearing decades later; patient initially unaware of request.",
+      "unresolved": "Preoperative diagnostic and examination records, histology status, original Lay Witnessissue, hospital team statements.",
+      "key_cautions": "Do not call confirmed terminalcancer with pathology established. Patient later believedmiracle; her initial possibility of inflammation must be preserved. Public canonical acceptance of Pio does not certify this case."
+    },
+    {
+      "id": "H04",
+      "person": "Anna Gemma Di Giorgi",
+      "event": "June 1947, Sicily–San Giovanni Rotondo",
+      "during_pio_lifetime": true,
+      "tier": "3: major public lifetime claim; original ophthalmology records needed",
+      "condition": "Reported congenital blindness/very poor vision and absent pupils, followed by improved vision despite persistent abnormal eye appearance; exact anatomic diagnosis unverified.",
+      "hospital": "Named ophthalmologists in later compilations, not independently authenticated full institutional records",
+      "treatment": "No ocular surgery described in this claim; blessing/communion and improvement during journey or visit in differing accounts",
+      "timeline": "June 1947 journey; exactday and whether partial sight began beforeencounter vary. Laterdirect interviews 1967/1971 andpublictestimony 2005 reported.",
+      "medical_review": "Not the named miracle in either official decree. No authenticated Vaticanrejection oracceptance file recovered for this specificcase.",
+      "named_medical_sources": "Bonifacio, Cucco, Contini/Contino and Caramazza named bybiographers; firstnames/specialties/institutions insufficiently verified. Do not attach guessedcredentials.",
+      "primary_sources_obtained": [
+        "No original ophthalmological before/after report obtained. Public first-person testimony recorded by journalist 2005 retrieved inwebsearch, localdownloadfailed.",
+        "Sourceleads: Carty 1953 chapter VIIIpp 159–162; Clarice Bruno 1970 pp 111–116; John Schug 1971 interview via Ruffin 1991 pp 333–334"
+      ],
+      "source_urls": [
+        "https://staging.trcgiornale.it/?p=6445",
+        "https://caccioppoli.com/Heavenly%20Facts.%20June%202019.pdf"
+      ],
+      "support": "Identified living participant repeatedly testified publicly; not simply anonymous internet folklore.",
+      "unresolved": "Before/aftervisualacuity, slitlampexam, fundusfindings, precise pupil/anteriorsegmentdiagnosis, originaldoctors’reports, early 1947 newspaperfacsimiles.",
+      "key_cautions": "Do not equate photographically invisible pupils with proven absence of any lighttransmission. Neither confirm anatomicalimpossibility nor diagnoseher retrospectively frompictures. Surname-only testimonyisalead, notindependentdoctorvalidation."
+    }
+  ]
+}

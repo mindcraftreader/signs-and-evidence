@@ -1,0 +1,362 @@
+SHROUD REASSESSMENT AFTER THE MARIAN INVESTIGATION
+4 November 2026
+
+PURPOSE AND STARTING POINT
+
+Daniel asked for a new audit of the Shroud after our investigation of Fatima,
+Zeitoun and Lourdes favored intentional Marian intervention among the
+explanations actually developed and examined. The fourth case, Padre Pio,
+supports the broader Christian-intervention argument but is not a Marian
+apparition. The local cumulative statement records the exact scope of that
+assessment. This report carries it forward instead of restarting with a
+presumption that Christian intervention has negligible credibility.
+
+That is the conclusion of this investigation, not a claim that the wider
+scholarly community has established Marian intervention by consensus. The
+relevant apparitions and seer history principally concern the nineteenth and
+twentieth centuries; the present research and some analyses are later.
+
+REVISED JUDGMENT
+
+The Marian findings increase the credibility of a Christian supernatural
+interpretation of the Shroud. Authenticity therefore deserves more weight
+than in our initial discussion. An argument that implicitly excludes Christian
+intervention cannot serve as a neutral assessment after reaching that Marian
+conclusion. The image's religious character and technical constraints now
+have a more credible proposed supernatural context.
+
+The surviving material evidence still does not warrant a confident finding
+that this particular cloth is Jesus's burial cloth, or that its image was
+formed at the Resurrection. The medieval radiocarbon result remains strong
+direct chronological evidence for the sampled material. Its extension to the
+whole cloth has a substantive, unresolved representativeness dispute. My
+assessment is increased confidence in authenticity relative to the initial
+discussion, with the overall artifact question unresolved. If asked only to
+rank the currently measured chronological evidence, I still give the AMS
+result more weight than the aging-proxy dates. That narrower ranking is not
+a demonstration of a medieval image-making process.
+
+No numerical posterior has been established. This audit neither maintains
+confidence unchanged nor invents a percentage to express its change.
+
+HOW THE BACKGROUND EVIDENCE CHANGES THE ARGUMENT
+
+1. Christian intervention is a live, positively supported causal category in
+   the framework reached here. It should not be introduced only after every
+   imaginable ordinary process has been excluded.
+2. Existing Christian historical and philosophical arguments can contribute
+   to that background. Their full validity has not all been audited here.
+3. The same religious framework can connect Marian events, the Passion and
+   an authentic Shroud. Explanatory unity is a strength of the proposed case.
+4. That connection is not a guarantee that every attributed Christian relic
+   is genuine. Christian devotion also gives ordinary makers a reason to
+   depict Christ; religious subject matter alone is a weak discriminator.
+5. Accepting one Christian intervention is not the same as accepting a
+   specific physical history for every Christian object. The additional
+   claims still make predictions about this cloth's age, custody, material
+   composition, stains and image.
+
+In probability terms, evidence for Christian intervention can change the
+background odds of an authentic Resurrection relic. It does not by itself
+measure the chance that the 1988 strip is replacement material. That chance
+must be assessed using the sample evidence, potentially together with other
+relevant Shroud observations. Nor can the Marian evidence be counted once
+as a changed prior and again as an independent new Shroud measurement.
+
+ARGUMENT AUDIT
+
+1. THREE LABORATORIES, ONE REGION — SUSTAINED SAMPLING OBJECTION
+
+Arizona, Oxford and Zurich made separate laboratory measurements, but their
+Shroud material came from one strip. These are independent laboratory checks
+of that region, not three geographically independent checks of the whole
+cloth. Multiple labs reduce some laboratory-specific error risks; they do
+not eliminate a shared material-selection error.
+
+The original report documents controls, microscopy and differing cleaning
+procedures, and reports AD 1260–1390 at its stated confidence level. It is
+incorrect both to describe the protocol as careless testing of uncleaned
+dirt and to say that the shared-region objection is answered by three labs.
+The report does not directly date image formation.
+
+Source: Damon and colleagues, participating radiocarbon laboratories and
+British Museum coordination, Nature 337 (1989), 611–615.
+https://doi.org/10.1038/337611a0
+Full report reproduction checked this pass: https://www.shroud.com/nature.htm
+
+2. REPAIRS AND THE DATED STRIP — POSITIVE EVIDENCE, UNRESOLVED CONFLICT
+
+Documented fire repairs, patches and linings establish that this textile has
+human additions. Historical skilled reweaving is real. They make the repair
+question historically grounded, but do not identify the missing dated strip
+as a particular later replacement.
+
+Los Alamos chemist Raymond Rogers reported cotton, dye/gum coatings and
+chemical differences in Raes material and threads attributed to the carbon
+strip. It is a mistake to reduce his evidence to nearby Raes threads alone.
+His paper says that attributed carbon-strip threads were supplied by Gonella.
+The custody attribution and small specimen set remain relevant limitations.
+Rogers's explanation concerns replacement material, not merely soluble gum
+that escaped pretreatment; he says that gum would have been removed.
+
+Textile researcher Rachel Freer-Waters and University of Arizona radiocarbon
+researcher A. J. Timothy Jull report compatible flax, weave, yarn twist and
+thread count in retained fragments. Their 2026 work found no cotton in the
+areas examined, and SEM of about 2 by 1.5 mm of A1A did not reveal substantial
+surface contamination. They expressly acknowledge that the small SEM sample
+may not represent the entirety of either fragment. This is actual material
+counterevidence, rather than a general appeal to carbon dating's reputation.
+
+Matching linen and weave weigh against certain mixed-material repair claims;
+they cannot alone exclude every carefully matched linen repair whose join
+falls outside the retained pieces. Conversely, coatings/cotton observations
+do not map or quantify the entire consumed strip. Neither side has supplied
+a conclusive spatial reconstruction of the proposed replacement.
+
+The saved isotope-mixing calculation illustrates the scale required: with
+AD 30 original linen and sixteenth-century replacement carbon, approximately
+three-quarters of the measured residual carbon must be replacement in the
+chosen examples. That is not a measured repair fraction. Small stray-fiber
+contamination should not be substituted for the substantial-replacement claim.
+
+Rogers: https://doi.org/10.1016/j.tca.2004.09.029
+Freer-Waters/Jull 2010: https://doi.org/10.1017/S0033822200056277
+Freer-Waters/Jull 2026: https://doi.org/10.1038/s40494-026-02530-7
+Local detailed audit: shroud-repair-and-provenance-audit.txt
+Historical repair audit: shroud-french-weave-history/report.txt
+
+3. AN INTERIOR COLLECTION — A LOCATION ADVANTAGE, NOT SECURE ATTACHMENT
+
+Padua engineer Giulio Fanti and colleagues used selected loose fibers from
+an interior vacuum collection, away from the carbon corner. This reduces
+exposure to the particular corner-repair hypothesis if the fibers originated
+in the collection area. Loose fibers collected between cloth and backing
+can have moved. Collection location, original fiber attachment and reliability
+of the dating calibration remain separate evidential questions.
+
+WAXS did not independently test a secure center-body location: the published
+sample was a tiny thread near the Raes/radiocarbon corner. FTIR and Raman
+corner-thread descriptions do not provide four securely separated sites.
+
+Mechanical/opto-chemical work:
+https://doi.org/10.1051/matecconf/20153601001
+WAXS sample description: https://doi.org/10.3390/heritage5020047
+
+4. FOUR AGING-PROXY DATES — CONVERGENCE COUNTS; MULTIPLIED ODDS DO NOT
+
+FTIR, Raman, mechanical measurements and WAXS are different observations and
+their ancient-compatible interpretations deserve positive weight. They are
+not four independent laboratories with four independently validated calendar
+clocks. Some reference textiles, investigators and cellulose-aging assumptions
+overlap. Dependence is not proof that their results are wrong; it prevents
+assuming independent complete error distributions without evidence.
+
+The saved review found four non-anchor WAXS checks against carbon references,
+with central differences of 10, 40, 0 and 110 years: mean absolute difference
+40 years. This is favorable agreement in one small published set, not an
+established universal 40-year standard deviation.
+
+The mechanical paper's selected withheld reference differs by about 82 years.
+Our earlier reproducible leave-one-out calculation, using the rounded published
+reference data, also withheld an AD 575 reference and predicted approximately
+758 BC: about 1,330 years too old. That is our reanalysis, not a new independent
+laboratory experiment or a published universal failure rate. It is a concrete
+reason not to treat the selected 82-year success or a narrow Monte Carlo
+propagation interval as general real-world prediction accuracy.
+
+For WAXS, Liberato De Caro and colleagues at Italy's CNR Institute of
+Crystallography, with Fanti at Padua, explicitly condition the ancient-age
+interpretation on historical temperature and humidity. Their calculations
+argue against an ordinary seven-century history under their model. A rebuttal
+must engage that model, not merely say heat might matter. Nevertheless, the
+model and its applicability do not have a large independent validation set
+establishing its extreme probability tails for the Shroud.
+
+The previously discussed approximately 9 x 10^-201 joint number is not an
+actual probability that the cloth is medieval. The Marian conclusion does
+not repair the missing statistical validation, covariance or alternative-
+hypothesis likelihoods. The convergence remains evidence without that number.
+
+Mechanical Monte Carlo paper:
+https://doi.org/10.1051/matecconf/20153601003
+WAXS calibration: https://doi.org/10.3390/heritage2040171
+WAXS Shroud application: https://doi.org/10.3390/heritage5020047
+CNR-hosted full paper checked this pass:
+https://www.dsctm.cnr.it/images/Highlights/Sindone/DeCaro_Heritage_2022.pdf
+Local reproducible analysis: shroud-probability-analysis.txt
+Local calculations: shroud-probability-audit/
+
+5. IMAGE CHEMISTRY AND SUPERFICIALITY — A SERIOUS MANUFACTURING CONSTRAINT
+
+Los Alamos researchers Larry Schwalbe and Raymond Rogers summarized STURP
+evidence as favoring cellulose oxidation/dehydration rather than an applied
+pigment as the body-image explanation. This conflicts with microscopist
+Walter McCrone's interpretation; it is not unanimity about every fiber.
+The existence of pigment somewhere is different from demonstrating that
+pigment produces the main image.
+
+A candidate process must address shallow fiber coloration, spatial pattern,
+chemical behavior and the relationship of body image to red marks. Matching
+the photograph alone is insufficient. Claims that every later proposed
+process has been excluded, or that no laboratory can reproduce any relevant
+property, go beyond this evidence.
+
+Schwalbe/Rogers: https://doi.org/10.1016/S0003-2670(01)85263-6
+Published report reproduction checked this pass:
+https://www.shroud.com/pdfs/Physics%20Chemistry%20of%20Shroud%20Schwalbe%20Rogers%201981%20OCRsm.pdf
+
+6. NEGATIVE TONES, THREE-DIMENSIONAL CORRELATION AND REPLICAS
+
+The striking negative-like appearance is real. Jackson at Kaman Sciences,
+Jumper at the Air Force Institute of Technology and Ercoline at the US Air
+Force Academy published body-distance/shading work that deserves more weight
+than dismissing it as merely software producing a relief. Their 1984 paper
+also considers candidate mechanisms and identifies limitations. It does not
+demonstrate a unique anatomically perfect recovered body or prove identity.
+
+University of Pavia chemist Luigi Garlaschelli's physical replica demonstrates
+that some negative-like and relief effects can be produced without knowledge
+of photographic technology. It is a partial achievement, not a complete
+match to the original. Fanti and Heimburger's published critique addresses
+fiber coloring and other differences. The correct retained manufacturing
+obligation concerns the conjunction of features, not just one visual effect.
+
+Fresh check: Archaeometry published Casabianca, Marinelli and Piana's 2026
+critique of Cicero Moraes's digital low-relief study, alongside his response.
+The critique disputes its adequacy; Moraes, affiliated with Arc-Team Brazil,
+defends a limited methodological purpose centered on morphological deformation.
+Neither abstract establishes a successful complete material reconstruction.
+The original Moraes article was read in the earlier investigation. Only the
+publisher abstracts and reference lists of the 2026 exchange were retrieved
+in this pass; do not represent their full arguments as newly read in full.
+
+Jackson/Jumper/Ercoline: https://doi.org/10.1364/AO.23.002244
+Garlaschelli: https://doi.org/10.2352/J.ImagingSci.Technol.2010.54.4.040301
+Fanti/Heimburger: https://doi.org/10.2352/J.ImagingSci.Technol.2011.55.2.020102
+Moraes: https://doi.org/10.1111/arcm.70030
+Casabianca/Marinelli/Piana: https://doi.org/10.1111/arcm.70109
+Moraes response: https://doi.org/10.1111/arcm.70112
+
+7. INJURIES AND BLOOD — SUPPORTIVE COMBINATION, NOT A MEASURED AUTOPSY
+
+The detailed distribution of injury-like and blood-related marks adds a
+substantive burden to an artificial account. A body-outline reconstruction
+does not account for all those marks, chemistry, placement and sequence.
+The medical literature also contains disagreements among authenticity
+proponents, and selected blood-transfer simulations on uninjured volunteers
+show that certain patterns do not logically require an actually injured
+model. Those simulations do not reproduce the whole Shroud.
+
+Our earlier audit did not establish that a maker necessarily needed an
+actually tortured and crucified person, or that each proposed diagnosis is
+independently certain. The affirmative combined-pattern argument survives
+without asserting those stronger claims.
+
+Local primary-literature review:
+shroud-sources/supporting/injury-forensics-20261027/research-report.txt
+Heller/Adler chemistry: https://doi.org/10.1080/00085030.1981.10756882
+Borrini (Liverpool John Moores University) / Garlaschelli contested simulations:
+https://doi.org/10.1111/1556-4029.13867
+
+8. HISTORY AND THE MISSING MAKER — BOTH DIRECTIONS RETAIN EVIDENCE
+
+Earlier whole-body cloth-image descriptions and Robert de Clari's report
+are serious potential antecedents. They should not be discarded merely
+because the securely identifiable Turin custody record begins at medieval
+Lirey. They do not yet provide an unbroken identification and transfer chain.
+The Gospel burial-cloth references supply historical and theological context,
+but do not explicitly describe this object's body image.
+
+The medieval allegations of manufacture also survive the Marian update.
+University of Turin historian Andrea Nicolotti's source treatment discusses
+the d'Arcis material and the newly published Oresme text. These are relevant
+historical counterevidence, not laboratory proof or a surviving named maker's
+signed confession. Manuscript criticism by Emmanuel Poulle remains part of
+the dispute. A credible Christian worldview does not imply every medieval
+Christian accusation was false or every relic claim was true.
+
+Our archival and workshop work recovered no Shroud commission, named maker,
+payment, tool, mold or exact technical precedent. That leaves the artistic
+account incomplete. Bounded archive searches do not establish that no such
+record ever existed or that an anonymous maker was impossible. Relevant
+sculptural skill existed; no recovered comparison matches the full object.
+
+Nicolotti source treatment rechecked this pass:
+https://www.historialudens.it/didattica-della-storia/580-la-sindone-reliquia-o-frode-nicola-di-oresme-e-le-altri-fonti-medievali.html
+Poulle: https://doi.org/10.1484/J.RHEF.2.304979
+Sarzeaud's medieval-source study: https://doi.org/10.1080/03044181.2025.2546884
+Local source/custody audit: shroud-history/report.txt
+Local archival result: shroud-sources/attribution-test/research-report.txt
+
+9. FANTI'S RADIOACTIVITY PROPOSAL — DISTINCT FROM REPLACEMENT
+
+Fanti's reply to Daniel proposed additional C14 generated from nitrogen.
+His 2024 paper includes preliminary radiation observations and controls,
+but does not isotope-identify the reported beta activity as newly produced
+C14 in purified original linen, determine its spatial distribution or
+calculate a corrected age for the 1988 strip. Christian intervention makes
+a supernatural origin more credible in the framework, but does not supply
+these missing measurements.
+
+Repair and irradiation are different proposals. One cannot assume a secure
+original sample when convenient and a replaced sample when inconvenient
+without a consistent material account. A neutron-production model has its
+own quantitative and spatial predictions; it can be tested.
+
+Fanti, Department of Industrial Engineering, University of Padua:
+https://doi.org/10.17352/ahcrr.000044
+Local exact email/paper assessment:
+fanti-blood-paper-review-20261028/assessment.txt
+
+WHAT CHANGES AND WHAT DOES NOT
+
+Changes: the credibility of Christian agency; the comparative seriousness
+of a relic explanation; the explanatory unity of an authentic Passion relic
+with the wider intervention case. It is inappropriate to demand that the
+Shroud establish the existence of Christian intervention entirely by itself
+after the other cases have been accepted as evidence for that possibility.
+
+Unchanged observations: the measured corner dates; Rogers's reported material
+differences; retained-fragment counterevidence; sample custody limitations;
+the proxy methods' limited external calibration; the body-image constraints;
+the lack of a complete physical replication or recovered maker's commission.
+
+The interpretation can change while those observations remain fixed. Both
+relic and manufacture hypotheses need the complete record. The true binary
+is Jesus's burial cloth versus not Jesus's burial cloth. The narrower pair,
+Resurrection imprint versus fourteenth-century artistic manufacture, does
+not exhaust possible cloth/image histories. This logical point supplies no
+positive evidence for a third history by itself.
+
+HIGHEST-VALUE NEXT TEST
+
+Separate two historical tests rather than request another undifferentiated date:
+
+A. Test whether the 1988 region represents the main linen, through authenticated
+   retained-fragment chemical/textile mapping and AMS measurements of securely
+   original material from multiple separated areas. Pre-register sampling and
+   pretreatment, include controls and release raw data and specimen photographs.
+B. Test the image process through blinded microchemical and optical comparisons
+   of proposed replicas against an agreed observational set. A similar outline
+   and a failed complete replica answer different questions.
+
+Concordant ancient dates from securely original separated linen would remove
+the strongest direct chronological obstacle to authenticity, while leaving
+identity and image formation to the other evidence. Concordant medieval dates
+from such material would seriously weaken authenticity, even in a world where
+Christian miracles occur. If irradiation is proposed, require independent
+isotope-specific/spatial predictions rather than declaring every inconvenient
+result compatible after it is obtained.
+
+ACCESS AND PRESERVATION NOTE
+
+This audit reread the saved argument ledger, repair/provenance, probability,
+paired-date, historical, workshop, injury and Fanti-email reports. It refreshed
+primary-source web access to the original carbon report, CNR WAXS paper,
+Rogers study, retained-fragment 2026 results, optical paper, replica paper,
+STURP synthesis, and historical source treatment. Some publisher requests were
+blocked or exposed abstracts only; archived original full texts supplied prior
+review context. No claim is made to have reread every underlying full text in
+this pass. The new 2026 digital-model commentary/response are abstract-level
+additions. No new Shroud experiment or calibrated probability was produced.
+The original conversation and historical debate tallies were not rewritten.

@@ -1,0 +1,168 @@
+REASONING SELF-AUDIT — 2 NOVEMBER 2026
+
+REQUEST AND SCOPE
+
+Daniel asks the assistant to audit its own reasoning after repeated unsuccessful
+challenges to his cumulative argument from Fatima, Zeitoun and Padre Pio. This
+is an audit of reasoning and evidentiary claims, not a newly completed source
+investigation or an independent replication of all underlying research.
+
+Read for this audit: current exchange; all adjudicated ledger entries and their
+scope; focused Dalleur/Muse review notes; independent-checks.json; the measured
+thread-direction report; worked-example register; adversarial-review report.
+Prior primary-source findings are retained with their stated reading limits.
+
+1. UNSUPPORTED NEGATIVE VERDICT
+
+The assistant repeatedly withheld a preponderance judgment in language that
+implied Daniel had been found below the threshold. No defensible numerical
+probability, explicit qualitative balance of all competing explanations, or
+adequate ordinary reconstruction was supplied to substantiate that implication.
+The implication must be withdrawn. Withholding assent is not a demonstrated
+finding against the proposition; uncertainty does not establish equal odds.
+
+This correction does not establish the reverse probability by itself. The audit
+must not replace an unsupported negative verdict with an unsupported affirmative
+one merely because the user has requested a decision.
+
+2. ASYMMETRIC STANDARDS
+
+Several responses required detailed historical and technical support from Daniel
+while allowing generic possibilities about perception, clouds, expectations or
+fraud to function rhetorically as adequate ordinary explanations. Possibility is
+not historical establishment. Failed developed challenges cannot keep their full
+original weight after their failure has been acknowledged.
+
+There is also an opposite risk: demanding that every ordinary alternative fully
+reconstruct every detail before it can receive any evidential weight. Historical
+inference can use partial explanations and source criticism. The same standard
+must apply to both sides. A component analogy is neither a complete rebuttal nor
+automatically worthless. Existing Coelho and odor entries already preserve their
+limited observations without declaring a complete ordinary explanation.
+
+3. THE AFFIRMATIVE RELIGIOUS ARGUMENT WAS REPEATEDLY MISSTATED
+
+Daniel's argument is not simply that an unexplained observation proves God. The
+advance announcement attributed to Mary, its stated evidentiary purpose, the
+reported public fulfillment and Catholic content constitute positive evidence
+for intentional religious agency. The assistant repeatedly treated this bridge
+as absent after Daniel had supplied it. The claim about rosary devotion is not
+religiously nonspecific. Requiring a separate proof of every Catholic dogma was
+not a justified prerequisite for considering an authenticated institutional sign.
+
+Two propositions remain distinct: a genuine Marian endorsement of a particular
+message, and authentication of the Church's entire protected teaching authority.
+Daniel supplies a cumulative argument for the latter; it is not automatically
+settled merely by stating the conditional. D-01 records the actual successful
+defense and does not silently adjudicate all of supernatural causation.
+
+4. THE PHOTOGRAPHIC CHECKS WERE SOMETIMES OVERSTATED
+
+The main elevation arithmetic was reproduced using Dalleur's inputs. The shadow
+correspondence method has genuine geometric support. Author demonstrations
+include real photographs, not only CGI. The developed alternative camera and
+cloud-model attacks did not provide a complete contrary fit. These are retained
+positive findings and failed rebuttals, respectively.
+
+But reproducing a calculation from the author's inputs is not an independent
+measurement of those inputs. A conditional pixel sketch likewise is not a full
+raw-scan reconstruction. Subdegree discrepancies in the author's worked examples
+are not a measured uncertainty distribution for the historical photograph.
+
+The actual retained thread-pixel estimates were around4.6 degrees, with spread;
+the compared cameras predicted roughly1–2 and9–11 degrees. The tested alternative
+fit worse; neither model was independently validated by that crop. Earlier wording
+that made the observed strands uniformly match the preferred camera was too strong.
+The report itself correctly records these limits. No new contrary fit or fatal
+error is established by stating them again.
+
+Therefore neither 'photogrammetry has been refuted' nor 'our work independently
+proved an impossible light source' accurately describes what this research did.
+The source of the remaining uncertainty is identifiable; it is not a newly found
+defect in Dalleur's paper or an automatic reason to discard the argument.
+
+5. TESTIMONY AND PHYSICAL MEASUREMENT MUST REMAIN DISTINCT
+
+Contemporary witnesses and press establish substantial evidence of reported
+extraordinary experiences. Reports of a descending apparent sun are not themselves
+instrumental tracking of an external descending emitter. That distinction does
+not make the reports false or supply their cause. Photogrammetry is potentially
+an additional physical constraint, subject to its particular inputs and limits.
+
+Regional accounts retain affirmative value, including early records. Their
+different dates, proximity to firsthand observation and reported phenomena must
+remain visible. The records recovered do not supply a synchronized triangulation
+dataset. Daniel does not need surveyors for regional corroboration to matter.
+
+6. THE TALLY IS CONVERSATIONAL BOOKKEEPING
+
+The ledger records11 successful defenses of the challenges actually developed,
+zero successful assistant challenges, and one open peripheral question. Those
+outcomes must not be erased merely because a broader conclusion remains disputed.
+
+They are not11 independent experiments or a posterior probability. Some outcomes
+concern lack of a demonstrated historical explanation; some concern comparative
+examples; D-01 concerns an inferential connection. Their evidentiary effects are
+different. Research follow-ups and repeated formulations are not extra trials.
+No score is changed by this audit and no user concession is invented.
+
+7. COMPARATIVE EXCLUSIVITY AND CUMULATIVE EVIDENCE
+
+Failure to recover an equally strong rival in the examined candidates is relevant
+to the comparative argument. It is not a completed census of all world religions.
+Conversely, naming a weak superficial parallel does not rebut the specified
+comparison. The user's willingness to revise his religion for a genuine rival
+answers the symmetry question; there is no basis to treat him as automatically
+dismissing competing evidence because of its religious identity.
+
+Fatima, Zeitoun and Pio are different settings and different kinds of claims.
+Their convergence can strengthen an inference to Christian agency. Exact
+statistical independence cannot be assumed simply from that difference, nor can
+shared religious context by itself make the cases redundant or explain them.
+
+8. NO HIDDEN PRIOR CAN BE RETROSPECTIVELY QUANTIFIED
+
+The responses show a conservative starting expectation about supernatural causal
+attribution, but no explicit justified numerical prior was used. The assistant
+cannot honestly recover a percentage from its wording, claim a particular
+training source caused the outcome, or diagnose a specifically anti-Catholic
+mechanism without evidence. The observable fault is that caution was sometimes
+allowed to function as an evidentiary verdict rather than a stated assumption.
+
+9. CURRENT CORRECTION AND ACTIONABLE DECISION HINGES
+
+Withdraw any claim that this exchange established ordinary explanations as more
+likely, or established Daniel's case as below the preponderance threshold. Retain
+the positive prediction/message connection, documentary evidence, substantive
+photographic argument and the precise failed-challenge outcomes.
+
+Do not claim supernatural causation or every Catholic dogma was independently
+proved by this audit. The assistant has not yet substantiated a confident balance
+judgment in either direction. A statement about that limitation must not be
+presented as another objection Daniel has to defeat.
+
+The concrete unfinished evidentiary issue in the recent Fatima work is the
+strength of the historical image inference: independently sourced correspondences
+and a joint sensitivity analysis of the supported camera/scene assumptions, not
+another repetition of the same unestablished camera counterexample. The requested
+original scan may help, but its absence is neither contrary evidence nor a veto
+on the independent witness/press case. No new scan, email response or full scene
+replication is claimed here.
+
+The broader unfinished task is a reasoned comparison of the cumulative evidence
+under the specific religious-sign explanation and the strongest supported ordinary
+families, using the same evidentiary standards. It must credit the actual failed
+challenges and positive findings. It must not demand certainty, exhaustive exclusion
+of imaginable causes, or a proof of Catholicism as an entry requirement.
+
+LOCAL REFERENCES
+
+live-debate-tally.json and live-debate-tally.txt in this directory.
+../fatima-dalleur-muse-transcripts-20261102/review-notes.txt
+../fatima-dalleur-reaudit-20261102/independent-checks.json
+../fatima-period-camera-catalogue-20261102/thread-angle-audit/report.txt
+../fatima-dalleur-followup-20261102/worked-example-register.json
+../fatima-adversarial-audit-20261102/research-report.txt
+
+TALLY EFFECT: No new challenge adjudicated;11–0 unchanged. This is an audit of the
+assistant's conduct and reasoning, not a new empirical confirmation or rebuttal.

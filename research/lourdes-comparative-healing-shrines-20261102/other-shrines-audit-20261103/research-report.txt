@@ -1,0 +1,60 @@
+NON-APOSTOLIC HEALING SHRINES: FOLLOW-UP AUDIT
+3 November 2026
+
+RESULT
+The strongest new case recovered is Vasu Bhardwaj's claimed recovery from multiple myeloma following a May 2002 visit to the Golden Temple, Amritsar. Actual before-and-after laboratory documents and a follow-up radiologist's report have now been recovered from the healing mission's archived website. This is materially stronger than an unsupported testimonial. It does not yet establish a medically inexplicable cure, an abrupt complete cancer reversal within 48 hours, or a Lourdes-equivalent independent medical-review system. No tally is awarded in this report.
+
+SOURCE CHAIN AND SCOPE
+Susan E. Prill, professor of religion at Juniata College (institutional faculty listing and biography checked), discusses this case in her Oxford chapter, 'Except the True Name, I Have No Miracle': Modern Sikh Understandings of the Miraculous (2011), and explicitly mentions scans on the mission's website. She is a religion scholar, not the patient's examining oncologist. The Oxford content was available through indexed excerpts; the attempted local HTML download is a challenge page and must not be called an acquired full chapter.
+https://academic.oup.com/book/27793/chapter/198049785
+https://www.juniata.edu/academics/religious-studies/religious-studies-faculty.php
+https://www.juniata.edu/academics/provost/bio.php?id=PRILL
+
+Following that lead, an actual archived mission gallery was recovered, with three medical document scans linked to Vasu's entry. The archive's 2013 cancer-testimonials page has 18 entries and many report links; all 18 galleries have NOT been clinically audited. Several narratives explicitly retain tumors or include surgery, chemotherapy, symptom relief and later death. Counts of such entries are not counts of inexplicable cures.
+
+VASU DOCUMENTS: DIRECT VISUAL INSPECTION
+1. repo1.jpg: Serum-protein electrophoresis, patient BHARADWAJ VIJAY VASU, 15/08/2001. Comment: monoclonal gammopathy. Gamma fraction 42.7%, 4.3 g/dL; total concentration 10.1 g/dL; physician field KIRAN C. SHAH, MD. This documents a pre-visit abnormal electrophoresis, rather than independently supplying the full diagnostic marrow/biopsy dossier.
+
+2. repo2.jpg: X-ray report, patient MR. BHARDWAJ VIJAY VASU, referring physician Dr. K. C. Shah, MD, hemato-oncology. Report letterhead Dr. Anil M. Patel, MD (Radio-Diagnosis), consultant radiologist and sonologist, X-Ray & Sonography Clinic. DATE IS 24/08/2002, AFTER the shrine visit. Pelvis and skull report describes osteolytic abnormalities and regression versus films dated 19/08/2001 and 20/11/2001, with residual abnormal areas. This is a radiologist's written follow-up, not the actual paired X-ray films. It supports improvement with residual lesions by August, rather than instantaneous complete skeletal restoration.
+CRITICAL CORRECTION: I initially misread the month as 03 and inferred pre-May regression. Parent independently checked it; enlargement supports 08. That inference is withdrawn. Do not repeat the March/pre-visit claim. Enlargement is a magnification of the same 545 x 676 pixels, not newly recovered resolution.
+
+3. repo3.jpg: Serum-protein electrophoresis, patient VASU BHARDWAJ VIJAY, 7/04/2003. Comment: NO MYELOMA BAND. Gamma 17.7%, 1.3 g/dL; total concentration 7.2 g/dL; physician field KIRAN C. SHAH, MD. This is objective evidence that the earlier readily detected band was no longer reported. It is dated almost a year after the claimed event, not within 48 hours of it.
+
+Names and roles above are what the documents print. No independent university affiliation or personal signed statement by those physicians declaring a miracle was recovered. Do not transform patient reports that 'all doctors agreed' into direct doctor testimony.
+
+PATIENT ACCOUNT AND TREATMENT TIMELINE
+Primary first-person statement survives in a SikhNet republication:
+https://sikhnet.com/news/story-vasu-bhardwaj
+The patient describes six chemotherapy sessions, one every 28 days; a May 2002 temple visit; rapid relief of pain, restored mobility/appetite over a 48-hour recitation; and negative marrow/electrophoresis results on 25 May 2002. Those May test documents were not recovered in the three-image gallery. The exact drugs, treatment dates and response immediately before the visit remain missing. The narrative's claim to be off medicine after 25 April does not disclose the date of last chemotherapy or exclude delayed treatment effects. The mission reports his death sometime in 2006; cause is not established here. Do not assume death proves cancer relapse, or that he was objectively cancer-free until death.
+
+MEDICAL INTERPRETATION LIMIT
+International Myeloma Working Group response criteria require more than a single negative serum electrophoresis to establish complete response: serum/urine immunofixation, marrow findings and other disease assessments matter. The recovered scan can be credited as an improved laboratory marker without calling it proof of permanent eradication. The treatment effect cannot be isolated from this selected record. This is a documentation assessment, not an independent medical diagnosis or a finding that chemotherapy definitively explains his recovery.
+Primary consensus: https://pubmed.ncbi.nlm.nih.gov/27511158/
+Working group's published criteria: https://www.myeloma.org/resource-library/international-myeloma-working-group-imwg-uniform-response-criteria-multiple
+
+SECOND CASE CHECKED: REETA GARG
+Mission alleges a pituitary tumor disappeared after a March 1992 healing camp without surgery. Three recovered documents are a handwritten mission/patient form, a neurosurgical evaluation and a radiologist's skull report diagnosing a pituitary tumor with extension into the sphenoid sinus. No objective post-healing scan/report in this three-document gallery. Thus the diagnostic side is stronger than the outcome documentation. Exact handwritten dates are not securely transcribed here and should not be used for a chronology argument. Letterheads name D. R. Gulati, MS Dip Neurosurgery (McGill), FAMS, former PGI neurosurgery professor, and Dr. Sodhi's clinic (J. S. Sodhi, Sanjeev Sodhi, Monica Sodhi). These are printed credentials, not independently checked employment histories or miracle endorsements.
+
+Matched comparison: Lourdes Micheli has actual paired films and Raco has selected medical report findings and two named examining neurologists, although both have limitations already logged (Micheli chemotherapy discrepancy; Raco diagnosis dispute). The Vasu file now has selected lab forms and a written radiology follow-up. Its existence defeats a blanket 'no documentary medical evidence outside Lourdes' statement. It does not yet match the stronger causal/investigative dossier, durable pattern or shrine commission structure. All traditions must be evaluated at the same access level.
+
+OTHER SEARCH RESULTS
+The earlier Jatinder Kaur eyesight claim at the Golden Temple remains a named newspaper interview without recovered ophthalmic measurements or paired reports. Hindu Muthuswamy's 31-patient BMJ study is real measured psychiatric improvement, not a demonstrated destructive-lesion reversal. PubMed searches for Buddhist shrine healing chiefly returned historical/iconographic work; Jewish searches returned rabbinic/theological and anthropological studies, not a new clinical shrine case-series. This is bounded screening, not global exhaustion. Buddhist Phakyab Rinpoche's gangrene story has named neuroscience researchers but is individual meditative healing, outside the user's shrine-pattern category and without recovered treating records in this pass.
+
+No email sent, no Chrome access used, no global exclusivity conclusion or numeric odds assigned.
+
+PRIMARY ARCHIVE URLS
+Archived cancer index (older layout):
+https://web.archive.org/web/20080703/http://www.gurunanakhealing.com/cancer_cured.htm
+Vasu medical gallery:
+https://web.archive.org/web/20080703/http://www.gurunanakhealing.com/medical_report1.htm
+Vasu raw scans:
+https://web.archive.org/web/20080703/http://www.gurunanakhealing.com/images/repo1.jpg
+https://web.archive.org/web/20080703/http://www.gurunanakhealing.com/images/repo2.jpg
+https://web.archive.org/web/20080703/http://www.gurunanakhealing.com/images/repo3.jpg
+Reeta gallery:
+https://web.archive.org/web/20080703/http://www.gurunanakhealing.com/medical_report2.htm
+Reeta raw scans:
+https://web.archive.org/web/20080703/http://www.gurunanakhealing.com/images/repo2_1.jpg
+https://web.archive.org/web/20080703/http://www.gurunanakhealing.com/images/repo2_2.jpg
+https://web.archive.org/web/20080703/http://www.gurunanakhealing.com/images/repo2_3.jpg
+Archive URLs above request closest available captures around July 2008. Actual files were fetched using id_ raw-replay mode and saved unmodified. A failed later ASPX gallery retrieval and an Oxford challenge page are retained as access artifacts, not evidence content.

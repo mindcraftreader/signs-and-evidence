@@ -1,0 +1,87 @@
+{
+  "completed": "2026-11-05",
+  "block_ids": [
+    "07",
+    "08",
+    "09",
+    "18"
+  ],
+  "report": "shroud-spatial-geometry-deep-dive-20261104/assessment.txt",
+  "analyst_assessments": [
+    {
+      "claim": "Meaningful tonal/spatial structure",
+      "assessment": "sustained",
+      "evidence": [
+        "S01",
+        "S02"
+      ],
+      "scope": "Reported sampled association and body/cloth-compatible structure, not uniquely recovered original anatomy."
+    },
+    {
+      "claim": "The raw photograph produces a metrically perfect full-body scan",
+      "assessment": "not_established",
+      "evidence": [
+        "S01",
+        "S02",
+        "S04",
+        "S05"
+      ],
+      "scope": "Raw broad relief needed correction; reconstruction requires cloth, transfer function, anatomical and registration assumptions."
+    },
+    {
+      "claim": "Cloth-corrected body compatibility",
+      "assessment": "supported_with_model_dependence",
+      "evidence": [
+        "S02",
+        "S04",
+        "S05",
+        "S13"
+      ],
+      "scope": "Affirmative fit under selected conditions. Competing posture and endpoint definitions remain."
+    },
+    {
+      "claim": "No artwork can produce useful depth-encoded tones",
+      "assessment": "counterexample_to_absolute_claim",
+      "evidence": [
+        "S08",
+        "S09"
+      ],
+      "scope": "Craig/Bresee drawing reports R2=.59 at 33 features; not a directly comparable full-body Shroud replication."
+    },
+    {
+      "claim": "A single simulated drape rules out every real-body origin",
+      "assessment": "not_sustained",
+      "evidence": [
+        "S02",
+        "S04",
+        "S10",
+        "S13"
+      ],
+      "scope": "Moraes tests chosen simulation. Latendresse supplies real scan-based alternative with its own unvalidated transfer assumptions."
+    },
+    {
+      "claim": "No reviewed process explains all relevant properties together",
+      "assessment": "retained",
+      "evidence": [
+        "S01",
+        "S09",
+        "S10",
+        "S17",
+        "S18"
+      ],
+      "scope": "This audit does not demonstrate a complete manufacture or quantify global impossibility."
+    }
+  ],
+  "tally_effect": {
+    "modern_case_numerical_tally_changed": false,
+    "new_shroud_numerical_score_assigned": false,
+    "user_concession_inferred": false
+  },
+  "replication_limits": [
+    "No Blender execution",
+    "No original Shroud depth ground truth",
+    "Full 2026 commentary texts not obtained",
+    "CT article abstract only",
+    "Latendresse peer-reviewed publication independently unverified"
+  ]
+}

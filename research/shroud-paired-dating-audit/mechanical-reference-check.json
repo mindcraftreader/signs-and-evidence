@@ -1,0 +1,15 @@
+[
+  {
+    "study": "Basso, Fanti and Malfi 2015",
+    "doi": "10.1051/matecconf/20153601003",
+    "sample": "FII, Masada",
+    "method": "Mechanical, leave-one-out",
+    "reference_date_AD": 65,
+    "reference_95_halfwidth_years": 12,
+    "estimated_date_AD": 147,
+    "estimated_95_halfwidth_years": 214,
+    "absolute_difference_years": 82,
+    "pooled_with_radiocarbon_pairs": false,
+    "note": "Reference provenance disputed across papers: historical in 2013 spectroscopy/2019 WAXS, labelled radiocarbon in 2015 combined-method Table 1. Counted once, not three independent tests."
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "cases": 7,
+  "required_fields_present": true,
+  "original_raw_clinical_dossiers_obtained": 0,
+  "pdf_pages_visually_inspected": [
+    "Boissarie1891p105",
+    "Boissarie1891p347",
+    "Grandmaison1912p25",
+    "Guinier1909p597"
+  ]
+}

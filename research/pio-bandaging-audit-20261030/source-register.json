@@ -1,0 +1,200 @@
+{
+  "updated": "2026-10-31",
+  "source_collection_url": "https://www.imagomundi.biz/wp-content/uploads/2025/04/PBSO37-Le_stigmate_di_Padre_Pio_da_Pietrelcina-Gerardo_di_Flumeri.pdf",
+  "sources": [
+    {
+      "id": "D14",
+      "source": "Di Flumeri1995",
+      "document": 14,
+      "printed_pages": "64",
+      "pdf_pages": [
+        34
+      ],
+      "type": "Participant attestation, undated, editor assignsJuly1919",
+      "independence": "Three signatories, one episode"
+    },
+    {
+      "id": "D25",
+      "source": "Di Flumeri1995",
+      "document": 25,
+      "printed_pages": "81-84",
+      "pdf_pages": [
+        42,
+        43,
+        44
+      ],
+      "type": "Later participant memoir; explicit seal checks",
+      "independence": "Paolino also signsD14"
+    },
+    {
+      "id": "D48",
+      "source": "Di Flumeri1995",
+      "document": 48,
+      "printed_pages": "159-161",
+      "pdf_pages": [
+        81,
+        82
+      ],
+      "type": "Romanelli26August1919letter, indirect report",
+      "independence": "Early circulation, not an eyewitness trial"
+    },
+    {
+      "id": "D51",
+      "source": "Di Flumeri1995",
+      "document": 51,
+      "printed_pages": "173-178",
+      "pdf_pages": [
+        88,
+        89,
+        90,
+        91
+      ],
+      "type": "Bignami26July1919direct medical report",
+      "limits": "No eight-day protocol in report itself"
+    },
+    {
+      "id": "D53",
+      "source": "Di Flumeri1995",
+      "document": 53,
+      "printed_pages": "210-211",
+      "pdf_pages": [
+        107
+      ],
+      "type": "Festa1920 medical report and reported withdrawal history"
+    },
+    {
+      "id": "D30",
+      "source": "Di Flumeri1995",
+      "document": 30,
+      "printed_pages": "92-96,especially94",
+      "pdf_pages": [
+        48,
+        49,
+        50
+      ],
+      "type": "Sarezzano memo, editor assigns1952; secondhand broken-seal allegation",
+      "record_provenance": "Editor reports autographAPG, photocopyAPP; not newly inspected",
+      "limits": "No eyewitness claim; precise alleged conversation date unknown; chronology errors; episode identity unresolved"
+    },
+    {
+      "id": "D31",
+      "source": "Di Flumeri1995",
+      "document": 31,
+      "printed_pages": "98-100",
+      "pdf_pages": [
+        51,
+        52
+      ],
+      "type": "Sarezzano signed23July1955 follow-up",
+      "independence": "Authenticates prior submission history; not independent seal witness"
+    },
+    {
+      "id": "R2020",
+      "url": "https://doi.org/10.4103/JCAS.JCAS_183_19",
+      "authors": [
+        "Sandhiya Ramesh",
+        "Shrutakirthi Damodar Shenoi",
+        "Sudhir U. K. Nayak"
+      ],
+      "affiliation": "Kasturba Medical College, Manipal, Department of Dermatology, Venereology and Leprosy",
+      "sample": "15patients,5pergroup;phenol5people6nails",
+      "type": "Primary clinical surgical comparison, full text read",
+      "limits": "Partial surgical/phenol comparator; oozing is not whole blood; not a Pio reconstruction"
+    },
+    {
+      "id": "S2013",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24396233/",
+      "authors": [
+        "Challa Supradeeptha",
+        "Sudhir Mahadev Shandilya",
+        "Alavalapati Naresh",
+        "Jonnalagadda Satyaprasad"
+      ],
+      "affiliation": "G.S.L Medical College, Rajahmundry, Department of Orthopaedics",
+      "type": "Primary case report, abstract and indexed text; fulltext retrieval blocked",
+      "limits": "Different preparation/pressure/surgical setting; supplementary lead only"
+    },
+    {
+      "id": "D54",
+      "author_and_background": "Giorgio Festa, examining physician and surgeon in Rome",
+      "source": "Di Flumeri1995, document54, report7April1925",
+      "printed_pages": "230-231",
+      "pdf_pages": [
+        117
+      ],
+      "local_file": "research/padre-pio-muse-audit-20261028/sources/di-flumeri-stigmate.pdf",
+      "page_image": "sources/festa-phenol-context-117.png",
+      "type": "Published primary medical report",
+      "finding": "Reports pure phenol purchased and diluted at the convent for disinfection associated with injections, Pio assisting, and other sanitation uses.",
+      "limits": "An investigated account of legitimate use, not a complete inventory of the destination of every quantity."
+    },
+    {
+      "id": "LUZZATTO-CHEMICAL",
+      "author_and_background": "Sergio Luzzatto, then historian at University of Turin",
+      "source": "French author proofs2013, printedpp134-139; archival references in notes8-20, printedp447",
+      "url": "https://iris.unito.it/retrieve/handle/2318/144647/144588/Luzzatto%2C%20secondes%20%C3%A9preuves.pdf",
+      "local_file": "research/padre-pio-muse-audit-20261028/sources/luzzatto-french-author-proofs.pdf",
+      "type": "Archival historical study reproducing letters and testimony",
+      "limits": "We inspected the published reproduction, not original Holy Office manuscripts; procurement does not demonstrate wound production."
+    },
+    {
+      "id": "CAUSE-VIRTUES-1997",
+      "author_and_background": "Congregation for the Causes of Saints",
+      "url": "https://www.vatican.va/roman_curia/congregations/csaints/documents/rc_con_csaints_doc_19990502_padre-pio_it.html",
+      "local_file": "sources/vatican-virtues-decree.html",
+      "type": "Official decree on heroic virtues, promulgated18December1997",
+      "limits": "Favorable character judgment; no chemical-specific technical reasoning in this published text."
+    },
+    {
+      "id": "CAUSE-POSTULATOR-1999",
+      "author_and_background": "Fr.Paolino Rossi, postulator general, account published Inside the Vatican, April1999",
+      "url": "https://www.catholicculture.org/culture/library/view.cfm?recnum=1018",
+      "local_file": "sources/postulator-process-account-1999.html",
+      "type": "Cause official account, reprinted",
+      "limits": "Web transcription contains1991dates where official chronology gives1997; not the specific2007chemical response."
+    },
+    {
+      "id": "GAETA-TORNIELLI-2008",
+      "author_and_background": "Saverio Gaeta and Andrea Tornielli, journalists and authors of Padre Pio. L’ultimo sospetto",
+      "url": "https://www.totustuus.it/Un-libro-su-S-Pio-da-Pietrelcina-che-risponde-a-Luzzatto/",
+      "local_file": "sources/gaeta-tornielli-preface-2008.html",
+      "type": "Reproduced book preface attributing a direct quotation to cause postulator Fr.Paolino Rossi",
+      "original_reference": "Famiglia Cristiana45/2007,p53, interview identified as False ombre su Padre Pio,11November2007",
+      "finding": "Attributes to Rossi the statement that allegations presented as new had already been thoroughly clarified during canonization.",
+      "limits": "Original magazine page and full interview not obtained; the reproduction supplies an official’s reported assurance, not the detailed tribunal reasoning."
+    },
+    {
+      "id": "CANTONI-PRESS-REVIEW",
+      "author_and_background": "Simona Cantoni, historical press-review author; paper hosted by ISREC Bergamo",
+      "url": "https://www.isrecbg.it/web/wp-content/uploads/2014/04/Cantoni_-N.-69.pdf",
+      "local_file": "sources/cantoni-press-review-69.pdf",
+      "type": "Historical review of press reception",
+      "finding": "Identifies the11November2007interview with Fr.Paolino Rossi and reports his rejection of the alleged novelty of the material.",
+      "limits": "Corroborates interview existence and general content; not an independent medical investigation."
+    },
+    {
+      "id": "CAMPANELLA-2007",
+      "author_and_background": "Stefano Campanella, director of Tele Radio Padre Pio",
+      "url": "https://www.teleradiopadrepio.it/per-completare-la-verita-su-padre-pio/",
+      "local_file": "sources/campanella-chemical-response-2007.html",
+      "type": "Church-side public response,27October2007",
+      "limits": "Advocacy and source interpretation; do not attribute every argument to the canonization tribunal."
+    },
+    {
+      "id": "CANIATO-ROSSI-SUMMARY",
+      "author_and_background": "Riccardo Caniato, author of Ares published account summarizing historian Francesco Castelli’s edition of the1921inquiry",
+      "url": "https://www.edizioniares.it/wp-content/uploads/2022/02/padre_pio_stimmate.pdf",
+      "local_file": "research/padre-pio-muse-audit-20261028/sources/caniato-ares-excerpt.pdf",
+      "printed_pages": "72-75",
+      "type": "Published secondary summary of the earlier Holy Office inquiry",
+      "finding": "Reports phenol/syringe explanation, veratrine/prank explanation and surprise cell inspection.",
+      "limits": "Earlier1921inquiry, not the later canonization adjudication; full original inquiry not recovered."
+    }
+  ],
+  "tally_effect": "31October2026: P-02 closed against challenge as presented; Daniel8, assistant0; P-01open. Source findings retained with their stated limits.",
+  "church_response_summary": "chemical-allegation-church-response.txt",
+  "missing_originals": [
+    "Famiglia Cristiana45/2007,p53/full interview",
+    "Chemical-specific Positio and consultors’ reasoning"
+  ]
+}

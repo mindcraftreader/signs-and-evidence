@@ -1,0 +1,53 @@
+{
+  "checked_against": "Dalleur 2021 pp.36-39, coordinate vector and rotation matrices; Magill 1955 p.138 table 2",
+  "base_elevation_deg": 28.23860670865216,
+  "finite_difference_pitch_factor": 0.8240186578911679,
+  "finite_difference_roll_factor": -0.5645845154167439,
+  "roll_factor_if_printed_equation_9_sin_alpha_term_used": -0.047303026967505615,
+  "interpretation": "Equation 9 prints sin(alpha) on the a*sin(beta) term. Applying the displayed rotation matrices gives cos(alpha), consistent with equation 10 and its published error factor. No change at beta=0 and no reversal of the main elevation calculation.",
+  "magill_table2_zero_magnification_rows": [
+    {
+      "lens": "B",
+      "focal_mm": 165.1,
+      "field_angle_deg": 30,
+      "distortion_mm": 0.232,
+      "percent": 0.24338933213566302
+    },
+    {
+      "lens": "B",
+      "focal_mm": 165.1,
+      "field_angle_deg": 35,
+      "distortion_mm": 0.462,
+      "percent": 0.3996392362900406
+    },
+    {
+      "lens": "B3",
+      "focal_mm": 165.1,
+      "field_angle_deg": 30,
+      "distortion_mm": 0.244,
+      "percent": 0.2559784355219904
+    },
+    {
+      "lens": "B3",
+      "focal_mm": 165.1,
+      "field_angle_deg": 35,
+      "distortion_mm": 0.488,
+      "percent": 0.42212975608125497
+    },
+    {
+      "lens": "B4",
+      "focal_mm": 165.1,
+      "field_angle_deg": 30,
+      "distortion_mm": 0.232,
+      "percent": 0.24338933213566302
+    },
+    {
+      "lens": "B4",
+      "focal_mm": 165.1,
+      "field_angle_deg": 35,
+      "distortion_mm": 0.464,
+      "percent": 0.40136927627398017
+    }
+  ],
+  "magill_note": "Percent is calculated as 100*D/(f*tan(field angle)); this illustrates named Dagor-type specimens, not a calibration of Ruah's actual lens."
+}

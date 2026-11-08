@@ -1,0 +1,430 @@
+SHROUD SPATIAL GEOMETRY: WHAT THE RECONSTRUCTIONS ACTUALLY ESTABLISH
+Research begun 4 November; completed 5 November 2026
+
+ASSESSMENT
+
+The spatial argument survives in a substantial, bounded form. The Shroud has
+organized tonal structure that can be interpreted as a body-to-cloth distance
+pattern. Published work also demonstrates ways of fitting its frontal and
+dorsal images to an anatomically plausible body with cloth-drape corrections.
+These are real findings. Comparing the Shroud with a stylized medieval
+painting does not dispose of them.
+
+The reviewed work does not establish a uniquely recoverable, anatomically
+perfect 3D scan. The impressive reconstructions use assumed cloth surfaces,
+selected intensity-to-distance functions, anatomical reference bodies,
+registration, and sometimes iterative sculptural fitting. These choices are
+part of the scientific model, not additional measurements of the lost body.
+Their use does not make the models worthless or automatically circular.
+It does limit which conclusions the successful fits establish.
+
+An important experimental counterexample exists: Emily Craig and Randall
+Bresee produced a drawn face whose reported height-tone correlation was
+similar in magnitude to the original Shroud statistic. Giulio Fanti and Mario
+Moroni subsequently treated that technique as a particularly good 3D result,
+while maintaining objections to its overall image-formation account. This
+narrows a claim of unachievable artistic depth encoding. It does not establish
+the Shroud's actual manufacture or reproduce its entire combination.
+
+A useful newer contribution is Mario Latendresse's 2026 real-body/real-cloth
+scan experiment. It strengthens the objection to declaring a body-based
+image geometrically impossible on the basis of one simulated drape. It still
+assumes a distance-dependent, vertically directed image process, and does
+not demonstrate the physical cause of that process.
+
+1. WHAT THE ORIGINAL 1984 STUDY MEASURED [S01]
+
+John P. Jackson was at Kaman Sciences, Eric J. Jumper at the Air Force
+Institute of Technology, and William R. Ercoline at the US Air Force Academy.
+Their Applied Optics paper separates a small quantitative test from broader
+visual/physical reconstruction work.
+
+They measured the transmittance of a 1978 Vernon Miller photograph at
+13 identifiable facial locations. They compared it with vertical gaps
+measured between an approximately Shroud-like linen cloth and a bearded
+volunteer, using side photographs and contour gauges.
+
+Reported numerical results, printed pp. 2246-2247:
+
+  Shroud: 13 locations; r-squared = 0.60.
+  Reported 95% interval for population rho-squared: 0.13 to 0.86.
+  Scatter expressed as equivalent distance: about 0.6 cm.
+  Estimated body/drape uncertainty: approximately +/-0.4 cm.
+  Estimated cloth-background contribution: approximately 0.2 cm.
+  Fitted discoloration range to background: approximately 3.7 cm.
+
+The authors also give an error-adjusted estimate: after assigning part of
+the scatter to body/drape and background variation and assuming independent
+errors, they infer r-squared around 0.86 and a population interval 0.59-0.96.
+That is a conditional error decomposition, not a second direct measurement
+of the Shroud or 13 additional data points.
+
+Controls were informative. An ordinary photograph of a plaster face gave
+r-squared 0.17, whereas an artificially distance-encoded phosphorescent
+face gave 0.98. The Shroud was substantially more distance-like than their
+ordinary photographic control. It was not numerically indistinguishable
+from their near-ideal distance-encoded control.
+
+This supports a relationship in that sampled comparison. The measurement
+is not a 60% probability of authenticity, nor does 13 points validate every
+pixel. The authors explicitly discuss the small sample and difficulty of
+accurately registering many independent points. They estimate roughly
+1,700 samples would be required for the particular precision target they
+consider. Counting the VP-8 display pixels does not automatically supply
+those independently registered observations.
+
+2. THE ORIGINAL FULL-BODY MODEL WAS CORRECTED [S01]
+
+The VP-8 converts image tone into height. Unlike arbitrary bright/dark
+noise, the Shroud produces recognizable local anatomical relief. However,
+the authors report that relationships over larger body distances were
+incorrect: the nose region and hand region could each look plausible while
+their heights relative to one another did not.
+
+They built a cardboard model from 570 lateral profiles. At 18 longitudinal
+locations they calculated a reference-surface correction using a volunteer's
+body; the other 552 profiles were interpolated. This produces the corrected
+model in Figure 8B, as distinct from the raw relief in Figure 8A.
+
+That correction changes broad shape while preserving finer facial/finger
+structure. The inferred reference surface resembles a draping cloth, which
+is an affirmative consistency result. The authors' position is stronger
+than merely observing a face in a height map.
+
+Nevertheless the final body is not wholly independent anatomical information
+read directly from tone. The volunteer supplied the broad reference shape.
+The paper itself distinguishes a physically meaningful body/cloth account
+from a convenient 3D description if another process made the image.
+
+The original paper also allowed that a hot bas-relief could account for
+distance correlation, resolution and similar chemistry while failing other
+constraints. Its conclusion was about the combined requirements, not the
+impossibility of generating any depth-like result artificially.
+
+Visual check: figures/relief-figure8-correct-14.png, printed p. 2257.
+Figure 8A is raw relief; 8B includes the reference-surface correction;
+8C compares both with a volunteer. Figures 9-10 show the inferred surface
+and an actual cloth drape.
+
+3. JACKSON'S 1989 FOLLOW-UP IS SUBSTANTIVE [S02]
+
+Jackson's Shroud Spectrum International paper compares vertical mapping
+with mapping perpendicular to the cloth, and discusses body-normal mapping.
+Under a common tone-distance relation, vertical mapping gives a more
+anatomically plausible result. His Appendix B compares measurements with
+a retained set of 50 volunteer photographs and includes image-boundary
+uncertainty. This is more than an unsupported visual assertion.
+
+The qualifications matter. On printed p. 12 he states that the assumed cloth
+over the face had to be flatter than the actual experimental drapes to
+produce reasonable facial height. He proposes a chin band or another factor
+as a possible explanation. The body-normal case was not fully computed.
+Table 4 also retains individual departures; a satisfactory mean does not
+make every body measurement perfect.
+
+The defensible outcome is an internally consistent first-order geometric
+model that favors one mapping among the tested options. It does not identify
+a physical energy source or establish that every alternative drape fails.
+
+4. DOES THE FLAT IMAGE HAVE PERFECT PROPORTIONS? [S03, S02]
+
+Ercoline and Robert C. Downs Jr. of the US Air Force Academy, with Jackson
+of the University of Colorado at Colorado Springs, explicitly studied image
+distortions in their 1982 IEEE conference paper. They report seven of
+23 measurements as about two standard deviations or more from their
+comparison means. The stretched widths, arm and finger dimensions were
+interpreted as potentially consistent with cloth drape.
+
+That challenges literal perfection of the flat image. It does not refute
+Daniel's more careful proposition: a distorted flat image can still fit a
+plausible body when the cloth is appropriately draped.
+
+Some landmarks, notably a burned-away elbow, were estimated. The measurements
+are correlated, and the reference population is not the unknown individual's
+actual anatomy. It would be inappropriate to multiply their deviations into
+an authenticity probability. Jackson's 1989 revision uses ten measurements,
+explicit combined uncertainties and a different presentation; it should not
+be silently treated as an identical repeat of the 1982 table.
+
+5. PADUA'S 2010 AND 2018 RECONSTRUCTIONS [S04, S05]
+
+Giulio Fanti, R. Basso and G. Bianchini of the University of Padua's
+Mechanical Engineering Department used an adjustable Poser manikin in 2010.
+They varied body dimensions, joints and cloth placement to align predefined
+anthropometric landmarks. They reported compatibility between a 1.95 m
+frontal image and 2.02 m dorsal image with a man 175 +/-2 cm tall. A half-scale
+statue and printed cloth copy provided a physical wrapping check.
+
+This is affirmative evidence that selected frontal/dorsal constraints can be
+reconciled. The anatomical model was selected and resized; missing areas
+were reconstructed iteratively. The reported +/-2 cm compatibility is not
+a demonstration of +/-2 cm accuracy at every point of the original body.
+The paper acknowledges approximately 1 cm uncertainty defining soft-tissue
+landmarks and distinguishes that from coordinate-reading precision.
+
+In 2018, Padua physician Matteo Bevilacqua, engineers/clinicians Gianmaria
+and Stefano Concheri, Fanti and sculptor Sergio Rodella described repeated
+adjustment of an iron skeleton, modeling clay and a Shroud copy until
+selected correspondences were of order 1 cm. They explicitly state that the
+intensity-distance relationship had been detected but not quantified. Their
+standard anatomical reference and iterative adjustments supplied information
+alongside the image. The result is a constrained reconstruction, not a
+complete body recovered solely from calibrated image intensity.
+
+Their approximately 180 cm model using the 2002 photograph is discussed in
+terms of cloth stretching; they estimate roughly 177 cm before 2002. This
+does not by itself disprove the earlier 175 +/-2 cm reconstruction.
+
+6. TIGHT WRAPPING, LOOSE WRAPPING AND CT OVERLAYS [S06, S07]
+
+The same Padua/Rodella group reported preliminary 2017 face-wrapping scans
+and numerical work. The institutional abstract describes a tighter wrapping
+than earlier hypotheses; the 2018 report gives a maximum face-cloth gap of
+approximately 10 mm. That should not be equated with Jackson's approximately
+3.7 cm fitted range: one describes a selected model's geometry; the other
+is an extrapolation of tone versus distance. Their different assumptions
+need reconciliation before claiming a unique cloth configuration.
+
+Pierluigi Baima Bollone and Turin colleagues Giovanni Gandini and Paolo
+Fonio, with Filippo Marchisio of ASL TO3 radiology, describe a CT overlay
+using a selected volunteer with similar physical characteristics. This is
+another anatomical compatibility approach. Only the publisher abstract was
+available here; it does not establish an independently recovered CT scan
+of the Shroud man. No full-text conclusions have been attributed to it.
+
+7. AN EXPERIMENTAL COUNTERPART TO THE DEPTH CLAIM [S08, S09]
+
+Forensic anthropologist Emily A. Craig and University of Tennessee textile
+scientist Randall R. Bresee's 1994 paper deliberately uses dust buildup to
+represent relief. Their 33-feature comparison reports r-squared 0.59 for
+a drawn manikin face, versus 0.19 for its photograph. The 0.59 result concerns
+the drawing; the paper also shows qualitative relief after transfer to linen.
+
+This is a concrete artistic depth-encoding demonstration, not just a reminder
+that any image can be extruded. But 0.59 versus the Shroud's 0.60 is not
+an equivalence test: different landmarks, subjects and reference distances
+were used, and height above a plane differs from a cloth-body gap. It does
+not prove a full-body, microscopic or blood-pattern match.
+
+Fanti of Padua and Mario Moroni's 2002 peer-reviewed comparison is especially
+relevant. They identify Craig's technique as yielding perhaps the best 3D
+results among their comparisons while retaining open formation questions.
+Other contact experiments fare worse in luminance saturation and superficiality.
+Their analysis is not an endorsement of a complete pigment manufacture.
+
+The source reprint's introductory header incorrectly gives volume 34;
+the bibliographic record and contemporary reprint identify JIST 38(1):59-67.
+
+8. THE MORAES MODEL DOES NOT SETTLE ORIGIN [S10, S11, S12]
+
+Arc-Team Brazil 3D researcher Cicero Moraes compares a body with a reduced-
+depth relief using a Shroud-fitted digital model, default generic cotton
+cloth settings and distance/contact visualization. A relief yields less
+distorted contours in those simulations. Chemistry, blood behavior and
+the complete original object are outside the study's test.
+
+Tristan Casabianca, Emanuela Marinelli of Collegamento Pro Sindone and
+Alessandro Piana published a 2026 methodological objection. Moraes replies
+that his scope is morphological deformation. I checked the full original
+paper and its figures; only the publisher abstracts and reference lists
+of the 2026 exchange were accessible. Neither abstract has been treated
+as the full argument.
+
+My inference: the simulation illustrates a difficulty for particular
+contact/drape setups. It does not prove that every human-body configuration
+fails, or demonstrate the actual microscopic image-making process. A body
+whose geometry was adjusted to the Shroud is also not independent evidence
+that a medieval maker possessed the same model.
+
+9. A NEWER REAL-BODY / REAL-CLOTH TEST [S13, S14]
+
+Independent researcher Mario Latendresse's June 2026 preprint uses a real
+supine volunteer and draped linen scanned separately with an iPhone and
+Scaniverse. His model assumes vertical projection and a selected nonlinear
+distance-tone rule. It produces a recognizable image with modest broad
+distortion. This is a useful counter to universal claims based on a single
+simulated tight wrap.
+
+The supplied script confirms downward ray casting, an adjustable distance
+cutoff and exponent, followed by angle-based flattening and global rescaling
+to preserve total area. I inspected that code; I did not execute Blender or
+independently reproduce its numerical output. Exact total-area preservation
+does not alone prove correct local distances or weave-coordinate recovery.
+That is a mathematical limitation of the validation, not a claimed reviewer
+finding. The author acknowledges incomplete facial fidelity.
+
+The archived PDF is labeled a preprint; its data README claims journal
+publication, which I could not independently confirm in this pass.
+Peer-reviewed status is therefore unverified here. Paper, code and data
+metadata are saved. Image TIFFs, meshes and generated-image archives are
+listed in the metadata but were not downloaded or independently validated.
+
+10. AN IMPORTANT DISAGREEMENT ABOUT WHAT TO MEASURE [S02, S04, S13]
+
+The following are author-reported definitions, not interchangeable measurements:
+
+  Jackson 1989: frontal head-to-foot blood mark about 193.0 cm;
+                dorsal head-to-top-of-heel about 177.8 cm.
+  Padua 2010: front image 195 cm; back image 202 cm;
+              inferred standing body height 175 +/-2 cm.
+  Latendresse 2026: frontal image about 196 cm; dorsal about 188 cm;
+                   his volunteer/model about 170 cm.
+
+Endpoints and posture assumptions differ. The published headline body/image
+lengths should not be averaged, or treated as several precise independent
+measurements of the same quantity. A common landmark atlas and photograph
+registration would materially improve this discussion. It is not justified
+to resolve the disagreement simply by choosing the most impressive statue.
+
+11. HOLOGRAMS AND PROCESSED FACES [S15, S16]
+
+Giovanni Tamburelli of CSELT/University of Turin distinguishes original-image
+reliefs from his processed woundless-face reconstructions. Removing a wound
+does not create independent observations of the obscured original anatomy.
+The latter outputs need their own validation.
+
+Petrus Soons's conference account explicitly describes converting enhanced
+photographic gray levels into depth, repairing/softening regions without
+information, and generating multiple views for a holographic print. The
+hologram is an additional visualization of the interpreted photograph. It
+is not an independent optical recording of the lost person from multiple
+directions, and its existence does not show that the cloth itself is a
+wave-interference hologram.
+
+12. WHY A GOOD FIT DOES NOT IDENTIFY A UNIQUE BODY
+
+In the simplest vertical model, let C be the cloth's height, B the body's
+height, and D the gap. Then D = C - B. If tone determines D, recovering B
+still requires C. A different physically admissible C can yield a different
+B with the same gap pattern. This is an explanation of the inverse problem,
+not a newly measured fact about the Shroud.
+
+Physical drape, anatomy, blood registration, symmetry and the backside
+can constrain the possibilities; Jackson's work rightly uses such tests.
+But a choice of cloth and transfer function cannot be counted as though
+they had been independently measured on the lost original configuration.
+
+Negative-like tones and depth-like shading can also be consequences of the
+same distance-dependent process. They remain observations to explain,
+but their probabilities cannot automatically be multiplied as separate
+unrelated accidents. Latendresse makes this connection explicitly.
+
+13. EFFECT ON THE JENGA BLOCK AND TALLY
+
+Sustained: meaningful spatial organization; nontrivial body/cloth-compatible
+reconstructions; inadequacy of ordinary medieval painting examples as a
+direct quantitative rebuttal; no complete manufacture established here.
+
+Narrowed: a perfect, unique 3D scan recovered from raw tone; treating a fitted
+statue's 1 cm correspondence as independent whole-body depth accuracy.
+
+Counterevidence to a narrower impossibility claim: experimentally drawn
+depth-like shading, acknowledged as a good partial result by Fanti/Moroni.
+
+Not established: that Craig's drawing, Garlaschelli's reproduction, Moraes's
+digital relief or any other reviewed process explains the complete Shroud.
+Conversely no reviewed geometry study dates the cloth, identifies Jesus,
+or establishes Resurrection as the image's physical cause.
+
+This audit therefore does not remove the whole spatial Jenga block. It
+separates a sustainable body-compatibility argument from stronger uniqueness
+and impossibility claims. This is the analyst's assessment, not a concession
+attributed to Daniel. The existing modern-miracle numerical tally is unchanged.
+
+The most informative next comparison would use the same source photograph,
+fixed landmarks, explicit cloth measurements, multiple volunteers and
+artificial controls, then test predictions at landmarks not used for fitting.
+That would tell us much more than another attractive fitted head.
+
+SOURCE AND ACCESS REGISTER
+
+S01 Jackson, Jumper, Ercoline (1984), Applied Optics 23:2244-2270.
+    Full text; quantitative methods, reconstruction and conclusions inspected;
+    relevant original figures rendered and visually checked.
+    https://doi.org/10.1364/AO.23.002244
+    Local: sources/relief-1984.pdf
+
+S02 Jackson (1989), The Vertical Alignment of the Frontal Image,
+    Shroud Spectrum International 32/33:3-26, plus frontispiece.
+    Full text; methods, assumptions and quantitative appendix inspected.
+    https://www.shroud.com/pdfs/ssi3233part3.pdf
+    Local: sources/vertical-alignment-1989.pdf
+
+S03 Ercoline, Downs, Jackson (1982), Examination of the Turin Shroud for
+    Image Distortions, IEEE conference proceedings:576-579.
+    Full text and original measurement table inspected; OCR is imperfect.
+    https://www.shroud.com/pdfs/Examination%20for%20Image%20Distortions%20Ercoline%201982%20OCR.pdf
+    Local: sources/distortions-1982.pdf
+
+S04 Fanti, Basso, Bianchini (2010), JIST 54(5):050503.
+    Full text; method, landmarks, uncertainties, physical check inspected.
+    https://doi.org/10.2352/J.ImagingSci.Technol.2010.54.5.050503
+    Local: sources/manikin-2010.pdf
+
+S05 Bevilacqua, G. Concheri, S. Concheri, Fanti, Rodella (2018),
+    Peertechz Journal of Forensic Science and Technology 4(1):1-8.
+    Full text; reconstruction methods and relevant results inspected.
+    The PDF's printed DOI includes 'pjfst'; some previous links omit it.
+    https://doi.org/10.17352/pjfst.000010
+    Local: sources/body-2018.pdf
+
+S06 Bevilacqua et al. (2017), Hypothesis of face-cloth wrapping...
+    University of Padua institutional conference abstract, no full paper there.
+    https://www.research.unipd.it/handle/11577/3271807
+
+S07 Baima Bollone, Gandini, Fonio, Marchisio (2019 issue, online 2020),
+    Minerva Medicolegale 139:30-37. Publisher abstract only.
+    https://doi.org/10.23736/S0026-4849.20.01787-3
+
+S08 Craig and Bresee (1994), JIST 38(1):59-67.
+    Full author-supplied reprint; methods, experiments and plots inspected.
+    https://shroud.com/pdfs/craig.pdf
+    Local: sources/craig-bresee-1994.pdf
+
+S09 Fanti and Moroni (2002), JIST 46(2):142-154.
+    Full text; comparison methods, saturation table and conclusions inspected.
+    https://doi.org/10.2352/J.ImagingSci.Technol.2002.46.2.art00009
+    Local: sources/fanti-moroni-2002.pdf
+
+S10 Moraes (online 2025; 2026 issue), Archaeometry 68:84-93.
+    Full text and figures; published Blender scene inventory previously checked.
+    https://doi.org/10.1111/arcm.70030
+    Local: sources/moraes-2025.pdf
+
+S11 Casabianca, Marinelli, Piana (2026), Archaeometry 68:861-863.
+    Publisher abstract/reference list only; full argument not represented as read.
+    https://doi.org/10.1111/arcm.70109
+
+S12 Moraes (2026), Archaeometry 68:864-866.
+    Publisher abstract/reference list only.
+    https://doi.org/10.1111/arcm.70112
+
+S13 Latendresse (2026), Static Loose Covering Model, archived preprint.
+    Full PDF; methods, relevant results and conclusions inspected.
+    https://doi.org/10.5281/zenodo.20506848
+    Local: sources/latendresse-2026.pdf
+
+S14 Latendresse data, script and README (2026).
+    Metadata and script inspected; not an executed replication.
+    https://doi.org/10.6084/m9.figshare.31083784
+    Local: sources/latendresse-simulation.py and related metadata/README.
+
+S15 Tamburelli (1986), The Importance of 3D Processing, SSI 18:20-22.
+    Full correspondence inspected. Original 1981 IEEE article not obtained.
+    https://www.shroud.com/pdfs/ssi18part7.pdf
+    Local: sources/tamburelli-processing.pdf
+
+S16 Soons, The Shroud of Turin, the Holographic Experience,
+    2008 Ohio conference manuscript; full PDF, relevant process inspected.
+    https://ohioshroudconference.com/papers/p24.pdf
+    Local: sources/soons-holographic.pdf
+
+S17 Garlaschelli (2010), Life-Size Reproduction..., JIST 54(4):040301.
+    Full paper retained from previous research; not a new complete chemical audit.
+    https://doi.org/10.2352/J.ImagingSci.Technol.2010.54.4.040301
+    Local: sources/replica-2010.pdf
+
+S18 Fanti and Heimburger (2011), comments on Garlaschelli, JIST 55(2):020102.
+    Full letter; spatial/contact and superficiality objections inspected.
+    https://doi.org/10.2352/J.ImagingSci.Technol.2011.55.2.020102
+    Local: sources/fanti-heimburger-2011.pdf

@@ -1,0 +1,436 @@
+LOURDES MEDICAL EVIDENCE | BERTRIN'S 1891 REGISTER
+7 November 2026
+
+The 1891 section contains 65 entries. Bertrin's later annual table also
+gives 65 for 1891. I chose this year because the previous audit had
+already traced Clémentine Trouvé and adjacent entries gave an exact
+Annales volume and page. This is a census of the printed section. The
+late-century register mixes reports of recoveries and improvements.
+
+Grade on the accessible record                  Entries
+Solid before/after, fast                              4
+Solid before/after, slow or staged                    0
+Mid tier                                              26
+Claim with limited accessible medical evidence       35
+Total                                                 65
+
+Forty-two entries match published narratives or documents in the
+Sanctuary's digitized Annales. Of the 35 claims, 12 have an issue
+account with limited clinical evidence and 23 remain index only.
+The 65 entries include one unnamed young religious. Two appear on
+today's official roster, Amélie Chagnon and Clémentine Trouvé.
+The 42 traced cases go into the selected forensic tally, with the
+one anonymous report identified as such. The other 23 remain in the
+year's tally. The main tally also includes a December 1891 case that
+Bertrin filed under 1892, outside the count of 65.
+
+The source map preserves the print order, date groups, reported
+conditions and cited pages. There are 40 rows with Annales citations,
+20 with Bureau-register citations and five without either. Eleven rows
+name one or more certificate authors in the appendix. The Annales
+also yielded two records indexed without an Annales reference.
+The 1890–1891 Bureau register was unavailable. The open issue scans
+preserve what the contemporary writers published, including the
+medical detail and reservations available for each case.
+
+The digitized accounts sometimes say partial improvement or explicitly
+leave durability open. In the four fast cases the grade describes a
+specific clinical change and its timing. It leaves the diagnosis
+and cause to separate assessment. Two fast recoveries were reported
+at the French shrine. The other two followed Lourdes devotion or
+water use elsewhere.
+
+1. AMÉLIE CHAGNON | SOLID BEFORE/AFTER, FAST | OFFICIAL NO. 14
+
+The paired record is Dupont's certificate of 30 August 1891, printed
+in Annales XXIV pp. 160–161 and reproduced in Boissarie, Les grandes
+guérisons de Lourdes, p. 117 (PDF p. 147).
+Dupont had treated her for months and visited on the eve of departure.
+He records persisting drainage from a left foot fistula, significant
+knee swelling and sensitivity, and confinement to bed at departure.
+He had tried counterirritation, cautery and immobilization. The apparatus
+was removed about six weeks earlier, with symptoms persisting. He
+planned extraction of the second metatarsal and zinc chloride injections
+at the knee and agreed to defer them for the pilgrimage.
+
+Boissarie gives 20 August for the departure. Dupont's return
+examination, documented by 30 August, describes a firm scar where
+the tract had been and loss of tenderness around the joint. In that
+reproduction the pre-trip tract measures about 2 cm. Bertrin's shorter
+transcription on p. 174 reads about 1 cm. This discrepancy leaves the
+size approximate. Gaillard, a second treating physician, issued a
+5 September certificate reporting a firm scar, comparable knee size
+on both sides and free joint movement. Boissarie recounts an exam at
+the Bureau soon after the baths and a return visit in November 1893.
+The named bath attendant reported seeing the open wound between two
+immersions on 21 August and the scar after the second. The strongest
+clinician bracket is roughly eleven days at most. The bath chronology
+has a witness basis and a reported near-event Bureau exam.
+
+The grade covers observed closure, pain, swelling and joint function.
+The period diagnosis of tuberculous osteoarthritis was clinical.
+The sources examined supply no pathology, cultures or imaging that
+could establish the original lesion extent or how the underlying bone
+changed. The case remains causally undetermined on this record.
+
+Sources
+- Boissarie, pp. 113–120, certificates on p. 117.
+  https://archive.org/details/b24861820/page/117/mode/2up
+  Local scan ../../lourdes-period-audit-20261102/1858-1918/sources/b24861820.pdf
+  Image of the certificates chagnon-certificates-p117.png.
+- Annales August and October 1891, links in the source list below.
+- Bertrin 1905, pp. 174–175 and p. 401, citing Annales XXIV pp. 94
+  and 159 and XXVI p. 248. The 1894–95 Revue de l'hypnotisme,
+  pp. 210–213, summarizes the Chagnon report and names both doctors.
+  It identifies a December 1893 Annales account and does not give
+  another independent pre-event examination.
+  https://iapsop.com/archive/materials/revue_de_l_hypnotisme_et_de_la_psychologie_physiologique/revue_de_l_hypnotisme_et_de_la_psychologie_physiologique_v9_jul_1894-jun_1895.pdf
+- Sanctuary roster, recognition 8 September 1910.
+  https://www.lourdes-france.com/en/miraculous-healings/
+
+2. CLÉMENTINE TROUVÉ | MID TIER | OFFICIAL NO. 15
+
+Cibiel's 11 June certificate identifies a persistent calcaneal lesion
+treated by incision and injections. His 1 September certificate
+describes a painless scar with residual plantar enlargement and ready
+weight-bearing. A hospital superior reports the wound still present
+on 10 August. Delaigne's October 1891 statement describes an open
+draining wound on 17 August. Roederer's 1895 deposition describes
+drainage at the station on 18 August and during the journey, and walking
+after the 21 August bath. An attendant's account is also printed in
+the Annals of Psychical Science. The 1908 diocesan decree describes
+the earlier records and continued recovery.
+
+This supports wound closure and return of function. The doctor who
+certified both sides brackets the change June to September. The closer
+timing is supported by lay witnesses and an inspection afterward. In the
+September 1891 Annales, the Bureau physician states that he could
+see the remnant of the wound but could not determine precisely
+whether it had been draining when she entered the bath. A later critical
+interview alleged prior wound improvement and questioned the timing.
+The observed scar and return of weight-bearing are distinct from
+confirmation of tuberculosis or rapid healing of calcaneal bone.
+
+Sources
+- Bertrin 1905 pp. 236–243, 400 and 532–533 (PDF pp. 579–580 for
+  the depositions). Previous archive assessment is in
+  ../published-tallies-and-case-expansion.txt.
+- Annals of Psychical Science 7 (1908), “The Case of Clémentine
+  Trouvé” in the article on the cures at Lourdes.
+  https://iapsop.com/archive/materials/annals_of_psychical_science/annals_of_psychical_science_v7_january_december_1908.pdf
+- 1908 Paris decree reproduced in La Foi Catholique 2, pp. 135–136.
+  https://www.liberius.net/livres/La_Foi_Catholique_%28tome_2%29_000000741.pdf
+
+3. LUCIE RENAULD | MID TIER | OUTSIDE THE OFFICIAL ROSTER
+
+Boissarie reports a pre-trip certificate describing left-leg muscle
+atrophy as a sequel of childhood paralysis and a shoe lift of about
+3 cm. He describes her walking without the old limp barefoot after
+the final bath and needing her shoe lifts equalized. He also explains
+that the certifying doctor had only seen her at departure, leaving
+the disease history and diagnosis unresolved. The date group in the
+appendix is 23 August, while the August 1891 Annales, Boissarie and
+Bertrin's prose give 24 August for the bath. The issue describes a
+4 cm lift, while Boissarie's later account gives 3 cm. The available clinical record supports a
+reported improvement in gait and shoe-lift needs. The lift is not a
+direct measurement of bone length. Paired anatomical measurements
+and a dated follow-up for Lucie were not located. Monnier's actual
+July–October measurements in the next pages are for her sister
+Charlotte in 1892. They cannot be applied to Lucie.
+
+Sources
+- Boissarie, Les grandes guérisons de Lourdes, pp. 353–358.
+  https://archive.org/details/b24861820/page/353/mode/2up
+- Bertrin 1905 p. 401 (Annales XXIV p. 95 and XXV p. 220).
+  Later edition, 1909, pp. 202–204 summarizes the two sisters and
+  quotes Charlotte's examiner. 
+  https://archive.org/details/histoirecritique00bertuoft/page/202/mode/2up
+
+4. SŒUR LABADIE | SOLID BEFORE/AFTER, FAST | OUTSIDE THE OFFICIAL ROSTER
+
+The July 1891 Annales reproduces a fuller report by Dr Pansini than
+the extract Bertrin printed. It places the onset of severe fever
+and chills on January 30. It records bloody sputum, cyanosis,
+breathlessness, delirium and a nearly impalpable pulse during the
+acute phase. On day 13 she ate and entered an afebrile convalescence.
+The editors place the turn on the February 11 anniversary of the
+first Lourdes apparition. The grade covers the documented rapid
+change in systemic signs and oral intake. No temperature chart,
+cultures or detailed serial lung exams were recovered.
+
+The association is a novena in Molfetta, Italy. The physician
+recognized the possibility of pneumonia resolving by crisis but
+was struck by the apparent absence of sweating or expectoration
+at the turn. A rapid clinical crisis was a known course of lobar
+pneumonia, documented in pre-antibiotic clinical series. The case
+record leaves the specific mechanism undetermined.
+
+Sources
+- Annales XXIV, July 1891, pp. 71–73, PDF pp. 7–9.
+  https://lourdes.centredoc.fr/doc_num.php?explnum_id=3691#page=7
+- Bertrin 1905 pp. 400 and 504–505. The appendix groups it in
+  February, while the excerpt's introduction says January and day 12.
+- J. Finlayson, “Lecture on the Course of the Temperature in
+  Defervescence,” 1875, observed patterns of crisis in pneumonia.
+  https://pmc.ncbi.nlm.nih.gov/articles/PMC5883734/
+
+5. JEAN HENNION | MID TIER | OUTSIDE THE OFFICIAL ROSTER
+
+The full Annales account specifies a November 1891 pilgrimage
+and recovery reported at the ninth bath. Delbecq's complete
+certificate, dated 19 September 1892, describes years of severe
+headache with reported anemia and reading impairment, then a
+full school year after the change. The Bureau saw the boy in
+1892. No immediate paired examinations or anemia measurements
+were found. Bertrin's appendix groups the entry under September
+and gives the correct certificate date. His later excerpt gives
+the right month for recovery but dates the certificate September 29.
+
+Source
+- Annales XXV, September and October 1892, pp. 143 and 165–167.
+  https://lourdes.centredoc.fr/doc_num.php?explnum_id=3721#page=13
+
+DATE AND INDEX CHECKS
+
+The 65 are the literal 1891 section. Bertrin includes Marguerite Gaffié
+under 1892 and describes a December 1891 recovery elsewhere. The
+original Annales XXV account (August 1892, pp. 106–109) names her,
+dates the improvement to December 8 and reproduces her father's
+clinical account. He was also her treating doctor. He records
+recurrent painful swelling of the right first metatarsal, earlier
+remission and relapse, and another exacerbation during 1891.
+After a novena at home, he found pressure and movement painless
+and the prominence markedly reduced. The doctor was absent for the
+initial reported change, and the date of his last comparable pre-event
+exam is unclear. Grade mid for the examined findings and reported
+durability. Keep the case separate from the 65 while dating it 1891
+in the main tally. Bertrin's excerpt gives December 7.
+https://lourdes.centredoc.fr/doc_num.php?explnum_id=3717#page=10
+
+Amélie Gimard appears immediately above the 1891 heading under 1890
+with an August date and an October 1891 certificate. A later
+certificate alone cannot fix the event year. The 1909 book's agreement
+with the literal count does not settle the number of events actually
+reported for the calendar year. The August 1891 Annales is titled
+Au Bureau des constatations and says its initial notes are preliminary.
+
+SOURCE ACCESS
+
+The Sanctuary links digital PDFs on individual bulletin records under
+the parent serial (notice 9291). Bulletin search by publication date
+retrieves issues that general web search did not surface. Volume XXIV
+begins in April 1891. The parent record's holdings list has an ordinal
+discrepancy near 1890–91. The volume number printed on the actual
+August 1891 issue confirms XXIV. The BnF lists print and microfilm under
+8-LC11-484 (4) at Tolbiac. No public scan of the separate 1890–1891
+Bureau register was located.
+
+- Sanctuary serial notice https://lourdes.centredoc.fr/index.php?lvl=notice_display&id=9291
+- Digitized periodicals instructions https://lourdes.centredoc.fr/index.php?id_rubrique=89&lvl=cmspage&pageid=6
+- BnF serial holding https://catalogue.bnf.fr/ark:/12148/cb32694126g
+- Bertrin's later annual table, p. 443
+  https://archive.org/details/histoirecritique00bertuoft/page/443/mode/2up
+
+ISSUE SCANS
+
+Publication     Volume  Public PDF                          Local filename
+1891-07 (XXIV) https://lourdes.centredoc.fr/doc_num.php?explnum_id=3691
+  sources/annales-1891-07.pdf
+1891-08 (XXIV) https://lourdes.centredoc.fr/doc_num.php?explnum_id=3693
+  sources/annales-1891-08.pdf
+1891-09 (XXIV) https://lourdes.centredoc.fr/doc_num.php?explnum_id=3695
+  sources/annales-1891-09.pdf
+1891-10 (XXIV) https://lourdes.centredoc.fr/doc_num.php?explnum_id=3697
+  sources/annales-1891-10.pdf
+1891-11 (XXIV) https://lourdes.centredoc.fr/doc_num.php?explnum_id=3699
+  sources/annales-1891-11.pdf
+1891-12 (XXIV) https://lourdes.centredoc.fr/doc_num.php?explnum_id=3701
+  sources/annales-1891-12.pdf
+1892-01 (XXIV) https://lourdes.centredoc.fr/doc_num.php?explnum_id=3703
+  sources/annales-1892-01.pdf
+1892-02 (XXIV) https://lourdes.centredoc.fr/doc_num.php?explnum_id=3705
+  sources/annales-1892-02.pdf
+1892-03 (XXIV) https://lourdes.centredoc.fr/doc_num.php?explnum_id=3707
+  sources/annales-1892-03.pdf
+1892-08 (XXV) https://lourdes.centredoc.fr/doc_num.php?explnum_id=3717
+  sources/annales-1892-08.pdf
+1892-09 (XXV) https://lourdes.centredoc.fr/doc_num.php?explnum_id=3719
+  sources/annales-1892-09.pdf
+1892-10 (XXV) https://lourdes.centredoc.fr/doc_num.php?explnum_id=3721
+  sources/annales-1892-10.pdf
+1892-11 (XXV) https://lourdes.centredoc.fr/doc_num.php?explnum_id=3723
+  sources/annales-1892-11.pdf
+vol24-contents (XXIV) https://lourdes.centredoc.fr/doc_num.php?explnum_id=4959
+  sources/annales-vol24-contents.pdf
+
+CASE NOTES FOR ALL 42 REPORTS TRACED TO THE ANNALES
+
+Sœur Labadie | fast | Annales 1891-07, 71–73
+Novena to Our Lady of Lourdes in Molfetta, Italy.
+Hospital physician Pansini records onset January 30, bloody sputum, cyanosis, breathlessness, delirium and a barely palpable pulse as the illness progressed. On day 13 she could eat and entered convalescence without fever. His report gives specific clinical findings on both sides across days. The editorial introduction puts the turn on the February 11 anniversary. The prose in Bertrin misplaces it in January and calls it day 12. No temperature chart or cultures were available.
+Cause assessment — A crisis of lobar pneumonia is a plausible ordinary course. The specific mechanism remains undetermined.
+
+Mme Compas | claim | Annales 1891-08, 115
+French Lourdes baths.
+The pilgrimage chronicle describes a woman aged 39 with longstanding ataxic symptoms and reports abrupt relief after immersion. It supplies neither a measured neurological change nor follow-up. It places the episode in the August 15 feast account, while the register groups it August 18.
+
+Clémentine Trouvé | mid | Annales 1891-08, 93 and 1891-09, 127–129 and 1891-10, 163–165
+French Lourdes baths.
+Cibiel documents a resistant calcaneal lesion in June and a painless scar with weight-bearing on September 1. An August hospital account and eyewitnesses support a closer interval. The contemporary Bureau author confirms inspecting the mark afterward and explicitly says he could not determine whether it had still been draining at entry into the bath. The report gives a firm endpoint and a less secure timing bracket.
+
+Mlle Loranchet | mid | Annales 1891-08, 101–102
+French Lourdes baths.
+A physician from Luxeuil supplied a Pott disease diagnosis. She arrived on a stretcher in an iron corset and reportedly walked after bathing. The Bureau physician saw the cautery marks after the event and explicitly favored a functional disorder over vertebral damage based on the history. Evidence concerns movement. Vertebral tuberculosis was disputed in the original report.
+
+Georges Verdier | mid | Annales 1891-08, 100
+French Lourdes baths.
+An 18-year-old with right foot pain and inability to walk after a sprain wore a silicate splint. The account records restored use after its removal at the bath, with residual swelling much reduced two days later. Exact pre-trip clinical findings and later follow-up were unavailable.
+
+Amélie Chagnon | fast | Annales 1891-08, 94 and 1891-10, 158–163
+French Lourdes baths.
+Dupont's August 30 certificate describes drainage and severe knee symptoms just before departure, then a firm foot scar and no joint tenderness on return. Gaillard documented free movement and symmetric knee size September 5. The grade covers wound and joint findings within about eleven days. The sources give different tract lengths and timing of splint removal. Bone repair and the historical TB diagnosis lack direct confirmation.
+
+Marie Seguin | fast | Annales 1891-08, 98
+French Lourdes baths.
+The Bureau report records moist chest sounds on August 22 despite subjective improvement, then their absence with only slight residual left-sided reduction in breath sounds on August 24. That is a dated clinical pair for a rapid change in auscultation. The referred TB diagnosis lacks organism confirmation and the recorded change does not establish its eradication.
+
+Berthe Petit | mid | Annales 1891-08, 94
+French Lourdes baths.
+A named patient from Paris arrived with reported paraplegia and a lower-back prominence that a bath attendant saw. The report describes walking afterward and residual cautery marks with no apparent prominence. The diagnosis of Pott disease and actual vertebral position lack paired measurements. This woman, aged 34, is distinct from the Belgian mystic of the same name.
+
+Marie Rayon | mid | Annales 1891-08, 97–98
+French Lourdes Blessed Sacrament procession.
+A referral warned against bathing given her severe state, following reported pleurisy, hemoptysis and prolonged bed rest. The Bureau account describes standing August 21 and a subsequent chest exam without rales but with residual signs. A precise before auscultation and durable follow-up were unavailable.
+
+Sœur Dorothée | mid | Annales 1891-08, 98
+French Lourdes baths and Blessed Sacrament procession.
+The Bureau account describes longstanding bed rest and vomiting, standing after immersion, walking after the procession, and visibly improved general condition on August 24. The pre-event diagnosis of anemia and spinal ischemia has no paired testing in this account.
+
+Vve Menuau | mid | Annales 1891-08, 100 and 1891-09, 139
+French Lourdes Blessed Sacrament procession.
+The reports describe hospital treatment for suspected gastric ulcer, repeated hematemesis and recent inability to eat. She got up and ate after the procession. September's chronicle gives August 22 and identifies her as Mme Charles Menuau. There is a clinical history and observable functional change, with no paired study of the ulcer or later bleeding record.
+
+Charlotte Bernard | mid | Annales 1891-08, 101
+French Lourdes grotto washes and baths.
+A Paris clinician reported loss of eardrum and ossicles and left-sided deafness. Lourdes physicians observed that the child could hear a watch at 30 cm after the washes and bath. The source gives no comparable pre-bath watch test, audiometry or post-event anatomical ear exam. The reported endpoint is hearing a sound.
+
+Amélie Lefrançois | mid | Annales 1891-08, 99
+French Lourdes baths.
+The report describes a referring physician's chest diagnosis, symptomatic improvement after the third bath, a negative post-event chest exam and a recheck two days later. No specific pre-bath lung findings or durable follow-up were found.
+
+Amélie Dubreuil | mid | Annales 1891-08, 101
+French Lourdes baths.
+The account reports prior aspiration of fluid and a measured 6 cm reduction in waist circumference after a third bath. It explicitly says signs of the original mass remained and calls the outcome an improvement. The measurement method, timing of baseline and later tumor course are unavailable.
+
+Lucie Michel | mid | Annales 1892-09, 122–123
+French Lourdes baths.
+Dr Chaplût's account describes right-sided paralysis, contracture and vomiting, initial improvement by the sixth bath and later independent walking and eating. He reports maintained recovery in the 1892 account. The neurological diagnosis is unsettled and matched measurements close to the event are unavailable.
+
+Élisabeth Villeneuve | mid | Annales 1891-08, 95–96
+French Lourdes baths.
+A specialist had performed two iridectomies and reportedly described marked visual loss from glaucoma. The Bureau tested reading in both eyes after the second bath. No matched visual acuities, pressure readings or pre-trip test results were located. Surgery remains relevant to causal assessment.
+
+Lucie Renauld | mid | Annales 1891-08, 95 and 1891-09, 133 and 1892-09, 125–126
+French Lourdes baths.
+A pre-trip certificate describes left-leg atrophy. The Bureau reported the old shoe lift was removed and gait improved after the August 24 bath. The issue says 4 cm lift and Boissarie's later book says 3 cm. A lift is an indirect proxy. Monnier's paired numerical measurements are for Charlotte in 1892 and cannot establish Lucie's anatomical change.
+
+Antoinette Frédouille | mid | Annales 1891-08, 96 and 1891-09, 129–131
+French Lourdes baths.
+Boissarie describes prolonged Hôtel-Dieu hospitalization under two named doctors, post-bath walking and eating, and a Bureau visit witnessed by Gouraud. He reports later news of continued improvement and hospital readmission for shelter. No detailed baseline neurological exam or original hospital record was located.
+
+Marie Bertrand | mid | Annales 1891-08, 95
+French Lourdes baths.
+The report describes prolonged immobilization, impaired gait with a cane and knee swelling on arrival. After five baths, movement was free and painless by the Bureau report, which noted residual marks near the trochanter. The original orthopedic record and durable follow-up are unavailable.
+
+Sara Farry | mid | Annales 1891-08, 96–97 and 1891-09, 140
+French Lourdes baths.
+The Bureau narrative describes years of immobility after a fall, transport by her brother and walking with residual weakness after her sixth bath on August 21. A second contemporary reporter saw her at the Bureau August 24. The structural diagnosis is reported without an underlying examination and no long-term follow-up was found.
+
+Maria Ouvrie | claim | Annales 1891-09, 142
+French Lourdes baths.
+The pilgrimage chronicle describes longstanding lower-limb symptoms and an apparently complete change after an August 26 bath. No paired examinations or explicit measured functional endpoint were supplied.
+
+Anita Toussaint | mid | Annales 1892-01, 246–250
+French Lourdes baths.
+Gélade's August 30 certificate reports longstanding severe calf pain and inability to walk easily before pilgrimage and recovery on return. Her priest describes walking on August 27 and continued activity four months later. The issue's medical editor considers a functional recovery plausible and explicitly judges the claimed restoration of muscle size inadequately measured. The certificate does not give a dated final pre-trip exam.
+
+Jeune religieux, unnamed | mid | Annales 1891-08, 99
+French Lourdes baths.
+An unnamed 17-year-old reports hemoptysis, poor appetite and weakness, with a physician's pre-trip TB diagnosis and a normal post-bath chest examination described by the Bureau. The report makes its verdict conditional on durability. No paired tests or individual follow-up were found.
+
+Julienne Paris | claim | Annales 1891-10, 176
+French Lourdes baths.
+A chronicle describes headache, inability to open her eyes and paralysis, followed by seeing the statue and reportedly improved movement after immersion. The report gives no named medical examiner or later corroboration.
+
+Victorine Beaumard | claim | Annales 1891-09, 141
+French Lourdes baths.
+The matching account is Marie Baumard from the same town with paralysis and severe vomiting. It reports improvement after three baths and substantial residual weakness. The identity spelling and given name differ. The chronicle gives no medical examination.
+
+Mme Martin | claim | Annales 1891-09, 140
+French Lourdes baths.
+The chronicle describes rheumatic symptoms and return of leg use at the baths August 26. The printed index groups it August 28. No examinations are cited in the available account.
+
+Mélanie Boyer | claim | Annales 1891-09, 143
+French Lourdes baths.
+The chronicle describes a few months of left hip symptoms and relief on August 28. It supplies no dated clinical examinations, measurements or follow-up.
+
+Marie Laroche | claim | Annales 1891-09, 145
+French Lourdes baths.
+The matching chronicle calls her Maria Laroche and describes left hip symptoms for four years and abrupt relief on August 28. There is no specific pre/post examination.
+
+Marie Kopp | mid | Annales 1891-09, 145
+French Lourdes baths.
+Dr Schalck is named for the pre-trip gastric condition. The chronicle records that she walked easily at the Bureau and reported return of appetite and digestion. Gait was observed afterward. Baseline paresis and nutrition are indirect, with no quantified follow-up.
+
+Sœur Jeanne de Valois | mid | Annales 1891-09, 147 and 1892-09, 151
+French Lourdes baths.
+The chronicle dates relief of knee arthritis to September 2. A later issue records presentation to Boissarie and colleagues and continued improvement. The register names Frogé. His certificate and paired joint measurements were not located.
+
+Louise Servais | claim | Annales 1891-09, 150
+French Lourdes baths.
+The account describes intermittent convulsive and cataleptic episodes with sensory, gait and speech symptoms. She felt markedly improved after bathing on September 4 with weakness persisting. The register names Morlot but the cited page does not reproduce his certificate or show a paired exam.
+
+Marie Talohre | claim | Annales 1891-09, 149
+French Lourdes grotto.
+The chronicle describes severe weakness September 3 and getting up after the bishop prayed. It expressly leaves durability for later assessment. The index label of arthritis is not elaborated in this account.
+
+Anna Poyen | mid | Annales 1891-09, 149–150
+French Lourdes grotto.
+The chronicle names Dr Lejeune for prior motor and sensory loss and persistent vomiting. It describes a marked change at the grotto on September 4 with residual weakness. No post-event neurological examination or follow-up was identified.
+
+Caroline Cassabois | mid | Annales 1891-09, 150 and 1892-11, 204
+French Lourdes baths.
+The first report describes walking and tolerating lying flat after the bath, following reported paralysis and syncope. A Bureau follow-up in 1892 says she returned without recurrence and suggests a nervous origin. The baseline diagnosis of structural heart disease is unverified.
+
+Joseph Bey | claim | Annales 1891-09, 150–151
+French Lourdes Blessed Sacrament procession.
+The report names Mme Joséphine Bey from the same place with the same symptom cluster. It attributes return of movement and eating to the procession and expressly awaits certificates. Roy's certificate was not located. Identification is likely given the correspondence, but the register prints Joseph.
+
+Sœur Marie-Marthe | mid | Annales 1891-09, 151
+French Lourdes baths.
+Dr Sirot's August 28 pre-trip excerpt records exertional breathlessness and recurrent angina-like episodes. She reported symptom relief after immersion. The writer expected later medical confirmation. The available account gives no paired exertion test or structural cardiac diagnosis.
+
+Églantine Roué | claim | Annales 1891-09, 147
+French Lourdes baths.
+The pilgrimage chronicle reports years of hip symptoms and walking without crutches after a bath. No clinical certificate or durability evidence was located.
+
+Marie Poirier | claim | Annales 1891-10, 174–175
+French Lourdes baths.
+Same name and village, but the cited account describes suspected pulmonary disease, not the register's hip condition. It gives a September 16 bath and reports improved walking and appetite. The chronology and diagnosis conflict with the index entry, and clinical examinations are missing.
+
+Frère Adolphe | fast | Annales 1891-11, 195–205
+Lourdes water administered at the Hospitallers of Saint John of God in Lyon.
+Carrier's November 10 certificate describes extreme weakness, cold skin, an imperceptible pulse and difficulty breathing on August 15 after prolonged vomiting. After water by mouth he tolerated drinks and ate before dawn. The physician describes the improvement persisting into November, and the community superior gives a detailed account. The grade covers the clinical turnaround and feeding. The original labels of anemia and neurosis and the lack of measurements limit diagnostic conclusions. The printed index calls him a Lazarist and groups him under September.
+Cause assessment — Undetermined on reviewed evidence. Carrier himself considered a neurotic mechanism for the abrupt symptom change.
+
+Théophile Devaux | mid | Annales 1891-09, 147 and 1891-11, 211
+French Lourdes baths.
+The November follow-up quotes a signed parish statement describing longstanding dependence on two crutches before departure on August 31 and unassisted walking on return September 5. It dates recovery to September 2. The text says recent physicians were unavailable because he had stopped consulting them. Witness evidence supports mobility without establishing the neurological diagnosis.
+
+Jean Hennion | mid | Annales 1892-09, 143 and 1892-10, 165–167
+French Lourdes baths.
+Delbecq's complete certificate dated September 19, 1892 describes several years of treatment for severe headaches with reported anemia, inability to read briefly, and full return to school after the November 1891 pilgrimage. The Bureau saw him in 1892. The close timing is testimonial and laboratory evidence of anemia or its resolution is unavailable.
+
+Mathurin Roussel | mid | Annales 1891-10, 176
+French Lourdes baths.
+The chronicle attributes to Dr Langlois a diagnosis of osteoarthritis of the left ankle or instep with five wounds, three draining. It describes visible closure, relief of pain and easy motion after the second bath. No signed paired certificate, objective size or later exam was found.

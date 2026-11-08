@@ -1,0 +1,36 @@
+CIROLLI — THE MIRACLE POLICE DOCUMENTARY AUDIT
+Completed 3 November 2026. Primary programme caption evidence acquired; visual identity and pathology-report access remain unverified.
+
+MAIN RESULT
+A publicly indexed recording of the Channel 4 programme was located:
+https://www.youtube.com/watch?v=xr-hgKemauY
+Title: EQUINOX : THE MIRACLE POLICE (Channel 4, 1998)
+Uploader: GuildfordGhost; uploaded 4 March 2021; duration 3040 seconds in full metadata. This is not an identified rights-holder upload. Its availability does not certify uploader authorization. No audiovisual media was downloaded. Automatic English captions and descriptive metadata were retrieved.
+
+TIMESTAMPED PROGRAMME EVIDENCE — SUMMARY, NOT A CERTIFIED TRANSCRIPT
+41:01–41:18: narration describes uncertainty about tumour type and the surviving notes and slides.
+41:20–41:48: interviewee discusses expert slide reviews and the lack of additional sections and modern tests. This does not say she personally inspected the slides.
+42:02–42:12: a different speaker maintains that malignancy was established regardless of precise subtype.
+42:15–42:36: NARRATION introduces a possible tubercular infection and diagnostic error.
+42:37–42:56: interviewee questions whether cancer was established from the documentation she has seen. She says there is “not sufficient information to exclude other possibilities”; a self-resolving bone infection is “a possibility”.
+No interviewer question is preserved in this section of the automatic captions. No occurrence of undifferentiated was found in the entire caption text. The language is differential uncertainty, not a positive tuberculosis diagnosis. Lower-thirds, face identity, microscopy images and slide handling have NOT been personally inspected. The speaker attribution to Kathy Pritchard-Jones remains a secondary identification pending visual verification.
+Direct segment: https://www.youtube.com/watch?v=xr-hgKemauY&t=2480
+
+WHY THIS MATTERS FOR MAY'S VERSION
+Peter May's 2017 Science & Christian Belief article pp128–129 attributes to Royal Marsden consultant paediatric oncologist Kathy Pritchard-Jones a review involving completely undifferentiated tissue and possible bone infection/TB. The acquired caption evidence does not independently confirm those details. In particular, the observed wording refers to documentation, and the TB suggestion belongs to narration. Neither a signed opinion, the actual reviewed slides, nor an independently retrievable diagnostic report has been acquired. Therefore do not promote May's recollection into a verbatim expert quotation or a settled pathological reclassification. Conversely, diagnostic uncertainty is a substantive documented question; it is not erased merely because the programme lacks a published report.
+May source: https://www.cis.org.uk/serve.php?filename=scb-29-2-may.pdf
+The parent agent has acquired and read May's article; this child did not independently render that PDF in this subtask.
+
+VERIFIED PRODUCTION AND PHYSICAL-COPY LEADS
+Director Alex Marengo's own credits identify the programme as his director/writer/producer work, made for C4 / Discovery TLC / Ideal World Productions. This supports programme identity and supplies an original-production route, but does not authenticate a medical interpretation.
+https://marengo.tv/credits/single-films/
+The Columban Missionaries' Dalgan video-library catalogue lists The Miracle Police, 1998, 60 minutes, DVD/VHS, disc 044, Equinox CH4 series. PDF page 5 was extracted, rendered and personally visually inspected. This is a concrete institutional custody lead; availability, borrowing conditions and completeness have not been confirmed. No contact was sent.
+https://columbans.ie/wp-content/uploads/2017/11/Dalgan-VideoLibrary-Catalogue.pdf
+
+ACCESS AND READ LIMITS
+BFI/Channel 4/BoB-targeted public searches did not recover an episode-specific official stream, transcript or catalogue record in this bounded pass. This does not mean those archives lack it. CUA returned no available browsers, so no browser frames could be inspected. No repeated bypass attempts, account changes, purchases, emails or media downloads were made. Original English automatic JSON3 captions and a timestamped text extraction are saved. Automatic speech recognition can omit or mistranscribe words and cannot identify voices reliably. Parent should verify the 41–43 minute segment visually/audibly before quoting as exact speech or assigning it to a named physician.
+
+RETRIEVAL TARGETS
+1. Visually inspect lower-third identification and original audio at 41:20 and 42:37; check whether preceding footage actually shows the named expert examining Cirolli's slides.
+2. Seek the signed/reportable opinion or production research file identifying documents/material supplied, stains, sections, diagnostic scope and degree of certainty.
+3. If online recording disappears, institutional custody lead is Dalgan disc 044; original production lead is Marengo/Ideal World. No contact is authorized in this subtask.

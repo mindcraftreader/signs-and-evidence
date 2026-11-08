@@ -1,0 +1,286 @@
+Block18 — concrete historical comparison appendix
+==========================================================================
+Reviewed: 2026-10-27
+
+READY TO INSERT IN BLOCK18
+A concrete comparison inventory places the Shroud alongside eight historical cases: medieval painted linen, painted silk, a linen-reinforced panel, a carved effigy, later groundless cloth paintings and an intentional Shroud copy. The consulted conservation studies document mineral grounds and paint layers in several cases, and through-cloth staining in one thinly painted example. None provides a demonstrated match to the Shroud’s reported combination of a local 0.2 ± 0.2 µm colored fiber region and negative-like body tonality. This is a bounded result: most comparators have no calibrated individual-fiber depth or controlled inversion measurement. The appendix therefore distinguishes demonstrated material differences from unmeasured properties; it supports the claim that no matching historical object has been identified in this inventory, while supplying no numerical rarity probability or universal impossibility proof.
+
+Bounded conclusion: no comparator in this inspected inventory has a demonstrated match to the Shroud’s reported combination of local fiber-surface coloration and negative-like body tonality. Most individual-fiber depths and controlled inversion behaviors remain unmeasured; this supports a documented absence of an identified match in the inventory, not proof that no other image exists or that manufacture was impossible.
+Positive evidence of different technique is strongest for Withyham, Spinello and Monreale (grounds/paint systems), and Justus (through-cloth staining). Missing fiber-depth or inversion measurements must not be promoted into demonstrated failures.
+Eight historical cases are listed: four painted-textile/panel cases in the medieval group, one medieval sculpture control, two later fifteenth-century painting controls, and one 1516 intentional Shroud copy. Withyham is one group case, not four independent measured thickness observations. None supplies a representative medieval-European mean, minimum, SD or rarity probability.
+Measurements must keep four questions separate: paint/ground film thickness; penetration across cloth or yarn; coloration inside an individual fiber wall; ordinary versus inverted tonal response. Overall object thickness, 130 µg sample mass and microscope magnification alone answer none of the other quantities.
+Survival and conservation strongly select the sample: fragile groundless cloths are underrepresented, while linings, consolidants, abrasion and replacement areas complicate modern observations. Source-specific caveats belong beside each comparison.
+Modern experimental replicas are a separate category, not historical counterparts. Garlaschelli 2010 (DOI 10.2352/J.ImagingSci.Technol.2010.54.4.040301) and subsequent 2011 critique are relevant next-stage experimental comparisons; a fresh full microscopic equivalence audit was not completed in this bounded pass. They are not counted among the eight historical cases.
+Sudarium of Oviedo excluded, following user instruction.
+
+STATUS LEGEND
+MEASURED: Numerical measurement reported by source; not independently remeasured here.
+QUALITATIVE OBSERVATION: Descriptive/instrumental/visual observation without calibrated numerical value for this field.
+UNMEASURED IN CONSULTED SOURCES: No value found in the consulted sources; not a finding of absence.
+NOT APPLICABLE: Quantity does not apply to this support/process as defined.
+
+==========================================================================
+R0 — Shroud of Turin body image
+Reference object, not a counted comparator
+Date: Origin/date disputed; public chain of custody securely enters medieval record at Lirey
+Identifier: Turin Cathedral Shroud; body image distinguished from blood, burns, water stains and repairs
+Dimensions: MEASURED: Approximately 442 × 113 cm according to CISS institutional description.
+Support: Flax linen; herringbone weave.
+Production and materials: Image formation is disputed. Fanti 2010 interprets localized coloration in outer fiber material and discusses cell-wall versus impurity-layer possibilities; this is not a settled maker/process identification.
+Paint or ground film: NOT APPLICABLE: A conventional deposited paint film is not the quantity estimated in Fig.12. A comprehensive assessment of the disputed pigment literature is outside this appendix.
+Numerical paint film thickness: NOT APPLICABLE: The 0.2 ± 0.2 µm local figure estimates colored fiber material, not a conventional applied paint film.
+Cloth or yarn penetration: QUALITATIVE OBSERVATION: Fanti 2010 separately describes coloration reaching roughly 2–3 fibers into threads and some colored fibers100 µm beneath a tangential fabric plane; these are different geometrical scales, not 0.2 µm wall penetration.
+Individual fiber coloration depth: MEASURED: Fig.12 local estimate 0.2 ± 0.2 µm at an exposed fiber-wall lacuna. No representative all-cloth distribution or population standard deviation established by that caption; retain uncertainty and interpretation.
+Tonal behavior: QUALITATIVE OBSERVATION: Institutional photographs compare cloth appearance with photographic negative: light/dark relations make the inverted body image more natural-looking. Negative-like should not be expanded into a mathematically perfect negative of a uniquely known illuminated body.
+Controlled inversion test: QUALITATIVE OBSERVATION: Actual photographic inversion is documented; no standardized photometric cross-object test performed for this appendix.
+Comparison result: Reference claims are defined at their actual scale. Matching requires an independent object with comparable measurement, not just the adjective superficial.
+Sources: FANTI2010, CISS, CISSDIM
+
+==========================================================================
+H1 — Virgin Hodegetria, Monreale Cathedral
+Medieval panel with linen interlayers
+Date: End 12th–first half 13th century in the technical study; generally assigned first half 13th century
+Identifier: Monreale Cathedral Virgin Hodegetria; sampled object MOM-A–MOM-H; no museum accession reported
+Dimensions: MEASURED: 169 × 131 × 3 cm overall panel; overall depth is not paint thickness.
+Support: Wood panel with two linen reinforcement layers; these are not a free hanging linen image.
+Production and materials: Ground containing calcium sulphate, mineral inclusions and protein; original colored layers and later repainting identified by PLM/ESEM-EDX/ATR-FTIR/Raman.
+Paint or ground film: MEASURED: Table 2, MOM-A maxima: layer 2 original red-ochre/haematite paint 20 µm; layer 1 minium/calcium-carbonate/carbon-black stratum 55 µm; layer 3 red 20 µm; layer 4 repaint 20 µm. Ground 0=1250 µm; ground−1=1900 µm. Specific layer maxima, not a mean or population SD.
+Numerical paint film thickness: MEASURED: Table 2, MOM-A maxima: layer 2 original red-ochre/haematite paint 20 µm; layer 1 minium/calcium-carbonate/carbon-black stratum 55 µm; layer 3 red 20 µm; layer 4 repaint 20 µm. Ground 0=1250 µm; ground−1=1900 µm. Specific layer maxima, not a mean or population SD.
+Cloth or yarn penetration: UNMEASURED IN CONSULTED SOURCES: No calibrated numerical value for this quantity was recovered. Missing measurement is not a demonstrated mismatch.
+Individual fiber coloration depth: UNMEASURED IN CONSULTED SOURCES: No calibrated numerical value for this quantity was recovered. Missing measurement is not a demonstrated mismatch.
+Tonal behavior: QUALITATIVE OBSERVATION: An ordinary figurative depiction is reproduced by the holding institution or technical study. No controlled raw-versus-inverted tonal test was located; this observation does not establish the absence of every negative-like feature.
+Controlled inversion test: UNMEASURED IN CONSULTED SOURCES: No controlled comparative inversion/photometric test was located for this object.
+Comparison result: DEMONSTRATED DIFFERENT SUPPORT/LAYER SYSTEM. Numeric paint-film maxima cannot be divided by a Shroud fiber-wall estimate to obtain a defensible same-property ratio. Table 2 sample designation and original/repainting distinction must remain attached.
+Sources: MONREALE2023
+
+==========================================================================
+H2 — Four Florentine Passion scenes, Withyham / Leeds Castle group
+Medieval painted linen
+Date: Last quarter 14th century; around 1400
+Identifier: Four scenes identified in Villers/Stevenson/Sharp 1993; Flagellation and Mocking closely examined; no public accession reported
+Dimensions: QUALITATIVE OBSERVATION: Each approximately 1 m², made from two stitched linen pieces; not exact object-by-object dimensions.
+Support: Linen identified by textile specialist;17 × 15 yarns/cm². Later glued onto mahogany supports.
+Production and materials: Thin calcium-sulphate ground with animal glue; XRD identifies gypsum/anhydrite; egg tempera from FTIR/DSC. Usually one paint layer, occasionally two; flesh described as three strata. Later mounting glue obscures original sizing.
+Paint or ground film: QUALITATIVE OBSERVATION: 1993 paper calls ground thin and describes layer counts; gives no calibrated µm thickness. The 2017 review citing Villers 2000 calls a ground thick calcium carbonate; 2000 chapter not obtained, discrepancy unresolved.
+Numerical paint film thickness: UNMEASURED IN CONSULTED SOURCES: No calibrated numerical paint/ground thickness located; see qualitative layer observations above.
+Cloth or yarn penetration: UNMEASURED IN CONSULTED SOURCES: No calibrated numerical value for this quantity was recovered. Missing measurement is not a demonstrated mismatch.
+Individual fiber coloration depth: UNMEASURED IN CONSULTED SOURCES: No calibrated numerical value for this quantity was recovered. Missing measurement is not a demonstrated mismatch.
+Tonal behavior: QUALITATIVE OBSERVATION: An ordinary figurative depiction is reproduced by the holding institution or technical study. No controlled raw-versus-inverted tonal test was located; this observation does not establish the absence of every negative-like feature.
+Controlled inversion test: UNMEASURED IN CONSULTED SOURCES: No controlled comparative inversion/photometric test was located for this object.
+Comparison result: DEMONSTRATED MINERAL GROUND/PAINT STRUCTURE; NUMERIC DEPTH UNKNOWN. This period example prevents the blanket assertion that all surviving medieval cloth paintings have quantitatively thick paint. Only two of the four closely examined; not four measured independent samples.
+Sources: VILLERS1993, REVIEW2017, FABRIC2000
+
+==========================================================================
+H3 — Spinello Aretino, Saint Mary Magdalen Holding a Crucifix; reverse The Flagellation
+Medieval painted canvas
+Date: ca. 1395–1400
+Identifier: Met 13.175; museum object 437744
+Dimensions: MEASURED: 176.5 × 120 cm.
+Support: Museum identifies canvas; individual flax/linen identification not established in consulted entry or Lee paper.
+Production and materials: Tempera, gold ground. Magdalen red-robe fragment: gypsum ground, multiple red paint layers interspersed with varnish. FTIR lowest paint protein+oil; GC-MS egg and possible collagen; ELISA animal collagen, ovalbumin and gums, not casein. Collagen may be ground/consolidant; gum may be restoration. Egg likely paint binder.
+Paint or ground film: QUALITATIVE OBSERVATION: Layer sequence observed in cross-section, but cross-section data not shown and no calibrated thickness reported. The 130 µg sample mass is not a depth.
+Numerical paint film thickness: UNMEASURED IN CONSULTED SOURCES: No calibrated numerical paint/ground thickness located; see qualitative layer observations above.
+Cloth or yarn penetration: UNMEASURED IN CONSULTED SOURCES: No calibrated numerical value for this quantity was recovered. Missing measurement is not a demonstrated mismatch.
+Individual fiber coloration depth: UNMEASURED IN CONSULTED SOURCES: No calibrated numerical value for this quantity was recovered. Missing measurement is not a demonstrated mismatch.
+Tonal behavior: QUALITATIVE OBSERVATION: An ordinary figurative depiction is reproduced by the holding institution or technical study. No controlled raw-versus-inverted tonal test was located; this observation does not establish the absence of every negative-like feature.
+Controlled inversion test: UNMEASURED IN CONSULTED SOURCES: No controlled comparative inversion/photometric test was located for this object.
+Comparison result: DEMONSTRATED MULTILAYER GYPSUM/PAINT/VARNISH SYSTEM; NUMERIC DEPTH UNKNOWN. NEW library full text strengthens binder evidence. Met identifies Christ’s face on the reverse as a photographic facsimile: exclude that replacement face from an original medieval image test.
+Sources: LEE2015, MET13175
+
+==========================================================================
+H4 — Parement de Narbonne
+Medieval painted silk
+Date: Late 14th century, conventionally ca. 1375
+Identifier: Louvre MI1121 recto
+Dimensions: MEASURED: 285.5 × 76.5 cm.
+Support: Moiré ribbed silk, later mounted/lined on a stretcher; silk must not be silently relabeled linen.
+Production and materials: Monochrome Passion altar furnishing. Louvre attributes to Jean d’Orléans, while recording earlier alternatives/Master of the Parement. Object-specific pigment, binder and ground chemistry not supplied by consulted museum record; Nash 2000 technical chapter not obtained.
+Paint or ground film: UNMEASURED IN CONSULTED SOURCES: No calibrated numerical value for this quantity was recovered. Missing measurement is not a demonstrated mismatch.
+Numerical paint film thickness: UNMEASURED IN CONSULTED SOURCES: No calibrated numerical paint/ground thickness located; see qualitative layer observations above.
+Cloth or yarn penetration: UNMEASURED IN CONSULTED SOURCES: No calibrated numerical value for this quantity was recovered. Missing measurement is not a demonstrated mismatch.
+Individual fiber coloration depth: UNMEASURED IN CONSULTED SOURCES: No calibrated numerical value for this quantity was recovered. Missing measurement is not a demonstrated mismatch.
+Tonal behavior: QUALITATIVE OBSERVATION: An ordinary figurative depiction is reproduced by the holding institution or technical study. No controlled raw-versus-inverted tonal test was located; this observation does not establish the absence of every negative-like feature.
+Controlled inversion test: UNMEASURED IN CONSULTED SOURCES: No controlled comparative inversion/photometric test was located for this object.
+Comparison result: DEMONSTRATED DIFFERENT FIBER SUPPORT; large monochrome religious textile is a useful visual/historical comparator. No depth mismatch or formal negativity mismatch is established by the short museum record.
+Sources: NARBONNE, FABRIC2000
+
+==========================================================================
+H5 — Jean de Liège, recumbent effigy of Charles IV
+Medieval sculpture control
+Date: 1371–1372;1328 is the king’s death, not this sculpture’s production date
+Identifier: Louvre RF1436
+Dimensions: MEASURED: 135 × 36 × 16 cm overall sculpture.
+Support: Carved marble with traces of polychromy.
+Production and materials: Sculpted recumbent body; three-dimensional forms recorded in museum views. No textile transfer, cast or rubbing experiment was performed on this object in consulted sources.
+Paint or ground film: UNMEASURED IN CONSULTED SOURCES: Remaining polychromy thickness not measured in consulted museum record.
+Numerical paint film thickness: UNMEASURED IN CONSULTED SOURCES: No calibrated numerical paint/ground thickness located; see qualitative layer observations above.
+Cloth or yarn penetration: NOT APPLICABLE: No cloth or yarn in the object.
+Individual fiber coloration depth: NOT APPLICABLE: Marble carving has no individual flax fiber-wall coloration.
+Tonal behavior: QUALITATIVE OBSERVATION: Museum photographs show a carved figure with highlights/shadows shaped by relief and lighting. No raw/inverted image experiment or cloth-transfer experiment located.
+Controlled inversion test: UNMEASURED IN CONSULTED SOURCES: No controlled comparative inversion/photometric test was located for this object.
+Comparison result: DEMONSTRATED THREE-DIMENSIONAL MATERIAL CONTROL. Illustrates an actual near-period sculpted body, not evidence that a cloth image was generated from it. Tonality of a photograph depends on illumination; no claim that this stone inherently has Shroud-like negative tonality.
+Sources: LIEGE
+
+==========================================================================
+H6 — Dirk Bouts, The Entombment
+Later fifteenth-century painted linen control
+Date: Probably 1450s
+Identifier: National Gallery NG664
+Dimensions: MEASURED: 87.5 × 73.6 cm.
+Support: Microscopically identified flax linen.
+Production and materials: Glue tempera on sized linen without conventional mineral ground, as discussed in Roy’s comparison with the earlier Bouts investigation. Chalk principal flesh pigment, lead-white highlights; red-lake glazes. Thin paint, wear, dirt and altered colors affect current appearance.
+Paint or ground film: UNMEASURED IN CONSULTED SOURCES: No calibrated numerical value for this quantity was recovered. Missing measurement is not a demonstrated mismatch.
+Numerical paint film thickness: UNMEASURED IN CONSULTED SOURCES: No calibrated numerical paint/ground thickness located; see qualitative layer observations above.
+Cloth or yarn penetration: UNMEASURED IN CONSULTED SOURCES: No calibrated numerical value for this quantity was recovered. Missing measurement is not a demonstrated mismatch.
+Individual fiber coloration depth: UNMEASURED IN CONSULTED SOURCES: No calibrated numerical value for this quantity was recovered. Missing measurement is not a demonstrated mismatch.
+Tonal behavior: QUALITATIVE OBSERVATION: An ordinary figurative depiction is reproduced by the holding institution or technical study. No controlled raw-versus-inverted tonal test was located; this observation does not establish the absence of every negative-like feature.
+Controlled inversion test: UNMEASURED IN CONSULTED SOURCES: No controlled comparative inversion/photometric test was located for this object.
+Comparison result: DEMONSTRATED GROUNDED PAINT IS NOT UNIVERSAL. Groundless glue painting exists; no consulted calibrated fiber-wall depth supports equating it with or ruling it out solely by the0.2 µm Shroud figure. Later than Lirey, so a method control, not a pre-Lirey precedent.
+Sources: NG664, ROY1988
+
+==========================================================================
+H7 — Justus van Ghent, Adoration of the Magi
+Later fifteenth-century painted cloth control
+Date: ca. 1470 in Scully/Seidel technical study
+Identifier: Met 41.190.21
+Dimensions: MEASURED: 109.2 × 160 cm, technical study Fig.1.
+Support: Cloth appears linen; fiber identification not tested in this particular examination. Later lining glue, wax, varnish and abrasion complicate interpretation.
+Production and materials: No ground or toning layer; probable glue sizing and thin distemper washes. 1957 treatment photograph shows verso ghost attributable to paint soaking through.
+Paint or ground film: QUALITATIVE OBSERVATION: Thin washes/no ground observed; no numeric film thickness.
+Numerical paint film thickness: UNMEASURED IN CONSULTED SOURCES: No calibrated numerical paint/ground thickness located; see qualitative layer observations above.
+Cloth or yarn penetration: QUALITATIVE OBSERVATION: Through-cloth staining/verso ghost documented by treatment photograph and study; no µm penetration value.
+Individual fiber coloration depth: UNMEASURED IN CONSULTED SOURCES: No calibrated numerical value for this quantity was recovered. Missing measurement is not a demonstrated mismatch.
+Tonal behavior: QUALITATIVE OBSERVATION: An ordinary figurative depiction is reproduced by the holding institution or technical study. No controlled raw-versus-inverted tonal test was located; this observation does not establish the absence of every negative-like feature.
+Controlled inversion test: UNMEASURED IN CONSULTED SOURCES: No controlled comparative inversion/photometric test was located for this object.
+Comparison result: DEMONSTRATED CLOTH PENETRATION DESPITE THIN PAINT. This particular painted object differs from a strictly surface-confined cloth image. It does not prove that every groundless wash must penetrate or provide an individual fiber-wall depth.
+Sources: JUSTUS2016
+
+==========================================================================
+H8 — Lier Shroud copy
+Later intentional Shroud copy
+Date: Dated 1516
+Identifier: Saint-Gummarus/Saint-Gommaire church, Lier; 1516 copy; no public accession located
+Dimensions: MEASURED: 147 × 33 cm, numerical dimensions reported by firsthand examiner Van Haelst 1997; not independently remeasured here. Published precision/uncertainty not specified.
+Support: Van Haelst describes light yellow plain-woven Geneva taffeta/cotton; this is an observer description, not a documented laboratory fiber identification.
+Production and materials: Painted reduced frontal/dorsal Shroud copy. Actual pigment/ground/binder chemistry and calibrated depth were not recovered. Dürer attribution is not established here.
+Paint or ground film: UNMEASURED IN CONSULTED SOURCES: No calibrated numerical value for this quantity was recovered. Missing measurement is not a demonstrated mismatch.
+Numerical paint film thickness: UNMEASURED IN CONSULTED SOURCES: No calibrated numerical paint/ground thickness located; see qualitative layer observations above.
+Cloth or yarn penetration: UNMEASURED IN CONSULTED SOURCES: No calibrated numerical value for this quantity was recovered. Missing measurement is not a demonstrated mismatch.
+Individual fiber coloration depth: UNMEASURED IN CONSULTED SOURCES: No calibrated numerical value for this quantity was recovered. Missing measurement is not a demonstrated mismatch.
+Tonal behavior: QUALITATIVE OBSERVATION: An ordinary figurative depiction is reproduced by the holding institution or technical study. No controlled raw-versus-inverted tonal test was located; this observation does not establish the absence of every negative-like feature.
+Controlled inversion test: UNMEASURED IN CONSULTED SOURCES: No controlled comparative inversion/photometric test was located for this object.
+Comparison result: ESTABLISHED INTENTIONAL COPY CATEGORY, NOT AN INDEPENDENT MEDIEVAL COUNTERPART. Its similar subject/outline does not establish a matching microscopic process; missing measurement does not establish failure. 1516 is after Lirey.
+Sources: LIER1997, CISS
+
+LIBRARY ACCESS LOG
+{
+  "method": "Foreground Google Chrome, Danny profile, University of Akron library catalog and authenticated EZproxy publisher access; native CUA navigation. Public primary conservation/institutional sources supplement library work.",
+  "successful_acquisition": "Lee et al.2015 full 10-page PDF acquired through University of Akron RSC Gold availability. Read Spinello-specific sample/method/results on printed pp.190,192–193. Publisher PDF saved in source-files/c4ay01919a.pdf.",
+  "catalog_searches": [
+    {
+      "query": "The Fabric of Images",
+      "result": "Four records: duplicate2003 Speculum reviews plus unrelated philosophy item. No book/chapter full text obtained."
+    },
+    {
+      "query": "Four Scenes of the Passion",
+      "result": "No relevant holdings; expanded results unrelated to Villers chapter."
+    },
+    {
+      "query": "technique and materials + Intercession",
+      "result": "No relevant chapter holdings; expanded unrelated result."
+    }
+  ],
+  "remaining_gaps": "Villers 2000 pp.1–10 and Hale 2000 pp.31–41 not obtained. Publisher contents verified; no inference from catalog non-retrieval that no academic library could supply them. Nash 2000 pp.77–87 also a precise lead. No ILL/order submitted.",
+  "reproducible_catalog": "https://library.search.uakron.edu/nde/search?query=%22The+Fabric+of+Images%22&tab=Everything&search_scope=MyInst_and_CI&lang=en&vid=01OHIOLINK_AKRON:Bierce_Library",
+  "lee_record": "cdi_proquest_miscellaneous_1685785782; DOI 10.1039/C4AY01919A; RSC Package Gold",
+  "withyham_discrepancy": "1993 firsthand report describes thin calcium-sulphate/glue ground. 2017 review citing 2000 chapter describes thick calcium-carbonate ground. Later chapter unavailable, so whether revised analysis/different passage/error remains unresolved."
+}
+
+SOURCES
+
+FANTI2010: Fanti et al., Microscopic and Macroscopic Characteristics of the Shroud of Turin Image Superficiality, JIST 54(4), 040201-1–8 (2010)
+https://doi.org/10.2352/J.ImagingSci.Technol.2010.54.4.040201
+Locator: Fig.12 and caption, printed p.040201-7; discussion of fabric/thread/fiber scales
+Access: Full primary PDF previously saved and inspected
+Local file: research/shroud-sources/medieval-linen-layers/source-files/fanti-superficiality-2010.pdf
+
+CISS: International Centre of Sindonology, The cloth in detail
+https://www.sindone.it/en/dettaglio-telo
+Locator: Negative-like appearance, detail page; size/support on https://www.sindone.it/en/sindone
+Access: Public institutional webpage read
+
+VILLERS1993: Villers, Stevenson and Sharp, The Technique of Four 14th-Century Italian Paintings on Fabric Supports, ICOM-CC, Washington 1993, vol.I, pp.104–109
+https://www.icom-cc-publications-online.org/2736/The-Technique-of-Four-14th-Century-Italian-Paintings-on-Fabric-Supports
+Locator: pp.104–105 date/support/size; pp.106–108 ground, binder and layers; p.109 scope
+Access: Full official six-page scanned paper read
+Local file: research/shroud-sources/medieval-linen-layers/source-files/villers-fourteenth-1993.pdf
+
+LEE2015: Hae Young Lee et al., Development and application of an ELISA method for the analysis of protein-based binding media of artworks, Analytical Methods 7, 187–196 (2015)
+https://doi.org/10.1039/C4AY01919A
+Locator: p.190 sample; pp.192–193 and Figs.2c/3c Spinello findings
+Access: NEW: full ten-page publisher PDF obtained in foreground Chrome through University of Akron RSC Gold / EZproxy; saved locally
+Local file: research/shroud-sources/historical-comparison-appendix/source-files/c4ay01919a.pdf
+
+MET13175: The Metropolitan Museum of Art, Spinello Aretino, Saint Mary Magdalen Holding a Crucifix; (reverse) The Flagellation, 13.175
+https://www.metmuseum.org/art/collection/search/437744
+Locator: Artwork details: medium, date, dimensions
+Access: Official museum API metadata saved and read
+Local file: research/shroud-sources/medieval-linen-layers/source-files/spinello-museum.json
+
+MONREALE2023: Amadori et al., The Virgin Hodegetria Panel in Monreale Cathedral, Heritage 6 (2023)
+https://doi.org/10.3390/heritage6060249
+Locator: p.4689 dimensions; Table 1 p.4696 sampling; Table 2 pp.4698–4699 MOM-A
+Access: Full primary open-access PDF and Table 2 inspected
+Local file: research/shroud-sources/medieval-linen-layers/source-files/amadori-monreale-2023.pdf
+
+JUSTUS2016: Scully and Seidel, A Tüchlein by Justus van Ghent: The Adoration of the Magi in the Metropolitan Museum of Art Re-Examined, JHNA 8(1) (2016)
+https://doi.org/10.5092/jhna.2016.8.1.3
+Locator: Fig.1 date/dimensions; paras.10,13–14,18; printed pp.5–7,10; 1957 verso photograph
+Access: Full primary conservation study read
+Local file: research/shroud-sources/medieval-linen-layers/source-files/scully-seidel-tuchlein-2016.pdf
+
+ROY1988: Ashok Roy, The Technique of a Tüchlein by Quinten Massys, National Gallery Technical Bulletin 12 (1988), pp.36–43
+https://www.nationalgallery.org.uk/technical-bulletin/roy1988
+Locator: Comparisons with Bouts NG664: support, sizing, pigments and flesh; refers to Bomford/Roy/Smith 1986 underlying Bouts study
+Access: Full official paper/RTF read; Bouts-specific comparisons used; not an independent complete resampling of NG664
+Local file: research/shroud-sources/medieval-linen-layers/source-files/roy1988-readable.txt
+
+NG664: National Gallery, Dirk Bouts, The Entombment, NG664
+https://www.nationalgallery.org.uk/paintings/dirk-bouts-the-entombment
+Locator: Key facts and overview: date, 87.5 × 73.6 cm, identified linen, glue tempera, condition
+Access: Official object webpage read
+
+NARBONNE: Louvre, Le Parement de Narbonne, MI1121 recto
+https://collections.louvre.fr/ark:/53355/cl020111524
+Locator: Material and dimensions; attribution history; Nash 2000 technical chapter bibliographic lead
+Access: Official object metadata and institutional reproduction; no technical cross-section study obtained
+Local file: research/shroud-sources/supporting/art-narbonne-parement/art-narbonne-parement.json
+
+LIER1997: Remi Van Haelst, The Red Stains on the Lier and Other Shroud Copies (1997)
+https://www.shroud.com/vanhels2.htm
+Locator: The History of the Lier Copy: own examination, support, size and archival discussion
+Access: Public firsthand researcher account read; not a laboratory fiber-identification report or museum conservation dossier
+
+LIEGE: Louvre, Jean de Liège, Charles IV effigy, RF1436
+https://collections.louvre.fr/ark:/53355/cl010093783
+Locator: Object record:1371–1372,135 × 36 × 16 cm, marble/polychromy traces
+Access: Official museum metadata and views inspected
+Local file: research/shroud-sources/supporting/art-liege-charles-iv/art-liege-charles-iv.json
+
+FABRIC2000: Caroline Villers (ed.), The Fabric of Images: European Paintings on Textile Supports in the Fourteenth and Fifteenth Centuries ( 2000), ISBN9781873132272
+https://archetype.co.uk/our-titles/the-fabric-of-images/?id=115
+Locator: Publisher contents: Villers pp.1–10; Hale pp.31–41; Nash pp.77–87
+Access: Publisher bibliographic metadata only; chapters NOT obtained through this library session
+
+REVIEW2017: Thompson, Smith and Lennard, Analytical techniques for painted textiles, Part1, Journal of the Institute of Conservation40(1),64–82 ( 2017)
+https://doi.org/10.1080/19455224.2016.1269355
+Locator: pp.68–69 medieval grounds; p.75 general sampling discussion
+Access: Full secondary review read; not a representative measured medieval-textile dataset
+Local file: research/shroud-sources/medieval-linen-layers/source-files/painted-textiles-review-2017.pdf
+
+CISSDIM: International Centre of Sindonology, The Shroud
+https://www.sindone.it/en/sindone
+Locator: Main text below full cloth photograph: flax cloth 4.42 meters long and 1.13 meters wide, herringbone weave
+Access: Public institutional webpage read and precise size/support text verified
+
+New library PDF SHA256: 9b7a0cb2c40b4e249d5f443cb9f60989658857ba23297db99712ee173c1353ab

@@ -1,0 +1,57 @@
+Browser tab: 24, Title: "Moteur de recherche des Archives départementales de la Haute Marne - Consultation du document « Bénéfices, cures, fabriques, travaux et répartions... »", URL: "https://recherche.archives.haute-marne.fr/archives/show/FRAD052_00000002G_de-216".
+0 AXWebArea URL: recherche.archives.haute-marne.fr/archives/show/FRAD052_00000002G_de-216, Moteur de recherche des Archives départementales de la Haute Marne - Consultation du document « Bénéfices, cures, fabriques, travaux et répartions... »
+	1 container
+		2 container wrapper
+			3 heading Bach, Value: 1
+				4 link Description: Bach, Help: Notre actu, nos missions..., Value: haute-marne.fr/culture/archives-departementales/
+			5 container container
+				7 container nav_div
+					8 link Description: Le guide, Value: haute-marne.fr/liens-utiles/archives-departementales/archives-en-ligne/
+					9 link Description: Panier, Value: recherche.archives.haute-marne.fr/basketList
+					10 link Description: Historique, Value: recherche.archives.haute-marne.fr/searchhistoList
+					11 link Description: Connexion, Value: recherche.archives.haute-marne.fr/login
+				12 content list
+					13 link Description: Accueil, Value: recherche.archives.haute-marne.fr/home
+					14 link Description: Chercher, Value: recherche.archives.haute-marne.fr/archives/search
+					15 link Description: Soldats, Value: recherche.archives.haute-marne.fr/matricules/search
+					16 link Description: Inventaires en ligne, Value: recherche.archives.haute-marne.fr/archives/classification-scheme
+					17 link Description: Index, Value: recherche.archives.haute-marne.fr/archives/browse
+				18 container
+					19 content list
+						20 link Description: Fonds du chapitre cathédral de Langres et divers chapitres collégiaux, Value: recherche.archives.haute-marne.fr/archives/show/FRAD052_00000002G_description
+						21 link Description: › Chapitre cathédrale de Langres, Value: recherche.archives.haute-marne.fr/archives/show/FRAD052_00000002G_tt1-1
+						22 link Description: › Bénéfices. Cures, Fabriques, Chapelles, Value: recherche.archives.haute-marne.fr/archives/show/FRAD052_00000002G_tt2-61
+						23 link Description: › Cathédrale Saint-Mammès, Value: recherche.archives.haute-marne.fr/archives/show/FRAD052_00000002G_tt3-1
+					24 heading Value: 2, Bénéfices, cures, fabriques, travaux et répartions, incendie, préau, comptes, procès du chapitre avec Mgr. De Montmorin de Saint-Hérem. • 1307-1789 Situer dans l'inventaire Ajout à votre panier
+						25 text Bénéfices, cures, fabriques, travaux et répartions, incendie, préau, comptes, procès du chapitre avec Mgr. De Montmorin de Saint-Hérem.  • 1307-1789
+						26 link Description: Situer dans l'inventaire, Value: recherche.archives.haute-marne.fr/document/FRAD052_00000002G#de-216
+						27 link Description: Ajout à votre panier, Value: recherche.archives.haute-marne.fr/basketAdd/FRAD052_00000002G_de-216
+					28 link Description: Item précédent, Value: recherche.archives.haute-marne.fr/archives/show/FRAD052_00000002G_de-215, ID: prev_comp, Help: Afficher l'item précédent Bénéfices, cures, fabriques, revenus, office de sonneur, enfants de choeur.
+					29 link Description: Item suivant, Value: recherche.archives.haute-marne.fr/archives/show/FRAD052_00000002G_de-217, ID: next_comp, Help: Afficher l'item suivant Bénéfices, cures, fabriques, travaux et répartions, incendie, préau, comptes, procès du chapitre avec Mgr. De Montmorin de Saint-Hérem.
+					30 link Description: Imprimer, Value: recherche.archives.haute-marne.fr/printDoc/FRAD052_00000002G_de-216
+					31 tab group
+						32 tab (selected, expanded, settable, boolean) Description: Description, Secondary Actions: Collapse, Value: 1
+Description
+					33 container Description: Description, ID: de-216
+						34 container
+							35 heading Date de l'unité documentaire, Value: 3
+								36 text Date de l'unité documentaire
+							37 text 1307-1789
+						38 container
+							39 heading 3
+							40 text Archives publiques
+						41 container
+							42 heading 3
+							43 text Grand domaine de recherche :
+							44 link Description: Inventaires d'archives, Value: recherche.archives.haute-marne.fr/archives/search?filter_field=dyndescr_cSubject_liste-grandDomaine&filter_value=Inventaires+d%27archives
+							45 text Sous-domaine de recherche :
+							46 link Description: Archives religieuses, Value: recherche.archives.haute-marne.fr/archives/search?filter_field=dyndescr_cSubject_liste-sousDomaine&filter_value=Archives+religieuses
+						47 container
+							48 text Cotes extrêmes  2 G 168
+				49 container footer
+					50 text © 2026 Archives départementales de la Haute Marne | Développé par Anaphore | 
+					51 link Description: Mentions légales, Value: recherche.archives.haute-marne.fr/footer/legals
+					52 text  | 
+					53 text Gestion des cookies
+
+The focused UI element is 0 AXWebArea URL: recherche.archives.haute-marne.fr/archives/show/FRAD052_00000002G_de-216, Moteur de recherche des Archives départementales de la Haute Marne - Consultation du document « Bénéfices, cures, fabriques, travaux et répartions... »

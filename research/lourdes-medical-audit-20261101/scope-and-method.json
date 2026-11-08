@@ -1,0 +1,35 @@
+{
+  "date": "2026-11-01",
+  "recognized_cases_screened": 72,
+  "priority_cases": 15,
+  "deep_cases": 5,
+  "original_clinical_dossiers_obtained": 0,
+  "original_era_published_medical_record_obtained": [
+    "Traynor1926"
+  ],
+  "published_paired_radiographs_obtained": [
+    "Micheli1962/1963"
+  ],
+  "modern_medical_documents_obtained": [
+    "Raco2025reportexcerpt",
+    "Moriau2019testimony"
+  ],
+  "user_vindicatory_rule": "Do not exclude individual shrine-associated healing: track context, timing and public documentation separately from causal inference.",
+  "not_done": [
+    "No emails, contact forms or purchases",
+    "No edits to the main Jenga/framework documents",
+    "No original physical film or slide inspection by a radiologist/pathologist",
+    "No claim of an exhaustive audit of all unrecognized healings"
+  ],
+  "source_exclusions": [
+    "Precise archival claims from IJR/faithtap pages were not used: source chain unverified and conflicting",
+    "Apologetic or skeptical aggregator assertions were not substituted for original documents"
+  ],
+  "visual_verification": [
+    "MicheliCMAJpp1257/1259",
+    "TraynorFrenchmastheadandrecordpages2/3",
+    "RacoPDFpp7,19,20,22;votesverifiedfromimages",
+    "Copenhagen comparator primary radiograph/histology and follow-up film, printed pp50 and52"
+  ],
+  "register_note": "All 72 summary entries screened for diagnosis and documentary leads. Date-context fields are source snippets, not fully normalized dates; explicit discrepancies retained."
+}

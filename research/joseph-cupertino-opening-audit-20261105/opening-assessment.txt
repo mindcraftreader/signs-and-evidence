@@ -1,0 +1,42 @@
+JOSEPH OF CUPERTINO — OPENING CLAIM AUDIT
+5 November 2026
+
+User's scope
+Repeated bodily suspension is only part of the claim. Daniel specifically identifies rapid movement through the air, changes of direction and clothing reportedly remaining still. These are to be investigated on their actual testimony rather than replaced with a generic hovering claim. No numerical tally assigned.
+
+Clothing detail located
+Angelo Pastrovicchi, Compendio della vita, virtù, e miracoli del b. Giuseppe di Copertino (Rome, 1753), printed page 78, PDF page 96, contains the relevant passage. It has been visually checked in the original scan. The OCR misreads the printed page number as 72; the correct number visible on the scan is 78.
+
+Italian (modernized long-s typography only):
+“siccome che sempre composte, e unite alla vita gli stessero le vesti in tanti, e sì varj suoi ratti, da' quali avanti, e dietro, all'alto, e al basso, e per ogni verso era egli trasportato.”
+
+Working translation:
+His clothing always remained orderly and close to his body/waist during his many and varied raptures, in which he was carried forwards, backwards, upwards, downwards and in every direction.
+
+The paragraph's marginal source reads “Ex utroque Proc. Aux. Testes sparsim relati in eod. Summ. per tot.” This points collectively to testimony in the two Osimo proceedings and the Summary; it does not identify a single named witness or precise deposition for the clothing sentence on this page. The deposition itself remains to be recovered.
+
+The 1918 English translation, St. Joseph of Copertino, printed page 109, PDF page 144, states:
+“during his many ecstatic flights, upwards and downwards, forwards and backwards, his garments were never disarranged.”
+
+This confirms that the clothing detail predates present-day retellings. It does not yet establish a literal absence of every flutter, measured speed, or that a specific bishop personally attested to this exact detail. A modern review attributes frozen clothing to a bishop; that attribution has not yet been verified against the original deposition. The book's preceding paragraph discusses Cardinal Bichi, but proximity alone cannot supply that missing attribution.
+
+Public scans:
+https://archive.org/details/bub_gb_el5NGc6srEQC
+https://archive.org/details/StJosephOfCopertino
+
+Other leads established
+The University of Salento's catalog identifies a 2016 edition of the Nardò 1664 proceedings, ISBN 9788869940149, describing transcription of all testimonies. Its full text is not supplied in the institutional repository.
+https://iris.unisalento.it/handle/11587/411522
+
+Daniel Costa and Stefano Chiozza's 2026 paper in Epilepsy & Behavior Reports is available as full XML through Europe PMC. Both authors list independent-researcher affiliations; no university appointment should be invented. It examines 103 canonical eyewitness depositions via Roberto Brunelli's 2017 collection. This is not automatically 103 distinct witnesses or 103 independent events. It discusses neurological similarities without claiming a retrospective clinical diagnosis, and does not consider a simple feigning mechanism a sufficient account of the aerial descriptions. Relevant source excerpts and table data were extracted; this opening pass is not a complete audit of the paper's statistics.
+https://doi.org/10.1016/j.ebr.2026.100865
+https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13091195/fullTextXML
+
+The Vatican Dicastery for the Causes of Saints' biography includes an account of levitation during the Naples investigation. This is a present-day institutional account, not the original inquisitorial record.
+https://www.causesanti.va/it/santi-e-beati/giuseppe-da-copertino.html
+
+Additional early sources
+Public OCR located and saved: Domenico Bernino's 1722 biography. This text has not yet been systematically compared with the named depositions. The modern actasanctorum.org English transcription is saved as a finding aid, but its translation has not been verified against a Latin facsimile and is not used here to establish the clothing detail.
+
+Next evidentiary task
+Recover the original Osimo wording and named witnesses for the clothing detail and identify individual episodes that join movement, duration, sightline and support checks. Assess the aerial events as a set, while distinguishing independent witness evidence from repetitions of a single source. No retrospective neurological label by itself accounts for genuine unsupported bodily flight; whether the testimony establishes that flight is the historical question.

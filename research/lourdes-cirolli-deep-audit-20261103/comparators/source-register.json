@@ -1,0 +1,86 @@
+{
+  "audit_date": "2026-11-03",
+  "sources": [
+    {
+      "id": "dowling1984",
+      "url": "https://doi.org/10.1177/014107688407700803",
+      "local_file": "research/lourdes-medical-audit-20261101/sources/jrsocmed00220-0014.png",
+      "read_scope": "Printed p636 visually read; p637 visually read for continuity; diagnosis report not original pathology",
+      "type": "contemporary CMIL-member clinical review"
+    },
+    {
+      "id": "mori1997",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9137504/",
+      "local_file": "research/lourdes-cirolli-deep-audit-20261103/comparators/sources/mori-1997-abstract.html",
+      "read_scope": "Full indexed abstract and affiliation; full7page report not acquired",
+      "type": "primary case report abstract"
+    },
+    {
+      "id": "carvalho1973",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1215227/",
+      "local_files": [
+        "research/lourdes-cirolli-deep-audit-20261103/comparators/sources/carvalho-1973-1.png",
+        "research/lourdes-cirolli-deep-audit-20261103/comparators/sources/carvalho-1973-2.png",
+        "research/lourdes-cirolli-deep-audit-20261103/comparators/sources/carvalho-1973-3.png",
+        "research/lourdes-cirolli-deep-audit-20261103/comparators/sources/carvalho-1973-4.png"
+      ],
+      "read_scope": "All4original pages832–835 visually read, photos and radiograph inspected",
+      "type": "primary full case report"
+    },
+    {
+      "id": "carlsen1990",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1971306/",
+      "local_files": [
+        "research/lourdes-cirolli-deep-audit-20261103/comparators/sources/carlsen-1990-p441.png",
+        "research/lourdes-cirolli-deep-audit-20261103/comparators/sources/carlsen-1990-p442.png"
+      ],
+      "read_scope": "Original pp441–442 visually read; full6page paper not read",
+      "type": "primary population case review"
+    },
+    {
+      "id": "carlsen1992",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1530115/",
+      "read_scope": "Indexed abstract only",
+      "type": "review"
+    },
+    {
+      "id": "brodeur2018",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5920563/",
+      "local_file": "research/lourdes-cirolli-deep-audit-20261103/comparators/sources/brodeur-2018-full.html",
+      "read_scope": "Abstract and introduction natural-history sections read; wholeHTML saved, not claimfullpapercriticalreview",
+      "type": "academic review"
+    },
+    {
+      "id": "nciPDQ",
+      "url": "https://www.cancer.gov/types/neuroblastoma/hp/neuroblastoma-treatment-pdq",
+      "read_scope": "Observation and Spontaneous Regression section read; wholePDQ not read",
+      "type": "official clinical summary"
+    },
+    {
+      "id": "gpoh",
+      "url": "https://www.gpoh.de/kinderkrebsinfo/content/diseases/solid_tumours/pohneuroblpatinfo120120611/pohneuroblpatinfokurz120120611/index_eng.html",
+      "read_scope": "Regression subsection only",
+      "type": "professional society patient guidance"
+    },
+    {
+      "id": "emsos2001",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2395454/",
+      "local_file": "research/lourdes-cirolli-deep-audit-20261103/comparators/sources/emsos-2001-full.html",
+      "read_scope": "Indexed relevantabstract passage and authors/affiliation; HTML saved but scannedPDF not visually acquired",
+      "type": "conference abstract; incompleteaccess"
+    },
+    {
+      "id": "ewing2020",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7445639/",
+      "read_scope": "Indexed treatment passage only; excluded as untreatedmatch",
+      "type": "primary case report lead"
+    },
+    {
+      "id": "evans1976",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1030781/",
+      "read_scope": "Abstract only; not24untreatedcases",
+      "type": "primary multiinstitutionalseries abstract"
+    }
+  ],
+  "limitations": "Bounded public search; no incidence estimate from selected cases; no direct Cirolli pathology reviewed."
+}

@@ -1,0 +1,62 @@
+Browser tab: 22, Title: "Moteur de recherche des Archives départementales de la Haute Marne - Consultation du document « Maître Evrard d&#039;Orléans, sculpteur parisien du XIV... »", URL: "https://recherche.archives.haute-marne.fr/archives/show/FRAD052_BIB_ArticlesPer-partie1_de-1070".
+1 AXWebArea URL: recherche.archives.haute-marne.fr/archives/show/FRAD052_BIB_ArticlesPer-partie1_de-1070, Moteur de recherche des Archives départementales de la Haute Marne - Consultation du document « Maître Evrard d&#039;Orléans, sculpteur parisien du XIV... »
+	2 container
+		3 container wrapper
+			4 heading Bach, Value: 1
+				5 link Description: Bach, Help: Notre actu, nos missions..., Value: haute-marne.fr/culture/archives-departementales/
+			6 container container
+				8 container nav_div
+					9 link Description: Le guide, Value: haute-marne.fr/liens-utiles/archives-departementales/archives-en-ligne/
+					10 link Description: Panier, Value: recherche.archives.haute-marne.fr/basketList
+					11 link Description: Historique, Value: recherche.archives.haute-marne.fr/searchhistoList
+					12 link Description: Connexion, Value: recherche.archives.haute-marne.fr/login
+				13 content list
+					14 link Description: Accueil, Value: recherche.archives.haute-marne.fr/home
+					15 link Description: Chercher, Value: recherche.archives.haute-marne.fr/archives/search
+					16 link Description: Soldats, Value: recherche.archives.haute-marne.fr/matricules/search
+					17 link Description: Inventaires en ligne, Value: recherche.archives.haute-marne.fr/archives/classification-scheme
+					18 link Description: Index, Value: recherche.archives.haute-marne.fr/archives/browse
+				19 container
+					20 content list
+						21 link Description: Articles de périodiques : première partie, Value: recherche.archives.haute-marne.fr/archives/show/FRAD052_BIB_ArticlesPer-partie1_description
+					22 heading Value: 2, Maître Evrard d'Orléans, sculpteur parisien du XIVe siècle / Pierre Gautier. Situer dans l'inventaire Ajout à votre panier
+						23 text Maître 
+						24 text Evrard
+						25 text d'Orléans,
+						26 text  sculpteur parisien du XIVe siècle / Pierre Gautier. 
+						27 link Description: Situer dans l'inventaire, Value: recherche.archives.haute-marne.fr/document/FRAD052_BIB_ArticlesPer-partie1#de-1070
+						28 link Description: Ajout à votre panier, Value: recherche.archives.haute-marne.fr/basketAdd/FRAD052_BIB_ArticlesPer-partie1_de-1070
+					29 link Description: Item précédent, Help: Afficher l'item précédent Les enceintes préhistoriques de Nogent / P. Gautier., Value: recherche.archives.haute-marne.fr/archives/show/FRAD052_BIB_ArticlesPer-partie1_de-1069, ID: prev_comp
+					30 link Description: Item suivant, Help: Afficher l'item suivant Notice sur l'Abbaye de Saint-Urbain / Pierre Gautier., Value: recherche.archives.haute-marne.fr/archives/show/FRAD052_BIB_ArticlesPer-partie1_de-1071, ID: next_comp
+					31 link Description: Imprimer, Value: recherche.archives.haute-marne.fr/printDoc/FRAD052_BIB_ArticlesPer-partie1_de-1070
+					32 tab group
+						33 tab (selected, expanded, settable, boolean) Description: Description, Secondary Actions: Collapse, Value: 1
+Description
+					34 container Description: Description, ID: de-1070
+						35 heading Description physique, Value: 3
+							36 text Description physique
+						37 heading Langue des unités documentaires, Value: 4
+							38 text Langue des unités documentaires
+						39 text Langue(s) du document : français
+						40 container
+							41 heading Document hôte, Value: 3
+								42 text Document hôte
+							43 text In : Annales de la Société historique et archéologique de Chaumont (A REVOIR), . – t. IV (1911-1920), p. 339 (A REVOIR)
+						44 container
+							45 heading Descripteurs, Value: 3
+								46 text Descripteurs
+							47 text Grand domaine de recherche :
+							48 link Description: Catalogues de bibliothèque, Value: recherche.archives.haute-marne.fr/archives/search?filter_field=dyndescr_cSubject_liste-grandDomaine&filter_value=Catalogues+de+biblioth%C3%A8que
+						49 container
+							50 text Cotes extrêmes  2 REV 4
+						51 container
+							52 text N° Ex-Libris  ISO00005952
+						53 container
+							54 text NumExport  2223
+				55 container footer
+					56 text © 2026 Archives départementales de la Haute Marne | Développé par Anaphore | 
+					57 link Description: Mentions légales, Value: recherche.archives.haute-marne.fr/footer/legals
+					58 text  | 
+					59 text Gestion des cookies
+
+The focused UI element is 1 AXWebArea URL: recherche.archives.haute-marne.fr/archives/show/FRAD052_BIB_ArticlesPer-partie1_de-1070, Moteur de recherche des Archives départementales de la Haute Marne - Consultation du document « Maître Evrard d&#039;Orléans, sculpteur parisien du XIV... »

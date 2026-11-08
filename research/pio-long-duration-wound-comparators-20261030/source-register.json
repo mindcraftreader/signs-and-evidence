@@ -1,0 +1,33 @@
+{
+  "date": "2026-10-30",
+  "scope": "Duration comparators and cumulative infection-risk clarification; no Pio causal explanation established",
+  "sources": [
+    {
+      "id": "moscicka-2026",
+      "url": "https://www.termedia.pl/Clinical-history-of-venous-leg-ulcers-a-retrospective-r-nanalysis-of-352-cases,7,57475,1,0.html",
+      "file": "moscicka-2026-venous-ulcer-history.html",
+      "affiliation": "Paulina Moscicka and colleagues, Nicolaus Copernicus University, Collegium Medicum in Bydgoszcz; University Hospital No.1 chronic wound clinic",
+      "finding": "Retrospective352-patient study explicitly reports a single persistent54-year ulcer in a78-year-old woman after postpartum deep vein thrombosis; distinguishes persistent first ulcers from recurrence.",
+      "limits": "Clinical-history duration, not54years of uninterrupted prospective observation. No lifetime infection-free course or scarless endpoint established. Not an authenticated world ranking.",
+      "downloaded": true
+    },
+    {
+      "id": "bationo-2026",
+      "url": "https://www.ams-hra.org/index.php/hra/article/view/7704",
+      "file": "bationo-2026-varicose-ulcer-abstract.html",
+      "affiliation": "Y.Bationo and colleagues, Orthopaedic Surgery and Traumatology, Treichville University Hospital, Abidjan",
+      "finding": "Published abstract reports74-year-old man with varicose ulcer for over60years and malignant transformation.",
+      "limits": "Abstract read; full case not inspected in this pass. Continuous openness and infection history not established from abstract. Do not rank as world record.",
+      "downloaded": true
+    },
+    {
+      "id": "jia-2017",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0177916",
+      "file": "jia-2017-infection-incidence.html",
+      "affiliation": "Limin Jia, Peter Lazzarini and colleagues, Queensland University of Technology and Queensland Health",
+      "finding": "853 initially uninfected diabetic foot-ulcer patients followed until healing or12months. In177 whose ulcers had not healed at12months,40.1percent developed infection during follow-up.",
+      "limits": "Not an annual hazard estimate transferable to Pio, not50-year follow-up, not proof of independent risks across years.",
+      "downloaded": true
+    }
+  ]
+}

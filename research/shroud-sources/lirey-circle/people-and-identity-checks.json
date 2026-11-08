@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Robert de Cailliaco / Robert de Caillac",
+    "role": "Early dean of Lirey",
+    "status": "Office as dean now read in a 1361 certified copy of the 16 October 1354 act",
+    "evidence": "Aube I 17 image 3 names messire Robert de cailli doyen. See attribution-test dossier for scan and selected readings. His full biography and geographic origin remain unproved.",
+    "next": "Trace dated benefice and notarial records; cross-check Jean de Tiercelieue and Évrard’s patrons. No inferred birthplace or kinship."
+  },
+  {
+    "name": "Jean de Superarcus",
+    "role": "Dean of Saint-Urbain, Troyes; foundation witness",
+    "status": "Named in primary text through Camuzat’s edition",
+    "evidence": "LC-1353-WITNESSES",
+    "next": "Trace Saint-Urbain chapter and fabric records. Its dean’s office also mediates the 1349 offerings settlement; continuity of the same person in 1349 is not yet established."
+  },
+  {
+    "name": "Prior of Sanctus Aygulphus, Provins (Saint-Ayoul)",
+    "role": "Co-mediator of offerings/pension settlement",
+    "status": "Office named; holder unnamed",
+    "evidence": "LC-1349-OFFERINGS",
+    "next": "Identify the 1349 prior before joining a person to any workshop or patron."
+  },
+  {
+    "name": "Jean Nicolai de Belna (Beaune)",
+    "role": "Canon of Notre-Dame-du-Val at Provins; foundation witness",
+    "status": "Named in primary edition",
+    "evidence": "LC-1353-WITNESSES",
+    "next": "Test identity with Jean Nichole, described by modern scholarship as Charny’s chaplain. The claimed four canonries and personal chaplain status require the 1354 rescript or other primary records."
+  },
+  {
+    "name": "Jean de Centenagris",
+    "role": "Clerk and foundation witness",
+    "status": "Named in primary edition; modern form unresolved",
+    "evidence": "LC-1353-WITNESSES",
+    "next": "Search literal Latin and alternative spellings without inventing a French equivalent."
+  },
+  {
+    "name": "Étienne Benedicti",
+    "role": "Clerk and foundation witness",
+    "status": "Named in primary edition; patronymic interpretation unresolved",
+    "evidence": "LC-1353-WITNESSES",
+    "next": "Preserve Latin form and test other acts by place, date and associates."
+  },
+  {
+    "name": "Guillaume [brigneti?] de Seneueto",
+    "role": "Squire and foundation witness",
+    "status": "Primary printed reading uncertain",
+    "evidence": "LC-1353-WITNESSES; f 420r image",
+    "next": "Compare the original charter before modernizing the surname/toponym or making family links."
+  },
+  {
+    "name": "Jean de Liège, alias de Saint-André",
+    "role": "Public notary by apostolic and imperial authority",
+    "status": "Named with alias in primary edition",
+    "evidence": "LC-1353-WITNESSES",
+    "next": "Search notarial acts and subscriptions. No identification with the sculptor Jean de Liège; no Avignon residence inferred from apostolic authorization."
+  },
+  {
+    "name": "Guillaume Staise",
+    "role": "Keeper of the prévôté of Paris; named issuing officer",
+    "status": "Named in two primary-edition records",
+    "evidence": "LC-1356-PARIS; LC-1354-GOLDSMITH",
+    "next": "Trace acts by issuing office and participating notaries. Do not infer brokerage or private friendship merely because both documents use his authority."
+  },
+  {
+    "name": "Raoul du Jardin; Martin le Pietel",
+    "role": "Sworn Châtelet notaries for Charny’s act",
+    "status": "Named in primary edition and closing signature clause",
+    "evidence": "LC-1356-PARIS",
+    "next": "Check notarial regesta, institutional deeds and preserved original acts for repeat clients, witnesses or workshop transactions."
+  },
+  {
+    "name": "Jean du Hem / Deham / Dehem",
+    "role": "Paris goldsmith; Cambrai reliquary contractor",
+    "status": "Named in primary-edition contract",
+    "evidence": "LC-1354-GOLDSMITH",
+    "next": "A comparison and search target connected by common legal administration only. No Charny/Lirey commission identified."
+  },
+  {
+    "name": "Jacques de Saint-Denys; Guillaume Deschamps",
+    "role": "Sworn Châtelet notaries for the goldsmith’s contract",
+    "status": "Named in primary-edition contract",
+    "evidence": "LC-1354-GOLDSMITH",
+    "next": "Distinguish them from the notaries in Charny’s act; common issuing authority alone is a weak overlap."
+  },
+  {
+    "name": "Guillaume de Bazarnes / Toucy",
+    "role": "Family cleric reportedly favored in a 1354 papal rescript",
+    "status": "Modern scholarly lead; primary rescript not obtained",
+    "evidence": "Savio 1957 pp 113–115 n 1 cited by later scholarship; Reg. Vat. 226 f 136 reported in Wilson’s revised chapter (not retrieved in this pass).",
+    "next": "Retrieve the rescript before deciding exact kinship: sources variously call him uncle or brother-in-law. No workshop connection established."
+  },
+  {
+    "name": "Simon Frère; Guillaume de Bragelogne",
+    "role": "Reported subsequent deans, 1358–1360 and 1360 respectively",
+    "status": "Provisional scholarly database entries; underlying acts unread",
+    "evidence": "Collégiales Lirey notice, dated 27 July 2022; Aube 9 G 3 inventory starts in 1358.",
+    "next": "Read the named appointment/election acts. They may clarify Robert’s tenure and succession; the dates are not independently confirmed here."
+  },
+  {
+    "name": "Renaud de Savoisy; Henri de Seilliers; Jean de Lizines; Robert de Saint-Vinnemer",
+    "role": "Reported early canon names",
+    "status": "Partially corroborated by manuscript reading; final Robert unresolved",
+    "evidence": "I 17 image 3 supports Regnaut de Savoisy, Jean de Lizines and provisionally Henry de Seilliers; also names a Robert whose surname is unresolved. It does not yet justify the Saint-Vinnemer identification.",
+    "next": "Resolve the final Robert directly and verify line-break spellings. Guillaume de Bragelogne is also listed after the named dean in the 1354 act."
+  }
+]

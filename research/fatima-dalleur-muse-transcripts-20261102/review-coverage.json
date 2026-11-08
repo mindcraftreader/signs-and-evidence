@@ -1,0 +1,65 @@
+[
+  {
+    "id": "0e8VSSHAB6c",
+    "scope": "Complete transcript read in preceding contiguous research turns; retained in this review",
+    "fresh_ranges_s": []
+  },
+  {
+    "id": "UQhGi7-znsk",
+    "scope": "Complete English subtitle file read in preceding contiguous research turn; retained",
+    "fresh_ranges_s": []
+  },
+  {
+    "id": "vmHj5HO-J2o",
+    "scope": "Complete English-US transcript read in preceding contiguous research turn; retained",
+    "fresh_ranges_s": []
+  },
+  {
+    "id": "GZZ3H-ExWMc",
+    "scope": "Complete prior technical-audit reading plus fresh targeted rereading",
+    "fresh_ranges_s": [
+      [
+        3780,
+        4050
+      ],
+      [
+        4200,
+        4560
+      ]
+    ]
+  },
+  {
+    "id": "8yln9fuDMRQ",
+    "scope": "Targeted Fatima presentation reading; not newly reviewed in full",
+    "fresh_ranges_s": [
+      [
+        300,
+        900
+      ]
+    ]
+  },
+  {
+    "id": "V5U7d47iBAo",
+    "scope": "Opening positions and physical-evidence exchange; not reviewed in full",
+    "fresh_ranges_s": [
+      [
+        0,
+        1680
+      ],
+      [
+        4200,
+        6600
+      ]
+    ]
+  },
+  {
+    "id": "tp1ivUSSz2s",
+    "scope": "Full contiguous Fatima section before Pio, including ads; remaining episode outside this review",
+    "fresh_ranges_s": [
+      [
+        1607,
+        7221
+      ]
+    ]
+  }
+]

@@ -1,0 +1,94 @@
+{
+  "date": "2026-10-28",
+  "objective": "Assemble supporting evidence to formulate six arguments ready for discussion which could challenge core components of Fatima, Zeitoun and Pio.",
+  "requirements": [
+    {
+      "requirement": "Six explicit arguments, rather than questions or six declared victories",
+      "evidence": "research/documented-alternatives-audit-20261028/six-arguments-for-discussion.txt",
+      "inspection": "Six numbered sections; each gives target, argumentative conclusion, named sources, counterweight and limit.",
+      "status": "met"
+    },
+    {
+      "requirement": "Address core components across all three cases",
+      "evidence": [
+        {
+          "id": "DA-F1",
+          "event": "Fatima",
+          "target": "Solar colors and rotation as discriminator of extraordinary external source",
+          "primary": "Coelho, A Ordem 16/17 October 1917; DCF III-1 docs97/109",
+          "limit": "Partial comparison, not full motion or event replication."
+        },
+        {
+          "id": "DA-F3",
+          "event": "Fatima",
+          "target": "Predictive force as an unrelated date coincidence",
+          "primary": "DCF I doc3; DCF III-1 docs33A/289",
+          "limit": "Promise retained; no numerical base rate; earlier events may also have been miracles. Connected to DA-F1."
+        },
+        {
+          "id": "DA-F2",
+          "event": "Fatima",
+          "target": "Several independent reported directions converge on an emitter over the Cova",
+          "primary": "DCF III-1 docs79/319; Amorim1960; De Marchi; Haffert; checked geography register",
+          "limit": "Does not refute remote solar experiences; target is stronger convergence inference."
+        },
+        {
+          "id": "DA-Z1",
+          "event": "Zeitoun",
+          "target": "Large crowd independently establishes detailed physical human form",
+          "primary": "Watani 5May1968 p2, original Arabic twins report; ZT-061",
+          "limit": "Unnamed indirect comparison; strongest prolonged form reports remain."
+        },
+        {
+          "id": "DA-P1",
+          "event": "Padre Pio",
+          "target": "Historical controls eliminate chemical wound maintenance",
+          "primary": "Di Flumeri docs14/25/30/53; Ramesh/Shenoi/Nayak2020",
+          "limit": "Does not demonstrate actual manufacture or full longitudinal fit. Continues open P-02."
+        },
+        {
+          "id": "DA-P2",
+          "event": "Padre Pio",
+          "target": "Intermittent/selective sincere fragrance reports exclude ordinary odor/perception",
+          "primary": "Dalton/Wysocki1996; O’Mahony1978; Sabiniewicz etal2021; positive Pio testimony",
+          "limit": "No actual source identified; strongest unprimed/transported-object reports unresolved."
+        }
+      ],
+      "inspection": "Three Fatima arguments address phenomenology, prediction and regional corroboration; one Zeitoun argument addresses figure recognition; two Pio arguments address chemical exclusion and fragrance attribution. Bounded targets stated; entire cases not falsely called refuted.",
+      "status": "met"
+    },
+    {
+      "requirement": "Source support available for discussion",
+      "evidence": [
+        "research/documented-alternatives-audit-20261028/sources/coelho-1917-doc-97.txt",
+        "research/documented-alternatives-audit-20261028/sources/coelho-doc97-printed263.webp",
+        "research/documented-alternatives-audit-20261028/sources/preoct-doc-33a.txt",
+        "research/documented-alternatives-audit-20261028/sources/preoct-scan-423-L.webp",
+        "research/documented-alternatives-audit-20261028/sources/preoct-scan-423-R.webp",
+        "research/documented-alternatives-audit-20261028/sources/preoct-doc-289.txt",
+        "research/documented-alternatives-audit-20261028/sources/preoct-scan-338-L.webp",
+        "research/fatima-distant-witness-geography-20261028/research-report.txt",
+        "research/fatima-distant-witness-geography-20261028/coordinate-register.json",
+        "research/zeitoun-arabic-press-reconstruction-20261028/crops/watani-19680505-p2-twins-candidate.png",
+        "research/zeitoun-arabic-press-reconstruction-20261028/testimony-register.json",
+        "research/padre-pio-muse-audit-20261028/sources/di-flumeri-stigmate.pdf",
+        "research/documented-alternatives-audit-20261028/sources/phantom-odors-vr-2021.html"
+      ],
+      "inspection": "Checked source files exist; new DCF scans visually inspected; Arabic report visually checked in prior pass. Clinical/experimental access limits disclosed, including abstract-only readings.",
+      "status": "met"
+    },
+    {
+      "requirement": "Preserve prior findings and strongest counterevidence",
+      "evidence": "research/documented-alternatives-audit-20261028/six-arguments-for-discussion.txt",
+      "inspection": "Closed objections not declared won; favorable controls, full-figure testimony, advance promise and remote testimony retained. No score changed.",
+      "status": "met"
+    },
+    {
+      "requirement": "Notify user when six ready",
+      "evidence": "Readiness explicitly stated in commentary immediately before completion audit; self-contained final notification follows.",
+      "status": "met"
+    }
+  ],
+  "judgment": "These arguments are ready to defend in their stated bounded forms, not proven true or sufficient to defeat every event. Document structure/file checks establish artifact availability, not the truth of historical or causal conclusions.",
+  "packet_sha256": "a5c3a4e1463769e743af3a74930d41441bac6d728269bc89449a59282337f25f"
+}

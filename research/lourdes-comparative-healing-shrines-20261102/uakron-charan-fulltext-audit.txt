@@ -1,0 +1,48 @@
+AKRON LIBRARY FOLLOW-UP AND FULL-TEXT AUDIT
+Research date: 2 November 2026 session (some browser timestamps crossed midnight UTC).
+
+ACCESS AND SCOPE
+User requested [email omitted] Chrome profile, preferably in background. Only Chrome profile [profile omitted] was connected to DOM/background tools. User brought Danny profile's Akron library window forward. Native controls accessed that window and library's discovery system. This system is Primo, not EBSCO (an initial tool title incorrectly called it EBSCO). Foreground changes interrupted later native operations. No credential/cookie extraction or security bypass used.
+
+LIBRARY QUERIES ACTUALLY RUN
+1. ("Imam Reza" OR "Imam Riza" OR "Astan Quds") AND (healing OR miracle OR cure)
+Everything, MyInst_and_CI scope. 52 results. First ten displayed records inspected; many were unrelated studies at hospitals named Imam Reza. Do not claim all52 screened.
+2. ("Imam Reza" OR "Imam Riza" OR "Astan Quds") AND (shrine OR pilgrimage) AND (healing OR miracle OR cure)
+Same scope. One result: Charan et al., Religious Tourism and Its Impact on Spiritual, Physical, and Mental Health: Insights from Pilgrims to Iranian Saints' Shrines.
+Library search banner encouraged signing in for complete results; no claim exhaustive subscription/database search. Article PDF nevertheless opened successfully through Akron's Springer EZproxy.
+Primo result ID: cdi_proquest_journals_2925360020
+Article DOI: https://doi.org/10.1007/s10943-023-01943-z
+Article accessed at [private link omitted]
+
+SOURCE NOW SAVED
+The user supplied the downloaded paper as [local attachment path omitted].
+Verified title, 24pages, 655514bytes. Copied without editing into sources/charan-mashhad-pilgrims-2024.pdf.
+SHA256 af9a7c37761d9912bae10cd29da7e8eb0652ccffae6ad1708a9a4e9b4e853436.
+Read entire extracted text, all24pages including references. Visually inspected PDF pages5,17,21 (printed470,482,486). Rendered pages in qa/charan-05.png, -17.png, -21.png. Earlier browser accessibility extracts truncated paragraphs; the uploaded-file audit supersedes that limited reading.
+
+AUTHORS AND AFFILIATIONS AS PRINTED
+Iftikhar Ahmed Charan: Department of Anthropology, School of Sociology and Political Science, Anhui University.
+Wang Zezhuang: Institute of International and Regional Studies, Beijing Language and Culture University.
+Zhao JinHao: Institute of World Religions, Chinese Academy of Social Sciences.
+These affiliations are the authors' academic background; none is presented as an examining neurologist or other treating physician in this study.
+
+WHAT THE STUDY ACTUALLY DID
+Journal of Religion and Health63(2024),466-489; online17November2023.
+Qualitative interviews/participant observation about religious coping, pilgrimage routines, meanings and healing beliefs. Purposive/snowball sample of72pilgrims, ages25-65. Table1:38Shia,18Sunni,16minority-group participants. Sampling was not72verified cures. Methods place interviewsJanuary-March2020. Typical interview60minutes, range40-100minutes.
+Table1p470 is demographic. Figure1p473 categorizes themes. Neither gives clinical before/after results. Results include perceived relief of anxiety, high blood pressure and unspecified illnesses, spiritual attachment, generalized miracle claims and personal recovery narratives. No hospital-chart audit, before/after imaging, paired laboratory results, signed examining doctors' reports, verified incurable-disease case series or medically assessed follow-up protocol is supplied.
+
+IMPORTANT UNSUPPORTED AGGREGATE
+Printedp482 asserts that millions of previously incurable pilgrims have been miraculously healed. The assertion has no immediately attached clinical source, underlying case register, definition of cure, denominator or verification method. References later in the paragraph concern meaning-making/coping, not an identified multimillion-patient clinical registry. Treat the number as unsupported by this paper, not an established total. Publication/peer review does not turn it into a verified cure count.
+
+THE AUTHORS' EXPRESS LIMITATIONS
+Printedp486 defines the exploratory scope as a psychological perspective limited to spiritual/religious coping, ritual healing and pilgrimage. This is consistent with the actual interview design. It can support study of a healing tradition and pilgrims' interpretations. Its design does not adjudicate whether particular physical recoveries were medically inexplicable or supernatural.
+
+REFERENCES RELEVANT TO CONTINUING THE SEARCH
+1. Rafii, Javaheri Tehrani and Saeedi2020, Spiritual healing from Iranian cancer patients' viewpoints, DOI10.4103/jehp.jehp_474_19. Public fulltext traced at https://pmc.ncbi.nlm.nih.gov/articles/PMC7161651/ It is another concept-analysis/interview study, not a chart-audited series of cancer disappearances. Its abstract says tenpatients; methods mention12interviews, which should not be inflated into12independent verified cures.
+2. Charan, Xin, Zezhuang and Yao2020, Rethinking efficacy: People's perception of ritual healing and trance religious practices at shrines in Pakistan, DOI10.1016/j.ajp.2020.102020. Acquisition/clinical-content check pending; title indicates perception/ritual focus, not evidence of clinical outcomes by itself.
+3. Ghazvini2019, Remediated pilgrimage to the Shrine of Imam Reza, Lancaster University, https://eprints.lancs.ac.uk/id/eprint/130972 Repository lead; not yet read in this pass. The paper's odd pages130-972 appears to reproduce a repository identifier; do not treat it as a verified842page span.
+4. Williams, Watts and Lockhart2020, Health help-seeking behaviour in spiritual healing practice: Records from the Panacea Society's healing department,1924-1997, DOI10.1007/s10943-020-01044-1. Archival healing-record lead outsideIslam. Not evaluated as a rival miracle here; no clinical verification inferred from the title.
+
+INFERENCE FOR THE COMPARISON
+This paper supplies no medically documented counterpart to the Micheli/Raco cases. It does not disprove Mashhad healings, certify the nursing paper's paralysis model case, or establish that no relevant clinical records exist. Mashhad's claimed commission remains an independent documentary lead. Next decisive material remains a specific commission dossier with diagnosis, treatment history, named examiners, paired objective findings and follow-up.
+No new debate tally awarded. No external messages sent. No original clinical dossier obtained.

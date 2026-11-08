@@ -1,0 +1,13 @@
+{
+  "document": "research/shroud-argument-and-concession-framework.docx",
+  "sha256": "163f5e2d56b845ac514980d93b5e90bd58932a4a5768baf06a75b0f314e0d5c0",
+  "page_count": 20,
+  "changed_text_pages": [
+    2,
+    20
+  ],
+  "all_20_pages_visually_inspected": true,
+  "layout_findings": "No clipping, overlap, broken tables or missing glyphs observed.",
+  "crowd_counts": "Attributed estimates; unique viewers not independently counted.",
+  "render_directory": "research/zeitoun-brief-scale-update-20261027/render-final"
+}

@@ -1,0 +1,36 @@
+LIREY ATTRIBUTION TEST — 27 October 2026
+
+Result: the founding-circle hypothesis now rests on an actual manuscript reading, rather than only a modern account. Évrard’s workshop remains a capability lead; no document reviewed connects it to the Shroud. The responsible attribution is still “maker unknown.” No numerical odds or ranking of authorship is justified by these records.
+
+WHAT WAS OBTAINED
+Official Archives départementales de l’Aube, I 17, viewer image 3: a French vidimus containing older acts. The inventory identifies its copy date as 11 August 1361, its issuing clerk as Humbert des Granches, and the donation embedded within it as 16 October 1354. A 6689 × 8000-pixel scan has been saved, along with analytical crops. The underlying 1354 act is preserved in a later certified copy, not here in an independently dated original of 1354. The copy’s closing formula has not been completely transcribed.
+
+The inventory explicitly warns that Prévost’s summary on offprint p 17 is inaccurate. It does not specify in that entry which part is inaccurate. That warning does not discredit every name in Prévost; it means we must collate individual claims rather than inherit his summary.
+
+NAMES READ IN THE ACT
+Robert de Cailli is expressly called dean. The sequence includes Guillaume de Bragelogne, Regnaut de Savoisy, Henry de Seilliers (line-break reading, provisional), Jean de Lizines, and a second Robert whose surname remains unresolved. These names are normalized for indexing; see selected-manuscript-readings.json and crops for actual spellings and uncertainties. The act does not call Guillaume dean in 1354.
+
+Jean de Liège appears as clerk and public notary. The 1353 foundation edition names a notary Jean de Liège alias de Saint-André. The name and function make continuity worth pursuing, but no identification with the sculptor Jean de Liège follows. A toponym or common forename cannot establish identity, kinship or workshop membership.
+
+WHAT THE ACT DOES
+It records the foundation’s endowment arrangements and an extensive schedule of property/rent obligations. It is useful evidence of chapter personnel, legal agents and financial administration. It is not an art commission. The selected clauses reviewed contain no named Shroud maker or purchase. A full word-by-word transcription of the rent schedule has not been completed, so this is not a claim that every line was searched reliably for every possible artist’s alias.
+
+ÉVRARD CROSS-CHECK
+Compared the new chapter names and variants against the locally saved OCR of Dehaisnes, Documents et extraits divers (1886), volume I, and the previously checked Évrard records and Ronot contract excerpts. No supported personal overlap has been established. Generic Caill- OCR matches concern other contexts and have not been promoted into identities. The full signatory section of Ronot’s 1341 document remains to be read; fresh Gallica access encountered security verification. A negative result in these bounded materials is not a search of all French, Italian or papal archives.
+
+Évrard’s relevant documented connections remain Mahaut d’Artois and her administration, the royal court, and the Langres commission for Guy Baudet’s executors and Jean de Tiercelieue’s separate Saint Mammès order. None is yet linked by a checked transaction to Robert de Cailli, the named Lirey canons or Charny’s Shroud acquisition. The broad royal-court overlap is too common to support an attribution.
+
+A MATERIAL CORRECTION TO THE COMPARISON CORPUS
+Jugie, Leroux, Bromblet and Kloppmann, Technè 57 (2024), pp 48–59, especially p 50, identify the Langres sculptural group as marble, despite the medieval document’s alabaster terminology. This affects how we label Évrard’s comparison objects and their materials. It does not establish a Shroud technique or an artist–Lirey connection. Relevant parsed passage read; local PDF download incomplete and excluded from the library’s PDF count.
+
+DEFENSIBLE NARRATIVE NOW
+Conditional on an artistic origin, a patron or ecclesiastical intermediary could have acquired an image-bearing cloth through the regional or court-connected craft economy before its documented Lirey history. Lirey’s founding records show real legal and clerical networks capable of arranging property and endowment transactions. They do not show the missing acquisition. We also cannot infer from them that the cloth was made in France, commissioned by Charny, or originally produced with fraudulent intent. Évrard is a plausible workshop to investigate because of date, media and patron access; identifying him as the likely maker would outrun the evidence.
+
+NEXT DISCRIMINATING CHECKS
+1. Read the entire 1341 Langres contract’s administrative opening and signatories, then check Jean de Tiercelieue’s benefices and executorships against the now named Lirey chapter. This is a specific potential bridge, not an assumed one.
+2. Trace Robert de Cailli and Jean de Liège the notary through dated benefice/legal records. Require matching offices, dates and associates before joining records.
+3. Resolve the final Robert’s surname directly and collate the full 1354 act against Prévost, journal pp 906–907/offprint p 17. Do not use Robert de Saint-Vinnemer as a confirmed identity yet.
+4. Apply the same documentary test to Le Noir and contemporary Paris/Avignon workshops. A surviving contract, payment, inventory or independent contemporary account naming an intermediary is more discriminating than a further stylistic resemblance.
+
+ACCESS LIMITS
+Public Aube catalogue and image viewer inspected successfully. Full image 3 downloaded through its public image URL in the browser; first foundation image also saved at high resolution. Image 4 was additionally downloaded but proved to be a separate damaged Latin charter, not the reverse of image 3; it is retained in working files as unclassified, not used as a verified reverse. The _recherche-api CLI response was redirect HTML, not metadata. Ronot’s fresh Gallica access was stopped by security verification; no challenge solved or gate bypassed. Prévost’s precise edition was bibliographically located but not retrieved or read. No request has been sent to an archivist or institution.

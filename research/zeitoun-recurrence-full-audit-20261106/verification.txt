@@ -1,0 +1,1 @@
+Verified source-file SHA-256 hashes against manifest; JSON/CSV curated rows match; 13 rows are a selection, not an independently verified apparition count. Canonical tally files not edited.

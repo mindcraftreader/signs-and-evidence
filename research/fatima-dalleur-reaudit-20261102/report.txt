@@ -1,0 +1,86 @@
+DALLEUR AND MUSE: SECOND TECHNICAL AUDIT
+2 November 2026
+
+ASSESSMENT
+
+The geometrical method is legitimate, the principal arithmetic reproduces, and the reviewed critics have not supplied an ordinary-solar fit satisfying the retained image constraints. Muse's defenses address several objections that the assistant has repeatedly described too generically. Dalleur's inferred anomalous lighting deserves substantive positive evidential weight in the cumulative Fatima case.
+
+This is not an independent replication of every image measurement. The remaining measurement-verification question is real, but it must not be described as an identified error, a successful refutation, or a reason to assign the photographic argument zero weight. Neither this audit nor the absence of a successful countermodel establishes divine causation by itself. No probability or new tally point is assigned.
+
+READING AND VERIFICATION SCOPE
+
+Reread all extracted text of Dalleur's 37-page 2021 paper, including notes, bibliography, mathematical discussion and conclusions. Visually rechecked printed pp.16,18,23,31-33,35-39: wet/dry photographs, contrasting shadow details, convergence, camera geometry and all mathematical pages. Used the preserved display-compatible PDF and existing Poppler renders. This was not a new inspection of the licensed original 6K scan.
+
+Reread the complete automatic transcript of the 90:24 Muse/Bertuzzi response to Cade Bradley, GZZ3H-ExWMc. Reviewed the relevant saved Suan Sonna/Intellectual Catholicism interview 8yln9fuDMRQ at approximately00:08:00-00:11:30 and01:30:30-01:32:30, and the Muse/Dustin Crummett debate V5U7d47iBAo around01:16-01:22 and01:43-01:48. The later Sonna-interview passage concerns a possible cometary implementation, not another angle calculation. Metadata correction: an earlier draft of this re-audit mislabeled these as Pints with Aquinas and a Fodor debate. Saved video metadata establishes the correct identities. Automatic captions corrupt Dalleur's name and are not a checked verbatim transcript or reliable speaker labeling.
+
+Reread Muse's written optical argument in Our Lady of Fatima, section2.2.2 and surrounding reasoning, and It Wasn't the Sun, sections3-4 plus relevant notes. Retrieved current copies of both articles and Dalleur's Photo, Principles, Maths and Examples pages. The articles were not reread in full for this pass; the full Bradley-response transcript was. Current snapshots and hashes are in retrieval-manifest.json.
+
+Rechecked Hany Farid's Digital Image Forensics, section5.7, printedp94, and Arthur A.Magill's National Bureau of Standards1955 paper, especially the method and table2 onp138. These are independent methodological/optical sources, not independent replications of D115. The1910 Goerz catalogue landing page was inspected; its complete scanned catalogue was not read.
+
+WHAT CHECKS OUT
+
+Object-shadow correspondences locate a projected light direction without knowing object heights or physical shadow lengths. The receiving surfaces need not share one plane. Farid independently explains this construction. Perspective preserves the necessary line incidence, not arbitrary Euclidean angles. Dalleur's actual equations account for perspective; an imprecise spoken description of preserved angles does not invalidate that calculation.
+
+Re-running the preserved calculation gives elevations31.8593,30.2417,28.2386 and24.7624degrees at30,33,37 and45mm equivalent focal lengths. The corresponding differences from42.72degrees are10.8607,12.4783,14.4814 and17.9576degrees. These are conditional calculations, not a statistical confidence interval. Independent differentiation using the displayed rotation matrices reproduces pitch0.82401866 and roll-0.56458452 at37mm.
+
+The same published-input check requires a large horizon-only or vertical-VP-only change to reach the solar elevation. Those checks rebut a handwave about a tiny isolated camera correction; they are not bounds on simultaneous changes to every input.
+
+MUSE'S REPLIES THAT MUST BE RETAINED
+
+His written reply distinguishes sharp residual contours protected from overhead illumination from diffuse tonal boundaries. Dalleur identifies several spatially separated cues; their convergence is positive internal-consistency evidence. A countermodel must address those cues together. The cited bright-cloud model illustrates a failure mode but does not reproduce all of them. A demonstration that the procedure can fail somewhere does not establish failure here.
+
+In the Bradley-response transcript,30:00-35:00 explains the construction;39:00-55:00 discusses focal-length bounds, lens candidates and distortion;1:03-1:07 distinguishes real-photo checks from CGI;1:10-1:15 addresses physical lengths, sloping surfaces and convergence. These are substantive defenses, not unanswered questions about whether the authors considered cameras.
+
+The transcript at1:05-1:06 announces a further period-photo study as forthcoming. It is not a completed dataset in that video. No new completed matched historical-photo validation dataset was located in the focused search this turn.
+
+REMAINING LIMITS, STATED PRECISELY
+
+1. Measurements. The published figures identify the selected features and give a fitted VP, but this review did not recover a complete per-feature endpoint table, residual list and quantified joint acceptance region excluding the solar solution. We have not independently reselected the original6K features. This is a verification limit, not evidence the selections are wrong. The convergence itself must count positively. Separate locations do not automatically establish statistically independent selection errors.
+
+2. Lens bounds. Dalleur and Muse provide relevant historical and image-based constraints. Exact make/model is not logically necessary if plausible distortion can be bounded. Magill's measurements support the small-distortion premise. However, this audit did not authenticate an exhaustive1917 newspaper equipment inventory or reproduce Muse's claimed subdegree propagation for every candidate lens and every actual cue. Failure to complete that check is not a discovered large distortion.
+
+3. Validation. Real known-source examples exist and support the procedure. They are not a measured error distribution for D115. A new blind study is one possible strengthening, not a mandatory prerequisite for historical inference: sufficiently justified worst-case measurement bounds could also establish exclusion.
+
+4. Drying. The garment-related pattern is meaningful corroboration in the context of rain and drying testimony. A single monochrome exposure does not independently measure initial water content, elapsed time or infrared flux. The unsupported photographic-defect suggestion has not been established. That does not make instantaneous high-energy IR the only interpretation measured by the photograph itself.
+
+SMALL CORRECTIONS FOUND; NONE REVERSES THE CENTRAL RESULT
+
+The paper's45mm row differs by approximately0.01degree from equation5 with its printed inputs. Immaterial.
+
+In printed equation9, the term containing a*sin(beta) uses sin(alpha). Multiplying the displayed rotation matrices yields cos(alpha), agreeing with equation10 and its stated roll factor. At beta=0 this term vanishes, so the central elevation is unchanged. This is an internal printed consistency issue, not a reason to reject the reported sensitivity factor; the independently calculated factor agrees with it.
+
+The current website cites0.24percent Dagor distortion at35degrees. For the6.5-inch specimens in Magill table2, the conventional100*D/[f*tan(angle)] conversion gives approximately0.24-0.26percent at30degrees and0.40-0.42percent at35degrees. Thus the quoted field angle appears mismatched to these rows. The corrected values still support low distortion. See independent-checks.json; the actual1917 lens is not calibrated by this table.
+
+WEIGHT AND CONTINUITY
+
+This audit strengthens the assessment of Dalleur's case relative to the assistant's earlier generic cautions. It supplies an argument about external illumination which cannot be explained by retinal effects if its measurement reconstruction is accepted. Its agreement with descent testimony matters in the announced-sign context. It must be carried into the cumulative assessment as physical corroboration, not erased because replication remains incomplete.
+
+No completed alternative solar fit, disqualifying error in the core geometry, or sufficiently quantified measurement correction closing the discrepancy was established here. Outstanding verification and a demonstrated refutation are different statuses. Reading a defense and still wanting to check its numbers does not make that defense unanswered.
+
+SOURCES
+
+Dalleur, Philippe. Pontifical University of the Holy Cross; doctorate in applied sciences, UCLouvain1984, and philosophy1998 per saved official CV. Scientia et Fides9(1),2021,9-45. https://doi.org/10.12775/SetF.2021.001
+../fatima-photo-analysis-20261027/dalleur-2021-compatible.pdf
+https://sites.google.com/pusc.it/elevation-azimuth/fatimas-miracle-photo
+https://sites.google.com/pusc.it/elevation-azimuth/principles
+https://sites.google.com/pusc.it/elevation-azimuth/theory/the-maths
+https://sites.google.com/pusc.it/elevation-azimuth/examples
+
+Muse, Ethan. Rutgers philosophy graduate student per previously checked institutional listing. Written advocacy and author correspondence, not an independent optical laboratory.
+https://motivacredibilitatis.substack.com/p/our-lady-of-fatima
+https://motivacredibilitatis.substack.com/p/it-wasnt-the-sun
+https://www.youtube.com/watch?v=GZZ3H-ExWMc
+https://www.youtube.com/watch?v=8yln9fuDMRQ
+https://www.youtube.com/watch?v=V5U7d47iBAo
+
+Farid, Hany. Dartmouth affiliation on the consulted computer-science teaching text, Digital Image Forensics, section5.7,p94.
+https://pages.cs.wisc.edu/~dyer/cs534/papers/farid-digitalimageforensics.pdf
+
+Magill, Arthur A. National Bureau of Standards, Variation in Distortion with Magnification, Journal of Research54(3),1955,135-142.
+https://nvlpubs.nist.gov/nistpubs/jres/54/jresv54n3p135_A1b.pdf
+
+No outreach, paid access, deployment or original-scan acquisition in this pass. Existing debate ledger is unchanged.
+
+2 NOVEMBER PIXEL FOLLOW-UP: See research/fatima-independent-photo-audit-20261102/pixel-measurements/report.txt. Direct boundary measurements and a conditional 27.14° sketch are saved. The physical beam assignment and stone correspondence are not independently established, so this must not be cited as a full independent confirmation or new refutation.
+
+2 NOVEMBER CAMERA-ASSUMPTIONS AUDIT: research/fatima-camera-assumptions-audit-20261102/report.txt. Actual camera assumptions were not proven false or likely false. A manufacturer catalogue and Science Museum record establish ordinary rising/cross fronts, so zero shift is not guaranteed by camera family. A wide-angle plus shifted-principal-point solar counter-calibration is constructed, but its actual equipment compatibility, use and whole-image fit remain unverified. Normal focal-length/crop/small-distortion tests do not close the gap; large pitch/roll changes require further image justification. No tally change or successful full ordinary-solar reconstruction is claimed.

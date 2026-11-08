@@ -1,0 +1,149 @@
+FÁTIMA — PERIOD CAMERAS, LENSES AND THE CONSERVATIVE ANGLE CLAIM
+Research date: 2 November 2026
+
+ASSESSMENT
+
+No historically authenticated camera correction or full ordinary-Sun reconstruction of D115 has been demonstrated in this pass. The previous result of the photographic challenge is unchanged. The catalogues support the ordinary focal-length range for several common reflex models, while also establishing that genuinely wider, rectilinear period equipment existed. Existence alone does not show that an alternative fits D115.
+
+The useful constraint is the combination of actual equipment feasibility and the photograph’s independent cues. It would be wrong either to dismiss the analysis because the exact serial number is unknown, or to treat the preferred 28-degree result as a maximum over every camera commercially available in 1917.
+
+WHAT MUSE ACTUALLY SAYS
+
+The locally preserved transcript of Muse’s response to Cade Bradley distinguishes a preferred estimate from a deliberately favorable sensitivity case:
+• 42:00–43:00: coarse 31–46 mm-equivalent interval from head/perspective interpretation.
+• 43:00–44:00: hanging-thread interpretation favors 37 mm, with an approximately 33–39 mm interval.
+• 44:00–45:00: recommended press practice is another supporting consideration, favoring a longer rather than shorter lens.
+• 45:00–47:00: he explicitly tests 30 mm, below his coarse interval, obtaining 31.859 degrees. He contrasts that with the expected 42.7 degrees and calls the approximately 28-degree estimate more reasonable.
+
+Thus Daniel is right that Muse intends to use favorable assumptions rather than simply assert one exact lens setting. The exact quantitative phrasing is: preferred estimate about28 degrees; deliberately widened focal-length test about31.9 degrees, still about10.9 degrees short. Longer focal lengths within the retained geometry lower the estimate. These focal lengths are horizontal 36-mm-width equivalents, NOT physical millimeters on the large plate.
+
+Video: https://www.youtube.com/watch?v=GZZ3H-ExWMc&t=2520s
+Local transcript: ../fatima-muse-bradley-response-20261101/readable-part-2.txt
+The transcript has automated name/technical transcription errors; interpretation above is restricted to the clear numerical passages, checked against Dalleur’s displayed results.
+
+MANUFACTURER EVIDENCE
+
+1. Common reflex-camera limits support ordinary focal lengths.
+
+Folmer & Schwing’s1914 catalogue printedp19 lists minimum accommodated focal lengths for the Auto Graflex:5 inches on3¼×4¼,6 inches on4×5, and7½ inches on5×7. Horizontally normalized, these minima are approximately42.35,43.20 and38.57 mm equivalent. The Auto Graflex Junior has a4-inch minimum (printedp20); the5×7 Press Graflex an8-inch minimum (printedp27).
+
+These are manufacturer mechanical specifications, stronger than assuming the stock lens was the shortest possible. They prevent arbitrarily attaching an ultra-wide lens to those reflex bodies. They are not bounds on all press/field cameras. These American examples also do not establish Portuguese market share or Ruah provenance.
+
+2. Standard fronts could move.
+
+The Goerz–Anschütz museum specimen has rising and cross-shifting front movements, independently corroborated by the c.1906 maker catalogue printedp21. The1915 Kodak catalogue printedp12 also describes rising/sliding movement on the No.3. A centered optical principal point therefore is not guaranteed simply by naming a period camera family. Neither source demonstrates that Ruah used movement, or supplies its travel in D115.
+
+3. A specific extreme-wide platform exists in the period record.
+
+The1914 Graflex catalogue printedpp44–45 describes the5×7 Stereoscopic Graphic with a3-inch minimum lens focus, a bed dropping out of the way, an internal wide-angle focusing pinion, and conversion from a stereo pair to one lens for full5×7 work. It explicitly offers a pair of Bausch & Lomb–Zeiss Protar SeriesV No1 lenses.
+
+Bausch & Lomb’s1914 catalogue printedpp45 and58 identifies No1 as3⅜ inches (85.725 mm), f/18, covering4¼×6½ inches at full aperture and5×8 inches at smaller stops. Consequently, full5×7 coverage at a smaller stop is supported by the maker. The lens is not a hypothetical modern optic. However, the exact centered full-plate installation of this lens, lateral travel, and actual use by Ruah remain unestablished. The catalogue describes the SeriesV as unsymmetrical: not every plausible period lens is literally a symmetrical Dagor. This does not itself establish large distortion.
+
+4. Hypergon mounting prevents careless mixing of catalogue entries.
+
+Goerz’s1910 catalogue printedpp28–29 documents60.325,76.2 and88.9 mm Hypergons, with very large coverage. The60.325 mm version is shorter than the Stereoscopic Graphic’s listed minimum. The88.9 mm version has a4¼-inch flange, so an apparently adequate focal distance does not imply a mount fits a small board. The76.2 mm version meets the nominal focus minimum, but flange position, rear clearance and body obstruction still need checking. Maker describes Hypergon as specialized rather than a general-purpose lens.
+
+WHAT THE CALCULATIONS SAY
+
+The workbook retains the same normalized image shadow geometry A=2.4207, E=−1.9927, H=0.31 and original4:3/top-crop mapping as the previous audit. An independent Python implementation and live spreadsheet formulas agree to floating-point precision:
+
+37 mm equivalent →28.2386 degrees
+30 mm equivalent →31.8593 degrees
+33 mm equivalent →30.2417 degrees
+45 mm equivalent →24.7624 degrees
+
+Substituting the85.725 mm Protar on177.8 mm image width gives17.3571 mm equivalent and39.2369 degrees if centered. Solving a leftward image principal-point displacement of18.5666 mm produces42.7200 degrees mathematically.
+
+That last row is fitted to the target. It is NOT a measured lens-board position, a recovered historical setting, a probability estimate or a full ordinary-light reconstruction. It also retains the original normalized crop map rather than independently reconstructing a5×7 plate’s borders. The historical plate/crop, full mounting, perspective of the faces and hanging-thread directions all still need to agree.
+
+The accompanying wide-angle-fringe-comparison.png illustrates why that further requirement matters. The solar-fit ultra-wide model predicts gravity-vertical directions tilted roughly8–9 degrees to the left in the displayed right-hand fringe region, compared with about1–2 degrees for the published calibration. Visually, the ultra-wide lines do not obviously track the predominantly near-vertical threads better. This is a qualitative, nonblind check using flexible, low-resolution strands; no rigid-vertical ground truth, endpoint residual fit or formal rejection threshold is claimed. It does not prove every ultra-wide/shift/pitch/roll combination fails. It does show that hitting the Sun’s angle in one equation leaves another observable to satisfy.
+
+PATENTS: WHAT THEY ESTABLISH
+
+Original specifications recovered locally:
+• US528155, Goerz/von Hoegh,1894: Dagor-type cemented triplet objective construction and worked optical prescription.
+• US706650, Goerz,1902: extreme-wide objective using two very thin symmetric menisci; astigmatic correction at large field angles; aperture/aberration tradeoffs.
+• US721240, Rudolph/Carl Zeiss,1903: four-element Tessar arrangement with an air-spaced pair and a cemented pair; actual design is not symmetrical like a Dagor.
+
+Patents establish period designs and give prescriptions. They are not by themselves measured distortion calibrations for Ruah’s actual lens. No new15-degree distortion explanation was obtained from them. Prior measured Dagor distortion research and the ordinary small-distortion sensitivity audit remain relevant; this pass does not replace them with a patent’s marketing/design language.
+
+MARKET EVIDENCE AND COVERAGE LIMIT
+
+The workbook contains21 camera/format rows and8 lens/family rows, spanning strut press, reflex, folding press, field, convertible stereo, roll-film/box and rotating panoramic classes. Several rows are formats of one model; they are not21 distinct manufacturers. Availability is documented before October1917. A rotating panoramic model needs its own projection and is not automatically admitted as an explanation of this photograph.
+
+This is a screening inventory, not a completed catalogue of every world manufacturer, custom-built camera, lens modification or Portuguese photographic shop. No audited global top-selling ranking for1910–1917 was located. Manufacturer descriptions such as “popular” are kept separate from sales figures. Canterbury Museum’s >1.75million Vest Pocket Kodak family figure lacks an explicit cutoff in the page read and is not treated as sales by1917 or Portuguese press share.
+
+Muse’s54-minute passage invokes newspaper/studio inventory. Dalleur’s current site calls Goerz–Anschütz most likely and supplies historical rationale. A dated studio equipment ledger or exposure-specific record has not been recovered here. Failure to recover it is not evidence that his historical claim is false. An exact serial number is also not necessary if scene constraints independently bound the camera adequately.
+
+NEXT DECISIVE RECORDS / TESTS
+
+The strongest next advance would be original D115 scan/border information and a joint quantitative fit of reliable verticals, perspective/shape cues and retained shadow correspondences. The high-resolution archive request has already been sent; it was not resent. A dated O Século/Benoliel/Ruah equipment inventory would separately constrain historical feasibility. More brand names alone would add little without those scene constraints.
+
+This pass does not reopen F-04 as a demonstrated refutation and awards no additional point to either side. Existing tally is preserved. The correct present finding remains: the photographic argument has not been defeated by the camera objections investigated.
+
+DELIVERABLES AND VERIFICATION
+
+inventory-data.json — typed source records, unknowns left null, calculated cases.
+prepare_inventory.py — data preparation and independent arithmetic.
+build_workbook.mjs — artifact-tool workbook authoring; editable formulas and source URLs.
+wide_angle_fringe_check.py — qualitative overlay with scope labels.
+workbook-checks.json — all10 numerical rows compared with Python; live input change tested and restored.
+source-manifest.json — local source hashes and byte counts.
+Sources are preserved, not overwritten. The public JPEG was cropped only for the explicitly labeled comparison figure. No AI-generated imagery is used as historical measurement.
+
+PRIMARY SOURCES / READ SCOPE
+
+Folmer & Schwing/Eastman Kodak, Graflex and Graphic Cameras,1914:
+https://mcnygenealogy.com/book/kodak/graflex-catalog-1914.pdf
+Relevant OCR specifications read; printedpp19,20,44 and lens table visually checked. Other fields use specified catalogue passages, not assumed mounting compatibility.
+
+Eastman Kodak, Kodaks and Kodak Supplies,1915, Rochester Public Library scan:
+https://www.libraryweb.org/~digitized/tradecats/kodak/Kodaks_and_Kodak_supplies_1915.pdf
+Printedpp7,12,14 visually checked; relevant format/movement/detail OCR read. Exact unverified lens fractions left out.
+
+Bausch & Lomb, Photographic Lenses,1914:
+https://piercevaubel.com/cam/catalogs/1387.b&l.photo.lenses.1914-all.pdf
+Image-only scan; printedpp44–45 and58–59 visually read at high resolution. Contact sheets screened; no claim of full transcription of the entire catalogue.
+
+Goerz,1910:
+https://www.piercevaubel.com/cam/catalogs/1910goerzlp770.htm
+Printedpp28–29 visually reread for actual Hypergon coverage and mount sizes; earlier relevant Dagor pages retained in adjacent camera audit.
+
+Goerz c.1906 front movement catalogue and source:
+../fatima-camera-assumptions-audit-20261102/report.txt
+
+Science Museum Group, object1990-5036/122:
+https://collection.sciencemuseumgroup.org.uk/objects/co8085135/goerz-anschutz-press-camera
+Science Museum Group, object1990-5036/4073:
+https://collection.sciencemuseumgroup.org.uk/objects/co8085464/adams-minex-reflex-camera-de-luxe-model
+
+Canterbury Museum, Picturing the War:
+https://worldwarone.canterburymuseum.com/themes/the-war-away/picturing-the-war/
+
+Original lens patent specifications:
+https://patents.google.com/patent/US528155A/en
+https://patents.google.com/patent/US706650A/en
+https://patents.google.com/patent/US721240A/en
+Specifications read for design and optical purpose. No claim of a fresh physical ray trace or bench measurement. A tentative Folmer patent-number lead could not be authenticated and was excluded from the evidence inventory.
+
+Dalleur current photographic method / inputs:
+https://sites.google.com/pusc.it/elevation-azimuth/fatimas-miracle-photo
+2021 paper DOI: https://doi.org/10.12775/SetF.2021.001
+
+
+FOLLOW-UP: ACTUAL 5×7 CROP MAP, 2 NOVEMBER 2026
+
+At Daniel’s request for a defensible physical camera/lens explanation, repeated the strongest Protar/Stereoscopic Graphic candidate using its actual5×7 aspect ratio with top-only crop restoration, retaining the same absolute shadow VP and horizon. Restored center is(834.5,584.929)px; centered source estimate39.3722°. Solving the Sun requires a principal point17.4102mm left of the restored center and pitch12.1688°. Predicted right-hand fringe tilts are9.31–10.99° leftward. No measured historical shift, full mounting, face-perspective fit or complete image reconstruction established. I cannot currently defend this physical candidate as an explanation of D115. This is a follow-up calculation, not a replacement for the workbook’s explicitly labeled retained4:3 crop-map cases. Existing photographic challenge remains standing; no new tally point. Details: physical-candidate-followup.json.
+
+
+HANGING-THREAD DISPLAY CLARIFICATION — 2 NOVEMBER 2026
+
+The 1.3–1.6° and9.3–11.0° labels in hanging-threads-5x7-comparison.png are CAMERA-PREDICTED gravity-vertical directions at selected display anchors. They are not measurements of the actual threads. Close visual inspection shows several slanted or curved strands in the selected crop; an unmeasured characterization as uniformly near-vertical is too strong. Some tassels overlap the dress or other fabric. Actual endpoint selection, free-hanging status and multi-strand residuals have not been established. Therefore this overlay alone does not quantify or conclusively establish a mismatch for the alternative. Dalleur2021 printedp39 footnote34 reports his own visual fit33–39mm using the right woman’s shawl; this display is not a full independent replication of that fit. The alternative still has not been demonstrated to fit the combined photograph.
+
+
+COMPLETED PIXEL-RIDGE FOLLOW-UP — 2 NOVEMBER 2026
+Twelve visible strand-like ridges in the displayed upper-shawl crop were fitted directly to the source JPEG. Median4.6 degrees left of image vertical; ten less-window-sensitive traces median5.2 degrees. Most3–6 degrees, some near8. The alternative predicts9.6–11.0 degrees and has larger mean absolute discrepancy(5.63 degrees) than published camera(3.39 degrees). Two traces are window-sensitive; all12 retained. These are pixel-ridge orientations, not authenticated3D plumb lines. Full method, all sensitivity runs and marked image: thread-angle-audit/report.txt.
+
+
+EXPLICIT ADJUDICATION — PHYSICAL CAMERA REBUTTAL, 2 NOVEMBER 2026
+The physical camera/lens rebuttal I attempted has failed as a demonstrated counterexample. Dalleur photographic argument remains standing against this developed objection. Generic uncertainty or the same unfitted ultra-wide/shift configuration must not be recycled as an established rebuttal. Reopening requires substantive new evidence or a developed complete image fit. Already part of F-04; no duplicate tally point.

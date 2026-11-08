@@ -1,0 +1,472 @@
+{
+  "title": "Zeitoun: episode 601 claim-and-evidence register",
+  "date": "2026-10-27",
+  "scope": "Materially distinct Zeitoun claims and evidentiary arguments; excludes advertisements and unrelated doctrinal/historical claims. Grouped claims are not a count of independent evidence.",
+  "transcript_coverage": "All five 30-minute readable segments reviewed, with the ending also checked in the timestamped file. Automatic English captions only; not full audiovisual review.",
+  "time_convention": "Approximate YouTube windows, including advertisements. Podcast timestamps differ. Values above 60 minutes denote elapsed minutes, e.g. 127:00 is 2:07:00.",
+  "claims": [
+    {
+      "id": "Z01",
+      "youtube_time_window": "03:47–04:15",
+      "claim_paraphrase": "Mourad identifies himself as a parish priest of St George and St Anthony Coptic Orthodox Church, Ottawa.",
+      "evidence_or_argument_type": "Speaker self-identification.",
+      "verification_question": "He is a present-day narrator, not claiming to have personally witnessed the 1968 appearances."
+    },
+    {
+      "id": "Z02",
+      "youtube_time_window": "38:00–45:52",
+      "claim_paraphrase": "The appearances followed internal church difficulties and the national crisis after the 1967 war.",
+      "evidence_or_argument_type": "Historical context and interpretation.",
+      "verification_question": "Distinguish independently checkable history from the interpretation that the appearances healed national morale. Political and military claims were not independently audited in this pass."
+    },
+    {
+      "id": "Z03",
+      "youtube_time_window": "45:52–47:42",
+      "claim_paraphrase": "During a June 1967 wartime blackout, the Zeitoun church reportedly filled with unexplained light despite its lights being switched off.",
+      "evidence_or_argument_type": "Reported precursor; narrator says it was documented.",
+      "verification_question": "Find the earliest account, named doorkeeper, date and recording date. This is separate from the later investigative power cutoff."
+    },
+    {
+      "id": "Z04",
+      "youtube_time_window": "53:45–55:49",
+      "claim_paraphrase": "A benefactor was reportedly promised in 1918 that Mary would visit a church he was to build within fifty years; the church opened in the 1920s.",
+      "evidence_or_argument_type": "Reported advance promise.",
+      "verification_question": "Locate a document demonstrably recorded before April 1968, its exact words and the recipient. Later accounts of a promise are not yet a verified advance prediction."
+    },
+    {
+      "id": "Z05",
+      "youtube_time_window": "54:45–55:16",
+      "claim_paraphrase": "The promise was reportedly known to parish leadership and written down before the appearances.",
+      "evidence_or_argument_type": "Claim of a pre-existing record.",
+      "verification_question": "Identify the manuscript, register or publication and date its inscription rather than merely the event it describes."
+    },
+    {
+      "id": "Z06",
+      "youtube_time_window": "53:45–60:35",
+      "claim_paraphrase": "The first appearance reportedly occurred on 2 April 1968 around 8:30 p.m. and lasted roughly ten to fifteen minutes.",
+      "evidence_or_argument_type": "Narrative chronology.",
+      "verification_question": "Compare first-night statements; exact time and duration require source comparison."
+    },
+    {
+      "id": "Z07",
+      "youtube_time_window": "54:00–57:15",
+      "claim_paraphrase": "Muslim public-transport workers first treated the visible woman as a person in danger of jumping from the roof.",
+      "evidence_or_argument_type": "Relayed testimony, including Farouk Mohammed Atwa.",
+      "verification_question": "Retrieve the workers’ individual contemporary statements. Their initial interpretation matters because it precedes identification as Mary."
+    },
+    {
+      "id": "Z08",
+      "youtube_time_window": "56:15–57:15",
+      "claim_paraphrase": "The church roof/dome reportedly had no ordinary internal access and its windows did not open.",
+      "evidence_or_argument_type": "Architectural constraint on an ordinary person being there.",
+      "verification_question": "Check contemporary photographs, building plans and exact access routes; difficulty of access is not by itself impossibility."
+    },
+    {
+      "id": "Z09",
+      "youtube_time_window": "57:00–59:15",
+      "claim_paraphrase": "Observers reportedly noticed that the figure was above the dome, cast no shadow and moved away from and back toward it.",
+      "evidence_or_argument_type": "Reported visual features.",
+      "verification_question": "Establish named observers, observation positions, lighting and the earliest wording of these particular features."
+    },
+    {
+      "id": "Z10",
+      "youtube_time_window": "57:15–58:45",
+      "claim_paraphrase": "The doorkeeper and Father Constantine identified the figure as Mary, and police came after a suspected suicide was reported.",
+      "evidence_or_argument_type": "Relayed sequence of witnesses and authorities.",
+      "verification_question": "Compare Constantine’s actual report and police attendance records; do not merge different nights into the first night."
+    },
+    {
+      "id": "Z11",
+      "youtube_time_window": "59:00–60:15",
+      "claim_paraphrase": "A police chief reportedly ordered nearby street lamps broken, but the figure remained visible and brighter.",
+      "evidence_or_argument_type": "Reported first-night intervention.",
+      "verification_question": "Find a dated account naming the officer and describing exactly which lights were disabled.",
+      "subsequent_audit": "30 April 1968 Ministry report scan, page 3, visually checked: searchlights, broken nearby lamps and all area lights extinguished; reported figure persisted. Later district radius/duration and utility-switching details not established. See ../zeitoun-investigation-records-20261027/record-audit.json."
+    },
+    {
+      "id": "Z12",
+      "youtube_time_window": "60:35–61:59",
+      "claim_paraphrase": "Twenty-eight appearances were reportedly recorded during the first month, with about a thousand people gathering nightly within the first week or ten days.",
+      "evidence_or_argument_type": "Counts asserted without an episode event list.",
+      "verification_question": "Recover the event register and counting rules. A near-contemporary booklet separately summarizes 27 appearances up to its governmental report date; differing cutoffs may explain differing totals."
+    },
+    {
+      "id": "Z13",
+      "youtube_time_window": "60:45–61:50",
+      "claim_paraphrase": "Reported appearances included a bust, full figure, olive branch, blessing gestures, bowing toward the cross and movement toward the crowd.",
+      "evidence_or_argument_type": "Descriptions of forms and actions.",
+      "verification_question": "Compare dated descriptions by separately identifiable witnesses; do not presume every feature was present on every night."
+    },
+    {
+      "id": "Z14",
+      "youtube_time_window": "61:15–61:58; 91:20–92:05",
+      "claim_paraphrase": "Some observers reportedly perceived detailed features, a gentle smile and personal eye contact.",
+      "evidence_or_argument_type": "Witness perception relayed by Mourad.",
+      "verification_question": "Record viewing distance and source date; perceived personal attention is distinguishable from an independently measurable direction of gaze."
+    },
+    {
+      "id": "Z15",
+      "youtube_time_window": "64:30–65:30",
+      "claim_paraphrase": "Both Muslim and Christian observers were interested in Mary, although they understood her religious identity differently.",
+      "evidence_or_argument_type": "Religious context and cross-confessional witness argument.",
+      "verification_question": "Cross-confessional testimony broadens the witness base; shared Marian reverence must also be included when assessing independence of interpretation."
+    },
+    {
+      "id": "Z16",
+      "youtube_time_window": "65:10–66:05",
+      "claim_paraphrase": "Waguih/Wagih Rizk Matta reportedly took the first photograph on 13 April; a national newspaper authenticated it.",
+      "evidence_or_argument_type": "Named photographer; claimed photographic authentication.",
+      "verification_question": "Find the original negative, first publication and actual authentication procedure. A newspaper printing a photograph is not automatically a forensic authentication.",
+      "subsequent_audit": "Matta signed physician report scan retrieved and visually read; serious 1967 injury, treatment and restored movement attested. Source copy does not itself describe the apparition or instant of recovery."
+    },
+    {
+      "id": "Z17",
+      "youtube_time_window": "66:00–67:35",
+      "claim_paraphrase": "Large crowds and traffic led officials to create a tourist-police station with forty officers.",
+      "evidence_or_argument_type": "Claim of public administrative response.",
+      "verification_question": "Retrieve contemporary municipal/police reporting; crowd-management action establishes public scale, not alone the cause of what was seen."
+    },
+    {
+      "id": "Z18",
+      "youtube_time_window": "67:35–68:34",
+      "claim_paraphrase": "Authorities reportedly cut electricity across Zeitoun for hours, yet the luminous figure remained.",
+      "evidence_or_argument_type": "Reported intervention against an electrical hoax.",
+      "verification_question": "Recover dates, utility/police records, cutoff boundary, observations during the outage and duration. Stronger than an unsupported assertion that projection was impossible.",
+      "subsequent_audit": "30 April 1968 Ministry report scan, page 3, visually checked: searchlights, broken nearby lamps and all area lights extinguished; reported figure persisted. Later district radius/duration and utility-switching details not established. See ../zeitoun-investigation-records-20261027/record-audit.json."
+    },
+    {
+      "id": "Z19",
+      "youtube_time_window": "68:00–68:35",
+      "claim_paraphrase": "Appearances reportedly occurred at varying times, sometimes before full darkness and sometimes late at night.",
+      "evidence_or_argument_type": "Temporal variation.",
+      "verification_question": "Build a dated event chronology rather than assuming predictable nightly appearances."
+    },
+    {
+      "id": "Z20",
+      "youtube_time_window": "68:15–68:42; 97:44–99:10",
+      "claim_paraphrase": "Mourad attributes visible crowd faces in nighttime photographs and bright surrounding streets to light emitted by the apparition during a blackout.",
+      "evidence_or_argument_type": "Photographic inference plus reported eyewitness experience.",
+      "verification_question": "Identify each photograph’s photographer, date, exposure, flash use and relation to an outage. A bright crowd photograph alone cannot settle the light source."
+    },
+    {
+      "id": "Z21",
+      "youtube_time_window": "68:45–70:30",
+      "claim_paraphrase": "Police and the Ministry of Tourism reportedly publicly accepted the appearances as supernatural.",
+      "evidence_or_argument_type": "Claimed official conclusion.",
+      "verification_question": "Compare the original governmental report, contemporary reports about it, church statements and modern translations; avoid treating these as independent laboratory tests."
+    },
+    {
+      "id": "Z22",
+      "youtube_time_window": "69:00–70:00",
+      "claim_paraphrase": "Muslims, Christians of several churches and atheists reportedly watched together and experienced reconciliation.",
+      "evidence_or_argument_type": "Relayed cross-confessional and social testimony.",
+      "verification_question": "Find named observers and contemporary accounts. Mourad explicitly does not identify a Jewish eyewitness when asked."
+    },
+    {
+      "id": "Z23",
+      "youtube_time_window": "70:00–70:30",
+      "claim_paraphrase": "The New York Times and an Enquirer described as being in London reportedly covered the events.",
+      "evidence_or_argument_type": "Press corroboration lead.",
+      "verification_question": "Retrieve exact issues/bylines; identify the ambiguous Enquirer reference instead of silently substituting another publication. Distinguish reporting witness claims from editorial certification of a miracle."
+    },
+    {
+      "id": "Z24",
+      "youtube_time_window": "71:00–71:59",
+      "claim_paraphrase": "An estimated 250,000 people reportedly gathered after publicity; officials removed trees and the transport garage to make room.",
+      "evidence_or_argument_type": "Crowd estimate and physical administrative actions.",
+      "verification_question": "Find contemporaneous estimates and dates for separate changes. Do not substitute later anniversary attendance for an early-1968 crowd."
+    },
+    {
+      "id": "Z25",
+      "youtube_time_window": "72:00–72:50",
+      "claim_paraphrase": "Mourad gives a conservative estimate of more than one million unique people seeing the appearances from 1968 to 1971.",
+      "evidence_or_argument_type": "Cumulative attendance/eyewitness assertion.",
+      "verification_question": "No deduplication or estimation method is supplied in the interview. Distinguish visits, attendees, people claiming a sighting and individually documented testimonies."
+    },
+    {
+      "id": "Z26",
+      "youtube_time_window": "72:45–74:10",
+      "claim_paraphrase": "Three senior priests interviewed initial witnesses, examined healing claims and then reported seeing the figure themselves.",
+      "evidence_or_argument_type": "Claim of near-contemporary investigation and direct testimony by investigators.",
+      "verification_question": "A reproduced 1969 committee booklet names Guirguis Matta, Hanna Abdel-Messih and Benjamin Kamel and dates their appointment to 23 April 1968. Inspect the signed report and Arabic original."
+    },
+    {
+      "id": "Z27",
+      "youtube_time_window": "74:00–74:45",
+      "claim_paraphrase": "Bishops Gregorius, Samuel, Athanasius and Abraham/Ibrahim reportedly investigated separately.",
+      "evidence_or_argument_type": "Claim of additional church investigation.",
+      "verification_question": "Resolve names and separate commissions from shared records; several readers of the same report are not several independent observations."
+    },
+    {
+      "id": "Z28",
+      "youtube_time_window": "74:30–75:40",
+      "claim_paraphrase": "The medical committee reportedly required documentation of prior illness and recognized physicians rather than accepting every informal cure claim.",
+      "evidence_or_argument_type": "Claim about screening standards.",
+      "verification_question": "Recover written criteria, case files, rejected cases, examinations and follow-up. A published summary is evidence of a medical claim, not the entire clinical record."
+    },
+    {
+      "id": "Z29",
+      "youtube_time_window": "75:00–75:43",
+      "claim_paraphrase": "A Muslim woman reportedly recovered speech and sight at the church.",
+      "evidence_or_argument_type": "Reported healing.",
+      "verification_question": "The reproduced committee booklet identifies Madiha Mohammed Said and attributes onset to severe psychic shocks. Preserve that detail rather than automatically treating this as repaired structural eye damage."
+    },
+    {
+      "id": "Z30",
+      "youtube_time_window": "75:45–76:45",
+      "claim_paraphrase": "Atwa’s gangrenous finger reportedly healed before a scheduled amputation the next day; a non-Coptic doctor reportedly supplied a statement.",
+      "evidence_or_argument_type": "Reported medically attested healing linked to the first observer.",
+      "verification_question": "Find the named doctor, before/after documentation and earliest publication. The physician is unnamed in this episode; do not call the original medical file inspected."
+    },
+    {
+      "id": "Z31",
+      "youtube_time_window": "76:45–77:48",
+      "claim_paraphrase": "Mourad also mentions disappearance of a tumor, restored vision after retinal detachment and dramatic improvement in an elderly cardiac patient.",
+      "evidence_or_argument_type": "Additional healing claims used against a purely visual explanation.",
+      "verification_question": "Identify each patient, diagnosis, medical record and duration of recovery; these examples are not individually sourced in the interview."
+    },
+    {
+      "id": "Z32",
+      "youtube_time_window": "77:45–78:20",
+      "claim_paraphrase": "The patriarch publicly affirmed the appearances on 4 May 1968 after investigations.",
+      "evidence_or_argument_type": "Dated ecclesiastical statement.",
+      "verification_question": "A modern reproduction of the dated statement is located. Compare the original Arabic and near-contemporary English translation, including duration details."
+    },
+    {
+      "id": "Z33",
+      "youtube_time_window": "78:15–79:00",
+      "claim_paraphrase": "Mourad links Zeitoun to a traditional route of the Holy Family but explicitly expresses uncertainty about the precise historical stop.",
+      "evidence_or_argument_type": "Religious interpretation with the speaker’s own qualification.",
+      "verification_question": "Do not elevate the qualified geographical tradition into an independently established itinerary."
+    },
+    {
+      "id": "Z34",
+      "youtube_time_window": "79:00–80:15",
+      "claim_paraphrase": "He reports conversions and interprets the repeated choice of a Coptic church as religiously significant.",
+      "evidence_or_argument_type": "Reported effects and theological argument.",
+      "verification_question": "No conversion register or aggregate count is supplied. Significance of the site is an argument to assess, not itself a headcount."
+    },
+    {
+      "id": "Z35",
+      "youtube_time_window": "79:15–79:45; 88:00–88:30",
+      "claim_paraphrase": "There were reportedly 94 documented appearances over three years.",
+      "evidence_or_argument_type": "Event count.",
+      "verification_question": "Retrieve the actual list and distinguish figure appearances, other luminous phenomena and multiple episodes during one night."
+    },
+    {
+      "id": "Z36",
+      "youtube_time_window": "80:00–80:55",
+      "claim_paraphrase": "President Nasser reportedly personally witnessed the event and confirmed it.",
+      "evidence_or_argument_type": "Claim about a named official eyewitness.",
+      "verification_question": "Locate a contemporary attributable statement or record of the visit; governmental endorsement alone does not establish that the president personally saw it."
+    },
+    {
+      "id": "Z37",
+      "youtube_time_window": "81:20–82:47",
+      "claim_paraphrase": "Mourad’s father, then about fourteen, reportedly saw a wheelchair user stand and walk after collective prayer.",
+      "evidence_or_argument_type": "Family testimony: son relays father’s claimed direct observation.",
+      "verification_question": "Obtain the father’s own account, date, location, patient identity and diagnosis. Seeing someone rise from a wheelchair does not on its own identify the underlying illness."
+    },
+    {
+      "id": "Z38",
+      "youtube_time_window": "82:45–83:20",
+      "claim_paraphrase": "Mary reportedly delivered no spoken message during the appearances.",
+      "evidence_or_argument_type": "Consistent negative feature in the narrative.",
+      "verification_question": "Compare the event register. Interpretations of silent gestures should not be quoted as messages she audibly spoke."
+    },
+    {
+      "id": "Z39",
+      "youtube_time_window": "83:15–84:30",
+      "claim_paraphrase": "Luminous dove-like forms reportedly moved at night without visible wingbeats, sometimes in cross formations and near the crowd.",
+      "evidence_or_argument_type": "Reported associated visual phenomena.",
+      "verification_question": "Separate date-specific descriptions, original images and ordinary birds. The fact of nighttime flight alone would not establish a supernatural animal."
+    },
+    {
+      "id": "Z40",
+      "youtube_time_window": "84:00–85:30",
+      "claim_paraphrase": "Colored clouds and a powerful incense-like fragrance reportedly accompanied appearances; Athanasius reportedly judged the incense beyond ordinary censers.",
+      "evidence_or_argument_type": "Reported visual/olfactory phenomena plus inference.",
+      "verification_question": "Retrieve Athanasius’s exact account; distinguish smoke seen, odor perceived, interior inspection and the inferred absence of an ordinary source."
+    },
+    {
+      "id": "Z41",
+      "youtube_time_window": "86:00–87:50; 89:20–92:15",
+      "claim_paraphrase": "Mourad knows surviving witnesses, including parishioners in Ottawa and an elder priest from Alexandria; one unnamed parishioner described camping out and watching.",
+      "evidence_or_argument_type": "Present-day witness access, with accounts relayed by Mourad.",
+      "verification_question": "These are interview leads. Record each witness separately, with their own words, age, dates and earlier statements, respecting requested anonymity."
+    },
+    {
+      "id": "Z42",
+      "youtube_time_window": "89:00–89:30",
+      "claim_paraphrase": "The church website reportedly holds Arabic testimony, healing videos and scans shown by healed people.",
+      "evidence_or_argument_type": "Claim of accessible supporting records.",
+      "verification_question": "Locate individual records and distinguish patient interview, displayed image, full diagnostic report and independent specialist review.",
+      "subsequent_audit": "Matta signed physician report scan retrieved and visually read; serious 1967 injury, treatment and restored movement attested. Source copy does not itself describe the apparition or instant of recovery."
+    },
+    {
+      "id": "Z43",
+      "youtube_time_window": "92:15–93:15",
+      "claim_paraphrase": "Benedictine Jerome Palmer reportedly investigated and wrote a book; Catholic Patriarch Cardinal Stephanos reportedly saw the event and wrote to Rome.",
+      "evidence_or_argument_type": "Named near-contemporary research and correspondence leads.",
+      "verification_question": "Locate Palmer’s 1969 Our Lady Returns to Egypt and the cardinal’s actual letter. Endorsement based on others’ accounts must be distinguished from personal sighting."
+    },
+    {
+      "id": "Z44",
+      "youtube_time_window": "93:10–93:45",
+      "claim_paraphrase": "The Catholic Church reportedly deferred to the local Coptic Orthodox authority rather than issuing its own declaration.",
+      "evidence_or_argument_type": "Institutional recognition claim.",
+      "verification_question": "Obtain the actual Catholic diplomatic/ecclesial correspondence; deference and separate formal approval are distinct."
+    },
+    {
+      "id": "Z45",
+      "youtube_time_window": "97:44–99:10",
+      "claim_paraphrase": "The apparition was reportedly self-luminous, illuminated surroundings and caused white photographic overexposure while remaining comfortable to view.",
+      "evidence_or_argument_type": "Reported perception plus proposed explanation of photographs.",
+      "verification_question": "Check exposures and original negatives. Overexposure is not itself physical film burning, measured solar brightness, or authentication of an apparition."
+    },
+    {
+      "id": "Z46",
+      "youtube_time_window": "98:00–98:20",
+      "claim_paraphrase": "The blackout/search area is described using an ambiguous five-kilometre expression.",
+      "evidence_or_argument_type": "Imprecisely specified spatial extent in the captions.",
+      "verification_question": "Do not turn this into a verified five-kilometre radius or five square kilometres; recover the actual boundary."
+    },
+    {
+      "id": "Z47",
+      "youtube_time_window": "99:30–100:20",
+      "claim_paraphrase": "Authorities reportedly searched nearby rooftops, balconies and apartments for projectors and found none.",
+      "evidence_or_argument_type": "Claimed negative search result.",
+      "verification_question": "Find the search report, officers, dates, coverage and equipment considered. A documented systematic search would constrain a hoax more than general technological speculation."
+    },
+    {
+      "id": "Z48",
+      "youtube_time_window": "100:05–101:50",
+      "claim_paraphrase": "Mourad argues 1960s technology could not generate the reported mobile three-dimensional figure; he also argues a Muslim government would lack a motive for this Christian hoax.",
+      "evidence_or_argument_type": "Technological and motive arguments, not experimental findings.",
+      "verification_question": "Specify the display properties to be explained and period equipment. Lack of identified equipment/motive counts, but does not logically prove that only government equipment or no conceivable incentive existed."
+    },
+    {
+      "id": "Z49",
+      "youtube_time_window": "102:00–103:20",
+      "claim_paraphrase": "Present-day Muslim visitors reportedly venerate Mary as Mother of Light without accepting Christian teaching about her son.",
+      "evidence_or_argument_type": "Speaker’s account of current religious reception.",
+      "verification_question": "This matters to interpretation: Muslim recognition is not automatically acceptance of every Christian doctrinal inference."
+    },
+    {
+      "id": "Z50",
+      "youtube_time_window": "103:15–104:00",
+      "claim_paraphrase": "The garage land was reportedly sold cheaply to the church and a large cathedral built opposite the original church.",
+      "evidence_or_argument_type": "Historical/property claim.",
+      "verification_question": "Locate dated sale/building records; separate relocation, sale and later construction."
+    },
+    {
+      "id": "Z51",
+      "youtube_time_window": "104:00–106:45",
+      "claim_paraphrase": "On a recent visit Mourad met Father Bishoy, who showed original international press clippings; he observed visitors of several Christian traditions and Muslim women praying.",
+      "evidence_or_argument_type": "Mourad’s own recent observation and archive lead.",
+      "verification_question": "Retrieve those specific clippings and catalogue them. His recent observations directly support present pilgrimage activity, not personal observation of 1968 events."
+    },
+    {
+      "id": "Z52",
+      "youtube_time_window": "127:00–127:40",
+      "claim_paraphrase": "Mourad acknowledges that some circulated photographs were touched up and differ from their original publications.",
+      "evidence_or_argument_type": "Explicit qualification by the affirmative narrator.",
+      "verification_question": "Maintain separate original-publication, retouched, artistic and unidentified image categories. Retouching some pictures does not establish fabrication of every picture or event."
+    },
+    {
+      "id": "Z53",
+      "youtube_time_window": "124:00–126:30; 136:15–138:10",
+      "claim_paraphrase": "The hosts argue that well-established modern miracles should change how one assesses older Christian miracle accounts.",
+      "evidence_or_argument_type": "Cumulative philosophical/historical argument.",
+      "verification_question": "One established event could change the prior; accumulation should track independent support and avoid treating the same story repeated as new independent evidence."
+    }
+  ],
+  "sources": [
+    {
+      "id": "P1",
+      "title": "Pints with Aquinas, episode 601",
+      "url": "https://www.youtube.com/watch?v=-pQKNgwQjdk",
+      "date": "2026-10-19",
+      "type": "Primary source for what Mourad and Fradd say; later than the events.",
+      "access": "Full local automatic captions read; not audio-verified or an official edited transcript."
+    },
+    {
+      "id": "S1",
+      "title": "ST. MARY’S APPARITIONS, committee booklet (1969), modern transcription",
+      "url": "https://ourladyofzeitoun.com/en/report/st-marys-apparitions/",
+      "type": "Near-contemporary investigative account reproduced online.",
+      "access": "Search-index text reviewed; direct page returned HTTP 403; original booklet scan not yet inspected."
+    },
+    {
+      "id": "S2",
+      "title": "Coptic Patriarchate statement, 4 May 1968, English reproduction attributed to Jerome Palmer",
+      "url": "https://ourladyofzeitoun.com/en/report/statement-by-the-coptic-orthodox-patriarch/",
+      "type": "Contemporary ecclesiastical statement reproduced online.",
+      "access": "Search-index text reviewed; original Arabic not inspected."
+    },
+    {
+      "id": "S3",
+      "title": "Watani, 5 May 1968, modern English reproduction",
+      "url": "https://ourladyofzeitoun.com/en/newspaper/watani-newspaper-may-5-1968/",
+      "type": "Contemporary newspaper account in a modern translated transcription.",
+      "access": "Indexed text reviewed; source scan/translation not yet checked. Earlier notes report an outage passage, but the targeted search in this pass did not surface its wording."
+    },
+    {
+      "id": "S4",
+      "title": "Ministry of Tourism – Department of Inquiries, reproduction",
+      "url": "https://ourladyofzeitoun.com/en/report/ministry-of-tourism-department-of-inquiries/",
+      "type": "Purported governmental report reproduced by church archive.",
+      "access": "Indexed excerpt located, including visitors not seeing a vision; full original report not inspected."
+    },
+    {
+      "id": "S5",
+      "title": "Waguih Rizk Matta, witness and medical-report transcription",
+      "url": "https://ourladyofzeitoun.com/en/eyewitness/waguih-rizk-matta/",
+      "type": "Compilation of named first-person and medical testimony.",
+      "access": "Indexed text reviewed, references A Light from Heaven pp55–59 and Bishop Gregorious report 1969 pp96–97; attached signed report scan not inspected."
+    },
+    {
+      "id": "S6",
+      "title": "Watani, 26 May 1968, modern English reproduction",
+      "url": "https://ourladyofzeitoun.com/en/newspaper/watani-26-may-1968/",
+      "type": "Contemporary newspaper account, modern translated transcription.",
+      "access": "Indexed text reviewed; original Arabic not yet checked."
+    },
+    {
+      "id": "S7",
+      "title": "Al-Ahram, 7 May 1968, modern English reproduction",
+      "url": "https://ourladyofzeitoun.com/en/newspaper/al-ahram-newspaper-may-7-1968/",
+      "type": "Contemporary newspaper account, modern translated transcription.",
+      "access": "Indexed text reviewed; original Arabic not yet checked."
+    },
+    {
+      "id": "S8",
+      "title": "Al-Akhbar, 7 May 1968, modern English reproduction",
+      "url": "https://ourladyofzeitoun.com/en/newspaper/al-akhbar-newspaper-may-7-1968/",
+      "type": "Contemporary newspaper account, modern translated transcription.",
+      "access": "Indexed text reviewed; original Arabic not yet checked."
+    },
+    {
+      "id": "S9",
+      "title": "Saint Mary Church Zeitoun official website: Church’s Fathers",
+      "url": "https://www.stmaryztn.org/saintmary/en/the-church/churchs-fathers",
+      "type": "Institutional historical directory.",
+      "access": "Indexed description of Constantine Moussa and church’s establishment reviewed."
+    },
+    {
+      "id": "L1",
+      "title": "Cynthia Nelson, The Virgin of Zeitoun, Worldview 16(9), 1973",
+      "url": "https://carnegiecouncil-media.storage.googleapis.com/files/v16_i009_a003.pdf",
+      "type": "Potential firsthand field-observation counterpoint.",
+      "access": "Located only; NOT read in this pass. Priority for the next source audit."
+    },
+    {
+      "id": "L2",
+      "title": "Palmer, Our Lady Returns to Egypt, 1969",
+      "url": null,
+      "type": "Named book lead from episode.",
+      "access": "Bibliographic lead located; book not read in this pass."
+    }
+  ],
+  "subsequent_research": "Original-record audit completed 27 October 2026; source levels and remaining gaps in ../zeitoun-investigation-records-20261027/record-audit.json."
+}

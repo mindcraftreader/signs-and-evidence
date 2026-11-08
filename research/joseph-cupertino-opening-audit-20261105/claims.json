@@ -1,0 +1,39 @@
+{
+  "date": "2026-11-05",
+  "claims": [
+    {
+      "id": "JC01",
+      "claim": "Repeated unsupported bodily suspension",
+      "status": "Core claim under investigation"
+    },
+    {
+      "id": "JC02",
+      "claim": "Multidirectional aerial movement",
+      "status": "Explicitly present in 1753 narrative; named-deposition chain to be recovered"
+    },
+    {
+      "id": "JC03",
+      "claim": "Clothing remained orderly/close to body during flights",
+      "status": "Confirmed as a historical claim in visually inspected 1753 and 1918 texts; actual event not yet adjudicated"
+    },
+    {
+      "id": "JC04",
+      "claim": "No robe flutter during very rapid movement, personally attested by a bishop",
+      "status": "More specific formulation requires original witness and wording; not yet verified"
+    }
+  ],
+  "new_tally_assigned": false,
+  "counts": {
+    "non_hearsay_accounts_in_selected_published_corpus": 103,
+    "aerial_non_hearsay_accounts": 73,
+    "non_aerial_accounts": 30,
+    "aerial_entries_including_hearsay": 82,
+    "broader_reported_eyewitness_count": "at least150 in Assisi records, Rickard citingGrosso citingParisciani; not independently recounted",
+    "unique_witnesses": "not established",
+    "counts_additive": false
+  },
+  "conversions": {
+    "major_prince": "Johann Friedrich, later duke;1651 conversion independently corroborated",
+    "second_named_convert": "Heinrich Julius Blume;1653 conversion corroborated, identification with miracle eyewitness not yet secure"
+  }
+}

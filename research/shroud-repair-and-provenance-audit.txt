@@ -1,0 +1,341 @@
+SHROUD OF TURIN: REPAIR, OTHER CARBON-DATE EXPLANATIONS, AND BIOLOGICAL PROVENANCE
+Research audit — 27 October 2026
+
+QUESTION AND RESULT
+
+Could the 1988 dating accurately measure a corner while misleading us about the
+original cloth? Yes. Three laboratories do not overcome a common sampling failure.
+The question is whether a failure large enough to explain a first-century cloth is
+supported by the actual material, rather than merely possible.
+
+My assessment after this pass: substantial replacement remains the strongest of the
+reviewed ordinary mechanisms for reconciling ancient linen with the medieval carbon
+result. It has positive chemical observations behind it, conflicting textile and
+microscopic observations against it, and no established reconstruction of the repair
+across the dated strip. It is neither a demonstrated repair nor a conclusively
+excluded possibility. Ordinary dirt, a few cotton fibers, and a hypothetical
+biological film should not be substituted for that substantial-replacement claim.
+
+The pollen and DNA literature contains affirmative claims of Near Eastern contact.
+It does not establish a unique, securely dated Palestinian origin. The best-known
+pollen identification is disputed, and genetic analyses explicitly accommodate
+later contamination. This pass does not justify treating an ancient age as an
+80% measured result. The numerical section makes conditional odds explicit.
+
+This is an audit of dating and provenance. It does not purport to calculate the
+probability of Christianity or to settle image formation. The separate 26 October
+dating assessment is preserved as a dated snapshot, not silently rewritten.
+
+1. KEEP THE SAMPLES SEPARATE
+
+1973: Raes removed textile next to the region subsequently used for dating.
+1978: STURP collected tapes and vacuum dust from several parts of the cloth.
+1988: one corner strip supplied all three radiocarbon laboratories.
+2003: Rogers reports receiving warp and weft threads attributed by Gonella to the
+      center of the 1988 strip, in addition to his earlier Raes material.
+2010: Freer-Waters and Jull examined retained Arizona fragment A1B.
+2026: the same authors examined A1A and A1B, with limited SEM sampling of A1A.
+
+Nearby Raes threads are relevant evidence about the neighborhood. They are not
+identical to the portions consumed by the dating laboratories. Conversely, it is
+incorrect to claim that Rogers examined only Raes threads: he explicitly describes
+receiving threads attributed to the radiocarbon strip. Attribution, handling
+history and the limited material remain important to weighing that evidence.
+
+Original dating report: https://www.shroud.com/nature.htm
+Rogers: https://doi.org/10.1016/j.tca.2004.09.029
+
+2. THE STRONG REPAIR ARGUMENT, AND WHAT CHALLENGES IT
+
+The positive argument has three components: reported compositional differences,
+observations of atypical threads/coatings, and a historically proposed reweaving
+operation. Rogers interprets gum/dye and cotton observations as evidence of foreign
+material. Importantly, he says the soluble gum would have been removed by the
+dating pretreatment. His proposed failure is replacement textile, not simply an
+unremoved layer of that gum.
+
+Brown independently examined selected Raes threads and documented coatings and
+cotton. That corroborates local observations; it does not independently establish
+the age or composition of the entire dating strip. The reviewed Benford/Marino
+conference paper supplies historical and textile arguments for an unobtrusive
+repair. Availability of a technique and royal resources show feasibility, not that
+the particular intervention occurred.
+
+Brown: https://www.shroud.com/pdfs/brown1.pdf
+Benford/Marino: https://www.shroud.com/pdfs/ohiomarino2.pdf
+
+Counterevidence is concrete too. Conservator Flury-Lemberg argues that reweaving
+fine linen would leave detectable structural evidence and reports cohesive
+remaining corner fabric. Her 2002 access was after removal of the 1988 strip; it
+cannot substitute for a map of the missing material. Also, she objects to the
+carbon date on contamination grounds: citing her against reweaving as though she
+endorses the whole radiocarbon conclusion would misrepresent her position.
+
+https://www.shroud.com/pdfs/n65part5.pdf
+
+The 2010 Arizona study finds compatible linen and no overall dye/coating, but
+observes cotton on three occasions, with uncertainty over whether one was internal
+or surface contamination. The 2026 study reports compatible weave/count/twist and
+no cotton in the areas examined. SEM covered approximately 2 x 1.5 mm of A1A.
+The authors acknowledge limited, potentially non-uniform material. These are
+related studies, not two fully independent replications. Matching flax and weave
+weigh against some mixed-cotton repairs; they cannot by themselves exclude a
+carefully matched linen repair whose boundary lies elsewhere.
+
+2010: https://doi.org/10.1017/S0033822200056277
+2026: https://doi.org/10.1038/s40494-026-02530-7
+
+The mass-spectrometry disagreement is narrower than some summaries suggest.
+Bella and colleagues challenge the interpretation of two published spectra; a
+2016 response disputes their analysis. Neither abstract establishes a complete
+corner reconstruction. Full texts were not retrieved in this pass, so those
+arguments receive less weight here than directly inspected material reports.
+
+Critique: https://doi.org/10.1016/j.tca.2015.08.002
+Response: https://doi.org/10.1016/j.tca.2015.11.021
+
+What would resolve this branch: authenticated retained threads, chemical maps,
+documented joins or boundaries, and separate carbon measurements of suspected old
+and added fibers. A convincing reconstructed repair must explain the individual
+subsamples, not just fit one pooled average. Lack of detected cotton alone is not
+a complete disproof; presence of a little cotton alone is not proof.
+
+3. HOW LARGE A REPLACEMENT OR CONTAMINATION IS REQUIRED?
+
+This audit calculated isotope mixing rather than averaging calendar dates.
+The model is F_mix = (1-f) F_old + f F_added, where F = exp(-R/8033), R is the
+conventional radiocarbon age, and f is the added share of measured carbon.
+
+Inputs: hypothetical original linen grown in AD 30; the published 691 BP mean;
+IntCal20 curve means for calendar-dated added material. Results:
+
+  Added material grown AD 1500: 77.5% of measured carbon must be added material.
+  Added material grown AD 1532: 74.6%.
+  Added material grown AD 1600: 77.5%.
+  Un-enriched modern reference carbon, F=1: 62.1%.
+
+Rounded implication: about three-quarters, or more, of the residual carbon must
+be sixteenth-century material in these examples. This could be replacement linen;
+it need not all be cotton. A few stray fibers cannot supply that fraction.
+
+These are illustrative required fractions, not measured contamination percentages
+and not probabilities that a repair exists. They refer to carbon after cleaning,
+not the initial dirty sample, DNA read counts or percentages of fabric area.
+Full calibration uncertainty is not propagated. Post-bomb or otherwise enriched
+carbon needs its actual isotope ratio and can require a smaller fraction.
+
+Official curve: https://intcal.org/curves/intcal20.14c
+Method publication: https://doi.org/10.1017/RDC.2020.41
+Reproducible outputs: shroud-dating-audit/carbon-mixing.csv and
+shroud-dating-audit/calculation-method.json.
+
+4. ALTERNATIVES TO A FRENCH REWEAVE
+
+A. Other replacement or reinforcing textile.
+The dated strip could in principle contain later linen without the particular
+French-reweaving technique being correctly identified. This preserves the genuine
+sampling objection but still requires physical evidence for the added material,
+its geometry and its large carbon contribution. A hypothesis should not be
+declared proved just by changing the repair's name.
+
+B. Surface deposits: handling, smoke, waxes, biological films or conservation products.
+Such material can alter dates if enough survives pretreatment. Gove and colleagues
+published an actual contamination investigation, including discrepant ibis wrapping
+and tissue dates. But rewrapping and biological carbon sources complicate the ibis
+inference. A microbe consuming old linen does not automatically add modern carbon.
+No sufficient surviving Shroud coating is established by that experiment.
+
+https://doi.org/10.1016/S0168-583X(96)00718-5
+
+C. Carbon exchange during fire.
+Heating does not automatically reset a radiocarbon clock. The proposed mechanism
+requires carbon exchange or another isotopic change. Austin Long's experiment
+heated old cotton in radiocarbon-enriched CO2 and found no measurable transfer.
+It tests a cellulose comparator under specified conditions, not every fire/storage
+combination. The reviewed publisher abstract supports a negative result for that
+mechanism, not a universal proof about all contamination.
+
+https://doi.org/10.1017/S0033822200017884
+
+D. Radiocarbon-enriched carbon monoxide.
+Oxford explicitly investigated Jackson's proposal: enriched contaminant carbon
+could have a large effect at much smaller mass fractions. Initial high-CO exposure
+tests found no significant reaction with linen. Oxford leaves specific historical
+conditions open but reports no direct evidence establishing the required effect.
+This is an investigated alternative, presently without a demonstrated sufficient
+effect on the Shroud.
+
+https://c14.arch.ox.ac.uk/shroud.html
+
+E. Irradiation changing the isotope content.
+Neutron capture can create carbon-14. Phillips proposed this in 1989, and later
+authors develop irradiation scenarios. Establishing the nuclear possibility is
+different from establishing that this cloth experienced the required exposure.
+The reviewed literature does not independently measure that historical event.
+A model fitted to explain the carbon date cannot count as independent evidence
+that the event occurred. Phillips's original correspondence was not obtained in
+full; the proposal is described in NIST and later proponent papers.
+
+Proposal: https://doi.org/10.1038/337594a0
+Technical context: https://pmc.ncbi.nlm.nih.gov/articles/PMC4853109/
+Recent proponent synthesis: https://doi.org/10.54026/ARS/1034
+
+F. Laboratory, statistical or sample-identity problems.
+The original report itself acknowledges excess scatter and changes its uncertainty
+treatment. Later analyses identify heterogeneity and infer a spatial pattern from
+incompletely documented sublocations. Different pretreatment effects are another
+published explanation. This matters to the precision and interpretation of the
+pooled date. It does not by itself demonstrate a thirteen-century bias or identify
+the cause. No positive evidence establishing a sample substitution was found in
+the material reports reviewed here.
+
+https://doi.org/10.1111/arcm.12467
+https://doi.org/10.3390/e22090926
+https://doi.org/10.1016/j.jasrep.2019.102015
+
+5. POLLEN AND OTHER ORGANIC MATERIAL: PALESTINE VERSUS FRANCE
+
+Four questions must be answered separately: is the particle securely associated
+with the cloth; is its identification reliable; is its distribution geographically
+diagnostic; and when/how was it deposited? A verified eastern assemblage could
+favor eastern contact over an exclusively local French history. That would be
+positive evidence. Its weight depends on these questions, not merely on whether
+later transfer is conceivable.
+
+Frei's original report describes real dust sampling and claimed identifications
+supporting an eastern itinerary. Danin and Baruch combine pollen with proposed
+floral images and overlapping plant distributions. Danin's later conference paper
+argues for Jerusalem/Hebron and springtime from interpreted plant images. These
+are the affirmative claims to evaluate, not an argument invented by later popular
+writers. Pollen under a microscope and a proposed flower outline on a photograph
+are nevertheless different kinds of observation, not automatic independent
+confirmation of one another.
+
+Frei: https://www.shroud.com/pdfs/ssi03part3.pdf
+Danin/Baruch: https://www.shroud.com/pdfs/daninx.pdf
+Danin: https://ohioshroudconference.com/papers/p05.pdf
+
+Boi's peer-reviewed reinterpretation identifies the supposed dominant Gundelia
+type as Helichrysum and discusses Cistus, Ferula and Pistacia. She interprets this
+as support for burial ointments compatible with ancient practices. That affirmative
+interpretation belongs in the audit too. However, she compared published images
+with modern reference grains, rather than collecting a new controlled Shroud set.
+The pollen does not uniquely identify Palestine, directly establish chemical
+residues of specific ointments, or date their application. The alternative
+identification weakens a geographically narrow argument based on Gundelia; it
+does not establish that the cloth never encountered the Middle East.
+
+https://doi.org/10.1111/arcm.12269
+
+Danin's 2010 book is located on the author's flora website, but its download was
+unavailable in this pass. A contemporary review recounts reservations arising
+from Thomas Litt's examination. Litt's original report was not independently
+obtained. Those access limits are recorded rather than treating a secondhand
+quotation as a newly inspected laboratory report.
+
+https://flora.org.il/en/books/botany-of-the-shroud-2/
+
+The 2015 DNA paper reports Near Eastern as well as European and South Asian
+lineages, and mixed plant DNA. Its authors explicitly accommodate both an eastern
+journey and European contact with geographically diverse visitors. Native range,
+current range and the place a transported particle was deposited are not identical.
+The study does not supply a clean Palestine-versus-France classification.
+
+https://doi.org/10.1038/srep14484
+
+The 2026 study uses different material and sequencing methods. It identifies a
+predominant human lineage matching the modern sample collector, other lineages
+including a Near Eastern-associated one, and mixed environmental organisms. Its
+authors conclude that metagenomics cannot establish medieval versus ancient age.
+The separately dated loose repair-associated threads do not locate a repair at
+the 1988 strip. Detectable biological contamination is not evidence that enough
+young carbon survived 1988 pretreatment to cause the measured shift.
+
+https://doi.org/10.1038/s41598-026-60684-7
+
+Provenance conclusion: suggestive eastern associations remain in the literature,
+but there is no independently dated, uniquely Palestinian biological signature
+established by the reviewed studies. European traces do not refute an ancient
+eastern history, and eastern traces alone do not establish a first-century one.
+Blinded palynological re-identification, modern reference assemblages, controls
+and contamination histories would make the evidence more discriminating.
+
+6. THE ALTERNATIVE DATES ARE RELEVANT, WITH THEIR OWN SAMPLING CONDITIONS
+
+FTIR/Raman, mechanical testing and WAXS are positive ancient-compatible findings.
+They are not four independent replications by four laboratories. Mechanical work
+reports loose fibers from vacuum filter h near the rear gluteal region, distinct
+from the carbon-dating corner. WAXS used a tiny thread near the Raes/radiocarbon
+area. The latter cannot simply be treated as unquestionably original cloth while
+all neighboring material is assumed replaced. Neither is an exact map of the
+material consumed in 1988. Calibration and environmental aging remain substantive
+questions, not reasons to dismiss the results solely because the methods are new.
+
+https://doi.org/10.1051/matecconf/20153601001
+https://doi.org/10.3390/heritage5020047
+
+7. NUMERICAL ODDS: A TRANSPARENT SENSITIVITY ANALYSIS
+
+It was too categorical to say that odds cannot be attached. Bayesian odds can be
+calculated under explicit assumptions; the papers do not supply all those inputs.
+Giving a number without showing them would conceal the main disagreement.
+
+For illustration compare A, first-century original linen, with M, medieval original
+linen. This is a two-hypothesis illustration, not an exhaustive chronology and not
+a probability that the cloth belonged to Jesus. Let E be a broadly medieval carbon
+result. Let pi be the probability of A before adding E, using the other evidence;
+q=P(E|A) includes whatever mechanisms could make ancient cloth measure medieval;
+m=P(E|M). Then:
+
+  P(A|E, A-or-M) = pi*q / [pi*q + (1-pi)*m].
+
+Illustration with ASSUMED m=0.95:
+
+  Assumed prior ancient       q=0.05       q=0.20       q=0.50
+            50%                  5.0%         17.4%         34.5%
+            80%                 17.4%         45.7%         67.8%
+            95%                 50.0%         80.0%         90.9%
+
+All inputs are assumptions, not fitted probabilities. In particular, m=0.95 is NOT
+derived from the published 95% confidence interval. q is not the posterior chance
+that a repair exists. If sample-inspection evidence enters the prior/conditioning,
+it must not be counted again as an independent likelihood factor.
+
+Thus an 80/20 ancient conclusion can be expressed coherently: for example, prior
+95%, q=20%, m=95% gives posterior 80%. Defending it requires defending those inputs
+and their dependencies. Neither 80/20 nor a reverse numerical conclusion follows
+from counting papers, counting laboratories or multiplying unmeasured tiny odds.
+Equal starting odds are one sensitivity case, not an objectively neutral default.
+
+8. WHAT THIS AUDIT CHANGES
+
+The repair objection has to be engaged as an empirical sampling claim. The original
+three-laboratory result does not make the question disappear. Conversely, a
+photographically subtle repair must be supported in the actual sample, at a scale
+capable of producing the isotope measurements. The primary evidence is conflicting
+and incomplete, rather than uniformly pro-repair or uniformly cotton-free.
+
+The botanical evidence is weaker as a geographic discriminator than the simple
+claim that Palestinian pollen rules out medieval France. That finding is about
+identification, sample history and comparative likelihood, not a rule excluding
+religious conclusions. Nor does failure of one repair account automatically prove
+a medieval image-making process.
+
+My qualitative preference on scientific cloth dating remains medieval, with a
+material representativeness uncertainty that requires new sampling. This audit
+does not produce a calibrated probability for that preference. It supplies the
+physical constraints and explicit numerical assumptions needed to debate odds
+without disguising judgments as measurements.
+
+The highest-value next evidence remains independently characterized original-weave
+samples from separated locations, plus authenticated retained-corner analysis.
+Published raw data, sample photographs, chemical mapping and separately dated
+suspected components would test the competing explanations directly.
+
+SOURCE AND CALCULATION FILES
+
+The searchable library is shroud-sources/index.html; source notes identify actual
+access status. Newly obtained PDFs retain original authorship. Abstract-only and
+book-access limitations are explicit. Calculation outputs are in
+shroud-dating-audit/. The reproducible calculation script is
+../.build/shroud/dating-audit/calculate-dating-sensitivity.py.

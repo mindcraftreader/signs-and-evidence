@@ -1,0 +1,14 @@
+{
+  "files_screened": 889,
+  "distinct_metadata_dates": 887,
+  "target_calendar_days": 1166,
+  "absent_calendar_dates": 279,
+  "status": "OCR keyword screening with selected original-page checks; not an exhaustive full-text historical census",
+  "no_1971_issues_in_target_window": true,
+  "all_host_md5_matched": true,
+  "unresolved_duplicate_metadata_dates": [
+    "1969-07-05",
+    "1970-09-09"
+  ],
+  "tallies_changed": false
+}

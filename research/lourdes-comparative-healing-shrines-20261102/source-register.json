@@ -1,0 +1,72 @@
+{
+  "retrieved_utc": "2026-11-03T04:46:47.937875+00:00",
+  "sources": [
+    {
+      "file": "mashhad-nursing-2023.html",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10391964/",
+      "note": "Academic concept-analysis paper; model-case status unresolved; not a standalone clinical case report.",
+      "first_download_error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1000)>",
+      "bytes": 192105,
+      "sha256": "fd4d2fc0439344f83e93839633155c037a9c718c3cdb452a275fbc2813cbfbee",
+      "download_tool": "curl"
+    },
+    {
+      "file": "mashhad-committee-abna-reprint.html",
+      "url": "https://mail.wocoshiac.org/en/news-events/all-news-en/all-news-b-en/razavi-timpani-played-on-occasion-of-healing-of-two-pilgrims",
+      "note": "World Council of Shia Centers reprint attributing committee statements to Abbas Farazi Nia; underlying Abna/Astan story not yet recovered.",
+      "first_download_error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)>",
+      "error": "curl: (22) The requested URL returned error: 403"
+    },
+    {
+      "file": "mashhad-healings-shiastudies-2019.html",
+      "url": "https://shiastudies.com/en/3241/miraculous-healing-by-imam-rezaa-s/",
+      "note": "Religious testimonial compilation, mixed dates and personal accounts; not a set of original clinical records.",
+      "first_download_error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)>",
+      "bytes": 237918,
+      "sha256": "ea2290bd06c505c2a3e93bac02740b2adf5663dcb52210cba9a3f94a49ef3d35",
+      "download_tool": "curl"
+    },
+    {
+      "file": "golden-temple-toi-20070719.html",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/blind-woman-claims-miraculous-cure/articleshow/2215824.cms",
+      "note": "Newspaper interview report of Jatinder Kaur recovery, published about 18 months after claimed bath. No diagnosis, measurements, or named medical examiners in article.",
+      "first_download_error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)>",
+      "bytes": 277756,
+      "sha256": "38aa3edb49c0a6693b6b7ab16fd81a12eb4a416b6ec2c4990c0136f1e751e22a",
+      "download_tool": "curl"
+    },
+    {
+      "file": "asre-iranian-20220731.pdf",
+      "url": "https://www.pishkhan.com/Archive/1401/05/14010509/AsreIranian651157310111448535784254.pdf",
+      "note": "Original newspaper issue; committee account from a speech, not a clinical dossier.",
+      "first_download_error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>",
+      "error": "curl: (28) Resolving timed out after 25001 milliseconds"
+    },
+    {
+      "file": "hindu-temple-mental-health-bmj-2002.html",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1123553/",
+      "note": "Clinical observational study of psychiatric symptoms at Hindu temple; evaluate separately from destructive-lesion reversal.",
+      "first_download_error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1000)>",
+      "bytes": 120110,
+      "sha256": "5a5629c34e75e432babc4d1cba8926ec78e07d82e3341e43df07f4d2ab97a583",
+      "download_tool": "curl"
+    },
+    {
+      "file": "chabad-ohel-medical-testimony.html",
+      "url": "https://www.chabad.org/library/article_cdo/aid/3555176/jewish/The-Ohel-and-My-Medical-Miracles.htm",
+      "note": "Participant narrative at Jewish religious publisher; no original medical charts in recovered page.",
+      "first_download_error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)>",
+      "error": "curl: (56) The requested URL returned error: 403"
+    },
+    {
+      "file": "charan-mashhad-pilgrims-2024.pdf",
+      "url": "https://doi.org/10.1007/s10943-023-01943-z",
+      "access": "Opened through University of Akron Springer EZproxy in Danny Chrome profile; user then supplied downloaded local PDF",
+      "provided_path": "[local attachment path omitted]",
+      "bytes": 655514,
+      "sha256": "af9a7c37761d9912bae10cd29da7e8eb0652ccffae6ad1708a9a4e9b4e853436",
+      "reading_scope": "Entire24page text read; visually inspected printed470,482,486",
+      "note": "Qualitative interviews with72pilgrims; no clinical before/after series."
+    }
+  ]
+}

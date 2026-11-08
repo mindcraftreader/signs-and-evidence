@@ -1,0 +1,532 @@
+{
+  "date": "2026-11-03",
+  "scope": "Inherited72-entry official summary screen; not72deepdossiers. Recoveryyears extracted and retained with source snippets. Allope manually corrected against officialFrenchlist because inheritedsnippet omitted recoveryyear.",
+  "cases": [
+    {
+      "name": "Catherine LATAPIE detta CHOUAT",
+      "official_case_number": 1,
+      "recovery_source_snippet": "1° marzo 1858, a 38 anni. Miracolo riconosciuto il 18 gennaio 1862 da Mons. Laurence, vesc",
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "recovery_year": 1858
+    },
+    {
+      "name": "Louis BOURIETTE",
+      "official_case_number": 2,
+      "recovery_source_snippet": "marzo 1858, a 54 anni. Miracolo riconosciuto il 18 gennaio 1862, da Mons. Laurence, vescov",
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "recovery_year": 1858
+    },
+    {
+      "name": "Blaisette CAZENAVE",
+      "official_case_number": 3,
+      "recovery_source_snippet": "marzo 1858, a 50 anni. Miracolo riconosciuto il 18 gennaio 1862 da Mons. Laurence, vescovo",
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "recovery_year": 1858
+    },
+    {
+      "name": "Henri BUSQUET",
+      "official_case_number": 4,
+      "recovery_source_snippet": "la fine di aprile 1858, a 16 anni. Miracolo riconosciuto il 18 gennaio 1862 da Mons. Laure",
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "recovery_year": 1858
+    },
+    {
+      "name": "Justin BOUHORT",
+      "official_case_number": 5,
+      "recovery_source_snippet": "6 luglio 1858",
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "recovery_year": 1858
+    },
+    {
+      "name": "Madeleine RIZAN",
+      "official_case_number": 6,
+      "recovery_source_snippet": "17 ottobre 1858, a 58 anni. Miracolo riconosciuto il 18 gennaio 1862 da Mons. Laurence, ve",
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "recovery_year": 1858
+    },
+    {
+      "name": "Marie MOREAU",
+      "official_case_number": 7,
+      "recovery_source_snippet": "9 novembre 1858, a quasi 17 anni. Miracolo riconosciuto il 18 gennaio 1862 da Mons. Lauren",
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "recovery_year": 1858
+    },
+    {
+      "name": "Pierre de RUDDER",
+      "official_case_number": 8,
+      "recovery_source_snippet": "7 aprile 1875, a 52 anni. Miracolo riconosciuto il 25 luglio 1908 da Mons. Gustave Waffela",
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "recovery_year": 1875
+    },
+    {
+      "name": "Joachime DEHANT",
+      "official_case_number": 9,
+      "recovery_source_snippet": "13 settembre 1878, a 29 anni. Miracolo riconosciuto il 25 aprile 1908 da Mons. Thomas Loui",
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "recovery_year": 1878
+    },
+    {
+      "name": "Elisa SEISSON",
+      "official_case_number": 10,
+      "recovery_source_snippet": "29 agosto 1882, a 27 anni. Miracolo riconosciuto il 12 luglio 1912 da Mons. François Bonne",
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "recovery_year": 1882
+    },
+    {
+      "name": "Suor EUGENIA nata Marie MABILLE",
+      "official_case_number": 11,
+      "recovery_source_snippet": "21 agosto 1883, a 28 anni. Miracolo riconosciuto il 30 agosto 1908 da Mons. Philippe Meuni",
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "recovery_year": 1883
+    },
+    {
+      "name": "Suor JULIENNE",
+      "official_case_number": 12,
+      "recovery_source_snippet": "1° settembre 1889, a 25 anni. Miracolo riconosciuto il 7 marzo 1912 da Mons. Albert Negre,",
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "recovery_year": 1889
+    },
+    {
+      "name": "Suor JOSÉPHINE MARIE",
+      "official_case_number": 13,
+      "recovery_source_snippet": "21 agosto 1890, a 36 anni. Miracolo riconosciuto il 10 ottobre 1908 da Mons. Marie Jean Do",
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "recovery_year": 1890
+    },
+    {
+      "name": "Amélie CHAGNON (Religiosa del Sacro Cuore dal 25-09-1894)",
+      "official_case_number": 14,
+      "recovery_source_snippet": "21 agosto 1891, a quasi 17 anni, diventerà religiosa del Sacro Cuore vicino a Tornai (Belg",
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "recovery_year": 1891
+    },
+    {
+      "name": "Clémentine TROUVÉ (Suor Agnès-Marie)",
+      "official_case_number": 15,
+      "recovery_source_snippet": "21 agosto 1891, a 14 anni, diventerà Suor Agnès Marie. Miracolo riconosciuto il 6 giugno 1",
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "recovery_year": 1891
+    },
+    {
+      "name": "Marie LEBRANCHU (Signora Wuiplier)",
+      "official_case_number": 16,
+      "recovery_source_snippet": "20 agosto 1892, a 35 anni. Miracolo riconosciuto il 6 giugno 1908 da Mons. Amette, arcives",
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "recovery_year": 1892
+    },
+    {
+      "name": "Marie LEMARCHAND (Mrs Authier)",
+      "official_case_number": 17,
+      "recovery_source_snippet": "21 agosto 1892, a 18 anni. Miracolo riconosciuto il 6 giugno 1908 da Mons Amette, arcivesc",
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "recovery_year": 1892
+    },
+    {
+      "name": "Elisa LESAGE",
+      "official_case_number": 18,
+      "recovery_source_snippet": "21 agosto 1892, a 18 anni. Miracolo riconosciuto il 4 febbraio 1908 da Mons. Alfred Willie",
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "recovery_year": 1892
+    },
+    {
+      "name": "Sr MARIE DE LA PRÉSENTATION (Sylvie Delporte)",
+      "official_case_number": 19,
+      "recovery_source_snippet": "29 agosto 1892, a 46 anni. Miracolo riconosciuto il 15 agosto 1908 da Mons. François Delam",
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "recovery_year": 1892
+    },
+    {
+      "name": "Padre CIRETTE",
+      "official_case_number": 20,
+      "recovery_source_snippet": "31 agosto 1893, a 46 anni. Miracolo riconosciuto l’11 febbraio 1907 da Mons. Philippe Meun",
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "recovery_year": 1893
+    },
+    {
+      "name": "Aurélie HUPRELLE",
+      "official_case_number": 21,
+      "recovery_source_snippet": "21 agosto 1895, a 26 anni. Miracolo riconosciuto il 1° maggio 1908 da Mons. Marie Jean Dou",
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "recovery_year": 1895
+    },
+    {
+      "name": "Esther BRACHMANN",
+      "official_case_number": 22,
+      "recovery_source_snippet": "21 agosto 1896, a 15 anni. Miracolo riconosciuto il 6 giugno 1908 da Mons. Léon Amette, ar",
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "recovery_year": 1896
+    },
+    {
+      "name": "Jeanne TULASNE",
+      "official_case_number": 23,
+      "recovery_source_snippet": "8 settembre 1897, a 20 anni. Miracolo riconosciuto il 27 ottobre 1907 da Mons. René Franço",
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "recovery_year": 1897
+    },
+    {
+      "name": "Clémentine MALOT",
+      "official_case_number": 24,
+      "recovery_source_snippet": "21 agosto 1898, a 25 anni. Miracolo riconosciuto il 1° novembre 1908 da Mons. Marie Jean D",
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "recovery_year": 1898
+    },
+    {
+      "name": "Rose FRANÇOIS",
+      "official_case_number": 25,
+      "recovery_source_snippet": "20 agosto 1899, a 36 anni. Miracolo riconosciuto il 6 giugno 1908 da Mons. Jean Amette, Ar",
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "recovery_year": 1899
+    },
+    {
+      "name": "Padre SALVADOR",
+      "official_case_number": 26,
+      "recovery_source_snippet": "25 giugno 1900, a 39 anni. Miracolo riconosciuto il 1° luglio 1908 da Mons. A. Dubourg, ar",
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "recovery_year": 1900
+    },
+    {
+      "name": "Suor MAXIMILIEN (Nun of l’Espérance)",
+      "official_case_number": 27,
+      "recovery_source_snippet": "20 maggio 1901, a 43 anni. Miracolo riconosciuto il 5 febbraio 1908 dal cardinale Paulin A",
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "recovery_year": 1901
+    },
+    {
+      "name": "Marie SAVOYE",
+      "official_case_number": 28,
+      "recovery_source_snippet": "20 settembre 1901, a 24 anni. Miracolo riconosciuto il 15 agosto 1908 da Mons. François De",
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "recovery_year": 1901
+    },
+    {
+      "name": "Johanna BÉZENAC",
+      "official_case_number": 29,
+      "recovery_source_snippet": "8 agosto 1904, a 28 anni. Miracolo riconosciuto il 2 luglio 1908 da Mons. Henri J. Bougoin",
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "recovery_year": 1904
+    },
+    {
+      "name": "Suor SAINT HILAIRE (Lucie Jupin)",
+      "official_case_number": 30,
+      "recovery_source_snippet": "20 agosto 1904, a 39 anni. Miracolo riconosciuto il 10 maggio da Mons. Charles de Ligonnes",
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "recovery_year": 1904
+    },
+    {
+      "name": "Suor SAINTE BÉATRIX (Rosalie Vildier)",
+      "official_case_number": 31,
+      "recovery_source_snippet": "31 agosto 1904, a 42 anni. Miracolo riconosciuto il 25 marzo 1908 da Mons. Philippe Meunie",
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "recovery_year": 1904
+    },
+    {
+      "name": "Marie-Thérèse NOBLET",
+      "official_case_number": 32,
+      "recovery_source_snippet": "31 agosto 1905, a 15 anni. Miracolo riconosciuto l’11 febbraio 1908 dal cardinale Luçon, a",
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "recovery_year": 1905
+    },
+    {
+      "name": "Cécile DOUVILLE de FRANSSU",
+      "official_case_number": 33,
+      "recovery_source_snippet": "21 settembre 1905, a 19 anni. Miracolo riconosciuto l’8 dicembre 1909 da Mons. Charles Gib",
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "recovery_year": 1905
+    },
+    {
+      "name": "Antonia MOULIN",
+      "official_case_number": 34,
+      "recovery_source_snippet": "10 agosto 1907, a 30 anni. Miracolo riconosciuto il 6 novembre 1911 da Mons. Paul E. Henry",
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "recovery_year": 1907
+    },
+    {
+      "name": "Marie BOREL",
+      "official_case_number": 35,
+      "recovery_source_snippet": "21-22 agosto 1907, a 27 anni. Miracolo riconosciuto il 4 giugno 1911 da Jacques Gely, Vesc",
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "recovery_year": 1907
+    },
+    {
+      "name": "Virginie HAUDEBOURG",
+      "official_case_number": 36,
+      "recovery_source_snippet": "17 maggio 1908, a 22 anni. Miracolo riconosciuto il 25 novembre 1912 da Mons. François A. ",
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "recovery_year": 1908
+    },
+    {
+      "name": "Marie BIRÉ",
+      "official_case_number": 37,
+      "recovery_source_snippet": "5 agosto 1908, a 41 anni. Miracolo riconosciuto il 30 luglio 1910 da Mons. Clovis Joseph C",
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "recovery_year": 1908
+    },
+    {
+      "name": "Aimée ALLOPE",
+      "official_case_number": 38,
+      "recovery_source_snippet": "28 maggio, a 37 anni. Miracolo riconosciuto il 5 agosto 1910 da Mon. Joseph Rumeau, vescov",
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "recovery_year": 1909,
+      "date_validation": "Corrected from current official French list: recovery28May1909, recognition5August1910. Italian inheritedsnippet omitted recoveryyear.",
+      "date_source": "https://www.lourdes-france.com/miracles-et-guerisons/"
+    },
+    {
+      "name": "Juliette ORION",
+      "official_case_number": 39,
+      "recovery_source_snippet": "22 luglio 1910, a 24 anni. Miracolo riconosciuto il 18 ottobre 1913 da Mons. Clovis Joseph",
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "recovery_year": 1910
+    },
+    {
+      "name": "Marie FABRE",
+      "official_case_number": 40,
+      "recovery_source_snippet": "26 settembre 1911, a 32 anni. Miracolo riconosciuto l’8 settembre 1912 da Mons. Peree Ceze",
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "recovery_year": 1911
+    },
+    {
+      "name": "Henriette BRESSOLLES",
+      "official_case_number": 41,
+      "recovery_source_snippet": "3 luglio 1924, a 28 anni. Miracolo riconosciuto il 4 giugno 1957 da Mons. Paul Rémond, arc",
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "recovery_year": 1924
+    },
+    {
+      "name": "Lydia BROSSE",
+      "official_case_number": 42,
+      "recovery_source_snippet": "11 ottobre 1930, a 41 anni. Miracolo riconosciuto il 5 agosto 1958 da Mons. Jean Guyot, ve",
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "recovery_year": 1930
+    },
+    {
+      "name": "Suor MARIE MARGUERITE nata Françoise Capitaine",
+      "official_case_number": 43,
+      "recovery_source_snippet": "22 gennaio 1937, a 64 anni. Miracolo riconosciuto il 20 maggio 1946 dal cardinale Clement ",
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "recovery_year": 1937
+    },
+    {
+      "name": "Louise JAMAIN (Mrs Maître)",
+      "official_case_number": 44,
+      "recovery_source_snippet": "1° aprile 1937, a 22 anni. Miracolo riconosciuto il 14 dicembre 1951 da Mons. Maurice Felt",
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "recovery_year": 1937
+    },
+    {
+      "name": "Francis PASCAL",
+      "official_case_number": 45,
+      "recovery_source_snippet": "2 ottobre 1938, a 3 anni e 10 mesi. Miracolo riconosciuto il 31 maggio 1949 da Mons. Ch. d",
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "recovery_year": 1938
+    },
+    {
+      "name": "Gabrielle CLAUZEL",
+      "official_case_number": 46,
+      "recovery_source_snippet": "15 agosto 1943, al suo domicilio, all’età di 49 anni. Miracolo riconosciuto il 18 marzo 19",
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "recovery_year": 1943
+    },
+    {
+      "name": "Yvonne FOURNIER",
+      "official_case_number": 47,
+      "recovery_source_snippet": "19 agosto 1945, a 22 anni. Miracolo riconosciuto il 14 novembre 1959 dal cardinale Mons. F",
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "recovery_year": 1945
+    },
+    {
+      "name": "Rose MARTIN",
+      "official_case_number": 48,
+      "recovery_source_snippet": "3 luglio 1947, a 46 anni. Miracolo riconosciuto il 5 magio 1949 da Mons. Rémond, arcivesco",
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "recovery_year": 1947
+    },
+    {
+      "name": "Jeanne GESTAS",
+      "official_case_number": 49,
+      "recovery_source_snippet": "22 agosto 1947, a 50 anni. Miracolo riconosciuto il 13 luglio 1952 da Mons. Paul Richaud, ",
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "recovery_year": 1947
+    },
+    {
+      "name": "Marie Thérèse CANIN",
+      "official_case_number": 50,
+      "recovery_source_snippet": "9 ottobre 1947, all’età di 37 anni. Miracolo riconosciuto il 6 giugno 1952 da Mons, Jean D",
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "recovery_year": 1947
+    },
+    {
+      "name": "Maddalena CARINI",
+      "official_case_number": 51,
+      "recovery_source_snippet": "15 agosto 1948, a 31 anni. Miracolo riconosciuto il 2 giugno 1960 dal cardinale G.B. Monti",
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "recovery_year": 1948
+    },
+    {
+      "name": "Jeanne FRÉTEL",
+      "official_case_number": 52,
+      "recovery_source_snippet": "8 ottobre 1948, a 34 anni. Miracolo riconosciuto il 20 ottobre 1950 dal cardinale Roques, ",
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "recovery_year": 1948
+    },
+    {
+      "name": "Théa ANGELE (Suor Marie Mercédès)",
+      "official_case_number": 53,
+      "recovery_source_snippet": "20 maggio 1950, a 29 anni. Miracolo riconosciuto il 28 giugno 1961 da Mons. Pierre Marie T",
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "recovery_year": 1950
+    },
+    {
+      "name": "Evasio GANORA",
+      "official_case_number": 54,
+      "recovery_source_snippet": "2 giugno 1950, a 37 anni. Miracolo riconosciuto il 31 maggio 1955 da Mons. G. Angrisani, v",
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "recovery_year": 1950
+    },
+    {
+      "name": "Edeltraud FULDA (Signora Haidinger)",
+      "official_case_number": 55,
+      "recovery_source_snippet": "12 agosto 1950, a 34 anni. Miracolo riconosciuto il 18 maggio 1955 dal cardinale Innitzer,",
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "recovery_year": 1950
+    },
+    {
+      "name": "Paul PELLEGRIN",
+      "official_case_number": 56,
+      "recovery_source_snippet": "3 ottobre 1950, a 52 anni. Miracolo riconosciuto l’8 dicembre 1953 da Mons. Auguste Gaudel",
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "recovery_year": 1950
+    },
+    {
+      "name": "Fratel Léo SCHWAGER",
+      "official_case_number": 57,
+      "recovery_source_snippet": "30 aprile 1952, a 28 anni. Miracolo riconosciuto il 18 dicembre 1960 da Mons. François Cha",
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "recovery_year": 1952
+    },
+    {
+      "name": "Alice COUTEAULT nata GOURDON",
+      "official_case_number": 58,
+      "recovery_source_snippet": "15 maggio 1952 a 35 anni. Miracolo riconosciuto il 16 luglio 1956 da Mons. Henri Vion, ves",
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "recovery_year": 1952
+    },
+    {
+      "name": "Marie BIGOT",
+      "official_case_number": 59,
+      "recovery_source_snippet": "8 ottobre 1953 e 8 – 10 ottobre 1954, a 31 e 32 anni. Miracolo riconosciuto il 15 agosto 1",
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "recovery_year": 1953
+    },
+    {
+      "name": "Ginette NOUVEL nata Ginette Fabre",
+      "official_case_number": 60,
+      "recovery_source_snippet": "21 settembre 1954, a 27 anni. Miracolo riconosciuto il 31 maggio 1963 da Mons. Claude Dupu",
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "recovery_year": 1954
+    },
+    {
+      "name": "Elisa ALOI (Signora Varacalli)",
+      "official_case_number": 61,
+      "recovery_source_snippet": "5 giugno 1958, a 27 anni. Miracolo riconosciuto il 26 maggio 1965 da Mons. Francesco Fasol",
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "recovery_year": 1958
+    },
+    {
+      "name": "Juliette TAMBURINI",
+      "official_case_number": 62,
+      "recovery_source_snippet": "17 luglio 1959, a 22 anni. Miracolo riconosciuto l’11 maggio 1965 da Mons. Marc Lallier, a",
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "recovery_year": 1959
+    },
+    {
+      "name": "Vittorio MICHELI",
+      "official_case_number": 63,
+      "recovery_source_snippet": "1° giugno 1963, a 23 anni. Miracolo riconosciuto il 26 maggio 1976 da Mons. Alessandro Got",
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "recovery_year": 1963
+    },
+    {
+      "name": "Serge PERRIN",
+      "official_case_number": 64,
+      "recovery_source_snippet": "1° maggio 1970, a 41 anni. Miracolo riconosciuto il 17 luglio 1978 da Mons. Jean Orchampt,",
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "recovery_year": 1970
+    },
+    {
+      "name": "Delizia CIROLLI",
+      "official_case_number": 65,
+      "recovery_source_snippet": "il Natale 1976. Miracolo riconosciuto il 28 giugno 1989 da Mons. Luigi Bonmarito, vescovo ",
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "recovery_year": 1976
+    },
+    {
+      "name": "Jean Pierre BÉLY",
+      "official_case_number": 66,
+      "recovery_source_snippet": "9 ottobre 1987. Miracolo riconosciuto il 9 febbraio 1999 da Mons. Dagens, vescovo di Angou",
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "recovery_year": 1987
+    },
+    {
+      "name": "Anna SANTANIELLO",
+      "official_case_number": 67,
+      "recovery_source_snippet": "19-08-1952 all’età di 41 anni. Miracolo riconosciuto da Mons. Gerardo Pierro, arcivescovo ",
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "recovery_year": 1952
+    },
+    {
+      "name": "Suor Luigina TRAVERSO",
+      "official_case_number": 68,
+      "recovery_source_snippet": "23-07-1965. Guarigione riconosciuta il 11.10.2012 da Mons. Alceste Catella, vescovo di Cas",
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "recovery_year": 1965
+    },
+    {
+      "name": "Danila CASTELLI",
+      "official_case_number": 69,
+      "recovery_source_snippet": "04-05-1989. Guarigione riconosciuta il 20-06-2013 da Mons. Giovanni Giudici, vescovo di Pa",
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "recovery_year": 1989
+    },
+    {
+      "name": "Suor Bernadette Moriau",
+      "official_case_number": 70,
+      "recovery_source_snippet": "11 luglio 2008",
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "recovery_year": 2008
+    },
+    {
+      "name": "John Traynor",
+      "official_case_number": 71,
+      "recovery_source_snippet": "25–27 luglio 1923",
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "recovery_year": 1923
+    },
+    {
+      "name": "Antonia Raco (Lofiego)",
+      "official_case_number": 72,
+      "recovery_source_snippet": "July/August 2009 initial improvement, later progressive normalization",
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "recovery_year": 2009
+    }
+  ],
+  "counts_by_recovery_decade": {
+    "1850": 7,
+    "1860": 0,
+    "1870": 2,
+    "1880": 3,
+    "1890": 13,
+    "1900": 13,
+    "1910": 2,
+    "1920": 2,
+    "1930": 4,
+    "1940": 7,
+    "1950": 11,
+    "1960": 2,
+    "1970": 2,
+    "1980": 2,
+    "1990": 0,
+    "2000": 2,
+    "2010": 0,
+    "2020": 0
+  }
+}

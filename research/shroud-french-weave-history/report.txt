@@ -1,0 +1,142 @@
+FRENCH REWEAVING, HISTORICAL MENDING AND THE TURIN SHROUD
+Research report, 27 October 2026
+Prepared for integration into the main Shroud research project. This report does not change the shared argument document or spreadsheet.
+
+FINDING
+
+Yes: the user's broader historical point has real support. There were specialist European repairers before the sixteenth century; contemporary dictionaries explicitly include linen; royal households employed skilled weavers; and the Shroud itself received careful monastic needlework and added textiles. It would be historically wrong to portray sophisticated repair as an implausible modern invention.
+
+The narrower proposition requires more: that a substantial, matching replacement was incorporated in the actual 1988 strip, in fine 3:1 herringbone linen, and escaped the relevant inspections. General repair history makes this possible enough to investigate; it does not, by itself, demonstrate that occurrence or invalidate the carbon measurement. The disputed inference concerns representativeness of the sample, not whether radiocarbon physics works.
+
+I located period dictionary descriptions and a scholarly history of skilled reweaving. I did not locate a sixteenth-century step-by-step manual for the exact fine-linen repair asserted in the Shroud literature, nor a documented chain transmitting that particular technique through the Chambéry convent. That is a bounded finding about this search, not a claim that no such record exists.
+
+1. TERMS THAT SHOULD NOT BE COLLAPSED
+
+Darning restores a worn area by interlacing new yarns with surviving structure; it need not match every original crossing. Pattern darning can imitate a weave more closely. Inweaving/reweaving reconstructs lost warp or weft and attempts to match the surrounding structure. A sewn patch overlays or underlays existing cloth; it is not the same operation as replacing its original weave. A lining supports a larger area and introduces stitches without necessarily replacing any original linen.
+
+A concealed seam joins two edges unobtrusively; the medieval/early modern word rentraire can describe this and related repairing. Therefore a historical mention of rentraire alone does not specify a modern thread-by-thread replacement procedure. Tapestry rentraiture can also mean closing the intentional slits between discontinuous coloured wefts.
+
+Modern trade usage of French reweaving/invisible mending generally promises inconspicuous garment repairs. 'Invisible' may mean difficult for a customer to see, rather than undetectable by a conservator or microscope. The label is securely attested in twentieth-century manuals; a medieval or sixteenth-century use of the exact English trade label was not located.
+
+Reknitting restores loops in knitted fabric, unlike the Shroud's woven structure. Splicing/grafting joins yarn ends or fibre bundles; demonstrating one splice does not establish the size or date of a woven repair. Tapestry restoration is a specialist domain: thick, weft-faced, often wool/silk structures can conceal joins differently from thin, dense linen twill.
+
+2. INDEPENDENT HISTORICAL EVIDENCE
+
+A. Medieval craft vocabulary, through institutional lexicography
+ATILF, the CNRS/Université de Lorraine language laboratory, publishes the Dictionnaire du Moyen Français (DMF). Its entry RENTRAIRE cites a 1387 Paris trade text requiring suitable, colour-matched wool or silk for rentraire aumuces (ecclesiastical shoulder garments), and a 1456 trade text concerning repair of tapestries, serges and related work. The entry RENTRAYEUR cites a 1470 tapestry repairer. These are scholarly transcriptions of historical records, not records independently examined in their original archives during this pass.
+
+URL: https://www.atilf.fr/dmf/PDF/dmf2015_v24.pdf
+Project and institutional responsibility: https://www.atilf.fr/ressources/dmf/
+Entries: RENTRAIRE, RENTRAYEUR, RENTRAYURE. The PDF full download timed out; the indexed institutional text was readable. Do not describe it as a locally archived complete PDF.
+
+The TLFi entry additionally traces a concealed edge join to a 1404 Tournai record; its earliest noun citations include Palsgrave 1530 p200 and Estienne 1549. Those original printed pages were not obtained here. This is useful chronology, but not an exact weave specification.
+https://www.cnrtl.fr/definition/rentraire
+https://www.cnrtl.fr/definition/rentraiture
+
+B. Contemporary primary dictionaries, including linen
+Randle Cotgrave, A Dictionarie of the French and English Tongues (London,1611), entries RENTRAICTURE/RENTRAIEUR on digital scan814 and RENTRAIRE on815, describes drawing and darning. Most importantly, rentraieur explicitly includes a 'mender of rents in linnen, or woollen clothes.' The original scan814 was downloaded and visually checked; it is not only a modern paraphrase. This establishes specialist linen repair near the proposed period. It does not specify 3:1 herringbone, amount replaced, an undetectable reverse, or microscopic invisibility.
+https://en.wikisource.org/wiki/Page:A_dictionarie_of_the_French_and_English_tongues_-_Cotgrave_-_1611.djvu/814
+https://en.wikisource.org/wiki/Page:A_dictionarie_of_the_French_and_English_tongues_-_Cotgrave_-_1611.djvu/815
+Local: cotgrave-1611-page814.jpg and815.jpg plus their HTML transcriptions.
+
+Jean Nicot, Thresor de la langue françoyse (1606), p557, entry RENTRAIRE, gives the Latin 'Suturam in vnguem committere, Bud.' Its digital text was recovered through the ATILF/University of Chicago ARTFL dictionary service. This is a genuine early-modern dictionary reference for close joining, not a procedural manual.
+https://portail.atilf.fr/cgi-bin/dico1look.pl?strippedhw=rentraire&dicoid=NICOT1606
+Local: nicot-1606-rentraire.html.
+
+The Académie française's current dictionary dates rentraiture to the sixteenth century and rentraire to the fifteenth, distinguishing unobtrusive joining from present textile-repair senses. The coarser period dates in this dictionary are compatible with, and less specific than, DMF's archival attestations.
+https://www.dictionnaire-academie.fr/article/A9R1777
+https://www.dictionnaire-academie.fr/article/A9R1776?history=0
+
+C. Academic conservation history
+Frances Lennard, then MA Textile Conservation programme leader, Textile Conservation Centre, Winchester School of Art, University of Southampton, reviews early repair in 'Preserving image and structure: tapestry conservation in Europe and the United States', Reviews in Conservation7,43–53. The repository calls it 2007; conservation bibliographies cite 2006. Use the repository's title/issue/pages and note the date discrepancy rather than inventing two independent papers.
+
+Her author manuscript's 'Historical repair' section says skilled weavers replaced damaged areas for centuries, that the English Royal Wardrobe employed such weavers, and that close matches to original manufacture can make old interventions difficult to identify. It also explains that later, cruder interventions are a different phase of repair history. This is strong independent academic support for sophisticated historical reweaving. It is about tapestry structures, not a demonstration on fine herringbone linen.
+https://eprints.soton.ac.uk/38034/
+https://eprints.soton.ac.uk/id/eprint/38034/2/38034.doc
+Local full author manuscript: lennard-history-original.doc/.txt. It lacks reliable journal pagination; locate by section, not an invented page number.
+
+Rosa Costantini, University of Glasgow School of Culture and Creative Arts/College of Arts, PhD 2021, Strain across historic tapestries, printed pp35–36, independently reviews historical restoration, citing French skilled repairers from the late fourteenth century and early Tudor maintenance. Her references lead to Alexandre Fiette 1997 and Maria Hayward 2006. This is a thesis review of those sources, not independent physical evidence of each historical repair.
+https://theses.gla.ac.uk/82286/
+https://theses.gla.ac.uk/82286/9/2021CostantiniPhD.pdf
+Local: costantini-tapestry-2021.pdf/.txt.
+
+Priority underlying references: Alexandre Fiette, 'Tapestry restoration: An historical and technical survey', The Conservator21(1997),28–36, DOI10.1080/01410096.1997.9995113; Maria Hayward, 'Fit for a king? Maintaining the early Tudor tapestry collection', in Lennard/Hayward 2006,pp13–19. Fiette's article and the full textbook were found in Akron search but not accessible as full text through the available holdings. No ILL was requested. The public28-page textbook preview supplies contributors/front matter and timeline, but stops before the relevant chapters. Do not claim those chapters were directly read.
+
+3. MONASTIC WORK: WHAT IS ACTUALLY CONNECTED
+
+The Poor Clares' account of the 1534 Shroud repair, transmitted in Léon Bouchage's 1891 Le Saint Suaire de Chambéry à Sainte-Claire-en-Ville, survives here in a four-page English translation. It describes an embroiderer setting the Holland support on a frame, followed by the sisters laying out and sewing the Shroud around its perimeter. It names abbess Louise de Vargin. The account establishes direct monastic participation, professional assistance, a frame, stitches and added backing. It does not describe invisibly reweaving the carbon-dating corner.
+https://www.sindone.info/CLARES.PDF
+Local: poor-clares-1534-translation.pdf/.txt; PDFp1 for frame/sewing. Translation author/date unspecified. I did not obtain a scan of Bouchage 1891 or the original sixteenth-century manuscript. Grenoble's public-library catalogue confirms Bouchage 1891,38pp, a communication to the 1890 Savoy learned-societies congress:
+https://bm-grenoble.fr/detailstatic.aspx?RSC_BASE=SYRACUSE&RSC_DOCID=232562&TITLE=le-saint-suaire-de-chambery-a-sainte-claire-en-ville-avril-mai-1534-par-m-l-abbe-leon-bouchage
+
+Mechthild Flury-Lemberg's 2003 official conservation account, printed pp17–18, documents historical border silks and stitches catching only one or two original threads; her 2007 paper describes small backing stitches and later coarse brown-yarn darning. These are physical as well as documentary evidence of human additions. The existing main-project copy of the 2003 book was consulted; it was not duplicated here.
+https://www.sindone.it/es/_files/ugd/6a2f2b_e9e883c2d4e245409f5233314aabcd95.pdf?index=true
+
+An independent period monastic comparison is the Gruuthusemuseum's dated 1599 Passion velum. Curator Aleid Hemeryck of Gruuthusemuseum/Musea Brugge describes bobbin lace and lacis associated with an abbess and sister of Spermalie Convent, with identified initials and archival documentation. It supports fine convent needlework in this period. Lacis is darning on net; it is not proof of linen-twill replacement or a Chambéry training lineage.
+https://www.codart.nl/feature/curators-project/an-innovative-presentation-of-lace-in-a-renewed-gruuthusemuseum/
+
+Thus: there is a genuine historical culture of skilled ecclesiastical needlework and direct monastic work on this cloth. A specific uninterrupted monastic 'French weave' transmission chain has not been established by these sources.
+
+4. AUDIT OF THE PROPONENTS' HISTORICAL CITATION CHAIN
+
+Benford and Marino's 2002 Historical Support paper quotes Thomas P. Campbell, then Metropolitan Museum of Art Associate Curator of European Sculpture and Decorative Arts, in a17May 2002 personal communication about skilled court weavers/embroiderers. The email is evidence of a specialist opinion, not a published sixteenth-century manual.
+https://www.shroud.com/pdfs/histsupt.pdf
+
+The 2005 historical paper cites E. E. Tremayne's 1908 biography of Margaret of Austria,p283, on the sophistication of the tapestry industry, and Campbell's 2002 Tapestry in the Renaissance,p462, for French master weavers. The assertion that most or all could therefore invisibly repair the Shroud is Benford/Marino's extrapolation. The precise claim of sixteenth-century 'French weaving' invisible on both sides comes chiefly from modern artisan Michael Ehrlich, proprietor of Without A Trace, in personal communication. Ehrlich is a relevant practitioner, not a university textile historian whose archival demonstration has been supplied.
+https://www.shroud.com/pdfs/benfordmarino.pdf PDFpp4–7, referencespp15–16.
+
+Robert Buden, president of Tapestries & Treasures, contributes practical restoration descriptions and images to the 2002 paper. Its photographs of seventeenth-century Aubusson textiles do not date the repairs themselves to the seventeenth century. An old textile with a recent repair would still produce the same illustration.
+
+The proposed 1531 royal intervention, Margaret's bequest and a possible court artisan are a historical scenario. No invoice, commission, convent instruction or repair record identifying this corner was found. The authors' shift from an initial post 1532-fire scenario to a 1531 scenario must not be mistaken for two documented repairs.
+
+The 2008 conference paper repeats the Ehrlich claim through Balsiger/Minor2007p159. That is another publication of the claim, not independent contemporary documentation.
+https://www.shroud.com/pdfs/ohiomarino2.pdf discussion near printedpp295–296.
+
+The public Met catalogue confirms Campbell's 2002 book and its large downloadable PDF, but the full file was not successfully retrieved here. Tremayne 1908 public-domain full HTML was saved; it is a 1908 secondary history, not a sixteenth-century manual.
+https://www.metmuseum.org/met-publications/tapestry-in-the-renaissance-art-and-magnificence
+https://www.gutenberg.org/cache/epub/38528/pg38528-images.html
+
+Modern terminology check: TATTER's library describes its 1951 Fabricon and Frenway manuals. This is useful direct evidence of its holdings and twentieth-century trade labels. Its separate Shroud-history assertions are not used as academic evidence here.
+https://tatter.org/fabricon-invisible-reweaving-and-a-controversial-correspondence-course/
+
+5. MATERIAL EVIDENCE AT THE SAMPLE SITE
+
+Raymond N. Rogers, Los Alamos National Laboratory/University of California affiliation printed in his paper, Thermochimica Acta425(2005),189–194, reports a coating/dye/mordant and cotton associated with the radiocarbon/Raes area and interprets it as a repair. His paper should not be dismissed as Raes-only: p190 says he received both warp and weft threads in December 2003 that Luigi Gonella reported taking from the centre of the 1988 sample before distribution. That attribution and custody are material to the inference. Rogers did not personally cut them from the cloth. Separate Raes material came from the adjacent 1973 sample;1978 tapes supplied main-cloth comparisons. His chemical findings are positive evidence for heterogeneity if provenance and analysis are accepted; they are not a direct dated repair record or a complete corner weave map.
+https://doi.org/10.1016/j.tca.2004.09.029
+Local: rogers-2005.pdf/.txt.
+
+John L. Brown, retired principal research scientist, Georgia Tech Research Institute/Georgia Institute of Technology, examines selected Raes threads in 2005. Optical/SEM observations show coatings and cotton and support his repair interpretation. These are selected 1973 Raes threads, not a retained Arizona fragment or the entire consumed 1988 material. Figures and chemical interpretation can be assessed, but the paper does not establish a historical artisan or date of sewing.
+https://www.shroud.com/pdfs/brown1.pdf,PDFpp1–4,figures
+
+Mechthild Flury-Lemberg, textile conservator and 2002 conservation leader, argues in 2007 that replacing weave is feasible but a repair in fine linen,38warp/25weft threads per cm, would leave detectable joins, particularly on the reverse. She contrasts coarse tapestry, gives real napkin examples and a1:1 Shroud-copy repair. Her physical objection concerns visibility in this weave and actual traces, not the existence of skilled past weavers. She reports no such repair in the surviving cloth/front or back. Her inspection occurred after the 1988 strip's removal: it cannot itself inspect the material already consumed.
+https://www.shroud.com/pdfs/n65part5.pdf,PDFpp2–5 illustration captionspp6–7.
+
+Crucial nuance: Flury-Lemberg also regards handling grime/coal dust as a problem for C14 here and calls the method unsuitable in this case. Do not present her rejection of invisible reweaving as unqualified endorsement of the 1988 date. Her contamination assertion must be assessed against cleaning and quantitative chemistry independently of her weave expertise.
+
+Rachel A. Freer-Waters, Arizona State Museum/University of Arizona, and A. J. Timothy Jull, NSF Arizona AMS Laboratory and Department of Geosciences/University of Arizona, Radiocarbon52(2010),1521–1527, examine retained A1B, about0.5×1cm,12.39mg originally, split from Arizona's 1988 allocation. They report no overall dye/coating supporting replacement; a few cotton fibres were observed, with ambiguous surface versus bundle context. This is not proof that no cotton exists anywhere, but a directly provenanced counterobservation to a pervasive dyed-cotton repair in Arizona's portion.
+https://doi.org/10.1017/S0033822200056277,pp1522–1526
+
+Freer-Waters (unaffiliated Colorado in 2026) and Jull (University of Arizona) extend inspection to A1A and A1B in 2026. Approximate fragment dimensions14×3.5mm and9.9×4mm; microscopy finds flax and compatible3/1twill, twist and density. SEM covers only approximately2×1.5mm of A1A; A1B was not SEM-sampled. Authors explicitly limit extrapolation from these small pieces to all the cloth; local debris nonuniformity is possible. No cotton observed in that investigation does not erase 2010's few cotton observations. These papers share authors and A1B; do not count them as independent examinations of unrelated Shroud locations. Nor should they be ignored: A1A is an additional retained fragment tied to the original allocation.
+https://doi.org/10.1038/s40494-026-02530-7,PDFpp1–4,Discussionp5
+
+6. CALIBRATED CONCLUSIONS FOR THE MAIN ARGUMENT
+
+Established: sewn patches/backing, repeated stitching and added textiles; skilled period repairers; early modern linen mending vocabulary; sophisticated royal tapestry repair; actual convent needlework.
+
+Historically plausible, with independent support: people of the proposed period possessed the motivation, resources and skills to make excellent repairs, sometimes difficult for later observers to identify. The alternative is not 'medieval people could not mend well.'
+
+Not established by the historical material: a specified French-reweaving procedure invisibly replacing a substantial amount of thin3:1linen on both sides; its Chambéry monastic lineage; its date, boundaries and new/old fraction at the 1988 strip.
+
+Disputed direct evidence: Rogers/Brown's chemical and microscopic anomalies versus retained-Arizona microscopy and the conservator's structural observations. Evaluating custody, exact locations, inspection sensitivity and cleaning is essential. A single sampling location is a shared representativeness risk even with multiple laboratories; historical repairs make that risk legitimate to examine. It is a stronger claim to declare that risk a demonstrated fatal flaw or that the measurement established nothing.
+
+Best defensible wording: 'The Shroud has documented repairs and centuries of handling. Sophisticated mending was historically available, including specialist linen repair. The 1988 laboratories measured material from one corner, so whether that material represents the original cloth remains a distinct question. Some chemical studies support a repaired or atypical sample; direct inspections of retained Arizona fragments argue against substantial reweaving there. New, well-characterized samples from separated locations would directly address that disagreement.'
+
+This wording gives the repair argument its actual positive evidence without promoting a general historical possibility into a proven sample-site event.
+
+7. ACCESS AND REMAINING GAPS
+
+Authenticated Chrome profile Danny/University of Akron was used through the native CUA interface. Searches: French reweaving; Fiette DOI; Lennard title; Tapestry Conservation/Lennard; ISBN0750661844. Older manuals, Fiette and the textbook were listed only beyond holdings/Get it for me. The Lennard resolver opened a generic JSTOR ISSN search; authenticated title search returned no result. No ILL, purchase, account changes, messages, CAPTCHA solving or authenticated HTTP was used. A complete public Southampton author manuscript supplied the Lennard text instead.
+
+Not obtained: original 1387/1456 guild manuscript images; Palsgrave1530p200/Estienne 1549 scan; Bouchage 1891 scan or 1534 autograph; exact historical manual asserted in the video; full Fiette/Hayward chapters; a dated pre 1600 fine3:1linen repair with fully mapped front/back and microscopy. Those are specific next research targets if further archival work is desired.
+
+Local source folders contain valid retrieved files and extraction texts. Failed downloads are labelled rather than passed off as PDFs. The ledger records access level and qualifications.

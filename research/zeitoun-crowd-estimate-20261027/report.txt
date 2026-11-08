@@ -1,0 +1,166 @@
+ZEITOUN CROWD VALIDATION: GEOGRAPHY, CONTEMPORARY COUNTS, AND UNIQUE VIEWERS
+Research date: 27 October 2026. Original calculation, not a census or statistical confidence interval.
+
+RESULT
+Contemporary evidence strongly supports crowds of many thousands and tens of thousands. The larger reported peak of 250,000 is not physically excluded by the surrounding neighborhood, but the existing photographs and records examined do not establish a measured occupied footprint or a headcount of that size. More than one million different observers over the entire period is mathematically plausible. It is not yet a deduplicated count or a probability-based finding that one million unique people actually saw an apparition.
+
+The important new evidence is concrete: a contemporary newspaper gives the opposite garage's area, and a 1970 newspaper prints an attendance/ticketing petition. These give much firmer anchors than multiplying an unverified daily average by an assumed number of nights.
+
+1. WHAT THE CONTEMPORARY RECORDS ACTUALLY COUNT
+
+[A] Al-Ahram, 6 May 1968, Hassan Abu al-Aynayn, reporting on Cairo governor Saad Zayed's inspection with security officials and engineers. The garage opposite the church is described as exceeding FOUR feddans, therefore exceeding approximately 16,800 square meters. PART of the property was to receive wooden viewing stands. The report also describes traffic restrictions on Tomanbay, pruning, narrow alleys and clearing the area. It includes a contemporary traffic sketch, useful for road topology but without a scale. The acreage and the word 'part' were checked visually in the original Arabic scan, not inferred from a modern translation. This is gross property area, not proven usable viewing area. [S1, S3]
+
+[B] Al-Fidaa, 3 August 1970, page carrying 'From the Church of the Virgin at Zeitoun: a letter from the Pope to the Governor of Cairo.' The newspaper reproduces a petition of Pope Kyrillos VI to governor Wagih Abaza. It says admission was ten piastres, visitors sometimes exceeded TEN THOUSAND in one night, the garage had been rented for visitors, and HALF had been leased to the Suez Canal Authority more than a year earlier. Receipts over two years were 'thousands of pounds,' without an exact sum. The printed Arabic passage was visually checked. The petition concerns a restricted ticketed context; it is not a count of everybody in public streets. Nor does ten thousand contradict a much larger peak elsewhere. Exact accounts, if surviving, could yield paid admissions: at 0.1 Egyptian pound, each pound represents ten tickets. Paid admissions still do not identify unique people or successful observers. [S2]
+
+[C] William Farid Basili, Director of Inquiries and Complaints, Egyptian Ministry of Tourism, report dated 30 April 1968: more than forty thousand staying in streets from sunset to dawn, with people occupying four streets. This is a contemporary official's estimate and description, not a disclosed counting survey. It corroborates the order of tens of thousands. The modern archive republishes the report; its institutional provenance should not be mistaken for independently audited counting. [S4]
+
+[D] Bishop Gregorios, church compilation 'Scenes of the Apparition': a first-person statement of being among no fewer than 250,000 people. That particular passage describes luminous birds; it does not itself state that 250,000 individually identified a full Marian figure at once. The modern transcription's Coptic/Gregorian calendar labels are inconsistent, so no exact calendar date is relied upon here. The figure is an attributed contemporary crowd estimate. [S5]
+
+[E] Al-Ahram, 7 May 1968, Ezzat El-Saadani: transport and commerce figures include 92 trains, usual 900 passengers versus more than 1,500, 50 buses, 150 tramcars, and approximately 150,000 bottles of soft drink per night. The article attributes the railway comparison to ticket collectors; it is not the original railway ledger. The reporter explicitly says there was NO APPARITION on the night described. Transport movements and sales support a major pilgrimage influx but cannot be summed as unique people: routes can involve transfers, trains include ordinary passengers, bottles need not correspond one-for-one to visitors, and attendees need not become observers. The original Arabic numbers were checked separately by the parent investigation. [S6]
+
+Cynthia Nelson's own visits, described in her 1973 anthropological account, include approximately 1,000–1,500 people on 15 April and later very crowded conditions. Different dates and parts of the gathering can have very different attendance. They should not be forced into one invariant nightly number. [S7]
+
+2. GEOGRAPHICAL CHECK
+
+The original apparition church is OpenStreetMap way 922977953, approximately 30.10467 N, 31.31544 E. The much larger present cathedral is a different building/parcel, roughly 85 meters to its east, OSM way 28847332. Some tourist-map coordinates instead locate a site kilometers away; those were excluded.
+
+Modern OSM data were downloaded directly from the public OSM API for a surrounding bounding box. The data are centerlines, not a 1968 cadastral survey, and contain no useful road-width tags. Current public Esri imagery was used for an approximate width sanity check; its acquisition date has not been established. Manual roadside/fence-to-roadside cross-sections suggest roughly 26–31 meters on Tomanbay and about 16 meters on Sinan Pasha at the selected modern locations. These cannot establish 1968 widths, nor exclude parked vehicles, trees or other obstacles.
+
+The contemporary 6 May 1968 traffic sketch confirms the old church, opposite garage and named roads (Tomanbay, Sinan Pasha, Tawfiq Khalil, Selim I). It is schematic, rotated relative to a north-up map, without scale. It therefore supports historical topology but cannot georegister the exact garage boundary. No claim is made that the entire modern neighborhood was occupied in 1968.
+
+The current cathedral polygon has an area of roughly 9,222 square meters in OSM. It is a convenient footprint proxy in one sensitivity exercise, NOT a demonstrated boundary of the entire original garage. The original >4-feddan garage was larger. Do not add the modern parcel and the entire historical garage as if they were separate, non-overlapping viewing grounds. The 1970 half-lease also changes available land over time.
+
+3. CROWD DENSITY AND AREA REQUIRED
+
+Professor G. Keith Still, identified by the Chartered Institution of Highways and Transportation as visiting professor of crowd science at the University of Suffolk, describes 1–2 people per square meter as typical and 3–4 as congested. The University of Greenwich Fire Safety Engineering Group's full-scale experiments, summarized by the UK Department for Transport, used densities of 3 and 4 people per square meter with 896 volunteers across 95 trials. These give defensible scenario values, not retrospective measurements of Zeitoun. They are not a safety approval for historic crowd conditions. [S8, S9]
+
+A 250,000-person simultaneous crowd requires:
+  2 people/m²: 125,000 m² actually occupied.
+  3 people/m²: 83,333 m² actually occupied.
+  4 people/m²: 62,500 m² actually occupied.
+At 75% usable land these require gross areas of approximately 166,667 / 111,111 / 83,333 m² respectively. Nightly turnover can produce more entrances than simultaneous occupancy, but then the claim must be nightly attendance rather than a snapshot crowd.
+
+The historical garage benchmark alone (16,800 m²) holds 50,400 people only if ALL of that reference area is usable and occupied at 3/m². If half is available and 75% of that is occupied, the result is 18,900. At the very dense 4/m² and 90% use of all 16,800 m², it is 60,480. These illustrate why a large garage matters while not establishing that it supplied all this capacity.
+
+4. STREET-SPACE SCENARIOS
+
+Road centerlines were buffered by assumed widths, united so intersections are not counted twice, and clipped to illustrative radii at 0.5-meter raster resolution. Local projection: longitude meters = 111,320*cos(30.10467 degrees), latitude meters = 111,320. Modern street widths are assumptions bounded by the imagery sanity check; smaller streets use broad ranges.
+
+Width assumptions (low / middle / high, meters):
+  Tomanbay 20 / 26 / 32
+  major roads 16 / 22 / 28
+  Sinan and other tertiary streets 12 / 16 / 20
+  local streets 6 / 9 / 12
+  service roads/alleys 3 / 4.5 / 6
+  footpaths 2 / 3 / 4
+
+Paired illustrations (LOW/MIDDLE/HIGH are assumption bundles, NOT confidence bounds):
+  Four named approach streets within 150 m: gross street area 9,465 / 12,604 / 15,441 m².
+  Including zero / half / full modern-cathedral proxy, with usable fractions 60% / 75% / 90% and densities 2 / 3 / 4 people per m², conditional capacities are 11,358 / 38,583 / 87,080.
+
+  All mapped streets within 250 m: gross street area 36,154 / 51,150 / 65,500 m².
+  Under the same assumption bundles, capacities are 43,385 / 123,838 / 261,381.
+
+  A 400 m neighborhood is also retained in the raw sensitivity table as a stress test; it is not an established occupied extent, and it must NOT be used to validate 250,000 merely by increasing the radius until enough area exists.
+
+Interpretation: the immediate approaches and a substantial opposite viewing ground comfortably make crowds in the tens of thousands spatially credible. A broad, dense gathering spilling into nearby streets can reach the order of a hundred thousand or more. A 250,000 capacity is achievable under the dense broad-footprint assumptions; however, we have NOT documented that those side streets were occupied to that extent, that views were unobstructed, or that 1968 geometry equals today's. Many side streets have no direct church sight line. Roofs and balconies are unmodeled. A capacity scenario is not an observed headcount.
+
+There is consequently no sound geometric refutation of the quarter-million claim here, and no sound geometric verification of the actual count either. The historical evidence supports presenting it as 'contemporary estimates reached 250,000,' not '250,000 verified independent eyewitnesses.'
+
+5. APPEARANCE COUNT IS NOT NUMBER OF CROWDED NIGHTS
+
+Fr Anthony Mourad's episode 601 account speaks of 94 appearances and more than a million unique viewers. This is an attributed retrospective estimate, not an identified deduplication exercise. [S10]
+
+Eric Ouellet's 12 October 2011 quantitative reconstruction is particularly revealing: 27 early appearances + 50(?) extrapolated for May 1968 to mid-1969 + 17 later appearances = approximately 94. He explicitly links only 34 appearances to specific sources and acknowledges several appearances can occur on one night. His 94 therefore must not become '94 separately documented nights.' This does not disprove 94 occurrences; it limits the denominator available for arithmetic. [S11]
+
+6. WHAT WOULD IT TAKE TO REACH ONE MILLION UNIQUE ACTUAL OBSERVERS?
+
+Define:
+ N = number of DISTINCT nights on which an apparition occurred;
+ A = average number actually seeing the relevant phenomenon on such nights;
+ r = average number of successful observing nights per different observer;
+ U = unique observers.
+Then U = N*A/r, because N*A counts successful observer-visits. Waiting visitors on unsuccessful nights are excluded. Repeated glimpses the same night must not become separate people.
+
+Examples, all conditional:
+  40 distinct nights * 50,000 actual observers / 2 successful visits each = 1,000,000 people.
+  The same nights and crowd, but 5 successful visits each = 400,000 people.
+  60 nights * 75,000 actual observers / 4 successful visits each = 1,125,000 people.
+  90 nights * 50,000 / 3 = 1,500,000, but 90 distinct nights is not established by a count of 94 appearances.
+
+Thus >1 million different observers does not require impossible assumptions. The same plausible-scale nightly numbers can also yield substantially fewer than one million when repeat visitation is high. We lack measured N, A, and r, so no defensible posterior probability or confidence interval follows. A retrospective person saying 'unique' does not supply a repeat-visitor adjustment.
+
+The strongest present formulation is: 'The events attracted very large, recurrent crowds; contemporary estimates ran from tens of thousands to a claimed peak around 250,000. Later estimates place the total number of viewers above a million, but a count of distinct individuals has not been established.' If distinguishing peak from total in the argument brief, retain this distinction explicitly.
+
+7. WHAT WOULD ADVANCE THE COUNT MOST?
+
+Highest-value records are: the May 1968 committee's ticket books and income accounts; the garage lease and parcel plan; transport-authority station-by-station ticket or extra-service records with direction and dates; original police crowd-control maps and counts; dated high-angle wide photographs with visible occupied boundaries; and a registry separating episodes, nights, named witnesses and viewing conditions. The 1970 petition is a concrete lead toward the first two, not evidence those accounts have already been located. No municipal, rail, or police original count ledger was located during this pass. No external contact was made.
+
+FILES
+zeitoun-space-and-crowds.png: original map/diagram; modern geography clearly labeled.
+capacity-summary.csv: nine illustrative paired scenarios.
+capacity-sensitivity.csv: all combinations of modern widths/usable fractions/density/modern parcel share.
+historical-garage-sensitivity.csv: separate conditional use of the >4-feddan source.
+area-required.csv: area required for proposed crowd sizes.
+unique-viewer-sensitivity.csv: conditional nights/crowds/repeat-visit arithmetic.
+modern-width-sanity-checks.csv and width-cross-sections-corrected.png: approximate modern checks.
+geometry.json: source centerlines, projection, width assumptions, summary.
+build-report-assets.py: reproduces diagram and supplementary calculations from geometry.json.
+Original Arabic scans, verified crops, raw OSM data, imagery provenance and downloaded method sources are retained alongside source-register.json.
+
+SOURCE REGISTER / URLS
+[S1] Al-Ahram, 6 May 1968, Hassan Abu al-Aynayn, original Arabic scan and modern transcription hosted by the Zeitoun church archive:
+https://ourladyofzeitoun.com/ar/newspaper/الأهرام-6مايو-1968/
+https://ourladyofzeitoun.com/en/newspaper/al-ahram-newspaper-may-6-1968/
+Original scan and acreage/traffic crops saved locally. The scan page heading appears 3 despite a modern filename containing p2.
+
+[S2] Al-Fidaa, 3 August 1970, original petition passage (page image 5), archive:
+https://ourladyofzeitoun.com/ar/newspaper/جريدة-الفداء-3-اغسطس-1970/
+https://ourladyofzeitoun.com/en/newspaper/al-fida-newspaper-3-august-1970/
+Original scan and fida-petition-crop.png saved locally.
+
+[S3] Egyptian Ministry of Agriculture and Land Reclamation, Sustainable Agricultural Development Strategy towards 2030 (Cairo, 2009), printed page 4: 1 feddan = 0.420 hectare = 4,200 m². Official Egyptian strategy hosted by FAOLEX:
+https://faolex.fao.org/docs/pdf/egy141040E.pdf
+
+[S4] William Farid Basili, Director of Inquiries and Complaints, Ministry of Tourism, report dated 30 April 1968, republished in church archive:
+https://ourladyofzeitoun.com/en/report/ministry-of-tourism-department-of-inquiries/
+Local parent-source text: ../zeitoun-investigation-records-20261027/sources/ministry-en.txt
+
+[S5] Bishop Gregorios, 'Scenes of the Apparition,' church archive:
+https://ourladyofzeitoun.com/en/report/scenes-of-the-apparition/
+Local parent-source text: ../zeitoun-independence-audit-20261027/sources/scenes.txt
+
+[S6] Ezzat El-Saadani, Al-Ahram, 7 May 1968, archive:
+https://ourladyofzeitoun.com/en/newspaper/al-ahram-newspaper-may-7-1968/
+Original scan and visually checked Arabic crops in ../zeitoun-crowd-validation-20261027/.
+
+[S7] Cynthia Nelson, anthropologist, 'The Virgin of Zeitoun' (1973), firsthand account. Text held by parent-source audit:
+../zeitoun-independence-audit-20261027/sources/nelson-1973.txt
+The precise original publication metadata and Nelson's institutional affiliation should be carried over from that audit rather than guessed here.
+
+[S8] John Challen, Chartered Institution of Highways and Transportation, 22 November 2022, expert commentary of Prof G. Keith Still, University of Suffolk:
+https://www.ciht.org.uk/news/five-must-knows-to-manage-a-large-scale-event-outdoors-safely/
+
+[S9] UK Department for Transport, TAL 01/16, updated 23 November 2017; experiments by University of Greenwich Fire Safety Engineering Group:
+https://www.gov.uk/government/publications/influence-of-bollards-on-pedestrian-evacuation-flow-tal-0116/the-influence-of-bollards-on-pedestrian-evacuation-flow
+
+[S10] Fr Anthony Mourad, Pints with Aquinas episode 601, video and transcript. Relevant approximate segment: 1:14 for unique viewers, later discussion for 94:
+https://www.youtube.com/watch?v=-pQKNgwQjdk
+https://podscripts.co/podcasts/pints-with-aquinas/the-miracle-of-our-lady-of-zeitoun-fr-anthony-mourad-ep-601
+
+[S11] Eric Ouellet, own quantitative reconstruction dated 12 October 2011, blog:
+https://parasociology.blogspot.com/2011/10/
+Table and caveat concerning 34 sourced versus 94 reconstructed appearances are preserved in downloaded HTML.
+
+[S12] OpenStreetMap contributors, modern API geometry downloaded 27 October 2026, ODbL:
+https://api.openstreetmap.org/api/0.6/map?bbox=31.3105%2C30.1002%2C31.3205%2C30.1092
+https://www.openstreetmap.org/way/922977953
+https://www.openstreetmap.org/way/28847332
+
+[S13] Esri World Imagery REST service, modern imagery, acquisition date unverified. Copyright metadata: Esri, Vantor, Earthstar Geographics, and the GIS User Community. Used only as an approximate research width check, not a reconstruction of the 1968 scene:
+https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer
+Actual exported extent is saved in sources/esri-neighborhood-extent.json. Original analysis map uses OSM instead of republishing this photograph.
+
+UNRESOLVED LEAD
+American University in Cairo digital collections, 1947 Survey of Egypt map, item 114. Metadata retrieved but original map not read or used in the numerical reconstruction:
+https://digitalcollections.aucegypt.edu/digital/collection/p15795coll6/id/114/

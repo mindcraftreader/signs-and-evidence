@@ -1,0 +1,290 @@
+{
+  "date": "2026-11-02",
+  "scope": "Retain published object-shadow VP; test camera calibration alternatives.",
+  "adopted": {
+    "A": 2.4207,
+    "E": -1.9927,
+    "H": 0.31,
+    "width_px": 1669.0,
+    "height_px": 1181.0,
+    "C": [
+      834.5,
+      555.125
+    ],
+    "VP": [
+      -287.76341666666667,
+      1478.9628611111111
+    ],
+    "horizon_y": 411.40555555555557
+  },
+  "target_solar_elevation_deg": 42.72,
+  "pitch_and_roll_sensitivity": [
+    {
+      "focal_length_equiv_mm": 18,
+      "baseline_elevation_deg": 38.87954557903119,
+      "baseline_pitch_deg": 9.771747352020865,
+      "required_pitch_deg": 18.068057744964342,
+      "required_h": 0.5872201890354627,
+      "required_horizon_y_px": 282.88319569439244,
+      "horizon_change_px": -128.52235986116312,
+      "required_roll_deg": -4.5590912732530295
+    },
+    {
+      "focal_length_equiv_mm": 20,
+      "baseline_elevation_deg": 37.72501836478313,
+      "baseline_pitch_deg": 8.81073298598491,
+      "required_pitch_deg": 18.439644695595334,
+      "required_h": 0.6668488015082455,
+      "required_horizon_y_px": 245.96648618964952,
+      "horizon_change_px": -165.43906936590605,
+      "required_roll_deg": -6.216987098175472
+    },
+    {
+      "focal_length_equiv_mm": 24,
+      "baseline_elevation_deg": 35.33659650043914,
+      "baseline_pitch_deg": 7.359954158831979,
+      "required_pitch_deg": 19.47085286910401,
+      "required_h": 0.8485108069276303,
+      "required_horizon_y_px": 161.74596201049587,
+      "horizon_change_px": -249.65959354505972,
+      "required_roll_deg": -10.231154666577586
+    },
+    {
+      "focal_length_equiv_mm": 30,
+      "baseline_elevation_deg": 31.85931197947798,
+      "baseline_pitch_deg": 5.899625046527686,
+      "required_pitch_deg": 21.233768623148645,
+      "required_h": 1.1656579069545574,
+      "required_horizon_y_px": 14.713042581345462,
+      "horizon_change_px": -396.69251297421005,
+      "required_roll_deg": -18.21830740021439
+    },
+    {
+      "focal_length_equiv_mm": 33,
+      "baseline_elevation_deg": 30.24170709710382,
+      "baseline_pitch_deg": 5.366581783461578,
+      "required_pitch_deg": 22.107748135731633,
+      "required_h": 1.340510914980853,
+      "required_horizon_y_px": -66.35075475084545,
+      "horizon_change_px": -477.75631030640096,
+      "required_roll_deg": -23.46240544565071
+    },
+    {
+      "focal_length_equiv_mm": 37,
+      "baseline_elevation_deg": 28.23860670865216,
+      "baseline_pitch_deg": 4.78927165077602,
+      "required_pitch_deg": 23.22283745252227,
+      "required_h": 1.5875680167557642,
+      "required_horizon_y_px": -180.88917221260283,
+      "horizon_change_px": -592.2947277681584,
+      "required_roll_deg": -33.1271685053044
+    },
+    {
+      "focal_length_equiv_mm": 45,
+      "baseline_elevation_deg": 24.762443739951955,
+      "baseline_pitch_deg": 3.940816508216789,
+      "required_pitch_deg": 25.231535498586027,
+      "required_h": 2.1205652797101293,
+      "required_horizon_y_px": -427.9926255100571,
+      "horizon_change_px": -839.3981810656127,
+      "required_roll_deg": null
+    }
+  ],
+  "focal_only_global_max": {
+    "focal_length_equiv_mm": 9.85885204255074,
+    "elevation_deg": 41.93932236178452,
+    "interpretation": "Camera center, VP and h fixed; includes unrealistically wide focal lengths, not a historical camera finding."
+  },
+  "shifted_principal_point_boxes": [
+    {
+      "focal_length_equiv_mm": 30,
+      "principal_point_displacement_bound_mm_per_axis": 10,
+      "max_elevation_deg": 33.90693419442229,
+      "dx_at_max_mm": -10.0,
+      "dy_at_max_mm": 10.0,
+      "interpretation": "Illustrative sensitivity box, NOT documented travel limits of Ruah camera; absolute image horizon and VP fixed."
+    },
+    {
+      "focal_length_equiv_mm": 30,
+      "principal_point_displacement_bound_mm_per_axis": 20,
+      "max_elevation_deg": 35.70714550228632,
+      "dx_at_max_mm": -20.0,
+      "dy_at_max_mm": 20.0,
+      "interpretation": "Illustrative sensitivity box, NOT documented travel limits of Ruah camera; absolute image horizon and VP fixed."
+    },
+    {
+      "focal_length_equiv_mm": 30,
+      "principal_point_displacement_bound_mm_per_axis": 30,
+      "max_elevation_deg": 37.27619828588053,
+      "dx_at_max_mm": -30.0,
+      "dy_at_max_mm": 23.0,
+      "interpretation": "Illustrative sensitivity box, NOT documented travel limits of Ruah camera; absolute image horizon and VP fixed."
+    },
+    {
+      "focal_length_equiv_mm": 37,
+      "principal_point_displacement_bound_mm_per_axis": 10,
+      "max_elevation_deg": 29.68147085659199,
+      "dx_at_max_mm": -10.0,
+      "dy_at_max_mm": 10.0,
+      "interpretation": "Illustrative sensitivity box, NOT documented travel limits of Ruah camera; absolute image horizon and VP fixed."
+    },
+    {
+      "focal_length_equiv_mm": 37,
+      "principal_point_displacement_bound_mm_per_axis": 20,
+      "max_elevation_deg": 30.913155839706175,
+      "dx_at_max_mm": -20.0,
+      "dy_at_max_mm": 20.0,
+      "interpretation": "Illustrative sensitivity box, NOT documented travel limits of Ruah camera; absolute image horizon and VP fixed."
+    },
+    {
+      "focal_length_equiv_mm": 37,
+      "principal_point_displacement_bound_mm_per_axis": 30,
+      "max_elevation_deg": 31.90133233431419,
+      "dx_at_max_mm": -30.0,
+      "dy_at_max_mm": 24.75,
+      "interpretation": "Illustrative sensitivity box, NOT documented travel limits of Ruah camera; absolute image horizon and VP fixed."
+    },
+    {
+      "focal_length_equiv_mm": 45,
+      "principal_point_displacement_bound_mm_per_axis": 10,
+      "max_elevation_deg": 25.736939918112775,
+      "dx_at_max_mm": -10.0,
+      "dy_at_max_mm": 10.0,
+      "interpretation": "Illustrative sensitivity box, NOT documented travel limits of Ruah camera; absolute image horizon and VP fixed."
+    },
+    {
+      "focal_length_equiv_mm": 45,
+      "principal_point_displacement_bound_mm_per_axis": 20,
+      "max_elevation_deg": 26.545943621779692,
+      "dx_at_max_mm": -20.0,
+      "dy_at_max_mm": 20.0,
+      "interpretation": "Illustrative sensitivity box, NOT documented travel limits of Ruah camera; absolute image horizon and VP fixed."
+    },
+    {
+      "focal_length_equiv_mm": 45,
+      "principal_point_displacement_bound_mm_per_axis": 30,
+      "max_elevation_deg": 27.162214089199512,
+      "dx_at_max_mm": -30.0,
+      "dy_at_max_mm": 25.75,
+      "interpretation": "Illustrative sensitivity box, NOT documented travel limits of Ruah camera; absolute image horizon and VP fixed."
+    }
+  ],
+  "principal_shift_global_maxima": [
+    {
+      "focal_length_equiv_mm": 30,
+      "max_elevation_deg": 41.9919397126749,
+      "principal_point_at_max": [
+        -287.76341666666667,
+        945.1842083333333
+      ],
+      "numerical_cross_check_deg": 41.99193971267491,
+      "solar_solution_possible_with_principal_shift_only": false,
+      "interpretation": "Analytic global maximum over all principal-point positions, keeping absolute horizon, VP and focal length fixed. Extreme center is not claimed physically available."
+    },
+    {
+      "focal_length_equiv_mm": 37,
+      "max_elevation_deg": 34.569742262624516,
+      "principal_point_at_max": [
+        -287.76341666666667,
+        945.1842083333333
+      ],
+      "numerical_cross_check_deg": 34.56974226262452,
+      "solar_solution_possible_with_principal_shift_only": false,
+      "interpretation": "Analytic global maximum over all principal-point positions, keeping absolute horizon, VP and focal length fixed. Extreme center is not claimed physically available."
+    },
+    {
+      "focal_length_equiv_mm": 45,
+      "max_elevation_deg": 28.703138476410846,
+      "principal_point_at_max": [
+        -287.76341666666667,
+        945.1842083333333
+      ],
+      "numerical_cross_check_deg": 28.703138476410853,
+      "solar_solution_possible_with_principal_shift_only": false,
+      "interpretation": "Analytic global maximum over all principal-point positions, keeping absolute horizon, VP and focal length fixed. Extreme center is not claimed physically available."
+    }
+  ],
+  "wide_angle_counter_calibration": {
+    "focal_length_equiv_mm": 18.0975,
+    "corresponding_physical_focal_mm_on_120mm_width": 60.324999999999996,
+    "principal_point_dx_mm": -14.472012913725482,
+    "principal_point_dy_mm": 0.0,
+    "elevation_deg": 42.72,
+    "interpretation": "A mathematical solar calibration using a period-available ultra-wide lens class and nonzero principal point. Actual camera compatibility, use, image perspective and fringe constraints NOT verified. Not a demonstrated reconstruction of D115."
+  },
+  "format_and_crop_tests": [
+    {
+      "format": "9x12 cm",
+      "aspect_ratio": 1.3333333333333333,
+      "principal_y_px": 555.125,
+      "assumed_removed_sky_px": 70.75,
+      "elevation_37mm_fixed_absolute_horizon_deg": 28.23860670865216,
+      "interpretation": "Top-only crop thought experiment; original format and retained borders not authenticated."
+    },
+    {
+      "format": "quarter plate 3.25x4.25 in",
+      "aspect_ratio": 1.3076923076923077,
+      "principal_y_px": 542.8529411764706,
+      "assumed_removed_sky_px": 95.29411764705878,
+      "elevation_37mm_fixed_absolute_horizon_deg": 28.186896035476817,
+      "interpretation": "Top-only crop thought experiment; original format and retained borders not authenticated."
+    },
+    {
+      "format": "4x5 in",
+      "aspect_ratio": 1.25,
+      "principal_y_px": 513.4,
+      "assumed_removed_sky_px": 154.20000000000005,
+      "elevation_37mm_fixed_absolute_horizon_deg": 28.054568832929053,
+      "interpretation": "Top-only crop thought experiment; original format and retained borders not authenticated."
+    },
+    {
+      "format": "13x18 cm",
+      "aspect_ratio": 1.3846153846153846,
+      "principal_y_px": 578.3055555555555,
+      "assumed_removed_sky_px": 24.388888888888914,
+      "elevation_37mm_fixed_absolute_horizon_deg": 28.330698187342705,
+      "interpretation": "Top-only crop thought experiment; original format and retained borders not authenticated."
+    }
+  ],
+  "radial_distortion_illustrations": [
+    {
+      "k1": -0.005,
+      "vanishing_point": [
+        -288.7187689206988,
+        1476.5615872026513
+      ],
+      "elevation_deg": 28.17635342853215,
+      "change_deg": -0.06225328012001086,
+      "rms_line_miss_px": 2.001848822230561
+    },
+    {
+      "k1": 0,
+      "vanishing_point": [
+        -287.763416666664,
+        1478.9628611111152
+      ],
+      "elevation_deg": 28.238606708652277,
+      "change_deg": 1.1723955140041653e-13,
+      "rms_line_miss_px": 9.058859788765323e-12
+    },
+    {
+      "k1": 0.005,
+      "vanishing_point": [
+        -286.7534427345673,
+        1481.2266916790397
+      ],
+      "elevation_deg": 28.29801594722438,
+      "change_deg": 0.05940923857221847,
+      "rms_line_miss_px": 1.9343539472270308
+    }
+  ],
+  "camera_assumptions_proven_false": false,
+  "actual_camera_settings_identified": false,
+  "ordinary_solar_reconstruction_demonstrated": false,
+  "new_documented_finding": "Period Goerz-Anschutz press cameras have vertically and horizontally movable fronts; confirmed in manufacturer catalogue and Science Museum record. Therefore zero lens shift cannot be guaranteed by camera class alone.",
+  "verification": {
+    "independent_vector_dot_baseline_deg": 28.23860670865216,
+    "scalar_minus_vector_deg": 0.0,
+    "wide_counter_calibration_residual_deg": 0.0
+  }
+}

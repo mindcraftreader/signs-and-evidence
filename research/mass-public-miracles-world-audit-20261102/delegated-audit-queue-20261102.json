@@ -1,0 +1,70 @@
+{
+  "updated": "2026-11-02",
+  "authorization": "User requested subagent deep audits and source libraries for Putuo, Ajmer and Malaysia, then added LDS/Mormon and Chabad/other Orthodox Jewish movements.",
+  "concurrency_note": "Three worker agents run concurrently. Follow-on LDS and Jewish assignments were delivered through followup_task to active workers, to begin after their original cases are completed and reported.",
+  "tasks": [
+    {
+      "task": "Putuo, 1997",
+      "agent": "/root/putuo_deep_audit",
+      "status_at_dispatch": "running",
+      "output_directory": "putuo-deep-audit",
+      "follow_on": "LDS/Mormon public miracle claims",
+      "status": "completed_by_agent",
+      "report": "research/mass-public-miracles-world-audit-20261102/putuo-deep-audit/report.txt",
+      "report_exists": true
+    },
+    {
+      "task": "Ajmer, 2002",
+      "agent": "/root/ajmer_deep_audit",
+      "status_at_dispatch": "running",
+      "output_directory": "ajmer-deep-audit",
+      "follow_on": "Chabad and other Orthodox Jewish public miracle claims",
+      "status": "completed_by_agent",
+      "report": "research/mass-public-miracles-world-audit-20261102/ajmer-deep-audit/report.txt",
+      "report_exists": true
+    },
+    {
+      "task": "Kuala Lumpur statues, 2011",
+      "agent": "/root/malaysia_statues_deep_audit",
+      "status_at_dispatch": "running",
+      "output_directory": "malaysia-deep-audit",
+      "status": "completed_by_agent",
+      "report": "research/mass-public-miracles-world-audit-20261102/malaysia-deep-audit/report.txt",
+      "report_exists": true
+    },
+    {
+      "task": "LDS/Mormon miracles and living prophet claims",
+      "agent": "/root/putuo_deep_audit",
+      "status_at_dispatch": "queued_after_putuo",
+      "output_directory": "lds-deep-audit",
+      "status": "completed_by_agent",
+      "report": "research/mass-public-miracles-world-audit-20261102/lds-deep-audit/report.txt",
+      "report_exists": true
+    },
+    {
+      "task": "Chabad-Lubavitch, Schneerson messianism, other Orthodox Jewish movements",
+      "agent": "/root/ajmer_deep_audit",
+      "status_at_dispatch": "queued_after_ajmer",
+      "output_directory": "chabad-orthodox-deep-audit",
+      "status": "completed_by_agent",
+      "report": "research/mass-public-miracles-world-audit-20261102/chabad-orthodox-deep-audit/report.txt",
+      "report_exists": true
+    }
+  ],
+  "shared_requirements": [
+    "Primary sources and earliest dates",
+    "Actual visual media and provenance",
+    "Identified skeptical or adversarial firsthand witnesses, distinguished from commentary",
+    "Actual scientific or physical examinations, distinguished from institutional endorsement",
+    "Strongest positive evidence and specific documented alternatives",
+    "No silent substitution of private healings or reincarnation for public vindicatory signs",
+    "No automatic tally changes",
+    "No emails, purchases or contacting third parties without further authorization"
+  ],
+  "early_progress_not_final_findings": [
+    "Putuo agent reports direct inspection of official CCTV archival video beginning and sky shot; neighboring frames and interpretation still being examined.",
+    "Malaysia agent recovered a20March2011GuangMingDailyreprint containing a reporter's visit and named additional witnesses; deeper original media retrieval ongoing."
+  ],
+  "status": "all_five_agent_reports_completed; parent synthesis in progress",
+  "numeric_tallies_changed": false
+}

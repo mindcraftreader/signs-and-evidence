@@ -1,0 +1,180 @@
+[
+  {
+    "id": "S01",
+    "title": "Official signed episcopal decree, 1 January 2019",
+    "url": "https://diocesibg.it/wp-content/uploads/sites/2/2019/10/GhiaieBonate_DecretoCultoMariano.pdf",
+    "local_file": "bishop-decree-2019.pdf",
+    "assessment": "Primary church legal document; both pages visually inspected. Quotes 1948 judgment and CDF 20 Nov 2018 letter; regularizes devotion without recognizing alleged phenomena.",
+    "accessed_on": "2026-11-01",
+    "bytes": 455137,
+    "sha256": "9bdf59c5777d41a3139188f66d1e6bb9b9697c989c3de735e238364d2faa5fa3"
+  },
+  {
+    "id": "S02",
+    "title": "Bishop Francesco Beschi official letter, 1 January 2019",
+    "url": "https://diocesibg.it/wp-content/uploads/sites/2/2019/10/GhiaieBonate_LetteraVescovo.pdf",
+    "local_file": "bishop-letter-2019.pdf",
+    "assessment": "Primary church statement; text read. Date, child age, number of alleged appearances, unchanged non constat.",
+    "accessed_on": "2026-11-01",
+    "bytes": 100998,
+    "sha256": "2d7348429d26fea1ce698624343b6fa224511545e70f54bd3d29f09a1474d869"
+  },
+  {
+    "id": "S03",
+    "title": "Official prayer booklet containing letter and decree",
+    "url": "https://diocesibg.it/wp-content/uploads/sites/2/2019/10/GhiaieBonate_LibrettoPreghiere.pdf",
+    "local_file": "bishop-prayer-booklet-decree-2019.pdf",
+    "assessment": "Official publication. Printed pages 9-11 reproduce decree; not a separate independent investigation.",
+    "accessed_on": "2026-11-01",
+    "bytes": 1285852,
+    "sha256": "c02e5f5afa62e073771d81d3a91ea75c3d2e7c509958ca75f7332f5293f07402"
+  },
+  {
+    "id": "S04",
+    "title": "Diocese announcement, 13 February 2019",
+    "url": "https://diocesibg.it/il-vescovo-di-bergamo-autorizza-il-culto-a-maria-regina-della-famiglia-alle-ghiaie-di-bonate/",
+    "local_file": "diocesan-authorization-2019.html",
+    "assessment": "Official announcement links original decree/letter. Authorization effective 11 February 2019.",
+    "accessed_on": "2026-11-01",
+    "bytes": 149269,
+    "sha256": "7825b7b7b10665cc9dc6a71f87ae0a17e232dfa0ef408ee59c55381f3d8ef0e6"
+  },
+  {
+    "id": "S05",
+    "title": "Diocesan shrine directory, 30 May 2025",
+    "url": "https://diocesibg.it/santuario/maria-regina-della-famiglia/",
+    "local_file": "diocesan-shrine-2025.html",
+    "assessment": "Official pastoral directory, but imprecise historical wording: says Church never officially pronounced, inconsistent with signed decree. Not evidence of reversal.",
+    "accessed_on": "2026-11-01",
+    "bytes": 168321,
+    "sha256": "23527c42f60a7a1d808b638c72c6887c2cb7a848fc2427507e969ca041c354e9"
+  },
+  {
+    "id": "S06",
+    "title": "Marco Roncalli, Corriere Bergamo, 12 November 2013: Bernareggi diary excerpts",
+    "url": "https://bergamo.corriere.it/notizie/cultura-e-spettacoli/13_novembre_12/bernareggi-vescovo-diario-inedito-ghiaie-bonate-adelaide-roncalli-f0863ae6-4b7d-11e3-9f20-48230e8bb565.shtml",
+    "local_file": "bishop-diary-corriere-2013.html",
+    "assessment": "Reputable newspaper reproducing contemporary 20 May-27 July 1944 diary passages. Not original manuscript or entire published edition.",
+    "accessed_on": "2026-11-01",
+    "bytes": 137590,
+    "sha256": "35439b9afecffe3cd9e2849988446a6484515191cd60ff99f11932197cf99b93"
+  },
+  {
+    "id": "S07",
+    "title": "Reproduction of Adelaide handwritten diary, introduced as written in 1953",
+    "url": "https://www.lalucedighiaie.it/wp-content/uploads/2019/08/DIARIOADELAIDECOM.pdf",
+    "local_file": "adelaide-diary-reproduction.pdf",
+    "assessment": "Retrospective testimony, devotional reproduction. Introduction read; handwritten pages not fully transcribed. Must not label contemporaneous 1944 diary.",
+    "accessed_on": "2026-11-01",
+    "bytes": 4199938,
+    "sha256": "ee8e54173b815efd089a476310fa960724985874416ba485ffedeb3b20eac128"
+  },
+  {
+    "id": "S08",
+    "title": "La luce di Ghiaie devotional portal with Vittorio Villa film embeds",
+    "url": "https://www.lalucedighiaie.it/la-grazia/",
+    "local_file": "ghiaie-devotional-source.html",
+    "assessment": "Host attributes 9.5 mm footage to last four apparition days of May 1944. Attribution verified as claim of host, original reel not authenticated. Film not watched in this pass.",
+    "accessed_on": "2026-11-01",
+    "bytes": 71906,
+    "sha256": "84d80b908bfa40076a743dff614063df2d6b10c0f449176de7dd0d60fb506823"
+  },
+  {
+    "id": "S09",
+    "title": "Vittorio Villa film upload, part I",
+    "url": "https://www.youtube.com/watch?v=Q41fH2LFGr0",
+    "local_file": null,
+    "assessment": "Publicly linked by S08; video fetch failed, actual frames not audited.",
+    "accessed_on": "2026-11-01"
+  },
+  {
+    "id": "S10",
+    "title": "Vittorio Villa film upload, part II",
+    "url": "https://www.youtube.com/watch?v=xpgDvKSt5NQ",
+    "local_file": null,
+    "assessment": "Publicly linked by S08; video fetch failed, actual frames not audited.",
+    "accessed_on": "2026-11-01"
+  },
+  {
+    "id": "S11",
+    "title": "Alberto Lombardoni, I diari a confronto, updated 24 March 2014",
+    "url": "https://diazilla.com/doc/739468/i-diari-a-confronto---madonna-delle-ghiaie",
+    "local_file": null,
+    "assessment": "Pro-apparition archival analysis; identifies sisters 1944 questionnaire, Don Italo Duci diary, multiple later Adelaide diary versions. Web text read; download failed. Leads, not authenticated originals.",
+    "accessed_on": "2026-11-01"
+  },
+  {
+    "id": "S12",
+    "title": "Enrico Caffi article/date lead and reported solar episodes",
+    "url": "https://sentieroignoto.wordpress.com/page/5/",
+    "local_file": null,
+    "assessment": "Non-scholarly later source: claims L Eco di Bergamo 26 May 1944 Il sole delle Ghiaie and Gazzetta del Popolo 15 July 1944. Originals not obtained; distant testimony and astronomical replies unverified.",
+    "accessed_on": "2026-11-01"
+  },
+  {
+    "id": "S13",
+    "title": "1944 postcard photograph, Storylab",
+    "url": "https://www.storylab.it/n/foto/14577/bonate-localita-ghiaie/",
+    "local_file": "photo-postcard-storylab.html",
+    "assessment": "User-uploaded historical image caption: Crimella Milano publisher, G. Meli Bergamo photographer. Caption does not authenticate apparition image.",
+    "accessed_on": "2026-11-01",
+    "bytes": 34282,
+    "sha256": "a4a7d149f9cb9589adf1c27e3e1c3ec1963c18617ac95e2403ba78becb9ed65c"
+  },
+  {
+    "id": "S14",
+    "title": "Ghiaie.org early book bibliography",
+    "url": "https://www.ghiaie.org/gh_documenti/gh_libri.html",
+    "local_file": null,
+    "assessment": "Strongly partisan devotional bibliography. Lists Cortesi 1944/1945, Cenci 1944, Traini 1944, Cazzamalli 1951. Linked Cortesi PDFs returned 404.",
+    "accessed_on": "2026-11-01"
+  },
+  {
+    "id": "S15",
+    "title": "Pietro Martini, Ferdinando Cazzamalli (1887-1958), Insula Fulcheria 2018, pp 309-318",
+    "url": "https://insulafulcheria.comunecrema.it/sites/default/files/insula_fulcheria_2018_ferdinando_cazzamalli_1887_1958_309_318.pdf",
+    "local_file": null,
+    "assessment": "Historical journal hosted by Comune Crema; verifies medical background including Pavia medical graduation and Como psychiatric hospital role. Public web text read; local curl failed certificate validation.",
+    "accessed_on": "2026-11-01"
+  },
+  {
+    "id": "S16",
+    "title": "Lanfranchi newspaper collection inventory",
+    "url": "https://www.cicogna-rampana.it/wp-content/uploads/2024/02/Indice-Raccolta-Lanfranchi.pdf",
+    "local_file": null,
+    "assessment": "Archive finding aid lists L Eco di Bergamo 22 May 1944 and I fatti delle Ghiaie (undated). Does not prove issue content; not original article.",
+    "accessed_on": "2026-11-01"
+  },
+  {
+    "id": "S17",
+    "title": "Universita Cattolica institutional history",
+    "url": "https://www.unicatt.it/scopri-l-universita/la-nostra-storia.html",
+    "local_file": null,
+    "assessment": "University confirms Gemelli as founder. His case-specific report still needs original recovery.",
+    "accessed_on": "2026-11-01"
+  },
+  {
+    "id": "S18",
+    "title": "Bergamo civic natural-history museum institutional biography of Enrico Caffi",
+    "url": "https://www.museoscienzebergamo.it/senza-categoria/1920/",
+    "local_file": null,
+    "assessment": "Museum identifies Caffi as first director, Pavia natural sciences graduate, serving through 1947. Birth year in page conflicts with other biographies; not used.",
+    "accessed_on": "2026-11-01"
+  },
+  {
+    "id": "S19",
+    "title": "Corriere 26 August 2014 on disputed retraction and no reopening",
+    "url": "https://bergamo.corriere.it/notizie/cronaca/14_agosto_26/smentita-ritrattazione-ma-curia-non-riapre-caso-f11a7bf4-2cf8-11e4-b2cb-83c2802e5fb4.shtml",
+    "local_file": null,
+    "assessment": "Later reporting, not original retraction or John XXIII letter. Recovery target only.",
+    "accessed_on": "2026-11-01"
+  },
+  {
+    "id": "S20",
+    "title": "La luce di Ghiaie narrative of investigations",
+    "url": "https://www.lalucedighiaie.it/abside-ari-2/",
+    "local_file": null,
+    "assessment": "Partisan pro-apparition account; names Gemelli, Sidlauskaite, Cortesi and Cazzamalli. Allegations of coercion/invasive examinations need originals and contextual audit.",
+    "accessed_on": "2026-11-01"
+  }
+]

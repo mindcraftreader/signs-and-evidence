@@ -1,0 +1,10 @@
+sample,reference_signed_AD,strength_prediction_signed_AD,modulus_prediction_signed_AD,loss_factor_prediction_signed_AD,mean_prediction_signed_AD,signed_error_years,absolute_error_years,endpoint_extrapolation,status
+LII,-3250.0,-6686.32634195824,-8910.753868906519,-4428.432694746571,-6675.17096853711,-3425.1709685371097,3425.1709685371097,True,"Our nominal leave-one-out reanalysis, not an independently published experiment"
+K,-2652.0,-595.8950167949868,-80.7422974974197,-1736.4713663370178,-804.3695602098081,1847.6304397901918,1847.6304397901918,False,"Our nominal leave-one-out reanalysis, not an independently published experiment"
+HII,-860.0,-1297.8085536613578,-331.9111640909141,-867.4196819843411,-832.3797999122044,27.620200087795638,27.620200087795638,False,"Our nominal leave-one-out reanalysis, not an independently published experiment"
+E,-375.0,57.02653870590384,-1220.597372338551,51.61333136464288,-370.6525007560014,4.347499243998584,4.347499243998584,False,"Our nominal leave-one-out reanalysis, not an independently published experiment"
+NII,-290.0,-158.75780881941472,-411.7609016176573,-316.28518418373653,-295.6012982069362,-5.601298206936178,5.601298206936178,False,"Our nominal leave-one-out reanalysis, not an independently published experiment"
+FII,65.0,86.83565425553994,286.32567322803493,69.5447279077246,147.56868513043315,82.56868513043315,82.56868513043315,False,"Our nominal leave-one-out reanalysis, not an independently published experiment"
+D,575.0,-997.6477340798824,-827.9516029649391,-446.89284707306933,-757.4973947059635,-1332.4973947059634,1332.4973947059634,False,"Our nominal leave-one-out reanalysis, not an independently published experiment"
+DII,1072.0,1921.8095342602965,1977.4109760434947,1341.061149690061,1746.7605533312842,674.7605533312842,674.7605533312842,False,"Our nominal leave-one-out reanalysis, not an independently published experiment"
+B,2000.0,2339.531070973674,2396.3752012432583,2356.8454168709163,2364.250563029283,364.25056302928306,364.25056302928306,True,"Our nominal leave-one-out reanalysis, not an independently published experiment"

@@ -1,0 +1,844 @@
+{
+  "updated": "2026-11-07",
+  "scope": "Explicitly adjudicated challenges in the current thread-by-thread review. This is not a retrospective score for every argument across the entire conversation.",
+  "counting_rules": [
+    "One distinct challenge is scored once; restatements and source follow-ups do not create additional points.",
+    "A successful defense means the attempted objection was not sustained; it does not independently establish the full supernatural conclusion.",
+    "An assistant qualification is not recorded as a concession by Daniel unless he actually accepts it.",
+    "Open challenges receive no victory points. Explicitly agreed partial credit for a separate evidentiary finding is recorded separately and does not close an open challenge.",
+    "Reopening a closed challenge requires substantive new evidence or a new argument, with the earlier result preserved."
+  ],
+  "entries": [
+    {
+      "id": "F-01",
+      "case": "Fatima",
+      "challenge": "The end-of-war statement establishes a failed unconditional divine prophecy and thereby undermines the Fatima case.",
+      "status": "closed_against_challenge",
+      "result": "Daniel successfully defended this thread against the attempted objection; assistant withdraws the failed-prophecy objection as established counterevidence.",
+      "daniel_successful_defenses": 1,
+      "assistant_successful_challenges": 0,
+      "associated_threads": [
+        1,
+        2,
+        38
+      ],
+      "reason": "Early conditional testimony supplies a substantive response. The disputed grammar and transmission of Lucia’s wording do not establish an unconditional failed divine prediction. The separate public-sign prediction remains standing.",
+      "remaining_limit": "No facsimile of the ink manuscript was obtained; exact October13 syntax remains disputed. Neither fact reopens this challenge without substantive new evidence.",
+      "assistant_concession_verbatim": "For our tally: your Fátima thread remains standing; I have not earned a point against it through this objection.",
+      "evidence": [
+        "https://www.fatima.pt/files/upload/fontes/F001_DCF_selecao.pdf#page=105",
+        "https://www.youtube.com/watch?v=8yln9fuDMRQ&t=4141s",
+        "research/fatima-muse-8yln9fuDMRQ-20261028/october13-portuguese-and-manuscript-audit.txt"
+      ]
+    },
+    {
+      "id": "P-01",
+      "case": "Padre Pio",
+      "challenge": "The available depth evidence does not establish deep tissue regeneration from the reported scarless disappearance.",
+      "status": "open",
+      "result": "Restored to active review at Daniel’s request. Positive testimony of absent visible scars remains standing; no demonstrated ordinary explanation of the complete long-term wound and resolution pattern has been established.",
+      "daniel_successful_defenses": 0,
+      "assistant_successful_challenges": 0,
+      "associated_threads": [
+        26
+      ],
+      "reason": "Adult dermal injury ordinarily produces scar, whereas superficial erosions can heal without visible scars. Width alone does not establish depth. The historical depth, continuity and endpoint must be assessed together.",
+      "evidence": [
+        "https://www.imagomundi.biz/wp-content/uploads/2025/04/PBSO37-Le_stigmate_di_Padre_Pio_da_Pietrelcina-Gerardo_di_Flumeri.pdf",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC5792238/"
+      ],
+      "discussion_updates": [
+        {
+          "date": "2026-10-28",
+          "assistant_concession": "An elderly adult’s genuinely deep, decades-persistent wounds closing within a week and leaving normal scar-free skin would not be ordinary expected wound healing.",
+          "historical_precision": "The recovered record describes progressive regression over months, with a final palm crust present near death; it does not establish all five open wounds closing in one week.",
+          "remaining_question": "What preceding tissue damage and speed of repair are established at each site, as distinct from disappearance of an external crust?",
+          "tally_effect": "No point awarded; P-01 remains open. The medical premise is conceded conditionally, not treated as proof that the full historical description is established."
+        },
+        {
+          "date": "2026-10-28",
+          "user_accepted_correction": "User accepts that regression occurred over months, rather than asserting a specifically one-week interval.",
+          "scope": "Timing correction only. User maintains that disappearance without visible scarring after a decades-long wound history remains anomalous.",
+          "assistant_assessment": "A longer interval changes claims about abrupt closure and available repair time; it does not itself explain absence of persistent visible scars from previously deep injury.",
+          "tally_effect": "No core thread conceded defeated; P-01 stays open. Daniel1successful defense, assistant0successful challenges,1open."
+        },
+        {
+          "date": "2026-10-28",
+          "scope_correction": "User clarifies that scarless disappearance is peripheral to his central sustained-wounds-and-fragrance argument. Assistant accepts this criticism of challenge selection.",
+          "status": "deferred_peripheral",
+          "assistant_concession": "Long-standing deep wounds healing without visible scars is a medically reasonable concern; Lotti and Sala themselves regarded the reported resolution as extraordinary. No survey supports a claim about all doctors.",
+          "next_research_focus": "Proposed ordinary causes of wound persistence during life, including the actual bandaging observations and responses to Bignami; preserve fragrance as a separate core requirement.",
+          "tally_effect": "No successful assistant challenge. P-01 set aside as peripheral without deciding its anatomical subquestion; not counted as a new scored defense or a concession by Daniel."
+        },
+        {
+          "date": "2026-10-28",
+          "scope_correction": "Daniel restores scarless healing as important supporting evidence, with particular emphasis on the hands. Assistant accepts reactivation.",
+          "medical_search_result": "No physician statement or matched clinical case located in this search endorses ordinary scarless closure of continuously open, deeply destructive hand wounds persisting fifty years. This bounded search result is not proof of biological impossibility.",
+          "new_user_point": "Lesions several centimetres across. This establishes surface extent, not depth; it cannot by itself distinguish erosions from deeper ulceration.",
+          "assistant_concession": "The months-versus-week correction does not supply an explanation for scarless disappearance of deep injuries. The absence-of-visible-scars testimony is not defeated by a superficial-erosion analogy.",
+          "evidence": [
+            "https://pmc.ncbi.nlm.nih.gov/articles/PMC5792238/",
+            "https://www.merckmanuals.com/home/skin-disorders/biology-of-the-skin/descriptions-of-skin-marks-growths-and-color-changes"
+          ],
+          "tally_effect": "No assistant point. P-01 active/open alongside P-02; Daniel1 assistant0 open2 deferred0."
+        },
+        {
+          "date": "2026-10-28",
+          "research_update": "Festa1920 describes a white shiny scar at a former right-dorsal hand location, with a nearby active lesion. Sala and other endpoint witnesses later report no visible scars. Both retained. Late attendant descriptions also support apparently deep lesions near death, though without calibrated depth measurement.",
+          "tally_effect": "This is a chronological qualification, not a defeated scar endpoint or a new concession by Daniel. No point awarded."
+        },
+        {
+          "date": "2026-10-28",
+          "research_update": "Separate visit audits confirm Romanelli explicitly could not determine opposed fingers meeting (printed168); Festa records healing/scar-like change during life; Sala directly inspected and palpated no-visible-scar normal skin about ten minutes after death. Late apparent-depth testimony retained. Modern Dunkin113-subject graduated-depth study supports a real depth/scar distinction; it does not establish Pio depth. Violi2018 retrospective medical opinion supports scar concern, but some invariance/normal-function premises conflict with original records.",
+          "tally_effect": "No adjudicated defeat or new point. P-01 remains open; favorable endpoint testimony remains standing."
+        }
+      ]
+    },
+    {
+      "id": "P-02",
+      "case": "Padre Pio",
+      "challenge": "The Bignami/Festa controls establish exclusion of chemical maintenance, including carbolic acid, as an ordinary explanation of the wounds.",
+      "status": "closed_against_challenge_as_presented",
+      "result": "Daniel successfully defended the specifically open chemical challenge. Procurement and reported antiseptic use are established; deliberate wound production or an adequate chemical account of the retained chronology has not been demonstrated.",
+      "daniel_successful_defenses": 1,
+      "assistant_successful_challenges": 0,
+      "reason": "Legitimate purposes appear in the request and medical/convent records. Alleged secrecy remains circumstantial and disputed. Supervised-persistence evidence must be assessed jointly with later observations; limitations in controls do not themselves establish a manufactured cause. The postulator’s attributed public response supports prior institutional consideration, without supplying the unread technical reasoning.",
+      "evidence": [
+        "https://motivacredibilitatis.substack.com/p/st-pio-of-pietrelcina",
+        "https://www.imagomundi.biz/wp-content/uploads/2025/04/PBSO37-Le_stigmate_di_Padre_Pio_da_Pietrelcina-Gerardo_di_Flumeri.pdf"
+      ],
+      "primary_locations": [
+        "Document 14, printed p64",
+        "Document 25, printed pp82–84",
+        "Document 53, printed pp210–211",
+        "Documents30-31, printedpp92-100: Sarezzano1952 memorandum and1955 provenance follow-up"
+      ],
+      "note": "This is an assistant challenge under consideration, not an assertion that Daniel personally made the corrected chemical-test claim or conceded defeat.",
+      "discussion_updates": [
+        {
+          "date": "2026-10-28",
+          "new_primary_evidence": "Ramesh, Shenoi and Nayak2020, Kasturba Medical College dermatology department: small phenol matricectomy group had14day mean drainage and40.5day mean reepithelialization after a single intraoperative application.",
+          "proposed_objection": "Eight-day persistence/drainage does not alone exclude ordinary residual chemical injury, even accepting the dressing controls.",
+          "limits": "Different anatomical site and surgical damage. Does not reproduce unchanged appearance, daily blood, fifty-year course, scar outcome or scent. Festa’s longer-term iodine-withdrawal evidence remains to assess.",
+          "status": "open",
+          "tally_effect": "No point awarded; no user concession assumed.",
+          "source": "https://doi.org/10.4103/JCAS.JCAS_183_19"
+        },
+        {
+          "date": "2026-10-28",
+          "user_methodological_point": "Assess wound examinations jointly as a chronological dataset; challenging one exclusion does not explain the surviving pattern supported by other reports.",
+          "assistant_agreement": "Evaluate ordinary and supernatural explanations against all retained observations together. The eight-day clinical comparison weakens a general exclusion inference, not the underlying observations or the whole stigmata case.",
+          "qualification": "Reports have different scopes, dates and evidentiary dependencies; assess the importance of each finding rather than use a majority vote. A decisive central contradiction could matter more than several peripheral confirmations, but none has been demonstrated by this eight-day comparison.",
+          "chronology": "Early cluster includes Romanelli1919–20, BignamiJuly1919, Festa1919–20 and Rossi1921; Festaalso1925, later medical documentation1950s and1968–69.",
+          "tally_effect": "No user concession or assistant point recorded. P-02 remains open."
+        },
+        {
+          "date": "2026-10-28",
+          "research_update": "Joint medical-record review includes Festa’s report of more than three months without application in1919 and persistence roughly a year after iodine withdrawal in1920; the eight-day clinical analogy does not answer that combined history.",
+          "retained_limit": "Reported cessation is not continuously sealed medical observation for the full interval. April1925 report is review; October1925 is a direct re-examination.",
+          "tally_effect": "No user concession; no assistant point; challenge remains open.",
+          "report": "research/pio-stigmata-medical-deep-dive-20261028/research-report.txt"
+        },
+        {
+          "date": "2026-10-28",
+          "research_update": "Full Festa reread qualifies >3months treatment-withdrawal duration as report wording, with examination/composition dates distinct. Year-later persistence remains beyond eight-day analogy. A Seville27-patient randomized phenol trial independently shows15/22day healing, not a matched Pio explanation. Some Festa exclusions rely on asserted sterility/intact barriers/universal chemical consequences beyond demonstrated tests. No wound-production act or complete ordinary mechanism established.",
+          "tally_effect": "No user concession or new point. P-02 remains open."
+        },
+        {
+          "date": "2026-10-30",
+          "research_update": "Recovered previously omitted contrary seal allegation in Di Flumeri doc30,p94: Sarezzano, memo assigned1952, attributing claim to Pietro dIschitella. Not firsthand; memo contains chronological errors. Doc31, signed23July1955, confirms earlier memo provenance, not a second witness. Same-vs-different dressing episode unresolved. Participant attestation plus later Paolino seals account retained.",
+          "medical_assessment": "Residual chemical injury can last beyond eight days; existing phenol surgical comparator does not reproduce unchanged wound state, daily bleeding or decades-long Pio history.",
+          "tally_effect": "No point or user concession. P-02 remains open.",
+          "report": "research/pio-bandaging-audit-20261030/research-report.txt"
+        },
+        {
+          "date": "2026-10-30",
+          "topic": "Reported public response from cause postulator located",
+          "finding": "Gaeta/Tornielli2008 preface quotes Fr.Paolino Rossi in Famiglia Cristiana45/2007,p53: allegations presented as new had already been clarified during canonization. Context includes chemical allegations. Cantoni press review independently identifies interview11November2007.",
+          "limit": "Original magazine page/full interview and chemical-specific Positio reasoning remain unrecovered. A reported official response, not an inspected medical ruling.",
+          "tally_effect": "No new point or user concession; direct evidence of a reported cause-official response strengthens the defense against portraying the allegation as unanswered.",
+          "report": "research/pio-bandaging-audit-20261030/postulator-chemical-response-provenance.txt"
+        },
+        {
+          "date": "2026-10-31",
+          "topic": "Chemical challenge adjudicated at Daniel’s request",
+          "decision": "Daniel successfully defended the specifically open chemical challenge. Procurement and reported antiseptic use are established; deliberate wound production or an adequate chemical account of the retained chronology has not been demonstrated.",
+          "scope": "One point closing the previously unscored P-02 challenge, distinct from the earlier P-04 core review. Does not establish universal chemical impossibility, authenticate every reported control, or claim the full Positio was read. Remaining qualifications are retained, not conceded away.",
+          "tally_effect": "Daniel +1; total8successful defenses, assistant0successful challenges. P-01 remains open."
+        }
+      ],
+      "original_challenge_wording": "The Bignami/Festa controls establish exclusion of chemical maintenance, including carbolic acid, as an ordinary explanation of the wounds.",
+      "adjudicated_challenge": "Whether the chemical-procurement/use evidence and objections to the controls, as developed in this review, establish artificial production or maintenance sufficiently to defeat the core stigmata argument.",
+      "scope": "One point closing the previously unscored P-02 challenge, distinct from the earlier P-04 core review. Does not establish universal chemical impossibility, authenticate every reported control, or claim the full Positio was read. Remaining qualifications are retained, not conceded away.",
+      "agreed_on": "2026-10-31"
+    },
+    {
+      "id": "P-03",
+      "case": "Padre Pio",
+      "issue": "Rossi’s 1921 investigation supplies favorable evidence for the authenticity of Pio’s stigmata and sincerity.",
+      "status": "unscored_evidentiary_acknowledgment",
+      "daniel_partial_credit": 0,
+      "daniel_successful_defenses": 0,
+      "assistant_successful_challenges": 0,
+      "result": "Assistant agrees to Daniel’s proposed half point for Rossi’s favorable investigation. This acknowledges positive evidence, not a completed adjudication of the full stigmata case.",
+      "basis": "Published book excerpts describe Rossi’s favorable character judgment and the edition presents his assessment as favoring authentic stigmata and divine origin. Full report and depositions remain to be checked against the physical book.",
+      "limits": "Rossi was an ecclesiastical investigator, not a medical examiner. His observations and conclusions must be compared with the full chronological medical dataset. P-01 and P-02 remain open; no conclusion about the full fifty-year course is scored.",
+      "evidence": [
+        "https://www.everand.com/book/674147314/Padre-Pio-Under-Investigation-The-Secret-Vatican-Files",
+        "https://ignatius.com/padre-pio-under-investigation-digital-ppuie/"
+      ],
+      "agreed_on": "2026-10-28",
+      "score_correction": "Daniel clarifies half point was informal conversation, not a real tally point; favorable Rossi evidence retained."
+    },
+    {
+      "id": "P-04",
+      "case": "Padre Pio",
+      "challenge": "The objections developed in this review defeat the core argument from Pio’s sustained, repeatedly observed stigmata.",
+      "status": "closed_against_challenge",
+      "result": "Daniel successfully defended the core thread against the objections actually presented. Assistant did not establish fabrication, significant misunderstanding, or an adequate ordinary account of the retained chronology.",
+      "daniel_successful_defenses": 1,
+      "assistant_successful_challenges": 0,
+      "scope": "One aggregate point for this adjudicated core challenge; technical questions about depth, infection, blood quantity and speed do not create further wins merely by restating them. Full Rossi/Positio documents remain outstanding.",
+      "agreed_on": "2026-10-28",
+      "evidence": [
+        "research/pio-stigmata-medical-deep-dive-20261028/consolidated-medical-analysis.txt"
+      ]
+    },
+    {
+      "id": "F-02",
+      "case": "Fatima",
+      "challenge": "The advance public-sign announcement plus crowd testimony strongly discriminates supernatural intervention from an ordinary perception/interpretation account.",
+      "status": "closed_against_challenge",
+      "daniel_successful_defenses": 1,
+      "assistant_successful_challenges": 0,
+      "proposed_counterargument": "The announcement helped cause the gathering, attention and meaning assigned to a solar appearance. Contemporary Almeida describes coordinated attention toward the disc and exchanged reports. Experimental color-adaptation research establishes a narrow ordinary mechanism, not the entire reported motion/environmental event. These factors reduce treating prediction/crowd/reports as wholly unrelated coincidences.",
+      "not_claimed": [
+        "No failed-war-prophecy objection reopened.",
+        "No claim all witnesses needed identical experience or that the astronomical Sun moved.",
+        "No completed explanation for environmental colors, drying, Dalleur geometry, distant accounts or full motion sequence.",
+        "No proven fraud or copying alleged."
+      ],
+      "core_target": "Comparative force of dated prediction joined to public experience, not a peripheral detail or denial that an extraordinary public experience was reported.",
+      "evidence": [
+        "https://fatima-1917.com/pt/d/iii-1-87",
+        "https://www.fatima.pt/files/upload/fontes/F001_DCF_selecao.pdf",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC3562597/"
+      ],
+      "discussion_updates": [
+        {
+          "date": "2026-10-28",
+          "user_response": "Large crowd, skeptical or hostile observers, and reports of a comfortably viewable pale disc with colors and substantial apparent motion make generic religious fervor inadequate as an explanation.",
+          "assistant_assessment": "Agreed that expectation alone does not account for the reported phenomenon. Almeida personally reports disc appearance, movement and colors. Shared ordinary stimuli remain logically possible at large scale, but this review has not demonstrated a mechanism matching the retained sequence. No verified proportion of hostile witnesses or independently enumerated tens of thousands reporting every detail is asserted.",
+          "tally_effect": "No assistant point; F-02 remains open. Dependence between prediction and gathering is a methodological qualification, not a successful explanation or refutation of the event."
+        },
+        {
+          "date": "2026-10-28",
+          "topic": "Relevance of mapped distant witnesses",
+          "retained_evidence": "Eight account entries across seven localities roughly13–157km away. Granja next-day1917 letter and Torres Novas November1917 letter are contemporary indirect reports; Alburitel and Minde offer fuller motion/descent narratives in later records.",
+          "assessment": "Dispersed reports materially weaken an explanation confined to communication or excitement inside the Cova crowd. Geographic separation does not by itself establish absence of advance expectation; Alburitel hill source expressly records expectation and smoked-glass preparation. Map is not measured triangulation, and the records have uneven timing and firsthand status. No adequate ordinary account of the combined evidence has been established here.",
+          "tally_effect": "No assistant point; F-02 open. The core argument remains standing against the crowd-expectation objection as developed."
+        },
+        {
+          "date": "2026-10-28",
+          "decision": "Challenge closed against the attempted priming-the-pump objection; one user defense point, not one point per distant account. User authorizes subagent to investigate actual observing coordinates and directional evidence.",
+          "tally_effect": "Daniel3 assistant0; F-02 closed. P-01 and P-02 remain open."
+        }
+      ],
+      "result": "Daniel successfully defended the combined public-sign and geographically dispersed testimony argument against the crowd-expectation objection as developed. Assistant did not establish an adequate ordinary explanation or significant undermining of this core thread.",
+      "scope": "Expectation can organize attendance, attention and interpretation; this dependency qualification is not a demonstrated explanation for the retained Cova and distant observations. Closing this attempted objection does not independently adjudicate the full supernatural conclusion.",
+      "agreed_on": "2026-10-28"
+    },
+    {
+      "id": "P-05",
+      "case": "Padre Pio",
+      "challenge": "The fragrance records establish behavior sufficiently unlike ordinary odor to supply strong independent evidence of supernatural agency.",
+      "status": "closed_against_challenge",
+      "daniel_successful_defenses": 1,
+      "assistant_successful_challenges": 0,
+      "proposed_counterargument": "Test whether intermittency and selective perception actually exclude ordinary odor, and whether the strongest transported-object and distant accounts identify supernatural origin rather than an unexplained odor identified with Pio. Olfactory adaptation is experimentally documented; its application to particular historical episodes must be demonstrated, not assumed.",
+      "core_target": "The claimed discriminating force of the fragrance behavior and attribution, not denial that witnesses sincerely smelled fragrance.",
+      "starting_cases": [
+        "Festa transported cloth and Rome consulting-room observations",
+        "Rossi1921 own observation and collected testimony",
+        "Hopcke1978 Philadelphia Mass report, letter1980; two participants and later identification"
+      ],
+      "required_counterweight": "Preserve recurring reports across fifty years, unsuspecting witnesses, simultaneous observers, and distant/post-death reports. One corrected physical exclusion is not a full explanation or defeat of this corpus.",
+      "evidence": [
+        "https://motivacredibilitatis.substack.com/p/st-pio-of-pietrelcina",
+        "https://pubmed.ncbi.nlm.nih.gov/8710455/"
+      ],
+      "tally_effect": "Open investigation; no point. Current total Daniel3 assistant0.",
+      "discussion_updates": [
+        {
+          "date": "2026-10-29",
+          "user_statement": "Stigmata is the primary Pio claim; fragrance is optional corroboration. Setting fragrance aside would not defeat the stigmata argument.",
+          "assistant_assessment": "Accepted. Physical carriage of odor is compatible with ordinary and supernatural source accounts. Adaptation addresses selective perception but identifies no source. The proposed fragrance objection has not substantially undermined the reported corpus and is not a successful attack on the primary Pio claim.",
+          "tally_effect": "No assistant point or new peripheral user point. Current tally remains Daniel5 assistant0.",
+          "scope": "P-05 remains an unresolved supporting issue, not a primary victory condition."
+        },
+        {
+          "date": "2026-10-29",
+          "decision": "User asks whether to continue pressing or award a tally. Assistant has no further substantive evidence for this objection and closes it against the challenge.",
+          "tally_effect": "One Daniel defense point; current total Daniel6 assistant0."
+        }
+      ],
+      "primary_claim_status": "Supporting corroboration only; not the primary stigmata claim.",
+      "result": "The attempted transported-cloth/adaptation challenge did not substantially undermine the fragrance evidence as corroboration. No actual ordinary source or adequate account of the retained pattern was established.",
+      "scope": "One defense point for the fragrance objection actually presented. Supporting to stigmata, not a second point for stigmata or a finding that ordinary sources have been exhaustively excluded. Narrow facts about adaptation and physical odor carriage remain valid.",
+      "assistant_assessment_date": "2026-10-29"
+    },
+    {
+      "id": "Z-01",
+      "case": "Zeitoun",
+      "challenge": "The strongest prolonged womanlike-figure and gesture reports are adequately undermined by an ambiguous ordinary light interpreted as a person.",
+      "status": "closed_against_challenge",
+      "daniel_successful_defenses": 1,
+      "assistant_successful_challenges": 0,
+      "result": "The proposed objection was not sustained against early named reports of prolonged full figures and movements. A brief ambiguous observation does not establish perceptual construction of those other episodes.",
+      "actual_qualifications": [
+        "Athanasius continuous2:45–5wording differs from1969interrupted timeline.",
+        "Palmer reproduced narrative has unresolvedApril6versus29–30April dates.",
+        "Fine facial features not clearly resolved in Athanasius interview.",
+        "Common publication chains and prior expectation retained."
+      ],
+      "scope": "No exhaustive elimination of ordinary causes or blanket certification of every apparition. The current objection failed; a materially stronger evidence-based argument could be tested.",
+      "report": "research/zeitoun-figure-challenge-20261028/report.txt",
+      "agreed_on": "2026-10-28"
+    },
+    {
+      "id": "F-03",
+      "case": "Fatima",
+      "challenge": "Coelho’s later solar-viewing comparison substantially undermines the combined Fatima case as the strongest newly presented core objection.",
+      "status": "closed_against_challenge",
+      "daniel_successful_defenses": 1,
+      "assistant_successful_challenges": 0,
+      "result": "The proposed core challenge was not sustained. The comparison remains positive evidence for similarity of colors/rotation, but does not establish a duration-matched reproduction of the pale comfortably visible disc, violent movement or the complete retained event.",
+      "retained_evidence": "Coelho’s contemporary comparison is not rejected as false. Ordinary-looking colors and rotation remain a partial analogue.",
+      "limits": "Neither article times the follow-up. No documented retinal damage for Coelho. The report does not explicitly establish repetition of the full approach/descent or zigzag sequence. No universal claim that illusions must be momentary is accepted.",
+      "scope": "One point for the specific newly presented Coelho core challenge, not one point per mismatch or evidence of a calculated supernatural probability. Earlier F-02 remains closed and is not rescored.",
+      "evidence": [
+        "https://fatima-1917.com/pt/d/iii-1-97",
+        "https://fatima-1917.com/pt/d/iii-1-109",
+        "https://motivacredibilitatis.substack.com/p/it-wasnt-the-sun"
+      ],
+      "assistant_assessment_date": "2026-10-29"
+    },
+    {
+      "id": "F-04",
+      "case": "Fatima",
+      "challenge": "Ordinary sunlight plus cloud illumination supplies a demonstrated better explanation of Dalleur’s photograph and the combined historical evidence than the proposed Marian public sign.",
+      "status": "closed_against_challenge_as_presented",
+      "daniel_successful_defenses": 1,
+      "assistant_successful_challenges": 0,
+      "result": "The cloud-model objection was not sustained. Its toy rendering demonstrates a possible shadow-selection error, but has not fitted D115’s relevant shadow features together or explained the reported dancing/descent in the context of the months-ahead public-sign announcement.",
+      "reason": "No demonstrated full photographic reconstruction or better combined account was established. A possible failure mode is not evidence that the historical analysis actually failed in that way. The advance announcement, contemporary reporting, remote reports, visual sequence and geometry must be assessed together.",
+      "scope": "One distinct lighting-model challenge, not one point per unsupported feature. Does not assert that every possible ordinary mechanism has been disproved. Reopen only for substantive new evidence or a materially different developed argument.",
+      "assistant_assessment_date": "2026-11-01",
+      "evidence": [
+        "https://benthams.substack.com/p/a-clash-of-titans-the-ethan-muse",
+        "https://docs.google.com/document/d/1t-wlHbqyUUL1-wN2Lf-zOs6_v77NmG9gmBK0BDWXe4c/edit",
+        "https://sites.google.com/pusc.it/elevation-azimuth/fatimas-miracle-photo"
+      ],
+      "report": "research/fatima-photo-counters-20261027/ordinary-lighting-fit-test-20261101.txt",
+      "discussion_updates": [
+        {
+          "date": "2026-11-02",
+          "scope": "Dalleur photographic reconstruction specifically, after technical re-audit and direct pixel follow-up.",
+          "result": "Argument remains standing against the objections examined: no demonstrated input correction or ordinary-solar reconstruction closes the approximately 14.48 degree discrepancy using the retained published geometry.",
+          "positive_evidence": "Dalleur real-photo validation examples have reported errors below one degree. The new pixel pass gives a conditional 27.14 degree sketch, but retains camera assumptions and unverified physical correspondences; it is not a full independent confirmation.",
+          "tally_effect": "Reinforces the already scored F-04 photographic/lighting challenge; no duplicate point for its source and measurement follow-up. Durable total remains Daniel 9, assistant 0, with P-01 open.",
+          "reports": [
+            "research/fatima-dalleur-reaudit-20261102/report.txt",
+            "research/fatima-independent-photo-audit-20261102/pixel-measurements/report.txt"
+          ]
+        },
+        {
+          "date": "2026-11-02",
+          "scope": "Dedicated camera-assumptions audit requested by Daniel.",
+          "result": "No proof that actual camera assumptions are false or likely false. Specific period lens-shift capability documented. A mathematical ultra-wide/shift solar calibration is saved, without verified use, mounting compatibility or fit to the whole image.",
+          "tally_effect": "No new point or reopening as a demonstrated refutation; existing score preserved.",
+          "report": "research/fatima-camera-assumptions-audit-20261102/report.txt"
+        },
+        {
+          "date": "2026-11-02",
+          "scope": "Manufacturer catalogues and lens patents; period-camera inventory follow-up",
+          "result": "21 camera/format and 8 lens/family records saved. Reflex minimum-focus limits support ordinary focal ranges. A period Protar/convertible stereo platform supplies a specific ultra-wide lead; mathematical solar-angle fit requires an unverified shifted principal point and predicts substantially different fringe verticals. No full ordinary-Sun fit established.",
+          "muse_precision": "Response 42–47 minutes distinguishes preferred about28 degrees from deliberately wider 30mm-equivalent test yielding31.859 degrees, still10.861 degrees short.",
+          "tally_effect": "Existing F-04 preserved; no duplicate point, no demonstrated refutation, no new user concession.",
+          "report": "research/fatima-period-camera-catalogue-20261102/report.txt",
+          "workbook": "[local path omitted]"
+        },
+        {
+          "date": "2026-11-02",
+          "scope": "Measured upper-shawl pixel-ridge directions at Daniel request",
+          "result": "12 visible traces median4.6 degrees leftward; 10 less-sensitive traces median5.2. Generally less tilt than tested9.6–11-degree ultra-wide configuration. Published calibration closer on average; exact1–2-degree agreement and physical plumb status not established.",
+          "report": "research/fatima-period-camera-catalogue-20261102/thread-angle-audit/report.txt",
+          "tally_effect": "No new point; preserves F-04 result and existing counts."
+        },
+        {
+          "date": "2026-11-02",
+          "scope": "Explicit adjudication of attempted physical camera/lens rebuttal",
+          "status": "closed_against_challenge_as_developed",
+          "assistant_concession": "The physical camera/lens rebuttal I attempted has failed as a demonstrated counterexample. No historically feasible complete image fit has been established. Dalleur photographic reconstruction remains standing against this objection.",
+          "reason": "Period wide-angle equipment exists, but matching the target elevation algebraically did not establish agreement with measured thread directions, face perspective, mounting and image geometry together. Visible strand measurements generally favor the published calibration over this candidate, without independently determining all camera settings.",
+          "reopening_rule": "Do not present generic camera uncertainty or the same unverified ultra-wide/shift construction as an established rebuttal. Reopening requires a substantively new developed fit or evidence.",
+          "tally_effect": "Recorded under already-scored F-04; no duplicate point or change to existing9–0 total.",
+          "report": "research/fatima-period-camera-catalogue-20261102/thread-angle-audit/report.txt"
+        }
+      ],
+      "display_title": "Photographic reconstruction / lighting argument",
+      "subentries": [
+        {
+          "id": "F-04.methodology",
+          "label": "Methodology audit",
+          "status": "objection_not_sustained",
+          "result": "Main arithmetic and intended sensitivity calculations reproduced; published known-source photographic examples support the method. No fatal methodological error established.",
+          "limits": "Does not authenticate all historical camera inputs or shadow correspondences, and does not establish a universal subdegree error bound.",
+          "scored_separately": false,
+          "report": "research/fatima-dalleur-reaudit-20261102/report.txt"
+        },
+        {
+          "id": "F-04.physical-camera-lens",
+          "label": "Physical camera/lens audit",
+          "status": "attempted_rebuttal_failed",
+          "result": "Period equipment documented and a mathematical solar-angle configuration constructed, but no historically feasible setup fitting the photograph as a whole demonstrated. Selected strand pixel fits generally less tilted than candidate predictions. Dalleur reconstruction remains standing against this developed objection.",
+          "scored_separately": false,
+          "report": "research/fatima-period-camera-catalogue-20261102/report.txt",
+          "measurement_report": "research/fatima-period-camera-catalogue-20261102/thread-angle-audit/report.txt"
+        }
+      ],
+      "subentry_counting_rule": "User explicitly requests these beneath the existing photographic argument; they add no new points."
+    },
+    {
+      "id": "C-02",
+      "case": "Cumulative argument / comparative exclusivity",
+      "display_title": "Comparative exclusivity — central link to religious vindication",
+      "challenge": "The strongest investigated non-apostolic cases establish comparably documented public, religiously vindicatory signs supporting competing metaphysical frameworks and thereby undermine the claimed comparative distinctiveness of Fatima, Zeitoun and Pio.",
+      "status": "closed_against_challenge_on_examined_record",
+      "daniel_successful_defenses": 1,
+      "assistant_successful_challenges": 0,
+      "result": "The attempted comparisons have not established the intended equivalent public vindicatory counterexample on the records examined. Record this as the separate comparative argument, beyond the existing nine component-level challenges.",
+      "importance": "Central inferential bridge: event-level defenses establish what reportedly happened; the comparison across religious frameworks bears on which metaphysical explanation those events favor. Equally strong public signs vindicating conflicting frameworks would materially weaken the specifically Christian inference even if the events remained established.",
+      "scope": "Finding about investigated candidates, not proof that no possible rival exists worldwide or that every non-Christian extraordinary claim is fraudulent. Private revelations, private healings and preservation alone do not automatically meet the public-vindicatory comparison. The acknowledged Itigilov preservation counterpoint is retained.",
+      "religious_scope": "Apostolic Christian context, including Coptic Zeitoun; Roman Catholic teaching/content in Fatima and Pio. Do not relabel Zeitoun Roman Catholic.",
+      "relation_to_C01": "C-01 is now a child entry here. Its earlier specific comparison challenge and C-02 broader comparative-inference defense remain separate historical outcomes within one argument group; neither is newly awarded by this regrouping.",
+      "bookkeeping_reconciliation": "Daniel previously proposed nine plus broader exclusivity as ten. Assistant had left the broader comparative audit separate. User clarification establishes its central role; reconcile the main tally to ten while preserving the original nine and the separate comparator-case ledger.",
+      "evidence": [
+        "research/comparative-miracle-deep-audit-20261101/comparative-tally-20261102.txt",
+        "research/comparative-miracle-deep-audit-20261101/assessment.txt",
+        "research/mass-public-miracles-world-audit-20261102/research-report.txt"
+      ],
+      "reopening_rule": "Substantive new candidate documentation or a materially stronger comparative argument can reopen this finding; generic claims that other religions also report miracles do not establish equivalence.",
+      "assistant_assessment_date": "2026-11-02",
+      "subentries": [
+        {
+          "id": "C-01",
+          "case": "Cumulative argument / Fatima comparison",
+          "challenge": "The acquired Dhammakaya reporting supplies a sufficiently documentation-matched public solar-miracle comparison to challenge the claimed distinctiveness of the Fatima evidence.",
+          "status": "closed_against_challenge_as_presented",
+          "daniel_successful_defenses": 1,
+          "assistant_successful_challenges": 0,
+          "result": "Daniel identified an important mismatch: Almeida reports firsthand and composed his report on the event date; the recovered Mydans article is retrospective interview reporting. No corresponding immediate independent journalist eyewitness account of the Buddhist event has been recovered. The proposed comparison has not met the specified evidential standard.",
+          "retained_evidence": "Similar Buddhist solar-experience claims and later independent press reporting remain real comparative leads. Their existence is not withdrawn.",
+          "scope": "One point for the newly tested documentation-matched comparison, not proof that all non-Christian comparators are absent or that the Buddhist event did not happen. A materially stronger original source could justify renewed review.",
+          "assistant_assessment_date": "2026-10-29",
+          "evidence": [
+            "https://fatima-1917.com/pt/d/iii-1-87",
+            "https://www2.kenyon.edu/Depts/Religion/Fac/Adler/Reln260/Dhammakaya.htm",
+            "https://digital.car.chula.ac.th/manusya/vol5/iss1/2/",
+            "https://www.matichon.co.th/local/news_472748",
+            "research/critic-challenge-review-20261029/matichon-evidence-audit-20261029.txt"
+          ],
+          "report": "research/critic-challenge-review-20261029/research-report.txt",
+          "discussion_updates": [
+            {
+              "date": "2026-10-29",
+              "topic": "Institutional and financial context of the Dhammakaya/Fatima comparison",
+              "user_argument": "A solar-miracle claim connected with fundraising by a newer religious movement whose leadership faces financial-misconduct proceedings does not begin in the same evidential context as the Fatima case within Apostolic Christianity.",
+              "accepted_assessment": "The direct connection between the claimed sign and fundraising, movement control over promotion, witness independence, and any established deception are relevant to source credibility and must be included in the comparison. The long history of Apostolic Christianity does not itself establish Fatima; immediate independent eyewitness journalism supplies a separate evidential advantage over movement-selected promotional testimony.",
+              "retained_limits": [
+                "Small size or newness alone is not evidence that a religious claim is false; no verified description of Dhammakaya as small is adopted.",
+                "Financial allegations and judicial proceedings are not convictions or proof that a solar event was staged.",
+                "Date each allegation and proceeding: later cases must not be projected back as pending on6September1998 without evidence.",
+                "The legal allegations concern Dhammachayo and must not be transferred to the deceased teacher Sodh Candasaro, whose image some witnesses reported.",
+                "Generic reputational concerns cannot substitute for evaluating the actual observations and primary documents."
+              ],
+              "effect": "Additional accepted context supporting the existing finding that the recovered Thai dossier is not documentation-matched to Fatima; no new independent scored challenge.",
+              "score_change": 0,
+              "references": [
+                "https://www2.kenyon.edu/Depts/Religion/Fac/Adler/Reln260/Dhammakaya.htm",
+                "https://digital.car.chula.ac.th/manusya/vol5/iss1/2/",
+                "https://www.matichon.co.th/local/news_472748",
+                "research/critic-challenge-review-20261029/matichon-evidence-audit-20261029.txt"
+              ]
+            },
+            {
+              "date": "2026-10-29",
+              "topic": "Adjudication of Thai low-sun comparison",
+              "user_argument": "Low-sun conditions and prolonged solar viewing make ordinary atmospheric/perceptual effects a credible explanation for important Thai features, weakening equivalence to Fatima near solar noon.",
+              "assistant_assessment": "Accepted as a substantial comparison difference. Approximate elevations are10to5degrees over20minutes onOctober11and4to2degrees over10minutes onNovember1. Specific smog conditions are not established. Ordinary mechanisms are plausible for some features, not a demonstrated complete reconstruction of the monk figure. No additional evidence presently available sustains the Thai case as equivalently documented or comparably strong to the full Fatima case.",
+              "decision": "Existing C-01 successful defense strengthened; no second independent challenge scored. The unresolved monk-figure claim does not itself establish equivalence or reopen the closed comparison.",
+              "score_change": 0,
+              "report": "research/critic-challenge-review-20261029/thai-fatima-solar-comparison-20261029.txt"
+            }
+          ],
+          "parent_id": "C-02",
+          "display_title": "Thai solar / Dhammakaya comparison",
+          "scoring_note": "Previously recorded specific comparison challenge, now nested under comparative exclusivity. Reparenting does not create or remove its existing point."
+        }
+      ]
+    },
+    {
+      "id": "D-01",
+      "case": "Cumulative argument / dogmatic Catholicism",
+      "challenge": "The argument lacks a connection from the announced public sign to its Catholic message, or requires independent proof of each Catholic dogma before the sign can support Catholicism.",
+      "status": "closed_against_challenge_as_presented",
+      "result": "Daniel successfully defended the religious-authentication connection. The advance announcement attributed to Mary supplies an explicit prediction-and-fulfillment argument for the credibility of the speaker and message; it is not a Catholic interpretation added to an unrelated event afterward. Independent proof of every dogma is not a prerequisite.",
+      "daniel_successful_defenses": 1,
+      "assistant_successful_challenges": 0,
+      "reason": "If divine intervention authenticates the Church’s protected dogmatic teaching authority, acceptance of its defined dogmas follows through that authority. Accepting an authentic validating Marian sign while arbitrarily rejecting its associated message would require specific supporting evidence. The assistant supplied no such argument in this exchange.",
+      "scope": "Successful defense of the proposed connection and the conditional doctrinal-authority inference. This entry does not separately adjudicate the occurrence of supernatural agency or establish that endorsement of a particular devotion automatically authenticates every institutional authority claim. Those propositions must not be silently treated as conceded or as new counterevidence.",
+      "agreed_on": "2026-11-02",
+      "evidence": [
+        "Current conversation: Daniel identifies the children’s advance attribution to Mary as the connection, explains Catholic dogmatic authority, and challenges selective acceptance of a validating sign while discounting its associated message.",
+        "https://www.santuario-fatima.pt/en/pages/narrative-of-the-apparitions-",
+        "https://www.vatican.va/content/catechism/en/part_one/section_one/chapter_two/artcile_2/iii_the_interpretation_of_the_heritage_of_faith.index.html"
+      ],
+      "tally_effect": "One distinct inferential challenge closed, not an additional empirical replication. Daniel11 successful defenses, assistant0 successful challenges; P-01 remains open."
+    },
+    {
+      "id": "H-01",
+      "case": "Consistent application of historical evidence standards",
+      "issue": "The assistant already accepted historical knowledge but allowed general uncertainty about extraordinary causation to blur the weight of the specific Fatima record.",
+      "status": "acknowledged_methodological_framing_correction",
+      "result": "At Daniel’s clarification, this is a correction to the application of an already accepted epistemology, not adoption of a new epistemology or a concession that history was previously thought unknowable. The assistant did not establish an ordinary account adequate to the combined case through the developed challenges.",
+      "daniel_successful_defenses": 0,
+      "assistant_successful_challenges": 0,
+      "scope": "Preserve historical knowledge as shared throughout. Record the assistant’s uneven application and presentation of evidentiary standards. Do not claim knowledge of subconscious motivation. Distinguish legitimate specific uncertainty from an unsupported default verdict against the event or cause. This correction alone does not independently prove supernatural causation.",
+      "agreed_on": "2026-11-02",
+      "evidence": [
+        "Current exchange: Alexander the Great, the1906 San Francisco fire, the War of1812 and the hypothetical Gatsby party used to illustrate knowable historical occurrences. Gatsby is explicitly hypothetical, not a real historical witness or event."
+      ],
+      "tally_effect": "11 successful defenses plus1 methodological correction =12 recorded points;0 successful assistant challenges. This replaces the foundational/epistemic label; it does not add another point.",
+      "daniel_methodological_corrections": 1,
+      "discussion_updates": [
+        {
+          "date": "2026-11-02",
+          "clarification": "Daniel notes shared epistemology was never disputed; his criticism concerns applying a different standard to Fatima. Accepted; H-01 relabeled without changing score."
+        }
+      ]
+    },
+    {
+      "id": "L-01",
+      "case": "Lourdes — Antonia Raco",
+      "challenge": "Does Raco’s documented recovery establish reversal of primary lateral sclerosis, or is a different diagnosis a better fit to her pre-recovery neurological syndrome and subsequent course?",
+      "status": "unscored_case_review",
+      "opened_on": "2026-11-07",
+      "result": "Daniel clarified that he advances the wider Lourdes track record and has no settled view on Raco. Clinical audit completed as an unscored case review.",
+      "reason": "The approving report records atypical features, normal motor evoked potentials, and Jean Pouget’s acceptance of recovery while disputing PLS. The 2024 committee approved the combined clinical case 17–4 after consideration of the updated criteria. Normal tests alone do not exclude PLS.",
+      "scope": "Tests one important modern Lourdes case, not every recovery or the whole Marian cumulative argument. Distinct from earlier shrine-timing and comparator challenges.",
+      "adjudication_test": "Show a material failure of the consensus criteria or substantiate a patient-specific alternative that fits the signs, progression, tests and durable recovery. A generic possible mimic or a missing record does not sustain the challenge.",
+      "daniel_successful_defenses": 0,
+      "assistant_successful_challenges": 0,
+      "evidence": [
+        "research/argument-thread-audit-20261028/l-01-raco-diagnosis-20261107.txt",
+        "research/lourdes-period-audit-20261102/1977-present/sources/raco-medical-report-amil.pdf",
+        "https://doi.org/10.1136/jnnp-2019-322541"
+      ],
+      "tally_effect": "Removed from open debate count. Case is entered in the separate Lourdes forensic tally."
+    },
+    {
+      "id": "F-05",
+      "case": "Fatima",
+      "display_title": "Sunlit cloud as the lower light and the moving disc",
+      "challenge": "One sunlit cloud patch produced both the lower-angle shadows in D115 and the disc witnesses saw spinning, changing color and plunging.",
+      "status": "closed_against_challenge_as_presented",
+      "opened_on": "2026-11-07",
+      "assistant_assessment_date": "2026-11-07",
+      "result": "No physically credible joint fit was established. The assistant withdraws the challenge as presented and records the agreed tally point as a Daniel defense.",
+      "reason": "Fixed-height drift predicts shrinking during apparent descent and eastward drift of a nearby low patch raises its elevation at Alburitel. Changing illumination can evade the simple drift constraints, but published cloud scattering and halo examples do not reproduce the D115 shadows and the reported disc across locations.",
+      "scope": "Accepts the reconstructed lower direction and tests the proposed identity of the light. F-04 tested a misleading reconstruction under ordinary sunlight with cloud illumination. The observer positions and timings do not support measured triangulation, and the checks do not exclude all possible atmospheric phenomena.",
+      "daniel_successful_defenses": 1,
+      "assistant_successful_challenges": 0,
+      "report": "research/argument-thread-audit-20261028/f-05-cloud-source-20261107.txt",
+      "evidence": [
+        "https://doi.org/10.12775/SetF.2021.001",
+        "https://fatima-1917.com/s/sel-23-1",
+        "https://fatima-1917.com/d/iii-1-345",
+        "https://www.basicincome.com/bp/files/Meet_the_Witnesses.pdf#page=63",
+        "https://acp.copernicus.org/articles/25/4419/2025/"
+      ]
+    },
+    {
+      "id": "L-02",
+      "case": "Lourdes",
+      "display_title": "Timing of the strongest rapid recoveries",
+      "challenge": "Ordinary recovery and the concentration of observations and reporting around Lourdes pilgrimages can account for the timing of the strongest rapid recoveries.",
+      "status": "closed_against_challenge_as_presented",
+      "opened_on": "2026-11-07",
+      "assistant_assessment_date": "2026-11-07",
+      "result": "Selection and reporting can make some accounts more precise than the clinical record. They do not supply an ordinary explanation for the strongest documented within-pilgrimage changes. The assistant withdraws the challenge and records one successful defense.",
+      "reason": "Borel's repeated dressing observations and Traynor's repeated examinations establish changes during their visits. Chagnon's named attendant supports more precise bath timing within the broader physician bracket. Published comparators do not supply diagnosis-specific background rates under equivalent observation or a fit to the hardest cases.",
+      "scope": "All ten solid before-and-after fast cases in the selected forensic tally, including seven French shrine visits. The selected cases do not estimate a population recovery rate. Distinct from L-01 and its review of Raco's diagnosis.",
+      "daniel_successful_defenses": 1,
+      "assistant_successful_challenges": 0,
+      "report": "research/argument-thread-audit-20261028/l-02-lourdes-recovery-timing-20261107.txt",
+      "evidence": [
+        "https://www.bmj.com/content/bmj/2/2590/467.full.pdf",
+        "https://www.lourdes-france.org/wp-content/uploads/2024/12/ATTACHMENT-1.A-JOURNAL-Pages-entieres-DE-LA-GROTTE-DE-LOURDES_1926_52.pdf",
+        "https://archive.org/details/b24861820/page/116/mode/2up",
+        "https://doi.org/10.1111/codi.17186",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC3854941/"
+      ]
+    },
+    {
+      "id": "L-03",
+      "case": "Lourdes",
+      "display_title": "Waterlogged soil at the spring",
+      "challenge": "Bernadette may have had ordinary access to knowledge of the spring or a visible clue at the place she scraped.",
+      "status": "closed_unscored_supporting_detail",
+      "opened_on": "2026-11-07",
+      "assistant_assessment_date": "2026-11-07",
+      "result": "The 1862 mandement's summary of Bernadette's testimony supports waterlogged ground as a cue at the spot before scraping. It also records her account of the apparition turning her back from the river. No evidence of prior knowledge by Bernadette was established. A later published excerpt of Sophie Pulo's recollection of earlier visible water at the same spot awaits verification against Cros's full interview.",
+      "scope": "The soil finding concerns how Bernadette got water after reaching the spot. Daniel's claim concerns who directed her there and connects the discovery to the shrine-associated healings.",
+      "scope_correction": "Daniel questioned the relevance. The assistant withdrew the open challenge because the finding is compatible with the claim under discussion. No point awarded.",
+      "daniel_successful_defenses": 0,
+      "assistant_successful_challenges": 0,
+      "report": "research/argument-thread-audit-20261028/l-03-lourdes-spring-20261107.txt",
+      "evidence": [
+        "https://books.google.com/books?id=Au1sqyAtcZMC&pg=PA112",
+        "https://books.google.com/books?id=Au1sqyAtcZMC&pg=PA113",
+        "https://fr.scribd.com/document/603045064/LES-APARITIONS-DE-LOURDES-SOUVENIRS",
+        "https://fr.scribd.com/document/36349020/29436087-Http-Www-Neotrouve-Com-Les-Mysteres-de-Lourdes"
+      ]
+    },
+    {
+      "id": "L-04",
+      "case": "Lourdes",
+      "display_title": "Sincere mistake across the apparition series",
+      "challenge": "An initial misperception followed by recurring experiences reinforced by prayer and public attention can account for Bernadette's 18 reports.",
+      "status": "closed_against_challenge_as_presented",
+      "opened_on": "2026-11-07",
+      "assistant_assessment_date": "2026-11-07",
+      "result": "The contemporary medical panel proposed this account without observing the initial reflection. Later same-site and experimental comparisons establish narrower effects and do not fit the combined Lourdes pattern. The assistant withdraws the challenge as presented and records one successful defense.",
+      "reason": "The first report preceded the crowds and repeated visits. The pattern includes visits without an apparition, a final encounter from across the river, changing reported speech and the direction that preceded uncovering the spring. Recurrence and selective experiences are possible in ordinary settings. No case-specific cause or sufficiently close comparator was established.",
+      "scope": "One challenge to the apparition series and the reported direction to the spring. Treat the 18 reports as one linked series. Keep the healing history as separate evidence in the combined case.",
+      "daniel_successful_defenses": 1,
+      "assistant_successful_challenges": 0,
+      "report": "research/argument-thread-audit-20261028/l-04-lourdes-repeated-apparitions-20261107.txt",
+      "evidence": [
+        "https://www.lourdes-france.com/en/the-account-of-the-first-apparition/",
+        "https://www.lourdes-france.org/en/apparitions/",
+        "https://fr.scribd.com/document/603045064/LES-APARITIONS-DE-LOURDES-SOUVENIRS",
+        "https://where-you-are.net/ebooks/st_-bernadette-soubirous_-1844-trochu-francois-abbe.pdf",
+        "https://books.google.com/books?id=Au1sqyAtcZMC&pg=PA48",
+        "https://apexlab.uchicago.edu/docs/papers/LordTeachusPray.pdf",
+        "https://www.bmj.com/content/bmj/4/5778/37.full.pdf"
+      ]
+    },
+    {
+      "id": "Z-02",
+      "case": "Zeitoun",
+      "display_title": "Pepper's Ghost over the domes",
+      "challenge": "A concealed illuminated performer and one flat reflector could account for the moving full figure reported at dawn on April 30, 1968.",
+      "status": "closed_against_challenge_as_presented",
+      "opened_on": "2026-11-07",
+      "assistant_assessment_date": "2026-11-07",
+      "result": "The assistant withdraws the one-pane challenge as presented and records one successful defense.",
+      "reason": "The May 7 interview excerpt places Athanasius in a garden west of the church from 04:00 to 05:00. Some modeled one-sector geometries produce the right outgoing rays, but their hidden source rays require a roof passage outside the modeled opening or fail the masonry and concealment checks. No installation evidence was recovered.",
+      "scope": "One challenge to the full moving figure, distinct from the ambiguous-light objection in Z-01. The precise garden position and exact roof elevations are unverified. Simultaneous western and Toman Bay sightlines are a sensitivity test.",
+      "daniel_successful_defenses": 1,
+      "assistant_successful_challenges": 0,
+      "report": "research/zeitoun-peppers-ghost-20261107/report.txt",
+      "evidence": [
+        "https://ourladyofzeitoun.com/en/skeptic/the-identity-of-the-apparition-over-the-zeitoun-domes/",
+        "https://ourladyofzeitoun.com/en/report/scenes-of-the-apparition/",
+        "https://ourladyofzeitoun.com/en/newspaper/watani-newspaper-may-5-1968/",
+        "https://ourladyofzeitoun.com/en/newspaper/al-gomhuria-may-6-1968/",
+        "https://www.stmaryztn.org/saintmary/en/the-church/about-the-church",
+        "research/zeitoun-peppers-ghost-20261107/zeitoun-sightlines.png"
+      ]
+    },
+    {
+      "id": "F-06",
+      "case": "Fatima",
+      "display_title": "Geographic localization of the light source",
+      "challenge": "The distant accounts geometrically locate the D115 light source a few kilometres south of Cova da Iria.",
+      "status": "closed_unscored_source_claim_review",
+      "assistant_assessment_date": "2026-11-07",
+      "result": "The published geographic localization is not supported by independent crossing bearings. This finding is recorded separately because Daniel authorized the audit without adopting the localization as a premise.",
+      "reason": "Figure 8's lines are drawn toward the Cova, while the suggested source is placed separately to the south. Minde supplies one meaningful directional account. Leiria's mountain and 1917 station are unidentified, and the Moel and Alburitel accounts give no recoverable source bearings. Granting D115's angular elevation does not remove the demonstrated ambiguity in distance.",
+      "scope": "One source claim about geographic position. D115's elevation and the positive testimony outside the Cova are retained as separate evidence.",
+      "daniel_successful_defenses": 0,
+      "assistant_successful_challenges": 0,
+      "report": "research/fatima-source-localization-20261107/report.txt",
+      "evidence": [
+        "https://apcz.umk.pl/SetF/article/view/SetF.2021.001",
+        "https://motivacredibilitatis.substack.com/p/our-lady-of-fatima",
+        "https://motivesofcredibility.substack.com/p/it-wasnt-the-sun",
+        "https://www.basicincome.com/bp/files/Meet_the_Witnesses.pdf",
+        "research/fatima-source-localization-20261107/localization.png"
+      ]
+    }
+  ],
+  "totals": {
+    "daniel_successful_defenses": 15,
+    "assistant_successful_challenges": 0,
+    "open": 1,
+    "deferred_peripheral": 0,
+    "daniel_partial_credit": 0,
+    "daniel_points_including_partial_credit": 15,
+    "daniel_total_recorded_points": 16,
+    "daniel_methodological_corrections": 1
+  },
+  "latest_analysis": "research/fatima-source-localization-20261107/report.txt",
+  "scope_clarifications": [
+    {
+      "date": "2026-10-28",
+      "user_statement": "Thats fine, i'm not arguing any of these. I'm arguing stigmata not those issues",
+      "scope": "Daniel does not rest his core stigmata argument on the stronger formulations about measured depth, microbiological sterility, quantified blood loss or healing speed. Corrections to those formulations are not defeats of the core claim, and are not concessions that stigmata were ordinary or fabricated.",
+      "assistant_correction": "Distinguish limits on particular medical descriptions from an adequate explanation or falsification of the sustained stigmata case. No new point awarded.",
+      "preserve": "Earlier scar discussion remains historical evidence; do not turn this scope clarification into a retraction or victory."
+    },
+    {
+      "date": "2026-10-29",
+      "user_statement": "Stigmata is the primary Pio claim; fragrance is optional corroboration. Setting fragrance aside would not defeat the stigmata argument.",
+      "assistant_assessment": "Accepted. Physical carriage of odor is compatible with ordinary and supernatural source accounts. Adaptation addresses selective perception but identifies no source. The proposed fragrance objection has not substantially undermined the reported corpus and is not a successful attack on the primary Pio claim.",
+      "tally_effect": "No assistant point or new peripheral user point. Current tally remains Daniel5 assistant0.",
+      "scope": "P-05 remains an unresolved supporting issue, not a primary victory condition."
+    },
+    {
+      "date": "2026-10-29",
+      "user_statement": "Pio wounds varied substantially; invariance was not a premise.",
+      "assistant_assessment": "Invariance framing withdrawn. Changing appearance and earlier scars do not by themselves defeat the retained combined history or account for the final reported absence of visible scars.",
+      "tally_effect": "No additional point: this repeats the P-04 core defense already scored. P-01/P-02 remain open."
+    },
+    {
+      "date": "2026-10-30",
+      "topic": "Routine wound care versus deliberate perpetuation; duration comparator",
+      "user_argument": "Cleaning wounds, applying dressings and ordinary antiseptic care are expected care for existing wounds, not evidence of intentionally creating or perpetuating them.",
+      "assistant_assessment": "Accepted. The term maintenance blurred ordinary care with deliberate interference with healing. Care alone does not establish artificial injury. No documented ordinary mechanism fitting the combined Pio chronology has been established in this exchange. The 54-year venous-ulcer comparator documents duration but supplies no individual infection history, and does not explain Pio.",
+      "tally_effect": "No new distinct scored challenge: reinforces the already-scored P-04 defense. Daniel 7, assistant 0. P-01 and P-02 remain open; the chemical-control question is not settled by ordinary wound-care evidence."
+    },
+    {
+      "date": "2026-10-31",
+      "topic": "Bilocation was exploratory, not Daniel’s asserted premise",
+      "user_statement": "I actually never claimed bilocation",
+      "assistant_assessment": "Accepted. User asked to investigate bilocation, not to rely on Orione or any particular episode. The archival denial is a correction to a circulated story, not a defeated argument by Daniel. No cause-specific adjudication of Orione has been recovered; bilocation testimony elsewhere in the Positio is positive evidence requiring its own assessment.",
+      "tally_effect": "No score change."
+    },
+    {
+      "date": "2026-11-01",
+      "topic": "Preserve Daniel’s affirmative cumulative explanation across summaries",
+      "user_objection": "Repeatedly contrasting the argument with something strange happened and remains unexplained introduces a simplistic argument Daniel did not make. His positive explanation has been developed over a week of documentary and technical investigation.",
+      "assistant_correction": "Do not attribute a generic unexplained-event or ignorance argument to Daniel. His affirmative hypothesis is Marian intervention as a public religious sign, evaluated through advance prediction, contemporary reporting, skeptical and religious witnesses, dispersed reports and photographic evidence together; Fatima also belongs to the larger comparison with Zeitoun and Pio. Acknowledging this structure is not a new discovery or a favor to the user. Distinguish substantiated contrary evidence from bare alternative possibilities; retain specific prior concessions and closed objections.",
+      "tally_effect": "F-04 newly scored once. Durable ledger changes from Daniel8 assistant0 to Daniel9 assistant0; P-01 remains open."
+    },
+    {
+      "date": "2026-11-01",
+      "topic": "Marian agency necessarily entails supernatural causation",
+      "user_objection": "Calling Marian intervention the strongest explanation and then withholding judgment that the cause is supernatural sounds like an unfalsifiable veto.",
+      "assistant_correction": "An overall judgment for Marian intervention entails supernatural causation. Best-developed account presented is not the same as a justified overall probability ranking. The assistant has not established that overall ranking and must not blur these claims or imply positive assent and withdraw it in the next sentence. Failure to establish an overall ranking also does not establish a naturalistic verdict. No requirement to defeat every imaginable ordinary possibility, and no arbitrary40-win threshold. Continue assessing actual records and remaining comparable claims with the same standards.",
+      "tally_effect": "No new adjudicated challenge. Daniel9 assistant0 unchanged."
+    },
+    {
+      "date": "2026-11-01",
+      "topic": "Assistant selected the scored battlegrounds",
+      "user_statement": "You chose the battlegrounds of the nine battles; I asked for your strongest arguments.",
+      "assistant_agreement": "The scored challenges were selected and advanced by the assistant in response to Daniel asking for its strongest documented objections. Preserve this selection history when assessing the meaning of the nine successful defenses. Do not recast the score as Daniel choosing easy objections or defending nine arbitrary peripheral assertions. Repeated failure of the selected objections should reduce confidence in the assistant’s previously proposed rebuttal strategies; do not reset to the same presumption after each closed challenge.",
+      "tally_effect": "Context correction only; Daniel9 assistant0 unchanged."
+    },
+    {
+      "date": "2026-11-02",
+      "topic": "Exclusivity as central comparative inference and tally reconciliation",
+      "user_statement": "Exclusivity is a KEY argument maybe the most important; comparable events in conflicting metaphysical frameworks would undermine the Christian-vindication inference.",
+      "assistant_assessment": "Treat as a separate comparative-inference argument, rather than merely another event detail. Failure to establish the investigated comparators is the recorded defense; no global absence theorem asserted.",
+      "tally_effect": "C-02 adds the previously unrecorded umbrella comparative challenge. Main total reconciled from9 to10; existing photographic methodology/camera subentries remain unscored separately."
+    },
+    {
+      "date": "2026-11-02",
+      "topic": "Fresh adversarial Fatima review; unscored research findings",
+      "finding": "Distant reports support regional testimony but do not supply a synchronized directional reconstruction of a low source near the Cova. Stern 1964 supplies experimental counterevidence to duration alone excluding ordinary apparent motion; dark-room pinpoint conditions do not reproduce Fatima. New multiview calibration screened 78 pairs and was inconclusive; no reliable ordinary-solar reconstruction established.",
+      "scope": "No complete rebuttal, no reversal of the earlier photographic or camera concession, no new adjudicated challenge. Source/read-scope limitations documented in the report.",
+      "tally_effect": "Unchanged: Daniel 10 successful defenses, assistant 0 successful challenges; P-01 remains open.",
+      "report": "research/fatima-adversarial-audit-20261102/research-report.txt"
+    },
+    {
+      "date": "2026-11-02",
+      "topic": "Duration objection scope clarified after adversarial Fatima review",
+      "user_clarification": "Duration was a supporting observation about the combined scale, sustained observation and viewing conditions, not a claim that a ten-minute illusion is impossible. A stationary pinpoint in a dark room does not test thousands of daylight observers reporting an extended event.",
+      "assistant_assessment": "Accepted. Stern challenges only an absolute short-duration exclusion that Daniel did not assert. Do not present that experiment as a major challenge or successful rebuttal to the core Fatima case. Early distant testimony remains positive evidence; lack of measured triangulation limits physical inference, not the existence or value of regional corroboration. The multiview camera attack remains inconclusive and reverses no prior concession.",
+      "tally_effect": "No new adjudicated challenge or point. Daniel 10 successful defenses, assistant 0 successful challenges."
+    },
+    {
+      "date": "2026-11-02",
+      "topic": "Shadow correspondence and source identity follow-up; no new score",
+      "finding": "Primary University of Rochester geometry confirms that an appropriate common supporting tangent supplies a valid shadow correspondence; no demonstrated misuse in D115 was established. New elementary penumbra calculation shows that near-contact sharpness alone does not establish a small angular source or identify that source with the apparent disc. Actual cloud radiance/geometry was not recovered or jointly fitted.",
+      "limits": "Not a solar-consistent historical reconstruction, not a defeated photographic argument, and not a full ordinary explanation of Fatima. Do not promote this stated component challenge into an adjudicated victory.",
+      "tally_effect": "Unchanged: Daniel 10, assistant 0; P-01 remains open.",
+      "report": "research/fatima-shadow-correspondence-audit-20261102/research-report.txt"
+    },
+    {
+      "date": "2026-11-02",
+      "topic": "Witness/press case does not depend on the pending photograph replication",
+      "user_clarification": "The historical physical event is argued from witnesses, prediction and contemporary press; photography is additional corroboration. Continue checking Dalleur and Muse without making the original scan a prerequisite for evaluating the documentary argument.",
+      "assistant_action": "Accepted scope; inspected21sampled frames from the1080p author walkthrough, read full English template-tutorial subtitles, indexed11cue/probe checks, distinguished worked-example categories, and rechecked official CV. The isolated contact-shadow example did not test the complete multi-cue reconstruction.",
+      "limits": "No complete independent raw-scan replication or ordinary-source reconstruction claimed. Failure to obtain the scan or scene file is not counterevidence.",
+      "report": "research/fatima-dalleur-followup-20261102/research-report.txt",
+      "tally_effect": "No score change: Daniel10 successful defenses, assistant0; P-01 remains open."
+    },
+    {
+      "date": "2026-11-02",
+      "topic": "Focused Dalleur/Muse transcript review and primary color-testimony check",
+      "review": "Cumulative complete reading of three Dalleur transcripts retained; fresh targeted Muse/Bradley and Sonna readings; Crummett opening and physical-evidence exchange; entire Pints Fatima section26:47–2:00:21. Exact limits in review-coverage.json; no claim all11hours newly reviewed.",
+      "findings": "Carlos Silva18October1917letter and Manuel Goncalves Junior31December1918deposition substantiate reports of environmental colors while avoiding deliberate solar fixation; printed scans visually checked. Garrett eye-closing passage does not explicitly state no closed-eye afterimages; his later comparison experiment remains positive testimony. Authors provide substantive method/validation defenses; no completed contrary D115 reconstruction emerged.",
+      "tally_effect": "No new scored challenge or point; Daniel10, assistant0; prior F-01/F-04 results preserved.",
+      "report": "research/fatima-dalleur-muse-transcripts-20261102/review-notes.txt"
+    },
+    {
+      "date": "2026-11-02",
+      "topic": "Assistant reasoning self-audit requested by Daniel",
+      "finding": "Withdraw implication that the exchange established Daniel below preponderance or ordinary causation as more likely. Repeated generic possibilities and demands for a missing religious connector were not sustained counterarguments. Correct overstatement of conditional arithmetic/pixel checks as full independent physical verification. Preserve precise empirical limits and prior unsuccessful-challenge outcomes. No numerical supernatural probability is supplied by the tally.",
+      "report": "research/argument-thread-audit-20261028/reasoning-self-audit-20261102.txt",
+      "tally_effect": "No new adjudicated challenge or user concession;11 successful defenses,0 assistant successful challenges; P-01 remains open."
+    }
+  ],
+  "provisional_findings": [
+    {
+      "id": "P-06",
+      "date": "2026-10-31",
+      "topic": "Serritelli allegations, continued charity and chastity assessment",
+      "status": "tentative_pro_pio_finding_deferred_for_library_access",
+      "agreed_assessment": "At Daniel’s request, shelved as a tentative finding in Pio’s favor. The examined record has not substantiated the alleged sexual relationship; favorable accounts of continued charity and confession remain evidence requiring original-source verification.",
+      "limits": "No original Serritelli recantation or independently dated1961–65 encounter recovered. Profilo II pp38–40 and Positio I/2 p1480 pending. Philippe1969 partial reconsideration is not a blanket recantation. No motive of deliberate harm or actual innocence inferred as proven.",
+      "score_effect": "Provisional favorable finding only; no finalized new tally point. Existing Daniel8 assistant0 unchanged.",
+      "report": "research/pio-dissenters-20261031/archive-org-followup.html"
+    }
+  ],
+  "current_core_cases": [
+    "Fatima",
+    "Zeitoun",
+    "Padre Pio",
+    "Lourdes: reported Marian apparition and direction to the spring, with shrine-associated healings"
+  ],
+  "fourth_pillar_added": {
+    "date": "2026-11-01",
+    "user_instruction": "Add Bernadette as a fourth pillar",
+    "scope": "Postmortem bodily preservation supported by medical examinations, distinct from the earlier Lourdes apparition claims.",
+    "jenga_block": 34,
+    "tally_effect": "No automatic new point; challenge totals unchanged."
+  },
+  "tally_structure": {
+    "top_level_scored_argument_groups": 14,
+    "recorded_successful_challenges_defended": 15,
+    "explanation": "Thai C-01 nested beneath comparative exclusivity C-02 at user request. Count existing scored outcomes recursively; F-04 methodology and camera/lens remain unscored subentries. D-01 separately records the religious-authentication/doctrinal-authority connection; it is not a new empirical finding.",
+    "recorded_methodological_corrections": 1
+  },
+  "fourth_pillar_refined": {
+    "date": "2026-11-02",
+    "user_statement": "Lourdes is the fourth pillar.",
+    "scope": "Refines the earlier Bernadette-only fourth-pillar entry into the broader Lourdes case. Its main argument joins the claimed Marian apparition, specifically Catholic Immaculate Conception message, spring/shrine-associated recoveries and medical investigation across generations. Bernadette bodily preservation is supporting evidence within Lourdes, not a separately counted fifth event.",
+    "research_index": "research/lourdes-case-deepdives-20261102/research-index.txt",
+    "tally_effect": "Scope addition/refinement only; no automatic new successful-defense point or final supernatural-causation adjudication."
+  }
+}

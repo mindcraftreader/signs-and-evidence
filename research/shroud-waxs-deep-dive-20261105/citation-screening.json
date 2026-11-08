@@ -1,0 +1,331 @@
+{
+  "date": "2026-11-05",
+  "index": "OpenAlex",
+  "unique_records": 29,
+  "records": [
+    {
+      "title": "Impact of Natural Degradation on the Aged Lignocellulose Fibers of Moroccan Cedar Softwood: Structural Elucidation by Infrared Spectroscopy (ATR-FTIR) and X-ray Diffraction (XRD)",
+      "doi": "https://doi.org/10.3390/fermentation8120698",
+      "year": 2022,
+      "id": "https://openalex.org/W4311185582",
+      "cites_founding_papers": [
+        "waxs-method-2019"
+      ],
+      "access_level_in_this_pass": "metadata/title screen",
+      "apparent_role": "Potentially relevant materials/heritage study; no independent WAXS calendar validation established from metadata."
+    },
+    {
+      "title": "Evolution of the ultrastructure and polysaccharide composition of flax fibres over time: When history meets science",
+      "doi": "https://doi.org/10.1016/j.carbpol.2022.119584",
+      "year": 2022,
+      "id": "https://openalex.org/W4229038722",
+      "cites_founding_papers": [
+        "waxs-method-2019"
+      ],
+      "access_level_in_this_pass": "Publisher abstract/excerpts and scope inspected; full text not claimed.",
+      "apparent_role": "Review/chapter/context; citation alone does not establish a new dating experiment."
+    },
+    {
+      "title": "Pyrolysis activation energy of cellulosic fibres investigated by a method derived from the first order global model",
+      "doi": "https://doi.org/10.1016/j.carbpol.2022.120518",
+      "year": 2022,
+      "id": "https://openalex.org/W4313372251",
+      "cites_founding_papers": [
+        "waxs-method-2019"
+      ],
+      "access_level_in_this_pass": "metadata/title screen",
+      "apparent_role": "Potentially relevant materials/heritage study; no independent WAXS calendar validation established from metadata."
+    },
+    {
+      "title": "A Statistical Theory of Language Translation Based on Communication Theory",
+      "doi": "https://doi.org/10.4236/ojs.2020.106055",
+      "year": 2020,
+      "id": "https://openalex.org/W3111054587",
+      "cites_founding_papers": [
+        "waxs-method-2019"
+      ],
+      "access_level_in_this_pass": "metadata/title screen",
+      "apparent_role": "Context, theory, biography, or unrelated application; not a linen calendar-age validation."
+    },
+    {
+      "title": "Wide Angle X-Ray Scattering to Study the Atomic Structure of Polymeric Fibers",
+      "doi": "https://doi.org/10.3390/cryst10040274",
+      "year": 2020,
+      "id": "https://openalex.org/W3014597976",
+      "cites_founding_papers": [
+        "waxs-method-2019"
+      ],
+      "access_level_in_this_pass": "metadata/title screen",
+      "apparent_role": "X-ray structural/processing method; not evidence of an independent calendar-date trial."
+    },
+    {
+      "title": "X-ray Dating of a Turin Shroud’s Linen Sample",
+      "doi": "https://doi.org/10.3390/heritage5020047",
+      "year": 2022,
+      "id": "https://openalex.org/W4223492843",
+      "cites_founding_papers": [
+        "waxs-method-2019"
+      ],
+      "access_level_in_this_pass": "metadata/title screen",
+      "apparent_role": "Same-program Shroud application/modeling."
+    },
+    {
+      "title": "Improving X-ray images of historically significant textiles",
+      "doi": "https://doi.org/10.1016/j.culher.2023.12.020",
+      "year": 2024,
+      "id": "https://openalex.org/W4390629360",
+      "cites_founding_papers": [
+        "waxs-method-2019"
+      ],
+      "access_level_in_this_pass": "metadata/title screen",
+      "apparent_role": "X-ray structural/processing method; not evidence of an independent calendar-date trial."
+    },
+    {
+      "title": "The Shroud of Turin: An Overview of the Archaeological Scientific Studies",
+      "doi": "https://doi.org/10.3390/textiles5010008",
+      "year": 2025,
+      "id": "https://openalex.org/W4407720636",
+      "cites_founding_papers": [
+        "waxs-method-2019",
+        "waxs-shroud-2022"
+      ],
+      "access_level_in_this_pass": "metadata/title screen",
+      "apparent_role": "Review/chapter/context; citation alone does not establish a new dating experiment."
+    },
+    {
+      "title": "New baits for fishing in cultural heritage's Mare Magnum",
+      "doi": "https://doi.org/10.1016/j.jprot.2021.104113",
+      "year": 2021,
+      "id": "https://openalex.org/W3120672799",
+      "cites_founding_papers": [
+        "waxs-method-2019"
+      ],
+      "access_level_in_this_pass": "metadata/title screen",
+      "apparent_role": "Context, theory, biography, or unrelated application; not a linen calendar-age validation."
+    },
+    {
+      "title": "Yellowing of Ancient Linen and Its Effects on the Colours of the Holy Face of Manoppello",
+      "doi": "https://doi.org/10.3390/heritage3010001",
+      "year": 2019,
+      "id": "https://openalex.org/W2996495217",
+      "cites_founding_papers": [
+        "waxs-method-2019"
+      ],
+      "access_level_in_this_pass": "metadata/title screen",
+      "apparent_role": "Potentially relevant materials/heritage study; no independent WAXS calendar validation established from metadata."
+    },
+    {
+      "title": "Multi-Technique Characterization and Conservation of an Ancient Egyptian Fabric from King Khufu First Solar Ship",
+      "doi": "https://doi.org/10.4236/ijoc.2021.113010",
+      "year": 2021,
+      "id": "https://openalex.org/W3203840808",
+      "cites_founding_papers": [
+        "waxs-method-2019"
+      ],
+      "access_level_in_this_pass": "metadata/title screen",
+      "apparent_role": "Potentially relevant materials/heritage study; no independent WAXS calendar validation established from metadata."
+    },
+    {
+      "title": "Image Formation on the Holy Shroud—A Digital 3D Approach",
+      "doi": "https://doi.org/10.1111/arcm.70030",
+      "year": 2025,
+      "id": "https://openalex.org/W4412834566",
+      "cites_founding_papers": [
+        "waxs-method-2019",
+        "waxs-shroud-2022"
+      ],
+      "access_level_in_this_pass": "metadata/title screen",
+      "apparent_role": "Potentially relevant materials/heritage study; no independent WAXS calendar validation established from metadata."
+    },
+    {
+      "title": "Denoising X-Ray Diffraction Two-Dimensional Patterns with Lattice Boltzmann Method",
+      "doi": "https://doi.org/10.3390/cryst15010051",
+      "year": 2025,
+      "id": "https://openalex.org/W4406033982",
+      "cites_founding_papers": [
+        "waxs-method-2019"
+      ],
+      "access_level_in_this_pass": "Publisher abstract/excerpts and scope inspected; full text not claimed.",
+      "apparent_role": "X-ray structural/processing method; not evidence of an independent calendar-date trial."
+    },
+    {
+      "title": "First evidence of fractionation on stable organic carbon isotopes in ancient Egyptian linen textile fibers during degradation",
+      "doi": "https://doi.org/10.1016/j.culher.2023.08.004",
+      "year": 2023,
+      "id": "https://openalex.org/W4386008219",
+      "cites_founding_papers": [
+        "waxs-method-2019"
+      ],
+      "access_level_in_this_pass": "metadata/title screen",
+      "apparent_role": "Potentially relevant materials/heritage study; no independent WAXS calendar validation established from metadata."
+    },
+    {
+      "title": "Long-Term Temperature Effects on the Natural Linen Aging of the Turin Shroud",
+      "doi": "https://doi.org/10.3390/info13100458",
+      "year": 2022,
+      "id": "https://openalex.org/W4298005792",
+      "cites_founding_papers": [
+        "waxs-method-2019",
+        "waxs-shroud-2022"
+      ],
+      "access_level_in_this_pass": "metadata/title screen",
+      "apparent_role": "Same-program Shroud application/modeling."
+    },
+    {
+      "title": "Nondestructive Testing of Historic Textiles",
+      "doi": "https://doi.org/10.1002/9781119983439.ch7",
+      "year": 2022,
+      "id": "https://openalex.org/W4310362330",
+      "cites_founding_papers": [
+        "waxs-method-2019"
+      ],
+      "access_level_in_this_pass": "metadata/title screen",
+      "apparent_role": "Review/chapter/context; citation alone does not establish a new dating experiment."
+    },
+    {
+      "title": "Nondestructive Testing of Historic Textiles",
+      "doi": "https://doi.org/10.1002/9781119983903.ch26",
+      "year": 2022,
+      "id": "https://openalex.org/W4311616333",
+      "cites_founding_papers": [
+        "waxs-method-2019"
+      ],
+      "access_level_in_this_pass": "metadata/title screen",
+      "apparent_role": "Review/chapter/context; citation alone does not establish a new dating experiment."
+    },
+    {
+      "title": "NUOVE ESCHE PER PESCARE NEL MARE MAGNUM DELL’EREDITÀ CULTURALE",
+      "doi": "https://doi.org/10.4081/scie.2020.706",
+      "year": 2021,
+      "id": "https://openalex.org/W3134921500",
+      "cites_founding_papers": [
+        "waxs-method-2019"
+      ],
+      "access_level_in_this_pass": "metadata/title screen",
+      "apparent_role": "Context, theory, biography, or unrelated application; not a linen calendar-age validation."
+    },
+    {
+      "title": "RETRACTED: Producing Spinnable Regenerated Cellulosic Fibers from Palm Fibers for Use in the Textile Industry",
+      "doi": "https://doi.org/10.4236/jtst.2022.84013",
+      "year": 2022,
+      "id": "https://openalex.org/W4295950143",
+      "cites_founding_papers": [
+        "waxs-method-2019"
+      ],
+      "access_level_in_this_pass": "metadata/title screen",
+      "apparent_role": "Retracted cellulose-fiber application; no validation weight assigned."
+    },
+    {
+      "title": "7. Fanti Giulio (b. 1956)",
+      "doi": "https://doi.org/10.13109/9783666573606.163",
+      "year": 2025,
+      "id": "https://openalex.org/W4410401135",
+      "cites_founding_papers": [
+        "waxs-method-2019",
+        "waxs-shroud-2022"
+      ],
+      "access_level_in_this_pass": "metadata/title screen",
+      "apparent_role": "Context, theory, biography, or unrelated application; not a linen calendar-age validation."
+    },
+    {
+      "title": "Automated Procedure for Centre Localization, Noise Removal, and Background Suppression in Two-Dimensional X-Ray Diffraction Patterns",
+      "doi": "https://doi.org/10.3390/app16041776",
+      "year": 2026,
+      "id": "https://openalex.org/W7128599545",
+      "cites_founding_papers": [
+        "waxs-method-2019"
+      ],
+      "access_level_in_this_pass": "Publisher abstract/excerpts and scope inspected; full text not claimed.",
+      "apparent_role": "X-ray structural/processing method; not evidence of an independent calendar-date trial."
+    },
+    {
+      "title": "Evolution of the ultrastructure, parietal composition and mechanical properties of flax fibres over time : when history meets science",
+      "doi": "https://doi.org/10.70675/b84fdd8ezaf4cz4ba8za9f9z25579ec1ce52",
+      "year": 2021,
+      "id": "https://openalex.org/W7151059742",
+      "cites_founding_papers": [
+        "waxs-method-2019"
+      ],
+      "access_level_in_this_pass": "metadata/title screen",
+      "apparent_role": "Review/chapter/context; citation alone does not establish a new dating experiment."
+    },
+    {
+      "title": "Theory of Regression Lines and Associated Linear Systems and Channels",
+      "doi": "https://doi.org/10.4236/ojs.2026.165020",
+      "year": 2026,
+      "id": "https://openalex.org/W7214995232",
+      "cites_founding_papers": [
+        "waxs-method-2019"
+      ],
+      "access_level_in_this_pass": "metadata/title screen",
+      "apparent_role": "Context, theory, biography, or unrelated application; not a linen calendar-age validation."
+    },
+    {
+      "title": "Promoting Sustainable Digital Cultural Heritage Preservation: A Study on Designers’ Satisfaction with a Digital Platform Using TAM, TTF, and ANN",
+      "doi": "https://doi.org/10.3390/su172310554",
+      "year": 2025,
+      "id": "https://openalex.org/W4416667228",
+      "cites_founding_papers": [
+        "waxs-shroud-2022"
+      ],
+      "access_level_in_this_pass": "metadata/title screen",
+      "apparent_role": "Context, theory, biography, or unrelated application; not a linen calendar-age validation."
+    },
+    {
+      "title": "Why the Shroud of Turin is not a Medieval Work?",
+      "doi": "https://doi.org/10.12775/setf.2024.019",
+      "year": 2024,
+      "id": "https://openalex.org/W4403837273",
+      "cites_founding_papers": [
+        "waxs-shroud-2022"
+      ],
+      "access_level_in_this_pass": "metadata/title screen",
+      "apparent_role": "Potentially relevant materials/heritage study; no independent WAXS calendar validation established from metadata."
+    },
+    {
+      "title": "TECHNOLOGICAL CONVERGENCE IN VISUAL ARTS: BLENDING DIGITAL FABRICATION WITH TRADITIONAL CRAFTING",
+      "doi": "https://doi.org/10.29121/shodhkosh.v7.i4s.2026.7484",
+      "year": 2026,
+      "id": "https://openalex.org/W7153765403",
+      "cites_founding_papers": [
+        "waxs-shroud-2022"
+      ],
+      "access_level_in_this_pass": "metadata/title screen",
+      "apparent_role": "Context, theory, biography, or unrelated application; not a linen calendar-age validation."
+    },
+    {
+      "title": "Speculations on the True Holy Grail",
+      "doi": "https://doi.org/10.31275/20222443",
+      "year": 2023,
+      "id": "https://openalex.org/W4320039996",
+      "cites_founding_papers": [
+        "waxs-shroud-2022"
+      ],
+      "access_level_in_this_pass": "metadata/title screen",
+      "apparent_role": "Context, theory, biography, or unrelated application; not a linen calendar-age validation."
+    },
+    {
+      "title": "Reissner’s Fiber at the Intersection of Neuroscience and Mysticism: An Evolutionary Perspective",
+      "doi": "https://doi.org/10.31275/20243173",
+      "year": 2024,
+      "id": "https://openalex.org/W4405841731",
+      "cites_founding_papers": [
+        "waxs-shroud-2022"
+      ],
+      "access_level_in_this_pass": "metadata/title screen",
+      "apparent_role": "Context, theory, biography, or unrelated application; not a linen calendar-age validation."
+    },
+    {
+      "title": "What is the Shroud of Turin and why is there so much controversy around it?",
+      "doi": "https://doi.org/10.64628/aai.9u7frguxq",
+      "year": 2024,
+      "id": "https://openalex.org/W4413540169",
+      "cites_founding_papers": [
+        "waxs-shroud-2022"
+      ],
+      "access_level_in_this_pass": "metadata/title screen",
+      "apparent_role": "Potentially relevant materials/heritage study; no independent WAXS calendar validation established from metadata."
+    }
+  ],
+  "scope": "A bounded citation screen plus targeted primary-source searches. Not every citing full text was read; not a proof that no unindexed validation exists."
+}

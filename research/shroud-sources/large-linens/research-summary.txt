@@ -1,0 +1,55 @@
+LARGE LINEN SURVIVORS — library update, 27 October 2026
+
+15 source records added to the main searchable library. Captures: 3 full PDFs,
+6 museum/institution HTML snapshots, 5 official museum API metadata records,
+and 1 explicitly labeled researcher source summary. API metadata is not a
+full webpage or paper. All source records have provenance and limitations.
+
+13 large/long individual object entries, plus 3 smaller or materially
+different comparators, are listed in objects.json and index.html. These
+entries are a selected inventory, not a total surviving-world count.
+
+NEW STRONG COMPARISONS
+Brandenburg cathedral, ca.1290: 428 x 206.5 cm (14.04 x 6.78 ft), embroidered
+linen. Precise dimensions from the primary 2022 curator catalogue, pp.30–31.
+Institutional public descriptions round to 4 x 2 m. About 3% shorter than a
+4.4 m Shroud but nearly twice as wide. This is a German, not French object.
+
+Lüne, mid-13th century, LUEKO Hb 001: 369 x 114 cm (12.11 x 3.74 ft), linen
+embroidered with linen yarn, curator catalogue pp.18–19. Similar width,
+shorter length; original function undocumented. Distinct from other Lüne
+cloths described in older surveys.
+
+Met 36.3.140, ca.1491–1473 BCE: greatest length 1990 cm and width 151 cm;
+shortest length 1675 cm and smallest width 147 cm. Current museum metadata
+is archived. These dimensions exceed the 14–54 ft range of the older group
+summary; the discrepancy and overlap with the 76 chest sheets are unresolved.
+
+Kha Suppl.8557/=g, 1425–1353 BCE: linen piece 400 x 65 cm (13.12 x 2.13 ft).
+Long but narrow, under a strict 14-foot threshold, not called a complete sheet.
+
+Zittau inv.2844, 1472: 820 x 680 cm, tempera on linen. Damaged/torn in 1945,
+reassembled 1994/95. Much larger than Turin, but restored dimensions do not
+mean an untouched intact woven sheet. Inv.2843, 1573: 415 x 340 cm, tempera
+on linen; near Turin’s length, much wider, but post-medieval.
+
+COUNT AND INTERPRETATION
+The 76 sheets in the Hatnefer tomb report plus one separate Kha bed sheet
+support the previously stated minimum of 77 ancient examples by approximate
+14-foot LENGTH. It is not 77 sheets individually verified for both dimensions,
+current completeness, preservation quality, or long above-ground exposure.
+Individual objects in the same tomb are not added again. No global census
+or strict Shroud-size first-century Rome/Judea / 1300s France survivor was
+verified. Broad Egyptian or German examples do not fill those geographic gaps.
+
+Survival alone does not date Turin, prove identical aging behavior, establish
+religious identity, or test the French invisible-reweaving hypothesis. Weave,
+repair, burial, storage, display and conservation must be compared separately.
+
+EXCLUDED / UNRESOLVED LEADS
+Swiss tablecloth LM-16405 (reported 684 x 111 cm), Tristan quilt, Wah’s very
+long wrappings and Hammarby cloth remain leads, not counted confirmed additions
+here. Swiss dimensions lack a checked holding-museum record; the Tristan is a
+layered quilt; Hammarby’s fiber identification may include hemp. Akeldama’s
+first-century Jerusalem shroud is wool, not a positive linen example. The
+Chartres doublet and Saint Louis shirt are small garments, not 14-foot sheets.

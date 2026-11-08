@@ -1,0 +1,13 @@
+{
+  "review_date": "2026-11-01",
+  "source_url": "https://www.youtube.com/watch?v=GZZ3H-ExWMc",
+  "linked_start_seconds": 2737,
+  "caption_type": "YouTube automatic en-orig",
+  "caption_events": 2813,
+  "last_caption_start_seconds": 5423.24,
+  "full_transcript_read": true,
+  "full_video_watched": false,
+  "source_hash": "48beca7349342f3e85e979ca9e1c57d2569629054b25870d2347c850e98a0c79",
+  "manual_speaker_diarization": false,
+  "independent_scene_replication": false
+}

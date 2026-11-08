@@ -1,0 +1,66 @@
+{
+  "source": "Dalleur 2021, doi:10.12775/SetF.2021.001, printed pp.34,36-40",
+  "inputs": {
+    "a": 2.4207,
+    "e": -1.9927,
+    "h": 0.31,
+    "scaled_image_width": 3.6
+  },
+  "focal_length_sensitivity": [
+    {
+      "equivalent_focal_length_mm": 30,
+      "elevation_deg": 31.859311979477965,
+      "solar_elevation_deg": 42.72,
+      "gap_deg": 10.860688020522034,
+      "pitch_deg": 5.899625046527686,
+      "relative_azimuth_deg": 41.05515549347091,
+      "pitch_error_factor": 0.754077678712406,
+      "roll_error_factor": 0.6533065725302777
+    },
+    {
+      "equivalent_focal_length_mm": 33,
+      "elevation_deg": 30.24170709710382,
+      "solar_elevation_deg": 42.72,
+      "gap_deg": 12.478292902896179,
+      "pitch_deg": 5.366581783461578,
+      "relative_azimuth_deg": 37.9927535721146,
+      "pitch_error_factor": 0.7880886124893274,
+      "roll_error_factor": 0.6128636060072273
+    },
+    {
+      "equivalent_focal_length_mm": 37,
+      "elevation_deg": 28.23860670865216,
+      "solar_elevation_deg": 42.72,
+      "gap_deg": 14.481393291347839,
+      "pitch_deg": 4.78927165077602,
+      "relative_azimuth_deg": 34.51087594859457,
+      "pitch_error_factor": 0.8240186579133014,
+      "roll_error_factor": 0.5645845154186155
+    },
+    {
+      "equivalent_focal_length_mm": 45,
+      "elevation_deg": 24.76244373995195,
+      "solar_elevation_deg": 42.72,
+      "gap_deg": 17.957556260048047,
+      "pitch_deg": 3.940816508216789,
+      "relative_azimuth_deg": 29.081702777708152,
+      "pitch_error_factor": 0.873927488112464,
+      "roll_error_factor": 0.4849070744993731
+    }
+  ],
+  "horizon_only_solar_fit": {
+    "pitch_deg": 23.22283745252227,
+    "h": 1.5875680167557642,
+    "shift_fraction_image_width": 0.3548800046543789
+  },
+  "vanishing_point_vertical_only_solar_fit": {
+    "e": -3.550523829938112,
+    "shift_fraction_image_width": -0.4327288416494756
+  },
+  "warnings": [
+    "Conditional calculations, not a confidence interval or probability.",
+    "No independent remeasurement of the original 6K image was performed.",
+    "Joint changes in inputs are not bounded by these one-at-a-time examples.",
+    "The printed 45 mm row says 24.752; equation 5 with printed inputs gives 24.76244 degrees. This approximately 0.01 degree mismatch is immaterial."
+  ]
+}

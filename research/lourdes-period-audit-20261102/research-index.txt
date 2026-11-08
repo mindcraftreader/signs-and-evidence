@@ -1,0 +1,18 @@
+LOURDES PERIOD RESEARCH — STARTED2NOVEMBER2026
+
+Three agents are investigating recovery periods1858–1918,1919–1976,1977–present, with decade groupings inside each report. Dates refer to recovery, not ecclesiastical recognition.
+
+Existing72-case screening and original-source collection remain in ../lourdes-medical-audit-20261101/. Screening is not adjudication of72complete original clinical dossiers.
+
+User’s hypothesis: individual healing can occur in any religious setting; the potential vindicatory evidence at Lourdes is a recurring medically documented healing pattern associated with a specifically Marian spring/shrine. Preserve actual water,bath,procession,pilgrimage and subsequent home-prayer links. Bernadette’s preservation is supporting evidence, not automatic medical authentication.
+
+The shrine currently gives more than7000reported healings and72recognized miracles, approximately100reports per recognition. The medical committee assesses the recovery; the bishop declares the miracle. Nonrecognition is not automatically a finding of falsehood. This ratio alone does not measure medical reliability or supernatural probability.
+
+Report folders:
+1858-1918/
+1919-1976/
+1977-present/
+
+Each agent must record sourceURLs,localfiles,actualreading scope,doctor credentials,clinical evidence,source conflicts and strongest published objections. No external communications,purchases or tally changes authorized by this dispatch.
+
+Status at creation:research underway;do not describe the period reports as complete until agents return.

@@ -1,0 +1,11 @@
+{
+  "case_count": 21,
+  "missing_required_fields": [],
+  "unique_names": 21,
+  "periods": {
+    "1858-1918": 7,
+    "1919-1959": 7,
+    "1960-present": 7
+  },
+  "note": "Structural consistency only; no claim independent medical adjudication."
+}

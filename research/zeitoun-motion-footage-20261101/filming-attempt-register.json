@@ -1,0 +1,48 @@
+[
+  {
+    "id": "CF-01",
+    "date": "1968-05-09",
+    "source": "Al-Ahram, printed p. 10",
+    "status": "Original whole-issue facsimile downloaded; relevant complete page and enlarged notice visually checked.",
+    "finding": "Same-day notice schedules Dear Viewer at 21:30 on Channel 5: bishops, the healing-committee chairman and twelve citizens who saw the apparition; Mufid Fawzi preparation, Amani Nashid presentation.",
+    "limit": "Announcement of programme and interview content, not a claim that it would show the figure in motion.",
+    "local": "sources/al-ahram-1968-05-09.pdf",
+    "crop": "sources/al-ahram-1968-05-09-tv-notice.png"
+  },
+  {
+    "id": "CF-02",
+    "date": "1968-05-10",
+    "source": "Al-Ahram, printed p. 14",
+    "status": "Previously recovered complete issue and original brief visually rechecked.",
+    "finding": "Fox considering urgent documentary for worldwide exhibition; meetings involving Zaki Hashem, Tourism Minister Hafez Ghanem and named company representatives. Proposed content also includes the Holy Family route and museum paintings.",
+    "limit": "A development proposal, not proof of completion. English transliterations of the executives remain provisional. The later church filename fox_stmaryztn is not evidence of the same production.",
+    "local": "../zeitoun-arabic-primary-followup-20261031/sources/al-ahram-1968-05-10.pdf"
+  },
+  {
+    "id": "CF-03",
+    "date": "1968-05-12",
+    "source": "Watani, printed p. 2",
+    "status": "Original Arabic column checked in earlier pass; retained locally.",
+    "finding": "Hollywood delegation preparing film; London International Television delegation sent by United Press reportedly arrived yesterday. Also describes the Thursday television programme, lasting 45 minutes.",
+    "limit": "Arrival and production intent do not establish exposure during an appearance or successful figure footage. The two early AP films predate this reported London-crew arrival.",
+    "local": "sources/watani-may12-tv-crews-and-broadcast.png"
+  },
+  {
+    "id": "CF-04",
+    "date": null,
+    "source": "Pearl Zaki booklet, printed p. 7 / PDF p. 11",
+    "status": "Original scanned page checked.",
+    "finding": "Unnamed German photographer came to make a television film but was unable; caption credits a still photograph.",
+    "limit": "No photographer/broadcaster name, date of filming attempt, equipment details or reason for failure established. The still is not a motion film.",
+    "local": "sources/zaki-ocr/pdf-011.png"
+  },
+  {
+    "id": "CF-05",
+    "date": "2024-04-02",
+    "source": "Maged Kamel, Copts United retrospective",
+    "status": "Later named recollection, not an original broadcaster archive inventory.",
+    "finding": "Says church researchers in 2008 could not recover a picture recording of the 9 May 1968 programme; partial audio circulated.",
+    "limit": "Specific programme recovery failure. Does not prove that every film of the phenomenon was lost or never existed.",
+    "url": "https://www.copts-united.com/Article.php?A=785306&I=5509"
+  }
+]

@@ -1,0 +1,80 @@
+ZEITOUN: SOURCE-LINKED APPEARANCE TIMELINE
+28 October 2026
+
+Scope
+This resource reconstructs dates, times and witness accounts from the sources accessed in this research pass. It is not a completed or independently verified calendar of 90 or 94 apparitions. Observation records, event groups, calendar rows and individual witnesses are different counting units.
+
+Deliverables
+- timeline-preview.html: standalone interactive timeline, with source filters and witness/date search.
+- timeline.json: complete dataset and provenance.
+- observation-register.csv/.json: one record per attributed observation or source version.
+- event-register.csv/.json: groups of potentially related reports, not certified appearances.
+- calendar-candidates.csv/.json: all 65 rows of the existing Gregorios web table, preserved without silent correction.
+- bibliography-leads.json: the separate Ouellet chronology, with underlying books/pages still to obtain. The actual filename is bibliographic-leads.json.
+- appendix-page-index.json: a finding aid for 67 original-volume page images and their machine-OCR date candidates.
+- source-register.csv/.json and local-source-manifest.json: references, access status and local source hashes.
+
+Current data counts
+{
+  "observations": 93,
+  "event_groups": 64,
+  "dated_event_groups": 57,
+  "undated_groups": 7,
+  "contemporary_report_observations": 28,
+  "calendar_rows": 65,
+  "calendar_distinct_dates": 53,
+  "bibliographic_leads": 33
+}
+
+Of these observations, 40 are extracts checked against fourteen Arabic page images in the newly obtained original volume. Another 28 have contemporary newspaper/report source types; this is not a claim that 28 original signed statements were obtained, or that every corresponding Arabic passage has been freshly checked. Several reports share a press conference, newspaper article or institutional publication chain. The parallel press audit supplies stable ZT testimony identifiers and passage-level verification.
+
+Original Arabic volume: substantial new source
+The parent acquired the actual 594-page volume20 of the Encyclopedia of Bishop Gregorios. Front matter records Egyptian legal deposit14796/2007, publisher Association of Bishop Gregorios, prepared by Cleric Mounir Attia. The appendix begins at printed513/PDF507 and ends in the first part of printed579/PDF573. Its footnote describes reports ordered by event date from2April1968 to10May1969.
+
+The volume is a 2007 publication preserving attributed witness-report extracts, not a 1968 newspaper and not a set of original signed report facsimiles. Names, roles and date headings give useful provenance; a reported event date does not by itself establish when that witness wrote the report. Selected records have exact printed/PDF page locators and links to checked page images.
+
+Dates and times
+All clock times remain local as reported. No UTC conversion or unverified daylight-saving adjustment is applied. Arrival times, appearance onsets, last recurrence and final disappearance are distinguished in notes. A night can cross midnight into a second Gregorian date. Where civil-date normalization is inferred, that inference is explicit.
+
+Relative weekdays are provisionally anchored to publication dates. For example, 'last Sunday' in the26May Sunday issue is treated as a19May candidate, not as an explicitly printed Gregorian date. Feasts without secure civil dates remain undated; Vivian's Assumption reference is not assigned an assumed Catholic feast date. Her Saint Mark relic-arrival night also remains unresolved pending original context.
+
+Strong early clusters
+- First night:2April at20:30 in the Ministry report. A separate public-transport conductor's attributed report gives21:00 and a full form lasting more than half an hour. Both are retained.
+- Garage observers:3April at03:30 in the April30 committee report.
+-28April dawn: Zaki Shenouda03:30–05:00; Louis Marcos03:45; Shukri Ghattas04:15 indirectly reported through a relative. All appear in Watani's5May reporting. Distinct named observers exist, but the publication channel is shared.
+-30April dawn: Athanasius02:45–05:00; Asaad Iskandar02:45; Louis Marcos03:00. The patriarchal statement repeats and endorses accounts rather than creating another personal eyewitness.
+-19/22/23May: relative-weekday candidates in Watani26May, with a repeated dawn sequence, Wednesday23:00 appearance, and Thursday22:15 plus midnight recurrence.
+-26/27/28May: a cloud/bird report at03:00, eight brief recurrences after midnight, then episodes at01:30 and02:45, inferred from Watani2June's relative weekdays.
+
+New original-volume detail
+The selected Arabic pages identify many additional observers: a public-transport conductor, typist, provincial accounts auditor, agricultural engineer, ophthalmologist, medical student, Al-Gomhuria correspondent and bank manager, among others. These are contextual identities, not substitutes for evaluating their observations. Some named individuals report multiple nights; repeated records are not counted as multiple independent people.
+
+Later dated observations checked include12July1968 at02:00–04:00;12August at01:30 and02:40;11September around00:20;3November at05:30 for an upward light;21December at22:45 and a following-dawn recurrence;23February1969 around midnight;14March for about an hour;27March;5April at23:45; and10May at20:10,21:50 and approximately23:00. Some concern lights, birdlike forms or clouds rather than a complete human figure, and the status field preserves that difference.
+
+Material conflicts retained
+1. Athanasius30April: the5May Arabic newspaper passage expressly gives clear visibility for2h15,02:45–05:00. A1969 booklet version describes an initial disappearance and return04:00–05:00. These are variants of one account, not two independent sightings.
+2. Palmer's reproduced interview has an introductory29–30April date but a narrated6April arrival. The original1969 edition remains needed.
+3. Tekla28April evening: the existing English translation gives19:20–20:10 but calls this1h10; those clocks yield50minutes. Original Arabic verification is required before attributing the inconsistency to the 1968 printing.
+4. Matta's9April observing night at03:15 may be civil10April. Fr Moussa's Ministry placement9April22:00 differs from the booklet/original-volume evening10April placement. No forced harmonization.
+5. Bastorus5May: one passage gives03:00–03:35, then says the image became clearer at05:40. Original version/context is needed.
+6. The web table labels24May1968 Thursday, although it was Friday. A Thursday23May newspaper candidate may be relevant but has not been identified as the same episode.
+7. Original printed574/PDF568 explicitly gives25and27June1968. The additional1969 web-table rows have no identified support in the inspected appendix; they must not be treated as secure additional1969 appearances.
+8. Original printed578/PDF572 gives27March1969 for Adib Salib Muharib's half-figure report. The web table gives27February. The source correction remains separate from the preserved raw table.
+9. Original printed575 calls12August 'morning' but its body explicitly supplies01:30 and02:40 after midnight. The broad label is not evidence of a daytime appearance.
+10. The Al-Fida page labelled3August1970 has Friday in its English heading and Thursday in the body. Candidate late-July dates remain unresolved until the actual issue/date and Arabic text are checked.
+
+Non-appearances and uncertain observations
+Nelson's15April corrected white-shirt false alarm is not counted as an apparition. Her late-April light and1–2June flashes remain ambiguous observations. Shenouda's earlier19April reflection assessment is retained separately from his later clear-figure claim. A return visit with the palm remaining dark is a non-detection. A1970 anniversary gathering and Pope's visit do not independently establish a timed manifestation.
+
+Coverage limits
+The contemporary newspaper/report reconstruction is concentrated inApril–June1968. The original-volume extracts extend intoMay1969. Many original-volume pages have only a machine date index in this pass, not individual human-verified witness entries.1970–1971 remain substantially thinner: later dates in Ouellet's list are acquisition leads rather than a reconstructed primary calendar. No total of90/94 verified appearances is claimed.
+
+Next acquisitions and checks
+- Full passage-level extraction and source comparison for the remaining original-volume appendix pages.
+- More Watani issues, especially21/28April,12/19/26May and9/16June; then1970–1971 originals.
+- Palmer1969pp21–24, and the observing diary attributed to nunA.H., cited through Zaki's Before Our Eyes,p66.
+- Egyptian Gazette4April1969 and the underlying sources of Johnston's1970–1971 list.
+- Printed Al-Fida issue date and its Friday/Thursday discrepancy.
+
+Presentation and verification
+The resource uses factual English summaries, dates and times rather than reproducing entire copyrighted articles or translating full books. Links expose original page images for checking. Inline JavaScript passed a syntax check; simulated-DOM initialization, source filtering, witness search and year filtering passed. No live-browser interaction or visual-rendering test is claimed.

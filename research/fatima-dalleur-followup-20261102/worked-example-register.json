@@ -1,0 +1,46 @@
+[
+  {
+    "id": "CGI-template",
+    "kind": "Synthetic scene",
+    "source": "https://www.youtube.com/watch?v=UQhGi7-znsk",
+    "known_elevation_deg": 30,
+    "known_focal_mm": 20,
+    "reported_recovered_focal_mm": 19.95,
+    "reported_elevation_description": "approximately30degrees",
+    "independence": "Author-generated demonstration; no blinding established"
+  },
+  {
+    "id": "Castel-Gandolfo",
+    "kind": "Real photograph; single exposure, multiple parameter choices",
+    "source": "https://sites.google.com/pusc.it/elevation-azimuth/examples",
+    "expected_solar_elevation_deg": 16.59,
+    "author_outputs_deg": [
+      17.07,
+      15.75,
+      16.93
+    ],
+    "absolute_errors_deg": [
+      0.48,
+      0.84,
+      0.34
+    ],
+    "independence": "Three parameter variants are NOT three independent photos; no blind protocol documented"
+  },
+  {
+    "id": "Saint-Hubert",
+    "kind": "Real photograph",
+    "source": "https://sites.google.com/pusc.it/elevation-azimuth/examples",
+    "expected_solar_elevation_deg": 50.82,
+    "author_output_deg": 50.246,
+    "absolute_error_deg": 0.574,
+    "independence": "Author analysis with camera/date/location information; not a documented blind external replication"
+  },
+  {
+    "id": "Google-Maps-principles",
+    "kind": "Real imagery with stitched/reprojected panorama",
+    "source": "https://sites.google.com/pusc.it/elevation-azimuth/principles",
+    "author_estimated_elevation_deg": 52,
+    "independently_stated_true_solar_elevation_deg": null,
+    "independence": "Useful projection demonstration; no independent ground-truth solar-angle comparison recovered on the page"
+  }
+]

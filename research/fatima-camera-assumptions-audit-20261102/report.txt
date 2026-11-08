@@ -1,0 +1,104 @@
+DALLEUR CAMERA-ASSUMPTIONS AUDIT — 2 NOVEMBER 2026
+
+JUDGMENT
+
+This pass does NOT prove that Dalleur's actual camera assumptions are false or likely false. It finds a documented reason not to treat a centered principal point as guaranteed by the likely camera family: the Goerz-Anschutz had a standard vertically and horizontally movable lens front. It also constructs a solar-angle counter-calibration combining an ultra-wide focal length with a shifted principal point. That counter-calibration has not been authenticated as Ruah's equipment, demonstrated mechanically compatible with the likely strut camera, or shown to fit the scene's independent vertical/perspective cues. It is not a successful ordinary-solar reconstruction of D115.
+
+Ordinary focal-length variation, modest crop-format alternatives and small radial distortion do not erase the gap in the tested configurations. Large changes to pitch or roll can do so algebraically; they need positive photographic justification. No new probability or debate point is assigned.
+
+SCOPE AND METHOD
+
+Retained Dalleur's published shadow vanishing point A=2.4207, E=-1.9927 in his normalized image scale, H=0.31, and width=3.6. This isolates camera calibration rather than changing the object-shadow correspondences. Coordinates are mapped to the 1669 x 1181 public JPEG using his 4:3 original-plate/top-sky-crop assumption. The adopted principal point is (834.5,555.125); vanishing point (-287.7634,1478.9629); horizon y=411.4056.
+
+An independently implemented 3D direction/vertical dot product reproduces the 28.2386067-degree baseline. That checks implementation, not the historical truth of its inputs. Equations, numerical grids, CSV and plots are preserved. This is not a fresh camera calibration from known rigid objects in the image.
+
+1. CAMERA MAKE AND LENS IDENTITY
+
+Dalleur calls the Goerz-Anschutz the most likely camera. A plausible period-camera identification is not a recovered exposure record or inventory. A focused search of Ruah-related sources did not locate a camera serial number, exposure log, original camera/plate record, or lens setting for D115. The Shrine's 2021 biographical account identifies Ruah as an electrical engineer substituting for his ill uncle Joshua Benoliel. This does not show he lacked photographic experience or that he used unusual equipment; it does not identify his lens.
+
+The Science Museum Group's Kodak Collection record for a c.1900 Goerz-Anschutz documents a 120 mm lens and a 3.25 x 4.25 inch plate. The horizontal equivalent focal length is about 40 mm, consistent with Dalleur's ordinary range. The collection provides primary surviving-object evidence about the camera family, not Ruah's specific apparatus.
+
+2. A REAL HISTORICAL CAVEAT: LENS SHIFT
+
+Science Museum object 1990-5036/122 explicitly records a rising and cross-shifting front. The manufacturer's c.1906 catalogue, printed page21 (PDF page12), visually inspected, independently describes adjustment in both directions to change framing. This was a feature of the ordinary camera body, not necessarily a special lens or modern perspective-control accessory.
+
+Consequently, the optical principal point cannot be guaranteed to coincide with the reconstructed plate center merely because a normal press camera was used. Dalleur's current site argues that special lenses/adjustments were not commonly used in short reporting events. That is an argument about likely practice, not a mechanical exclusion of shift. These sources do not demonstrate that Ruah actually used a shift. They do not establish any likelihood for a nonzero shift in D115.
+
+To test its magnitude, the code varies image-principal-point displacement on an assumed 120 mm-wide plate. Positive image dy is downward; this is not a statement about the direction of physical lens-board travel. Absolute image horizon and shadow VP are fixed.
+
+Illustrative +/-20 mm-per-axis boxes give maximum source elevations of 35.71 degrees at 30 mm equivalent, 30.91 degrees at 37 mm, and 26.55 degrees at 45 mm. These are assumed sensitivity ranges, NOT documented travel limits of Ruah's camera.
+
+More strongly, with those absolute horizon/VP positions fixed, the analytic maximum over ALL principal-point positions is 2*atan((H-E)/(2*f)) for the normal focal lengths tested. It gives 41.99 degrees at 30 mm, 34.57 degrees at 37 mm and 28.70 degrees at 45 mm. The maxima require an implausibly displaced center outside the photograph. Thus changing the principal point alone does not produce 42.72 degrees at these fixed focal lengths and horizon. Changing other inputs jointly remains a different question.
+
+3. FOCAL LENGTH
+
+Reproduced Dalleur's normal-range results: 30 mm ->31.8593 degrees; 33 mm ->30.2417; 37 mm ->28.2386; 45 mm ->24.7624. None supplies the expected solar elevation. Even permitting any positive equivalent focal length while holding the other published inputs fixed produces a maximum of about41.9393 degrees at an extreme9.8589 mm equivalent. This is a mathematical sensitivity result, not a plausible press-camera identification.
+
+The strict lower bound should not be defended simply by saying wider rectilinear lenses did not exist. C.P.Goerz's1910 catalogue, printedpp19-21, documents stopped-down wide-angle use of Dagor lenses. Its3.5-inch (88.9 mm) Dagor is listed as covering4x5 inches at f/32; on a120 mm-wide plate this corresponds to about26.7 mm horizontally. The same catalogue pp28-29 documents the much wider Hypergon, including a2.375-inch (60.325 mm) version at f/22. The catalogue identifies the Hypergon as a specialized ultra-wide lens, rather than a general-purpose choice.
+
+These are manufacturer specifications, not independent bench measurements or evidence of use at Fatima. Interchangeability, required extension/recessing and image-circle performance on the particular camera are not established here. Dalleur also invokes image perspective and fringes to constrain focal length; that specific historical-image bound has not been independently reproduced or disproved by this camera audit.
+
+4. EXPLICIT JOINT COUNTER-CALIBRATION
+
+For a120 mm-wide plate,60.325 mm corresponds to18.0975 mm horizontal equivalent focal length. Retaining the published image VP and absolute horizon, shifting the image principal point14.4720 mm to the left and leaving its vertical position unchanged gives42.7200 degrees. This is verified by numerical root finding; the target-angle residual is zero at displayed precision.
+
+This answers a narrow mathematical question: some period-available lens parameters plus a noncentered principal point can close the angular gap. It does NOT establish that such a configuration was used or even assembled on the likely Goerz-Anschutz body. The fixed-strut camera catalogue describes an instrument normally opened to a fixed extension, with a special focusing mount for nearby subjects; mounting a very short Hypergon on that body cannot simply be assumed. Nor has the counter-calibration been shown to match the other image constraints. Selecting a configuration to hit the target does not establish its probability.
+
+The existence of a period-available ultra-wide lens and a normal shift mechanism is more specific than an unspecified camera-error suggestion. It remains an unverified counter-calibration, not a documented error in Dalleur's actual inputs or an ordinary explanation fitting all retained cues.
+
+5. HORIZON AND PITCH
+
+The horizon is inferred from estimated camera/ground heights and image geometry; there is no measured survey of the tripod position in the recovered record. This is an estimated input. At37 mm, matching42.72 degrees by pitch alone requires23.2228 degrees instead of4.7893, corresponding to moving the inferred horizon upward592.29 pixels in the1669-pixel-wide source. At30 mm, the required pitch is21.234 degrees rather than5.900, moving the horizon upward396.7 pixels.
+
+These changes are substantial, not subdegree levelling corrections. Predicted gravity-vertical directions for the37 mm baseline and pitch-only solar configuration are overlaid on the right-hand shawl in fringe-camera-comparison.png. The high-pitch model produces appreciably stronger convergence. The visible strands do not provide an obvious positive basis for that change, but this comparison is qualitative: flexible threads can bend or blow, and no matched multi-thread residual dataset or independently calibrated rigid vertical was recovered. Therefore it is not a formal rejection or acceptance of the high-pitch model.
+
+6. ROLL
+
+The statement that a tripod was levelled is not independently authenticated by an exposure log. Image-border orientation constrains scan rotation; it does not by itself establish that the original camera was level. Dalleur also appeals to hanging threads, which are an actual scene-based check.
+
+With pitch and focal length otherwise retained, the smallest roll changes giving42.72 degrees are about18.22 degrees at30 mm and33.13 degrees at37 mm (negative signs under the code's convention). At45 mm no roll-only solution exists with the published pitch. These large rotations would need to be reconciled with the scene's projected vertical directions; no such fit has been supplied here. Joint pitch/roll possibilities are displayed in camera-sensitivity.png and must not be confused with single-parameter corrections.
+
+7. PLATE FORMAT AND TOP CROP
+
+Alternative top-only restorations for9x12 cm, quarter plate3.25x4.25 inches,4x5 inches and13x18 cm give37 mm elevations28.24,28.19,28.05 and28.33 degrees, respectively, when absolute image horizon/VP and horizontal focal length remain fixed. The exact format is unverified, but modest changes among these formats do not produce a solar elevation in this test. Cropping all sides, optical shift, nonuniform rescaling and a new horizon estimate are not collectively bounded by this one-at-a-time format comparison.
+
+8. GEOMETRIC LENS DISTORTION
+
+The previously read National Bureau of Standards paper by Arthur A.Magill reports low distortion for specific Dagor-type specimens, supporting the plausibility of low distortion for that design class. It is not a calibration of Ruah's actual lens. The prior re-audit corrected Dalleur's0.24-percent/35-degree citation: the inspected table specimens give approximately0.24-0.26 percent at30 degrees and0.40-0.42 percent at35 degrees. The correction remains far too small, by itself, to establish a14-degree source-angle error.
+
+As an illustrative propagation check, synthetic representative object-shadow pairs are constructed on the published rays near the hat, stone, left hand and lower-right pebble regions. Applying an inverse radial model with approximately+/-0.5 percent distortion at a nominal corner radius changes the inferred elevation by about+0.059/-0.062 degrees. These are synthetic pairs, not remeasured historical endpoints. This is not a rigorous bound for all possible lenses, tangential distortion, scanner warping or cue selections. It shows that the chosen small, ordinary radial perturbation does not automatically generate the needed discrepancy.
+
+WHAT WOULD MAKE AN ASSUMPTION FALSE OR LIKELY FALSE?
+
+A recovered original negative/plate record establishing another format or crop; an actual camera or lens inventory tied to the exposure; a calibrated reconstruction of rigid vertical/orthogonal features that contradicts the proposed intrinsic matrix/attitude; or a historically and optically feasible alternative that fits the retained shadow, vertical and perspective cues together. None was established in this pass. An absence of such a falsification does not turn assumed settings into measured facts, and an alternative parameter set does not establish that it was used.
+
+FILES AND REPRODUCTION
+
+audit_camera.py — calculations and standalone figure generation.
+camera-sensitivity.json / .csv — complete inputs, calculations and scope labels.
+camera-sensitivity.png — focal-length sweep and joint pitch/roll solar-fit contour.
+fringe-camera-comparison.png — qualitative vertical-direction overlay.
+sources/ — manufacturer scans, copied current author page and retrieval logs.
+Source photograph is preserved in the neighboring fatima-independent-photo-audit-20261102 folder. It is not altered. Matplotlib/scipy were installed only under [local path omitted] the calculation was run with that directory on PYTHONPATH and the bundled Python runtime. No camera settings are inferred from an AI-generated picture.
+
+SOURCES / READ SCOPE
+
+Dalleur, current source page and2021 paper (previous full-text mathematical re-audit):
+https://sites.google.com/pusc.it/elevation-azimuth/fatimas-miracle-photo
+https://doi.org/10.12775/SetF.2021.001
+
+Science Museum Group, Kodak Collection, object1990-5036/122; record read through web tool; command-line HTML retrieval returned403 and was not bypassed:
+https://collection.sciencemuseumgroup.org.uk/objects/co8085135/goerz-anschutz-press-camera
+
+C.P.Goerz American Optical Co., c.1906 catalogue, PDFp12 printedpp20-21 and PDFp13 printedpp22-23 visually read at high resolution. Image-only PDF extraction gave no usable text; do not describe it as full OCR review:
+https://www.piercevaubel.com/cam/catalogs/1389.goerz.lenses.c1906-all.pdf
+
+C.P.Goerz1910 catalogue; relevant spreads16-17,18-19,20-21 and28-29 visually inspected. Other downloaded spreads are preserved but not claimed fully read. Manufacturer marketing claims are distinct from measured optical calibration:
+https://www.piercevaubel.com/cam/catalogs/1910goerzlp770.htm
+
+Arthur A.Magill, National Bureau of Standards,1955, Variation in distortion with magnification, table2; prior preserved source and calculations:
+research/fatima-photo-counters-20261027/magill-nbs-1955-distortion.pdf
+research/fatima-dalleur-reaudit-20261102/independent-checks.json
+
+Shrine2021 biography, located text read via search result; not the full issue independently audited for camera records:
+https://www.fatima.pt/files/upload/voz_da_fatima/VF1180_2021-01-13.pdf

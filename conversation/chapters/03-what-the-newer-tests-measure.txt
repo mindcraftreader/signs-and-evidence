@@ -1,0 +1,923 @@
+03. What the newer tests measure
+
+[0159] 2026-10-27T07:46:51.930000-04:00 | USER | msg_01a17d2f-439a-7a62-b778-bd9667d1e90d
+
+ok but you can attach defensable odds to it. maybe you should start by auditing the replacement/french weave argument and seeing if there are alternative theories besides that one
+
+──────────────────────────────────────────────────────────────────────
+
+[0160] 2026-10-27T07:46:58.386000-04:00 | ASSISTANT · PROGRESS | msg_0f6354addff80b60016ae08f31490881a2a5c9e4f12ab8400b
+
+I’ll audit the repair hypothesis against the original sample evidence, then compare the other proposed explanations for a misleading carbon date. I’ll also check whether the evidence supports numerical odds or only a range that depends on explicit assumptions.
+
+──────────────────────────────────────────────────────────────────────
+
+[0161] 2026-10-27T07:47:58.674000-04:00 | ASSISTANT · PROGRESS | msg_0f6354addff80b60016ae08f6c767481a2bbcb5be1eb51d72d
+
+One important distinction is emerging: replacement thread and surface contamination are different explanations. Rogers argued for replacement material and said the reported gum coating would have been removed during cleaning. I’m also tracing which observations come from the 1988 dating strip and which come from the neighboring Raes sample; those shouldn’t be treated as interchangeable.
+
+──────────────────────────────────────────────────────────────────────
+
+[0162] 2026-10-27T07:49:28.624000-04:00 | USER | msg_01a17d31-a7b0-7f92-b7c5-276b34ea12d5
+
+and include in this research pass the pollen / organic material from the correct region (palistine vs france)
+
+──────────────────────────────────────────────────────────────────────
+
+[0163] 2026-10-27T07:49:36.896000-04:00 | ASSISTANT · PROGRESS | msg_0f6354addff80b60016ae08fcf98ec81a29531c49a3ded1845
+
+I’ll include the pollen and other biological material, checking whether the identifications are reliable and geographically specific—and whether they indicate where the cloth was made, where it traveled, or later contamination.
+
+──────────────────────────────────────────────────────────────────────
+
+[0164] 2026-10-27T07:52:40.862000-04:00 | ASSISTANT · PROGRESS | msg_0f6354addff80b60016ae09085bc1081a2bba1ba9d01e3632a
+
+The audit has found counterevidence to the repair theory, but it also changes how I should describe it: the 2010 Arizona study found a few cotton fibers, whereas the 2026 study found none in the areas it examined. Those are limited examinations by the same authors, not two independent demonstrations that the whole corner contains no cotton.
+
+The botanical literature also disputes a key identification: a later pollen study interprets the supposed *Gundelia* grains as *Helichrysum*. I’m checking what geographic conclusion survives that disagreement.
+
+──────────────────────────────────────────────────────────────────────
+
+[0165] 2026-10-27T07:56:28.684000-04:00 | ASSISTANT · PROGRESS | msg_0f6354addff80b60016ae09169fc7881a288e88f41caa12373
+
+I’ve calculated the mixing proportions. To move first-century linen to the observed carbon result, roughly three-quarters of the carbon remaining after cleaning would need to come from sixteenth-century material. That is compatible with a substantial replacement, but a few stray fibers would not be enough.
+
+The biological studies do report Near Eastern associations. Their authors also describe later contamination, and the DNA studies do not distinguish a medieval European history from a longer eastern itinerary. I’m keeping those findings separate from the claim that the cloth originated in Palestine.
+
+──────────────────────────────────────────────────────────────────────
+
+[0166] 2026-10-27T08:00:53.996000-04:00 | ASSISTANT | msg_0f6354addff80b60016ae092651d9881a2b218262c065f7c48
+
+I completed the audit and saved the [full findings](research/shroud-repair-and-provenance-audit.txt). I added **15 sources and eight PDFs** to the [source library](research/shroud-sources/index.html).
+
+**The replacement argument has substantive evidence, but the evidence is conflicting.**
+
+Rogers reported chemical differences supporting replacement material. I also confirmed that he described examining threads attributed to the actual radiocarbon strip—not only the neighboring Raes sample. His argument deserves more than “perhaps it was repaired.” [Rogers’s paper](https://doi.org/10.1016/j.tca.2004.09.029)
+
+The counterevidence has limits too: the **2010 Arizona examination found a few cotton fibers**; the **2026 examination found none in its examined material**. These were related investigations by the same authors. Matching linen and weave weighs against some repair scenarios, but cannot conclusively exclude a matching linen repair whose boundary lies elsewhere. [2010 study](https://doi.org/10.1017/S0033822200056277), [2026 study](https://doi.org/10.1038/s40494-026-02530-7)
+
+**The amount required matters.** My illustrative isotope-mixing calculation finds that approximately **75–78% of the carbon remaining after cleaning** would need to come from sixteenth-century material to make hypothetical AD 30 linen produce the published mean result. A substantial replacement could supply that; a few stray cotton fibers could not. This calculation does not establish that replacement occurred.
+
+There are alternatives to French reweaving:
+
+| Explanation | What the research establishes |
+|---|---|
+| Other replacement or reinforcing linen | Could cause the same sampling failure, but still requires evidence locating it. |
+| Dirt, wax or bacterial coatings | Contamination is possible; sufficient surviving young carbon has not been demonstrated. |
+| Carbon exchange during fire | A laboratory scorching experiment found no measurable transfer under its tested conditions. |
+| Radiocarbon-enriched carbon monoxide | Oxford investigated it; initial experiments found no significant reaction with linen. |
+| Irradiation producing additional carbon-14 | A proposed mechanism, without independently established evidence of the required historical exposure. |
+| Statistical or preparation problems | Heterogeneity deserves attention, but does not independently establish a first-century date. |
+
+The relevant experimental sources include the [biological-coating study](https://doi.org/10.1016/S0168-583X(96)00718-5), [fire experiment](https://doi.org/10.1017/S0033822200017884), and [Oxford investigation](https://c14.arch.ox.ac.uk/shroud.html).
+
+**The Palestinian pollen claim is less secure than its popular presentation.** Boi disputes the dominant pollen’s identification as *Gundelia*, proposing *Helichrysum*. She nevertheless interprets the assemblage positively—as compatible with burial ointments. That is different from establishing uniquely Palestinian, first-century residues. [Boi’s study](https://doi.org/10.1111/arcm.12269)
+
+The DNA studies report Near Eastern associations alongside other geographic traces. The newer study identifies predominant human DNA matching the modern collector. Neither study establishes Palestine rather than France as the cloth’s manufacturing origin or dates its earliest biological contact. [2015 study](https://doi.org/10.1038/srep14484), [2026 study](https://doi.org/10.1038/s41598-026-60684-7)
+
+**You were right that numerical odds can be attached through explicit assumptions.** I added a sensitivity table showing what produces an 80/20 conclusion. Those inputs remain judgments rather than measured probabilities; this audit gives us firmer constraints for discussing them, but does not itself establish 80% odds for antiquity.
+
+──────────────────────────────────────────────────────────────────────
+
+[0167] 2026-10-27T08:18:28.171000-04:00 | USER | msg_01a17d4c-32cb-7621-9879-5af462188f1f
+
+Taking this all and looking only at this as a piece of cloth, not art or relic.  Based on industry standard of evidence what odds would you attribute 1350 vs ~0ad
+
+──────────────────────────────────────────────────────────────────────
+
+[0168] 2026-10-27T08:19:02.691000-04:00 | ASSISTANT | msg_0f6354addff80b60016ae096aee9ec81a2891b878c9624f0b9
+
+**Looking only at the textile evidence, I would assign roughly 80% to a medieval date and 20% to a first-century date**, conditional on choosing between those two possibilities.
+
+That is **my approximate judgment after the audit**, not an industry-standard probability calculation. Other ages remain possible.
+
+My weighting is:
+
+- **Most weight:** direct radiocarbon measurements using an established dating method, with controls and replication across laboratories. [Original study](https://www.shroud.com/nature.htm)
+- **A substantial deduction in confidence:** every laboratory received material from the same corner, and the replacement argument has empirical support.
+- **Counterweight to replacement:** retained fragments have textile characteristics consistent with the main cloth, although examination was limited. [2026 analysis](https://doi.org/10.1038/s40494-026-02530-7)
+- **Some weight toward antiquity:** alternative aging measurements, but with less-established calendar calibration and greater dependence on environmental history.
+
+Industry practice would report the measured sample’s date and explicitly qualify its applicability to the whole object. It would **not turn the published 95% confidence interval into a 95% probability that the entire cloth is medieval**.
+
+My 80/20 reflects that unresolved sampling risk. It does not include arguments about artwork, Jesus, or the Resurrection.
+
+──────────────────────────────────────────────────────────────────────
+
+[0169] 2026-10-27T08:21:39.100000-04:00 | USER | msg_01a17d4f-1c9c-7e32-b912-fc641a120e1d
+
+ok what is the margin of error, range, test method, academic acceptance of the method (carbon dating vs other dating), examples of the other methods being wrong or rejected for not being ball park close
+
+──────────────────────────────────────────────────────────────────────
+
+[0170] 2026-10-27T08:21:45.837000-04:00 | ASSISTANT · PROGRESS | msg_0f6354addff80b60016ae09758b85481a281b707d621b31126
+
+I’ll compare each method’s reported uncertainty, validation and academic use, then look for documented failures or rejection of the newer methods. I’ll distinguish a test’s numerical error bar from uncertainty about the sample and its history.
+
+──────────────────────────────────────────────────────────────────────
+
+[0171] 2026-10-27T08:23:16.408000-04:00 | ASSISTANT · PROGRESS | msg_0f6354addff80b60016ae097b250f081a28ee7a98808f056ba
+
+I found a useful distinction: the newer methods are published research, but that doesn’t establish them as standard calendar-dating methods for linen. I’m using the PDF skill to check the tables directly; the 2015 paper excludes a mechanical outlier, and the WAXS method paper excludes a modern bleached sample because treatment altered its aging signal.
+
+──────────────────────────────────────────────────────────────────────
+
+[0172] 2026-10-27T08:24:15.384000-04:00 | USER | msg_01a17d51-7f18-7643-92dc-ac32df1f6e2c
+
+can can document dating using the newer methods in other experiments that are thrown out for reasons other than the faulty dating method but we should mention what it is like the bleached example.
+
+──────────────────────────────────────────────────────────────────────
+
+[0173] 2026-10-27T08:24:25.218000-04:00 | ASSISTANT · PROGRESS | msg_0f6354addff80b60016ae097f7bae881a2831a23ed05c46242
+
+I’ll document those exclusions explicitly: the sample’s known age, its treatment or condition, what the test showed, and why the authors excluded it. A bleached sample falling outside a method’s stated scope should be distinguished from a method giving a wrong date on an eligible sample.
+
+──────────────────────────────────────────────────────────────────────
+
+[0174] 2026-10-27T08:28:09.116000-04:00 | ASSISTANT · PROGRESS | msg_0f6354addff80b60016ae098d69a3881a2aca3453693589d41
+
+The exclusions should not be presented as proof that the methods are generally faulty. The WAXS authors also reported agreement with four known-age textiles that were not used as their two main calibration anchors. That is positive validation evidence, though limited.
+
+I also found an uncertainty-reporting inconsistency in the 2015 paper: Raman’s standard uncertainty is listed as 250 years and its expanded uncertainty as 400, while the text says the expansion factor is two. I’ll flag that rather than silently choosing one number.
+
+──────────────────────────────────────────────────────────────────────
+
+[0175] 2026-10-27T08:31:44.272000-04:00 | ASSISTANT | msg_0f6354addff80b60016ae0999eea3881a2ab122d394db31969
+
+Yes. I documented the [methods comparison](research/shroud-dating-methods-and-exclusions.txt) and an [eight-entry exclusion ledger](research/shroud-dating-audit/method-exclusions.csv).
+
+**The important distinction is between an unsuitable sample and a dating method failing on a suitable sample.** The bleaching example establishes the former.
+
+| Method | What it measures | Reported Shroud estimate and uncertainty | Academic status as a dating method |
+|---|---|---|---|
+| **AMS radiocarbon** | Carbon isotope ratio | **AD 1260–1390**, published 95% interval; underlying mean **691 ±31 radiocarbon years BP** | Established archaeological method with calibration standards and international laboratory comparisons |
+| **FTIR** | Chemical changes inferred from infrared spectra | **250 BC ±400 years**, approximately **650 BC–AD 150** | Published experimental linen-dating application |
+| **Raman** | Changes in molecular vibration spectra | Revised estimate **AD 30**, but its uncertainty table is inconsistent—see below | Published experimental application |
+| **Mechanical** | Fiber strength, stiffness and energy loss | **AD 260 ±274 years**, approximately **15 BC–AD 534** | Published experimental application requiring sample screening |
+| **WAXS** | Cellulose structural degradation | Compatible with approximately **2,000 years**, under specified environmental assumptions; no single unconditional calendar interval | Published experimental application with limited validation |
+
+The carbon result’s interval concerns the sampled material under the dating assumptions; it does not include an unknown replacement. [Original radiocarbon paper](https://www.shroud.com/nature.htm)
+
+The FTIR, Raman and mechanical figures come from Table 10 of the 2015 paper. **Raman lists standard uncertainty of 250 years but expanded uncertainty of 400, while the text specifies multiplying by two—which would give 500.** That reporting inconsistency should be flagged, not silently corrected.
+
+[Local source: multimethod-2015.pdf]
+
+These are the clearest documented sample exclusions:
+
+| Experiment/sample | Known age | Authors’ reason for exclusion | Was a wrong calendar date published? |
+|---|---|---|---|
+| **WAXS, sample A** | Manufactured AD 2000 | Oxidative bleaching altered the degradation signal | **No** |
+| **Mechanical, sample A** | Manufactured AD 2000 | Sodium hydroxide altered mechanical properties | **No** |
+| **Raman, sample MII** | Approximately 2400 BC | Excessive fluorescence interfered with analysis | **No** |
+| **Mechanical, sample NI** | Radiocarbon dated 220–100 BC | Outside mechanical acceptance criteria; specific cause insufficiently established here | **No** |
+| **WAXS, sample LII** | 3500–3000 BC | Degradation signal had saturated, preventing a useful finite age | No usable age could be obtained |
+
+**These are principally calibration experiments within the research programme, not independently dated museum objects subsequently “thrown out.”** I haven’t found a substantial independent series demonstrating grossly wrong dates on samples meeting the methods’ stated conditions.
+
+There is positive validation too: the WAXS paper reports four known-age checks beyond its two main calibration anchors, agreeing within their stated uncertainties. That deserves credit, although it is a small within-study check rather than broad external validation.
+
+[Local source: waxs-method-2019.pdf]
+
+**Publication, validation and routine acceptance are different thresholds.** These newer dating applications have published supporting experiments; I found no comparable international proficiency-testing infrastructure to radiocarbon’s. Conversely, radiocarbon’s established status cannot resolve an inappropriate sample. Modern laboratory guidance explicitly recognizes that sample heterogeneity and pretreatment can dominate counting uncertainty. [University of Ottawa laboratory guidance](https://www.uottawa.ca/research-innovation/national-ael-ams-facility/radiocarbon-laboratory/understanding-results)
+
+My earlier **80/20 was a subjective assessment**, not a probability calculated from these error bars.
+
+──────────────────────────────────────────────────────────────────────
+
+[0176] 2026-10-27T08:34:27.170000-04:00 | USER | msg_01a17d5a-d4e2-7043-ac65-87270e189e0e
+
+wait are you telling me you found zero examples of the secondary/recent dating methods of the shroud.  Those methods have actually in any domain zero examples of being grossly incorrect?  Because to posit carbon dating and the issues of the art history argument, you also have to explain why 4 different dating methods are off 1300 years in the same direction.
+
+──────────────────────────────────────────────────────────────────────
+
+[0177] 2026-10-27T08:34:37.389000-04:00 | USER | msg_01a17d5a-fccd-7230-b8fd-16ecd1e9caa1
+
+add that to your jenga tower
+
+──────────────────────────────────────────────────────────────────────
+
+[0178] 2026-10-27T08:35:22.561000-04:00 | ASSISTANT · PROGRESS | msg_0f6354addff80b60016ae09a88f4bc81a2bca35a82794adfce
+
+The agreement among the newer methods is evidence a medieval-date explanation must account for. I’ll add that unresolved burden to the research record. My finding was narrower than “these methods have never been grossly wrong”: I found no documented series of gross failures on eligible samples in this review.
+
+──────────────────────────────────────────────────────────────────────
+
+[0179] 2026-10-27T08:36:03.092000-04:00 | ASSISTANT | msg_0f6354addff80b60016ae09aac291481a2be37c3bd855c9bd3
+
+**Yes—the convergence belongs among the unresolved burdens on a medieval-date explanation.** I added it to the [research record](research/shroud-dating-methods-and-exclusions.txt).
+
+Two distinctions matter:
+
+- **I did not establish that these methods have zero gross failures anywhere.** I found no documented series of gross failures on eligible samples in this review.
+- Their estimates are not all exactly 1,300 years earlier, but **all four point substantially toward greater antiquity**. That deserves positive evidential weight.
+
+For medieval linen, I therefore owe an explanation of those older estimates. Saying the methods are experimental identifies uncertainty; **it does not explain their results**.
+
+Several measure related consequences of cellulose deterioration and use overlapping reference materials. Their agreement consequently cannot be multiplied as four fully independent confirmations. But a possible shared bias is also **not a demonstrated explanation**: I have not identified a treatment or environmental history shown to reproduce all four outcomes on comparable medieval linen.
+
+That leaves reciprocal burdens: an ancient-cloth account must explain the medieval carbon measurements; a medieval-cloth account must explain the newer estimates. **The latter burden is real, and my rough 80/20 judgment has not been quantitatively established after accounting for it.**
+
+──────────────────────────────────────────────────────────────────────
+
+[0180] 2026-10-27T08:36:33.356000-04:00 | USER | msg_01a17d5c-c1cc-73a2-b118-e7c4f06afe22
+
+like i'm in 4th grade please explain the 4 modern test methods, how there were invented and by whom, what other scholarly works that incorperated them that are accepted in the corpus of all scientific knowledge.
+
+──────────────────────────────────────────────────────────────────────
+
+[0181] 2026-10-27T08:36:42.652000-04:00 | ASSISTANT · PROGRESS | msg_0f6354addff80b60016ae09ad9611481a29adcad3bdd536f40
+
+I’ll explain what each test measures in plain language, then trace who developed it for dating linen and where other researchers have used or tested it. I’ll distinguish the established scientific tools from the newer formulas that turn their measurements into an age.
+
+──────────────────────────────────────────────────────────────────────
+
+[0182] 2026-10-27T08:40:00.704000-04:00 | ASSISTANT · PROGRESS | msg_0f6354addff80b60016ae09b9f2dfc81a2936814c0ca881bca
+
+I found a useful follow-up: another research group studied aging in linen with Raman spectroscopy. That goes beyond the original Shroud papers. I’m checking whether it tested calendar dates or just showed that the measurements change as linen ages.
+
+──────────────────────────────────────────────────────────────────────
+
+[0183] 2026-10-27T08:41:07.887000-04:00 | ASSISTANT · PROGRESS | msg_0f6354addff80b60016ae09be20a6c81a2b547707e9ef1cf71
+
+The distinction is clearer now: these are well-established ways to examine materials, with newer methods for turning those measurements into dates. There are published follow-up studies and successful checks on known-age linen.
+
+One correction to my update: the Raman follow-up includes Fanti among its authors, so it is a wider collaboration, not a fully independent replication.
+
+──────────────────────────────────────────────────────────────────────
+
+[0184] 2026-10-27T08:42:36.004000-04:00 | ASSISTANT | msg_0f6354addff80b60016ae09c17754c81a2b41f6bf195189445
+
+**All four use real scientific tools. The newer part is using their readings to work out the age of linen.** And yes: there are scholarly studies beyond the original Shroud results.
+
+Think of linen as tiny ropes made from a plant. Over time, those ropes change. These four methods examine different kinds of change.
+
+**1. FTIR: shine invisible light through the material**
+
+Different parts of a molecule absorb different kinds of infrared light. A machine measures what gets absorbed. This produces a chemical “fingerprint.”
+
+The dating idea is: **does that fingerprint change in a predictable way as linen gets older?**
+
+FTIR instruments developed through several scientists’ work, including Albert Michelson’s optical equipment and Peter Fellgett’s work on measuring many wavelengths together. Computers helped make the instruments practical. [Scientific history](https://www.osti.gov/servlets/purl/1226565/)
+
+For **dating linen**, Giulio Fanti, Pietro Baraldi, Roberto Basso and Anna Tinti published their method in **2013**. They compared linen whose ages were already known and built a chart connecting its light readings to its age. Eight suitable textiles were used for the infrared chart. [Original study](https://cris.unibo.it/handle/11585/142241)
+
+Other scholarly uses include:
+
+- **Christina Margariti, 2019:** used FTIR to examine ancient burial textiles and understand their materials and preservation. This demonstrates its usefulness in archaeology. [Study](https://www.nature.com/articles/s40494-019-0304-8)
+- **César Barta and colleagues, 2025:** directly investigated the linen-dating approach, including how heating and neutron exposure affect it. This is a follow-up by a different author team. Its authors describe FTIR dating as less precise than radiocarbon, but potentially useful alongside it. [Study](https://e-archivo.uc3m.es/entities/publication/a611d541-1850-4383-b954-2acd0f7b6995)
+
+**2. Raman: shine a laser and examine the light that comes back**
+
+Imagine tapping a glass and listening to its sound. Raman spectroscopy does something roughly similar with light: it reveals how molecules vibrate.
+
+The dating idea is: **do particular molecular vibrations change predictably as linen ages?**
+
+The underlying light effect was discovered by **C. V. Raman and K. S. Krishnan in 1928**. It became an important tool for studying materials. [Discovery history](https://www.acs.org/education/whatischemistry/landmarks/ramaneffect.html)
+
+The **linen-dating version** came from the same **Fanti–Baraldi–Basso–Tinti team in 2013**. They built their Raman chart using eleven suitable textiles of known age. [Original study](https://cris.unibo.it/handle/11585/142241)
+
+A useful follow-up is **Bonizzoni, Bruni, Fanti, Tiberio and Zaffino’s 2016 study**. They examined **23 historical fibers and 11 modern or treated fibers**. They found measurable changes connected with aging, but also with preservation conditions, heating and bleaching. That supports the scientific basis for examining aging this way. Fanti was a coauthor, so this was a wider collaboration rather than a fully independent check of his method. [Study](https://air.unimi.it/handle/2434/341803)
+
+**3. Mechanical testing: gently pull a tiny fiber**
+
+This measures:
+
+- How much force it takes to break.
+- How easily it stretches.
+- How it behaves when repeatedly pulled and released.
+
+The dating idea is: **can those measurements tell us how long the fiber has been aging?**
+
+Pulling materials to test their strength is a longstanding engineering practice. **Giulio Fanti and Pierandrea Malfi developed this particular linen-dating method**, published online in **2013**, in a **2014 journal issue**. They used a specially designed machine and eleven selected textiles of known age to build their charts. Some tests break the individual fiber. [Original study](https://doi.org/10.1177/0040517513507366)
+
+For other scholarly work, **Symington and colleagues’ 2009 study** tested flax and six other natural fibers for engineering uses. They examined strength, stretching, moisture and chemical treatment. This shows that the measurements themselves have established applications. It did **not** test Fanti and Malfi’s calendar-dating formula. [Study](https://strathprints.strath.ac.uk/7326/)
+
+I have not found a large independent program that checks that dating formula on many previously unknown textiles.
+
+**4. WAXS: use X-rays to examine the tiny structure inside the fiber**
+
+Linen contains long chains of molecules. Those chains and their arrangement change as the material deteriorates.
+
+WAXS measures the pattern made when X-rays scatter from that structure.
+
+The dating idea is: **can we measure the structural changes and calculate how long they took?**
+
+X-ray diffraction began with **Max von Laue and his collaborators’ work in 1912**. [History](https://www.nobelprize.org/prizes/physics/1914/laue/lecture/)
+
+The **linen-dating formula** was published in **2019 by Liberato De Caro and six colleagues**, including Cinzia Giannini and Giulio Fanti. They combined measurements of known-age linen with a model of how cellulose ages. Temperature and moisture matter in that model. [Original study](https://doi.org/10.3390/heritage2040171)
+
+There is meaningful supporting work:
+
+- Their 2019 study checked **four additional ancient textiles**, beyond the two main samples used to set the dating model. Its results agreed with the existing dates within the stated uncertainty.
+- The team applied it to a Shroud thread in **2022**. [Shroud application](https://doi.org/10.3390/heritage5020047)
+- Earlier materials research already used WAXS to study damaged cellulose—for example, a **2006 study combining FTIR and WAXS**. That establishes a scientific foundation for measuring structural damage. [Study](https://www.sciencedirect.com/science/article/abs/pii/S0924203105001293)
+
+**What does “accepted science” mean here?**
+
+There is no single book where a paper becomes permanently approved. Publication means other scientists can examine and challenge it. Confidence grows when different teams successfully repeat the work.
+
+These four approaches have published scientific foundations, and some encouraging checks. **The evidence I found for their specific linen-dating formulas is much smaller than the evidence supporting the instruments themselves.** That limits how confidently we can turn a reading into a calendar date; it does not erase their findings.
+
+I added the newly located studies to your [source library](research/shroud-sources/index.html).
+
+──────────────────────────────────────────────────────────────────────
+
+[0185] 2026-10-27T08:50:01.348000-04:00 | USER | msg_01a17d69-1604-7df3-a6ca-d8dffe2eee1d
+
+for "Accepted science" lets use referenced in other papers as a metric.  Can you please search for that reference metric per method.  I know this is tough.  I have access to a university library system if that's helpful.  So find the reference number (You can try to pin the carbon dating references number 10000+ to help bolster your argument although there is diminishing return on the references at a point.  1 is more than 0, 50 is way better than one, 8500 is not much better than 12500
+
+──────────────────────────────────────────────────────────────────────
+
+[0186] 2026-10-27T08:50:07.173000-04:00 | ASSISTANT · PROGRESS | msg_0f6354addff80b60016ae09dfdf9a881a29fedd5be0d0052be
+
+I’ll look for citation counts for each linen-dating method and a radiocarbon benchmark, using the same database where possible. I’ll also check what the citing papers do with the method: mention it, test it, or use it to date something.
+
+──────────────────────────────────────────────────────────────────────
+
+[0187] 2026-10-27T08:51:17.554000-04:00 | ASSISTANT · PROGRESS | msg_0f6354addff80b60016ae09e434abc81a2871d0cd21bb11d7d
+
+I found usable counts in OpenAlex: 46 citations for the paper introducing both FTIR and Raman dating, 16 for mechanical dating, and 23 for the WAXS method paper. Those already show uptake beyond zero or one citation. I’m checking author overlap and examples of outside use, and keeping the shared FTIR/Raman paper from being counted twice.
+
+──────────────────────────────────────────────────────────────────────
+
+[0188] 2026-10-27T08:53:02.884000-04:00 | ASSISTANT · PROGRESS | msg_0f6354addff80b60016ae09eacd51c81a2b3f0be849ba14055
+
+The comparison now includes a radiocarbon calibration paper published in 2013—the same year as the FTIR/Raman paper—with 14,592 OpenAlex citations. I also found broader uptake of the newer work: Wiley’s *Handbook of Museum Textiles* has a section on micromechanical dating. I’m saving the counts and citing lists so we can check them against your university’s databases.
+
+──────────────────────────────────────────────────────────────────────
+
+[0189] 2026-10-27T08:54:41.308000-04:00 | ASSISTANT | msg_0f6354addff80b60016ae09f0015ac81a294de23843bd72bec
+
+**Yes. Using “referenced by other scholarly works” as the metric, all four newer methods have measurable uptake.** Your point about diminishing returns is reasonable: citation counts don’t translate directly into odds of being correct.
+
+I checked **OpenAlex and Crossref**, using the specific **linen-dating papers**. Counts retrieved **October 27, 2026**:
+
+| Method and founding paper | OpenAlex citations | Crossref citations |
+|---|---:|---:|
+| FTIR — Fanti and colleagues, 2013 | **46** | **43** |
+| Raman — introduced in that same paper | **Same 46** | **Same 43** |
+| Mechanical testing — Fanti and Malfi, 2013/2014 | **16** | **11** |
+| WAXS — De Caro and colleagues, 2019 | **23** | **21** |
+
+Sources: [FTIR/Raman record](https://api.openalex.org/works/W2054961960), [mechanical record](https://api.openalex.org/works/W2059850177), [WAXS record](https://api.openalex.org/works/W2989486019).
+
+**The FTIR and Raman numbers cannot be added together:** both methods appear in one founding paper. These totals include journal articles, conference papers, books and theses—not exclusively journal articles.
+
+There is also engagement beyond the original authors. After checking author lists:
+
+- **FTIR/Raman:** 31 citing works have recorded authors with no original author shared; 13 share an author; two lack author information.
+- **Mechanical:** 10 have no original author shared; five share an author; one lacks author information.
+- **WAXS:** 17 have no original author shared; six share an author.
+
+That measures shared authorship, rather than proving each work is an independent experimental test.
+
+For the radiocarbon comparison:
+
+| Specific radiocarbon paper | OpenAlex | Crossref |
+|---|---:|---:|
+| **IntCal13/Marine13 calibration curves, 2013** | **14,592** | **9,777** |
+| **IntCal20 calibration curve, 2020** | **7,876** | **7,345** |
+| **Shroud radiocarbon experiment, published 1989** | **239** | **186** |
+
+Sources: [IntCal13](https://api.openalex.org/works/W2146687568), [IntCal20](https://api.openalex.org/works/W3015391807), [Shroud experiment](https://api.openalex.org/works/W1998268672).
+
+IntCal13 is a useful comparison because it appeared **the same year as the FTIR/Raman paper**. These are counts for individual papers, not totals for radiocarbon dating as a whole.
+
+Some of the newer methods’ uptake is substantive:
+
+- A **different author team directly investigated FTIR dating**, including heating and irradiation effects. [Barta and colleagues, 2025](https://e-archivo.uc3m.es/entities/publication/a611d541-1850-4383-b954-2acd0f7b6995)
+- Wiley’s ***Handbook of Museum Textiles*** includes a section titled **“Micromechanical Method for Textiles Dating.”** That is meaningful handbook coverage. [Publisher’s contents](https://www.wiley.com/en-in/handbook-of-museum-textiles-volume-2-scientific-and-technological-research-p-9781119983385)
+- An outside team’s review of flax aging cites the **WAXS method paper**. [*Carbohydrate Polymers*, 2022](https://doi.org/10.1016/j.carbpol.2022.119584)
+
+**This gives us a more precise description:** the newer methods have modest, demonstrable scholarly uptake, including outside-author citations and handbook coverage. Radiocarbon’s calibration methods have vastly broader uptake. A citation can apply, discuss or criticize a method, so these numbers alone don’t establish how many successful independent dating tests exist.
+
+I saved the [full audit](research/shroud-citation-audit.txt), [counts](research/shroud-citation-audit/citation-counts.csv), and [citing-work lists](research/shroud-citation-audit/citing-works.csv).
+
+Your university access would help cross-check **Scopus or Web of Science** and read the handbook chapter. It wasn’t needed to obtain these public counts.
+
+──────────────────────────────────────────────────────────────────────
+
+[0190] 2026-10-27T08:55:19.860000-04:00 | USER | msg_01a17d6d-f234-7211-85b8-756b346eda04
+
+we also out of these 85 referenced papers find the ones that also use carbon dating as a secondary evidenciary method and the average data range between them.
+
+──────────────────────────────────────────────────────────────────────
+
+[0191] 2026-10-27T08:55:26.907000-04:00 | ASSISTANT · PROGRESS | msg_0f6354addff80b60016ae09f3cdd7081a2b10a643b66349b6b
+
+I’ll check the citing papers for cases where radiocarbon and a newer method dated the same material, then compare their dates and uncertainty ranges. I’ll also deduplicate the 85 citation entries so papers citing more than one method count once.
+
+──────────────────────────────────────────────────────────────────────
+
+[0192] 2026-10-27T08:56:37.610000-04:00 | USER | msg_01a17d6f-21ea-7c81-b19d-4ad00bb16eb1
+
+[Operational exchange omitted from public edition.]
+
+──────────────────────────────────────────────────────────────────────
+
+[0193] 2026-10-27T08:56:42.770000-04:00 | ASSISTANT · PROGRESS | msg_0f6354addff80b60016ae09f89e9dc81a28c00280402345c2d
+
+I’ll inspect the library tab in Chrome and use its available access for any promising papers I can’t read publicly.
+
+──────────────────────────────────────────────────────────────────────
+
+[0194] 2026-10-27T08:59:23.887000-04:00 | ASSISTANT · PROGRESS | msg_0f6354addff80b60016ae0a02aa4d081a2998c92f3735f5739
+
+The library access works—I can now read the full FTIR follow-up. I’ve also confirmed a useful WAXS comparison: its 2019 paper reports four known-age checks beyond its two main calibration samples. I’m checking the other candidates before calculating an average.
+
+──────────────────────────────────────────────────────────────────────
+
+[0195] 2026-10-27T09:06:06.957000-04:00 | ASSISTANT · PROGRESS | msg_0f6354addff80b60016ae0a1bd1e1881a2917466e5edd845de
+
+The Raman follow-up uses a radiocarbon-dated reference, but its output is a relative ordering—older versus younger—not a second calendar date to subtract from the carbon date. I’ll record those studies separately from papers that provide two numerical dates for the same sample.
+
+──────────────────────────────────────────────────────────────────────
+
+[0196] 2026-10-27T09:10:51.511000-04:00 | ASSISTANT · PROGRESS | msg_0f6354addff80b60016ae0a2d893dc81a294b7385c810a726f
+
+I found another genuine reference check in the mechanical study: the authors left one sample out when building their dating chart, then estimated it at AD 147 against a reference date of AD 65—an 82-year difference, within their stated uncertainty. That sample is from Masada; I’m keeping it separate because the papers describe its reference date inconsistently as historical or radiocarbon-based.
+
+──────────────────────────────────────────────────────────────────────
+
+[0197] 2026-10-27T09:16:07.582000-04:00 | ASSISTANT · PROGRESS | msg_0f6354addff80b60016ae0a415bbc081a2bbe6c524d75d0b27
+
+For the four WAXS–radiocarbon pairs, the dates differ by **40 years on average**, with individual differences from **0 to 110 years**. That is good agreement for those samples. I’ll also show the uncertainty ranges: a small difference between the central estimates doesn’t mean the method’s precision is ±40 years.
+
+──────────────────────────────────────────────────────────────────────
+
+[0198] 2026-10-27T09:20:32.571000-04:00 | ASSISTANT | msg_0f6354addff80b60016ae0a510691881a28c24ee8375647542
+
+**I found four clear WAXS–radiocarbon comparisons. Their central age estimates differed by about 40 years on average.** That is good agreement for those samples.
+
+The 85 citation links represent **68 distinct database records**. I screened those records and read the key accessible full texts, including papers obtained through your Akron library access. Some books and chapters remain unreviewed; their status is recorded in the audit.
+
+The **2019 WAXS paper** reports these four checks separately from its two main calibration samples:
+
+| Cloth sample | Radiocarbon reference age* | WAXS age* | Difference |
+|---|---:|---:|---:|
+| Jericho | 950 years | 940 years | 10 years |
+| Engedi | 2,310 years | 2,350 years | 40 years |
+| Egypt | 2,390 years | 2,390 years | 0 years |
+| Thebes | 2,880 years | 2,770 years | 110 years |
+
+*Years old, using the paper’s rounded comparison values.*
+
+For these four samples:
+
+- **Average difference:** 40 years.
+- **Range of differences:** 0–110 years.
+- **All four reported uncertainty ranges overlap.**
+- Average approximately 95% interval width: **about 600 years for WAXS**, versus **160 years for the radiocarbon reference values**.
+
+That last distinction matters: the observed 40-year agreement does **not** mean WAXS has a ±40-year margin of error. These are four checks within one team’s study.
+
+[Local source: waxs-method-2019.pdf]
+
+**The mechanical method also has a successful reference check.** Its authors removed one cloth from their calibration, then estimated its date using the remaining cloths:
+
+| Reference date | Mechanical estimate | Difference |
+|---|---|---:|
+| AD 65 ±12 years | AD 147 ±214 years | **82 years** |
+
+Both uncertainties are reported at approximately 95%. However, the papers inconsistently describe this Masada reference as historical or radiocarbon-based. I therefore kept it separate from the four clear carbon comparisons.
+
+[Local source: mechanical-montecarlo-2015.pdf]
+
+I also found papers using the techniques alongside radiocarbon **without producing two calendar dates**:
+
+- **Raman, 2016:** includes a radiocarbon-dated cloth around AD 600, but reports aging signals and relative chronology—older versus younger—rather than a separate Raman calendar date.
+
+[Local source: raman-ageing-2016.pdf]
+
+- **Ferrant’s 2021 thesis:** uses infrared spectroscopy to examine degradation and contamination, then radiocarbon to date the textiles. The infrared measurement supplies information about the material, rather than a second calendar age.
+
+[Local source: ferrant-thesis-2021.pdf]
+
+**So the verified numerical result is presently 40 years average disagreement for four WAXS–carbon pairs.** I haven’t established a comparable independent paired-date average for FTIR or Raman from this citation set.
+
+I saved the [detailed findings](research/shroud-paired-dating-audit.txt), [sample-by-sample calculations](research/shroud-paired-dating-audit/waxs-radiocarbon-pairs.csv), and [screening status of all 68 records](research/shroud-paired-dating-audit/corpus-screening.csv).
+
+──────────────────────────────────────────────────────────────────────
+
+[0199] 2026-10-27T09:24:01.149000-04:00 | USER | msg_01a17d88-35fd-7fb3-9be0-01e4ac096354
+
+proceed
+
+──────────────────────────────────────────────────────────────────────
+
+[0200] 2026-10-27T09:24:13.494000-04:00 | ASSISTANT · PROGRESS | msg_0f6354addff80b60016ae0a5fcfbb881a2b60f52a0be1ce7bc
+
+I’ll continue through the remaining promising full texts, especially the FTIR/Raman studies and handbook chapters, looking for additional comparisons with radiocarbon dates.
+
+──────────────────────────────────────────────────────────────────────
+
+[0201] 2026-10-27T09:27:30.569000-04:00 | ASSISTANT · PROGRESS | msg_0f6354addff80b60016ae0a6c0ca9881a2a1cec11321135f2f
+
+The handbook’s references include both radiocarbon and mechanical dating, and the Raman book chapter discusses the Shroud dating dispute. I’m checking their full text for any additional sample comparisons that weren’t in the original papers.
+
+──────────────────────────────────────────────────────────────────────
+
+[0202] 2026-10-27T09:35:00.152000-04:00 | ASSISTANT · PROGRESS | msg_0f6354addff80b60016ae0a881f9b081a29c7903e9cc596412
+
+I’ve obtained the two relevant handbook chapters through OhioLINK. The dating chapter explains Fanti’s mechanical method and repeats its reported uncertainty, but adds no new comparison dataset. The nondestructive-testing chapter covers material identification and conservation, with no paired calendar dates.
+
+──────────────────────────────────────────────────────────────────────
+
+[0203] 2026-10-27T09:41:25.223000-04:00 | ASSISTANT · PROGRESS | msg_0f6354addff80b60016ae0aa03544c81a2ba2f80af7f6dbae9
+
+The previously incomplete thesis is now readable. It includes four radiocarbon-dated archaeological textiles and studies their fiber structure, but doesn’t calculate a separate calendar age from that structure. I’m recording it as another case of the techniques being used together.
+
+──────────────────────────────────────────────────────────────────────
+
+[0204] 2026-10-27T09:44:51.615000-04:00 | ASSISTANT · PROGRESS | msg_0f6354addff80b60016ae0aad2c1c081a28add534395de39c4
+
+The Mac has locked, which blocks further library browsing. I can keep reviewing and documenting the texts already downloaded.
+
+──────────────────────────────────────────────────────────────────────
+
+[0205] 2026-10-27T09:51:27.650000-04:00 | ASSISTANT · PROGRESS | msg_0f6354addff80b60016ae0ac5da64881a2af62314c2d09cfc5
+
+The additional chapters and thesis are saved in the source folder. They add useful scholarly discussion and four radiocarbon-dated textiles, but no new pairs of independently calculated dates. I’m checking the report and links; the remaining library chapters are still blocked by the locked Mac.
+
+──────────────────────────────────────────────────────────────────────
+
+[0206] 2026-10-27T09:51:55.832000-04:00 | USER | msg_01a17da1-c3b8-7273-8fe3-a1b01181dbbe
+
+[Operational exchange omitted from public edition.]
+
+──────────────────────────────────────────────────────────────────────
+
+[0207] 2026-10-27T09:52:25.280000-04:00 | ASSISTANT · PROGRESS | msg_0f6354addff80b60016ae0ac98a51881a290e30c03a6e8de2a
+
+Chrome is accessible again, so I’m continuing with the remaining chapters through the library.
+
+──────────────────────────────────────────────────────────────────────
+
+[0208] 2026-10-27T09:56:38.613000-04:00 | ASSISTANT · PROGRESS | msg_0f6354addff80b60016ae0ad9201d081a2ba70ede3472fe98b
+
+The “From Frescoes to Paintings” chapter is now downloaded and checked. It cites the linen-dating paper in a broader review of Raman analysis, but supplies no additional comparison between a radiocarbon date and a date calculated by the newer methods.
+
+──────────────────────────────────────────────────────────────────────
+
+[0209] 2026-10-27T09:59:40.837000-04:00 | ASSISTANT · PROGRESS | msg_0f6354addff80b60016ae0ae4a387c81a288dfcd2ab751b41f
+
+I also obtained the full 2014 Egyptian-mummy study. It documents radiocarbon errors caused by bitumen contamination that survived cleaning—a relevant example of contamination affecting dates. It uses infrared analysis to detect that contamination, but does not calculate a second calendar age with the newer linen-dating formulas. I’ll record both points.
+
+──────────────────────────────────────────────────────────────────────
+
+[0210] 2026-10-27T10:01:49.456000-04:00 | ASSISTANT · PROGRESS | msg_0f6354addff80b60016ae0aecbc6e881a2a039bfce3a9eda82
+
+The results remain: four WAXS comparisons average a 40-year difference from the radiocarbon reference dates; the separate mechanical check differs by 82 years. The FTIR modern controls differ by about 408 years, within that paper’s broad uncertainty. I’ve kept these separate because they test different things.
+
+──────────────────────────────────────────────────────────────────────
+
+[0211] 2026-10-27T10:02:16.792000-04:00 | ASSISTANT | msg_0f6354addff80b60016ae0aee14c2481a28c23739306b68004
+
+I continued through the university library and saved **seven additional full texts** in the [source folder](research/shroud-sources/index.html).
+
+The numerical findings remain:
+
+| Comparison | Result |
+|---|---|
+| WAXS versus radiocarbon, four reference textiles | **40-year average difference**, range 0–110 years |
+| Mechanical dating, one withheld reference textile | **82-year difference**; its reference-date provenance needs clarification |
+| FTIR, two modern controls from one fabric | **408-year average difference**, within the paper’s broad uncertainty |
+
+The WAXS agreement is positive validation evidence, but **40 years is not its margin of error**: its reported intervals average roughly 600 years wide. [Local source: waxs-method-2019.pdf]
+
+The mechanical and FTIR checks remain separate. [Local source: mechanical-montecarlo-2015.pdf] [Local source: barta-ftir-2025.pdf]
+
+I also found documented **radiocarbon contamination failures** involving bitumen-treated mummy textiles. That supports taking contamination seriously; it doesn’t establish contamination on the Shroud. [Local source: quiles-bitumen-2014.pdf]
+
+The [updated report](research/shroud-paired-dating-followup.txt) records the findings and remaining full-text gaps.
+
+──────────────────────────────────────────────────────────────────────
+
+[0212] 2026-10-27T10:05:43.058000-04:00 | USER | msg_01a17dae-6312-78f1-b39d-ab439796b18e
+
+did you put all the studies we just looked at into the sources locally?  So FTIR dating, the least accurate by far is still what is the academic way to say this but it is 3x outside the range of the worst one for the authentic date to be circa 1300 and the other 2 have dozen or academic references and specifically how many studies where WAXS and mechanical dating were also dated with carbon and they are 40-82 years ish as the average diviation.  So we have to say all 3 methods fell at least 3x outside their expected range and 2 of them fell (im sure its a bell curve distribution so something like 100,000x outside expected distribution). Please analyse my claims find the actual distribution and likelyhood for each on and then the likelyhood all together
+
+──────────────────────────────────────────────────────────────────────
+
+[0213] 2026-10-27T10:05:51.622000-04:00 | ASSISTANT · PROGRESS | msg_0f6354addff80b60016ae0afbda53881a294fd08462f3e3f47
+
+I’ll check that the studies are saved locally, then examine what each paper’s uncertainty means. To calculate a joint likelihood, we’ll need more than the average differences: we need the error distributions and evidence about whether the methods’ errors are independent.
+
+──────────────────────────────────────────────────────────────────────
+
+[0214] 2026-10-27T10:09:00.057000-04:00 | ASSISTANT · PROGRESS | msg_0f6354addff80b60016ae0b07a00dc81a29ecd4b598096394d
+
+The papers do support a large discrepancy with a medieval date under their stated models. I also found a distinction that matters: the 82-year mechanical result comes from one selected reference textile, not a large validation series. I’m checking the other published calibration samples to see whether that result represents the method’s wider performance.
+
+──────────────────────────────────────────────────────────────────────
+
+[0215] 2026-10-27T10:13:42.431000-04:00 | ASSISTANT · PROGRESS | msg_0f6354addff80b60016ae0b192df5481a29c8f5f064a40a56b
+
+I found a substantial limitation in the mechanical result. Reconstructing the published calculation reproduces the selected check—about AD 148 versus AD 65—but withholding another included reference textile, dated around AD 575, produces an estimate around 758 BC: roughly 1,330 years too old. This is my reanalysis of their published data, not a newly discovered experiment. It means we cannot use the 82-year result as the method’s typical error.
+
+──────────────────────────────────────────────────────────────────────
+
+[0216] 2026-10-27T10:18:16.769000-04:00 | ASSISTANT · PROGRESS | msg_0f6354addff80b60016ae0b2a594ac81a2a12384cce7a2130c
+
+I’ve calculated the Gaussian probabilities you asked for. They are extremely small if we treat the quoted uncertainties as complete error models. But the reconstructed mechanical check misses its reference date by about 1,330 years while its simulated uncertainty stays narrow. I’m documenting both results, because that directly affects whether those tiny probabilities are defensible.
+
+──────────────────────────────────────────────────────────────────────
+
+[0217] 2026-10-27T10:24:15.699000-04:00 | ASSISTANT · PROGRESS | msg_0f6354addff80b60016ae0b40d6a7c81a2b8347b940ad2dc46
+
+The archive is verified: 55 valid PDFs and 146 source entries, including local notes and links for texts not obtained in full. I also saved the additional WAXS temperature paper. The report now includes the conditional probabilities, the mechanical reproduction, and the data and script needed to check the calculations.
+
+──────────────────────────────────────────────────────────────────────
+
+[0218] 2026-10-27T10:25:31.109000-04:00 | ASSISTANT | msg_0f6354addff80b60016ae0b4444eb481a2a081a4875bb15182
+
+Yes—all seven full texts from the last pass are saved locally. The [source library](research/shroud-sources/index.html) now contains **55 PDFs and 146 source entries**. Entries without a PDF have notes and links.
+
+**Your central point holds under the published models: their results substantially disagree with a medieval date. But the 40–82-year figures do not establish the error distributions needed to calculate reliable combined odds.** This pass uncovered a concrete reason for that distinction.
+
+The validation counts are:
+
+| Method | What we verified | Difference |
+|---|---|---|
+| WAXS | **One study, four non-anchor radiocarbon comparisons** | **40-year mean**, range 0–110 |
+| Mechanical | **One selected withheld-reference check** | **82 years**, a single result—not an average |
+
+The mechanical reference’s attribution to radiocarbon versus historical dating remains unclear. [Local source: waxs-method-2019.pdf] [Local source: mechanical-montecarlo-2015.pdf]
+
+Their founding papers have **23 WAXS citations and 16 mechanical citations** in our OpenAlex snapshot. Those demonstrate scholarly uptake; they are not counts of successful dating experiments. [Local source: citation-counts.csv]
+
+**The important new finding concerns mechanical dating.** I reconstructed its published calculation:
+
+- The selected reference, **AD 65**, comes out around **AD 148**, reproducing the published check closely.
+- Withholding another included, radiocarbon-dated reference—**AD 575**—produces approximately **758 BC**, about **1,330 years too old**.
+
+This is **my reproducible reanalysis of published data**, not another laboratory experiment. Nevertheless, it means the 82-year result cannot reasonably stand for the method’s general accuracy.
+
+I also calculated the probabilities you requested. Assuming the quoted standard uncertainties describe complete, unbiased Gaussian errors, and assuming a true date of **AD 1300**:
+
+| Published result | Standard deviations from AD 1300 | Conditional probability of an estimate this old or older |
+|---|---:|---:|
+| FTIR: 250 BC, standard uncertainty 200 years | 7.75σ | 4.6 × 10⁻¹⁵ |
+| Raman: AD 30, standard uncertainty 250 years | 5.08σ | 1.9 × 10⁻⁷ |
+| Mechanical: AD 278, standard uncertainty 108 years | 9.46σ | 1.5 × 10⁻²¹ |
+
+These are mathematical consequences of those assumptions. The spectroscopy paper also contains an uncertainty-table inconsistency, documented in the report. [Local source: multimethod-2015.pdf]
+
+For **WAXS**, the later temperature model predicts an aging parameter of **0.041–0.052** for its medieval-history scenarios, against **0.60 ± 0.02 measured**. Treating 0.052 as an exact prediction and considering Gaussian measurement error alone gives **27.4σ**. That excludes uncertainty in the historical environment and degradation model, so it is not a complete dating probability. [Local source: waxs-temperature-2022.pdf]
+
+Adding independence to those assumptions produces a hypothetical joint tail around **9 × 10⁻²⁰¹ for FTIR + mechanical + WAXS**. **I would not defend that as the actual chance of a medieval cloth.** The mechanical reconstruction directly challenges the necessary error model, and the cross-method covariance remains unmeasured.
+
+The academic wording I can support is:
+
+> “The alternative dating results show substantial, model-dependent inconsistency with medieval manufacture. Their convergence supports further investigation, but available validation does not establish a reliable combined probability of a medieval date.”
+
+The full analysis, individual probabilities, assumptions, and mechanical reproduction are saved here: [Local source: shroud-probability-analysis.txt]
+
+──────────────────────────────────────────────────────────────────────
+
+[0219] 2026-10-27T10:30:41.659000-04:00 | USER | msg_01a17dc5-40fb-7673-b92d-14e6a6de8628
+
+**9 × 10⁻²⁰¹ for FTIR + mechanical + WAXS**. **I would not defend that as the actual chance of a medieval cloth. so uhhhh is this saying the chances based on the averages we got including the outlier it was 1300 years older (not newer) in the one method (so that method should maybe be given zero weight by both sides? Depends how established it is.  But basically you have a worse than 1 in a billion odds of all three of my tests being wrong the same direction the same amount?&#x20;**
+
+──────────────────────────────────────────────────────────────────────
+
+[0220] 2026-10-27T10:31:22.240000-04:00 | ASSISTANT | msg_0f6354addff80b60016ae0b5af666881a28da79f19bfe3b6b4
+
+**No—we have not established worse-than-one-in-a-billion odds.** I should not have foregrounded that enormous number: it makes the evidence sound more statistically settled than it is.
+
+The **9 × 10⁻²⁰¹** calculation did **not** use the observed average errors or include the outlier. It assumed:
+
+- Complete Gaussian error distributions matching the quoted uncertainties.
+- Independent errors between methods.
+- An exact WAXS environmental-model prediction.
+
+Those assumptions have not been established.
+
+**You’re right that the mechanical discrepancy was about 1,330 years toward an older date.** But that is precisely the direction that could make a medieval textile appear ancient. Our reconstruction therefore challenges the claim that such an error is astronomically improbable for that method.
+
+I would give that mechanical estimate **substantially reduced weight**, pending broader validation. Citation counts establish scholarly engagement; they do not establish its predictive accuracy. That finding does not automatically invalidate FTIR or WAXS.
+
+The defensible conclusion is:
+
+> **The methods converge toward greater antiquity under their respective models. We have not established how unlikely that convergence would be for a medieval cloth.**
+
+So your cumulative argument remains an argument worth assessing. **The one-in-a-billion numerical claim is not presently supported by the validation data we found.**
+
+──────────────────────────────────────────────────────────────────────
+
+[0221] 2026-10-27T10:32:35.289000-04:00 | USER | msg_01a17dc6-fcd9-7eb0-a231-9b4b8f73cf2e
+
+there is an incorrect assumption i put in there about a valid original piece of cloth without contamination for the three which i assert for the cause of the carbon dating error.  and the 1:100000000 does seem supported. all you need is the standard distribution for all three methods.  Find how many standard diviations is 1300 ad from the expected range.  Then multiply the 3 together to get your odds
+
+──────────────────────────────────────────────────────────────────────
+
+[0222] 2026-10-27T10:32:43.319000-04:00 | ASSISTANT · PROGRESS | msg_0f6354addff80b60016ae0b609929c81a2b3aa6e1f4e356e4c
+
+I’ll calculate it under your stated assumption that each test used original, uncontaminated Shroud linen. I’ll show the standard deviations and the multiplied tail probabilities, with the additional assumptions—Gaussian errors and independence—made explicit.
+
+──────────────────────────────────────────────────────────────────────
+
+[0223] 2026-10-27T10:36:27.452000-04:00 | USER | msg_01a17dca-87bb-7303-b8eb-3f3f3e908ddb
+
+dont just be my calculator, we need to agree on the difinitions and such before hand.  Am i incorrect in any of this?  do we need to do more research on scholarly works on ancient linens that have one of my 3 methods plus carbon and finding the issue/agreements between the methods.  because I presume there are dozens of examples of this still in teh liturature you have not found.  so we need to make sure we have largely exhausted the academic journal entiries on ancient linens that use FITR+Carbon, WAXS+Carbon, Mechanical+carbon. we need a spreadsheet that has the url reference for the studies, the methods, the date range, the difference from carbon the total number we have and then build a standard diviation unit based on what we have in the academic liturature
+
+──────────────────────────────────────────────────────────────────────
+
+[0224] 2026-10-27T10:36:38.554000-04:00 | ASSISTANT · PROGRESS | msg_0f6354addff80b60016ae0b6f1ed3c81a28f18f85d7e52f678
+
+We need more research before claiming the literature is largely exhausted. You’re right to ask for a broader set of comparisons. The statistical correction is that an average error, an uncertainty interval, and a standard deviation are different quantities; we also can’t assume the three methods’ errors are independent.
+
+I’ll build a spreadsheet that records both studies using these tools alongside radiocarbon and studies that actually produce a second calendar-age estimate. That will show how many date pairs support each calculation, with sample exclusions and reused data flagged.
+
+──────────────────────────────────────────────────────────────────────
+
+[0225] 2026-10-27T10:37:59.244000-04:00 | ASSISTANT · PROGRESS | msg_0f6354addff80b60016ae0b744121c81a2b748e75b133ec8d8
+
+I’m using the spreadsheet skill to make the evidence table traceable to its sources.
+
+I’ll use the signed error **alternative date minus calibrated radiocarbon date**: negative means the alternative method looks older. Where comparable date pairs exist, the workbook will calculate bias, mean absolute error, and sample standard deviation separately. It will count both papers and distinct textiles, so repeated measurements of one cloth don’t inflate the sample count.
+
+──────────────────────────────────────────────────────────────────────
+
+[0226] 2026-10-27T10:47:24.962000-04:00 | ASSISTANT · PROGRESS | msg_0f6354addff80b60016ae0b9792c7881a29c03f7b96f52b19d
+
+The broader search is finding additional relevant papers outside the original citation list. I’ve also exported all 45 results from the university database’s linen/flax-and-radiocarbon search.
+
+The new examples include a 2025 study of mechanical properties in radiocarbon-dated Egyptian flax and a 2023 study combining textile preservation analysis with radiocarbon. I’m recording these even where the second technique measures condition rather than producing a calendar date.
+
+──────────────────────────────────────────────────────────────────────
+
+[0227] 2026-10-27T10:53:42.232000-04:00 | ASSISTANT · PROGRESS | msg_0f6354addff80b60016ae0baf275f481a2960f3c712517167a
+
+The broader search has found a mechanical-dating paper from 2017 that the earlier pass missed. I’m checking it because it may add an actual date comparison.
+
+One definition matters here: a paper can measure a carbon-dated linen with FTIR or mechanical testing without using that method to estimate its age. Those papers belong in the review, but only papers that produce a second age estimate can contribute to the dating-error standard deviation.
+
+──────────────────────────────────────────────────────────────────────
+
+[0228] 2026-10-27T10:56:42.889000-04:00 | ASSISTANT · PROGRESS | msg_0f6354addff80b60016ae0bba77dac81a2b57144f8349841c4
+
+I’ve found more studies that test ancient, carbon-dated flax, including papers from 2024 and 2025. Several measure stiffness or preservation without producing a calendar age, so they expand the evidence base without adding dating-error observations.
+
+The spreadsheet will show those studies alongside the actual dating comparisons. It will also flag repeated use of the same textile, so several publications don’t become several independent samples.
+
+──────────────────────────────────────────────────────────────────────
+
+[0229] 2026-10-27T11:02:52.195000-04:00 | ASSISTANT · PROGRESS | msg_0f6354addff80b60016ae0bd19011081a28ed4bdcaeaa95c43
+
+The university library provided the full 2017 paper. It adds a mechanical estimate of 2112 BC for a textile whose carbon reference is 2826–2478 BC—a difference of about 540 years from the reference midpoint.
+
+That result belongs in the spreadsheet. It is a new fibre measurement from a textile already represented in the calibration set, though, so I’m labeling it separately from a test on an entirely new cloth.
+
+──────────────────────────────────────────────────────────────────────
+
+[0230] 2026-10-27T11:12:06.918000-04:00 | USER | msg_01a17deb-2d05-75d2-8407-fbf9ea100a8c
+
+make sure we are putting the universities etc on this spread sheet and when you write ansers always cite the sources academic background like john smith of harvard's archiology department said x
+
+──────────────────────────────────────────────────────────────────────
+
+[0231] 2026-10-27T11:12:27.906000-04:00 | ASSISTANT · PROGRESS | msg_0f6354addff80b60016ae0bf5933a081a2b7b1522f2ba4027e
+
+I’m adding the authors, universities or research institutes, and departments, using the affiliations printed in each paper. I’ll include those credentials when I cite findings in my answers too.
+
+For example, the 540-year comparison comes from Giulio Fanti and Roberto Basso of the **University of Padua’s Department of Industrial Engineering**, in their [2017 mechanical-dating paper](https://doi.org/10.1142/S0218539317500061).
+
+──────────────────────────────────────────────────────────────────────
+
+[0232] 2026-10-27T11:18:18.353000-04:00 | ASSISTANT · PROGRESS | msg_0f6354addff80b60016ae0c0b326d881a29a4899322138d553
+
+I’m also recording which authors belong to which institutions, rather than giving a paper one university label. For example, the [2025 study by Camille Goudenhooft of Université de Bretagne Sud’s IRDL laboratory and colleagues](https://doi.org/10.1016/j.compositesa.2024.108694) includes collaborators at Cambridge, Montpellier, Brest and the Paris-Saclay radiocarbon laboratory.
+
+That paper supplies three carbon-dated flax objects with mechanical measurements, but no mechanical calendar-age predictions. They will appear in the evidence table with the date differences left “not calculable.”
+
+──────────────────────────────────────────────────────────────────────
+
+[0233] 2026-10-27T11:26:23.603000-04:00 | ASSISTANT · PROGRESS | msg_0f6354addff80b60016ae0c29bf6b881a2b0ada14ff6c4df4f
+
+The workbook now has 39 detailed study records, 226 author-by-paper affiliation entries, the extracted date comparisons, and a searchable discovery ledger. I’m checking the formulas, links and layout.
+
+The main numerical distinction is now visible: Liberato De Caro’s team at the **CNR Institute of Crystallography** reported four WAXS reference comparisons with a 40-year mean absolute difference. Their signed differences have a sample SD of about 64 years. Those describe four selected checks in [one study](https://doi.org/10.3390/heritage2040171); they do not establish the error distribution for every ancient linen.
+
+──────────────────────────────────────────────────────────────────────
+
+[0234] 2026-10-27T11:31:43.728000-04:00 | ASSISTANT · PROGRESS | msg_0f6354addff80b60016ae0c3dcfe9481a2bf6cdba6d716ec36
+
+The formulas and exported workbook pass the checks, and all 76 PDFs in the local source archive are valid. The university and department fields are included, with missing or unverified affiliations labeled explicitly.
+
+The remaining limit is search coverage: 75 additional records are flagged for further screening. I’m keeping that visible so the workbook doesn’t present a partial literature sample as a complete error distribution.
+
+──────────────────────────────────────────────────────────────────────
+
+[0235] 2026-10-27T11:32:14.607000-04:00 | ASSISTANT | msg_0f6354addff80b60016ae0c3f91efc81a29ab5f08ae2ef1ad8
+
+The working spreadsheet now includes **authors, universities/research institutes, departments, source URLs, date ranges, comparisons and affiliation verification status**. I’ll use researcher-and-institution attribution in future answers.
+
+Your proposed validation review is sound. One correction matters: using FTIR or mechanical testing alongside carbon dating doesn’t necessarily produce two age estimates. For example, **Camille Goudenhooft of Université de Bretagne Sud’s IRDL laboratory and colleagues** measured properties of carbon-dated flax without calculating mechanical calendar ages. [Their 2025 paper](https://doi.org/10.1016/j.compositesa.2024.108694).
+
+The workbook contains **39 detailed study records, 36 specimen records and 226 authorship entries**. Bias, average absolute error and SD are kept separate.
+
+**The literature review remains incomplete:** 75 additional candidates are flagged for screening. We therefore cannot yet justify three normal error distributions or multiply their probabilities.
+
+[Local source: ancient-linen-dating-literature.xlsx]
+
+──────────────────────────────────────────────────────────────────────
+
+[0236] 2026-10-27T11:34:05.309000-04:00 | USER | msg_01a17dff-4afd-7e42-890b-2a5bc9a3fae9
+
+what would it take to go thru the 75 additional?
+
+──────────────────────────────────────────────────────────────────────
+
+[0237] 2026-10-27T11:34:37.616000-04:00 | USER | msg_01a17dff-c930-7e73-9a6d-fd14dc9fb8b5
+
+or do we have enough to calculate a standard divation with a fairly good degree of accuracy?
+
+──────────────────────────────────────────────────────────────────────
+
+[0238] 2026-10-27T11:35:10.263000-04:00 | ASSISTANT · PROGRESS | msg_0f6354addff80b60016ae0c4acaea481a2b6921e9289f0ca45
+
+I’ll check what the 75 remaining records contain and how uncertain the SD estimate is from our current comparisons. The key is how many additional studies actually report two ages for the same textile.
+
+──────────────────────────────────────────────────────────────────────
+
+[0239] 2026-10-27T11:36:55.965000-04:00 | ASSISTANT | msg_0f6354addff80b60016ae0c50c866081a2858c8bc59ec792f7
+
+**We have enough to calculate preliminary SDs, but not yet enough to estimate all three methods’ real-world error reliably.**
+
+For **Liberato De Caro’s team at Italy’s CNR Institute of Crystallography**, the four WAXS comparisons give an SD of **63.8 years**. However, even **assuming independent, normally distributed errors**, four observations give a very wide **95% confidence interval for the underlying SD: approximately 36–238 years**. That is my calculation from their reported comparisons using NIST’s statistical formula. [De Caro and colleagues’ paper](https://doi.org/10.3390/heritage2040171), [NIST’s statistical guidance](https://itl.nist.gov/div898/software/dataplot/refman1/auxillar/sdconfli.htm).
+
+The other methods currently have less suitable validation:
+
+| Method | What we currently have | What it supports |
+|---|---|---|
+| WAXS | Four reference comparisons from one study | A provisional SD |
+| Mechanical | One published holdout, plus separately classified calibration-textile checks | Insufficient independent comparisons for a stable SD |
+| FTIR | Two control portions from one modern cloth | Within-cloth scatter; insufficient external validation |
+
+For perspective, **50 independent, representative comparisons** would give a normal-model 95% interval approximately **0.84–1.25 times the estimated SD**; 100 would narrow that to approximately **0.88–1.16 times**. These are illustrations, not mandatory thresholds—and representativeness matters alongside sample count.
+
+Going through the remaining 75 is manageable because **all 75 already have abstracts**. It requires:
+
+1. Screening each abstract for linen, the relevant technique and carbon dating.
+2. Reading the promising full texts and supplementary tables to identify actual alternative age estimates.
+3. Extracting comparisons, recording exclusions and identifying repeated textiles or calibration data.
+
+**I would finish that screening before treating our SDs as established method accuracies.** The 75 could contain additional useful comparisons; they could also largely contain material-characterization studies that supply no second age.
+
+──────────────────────────────────────────────────────────────────────
+
+[0240] 2026-10-27T11:38:33.582000-04:00 | USER | msg_01a17e03-62ee-7700-866e-05b6874a435f
+
+proceed thru the 75
+
+──────────────────────────────────────────────────────────────────────
+
+[0241] 2026-10-27T11:38:42.870000-04:00 | ASSISTANT · PROGRESS | msg_0f6354addff80b60016ae0c581513c81a28aa6cdf4fb218e7f
+
+I’ll screen all 75, retrieve the promising full texts and supplementary tables, and update the workbook with each decision. I’ll record studies that use both techniques even when they provide no second age, while keeping repeated textiles and calibration data identifiable.
+
+──────────────────────────────────────────────────────────────────────
+
+[0242] 2026-10-27T11:40:41.111000-04:00 | ASSISTANT · PROGRESS | msg_0f6354addff80b60016ae0c5f685e481a2a83d47faa1236cd2
+
+The first groups include several clear exclusions: modern coating experiments, flax-seed studies, wool conservation and papers using XRF or CT imaging. I’m also checking a 2016 mechanical-testing conference paper against Fanti and Basso’s later study, because it may describe the same three-sample experiment.
+
+──────────────────────────────────────────────────────────────────────
+
+[0243] 2026-10-27T11:46:38.737000-04:00 | ASSISTANT · PROGRESS | msg_0f6354addff80b60016ae0c75c82c081a2b4e8e5b066635b45
+
+I’ve screened the titles and available abstracts for all 75. Several promising papers combine radiocarbon dating with textile analysis, but I’m checking whether that analysis actually predicts an age. Using FTIR to identify fibres or embalming chemicals gives us no second date to compare with carbon dating.
+
+──────────────────────────────────────────────────────────────────────
+
+[0244] 2026-10-27T11:49:14.739000-04:00 | ASSISTANT · PROGRESS | msg_0f6354addff80b60016ae0c7f87c1c81a286db5506d356a221
+
+Rosa Boano’s team at the University of Turin’s Department of Life Sciences and Systems Biology provides another useful example: radiocarbon dates a linen bandage, while FTIR examines its materials. Ester Oras’s team at the University of Tartu similarly combines radiocarbon dating with FTIR textile analysis. I’m adding both as co-use studies; neither reports an FTIR calendar-age prediction.
+
+──────────────────────────────────────────────────────────────────────
+
+[0245] 2026-10-27T11:55:55.776000-04:00 | ASSISTANT · PROGRESS | msg_0f6354addff80b60016ae0c9896ee481a2a60b331a92b3c8e3
+
+I retrieved the Ankhpakhered mummy paper through your Akron access. Gianluca Quarta’s team at the University of Salento’s CEDAD laboratory uses FTIR to check bone collagen preservation, alongside radiocarbon dates for several materials. That is useful research, but it supplies no FTIR linen-age comparison. I’m recording the distinction explicitly.
+
+──────────────────────────────────────────────────────────────────────
+
+[0246] 2026-10-27T12:00:48.471000-04:00 | USER | msg_01a17e17-c157-7772-ad8f-3034a52e6f1f
+
+put the 75 on a subagent.  I have another point i want to bring up in our conversation
+
+──────────────────────────────────────────────────────────────────────
+
+[0247] 2026-10-27T12:01:02.232000-04:00 | ASSISTANT · PROGRESS | msg_0f6354addff80b60016ae0cabd43c081a286c20cb13e59bb3d
+
+I’ll hand the 75-paper review and spreadsheet updates to a subagent so we can continue the conversation here.
+
+──────────────────────────────────────────────────────────────────────
+
+[0248] 2026-10-27T12:02:00.730000-04:00 | ASSISTANT | msg_0f6354addff80b60016ae0caf7fd6881a2affcd72f4c45bdca
+
+The subagent is finishing the 75-paper review, spreadsheet, and local sources. Go ahead with your point.
+
+──────────────────────────────────────────────────────────────────────
+

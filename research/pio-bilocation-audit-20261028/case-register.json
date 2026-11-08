@@ -1,0 +1,176 @@
+{
+  "date": "2026-10-28",
+  "scope": "Thirteen selected candidate clusters, not thirteen verified miracles. No tally adjudication.",
+  "cases": [
+    {
+      "id": "B01",
+      "case": "Maria Massa",
+      "event_or_record_dates": "About 1920; sworn inquiry June 1921",
+      "source_status": "Early Holy Office inquiry, quoted in Castelli; full deposition outstanding",
+      "positive_or_contrary_evidence": "Pio gives a named example under oath; Rossi describes evidence from both recipients and Pio.",
+      "limits": "Pio explicitly uncertain whether bodily presence or a mental representation. No paired timed observations recovered.",
+      "next_document": "Full Castelli report, Pio deposition and original recipient testimony.",
+      "urls": [
+        "https://caccioppoli.com/2018%20Padre%20Pio/%27%27%27%20035%20Doni%20Speciali%20parte%20seconda.html",
+        "https://www.caccioppoli.com/12%20Bilocation.html"
+      ]
+    },
+    {
+      "id": "B02",
+      "case": "Torremaggiore encounter",
+      "event_or_record_dates": "Before June 1921",
+      "source_status": "Early Holy Office inquiry quotation; later Brunatto narrative",
+      "positive_or_contrary_evidence": "A second distinct event acknowledged by Pio under oath.",
+      "limits": "The man is unnamed in the quoted deposition; his later identification and exact date require checking.",
+      "next_document": "Full Castelli deposition and Brunatto 1926 source.",
+      "urls": [
+        "https://caccioppoli.com/2018%20Padre%20Pio/%27%27%27%20035%20Doni%20Speciali%20parte%20seconda.html",
+        "https://padrepauloricardo.org/episodios/as-bilocacoes-do-padre-pio"
+      ]
+    },
+    {
+      "id": "B03",
+      "case": "Rizzani birth and Saint Peter’s encounter",
+      "event_or_record_dates": "Claimed January 1905; encounters 1922–1923",
+      "source_status": "Manuscript facsimile read; Epistolario editorial account traced",
+      "positive_or_contrary_evidence": "An actual reproduced handwritten note and a stated chain of custody, rather than an anonymous story.",
+      "limits": "The displayed note has no year, month, Udine or family name. Exact dating and identification rest on editorial provenance.",
+      "next_document": "Epistolario IV pp1027–1029 scan; D’Apolito 1978 pp251–272; original custody and civil records.",
+      "urls": [
+        "https://doczz.net/doc/1339660/epistolario---volume-4",
+        "https://www.caccioppoli.com/12%20Bilocation.html",
+        "https://www.radiovaticana.va/it1/san_giovanni_rotondo_2009/Vademecum%20105%20San%20Govanni%20Rotondo%20Visita%20Benedetto%20XVI%2021%20giugno.pdf"
+      ]
+    },
+    {
+      "id": "B04",
+      "case": "Florence sister / Beniamina",
+      "event_or_record_dates": "December 1931; diary entry 2 January 1932",
+      "source_status": "Dated diary passage reproduced; original edition outstanding",
+      "positive_or_contrary_evidence": "Near-event diary records Agostino’s own conversation with Pio following a sister’s report.",
+      "limits": "Agostino is not the apparition eyewitness; spiritual visits must not automatically be called physical sightings.",
+      "next_document": "Agostino Diario pp93–94 and corresponding sister’s statement.",
+      "urls": [
+        "https://caccioppoli.com/2018%20Padre%20Pio/%27%27%27%20035%20Doni%20Speciali%20parte%20seconda.html",
+        "https://www.caccioppoli.com/Padre%20Pio.%20Mille%20Fatti%20e%20Sante%20Parole.pdf"
+      ]
+    },
+    {
+      "id": "B05",
+      "case": "D’Indico household, Florence",
+      "event_or_record_dates": "20 July 1921, 14:30",
+      "source_status": "Sourced published narrative; original statements outstanding",
+      "positive_or_contrary_evidence": "Two reported recipients and a specific time accompanying a recovery claim.",
+      "limits": "No independent signed sibling accounts, patient identity, medical records or exact convent alibi obtained.",
+      "next_document": "Del Fante earliest source correspondence; parish and medical records.",
+      "urls": [
+        "https://caccioppoli.com/2018%20Padre%20Pio/%27%27%27%20035%20Doni%20Speciali%20parte%20seconda.html",
+        "https://www.caccioppoli.com/12%20Bilocation.html"
+      ]
+    },
+    {
+      "id": "B06",
+      "case": "Damiani deathbed, Salto",
+      "event_or_record_dates": "Night of 11–12 September 1941",
+      "source_status": "Published first-person Viola passage; Positio III/1 p814 lead",
+      "positive_or_contrary_evidence": "Named clerical participants and a specific sworn-statement retrieval route.",
+      "limits": "Clergy attending death were not all apparition witnesses. Original signed statement and conflicting narrative details need checking.",
+      "next_document": "Viola’s 26 November 1958 statement; Barbieri’s account; Positio III/1 p814.",
+      "urls": [
+        "https://flordelis.com.pa/wp-content/uploads/2023/05/pio_pietrelcina.pdf",
+        "https://www.caccioppoli.com/12%20Bilocation.html"
+      ]
+    },
+    {
+      "id": "B07",
+      "case": "Basilica Spirito Santo, Naples",
+      "event_or_record_dates": "1956; exact date unresolved",
+      "source_status": "Schug 1987 p6 lead; claimed original letter outstanding",
+      "positive_or_contrary_evidence": "A prolonged public-appearance claim could be stronger than isolated fleeting sightings.",
+      "limits": "Congregation size, independent statements, exact date and same-time convent observations not recovered.",
+      "next_document": "Bonaventura’s original letter to Carmelo and Schug’s source notes.",
+      "urls": [
+        "https://www.caccioppoli.com/12%20Bilocation.html",
+        "https://caccioppoli.com/2018%20Padre%20Pio/%27%27%27%20035%20Doni%20Speciali%20parte%20seconda.html"
+      ]
+    },
+    {
+      "id": "B08",
+      "case": "Dr Andrea Cardone encounters",
+      "event_or_record_dates": "18 February 1965; 23 September 1968",
+      "source_status": "Quoted 1968 declaration; original outstanding",
+      "positive_or_contrary_evidence": "Named familiar witness, specific dates and a claimed written declaration.",
+      "limits": "Second encounter is after death, not simultaneous living presence. Do not confuse with his separate wound declaration.",
+      "next_document": "Voce July–August 1973; Ingoldsby 1978 p90; original Cardone attestations, APP XV/5.",
+      "urls": [
+        "https://caccioppoli.com/2018%20Padre%20Pio/%27%27%27%20035%20Doni%20Speciali%20parte%20seconda.html",
+        "https://www.caccioppoli.com/12%20Bilocation.html"
+      ]
+    },
+    {
+      "id": "B09",
+      "case": "Mindszenty prison visit",
+      "event_or_record_dates": "Prison years 1948–1956; Pio conversation March 1965",
+      "source_status": "Italian Positio II pp1638–1639 reproduced in Hegedűs 2013; visually checked",
+      "positive_or_contrary_evidence": "An actual canonical testimony extract and a named witness to Pio’s reported affirmative reply.",
+      "limits": "Battisti relays the prison story from an unnamed priest; not a prison eyewitness. His arrest date is wrong. Mindszenty interview does not explicitly confirm the visit.",
+      "next_document": "Full dated Positio deposition; named Budapest priest; original Il Tempo 9 October 1971 p13.",
+      "urls": [
+        "https://epa.oszk.hu/01300/01397/00014/pdf/EPA01397_magyar_sion_2013_2_205-216.pdf",
+        "https://www.archivioradiovaticana.va/storico/2009/06/22/%E2%80%9Emindszenty_b%C3%ADboros_nagy_hitvall%C3%B3%2C_aki_sokat_szenvedett_az_egyh%C3%A1z%C3%A9rt%E2%80%9D/ung-296910"
+      ]
+    },
+    {
+      "id": "B10",
+      "case": "Msgr John Esseff at Mary Pyle’s house",
+      "event_or_record_dates": "1959",
+      "source_status": "Participant interview published 2007; own-voice recording located",
+      "positive_or_contrary_evidence": "Accessible named firsthand account and a recording for further comparison.",
+      "limits": "Other table companions reportedly did not see Pio. No same-minute second-location record. Audio not listened to in this pass.",
+      "next_document": "Earliest Esseff account, Fr Robert’s statement and Dominic Meyer correspondence.",
+      "urls": [
+        "https://padrepiodevotions.org/pray-hope-and-dont-worry-issue-32/",
+        "https://www.discerninghearts.com/catholic-podcasts/st-padre-pio-and-bilocation-msgr-esseff-describes-his-first-encounter/"
+      ]
+    },
+    {
+      "id": "B11",
+      "case": "Attributed Don Orione sighting",
+      "event_or_record_dates": "1923 or 1925 versions; denial 19 September 1933",
+      "source_status": "Institutional archival study and handwritten denial facsimile",
+      "positive_or_contrary_evidence": "Specific contrary primary evidence: the attributed witness repudiated the story.",
+      "limits": "This addresses that attributed episode, not every bilocation or the wounds. Article footnote’s November date conflicts with visible September draft.",
+      "next_document": "Original archive Scritti 53-251 and 53-250 if further resolution needed.",
+      "urls": [
+        "https://messaggidonorione.it/articoli/1404/gallery",
+        "https://www.padrepio.it/padre-pio-e-suor-teresa-di-lisieux/"
+      ]
+    },
+    {
+      "id": "B12",
+      "case": "General Cadorna intervention",
+      "event_or_record_dates": "Usually November 1917; variants differ",
+      "source_status": "Grandson’s recorded 2020 talk and interview recovered",
+      "positive_or_contrary_evidence": "Named family counterclaim with a stated investigation by the general’s son.",
+      "limits": "Grandson was not a 1917 eyewitness. Character arguments do not prove impossibility. General’s original statement not recovered.",
+      "next_document": "Carty 1953 p72 and earlier sources; Raffaele Cadorna’s investigation record.",
+      "urls": [
+        "https://www.radioradicale.it/scheda/598111/presentazione-del-libro-caporetto-risponde-cadorna-di-carlo-cadorna-e-luigi-cadorna?i=4105029",
+        "https://it.aleteia.org/2020/01/23/padre-pio-bilocazione-salvare-suicidio-generale-luigi-cadorna/"
+      ]
+    },
+    {
+      "id": "B13",
+      "case": "Papal-audience apparition",
+      "event_or_record_dates": "1920s versions; corrupted 1933 version",
+      "source_status": "Later countess/Cardinal Silj narrative; originals outstanding",
+      "positive_or_contrary_evidence": "A reported alibi check supplies a concrete archival target.",
+      "limits": "A 1933 Cardinal Siri form is anachronistic: he became cardinal in 1953. A corrected name does not authenticate the other version.",
+      "next_document": "Countess Virginia Silj-Salviucci / Dellepiane original; audience and convent records.",
+      "urls": [
+        "https://www.caccioppoli.com/12%20Bilocation.html",
+        "https://www.chiesacattolica.it/annuario-cei/vescovo/15938/s-em-card-giuseppe-siri/"
+      ]
+    }
+  ]
+}

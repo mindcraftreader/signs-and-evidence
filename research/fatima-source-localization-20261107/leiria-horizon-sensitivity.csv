@@ -1,0 +1,21 @@
+station,latitude,longitude,eye_above_dsm_m,dsm_height_m,target,azimuth_deg,max_dsm_angle_deg,max_dsm_angle_range_km,max_dsm_angle_after_2_km_deg,target_angle_deg
+Leiria locality proxy,39.74362,-8.80705,1.7,29.1,Cova,137.229,6.75,0.15,2.042,
+Leiria locality proxy,39.74362,-8.80705,1.7,29.1,1 km south,139.428,6.75,0.15,1.93,2.693
+Leiria locality proxy,39.74362,-8.80705,1.7,29.1,3 km south,143.298,8.016,0.15,2.224,5.645
+Leiria locality proxy,39.74362,-8.80705,1.7,29.1,6.4 km south,148.573,8.016,0.15,2.313,9.575
+Leiria locality proxy,39.74362,-8.80705,1.7,29.1,8 km south,150.607,8.016,0.15,2.321,11.049
+Leiria locality proxy,39.74362,-8.80705,5.0,29.1,Cova,137.229,5.617,0.15,1.971,
+Leiria locality proxy,39.74362,-8.80705,5.0,29.1,1 km south,139.428,5.617,0.15,1.911,2.684
+Leiria locality proxy,39.74362,-8.80705,5.0,29.1,3 km south,143.298,6.89,0.15,2.206,5.636
+Leiria locality proxy,39.74362,-8.80705,5.0,29.1,6.4 km south,148.573,6.973,0.175,2.293,9.567
+Leiria locality proxy,39.74362,-8.80705,5.0,29.1,8 km south,150.607,6.973,0.175,2.303,11.041
+Encarnação hill proxy,39.738838,-8.799841,1.7,87.9,Cova,137.565,1.612,8.25,1.612,
+Encarnação hill proxy,39.738838,-8.799841,1.7,87.9,1 km south,139.854,1.689,8.225,1.689,2.63
+Encarnação hill proxy,39.738838,-8.799841,1.7,87.9,3 km south,143.856,2.009,7.775,2.009,5.714
+Encarnação hill proxy,39.738838,-8.799841,1.7,87.9,6.4 km south,149.251,2.319,7.475,2.319,9.77
+Encarnação hill proxy,39.738838,-8.799841,1.7,87.9,8 km south,151.314,2.141,8.7,2.141,11.277
+Encarnação hill proxy,39.738838,-8.799841,5.0,87.9,Cova,137.565,1.588,8.25,1.588,
+Encarnação hill proxy,39.738838,-8.799841,5.0,87.9,1 km south,139.854,1.666,8.975,1.666,2.618
+Encarnação hill proxy,39.738838,-8.799841,5.0,87.9,3 km south,143.856,1.983,7.775,1.983,5.703
+Encarnação hill proxy,39.738838,-8.799841,5.0,87.9,6.4 km south,149.251,2.292,7.475,2.292,9.761
+Encarnação hill proxy,39.738838,-8.799841,5.0,87.9,8 km south,151.314,2.118,8.7,2.118,11.268

@@ -1,0 +1,135 @@
+SHROUD: HOW THE JENGA BLOCKS INTERSECT WITH THE TALLY
+4 November 2026
+
+PURPOSE
+Preserve established concessions, connect particular challenges to the claims
+they test, and identify which remaining investigations could materially change
+the cumulative comparison. This is a dependency map, not a new numerical tally.
+
+THREE LEVELS
+Jenga block: an observation, evidentiary claim or explanatory constraint.
+Tally entry: the outcome of a particular challenge to one or more blocks.
+Cumulative judgment: what the surviving evidence favors, accounting for
+overlap, contrary evidence and the conclusion's actual scope.
+
+1. CHRISTIAN INTERVENTION AS BACKGROUND
+Blocks14 and23; later modern-miracle additions.
+The recorded Marian assessment raises the credibility of a Christian relic
+explanation. Completed modern-case objections retain their recorded results.
+This is relevant background for the Shroud, not a newly measured Shroud date
+and not an automatic additional point in the Shroud tally.
+
+2. REPRESENTATIVENESS OF THE DATED STRIP
+Blocks01–04,19–20.
+Conceded: three labs are not three separated cloth regions; actual repairs
+and historical repair skill exist; an interior collection is less exposed
+to a specifically corner-local repair if its fibers originated there.
+Open: whether enough of the exact dated strip is later replacement.
+Connected challenge: S-REPAIR-01. Original weave, if established, would not
+by itself dispose of the separate irradiation hypothesis.
+Effect: the whole-cloth inference cannot be defended merely by counting labs;
+the measured dates still retain evidential weight for the sampled material.
+
+3. ALTERNATIVE DATES AND THEIR RELIABILITY
+Blocks10–13.
+Conceded: several methods yield ancient-compatible estimates, and a medieval
+account must address their convergence.
+Retained counterevidence: the local mechanical holdout reanalysis predicts
+an approximately1330-year old-direction error for another reference. It is
+our calculation from published data, not an independent laboratory experiment.
+Unestablished: reliable joint extreme-tail odds from narrow model uncertainties.
+Effect: weakens the astronomical-probability claim; does not explain away all
+alternative dates or demonstrate one common bias.
+
+4. THE IMAGE AND THE MANUFACTURING ACCOUNT
+Blocks05–09,18,22 and24.
+Retained: no reviewed historical counterpart or demonstrated complete process
+matches the whole relevant combination. Optical, chemical and forensic
+constraints must be assessed together.
+Recent challenge outcome: medieval paintings demonstrate visual modeling
+but do not establish the Shroud's claimed geometric fidelity. They did not
+defeat that spatial-information block.
+Recent correction: the assistant suggested public display would favor a
+strong image. Daniel supplied a plausible purpose for faintness: a maker
+aiming to imitate an actual burial trace. Assistant withdrew the proposed
+motivational objection. Faintness remains a physical constraint, not a strong
+standalone reason against manufacture.
+Recent partial ordinary mechanism: negative-like tonality can arise from
+relief rubbing without knowledge of photography. This addresses the claim
+that negativity necessarily requires a separate remarkable accident; it
+does not demonstrate the entire original image process.
+Effect: historical skill and partial experiments reduce certain claims of
+individual-feature impossibility, while the complete manufacturing problem
+remains unresolved in our investigation.
+
+5. HISTORY, ATTRIBUTION AND PROVENANCE
+Blocks16–18 and21.
+Retained: earlier cloth-image descriptions are relevant antecedents, and no
+maker, commission or complete production chain has been recovered here.
+Retained counterweights: no continuous identification/custody chain before
+Lirey; medieval accusations exist; pollen/DNA do not uniquely date Palestinian
+origin. Missing attribution is not a demonstrated impossibility of manufacture.
+Effect: both historical accounts remain incomplete; source-specific assessment
+is preferable to treating one gap as eliminating the other side's evidence.
+
+RECENT DIALOGUE SHOULD NOT BE ERASED BY AN OLD TOTAL
+The modern-miracle tally is a record of specific scored challenges, not a
+running score for every Shroud exchange. This document records actual changes
+in the new discussion without inventing user-approved numerical points.
+No existing scored outcome is silently reopened or removed.
+
+HIGHEST-VALUE NEXT DESK INVESTIGATIONS
+A. Spatial geometry: define and inspect published quantitative body-distance,
+   proportional and cloth-drape claims; distinguish fitted reconstructions
+   from independent tests. A painting that looks lifelike is insufficient.
+B. WAXS prediction: inspect how independent known-age reference textiles test
+   the calendar-age conversion and its environmental assumptions. Existing
+   favorable checks are positive evidence but not a population error curve.
+
+These can progress through existing literature. Physical resolution of the
+strip's age and isotope history ultimately needs better specimen evidence.
+Do not repeat a scored challenge merely because the cumulative conclusion
+still feels uncomfortable to one participant.
+
+LOCAL REFERENCES
+shroud-challenge-register-20261104.json
+shroud-jenga-tower.docx
+shroud-reassessment-after-marian-audit-20261104.txt
+shroud-probability-analysis.txt
+shroud-exclusivity-audit-20261104.txt
+shroud-art-visual-comparisons-20261104/research-notes.txt
+marian-cumulative-statement-20261104.txt
+argument-thread-audit-20261028/live-debate-tally.json
+
+
+SPATIAL DEEP DIVE COMPLETED 5 NOVEMBER 2026
+Detailed report: shroud-spatial-geometry-deep-dive-20261104/assessment.txt
+Outcomes: meaningful spatial structure and cloth-corrected body compatibility
+remain. Raw metrically perfect or uniquely recovered 3D anatomy is not
+established. Craig/Bresee supply an artistic depth-encoding counterexample
+to the absolute impossibility claim; Fanti/Moroni acknowledge its partial
+3D success. This is not a complete manufacture. Latendresse's 2026 real-cloth
+scan model also prevents treating one simulated tight wrap as a universal
+body-origin refutation. These are analyst assessments, not new concessions
+attributed to Daniel. No numerical tally is changed.
+
+
+WAXS DEEP DIVE COMPLETED 5 NOVEMBER 2026
+Report: shroud-waxs-deep-dive-20261105/assessment.txt
+Reproduced the published monthly-climate European-only AP range:0.04071-0.05162,
+compared with measured AP0.60 +/-0.02. This is substantial conditional
+evidence against those ordinary medieval storage scenarios. Four within-study
+non-anchor checks agree with radiocarbon; no general +/-40-year precision or
+validated far-tail distribution follows. Modern bleached control A passes
+the preliminary natural-aging ratio threshold, showing a concrete limit
+to that screening step. No actual ordinary explanation of the Shroud AP
+was established. Independent general calendar reliability remains unproven
+in the located evidence. No numerical tally or user concession is assigned.
+
+
+RESEARCH UPDATE — 5 November 2026: mechanical, FTIR and Raman
+Ancient-compatible estimates retained as conditional evidence. Nominal mechanical holdout D gives a 1332-year ancient error, while the published FII success is reproduced. FTIR correction, calibration scatter and shared-ratio covariance limit probability claims. Raman remains weaker calendar evidence. WAXS conclusions unchanged. No new numerical tally or user concession inferred. Full report: shroud-other-dating-deep-dive-20261105/assessment.txt
+
+
+RESEARCH UPDATE — 5 November 2026: neutron-model falsifiability
+Fanti's preliminary beta signal and Rucker's model predictions are distinct claims. Rucker 2019 explicitly accepts significant negative isotope tests as counterevidence. Earlier maps predict apparent future carbon dates near elbows; 2026 model revisions require frozen new predictions before testing. Five-site results could therefore challenge irradiation as well as replacement. Full assessment: shroud-neutron-testability-20261105/assessment-and-test-plan.txt. No new tally assigned.

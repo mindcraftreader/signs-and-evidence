@@ -1,0 +1,29 @@
+X1a 15, FOLIO 16 — DOCUMENTARY CHECK, 27 OCTOBER 2026
+
+RESULT
+The exact folio is present in the CEHJ public research database. With separate column filters Registre = X/1a/15 and Feuillet / pièce = 016, the displayed record has four subject headings: annulment of procedure, reform commissioner, royal commissioner, and civil procedural order. This is consistent with Aubert's reported regional judicial commission. It does not supply an art commission, a workshop payment, or an identified Lirey party.
+
+The original manuscript and the CEHJ analytical fiche have NOT been read. The database links both, but Archives nationales access failed: the fiche page returned Error 503 and the register navigation timed out. Consequently, the named parties, the nature of the dispute, and the exact act date remain unverified. The index alone cannot exclude an artist, patron or Lirey associate from the full text.
+
+WHAT THE CHECK ADDS
+1. A reproducible institutional index target, rather than Aubert's footnote alone. A screenshot and accessibility-text capture preserve the separate register/folio filters and displayed headings.
+2. A clearer judicial context. Commissaire here means an appointed official; it is not evidence of an artistic commission. The subject headings point to procedural litigation involving reform/royal commissioners.
+3. Direct catalogue pointers to the digitized register and analytical fiches, plus an exact matching FranceArchives subject entry. The FranceArchives page supplies X/1a/15 and the register's 1352–1354 range, but does not itself display folio 16 or a precise act date. The folio identification comes from the filtered CEHJ record.
+
+WHAT IT DOES NOT ADD
+It does not identify any previously unknown contact of Jean de Tiercelieue. It does not show Jean meeting Charny, Robert de Cailli, Guillaume de Bragelogne, Regnaut de Savoisy, Henry de Seilliers, Jean de Lizines, or the notary Jean de Liège. There is no defensible new increase in confidence that Évrard made the Shroud from this result. Nor is this a disproof: the act has not been examined.
+
+DATE AND IDENTITY CONTROL
+The register is described as 22 November 1352–29 August 1354. Aubert, p 123 note 2, prints 25 February 1353 for X1a 15 f 16 and names Jean de Tiercelieue with Pierre de Villaines. The date and names remain attributed to Aubert until the manuscript or analytical fiche is read. Do not automatically convert the February year or treat the register's range as resolution of medieval dating style. The subject index supplies no benefice or other identifier independently establishing this Jean as the Langres canon who ordered Saint Mammès from Évrard.
+
+INDEX COVERAGE — A MATERIAL LIMIT
+The saved CEHJ warning PDF states that all acts in X1A 17–21 are indexed, and describes additional acts gathered while reconstructing cases. It lists 240 acts for X1A 15. By contrast, the Archives nationales 2024 version says registers X1a 15–22 were systematically examined. These descriptions may reflect different versions or different meanings of systematic examination; that has not been resolved. Neither a negative name search nor a missing keyword should be used as proof that a relationship never existed. The two interfaces are derivatives of the same CEHJ indexing project, not independent documentary witnesses.
+
+TRANSLATION SCOPE
+The four English equivalents saved in findings-and-provenance.json translate modern index headings only. They are not a translation of the medieval act. No new medieval transcription or translation is claimed for this batch.
+
+ATTRIBUTION STATUS
+Évrard remains a workshop worth investigating because of documented court patronage and the Saint Mammès commission. Jean remains a possible person through whom to investigate access to that workshop. Neither has been connected by a checked transaction to the acquisition or manufacture of the Shroud. A defensible attribution still needs that transaction or distinctive, independently tested technical evidence.
+
+NEXT DOCUMENTARY STEP
+The most decisive accessible task is still to inspect the complete administrative opening and close of the 5 June 1341 Langres contract, printed by Ronot in 1933, pp 202–204: identify every executor, representative, notary and witness, and reconcile the historical Haute-Marne G93/carton 4 reference with the later G94 citation. This offers a defined list to compare with the Lirey acts already read. For X1a 15 f 16, use the exact lookup brief saved beside this report when Archives nationales scans become accessible. No archive message or reproduction order has been sent.

@@ -1,0 +1,51 @@
+ZEITOUN CROWD AND UNIQUE VIEWER ESTIMATES
+27 October 2026
+
+Finding
+Contemporary evidence supports very large repeated crowds and large visitor flows. A peak estimate of250,000 has an identifiable published eyewitness source. More than one million unique viewers is an explicit later estimate by Fr Anthony Mourad, not a deduplicated count established by the records retrieved here. It is plausible as a projection, but the present evidence does not independently establish a probability for exceeding that threshold.
+
+Contemporary logistical check
+Al-Ahram7May1968, report by journalist Ezzat El-Saadani, describes92 trains running at ten-minute intervals, carrying over1,500 passengers each rather than the usual900; the report attributes the loading figures to ticket collectors at Kobri El-Limoun and Zeitoun stations. It also describes about50 buses on eight routes and150 tram cars from Tahrir and Bab El-Hadid to the nearby El-Fanatis stop. The newspaper gives soft-drink deliveries and estimated nightly consumption of about150,000 bottles.
+
+These figures were read in the modern English transcription and checked visually against the original Arabic scan: the transport paragraph explicitly has92,900,1,500,50 and150; the drinks passage explicitly has150 thousand bottles. The scanned page header appears to number the newspaper page3, whereas the modern image filename saysp2. Use the issue date and report title rather than silently relying on the filename for pagination.
+
+Source
+https://ourladyofzeitoun.com/en/newspaper/al-ahram-newspaper-may-7-1968/
+Original reproduced scan
+https://ourladyofzeitoun.com/assets/uploads/2025/10/%D8%A7%D9%84%D8%A7%D9%87%D8%B1%D8%A7%D9%85-7-%D9%85%D8%A7%D9%8A%D9%88-%D8%B52-2-scaled.jpg
+Local original: sources/al-ahram-1968-05-07-ar.jpg
+Local visible translation: sources/al-ahram-1968-05-07-en.txt
+Legible crops: transport.png and sales-continued.png
+
+What this checks
+This is contemporary national-newspaper reporting with named logistical informants, rather than merely a later repetition of an aggregate crowd number. It gives concrete support to large attendance and visitor traffic. It does not supply original railway ledgers, audited receipts or a scientific crowd survey. Train passengers, tram passengers and bus passengers may overlap through transfers; rail services may include both directions or ordinary travelers. Drink consumption is not one bottle per person. Do not add or multiply these figures into a precise headcount without the relevant definitions.
+
+The report ends by saying that no apparition appeared that night. This is important for the denominator: attendance at the site is not automatically a personal observation of an apparition. It does not contradict reported appearances on other nights.
+
+Peak estimate
+Scenes of the Apparition, a church compilation attributed to Bishop Gregorios, includes a first-person estimate of no fewer than250,000 present on one night. This supports phrasing as a reported peak estimate, not a measured count. The modern text's Coptic/Gregorian date alignment is inconsistent, so this pass does not resolve the precise night from that transcription.
+https://ourladyofzeitoun.com/en/report/scenes-of-the-apparition/
+Existing local text: ../zeitoun-independence-audit-20261027/sources/scenes.txt
+
+Another contemporary scale estimate
+William Farid Basili, director of inquiries and complaints at the Ministry of Tourism, describes more than40,000 waiting in the surrounding streets in his report dated30April1968. This is an official's reported estimate, not a headcount method. Its appearance in Watani as a reproduced report is not an additional independent count.
+https://ourladyofzeitoun.com/en/report/ministry-of-tourism-department-of-inquiries/
+Existing local text: ../zeitoun-investigation-records-20261027/sources/ministry-en.txt
+
+Appearance count and unique viewers
+Fr Anthony Mourad, priest of St George and St Anthony Coptic Orthodox Church in Ottawa, gives94 documented appearances and calls more than one million unique persons a conservative estimate in Pints with Aquinas episode601. Local YouTube caption times are approximately1:12 for unique viewers and1:19/1:28 for94 appearances. The brief rounds this to roughly90 reported appearances across1968–1971.
+https://www.youtube.com/watch?v=-pQKNgwQjdk
+https://podscripts.co/podcasts/pints-with-aquinas/the-miracle-of-our-lady-of-zeitoun-fr-anthony-mourad-ep-601
+
+Mourad's statement establishes the source of the estimate. No full appearance register or method for deduplicating viewers has been inspected here. Multiple appearances can occur on one night;94 appearances must not silently become94 separate crowds. Some people returned many times; others came from other cities and countries. The total number of attendance visits, their distribution over time, the average repeat rate and the proportion present during an actual appearance are needed to estimate unique observers reliably.
+
+What further validation could do
+Original railway/bus service records could constrain visitor flow if they identify additional journeys and their destination. Dated wide-view photographs, historical street dimensions and explicit crowd-density assumptions could estimate simultaneous attendance on particular nights. Original security or municipal crowd estimates could be compared with those calculations. A dated appearance register would distinguish appearance episodes from nights and from unsuccessful vigils. Surviving visitor surveys or independently sampled interviews could constrain repeat attendance. None of these raw administrative datasets or a complete photographic crowd reconstruction was retrieved in this pass.
+
+Recommended brief wording
+Roughly90 reported appearances over three years(1968–1971), with peak crowds estimated at250,000 or more and over one million unique viewers estimated by Fr Anthony Mourad. Contemporary Al-Ahram reporting independently corroborates very large visitor flows. The unique-viewer total remains an estimate.
+
+ADDITIONAL APPEARANCE COUNT PROVENANCE
+Eric Ouellet, in his own2011 research account, explicitly constructs an approximate94 as27 appearances2April–4May1968 plus an extrapolated50(?) for5May1968–mid1969 plus17 for mid1969–1971. He supplies specific source links for only34 appearances and notes multiple episodes on some nights. Thus this located94 calculation is partly extrapolation, not94 individually verified dates. No documentary connection between Mourad's94 and this calculation has been established. Do not assert that he derived his figure from Ouellet merely because the totals match. This further supports using roughly90 reported appearances, not treating90 as90 fully audited distinct nights.
+Source: https://parasociology.blogspot.com/2011/10/
+Local full page: sources/ouellet-2011-october.html

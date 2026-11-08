@@ -1,0 +1,98 @@
+[
+  {
+    "id": "S1",
+    "author": "Sacra Rituum Congregatio / named process witnesses",
+    "title": "Tifernaten... Summarium super dubio... volume2",
+    "date": "Circa1800; reproduces1727 documents",
+    "institution": "Bayerische Staatsbibliothek,2V.ss.80-2",
+    "url": "https://www.digitale-sammlungen.de/en/view/bsb10636824",
+    "access": "122 targeted OCR pages and25 page images; not full-volume audit",
+    "local": "sources/bsb-summarium-ocr; sources/bsb-medical-scans",
+    "type": "Printed primary-document excerpts",
+    "key_pages": "pp.149–172; digital images153–176; witness list image5"
+  },
+  {
+    "id": "S2",
+    "author": "Giovanni Giacomo Romano, Capuchin cause-postulator",
+    "title": "Vita della Venerabile Serva di Dio Suor Veronica Giuliani",
+    "date": "1776",
+    "institution": "Johns Hopkins University Sheridan Libraries",
+    "url": "https://archive.org/details/wotb_7331472",
+    "access": "Full PDF and OCR; selected pages visually checked",
+    "local": "sources/romano-1776.pdf",
+    "type": "Process-derived biography with reproduced1727 Relazione",
+    "key_pages": "BookII178–179,187–189; BookIV147–154(second pagination); PDF392 engraving"
+  },
+  {
+    "id": "S3",
+    "author": "Filippo Maria Salvatori",
+    "title": "The Lives of S. Veronica Giuliani...",
+    "date": "1839 Italian original;1874 English",
+    "institution": "London Oratory preface; R.Washbourne publisher",
+    "url": "https://www.catholickingdom.com/s_Library/Books/L/LIVES_OF_S_VERONICA_GIULIANI_and_Bl_BATTISTA_VARANI_OCR_CK.pdf",
+    "access": "Full PDF and OCR",
+    "local": "sources/salvatori-life-english.pdf",
+    "type": "Later hagiographic process-based synthesis",
+    "key_pages": "pp.134–139,150–160,163–177,243–246"
+  },
+  {
+    "id": "S4",
+    "author": "Claudia Borgia",
+    "title": "La documentazione femminile dei fondi monastici e conventuali della BNCF",
+    "date": "Date not checked",
+    "institution": "State Archive of Florence host; BNCF collections",
+    "url": "https://archiviodistatofirenze.cultura.gov.it/memoriadonne/cartedidonne/cdd_14_borgia.pdf",
+    "access": "Indexed PDF read; direct download timed out",
+    "local": "none",
+    "type": "Archival inventory; actual manuscript not read",
+    "key_pages": "pp.13,23; BNCF Conventi Soppressi A.IV.1706"
+  },
+  {
+    "id": "S5",
+    "author": "Herbert Thurston,SJ",
+    "title": "The Physical Phenomena of Mysticism; earlier The Month article",
+    "date": "1952 book; article date unchecked",
+    "institution": "Jesuit writer; not an examiner",
+    "url": "https://ignca.gov.in/Asi_data/7290.pdf",
+    "access": "Book PDF image-only; article PDF with OCR",
+    "local": "sources/thurston-physical-phenomena.pdf; sources/thurston-month.pdf",
+    "type": "Later Catholic critical secondary source",
+    "key_pages": "Book p.66 lead; article p.534"
+  },
+  {
+    "id": "S6",
+    "author": "Dicastery for Causes of Saints / BenedictXVI",
+    "title": "Veronica Giuliani biography and15December2010 audience",
+    "date": "2010 and undated biography",
+    "institution": "Vatican",
+    "url": "https://www.causesanti.va/it/santi-e-beati/veronica-giuliani.html",
+    "access": "Web text read",
+    "local": "none",
+    "type": "Official modern biography",
+    "key_pages": "Diary and canonization dates; no examination protocol"
+  },
+  {
+    "id": "S7",
+    "author": "Antonio Francesco Giovagnoli",
+    "title": "Virtù e grazie della ven.serva di Dio suor Veronica Giuliani",
+    "date": "1777",
+    "institution": "Internet Archive / Google Books duplicate",
+    "url": "https://archive.org/details/bub_gb_LIta4hiRyLgC",
+    "access": "Full OCR downloaded; keyword pass only",
+    "local": "sources/giovagnoli-1777.txt",
+    "type": "Eighteenth-century devotional biography",
+    "key_pages": "No independent trial established"
+  },
+  {
+    "id": "S8",
+    "author": "Pietro Pizzicaria / Umberto Bucchioni; later Oreste Fiorucci",
+    "title": "Un tesoro nascosto, ossia Diario",
+    "date": "1895–1928;1969–1974",
+    "institution": "Capuchin Library Palermo; University of Chicago edition catalog",
+    "url": "https://www.archivumdoc.it/2020/06/un-tesoro-nascosto-ossia-diario-di-s-veronica-giuliani-religiosa-clarissa-cappuccina-in-citta-di-castello-scritto-da-lei-medesima-vol-1-1693-1697-vol-2-1697-1702-vol-3-1703-1718-vol-4/",
+    "access": "Catalog only",
+    "local": "none",
+    "type": "Edited first-person diary; document appendix lead",
+    "key_pages": "Fiorucci volume5: Relazioni, manoscritti, reperti, appendici, lettere"
+  }
+]

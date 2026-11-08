@@ -1,0 +1,35 @@
+LOURDES COMPARATIVE REVIEW — 3 NOVEMBER 2026
+
+Daniel asked whether the inspected Charan paper merits a comparison tally, then explicitly requested subagent review BEFORE tally. No tally files have been changed for this comparison. The finding about the paper itself stands: its unsupported millions-healed assertion is not a clinical result. It does not decide the separate commission/patient-record claims.
+
+Three parallel audits authorized and launched:
+1. mashhad_primary_cases: Persian institutional/patient/physician records, commission dossiers and documentation chain.
+2. mashhad_clinical_papers: nursing-model-case provenance, independent clinical literature, primary research and supplements.
+3. other_healing_shrines: strongest Sikh/Hindu/Buddhist/Jewish site-linked recoveries and objective records.
+
+Matched comparison standard: identify diagnosis and objective before findings, treatment chronology, objectively documented change, named examining physicians and their actual roles, follow-up and site/religious connection. A complete original hospital dossier is not mandatory for one tradition while selected published reports suffice for the other. Published diagnostic excerpts and images count as evidence but are distinguished from uninspected originals. A shrine-linked case need not involve bathing to be considered. Institutional review and extraordinary clinical recovery are separate claims. Generic prayer healing, symptom relief and shrine popularity do not alone establish the user's proposed rival sustained vindicatory pattern.
+
+Lourdes access benchmark from existing audits: Micheli has published paired radiograph reproductions and named specialist assessments, with unresolved chemotherapy/date discrepancies; Raco has selected signed-report excerpts and quantitative serial findings, plus a disputed PLS diagnosis and documented dissent. Neither full raw hospital file is in our collection. Do not silently upgrade either comparator to an independently re-examined clinical cohort.
+
+ADDITIONAL ARCHIVAL LEAD CHECKED BY ROOT
+Williams, Ryan J.; Watts, Fraser; Lockhart, Alastair. Health Help-Seeking Behaviour in Spiritual Healing Practice: Records from the Panacea Society's Healing Department, 1924–1997. Journal of Religion and Health61(2022),2417–2432; online3June2020. DOI10.1007/s10943-020-01044-1.
+https://link.springer.com/article/10.1007/s10943-020-01044-1
+https://pubmed.ncbi.nlm.nih.gov/32494891/
+Affiliations printed: Williams, University of Queensland School of Historical and Philosophical Inquiry; Watts, University of Lincoln School of Psychology; Lockhart, University of Cambridge Faculty of Divinity.
+Accessed publisher abstract, bibliography and declarations, NOT subscription full text. Abstract describes7192correspondent records containing40627letters over73years from48countries, from a movement with over120000correspondents in93countries. Self-reported effects of water-taking ritual used to analyze help-seeking; these are NOT verified cure counts. No inference of clinical verification or its total absence in the unseen full text. Funding is explicitly from Panacea Charitable Trust; authors disclose employment funded by the grant.
+https://www.cdamm.org/articles/panacea-society
+Lockhart's movement history links the healing practice to specific Panacean claims and describes the archival collection. This is a useful archive-based non-Apostolic movement comparator, but no paired-diagnostic clinical case has been recovered in this pass. Do not inflate archival volume into medically inexplicable outcomes. No tally awarded.
+
+No emails sent in this pass. Reports and source acquisition are pending; do not equate a pending lead with either a verified miracle or an eliminated claim.
+
+RESULTS OF THE PARALLEL PASS
+Mashhad academic: clinical-audit.txt now saved in mashhad-clinical-audit-20261103. BMC authors explicitly could not interview healed people; model-case provenance remains unresolved. New1999Hakim article by Ashraf Sadat Sanei et al., Visual and written documentation of healed patients (working translation), vol2no3p199, is directly indexed at https://www.magiran.com/volume/2292 Its abstract proposes scientific documentation, but no patient/results or shrine identity are established from excerpt. Fulltext remains outstanding; not a verified Mashhad cure.
+Mashhad primary: report.txt and source-register.json in mashhad-primary-audit-20261103. Kolthum Rezaei1993 breast-lump narrative names DrNosrati registration19410 and welfare-office1034/560, but original clinical certificate, pathology and followup missing. A documentary trail exists, not recovered clinical equivalence. No claim of literally zero records anywhere.
+
+NEW SIKH RECORDS: VASU BHARDWAJ
+Other-shrines agent recovered archived medical scans at sources/repo1.jpg, repo2.jpg and repo3.jpg within other-shrines-audit-20261103. Parent independently viewed all three scans.
+repo1:15August2001 serum electrophoresis reports monoclonal gammopathy, signed KiranCShahMD. repo3:7April2003 serum electrophoresis reports no myeloma band, same name. repo2: radiologist AnilMPatel, MD(Radio-Diagnosis), radiology/sonography clinic report,24AUGUST2002, describes regression compared with2001pelvic/skullfilms, residual lesions and improvement. Actual paired Xray images were not recovered with these three reports. Scanned documents on an archived healing-mission site are evidence, not independently authenticated originals or a documented determination of supernatural causation.
+CRITICAL DATE CORRECTION: agent initially misread repo2 date as24March2002 and inferred improvement BEFORE reportedMay2002shrine visit. Parent noticed08ratherthan03; agent rechecked and confirmed24/08/2002. PRE-SHRINE REGRESSION INFERENCE RETRACTED. No conclusion depends on the superseded date. Enlargement cannot create resolution missing from original545x676scan.
+Patient narrative acknowledges chemotherapy, but complete regimen, last-dose date, immediately previsit disease status and oncologist assessment remain uncollected. Do not claim chemotherapy proved to explain the recovery or conversely that no treatment could explain it.
+Primary narrative reproduced at https://www.sikhiwiki.org/index.php/Vasu_Bhardwaj archived mission gallery https://web.archive.org/web/20080703/http://www.gurunanakhealing.com/medical_report1.htm . Oxford chapter source https://academic.oup.com/book/27793/chapter/198049785 . Tribune2003 contemporaneous interview original provenance being recorded by agent.
+This is materially stronger documentary evidence than generic unverified healing narratives and warrants case-level review. It does not yet establish a sustained Lourdes-equivalent certified pattern. No whole-comparison tally awarded before that review.

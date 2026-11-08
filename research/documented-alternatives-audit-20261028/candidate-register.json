@@ -1,0 +1,67 @@
+{
+  "date": "2026-10-28",
+  "status": "Six bounded source-based arguments ready for discussion; none adjudicated victorious.",
+  "packet": "research/documented-alternatives-audit-20261028/six-arguments-for-discussion.txt",
+  "scope_note": "Debate preparation is complete. Adequate ordinary explanations of the three whole events have not been established.",
+  "tally": {
+    "Daniel": 6,
+    "assistant": 0,
+    "changed": true,
+    "date": "2026-10-29",
+    "reason": "DA-P2/P-05 fragrance challenge closed against the objection presented."
+  },
+  "candidates": [
+    {
+      "id": "DA-F1",
+      "event": "Fatima",
+      "target": "Solar colors and rotation as discriminator of extraordinary external source",
+      "primary": "Coelho, A Ordem 16/17 October 1917; DCF III-1 docs97/109",
+      "limit": "Partial comparison, not full motion or event replication.",
+      "discussion_status": "closed_against_core_challenge",
+      "discussion_date": "2026-10-29"
+    },
+    {
+      "id": "DA-F3",
+      "event": "Fatima",
+      "target": "Predictive force as an unrelated date coincidence",
+      "primary": "DCF I doc3; DCF III-1 docs33A/289",
+      "limit": "Promise retained; no numerical base rate; earlier events may also have been miracles. Connected to DA-F1."
+    },
+    {
+      "id": "DA-F2",
+      "event": "Fatima",
+      "target": "Several independent reported directions converge on an emitter over the Cova",
+      "primary": "DCF III-1 docs79/319; Amorim1960; De Marchi; Haffert; checked geography register",
+      "limit": "Does not refute remote solar experiences; target is stronger convergence inference."
+    },
+    {
+      "id": "DA-Z1",
+      "event": "Zeitoun",
+      "target": "Large crowd independently establishes detailed physical human form",
+      "primary": "Watani 5May1968 p2, original Arabic twins report; ZT-061",
+      "limit": "Unnamed indirect comparison; strongest prolonged form reports remain."
+    },
+    {
+      "id": "DA-P1",
+      "event": "Padre Pio",
+      "target": "Historical controls eliminate chemical wound maintenance",
+      "primary": "Di Flumeri docs14/25/30/53; Ramesh/Shenoi/Nayak2020",
+      "limit": "Does not demonstrate actual manufacture or full longitudinal fit. Continues open P-02."
+    },
+    {
+      "id": "DA-P2",
+      "event": "Padre Pio",
+      "target": "Intermittent/selective sincere fragrance reports exclude ordinary odor/perception",
+      "primary": "Dalton/Wysocki1996; O’Mahony1978; Sabiniewicz etal2021; positive Pio testimony",
+      "limit": "No actual source identified; strongest unprimed/transported-object reports unresolved.",
+      "discussion_status": "closed_against_challenge; one defense point for supporting fragrance thread",
+      "discussion_date": "2026-10-29"
+    }
+  ],
+  "excluded_from_six": [
+    "Borrowing from Gemma: peripheral to narrowed medical/fragrance core.",
+    "Photographic provenance controversy: supplementary; not separately counted.",
+    "Unsupported blackout, Nasser, temperature and other peripheral corrections."
+  ],
+  "scope_correction_20261029": "The earlier six-argument list included narrower inference and supporting objections; it must not be represented as six equally substantive attacks on primary claims."
+}

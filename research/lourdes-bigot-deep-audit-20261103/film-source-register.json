@@ -1,0 +1,42 @@
+[
+  {
+    "file": "film-cinematheque.html",
+    "url": "https://www.cinematheque.fr/film/51026.html",
+    "exit": 56,
+    "error": "curl: (56) The requested URL returned error: 503\n",
+    "bytes": null,
+    "sha256": null
+  },
+  {
+    "file": "film-rouquier-biography.html",
+    "url": "https://www.espacegeorgesrouquier.fr/georges-rouquier-bio",
+    "exit": 0,
+    "error": "",
+    "bytes": 777511,
+    "sha256": "e44478de89904eacd1f082bc1109704c8663ce72c1e51221ce047d828418b785"
+  },
+  {
+    "file": "film-documentaire-catalog.html",
+    "url": "https://www.film-documentaire.fr/4DACTION/w_fiche_film/20609",
+    "exit": 0,
+    "error": "",
+    "bytes": 100983,
+    "sha256": "0e35cce07eb8adc82ea48c91d3684debf1de9bfea72ddbbb6a5f87be71ef305a"
+  },
+  {
+    "file": "film-capuseen.html",
+    "url": "https://www.capuseen.com/films/3855-lourdes-et-ses-miracles",
+    "exit": 0,
+    "error": "",
+    "bytes": 151203,
+    "sha256": "0fe4c16240d973fbb033813203b5e9bade55605fcdedb62b9d4efce18b742aa8"
+  },
+  {
+    "file": "film-cbc1956-page7.pdf",
+    "url": "https://manuals.plus/m/075fdbd9ac4d1917df12989a170cd2d7fa1dcc6d4639daa3e23ed7811754a79f.pdf",
+    "exit": 56,
+    "error": "curl: (56) The requested URL returned error: 403\n",
+    "bytes": null,
+    "sha256": null
+  }
+]

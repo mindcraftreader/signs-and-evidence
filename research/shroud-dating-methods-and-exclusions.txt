@@ -1,0 +1,199 @@
+SHROUD DATING METHODS: UNCERTAINTY, VALIDATION AND EXCLUDED SAMPLES
+27 October 2026
+
+
+LATER 27 OCTOBER REANALYSIS
+The 82-year mechanical holdout is not a general accuracy estimate. Our
+reproduction of the published calculation gives an approximately 1330-year
+older error when another included C14 reference textile is withheld. This is
+our reanalysis, not a new published experiment. See shroud-probability-analysis.txt
+and its reproducible data/script before interpreting Gaussian tail probabilities.
+
+RESULT
+
+The newer methods have published calibration and validation work. It would be
+incorrect to describe all their evidence as speculation or to say they have no
+successful known-age checks. They also exclude some reference materials because
+of chemical treatment, signal interference or limits of application. Those are
+not automatically examples of a faulty method giving a bad date on an eligible
+sample.
+
+I did not identify a large independent series in which these particular linen
+clocks repeatedly gave grossly wrong dates on samples meeting their stated
+eligibility conditions. Their limited external validation should not be turned
+into an invented record of demonstrated failure.
+
+WHAT THE REPORTED ERROR BARS MEAN
+
+Radiocarbon measures an isotope ratio and calibrates it against independently
+dated atmospheric records. FTIR/Raman and mechanical methods infer age from
+changes in material properties calibrated on known-age textiles. WAXS infers age
+from cellulose degradation with an environmental aging model.
+
+All require appropriate samples. Numerical measurement uncertainty does not
+automatically include an unknown repair, an unrecognized treatment, a mistaken
+fiber attribution or an incorrect environmental model. A small error bar on
+the sampled material cannot establish that it represents the main cloth.
+
+The 1988 experiment's published mean was 691 +/-31 conventional radiocarbon years
+BP, not calendar AD 1259 +/-31. Its calibrated 95% intervals were AD 1262-1312
+and 1353-1384, summarized as AD 1260-1390. The original authors acknowledged
+extra scatter. These intervals are conditional on the sample and model.
+https://www.shroud.com/nature.htm
+
+Routine contemporary AMS precision can be approximately +/-25 radiocarbon years
+for young samples, according to Ottawa. Calendar ranges depend on calibration.
+The laboratory also describes reference standards, blanks and participation in
+international proficiency tests. This is an established validation infrastructure;
+it does not solve the Shroud's disputed sample representativeness.
+https://www.uottawa.ca/research-innovation/national-ael-ams-facility/radiocarbon-laboratory/understanding-results
+
+SHROUD ESTIMATES: KEEP THE PUBLICATION VERSIONS SEPARATE
+
+The 2015 methods paper reports FTIR 250 BC +/-400 years; Raman AD 30 with an
+uncertainty inconsistency; mechanical AD 260 +/-274 years; combined AD 86 +/-206
+years. Rounded approximate spans are respectively 650 BC-AD 150, 370 BC-AD 430
+(Raman as printed), about 15 BC-AD 534, and 120 BC-AD 292.
+
+Table 10 lists Raman standard uncertainty 250 years and expanded uncertainty
+400 years, while the text specifies expansion by a factor of two. That would be
+500 years. Do not silently repair the table or treat the difference as proof of
+a false age. Earlier publicized estimates, including Raman 200 BC +/-500 and a
+combined 33 BC +/-250, are different versions, not extra independent experiments.
+https://doi.org/10.1051/matecconf/20153601001 (Table 10 and conclusion)
+
+The 2022 WAXS study argues for compatibility with approximately 2000 years. It
+does not provide a straightforward universal AD date +/- a single 95% error bar
+that can be substituted for its conditional environmental analysis. Its stated
+ancient-age interpretation assumes correlated average temperature/humidity
+conditions during the undocumented history. These are model conditions, not a
+95% probability that the cloth dates to the first century.
+https://doi.org/10.3390/heritage5020047
+
+ACADEMIC STATUS
+
+AMS radiocarbon is an established archaeological dating method with independent
+calibration, multiple laboratories and proficiency programmes. The analytical
+instruments FTIR, Raman and WAXS, and mechanical fiber testing, are also established
+tools. That does not establish the specific age-conversion formulas as routine
+archaeological clocks.
+
+The relevant linen-dating formulas are published exploratory research, with small
+selected reference collections. I did not find a comparable large independent
+interlaboratory validation programme for them. A 2025 FTIR paper by another team
+explicitly describes lower dating precision than radiocarbon while proposing a
+complementary role. Only its abstract and metadata were accessible here.
+https://doi.org/10.1016/j.microc.2024.112502
+
+Ricci, Di Lazzaro and Sanchez Hermosilla published criticism of applying WAXS to
+this cloth's uncertain history, particularly heat, humidity and wet firefighting
+conditions. That is identifiable expert criticism, not a blinded failure series
+or proof that the entire field formally rejected WAXS dating.
+https://cesandalucia.org/en/post/can-the-shroud-be-dated-with-x-rays/
+
+DOCUMENTED EXCLUSIONS AND CONTROLS
+
+The detailed ledger is shroud-dating-audit/method-exclusions.csv. It distinguishes
+sample exclusions from corrected controls and statistical outliers. Most examples
+come from the developers' calibration/treatment studies; they are not unrelated
+museum artifacts independently dated and then rejected.
+
+WAXS: modern sample A (AD 2000) was excluded because oxidative bleaching changed
+its degradation signal. No numerical false calendar date is reported. Very old
+sample LII (3500-3000 BC) could not supply a useful finite WAXS date because its
+signal had saturated. These are scope limits, not evidence that an eligible
+artifact was confidently misdated by thousands of years.
+https://doi.org/10.3390/heritage2040171 (sections 5-6)
+
+Mechanical: modern sample A was excluded after sodium-hydroxide treatment altered
+its properties. Raman: Egyptian sample MII (about 2400 BC) was excluded for high
+fluorescence, not a demonstrated wrong age. Mechanical NI was excluded for falling
+outside acceptance criteria; an individual cause should not be invented. The
+heated A1/A2 controls were used to estimate bias, rather than simply discarded.
+https://doi.org/10.1051/matecconf/20153601001 (sections 3.1, 4.1-4.2)
+
+The 2013 spectroscopy abstract reports selecting 8 of 14 reference textiles for
+FTIR and 11 of 14 for Raman after screening for pollution and suitability. Without
+the full underlying records, that should not be described as six or three proven
+wrong-date experiments.
+https://doi.org/10.1016/j.vibspec.2013.04.001
+
+POSITIVE CHECKS ALSO BELONG IN THE RECORD
+
+The WAXS method paper reports four checks beyond its two main age-calibration
+anchors. The archived comparison, expressed as aging durations, is:
+
+  Sample    Reference age (years)       WAXS result (years)
+  DII       950 +/-80                   940 +/-70
+  NII       2310 +/-60                  2350, -290/+510
+  E         2390 +/-40                  2390, -230/+280
+  HII       2880 +/-140                 2770, -360/+600
+
+The paper labels these approximately 95% intervals. They agree within uncertainty.
+This is evidence of within-study validity under its selected conditions, not a
+large blinded external trial. D and FII were calibration anchors and should not
+be counted as additional independent validation successes.
+https://doi.org/10.3390/heritage2040171 (section 6, Table 3)
+
+INTERPRETATION
+
+An exclusion is persuasive when the eligibility rule is established independently
+of the desired result, the treatment is identified, and excluded samples and their
+signals are reported. Removing observations only because they disagree with the
+model raises a different concern. The 2015 regression also removes an outlier;
+that paragraph does not establish a bleaching or contamination cause for it.
+
+For the Shroud, the relevant question is whether a tested thread satisfies the
+method's conditions and whether its historical treatment can be characterized.
+Modern industrial bleaching and ancient linen processing must not be conflated.
+A September 2026 study investigates distinguishing bleaching processes with FTIR;
+its abstract does not establish a new calendar date or an independent dating failure.
+https://doi.org/10.1038/s40494-026-02965-y
+
+The appropriate comparison is established radiocarbon measurement with a disputed
+sample versus published experimental aging methods with limited external validation
+and treatment-dependent applicability. The exclusions alone neither discredit the
+newer approaches nor establish that the Shroud is an eligible sample for them.
+
+ACCESS AND VERIFICATION
+
+Relevant tables in the 2015 and 2019 PDFs were rendered and visually checked.
+The 2013 spectroscopy and 2014 mechanical papers were available as abstract-level
+records; the 2015 synthesis supplies the detailed methods and tables used here.
+The 2025 irradiation paper and 2026 bleaching paper are abstract-level sources in
+this pass. Each is labeled accordingly in the searchable source library.
+
+My earlier 80/20 age preference was a subjective judgment. It is not a reported
+scientific interval, a measured failure frequency or a result calculated from the
+error bars above.
+
+ADDITIONAL EVIDENTIAL BURDEN: THE CONVERGENCE OF OLDER ESTIMATES
+
+The agreement in direction among FTIR, Raman, mechanical and WAXS estimates must
+count as evidence for antiquity. If the original linen is medieval, the age
+interpretations of these measurements require an explanation. Relative to an
+illustrative AD 1325 origin, the revised FTIR, Raman and mechanical point estimates
+are approximately 1575, 1295 and 1065 years earlier, respectively; WAXS argues for
+roughly two millennia under its environmental model. These are not four identical
+1300-year offsets, but their common direction is a real observation.
+
+Their dependence reduces how much their agreement can be multiplied: several
+track cellulose deterioration, use overlapping reference textiles, and could share
+environmental or treatment sensitivities. A shared-bias hypothesis is testable,
+but identifying a vulnerability does not demonstrate that it actually produced
+these particular dates. This review has not established a common treatment or
+environmental history that quantitatively reproduces all four reported outcomes
+for known medieval linen matching the tested material.
+
+Conversely, an ancient-linen account must explain the medieval radiocarbon
+measurements, including the actual composition and distribution of the dated
+material. Neither side receives an established reconciliation merely because it
+can propose one.
+
+Failure-search scope: not finding a published gross-error example in this review
+does not establish a zero failure rate in every domain. General applications of
+FTIR, Raman and WAXS are also different from these specific linen-age formulas.
+Successful known-age checks, exclusions and gaps in external validation should all
+be retained in any later assessment. No numerical likelihood for the four-method
+convergence was estimated here, so it cannot honestly be assigned either no weight
+or an invented product of four independent tiny probabilities.

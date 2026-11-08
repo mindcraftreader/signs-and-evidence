@@ -1,0 +1,1367 @@
+[
+  {
+    "event_id": "ZE-19680402-E",
+    "date": "1968-04-02",
+    "date_end": null,
+    "observation_ids": [
+      "ZO-001",
+      "ZO-054"
+    ],
+    "witnesses": [
+      "Public-transport garage workers; names vary slightly in translations",
+      "Sayed Ahmed Abdel-Mawgoud, public-transport conductor; driver Mahmoud Moselhy"
+    ],
+    "source_ids": [
+      "ZGOV-19680430",
+      "ZVOL20-APPENDIX"
+    ],
+    "statuses": [
+      "reported apparition"
+    ],
+    "flags": [
+      "Different reported onset from Ministry 20:30; not silently corrected. Later forms described in same testimony are not individually dated."
+    ]
+  },
+  {
+    "event_id": "ZE-19680403-D",
+    "date": "1968-04-03",
+    "date_end": null,
+    "observation_ids": [
+      "ZO-002"
+    ],
+    "witnesses": [
+      "Maamoun Afifi, Abdel-Aziz Ali, Hussein Awwad and Yacout Ali, reported to committee"
+    ],
+    "source_ids": [
+      "ZCOM-19680430"
+    ],
+    "statuses": [
+      "reported apparition"
+    ],
+    "flags": []
+  },
+  {
+    "event_id": "ZE-19680409-E",
+    "date": "1968-04-09",
+    "date_end": null,
+    "observation_ids": [
+      "ZO-003",
+      "ZO-004",
+      "ZO-055",
+      "ZO-056"
+    ],
+    "witnesses": [
+      "Fr Constantine Moussa",
+      "Unnamed twin brothers, relayed by report",
+      "Amin Salib Soliman, typist",
+      "Wadiah Iskandar Mesiha, widow of Dr Aziz Luka"
+    ],
+    "source_ids": [
+      "ZGOV-19680430",
+      "ZVOL20-APPENDIX"
+    ],
+    "statuses": [
+      "reported apparition"
+    ],
+    "flags": [
+      "Compare 1969 booklet: pastor sighting placed the night after April 9.",
+      "Not separately signed firsthand testimonies in retrieved report."
+    ]
+  },
+  {
+    "event_id": "ZE-19680410-D",
+    "date": "1968-04-10",
+    "date_end": null,
+    "observation_ids": [
+      "ZO-005",
+      "ZO-059",
+      "ZO-060",
+      "ZO-061"
+    ],
+    "witnesses": [
+      "Wagih Rizk Matta",
+      "Wadiah Iskandar Mesiha",
+      "Amin Salib Soliman",
+      "Wasfi Salib Massaad, postal printing stores controller, law graduate"
+    ],
+    "source_ids": [
+      "ZBOOK-1969-COMMITTEE",
+      "ZVOL20-APPENDIX"
+    ],
+    "statuses": [
+      "reported apparition"
+    ],
+    "flags": [
+      "Original wording calls it April 9 night; April 9/10 midnight interpretation remains explicit."
+    ]
+  },
+  {
+    "event_id": "ZE-19680410-E",
+    "date": "1968-04-10",
+    "date_end": null,
+    "observation_ids": [
+      "ZO-006",
+      "ZO-057",
+      "ZO-058"
+    ],
+    "witnesses": [
+      "Fr Constantine Moussa",
+      "Wadiah Iskandar Mesiha"
+    ],
+    "source_ids": [
+      "ZBOOK-1969-COMMITTEE",
+      "ZVOL20-APPENDIX"
+    ],
+    "statuses": [
+      "reported apparition"
+    ],
+    "flags": [
+      "May overlap or conflict with Ministry April 9 at 22:00.",
+      "Conflicts or differs from Ministry April 9 at 22:00 placement; both retained."
+    ]
+  },
+  {
+    "event_id": "ZE-19680412-U",
+    "date": "1968-04-12",
+    "date_end": null,
+    "observation_ids": [
+      "ZO-007",
+      "ZO-063"
+    ],
+    "witnesses": [
+      "Unnamed Cairo University chemistry student, through mother interviewed by Nelson",
+      "Wadiah Iskandar Mesiha"
+    ],
+    "source_ids": [
+      "ZNELSON-1973",
+      "ZVOL20-APPENDIX"
+    ],
+    "statuses": [
+      "reported apparition"
+    ],
+    "flags": [
+      "Indirect as transmitted by Nelson; student not independently interviewed in passage."
+    ]
+  },
+  {
+    "event_id": "ZE-19680415-E",
+    "date": "1968-04-15",
+    "date_end": null,
+    "observation_ids": [
+      "ZO-008"
+    ],
+    "witnesses": [
+      "Cynthia Nelson and surrounding crowd"
+    ],
+    "source_ids": [
+      "ZNELSON-1973"
+    ],
+    "statuses": [
+      "corrected false alarm"
+    ],
+    "flags": [
+      "22:00 is arrival time, not exact onset; excluded from apparition counts."
+    ]
+  },
+  {
+    "event_id": "ZE-19680419-E",
+    "date": "1968-04-19",
+    "date_end": null,
+    "observation_ids": [
+      "ZO-009",
+      "ZO-072",
+      "ZO-073"
+    ],
+    "witnesses": [
+      "Lawyer Zaki Shenouda",
+      "Michel Anis Girgis, bus-company accountant, with colleague Michel Azar Seifin",
+      "Soheir Ishaq Marcos, teaching assistant in art/design, Higher Institute of Home Economics"
+    ],
+    "source_ids": [
+      "ZP-19680505-WATANI",
+      "ZVOL20-APPENDIX"
+    ],
+    "statuses": [
+      "ambiguous observation",
+      "reported apparition"
+    ],
+    "flags": [
+      "Do not merge with his later clear-figure claim.",
+      "Earlier light around 22:00 and figure around 22:30 are distinct phases; estimated 700 onlookers not 700 individual written testimonies."
+    ]
+  },
+  {
+    "event_id": "ZE-19680420-E",
+    "date": "1968-04-20",
+    "date_end": null,
+    "observation_ids": [
+      "ZO-010"
+    ],
+    "witnesses": [
+      "Saber Youssef Hanna and wife"
+    ],
+    "source_ids": [
+      "ZP-19680505-WATANI"
+    ],
+    "statuses": [
+      "reported apparition"
+    ],
+    "flags": [
+      "Brief healing-centered report; no exact time."
+    ]
+  },
+  {
+    "event_id": "ZE-19680425-D",
+    "date": "1968-04-25",
+    "date_end": null,
+    "observation_ids": [
+      "ZO-011"
+    ],
+    "witnesses": [
+      "Michel Tekla, airline administrator"
+    ],
+    "source_ids": [
+      "ZP-19680505-WATANI"
+    ],
+    "statuses": [
+      "reported apparition"
+    ],
+    "flags": [
+      "First-sighting introduction says just after midnight; distinguish arrival/first-event wording."
+    ]
+  },
+  {
+    "event_id": "ZE-19680426-D",
+    "date": "1968-04-26",
+    "date_end": null,
+    "observation_ids": [
+      "ZO-012"
+    ],
+    "witnesses": [
+      "Michel Tekla, article byline"
+    ],
+    "source_ids": [
+      "ZP-19680505-WATANI"
+    ],
+    "statuses": [
+      "reported apparition"
+    ],
+    "flags": [
+      "May be same person as airline administrator; not counted as distinct witness automatically."
+    ]
+  },
+  {
+    "event_id": "ZE-19680427-E",
+    "date": "1968-04-27",
+    "date_end": null,
+    "observation_ids": [
+      "ZO-013"
+    ],
+    "witnesses": [
+      "Isaac Guirguis Naguib, lawyer"
+    ],
+    "source_ids": [
+      "ZSCENES-GREGORIOS"
+    ],
+    "statuses": [
+      "reported accompanying light"
+    ],
+    "flags": [
+      "Underlying dated letter not inspected."
+    ]
+  },
+  {
+    "event_id": "ZE-19680428-D",
+    "date": "1968-04-28",
+    "date_end": null,
+    "observation_ids": [
+      "ZO-014",
+      "ZO-015",
+      "ZO-016",
+      "ZO-017"
+    ],
+    "witnesses": [
+      "Zaki Shenouda",
+      "Dr Louis Marcos, English department head, Ain Shams University",
+      "Shukri Ghattas, through brother-in-law Dr Wahib Marcos",
+      "Nagy Maoud Rezk and others"
+    ],
+    "source_ids": [
+      "ZP-19680505-WATANI",
+      "ZSCENES-GREGORIOS"
+    ],
+    "statuses": [
+      "reported apparition",
+      "reported accompanying light"
+    ],
+    "flags": [
+      "Night spans April 27–28; arrival date is not sighting date.",
+      "Original written testimony reported but not independently recovered.",
+      "Indirect witness chain; date relative.",
+      "Later compilation; original statement uninspected."
+    ]
+  },
+  {
+    "event_id": "ZE-19680428-E",
+    "date": "1968-04-28",
+    "date_end": null,
+    "observation_ids": [
+      "ZO-018"
+    ],
+    "witnesses": [
+      "Michel Tekla with son Naji"
+    ],
+    "source_ids": [
+      "ZP-19680505-WATANI"
+    ],
+    "statuses": [
+      "reported apparition"
+    ],
+    "flags": [
+      "English text calls interval one hour ten minutes; clocks yield 50 minutes. Arabic verification pending."
+    ]
+  },
+  {
+    "event_id": "ZE-19680430-D",
+    "date": "1968-04-30",
+    "date_end": null,
+    "observation_ids": [
+      "ZO-019",
+      "ZO-020",
+      "ZO-021",
+      "ZO-022",
+      "ZO-023",
+      "ZO-024",
+      "ZO-025"
+    ],
+    "witnesses": [
+      "Bishop Athanasius of Beni Suef",
+      "Patriarchal statement summarizing witnesses",
+      "Air Force Major Asaad Iskandar",
+      "Dr Louis Marcos",
+      "Seti and Makram Shenouda, relayed by father",
+      "Bishop Athanasius, booklet version",
+      "Dr Sobhi Farid Shawqi"
+    ],
+    "source_ids": [
+      "ZP-19680505-WATANI",
+      "ZPAT-19680504",
+      "ZBOOK-1969-COMMITTEE",
+      "ZSCENES-GREGORIOS"
+    ],
+    "statuses": [
+      "reported apparition",
+      "reported accompanying cloud"
+    ],
+    "flags": [
+      "Arabic verified by press sibling: clear 2 h 15 duration. Conflicts with interruption in 1969 booklet.",
+      "Dependent institutional summary, not a new eyewitness.",
+      "Relative weekday normalization; overlapping time is meaningful, not blind replication.",
+      "Same source channel as other conference witnesses.",
+      "Reported departure/return 02:45 appears earlier than father’s other account onset; do not impose same exact onset.",
+      "Indirect via father; overlap with later 02:45–05:00 episode unresolved.",
+      "Same bishop/event; not additional witness. Onset/end are outer envelope, not continuous duration.",
+      "Later compiled statement, not a separately inspected 1968 letter."
+    ]
+  },
+  {
+    "event_id": "ZE-19680430-E",
+    "date": "1968-04-30",
+    "date_end": null,
+    "observation_ids": [
+      "ZO-026"
+    ],
+    "witnesses": [
+      "Eva Naguib Fawzi, George Ghattas, Nazira and Sania Hanna Ghattas, Zeinab Hussein Fahmi"
+    ],
+    "source_ids": [
+      "ZSCENES-GREGORIOS"
+    ],
+    "statuses": [
+      "reported accompanying light"
+    ],
+    "flags": [
+      "Later compilation; underlying statement date not recovered."
+    ]
+  },
+  {
+    "event_id": "ZE-19680430-N",
+    "date": "1968-04-30",
+    "date_end": "1968-05-01",
+    "observation_ids": [
+      "ZO-027"
+    ],
+    "witnesses": [
+      "Judge Wahbi Salama and reporter"
+    ],
+    "source_ids": [
+      "ZP-19680505-WATANI"
+    ],
+    "statuses": [
+      "reported apparition"
+    ],
+    "flags": [
+      "Could extend into May 1; do not merge automatically with April 30 dawn."
+    ]
+  },
+  {
+    "event_id": "ZE-19680504-E",
+    "date": "1968-05-04",
+    "date_end": null,
+    "observation_ids": [
+      "ZO-028",
+      "ZO-029"
+    ],
+    "witnesses": [
+      "Dr Khairy Malek"
+    ],
+    "source_ids": [
+      "ZEYE-1996-MALEK"
+    ],
+    "statuses": [
+      "reported apparition"
+    ],
+    "flags": [
+      "Late published firsthand recollection; radio announcement heard before arrival.",
+      "Second phase of same visit; not automatically distinct appearance."
+    ]
+  },
+  {
+    "event_id": "ZE-19680505-D",
+    "date": "1968-05-05",
+    "date_end": null,
+    "observation_ids": [
+      "ZO-030",
+      "ZO-031"
+    ],
+    "witnesses": [
+      "Dr Khairy Malek and relatives",
+      "Dr Ramzi Guirguis Bastorus, wife and other observers"
+    ],
+    "source_ids": [
+      "ZEYE-1996-MALEK",
+      "ZSCENES-GREGORIOS"
+    ],
+    "statuses": [
+      "reported apparition"
+    ],
+    "flags": [
+      "Civil May 5 inferred; original phrasing ambiguous.",
+      "Same passage also says the image grew clearer at 05:40; cannot reconcile without the original."
+    ]
+  },
+  {
+    "event_id": "ZE-19680506-E",
+    "date": "1968-05-06",
+    "date_end": "1968-05-07",
+    "observation_ids": [
+      "ZO-032"
+    ],
+    "witnesses": [
+      "Bastorus observing group"
+    ],
+    "source_ids": [
+      "ZSCENES-GREGORIOS"
+    ],
+    "statuses": [
+      "non-detection visit"
+    ],
+    "flags": [
+      "Not an apparition entry; civil date after midnight unresolved."
+    ]
+  },
+  {
+    "event_id": "ZE-19680506-D",
+    "date": "1968-05-06",
+    "date_end": null,
+    "observation_ids": [
+      "ZO-033"
+    ],
+    "witnesses": [
+      "Engineer Murad Younan Yostos"
+    ],
+    "source_ids": [
+      "ZSCENES-GREGORIOS"
+    ],
+    "statuses": [
+      "reported accompanying light"
+    ],
+    "flags": [
+      "Later compiled account."
+    ]
+  },
+  {
+    "event_id": "ZE-19680510-D",
+    "date": "1968-05-10",
+    "date_end": null,
+    "observation_ids": [
+      "ZO-034"
+    ],
+    "witnesses": [
+      "Murad Younan Yostos and Dr Nadia Fawzi Youssef"
+    ],
+    "source_ids": [
+      "ZSCENES-GREGORIOS"
+    ],
+    "statuses": [
+      "reported accompanying cloud"
+    ],
+    "flags": [
+      "Later compiled account."
+    ]
+  },
+  {
+    "event_id": "ZE-19680519-D",
+    "date": "1968-05-19",
+    "date_end": null,
+    "observation_ids": [
+      "ZO-035"
+    ],
+    "witnesses": [
+      "Ramses/Yanni Maqar, accountant from Khartoum, and relatives"
+    ],
+    "source_ids": [
+      "ZP-19680526-WATANI"
+    ],
+    "statuses": [
+      "reported apparition"
+    ],
+    "flags": [
+      "Date inference pending Arabic page verification. Multiple phases not counted as separate nights."
+    ]
+  },
+  {
+    "event_id": "ZE-19680522-E",
+    "date": "1968-05-22",
+    "date_end": null,
+    "observation_ids": [
+      "ZO-036"
+    ],
+    "witnesses": [
+      "Thuraya Matta Baqtur"
+    ],
+    "source_ids": [
+      "ZP-19680526-WATANI"
+    ],
+    "statuses": [
+      "reported apparition"
+    ],
+    "flags": [
+      "Date inference pending Arabic verification."
+    ]
+  },
+  {
+    "event_id": "ZE-19680523-E",
+    "date": "1968-05-23",
+    "date_end": "1968-05-24",
+    "observation_ids": [
+      "ZO-037"
+    ],
+    "witnesses": [
+      "Aziza, wife of Ilhami Georgy"
+    ],
+    "source_ids": [
+      "ZP-19680526-WATANI"
+    ],
+    "statuses": [
+      "reported apparition"
+    ],
+    "flags": [
+      "Midnight may fall May 24; unmerged with table May 24 label Thursday error."
+    ]
+  },
+  {
+    "event_id": "ZE-19680526-D",
+    "date": "1968-05-26",
+    "date_end": null,
+    "observation_ids": [
+      "ZO-038"
+    ],
+    "witnesses": [
+      "Bishop Gregorios"
+    ],
+    "source_ids": [
+      "ZP-19680602-WATANI"
+    ],
+    "statuses": [
+      "reported accompanying cloud"
+    ],
+    "flags": [
+      "Do not infer full figure from a cloud-only passage."
+    ]
+  },
+  {
+    "event_id": "ZE-19680527-D",
+    "date": "1968-05-27",
+    "date_end": null,
+    "observation_ids": [
+      "ZO-039"
+    ],
+    "witnesses": [
+      "Engineer Wahba Massaad Khalil, family, Dr Aziz Barsoum and daughter"
+    ],
+    "source_ids": [
+      "ZP-19680602-WATANI"
+    ],
+    "statuses": [
+      "reported apparition"
+    ],
+    "flags": [
+      "00:00 means shortly after, not exact onset. Arabic verification pending."
+    ]
+  },
+  {
+    "event_id": "ZE-19680528-D",
+    "date": "1968-05-28",
+    "date_end": null,
+    "observation_ids": [
+      "ZO-040",
+      "ZO-041"
+    ],
+    "witnesses": [
+      "Fakhoury Khalil and Zakari Boutros; article report",
+      "Same newspaper episode"
+    ],
+    "source_ids": [
+      "ZP-19680602-WATANI"
+    ],
+    "statuses": [
+      "reported apparition"
+    ],
+    "flags": [
+      "Article does not clearly attribute every detail to each eyewitness.",
+      "02:50 calculated from five-minute duration; not a separately printed clock time."
+    ]
+  },
+  {
+    "event_id": "ZE-19680601-N",
+    "date": "1968-06-01",
+    "date_end": "1968-06-02",
+    "observation_ids": [
+      "ZO-042",
+      "ZO-043"
+    ],
+    "witnesses": [
+      "Cynthia Nelson and companions",
+      "Gregorios compilation describes feast night"
+    ],
+    "source_ids": [
+      "ZNELSON-1973",
+      "ZSCENES-GREGORIOS"
+    ],
+    "statuses": [
+      "ambiguous observation",
+      "reported apparition"
+    ],
+    "flags": [
+      "Times are the visit window, not continuous appearance. End civil date June 2.",
+      "Later compilation; relation to Nelson’s flash observations not established."
+    ]
+  },
+  {
+    "event_id": "ZE-19680609-D",
+    "date": "1968-06-09",
+    "date_end": null,
+    "observation_ids": [
+      "ZO-044"
+    ],
+    "witnesses": [
+      "Bishop Gregorios, first-person compilation passage"
+    ],
+    "source_ids": [
+      "ZSCENES-GREGORIOS"
+    ],
+    "statuses": [
+      "reported accompanying light"
+    ],
+    "flags": [
+      "English source incorrectly labels June 9 as first Bashans; preserve Gregorian date without assuming a correct Coptic month."
+    ]
+  },
+  {
+    "event_id": "ZE-19680911-N",
+    "date": "1968-09-11",
+    "date_end": "1968-09-12",
+    "observation_ids": [
+      "ZO-045"
+    ],
+    "witnesses": [
+      "Vivian Sami Goubran"
+    ],
+    "source_ids": [
+      "ZEYE-NIL-VIVIAN"
+    ],
+    "statuses": [
+      "reported apparition"
+    ],
+    "flags": [
+      "If September 11 evening followed by 01:00,civil date would September 12; exact night unresolved."
+    ]
+  },
+  {
+    "event_id": "ZE-19700329-W",
+    "date": "1970-03-29",
+    "date_end": "1970-04-04",
+    "observation_ids": [
+      "ZO-046"
+    ],
+    "witnesses": [
+      "Watani anniversary report, Ezzat Sami"
+    ],
+    "source_ids": [
+      "ZP-19700405-WATANI"
+    ],
+    "statuses": [
+      "general period report"
+    ],
+    "flags": [
+      "Pope April 2 visit and 50,000 attendance are not a timed sighting. No individual appearance inferred."
+    ]
+  },
+  {
+    "event_id": "ZE-UNDATED-COMMITTEE",
+    "date": null,
+    "date_end": null,
+    "observation_ids": [
+      "ZO-047"
+    ],
+    "witnesses": [
+      "Girgis Matta, Youhanna Abdel-Messih, Benjamin Kamel"
+    ],
+    "source_ids": [
+      "ZCOM-19680430"
+    ],
+    "statuses": [
+      "reported apparition"
+    ],
+    "flags": [
+      "Joint party is one observation cluster; not three dated independent nights."
+    ]
+  },
+  {
+    "event_id": "ZE-UNDATED-ATHANASIUS-PRIOR",
+    "date": null,
+    "date_end": null,
+    "observation_ids": [
+      "ZO-048"
+    ],
+    "witnesses": [
+      "Bishop Athanasius"
+    ],
+    "source_ids": [
+      "ZP-19680505-WATANI"
+    ],
+    "statuses": [
+      "reported apparition"
+    ],
+    "flags": [
+      "Do not assign April 29 without textual support."
+    ]
+  },
+  {
+    "event_id": "ZE-UNDATED-ATHANASIUS-PALMER",
+    "date": null,
+    "date_end": null,
+    "observation_ids": [
+      "ZO-049"
+    ],
+    "witnesses": [
+      "Bishop Athanasius interviewed by Jerome Palmer"
+    ],
+    "source_ids": [
+      "ZEYE-PALMER-ATHANASIUS"
+    ],
+    "statuses": [
+      "reported apparition"
+    ],
+    "flags": [
+      "Cannot count as new April 6 event and April 30 corroboration simultaneously."
+    ]
+  },
+  {
+    "event_id": "ZE-UNDATED-NELSON-LATEAPR",
+    "date": null,
+    "date_end": null,
+    "observation_ids": [
+      "ZO-050"
+    ],
+    "witnesses": [
+      "Cynthia Nelson"
+    ],
+    "source_ids": [
+      "ZNELSON-1973"
+    ],
+    "statuses": [
+      "ambiguous observation"
+    ],
+    "flags": [
+      "Do not convert to verified April 22."
+    ]
+  },
+  {
+    "event_id": "ZE-UNDATED-VIVIAN-ASSUMPTION",
+    "date": null,
+    "date_end": null,
+    "observation_ids": [
+      "ZO-051"
+    ],
+    "witnesses": [
+      "Vivian Sami Goubran"
+    ],
+    "source_ids": [
+      "ZEYE-NIL-VIVIAN"
+    ],
+    "statuses": [
+      "reported apparition"
+    ],
+    "flags": [
+      "Do not silently assign August 15; Coptic feast calendar needs verification."
+    ]
+  },
+  {
+    "event_id": "ZE-UNDATED-VIVIAN-RELICS",
+    "date": null,
+    "date_end": null,
+    "observation_ids": [
+      "ZO-052"
+    ],
+    "witnesses": [
+      "Vivian Sami Goubran"
+    ],
+    "source_ids": [
+      "ZEYE-NIL-VIVIAN"
+    ],
+    "statuses": [
+      "reported apparition"
+    ],
+    "flags": [
+      "Source calls 03:00 to dawn 3.5 hours; verify original and feast reference before assigning June 24/25."
+    ]
+  },
+  {
+    "event_id": "ZE-1970-ALFIDA-UNRESOLVED",
+    "date": null,
+    "date_end": null,
+    "observation_ids": [
+      "ZO-053"
+    ],
+    "witnesses": [
+      "Unnamed observers in newspaper report"
+    ],
+    "source_ids": [
+      "ZP-19700803-ALFIDA"
+    ],
+    "statuses": [
+      "reported apparition"
+    ],
+    "flags": [
+      "If metadata and relative week are correct, candidates are July 30/31,1970. Neither is established without Arabic issue date.",
+      "The accompanying Saturday–Wednesday spiritual phenomena are not five separately verified full-figure appearances."
+    ]
+  },
+  {
+    "event_id": "ZE-19680411-D",
+    "date": "1968-04-11",
+    "date_end": null,
+    "observation_ids": [
+      "ZO-062"
+    ],
+    "witnesses": [
+      "Major Samir Younan Soliman, deputy district police officer at Mahalla"
+    ],
+    "source_ids": [
+      "ZVOL20-APPENDIX"
+    ],
+    "statuses": [
+      "reported apparition"
+    ],
+    "flags": [
+      "02:00 is stated arrival time; onset not separately measured. His additional June visit remains separately undated."
+    ]
+  },
+  {
+    "event_id": "ZE-19680413-E",
+    "date": "1968-04-13",
+    "date_end": null,
+    "observation_ids": [
+      "ZO-064"
+    ],
+    "witnesses": [
+      "Badie al-Shammah Farag, social-studies inspector; Wadiah Iskandar Mesiha"
+    ],
+    "source_ids": [
+      "ZVOL20-APPENDIX"
+    ],
+    "statuses": [
+      "reported apparition"
+    ],
+    "flags": [
+      "Composite paragraph attributes outline and movement to two reports; not one verbatim joint statement."
+    ]
+  },
+  {
+    "event_id": "ZE-19680414-E",
+    "date": "1968-04-14",
+    "date_end": null,
+    "observation_ids": [
+      "ZO-065"
+    ],
+    "witnesses": [
+      "Nashaat Fakhri Bastawrous; Wasfi Salib Massaad"
+    ],
+    "source_ids": [
+      "ZVOL20-APPENDIX"
+    ],
+    "statuses": [
+      "reported apparition"
+    ],
+    "flags": [
+      "Composite paragraph joins two footnoted reports."
+    ]
+  },
+  {
+    "event_id": "ZE-19680415-D",
+    "date": "1968-04-15",
+    "date_end": null,
+    "observation_ids": [
+      "ZO-066"
+    ],
+    "witnesses": [
+      "Mahmoud Naguib al-Bakri, Al-Gomhuria correspondent in Zeitoun"
+    ],
+    "source_ids": [
+      "ZVOL20-APPENDIX"
+    ],
+    "statuses": [
+      "reported apparition"
+    ],
+    "flags": [
+      "Original time is about 02:30 or 03:00, not an exact 02:30 onset."
+    ]
+  },
+  {
+    "event_id": "ZE-19680416-E",
+    "date": "1968-04-16",
+    "date_end": null,
+    "observation_ids": [
+      "ZO-067"
+    ],
+    "witnesses": [
+      "Ishaq Aziz Hanna, Gharbia provincial accounts auditor"
+    ],
+    "source_ids": [
+      "ZVOL20-APPENDIX"
+    ],
+    "statuses": [
+      "reported apparition"
+    ],
+    "flags": []
+  },
+  {
+    "event_id": "ZE-19680417-E",
+    "date": "1968-04-17",
+    "date_end": null,
+    "observation_ids": [
+      "ZO-068"
+    ],
+    "witnesses": [
+      "Gamil Shukri Baghdadi; Farid Kamel Farid; Nabil Fikri Bishay"
+    ],
+    "source_ids": [
+      "ZVOL20-APPENDIX"
+    ],
+    "statuses": [
+      "reported apparition"
+    ],
+    "flags": [
+      "Composite paragraph has three report attributions. End 00:30 falls on April 18; not continuously visible."
+    ]
+  },
+  {
+    "event_id": "ZE-19680418-E",
+    "date": "1968-04-18",
+    "date_end": null,
+    "observation_ids": [
+      "ZO-069"
+    ],
+    "witnesses": [
+      "Maurice Youssef Nammour, agricultural engineer"
+    ],
+    "source_ids": [
+      "ZVOL20-APPENDIX"
+    ],
+    "statuses": [
+      "reported apparition"
+    ],
+    "flags": [
+      "Reported individual times 21:00,21:45,22:15,23:05; endfield is last onset, not final disappearance."
+    ]
+  },
+  {
+    "event_id": "ZE-19680418-N",
+    "date": "1968-04-18",
+    "date_end": null,
+    "observation_ids": [
+      "ZO-070",
+      "ZO-071"
+    ],
+    "witnesses": [
+      "Dr Youssef Aziz Matta, with wife Suzy Rizk",
+      "Dr Emily Armanious, school-health ophthalmologist"
+    ],
+    "source_ids": [
+      "ZVOL20-APPENDIX"
+    ],
+    "statuses": [
+      "reported accompanying light"
+    ],
+    "flags": [
+      "Civil April 18/19 midnight unresolved; no full figure in this particular passage.",
+      "Civil April 18/19 midnight unresolved; witness initially considered searchlight illumination."
+    ]
+  },
+  {
+    "event_id": "ZE-19680419-D",
+    "date": "1968-04-19",
+    "date_end": null,
+    "observation_ids": [
+      "ZO-074",
+      "ZO-075",
+      "ZO-076"
+    ],
+    "witnesses": [
+      "Nabil Qaysar Gad, English teacher; Wadiah Iskandar Mesiha",
+      "Nabil Qaysar Gad",
+      "Samir Moussa Hakim, Ain Shams University medical student"
+    ],
+    "source_ids": [
+      "ZVOL20-APPENDIX"
+    ],
+    "statuses": [
+      "reported accompanying light",
+      "reported apparition"
+    ],
+    "flags": [
+      "This early phase explicitly did not form a figure; later same-night figure is a separate observation.",
+      "Original time about 02:30 or 03:00, repeated roughly four times.",
+      "02:30 approximate; apparent 30 cm size is witness estimate, not calibrated measurement."
+    ]
+  },
+  {
+    "event_id": "ZE-19680622-E",
+    "date": "1968-06-22",
+    "date_end": null,
+    "observation_ids": [
+      "ZO-077"
+    ],
+    "witnesses": [
+      "Sami Saad, report cross-referenced to printed page 522"
+    ],
+    "source_ids": [
+      "ZVOL20-APPENDIX"
+    ],
+    "statuses": [
+      "reported accompanying light"
+    ],
+    "flags": []
+  },
+  {
+    "event_id": "ZE-19680625-E",
+    "date": "1968-06-25",
+    "date_end": null,
+    "observation_ids": [
+      "ZO-078"
+    ],
+    "witnesses": [
+      "Sami Saad"
+    ],
+    "source_ids": [
+      "ZVOL20-APPENDIX"
+    ],
+    "statuses": [
+      "reported apparition"
+    ],
+    "flags": [
+      "Original printed heading explicitly 1968; duplicate 1969 web-table row is unsupported."
+    ]
+  },
+  {
+    "event_id": "ZE-19680627-U",
+    "date": "1968-06-27",
+    "date_end": null,
+    "observation_ids": [
+      "ZO-079"
+    ],
+    "witnesses": [
+      "Sami Saad"
+    ],
+    "source_ids": [
+      "ZVOL20-APPENDIX"
+    ],
+    "statuses": [
+      "reported accompanying cloud"
+    ],
+    "flags": [
+      "Original printed heading explicitly 1968; not a verified additional 1969 appearance."
+    ]
+  },
+  {
+    "event_id": "ZE-19680712-D",
+    "date": "1968-07-12",
+    "date_end": null,
+    "observation_ids": [
+      "ZO-080"
+    ],
+    "witnesses": [
+      "Shawqi Sami Elias, National Bank of Egypt Sohag branch manager"
+    ],
+    "source_ids": [
+      "ZVOL20-APPENDIX"
+    ],
+    "statuses": [
+      "reported apparition"
+    ],
+    "flags": [
+      "Observer describes full moon and mostly continuous visibility with brief dimming."
+    ]
+  },
+  {
+    "event_id": "ZE-19680812-D",
+    "date": "1968-08-12",
+    "date_end": null,
+    "observation_ids": [
+      "ZO-081"
+    ],
+    "witnesses": [
+      "Witness identified by initials D.F.A.D.; editor withholds name/address"
+    ],
+    "source_ids": [
+      "ZVOL20-APPENDIX"
+    ],
+    "statuses": [
+      "reported apparition"
+    ],
+    "flags": [
+      "Times are two reported appearances, not one continuous interval. Published heading morning; body explicitly after midnight."
+    ]
+  },
+  {
+    "event_id": "ZE-19680821-E",
+    "date": "1968-08-21",
+    "date_end": null,
+    "observation_ids": [
+      "ZO-082"
+    ],
+    "witnesses": [
+      "Aryan Aziz Sidhom, Luxor supply inspector, with relatives"
+    ],
+    "source_ids": [
+      "ZVOL20-APPENDIX"
+    ],
+    "statuses": [
+      "reported apparition"
+    ],
+    "flags": [
+      "18:40 is stated arrival time; exact onset not independently timed. Continues onto printed 576."
+    ]
+  },
+  {
+    "event_id": "ZE-19680911-D",
+    "date": "1968-09-11",
+    "date_end": null,
+    "observation_ids": [
+      "ZO-083"
+    ],
+    "witnesses": [
+      "Sami Saad"
+    ],
+    "source_ids": [
+      "ZVOL20-APPENDIX"
+    ],
+    "statuses": [
+      "reported apparition"
+    ],
+    "flags": [
+      "Describes electric lamps illuminating viewing structures; light conditions differ across nights. Separate from Vivian’s later interview."
+    ]
+  },
+  {
+    "event_id": "ZE-19681103-D",
+    "date": "1968-11-03",
+    "date_end": null,
+    "observation_ids": [
+      "ZO-084"
+    ],
+    "witnesses": [
+      "Sami Saad"
+    ],
+    "source_ids": [
+      "ZVOL20-APPENDIX"
+    ],
+    "statuses": [
+      "reported accompanying light"
+    ],
+    "flags": [
+      "No womanlike figure specified in this particular observation."
+    ]
+  },
+  {
+    "event_id": "ZE-19681221-E",
+    "date": "1968-12-21",
+    "date_end": null,
+    "observation_ids": [
+      "ZO-085"
+    ],
+    "witnesses": [
+      "Sami Saad and family"
+    ],
+    "source_ids": [
+      "ZVOL20-APPENDIX"
+    ],
+    "statuses": [
+      "reported apparition"
+    ],
+    "flags": []
+  },
+  {
+    "event_id": "ZE-19681222-D",
+    "date": "1968-12-22",
+    "date_end": null,
+    "observation_ids": [
+      "ZO-086"
+    ],
+    "witnesses": [
+      "Sami Saad and family"
+    ],
+    "source_ids": [
+      "ZVOL20-APPENDIX"
+    ],
+    "statuses": [
+      "reported apparition"
+    ],
+    "flags": [
+      "Original section heading remains December 21; after-midnight civil date inferred."
+    ]
+  },
+  {
+    "event_id": "ZE-19690223-D",
+    "date": "1969-02-23",
+    "date_end": null,
+    "observation_ids": [
+      "ZO-087"
+    ],
+    "witnesses": [
+      "Adib Salib Muharib"
+    ],
+    "source_ids": [
+      "ZVOL20-APPENDIX"
+    ],
+    "statuses": [
+      "reported apparition"
+    ],
+    "flags": [
+      "00:00 means approximately midnight, not an exact instrument reading. Paragraph continues onto printed 578."
+    ]
+  },
+  {
+    "event_id": "ZE-19690314-D",
+    "date": "1969-03-14",
+    "date_end": null,
+    "observation_ids": [
+      "ZO-088"
+    ],
+    "witnesses": [
+      "Alphonse Mikhail Abdel-Sayed"
+    ],
+    "source_ids": [
+      "ZVOL20-APPENDIX"
+    ],
+    "statuses": [
+      "reported apparition"
+    ],
+    "flags": []
+  },
+  {
+    "event_id": "ZE-19690327-D",
+    "date": "1969-03-27",
+    "date_end": null,
+    "observation_ids": [
+      "ZO-089"
+    ],
+    "witnesses": [
+      "Adib Salib Muharib"
+    ],
+    "source_ids": [
+      "ZVOL20-APPENDIX"
+    ],
+    "statuses": [
+      "reported apparition"
+    ],
+    "flags": [
+      "Printed date 27 March 1969; web table gives 27 February 1969. Preserve correction with original page citation."
+    ]
+  },
+  {
+    "event_id": "ZE-19690405-E",
+    "date": "1969-04-05",
+    "date_end": null,
+    "observation_ids": [
+      "ZO-090"
+    ],
+    "witnesses": [
+      "Emil Ezzat, central-Cairo education inspector"
+    ],
+    "source_ids": [
+      "ZVOL20-APPENDIX"
+    ],
+    "statuses": [
+      "reported apparition"
+    ],
+    "flags": [
+      "Figure reportedly lasted about five minutes in one phase."
+    ]
+  },
+  {
+    "event_id": "ZE-19690411-N",
+    "date": "1969-04-11",
+    "date_end": null,
+    "observation_ids": [
+      "ZO-091",
+      "ZO-092"
+    ],
+    "witnesses": [
+      "George Riyad Naguib, Alexandria",
+      "George Riyad Naguib, continuation"
+    ],
+    "source_ids": [
+      "ZVOL20-APPENDIX"
+    ],
+    "statuses": [
+      "reported apparition"
+    ],
+    "flags": [
+      "After-midnight civil April 11/12 unresolved; continuation on PDF 573 has now been checked and recorded separately.",
+      "Times describe later phases, not one uninterrupted 04:00–05:00 appearance. Midnight civil date remains unresolved."
+    ]
+  },
+  {
+    "event_id": "ZE-19690510-E",
+    "date": "1969-05-10",
+    "date_end": null,
+    "observation_ids": [
+      "ZO-093"
+    ],
+    "witnesses": [
+      "Dr Wadid Sadeq Abdel-Sayed"
+    ],
+    "source_ids": [
+      "ZVOL20-APPENDIX"
+    ],
+    "statuses": [
+      "reported apparition"
+    ],
+    "flags": [
+      "Individual times 20:10,21:50 andapproximately 23:00; endfield is last onset, notcontinuousduration."
+    ]
+  }
+]

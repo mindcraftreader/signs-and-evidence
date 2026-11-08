@@ -1,0 +1,17 @@
+{
+  "json_valid": true,
+  "period_count": 28,
+  "decade_counts": {
+    "1910": 0,
+    "1920": 2,
+    "1930": 4,
+    "1940": 7,
+    "1950": 11,
+    "1960": 2,
+    "1970": 2
+  },
+  "source_records": 19,
+  "all_registered_local_paths_exist": true,
+  "no_full_clinical_dossiers_obtained": true,
+  "no_tally_changed": true
+}

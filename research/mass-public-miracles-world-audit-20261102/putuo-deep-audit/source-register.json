@@ -1,0 +1,118 @@
+{
+  "retrieved": "2026-11-02",
+  "sources": [
+    {
+      "id": "P01",
+      "title": "CCTV, 舟山《佛指名山》",
+      "date": "2006-04-04",
+      "url": "https://www.cntv.cn/program/zbzg/topic/geography/C15494/20060404/101830.shtml",
+      "local_file": "research/mass-public-miracles-world-audit-20261102/putuo-deep-audit/sources/putuo-cctv-20060404.html",
+      "read_scope": "Full broadcaster text read; GB18030 HTML includes article plus later footer error code. Article itself recovered.",
+      "assessment": "Retrospective broadcaster documentary; credits director 南方 and camera 刘学成. Not independent 1997 reporting."
+    },
+    {
+      "id": "P02",
+      "title": "走进普陀山 1 佛指名山, official player",
+      "date": "2013-07-30 archive page",
+      "url": "https://xuexi.12371.cn/2013/07/30/VIDE1375153186123274.shtml",
+      "local_file": "research/mass-public-miracles-world-audit-20261102/putuo-deep-audit/sources/putuo-episode1-official-player.html",
+      "read_scope": "Page and official 26-minute player recovered; selected paused frames inspected, not continuous full viewing or audio transcription.",
+      "assessment": "CCTV-branded program hosted by official CPC educational archive. Hosting does not mean supernatural endorsement."
+    },
+    {
+      "id": "P03",
+      "title": "Official CCTV player metadata",
+      "date": "retrieved 2026-11-02",
+      "url": "https://vdn.apps.cntv.cn/api/getHttpVideoInfo.do?pid=7634bed33ee74f91a3368d3e2b9ad09f",
+      "local_file": "research/mass-public-miracles-world-audit-20261102/putuo-deep-audit/sources/putuo-cctv-official-player-metadata.json",
+      "read_scope": "Metadata recovered by parent and copied.",
+      "assessment": "GUID 7634bed33ee74f91a3368d3e2b9ad09f. No raw video was downloaded."
+    },
+    {
+      "id": "P04",
+      "title": "唐毅雄, 97年普陀山南海觀音像開光時顯靈",
+      "date": "undated",
+      "url": "https://www.buddha.twmail.cc/1-4/PutoMountain.htm",
+      "local_file": "research/mass-public-miracles-world-audit-20261102/putuo-deep-audit/sources/tang-original-request.html",
+      "read_scope": "Full older linked Big5 webpage recovered and read. HTTP request redirected to HTTPS successfully.",
+      "assessment": "Claimed firsthand pilgrim account. Original print publication and first composition date not established."
+    },
+    {
+      "id": "P05",
+      "title": "唐毅雄 account, Buddhist Experience repost",
+      "date": "2013-09-22",
+      "url": "https://www.buddhist-experience.org/welcome/article_detail/560.html",
+      "local_file": "research/mass-public-miracles-world-audit-20261102/putuo-deep-audit/sources/putuo-tang-eyewitness-reprint-20130922.html",
+      "read_scope": "Full account read; link to P04 followed.",
+      "assessment": "Same witness/text as P04, not additional independent testimony. Page last-modified clock is not original publication date."
+    },
+    {
+      "id": "P06",
+      "title": "戒忍 interview excerpt, Buddhist Navigation repost",
+      "date": "2010-09-25; claims Phoenix original 2007-11-21",
+      "url": "https://www.fjdh.cn/article/2010/09/194114127676.html",
+      "local_file": "research/mass-public-miracles-world-audit-20261102/putuo-deep-audit/sources/putuo-jieren-interview-reprint-20100925.html",
+      "read_scope": "Full 1994 and 1997 interview text read; linked 56.com video not independently viewed.",
+      "assessment": "Repost cites 地藏缘 forum 2007-12-23. Narrator duration and witness words must be separated.",
+      "original_source_update": "Original five-page 21 November 2007 broadcaster transcript now saved in evidence-expansion-20261102/sources/phoenix-original-page-*.html; same witness, not an additional independent account."
+    },
+    {
+      "id": "P07",
+      "title": "普陀山佛教协会四十年历程回顾",
+      "date": "2021",
+      "url": "https://zt.pusa123.com/zt/30093.html",
+      "local_file": "research/mass-public-miracles-world-audit-20261102/putuo-deep-audit/sources/putuo-association-history.html",
+      "read_scope": "Relevant historical section, ceremony captions and press-clipping image inspected; rest skimmed.",
+      "assessment": "Institutional retrospective. Attendance over 5,000, not 5,000 collected depositions."
+    },
+    {
+      "id": "P08",
+      "title": "Photograph of press clippings displayed by Buddhist Association",
+      "date": "2021 photo upload; clippings not all dated",
+      "url": "https://img.pusa123.com/cms/ContentMap/2021-07-01/9b6fc74d-c610-4721-ae06-0e1dbb069717.jpg",
+      "local_file": "research/mass-public-miracles-world-audit-20261102/putuo-deep-audit/sources/association-press-clippings.jpg",
+      "read_scope": "Entire image visually inspected. Headline about statue production/installation and commemorative publications visible; fine text partly illegible.",
+      "assessment": "Cannot treat as recovered independent 1997 apparition article. Image itself mentions American 覺有情 magazine and a Hong Kong paper; the small paper title/date need better resolution."
+    },
+    {
+      "id": "P09",
+      "title": "沈仁岩, 普陀山南海观音开光亲睹记, repost",
+      "date": "2011-03-28",
+      "url": "https://blog.sina.com.cn/s/blog_71bb3d5e0100qgts.html",
+      "local_file": "research/mass-public-miracles-world-audit-20261102/putuo-deep-audit/sources/shen-renyan-eyewitness-reprint-20110328.html",
+      "read_scope": "Full named account and attached earlier essay read.",
+      "assessment": "Attributed Putuo Buddhist Institute author. Claims firsthand 1997 observation, but original publication date unknown. Attached 1996 essay concerns earlier events and is not 1997 prior testimony."
+    },
+    {
+      "id": "P10",
+      "title": "舟山市志（1989—2005）下卷2, printed p.2334",
+      "date": "post-2005 compilation; edition date not independently established",
+      "url": "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web2476/site/attach/0/1-2jzzh-2/%E8%88%9F%E5%B1%B1%E5%B8%82%E5%BF%97%281989%E2%80%942005%EF%BC%89%E4%B8%8B%E5%8D%B72.pdf",
+      "local_file": null,
+      "read_scope": "Search-engine indexed passage read; full PDF/page not retrieved in this audit.",
+      "assessment": "Passage describes 5,000-plus attendees, light/clouds like white-robed Guanyin and about ten seconds. It expressly leaves causal explanation open."
+    },
+    {
+      "id": "P11",
+      "title": "普陀山气象佳景, 林之光, 气象知识 2014 no.6, printed pp.72–73 (relevant passage p.73)",
+      "date": "2014",
+      "url": "https://www.cdstm.cn/knowledge/kpwk/twdl/201504/P020160612554075675047.pdf",
+      "local_file": null,
+      "read_scope": "Indexed first page (printed 72) and relevant passage of printed 73 read. Original PDF still times out or redirects to a missing page; no full PDF or visual page inspection. Bibliographic issue date 2014 no.6 controls over search-engine upload dates. Description and expert background do not alone establish that every eyewitness claim has an ordinary cause.",
+      "assessment": "Indexed printed page 73 describes the 30 October 1997 ceremony: overcast skies and intermittent rain, then sunlight through a cloud opening lighting the statue as the ceremony began, lasting about twenty minutes. It gives roughly 4,000 attendees and says one person recorded the scene. This is a published ordinary-lighting description. The recovered passage supplies no independent camera authentication, optical measurements or test of the stronger detached-figure reports.",
+      "bibliographic_update": "Indexed title 普陀山气象佳景, author 林之光, photos 张恩承; issue 2014/6, starts p.72. Full PDF still unrecovered.",
+      "author_background": "Lin Zhiguang (林之光), formerly a researcher and climate research division director at the Chinese Academy of Meteorological Sciences; 1959 Nanjing University meteorology graduate. Background verified in a 2014 China Science Daily interview and his 2017 first-person column (E06). Images credited to Zhang Encheng (张恩承)."
+    }
+  ],
+  "limitations": [
+    "No recovered same-week 1997 independently authored apparition newspaper article.",
+    "No named prior skeptical eyewitness positively attesting an identifiable Guanyin found.",
+    "No original calibrated optical or meteorological investigation found.",
+    "Selected video frames only; no complete scene-duration measurement."
+  ],
+  "expansion_20261102": {
+    "dossier": "research/mass-public-miracles-world-audit-20261102/putuo-deep-audit/evidence-expansion-20261102/index.html",
+    "register": "research/mass-public-miracles-world-audit-20261102/putuo-deep-audit/evidence-expansion-20261102/evidence-register.json",
+    "notes": "Original Phoenix transcript recovered; additional named testimony through later sources; 2003 newspaper citation lead; eleven new paused documentary screenshots; five institutional ceremony photographs. No tally changed. Source family links prevent double counting."
+  }
+}

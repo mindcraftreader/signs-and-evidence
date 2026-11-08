@@ -1,0 +1,46 @@
+D115 head directions, 8 November 2026
+
+Question
+Do the spectators who appear to be watching face the lower light source inferred
+from the shadows? Agreement in gaze would support identifying that source with
+the light they watched in this exposure.
+
+Method
+I manually marked visible features on six faces selected as possible watchers,
+plus two faces turned elsewhere, using the 1669 by 1181 Commons D115 JPEG.
+I fit the landmarks to the MediaPipe canonical face with OpenCV PnP and used
+Dalleur's 37 mm equivalent focal length, estimated top crop, and 4.79 degree
+downward pitch for the nominal camera. I expressed the fitted 3D head axes in
+a level camera frame, with azimuth positive to the right of straight behind
+the camera and elevation measured in the vertical plane of each axis.
+Dalleur's 90 degree turn is a side view of his 3D reconstruction.
+The 400 perturbations per face test sensitivity to landmark picks, face shape,
+focal length and principal point. Their percentiles are descriptive, not
+confidence intervals. Synthetic projections recovered four known directions.
+
+Result
+Five of the six selected faces fit to an upward and rightward head axis.
+Their nominal axes vary by about 21–75 degrees right and 8–19 degrees up.
+The vector average of all six gives about 42 degrees right and 10 degrees up.
+Dalleur's nominal lower source is about 35 degrees right and 28 degrees up.
+This supports broad directional consistency. The profile fits can move by
+tens of degrees when the inputs change, and the pupils are too indistinct
+to estimate eye direction from this JPEG. The head-axis average therefore
+cannot verify a gaze match at 28 degrees or discriminate between 28 degrees
+and the roughly 43 degree solar elevation. The head fit shares Dalleur's
+camera assumptions but uses different image features from the shadow fit.
+D115 supplies one exposure. The witness sequence bears on whether it caught
+the reported plunge.
+
+Files
+landmarks.png shows exactly which features were used.
+head-directions.png plots the nominal head axes and sensitivity ranges.
+head-directions.csv and landmarks.json supply the numerical results and inputs.
+check_pose.py reproduces the fit with NumPy, OpenCV, Pillow and Matplotlib.
+canonical-face-model.obj is Google's Apache-licensed MediaPipe face template.
+
+Sources
+https://commons.wikimedia.org/wiki/File:People_looking_miracle_sun.jpg
+https://sites.google.com/pusc.it/elevation-azimuth/fatimas-miracle-photo
+https://www.youtube.com/watch?v=0e8VSSHAB6c&t=444s
+https://github.com/google-ai-edge/mediapipe/blob/master/mediapipe/modules/face_geometry/data/canonical_face_model.obj

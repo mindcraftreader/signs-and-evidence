@@ -1,0 +1,155 @@
+{
+  "date": "2026-11-01",
+  "full_substantive_papers": 11,
+  "warning": "Read scope is source-specific. These categories do not mean equivalent audit depth across all religions. A downloaded PDF is not automatically read.",
+  "sources": [
+    {
+      "file": "sources/romez-blindness-2021.pdf",
+      "review": "substantive_full_text",
+      "scope": "Full five-page paper; missing initially truncated passages were reread. Original supplementary scans inspected separately."
+    },
+    {
+      "file": "sources/stepp-2010.pdf",
+      "review": "substantive_full_text",
+      "scope": "Full accepted manuscript, fourteen pages, including discussion and references. Published six-page version also preserved; plots not independently reanalyzed."
+    },
+    {
+      "file": "sources/tidwell-tukdam-fulltext.xml",
+      "review": "substantive_full_text",
+      "scope": "Complete substantive article body through case studies, methods, interpretation and conclusion; bibliography not separately followed in full."
+    },
+    {
+      "file": "sources/tukdam-eeg-2021.xml",
+      "review": "substantive_full_text",
+      "scope": "Complete substantive methods/results/discussion; data-availability, ethics and author statements read. Raw datasets not requested or examined."
+    },
+    {
+      "file": "sources/haraldsson-wiseman-1995-archived.pdf",
+      "review": "substantive_full_text",
+      "scope": "All eleven pages read via page-by-page OCR. Original seventeen-second video not independently viewed/analyzed."
+    },
+    {
+      "file": "sources/stevenson-srilanka-1988-archived.pdf",
+      "review": "substantive_full_text",
+      "scope": "Full twenty-two-page paper, all three cases, methods and discussion. Printed p236 table visually checked. Original field notes not recovered."
+    },
+    {
+      "file": "sources/haraldsson-samararatne-1999.pdf",
+      "review": "substantive_full_text",
+      "scope": "All substantive sections of twenty-four-page paper, all three cases and discussion; bibliography not followed comprehensively."
+    },
+    {
+      "file": "sources/stevenson-birthmarks-1993.pdf",
+      "review": "substantive_full_text",
+      "scope": "Complete substantive paper read using web full-text extraction. Raw medical files and original field records not inspected."
+    },
+    {
+      "file": "sources/mulacz-dcbd-1998-archived.pdf",
+      "review": "substantive_full_text",
+      "scope": "Entire thirteen-page archived author manuscript read, including references and footnotes. Underlying 1940s Swiss papers not independently read."
+    },
+    {
+      "file": "sources/spiritist-surgery-2000.pdf",
+      "review": "substantive_full_text",
+      "scope": "Entire original Portuguese seven-page paper read; ten-case table visually inspected. Raw videos and full patient files not recovered."
+    },
+    {
+      "file": "sources/romez-blindness-supplement-word.docx",
+      "review": "partial_visual",
+      "scope": "Eleven-page render and contact sheet. Full-resolution pages 3,5,6,7 examined (S1,S3,S4,S5: 1960,1971,1972/1974,2001); remaining pages only contact-sheet resolution. Includes original document scans."
+    },
+    {
+      "file": "sources/jani-2003-doctors-report-archived.pdf",
+      "review": "full_text_report",
+      "scope": "Full report read through web extraction, with original archive recovered. Page 5 visually inspected; no full raw chart/video audit."
+    },
+    {
+      "file": "sources/jani-2010-doctors-report-archived.pdf",
+      "review": "full_text_report",
+      "scope": "Full three-page update read via web; archive recovered."
+    },
+    {
+      "file": "sources/jani-2010-dipas-original-archived.pdf",
+      "review": "full_text_report",
+      "scope": "Full two-page institute statement read from recovered PDF; page 1 visually inspected."
+    },
+    {
+      "file": "sources/hall-traditional-medicine-chapter.pdf",
+      "review": "selected_sections",
+      "scope": "829-page proceedings: Hall Sufi section printed pp219-221 and references pp222-224 inspected; not the whole book."
+    },
+    {
+      "file": "sources/nandi-1993-thesis.pdf",
+      "review": "selected_sections",
+      "scope": "277-page thesis: relevant printed pp174-178 and footnotes186-187, plus search hits; not whole thesis. Interviews and dates checked in those passages."
+    },
+    {
+      "file": "sources/branham-lacy-report.pdf",
+      "review": "selected_sections",
+      "scope": "Relevant George Lacy quotation and Gordon Lindsay discussion; not complete promotional compilation and not original signed Lacy report."
+    },
+    {
+      "file": "sources/matlock-leininger-2022.pdf",
+      "review": "not_substantively_read",
+      "scope": "Collected twenty-one-page response; not audited and not used as a completed causal finding."
+    },
+    {
+      "file": "sources/song-qigong-1999.partial.pdf",
+      "review": "unusable_partial_download",
+      "scope": "Abstract read online. PDF incomplete and invalid; not read in full."
+    },
+    {
+      "file": "sources/song-qigong-1999-second-attempt.partial.pdf",
+      "review": "unusable_partial_download",
+      "scope": "Second incomplete download, invalid PDF; name corrected so it is not represented as complete."
+    },
+    {
+      "file": "sources/sufi-pubmed-2001.html",
+      "review": "abstract_only",
+      "scope": "Indexed abstract and metadata read; original 2001 clinical full text still unavailable."
+    },
+    {
+      "file": "sources/hall-2011-sufism-and-healing.pdf",
+      "review": "substantive_full_text",
+      "scope": "Complete16-page publisher chapter retrieved through Akron/OhioLINK. Substantive text read throughout; clinical methods/results pp270–272 visually checked. Later firsthand account, not the still-unrecovered2001 clinical paper."
+    },
+    {
+      "file": "sources/beyerstein-magicians-baba-materializations.html",
+      "review": "substantive_authored_analysis",
+      "scope": "Substantive argument and conclusion read. Critical compilation reproduces magicians' authored analysis; original film not independently frame-audited. Not counted as a newly read peer-reviewed paper."
+    },
+    {
+      "file": "sources/bbc-secret-swami-20040617.txt",
+      "review": "selected_sections",
+      "scope": "Original BBC-server transcript recovered; relevant accusation, disclosure, government and organization response sections read. User YouTube upload not viewed."
+    }
+  ],
+  "additional_online_reads": [
+    {
+      "url": "https://www.globalmri.org/case-report-faqs/",
+      "scope": "Full investigators FAQ read."
+    },
+    {
+      "url": "https://open-data.spr.ac.uk/articles/sai-baba/",
+      "scope": "Full article body and references read. AI-generated highlights not relied upon."
+    },
+    {
+      "url": "https://www.tenrikyo.fr/en/lecture/?p=1112",
+      "scope": "Full primary sermon page read."
+    },
+    {
+      "url": "https://doi.org/10.3390/rel9100311",
+      "scope": "Introduction, relevant theory and full methods/findings plus relevant discussion on Rachel read from earlier locally preserved full text; not every bibliography item followed."
+    }
+  ],
+  "unread_or_incomplete_leads": [
+    "Sudduth 2021 full 94-page James Leininger critique",
+    "Tucker 2022 original response",
+    "Original Hall 2001 full clinical paper and accompanying commentary",
+    "Original 1977 Haraldsson/Osis paper",
+    "Complete Song 1999 sealed-container experimental paper",
+    "Full raw tukdam daily photo/video record",
+    "Original neonatal/medical files underlying Stevenson series"
+  ],
+  "last_updated": "2026-11-02"
+}

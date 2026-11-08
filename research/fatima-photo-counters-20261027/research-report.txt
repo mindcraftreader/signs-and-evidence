@@ -1,0 +1,245 @@
+COUNTERARGUMENTS TO DALLEUR'S FATIMA PHOTOGRAPHIC EVIDENCE
+Research pass completed 27 October 2026
+
+Finding
+
+I found substantive criticisms, especially of shadow identification, mixed
+illumination, and transfer of validation accuracy to D115. I did not find a
+completed, independently reproduced, peer-reviewed counteranalysis showing
+that ordinary sunlight at approximately 42 degrees fits all of Dalleur's
+selected D115 shadow constraints. This is a scoped search result, not a claim
+that no such work exists anywhere. Most direct discussion found is in blogs,
+videos and an evolving Google document. Counting those discussions as several
+independent experimental refutations would misrepresent the evidence.
+
+The strongest numerical counterexample located is Mark Grant's mixed-light
+render. The best methodological counterargument is that successful worked
+examples do not establish the error distribution for faint shadows in D115.
+Several categorical claims that no useful geometry is possible are too broad.
+
+1. Mark Grant: feature ambiguity and mixed illumination
+
+Background: describes himself as a mathematics graduate student and former
+software developer. Institutional affiliation not verified. The document
+explicitly flags parts as outdated and some mathematical appendices unfinished.
+
+Primary critique:
+https://docs.google.com/document/d/1t-wlHbqyUUL1-wN2Lf-zOs6_v77NmG9gmBK0BDWXe4c/edit
+Previously archived PDF and text:
+../fatima-photo-analysis-20261027/grant-critique.pdf
+../fatima-photo-analysis-20261027/grant-critique.txt
+
+Later render and description, published in Matthew Adelstein's review footnote:
+https://benthams.substack.com/p/a-clash-of-titans-the-ethan-muse
+Original render image saved here as grant-toy-render.png.
+
+Claim: selected faint edges may not correspond to the cast-shadow points
+needed by the geometric method. In his published toy render description,
+both scenes have a sun at 42 degrees elevation and 70 degrees relative
+azimuth, camera field of view 62 degrees and downward pitch about 5 degrees.
+The clear scene yields a roughly correct inference. Adding a bright,
+partly transmissive overhead square changes the apparent hat-shadow boundary;
+using that intuitive boundary reportedly produces a 15-20 degree error.
+
+What was checked: read original description, inspected both published renders,
+and read Dalleur's detailed reply quoted in Muse's current response. I did
+not obtain the scene file or independently remeasure the reported 15-20 error.
+The rendered cloud contribution visibly changes the shadow information.
+
+Dalleur's answer: the cloudy render loses the crisp directional contours that
+he identifies under the hat, on the finger/hat and stick/knee, and under rocks
+in D115. He requests inclusion of those features in the countermodel. A model
+that reproduces a soft hat boundary while losing other relevant directional
+shadows does not reproduce the full evidence he uses.
+
+Assessment: this is a meaningful failure-mode demonstration and the most
+concrete numerical counter found. It is not yet a demonstrated ordinary-sun
+reconstruction of D115. Multiple cues must be fitted together. Nor does one
+failed countermodel itself validate all of Dalleur's selections.
+
+Historical correction: Grant acknowledged misreading a hat feature. Early
+objections based on that mistake should not be presented as current knockouts.
+His lapel-based alternative is not a quantitatively established solar fit to
+Dalleur's correctly matched feature pairs.
+
+2. James Fodor: unpropagated line errors and radial distortion
+
+Background verified from University of Melbourne's institutional biography:
+former PhD student in Decision, Risk and Financial Sciences; graduate studies
+in physics/economics at Melbourne and a neuroscience master's at Australian
+National University. The page now identifies him as a Centre for Brain, Mind
+and Markets alumnus. This establishes relevant scientific training, not a
+specialty in historical photographic metrology.
+https://www.unimelb.edu.au/cbmm/about-us/team/james-fodor
+The page was indexed but direct retrieval returned 404 during this pass.
+
+Primary presentation, 15 June 2026:
+https://www.youtube.com/watch?v=YPDEfgnGPCM
+A Skeptical Analysis of the 1917 Marian Apparitions and Miracle of the Sun.
+Retrieved automatic English captions and metadata; reviewed 1:13:00-1:30:50,
+especially 1:20-1:28. I did not review the entire presentation.
+
+Main objections:
+- Only D115 receives the principal quantitative angle reconstruction; the
+  six historical pictures are not six independent solar-angle measurements.
+- The intersection of hand-selected shadow lines needs its own uncertainty
+  calculation, separate from focal-length and camera-tilt sensitivity.
+- Lens distortion can move those lines and their inferred intersection.
+- Dalleur himself discusses 5-20 degree errors in automated light estimation
+  on other images; Fodor treats that as reason to reject the smaller anomaly.
+
+Assessment: the line-selection uncertainty objection is legitimate and
+directly relevant. Camera-pitch derivatives do not quantify errors in where
+the vanishing point was placed. Fodor does not propagate those errors himself,
+publish corrected endpoints, or establish a 42-degree fit in this section.
+
+The automated-method comparison is not a measured error bar for Dalleur's
+manual procedure. Different estimators need not have equal errors; one cannot
+simply attach the cited 5-20 degree range to his result. Fodor's categorical
+claim that the result is just noise goes beyond the calculation presented.
+
+Lens distortion is a real concern. Dalleur's current website specifically
+addresses likely camera/lens types and cites historical optical measurements.
+That narrows the objection but does not supply a calibration of the exact
+1917 camera. The page's current form cannot be assumed to have existed when
+Fodor recorded his critique; the chronology of revisions was not established.
+
+3. Cade Bradley: calibration, vintage optics, lost depth
+
+UPDATE 1 NOVEMBER 2026: Retrieved and read the complete automatic transcript of Ethan Muse and Cameron Bertuzzi's90-minute24-second response, published21August2026, https://www.youtube.com/watch?v=GZZ3H-ExWMc . It materially challenges Bradley's CGI-only assertion, his reliance on physical/pixel shadow lengths and common-plane objections, and his suggestion that camera uncertainty was unaddressed. These are not retained as unanswered objections. Muse's specific historical-lens/distortion bounds remain distinguished from independently verified calculations. Full time index and assessment: ../fatima-muse-bradley-response-20261101/research-report.txt.
+
+Background: publicly describes himself as a professional cinematographer.
+No academic photogrammetry appointment verified. Relevant practical camera
+experience should be distinguished from a demonstrated error calculation.
+
+Primary video, 11 August 2026, 24:24:
+https://www.youtube.com/watch?v=dc8PZK65cz8
+YouTube title: I Spent 100+ Hours Investigating a "Miracle Photo of the Sun".
+Podcast version:
+https://intrinsicallyordered.buzzsprout.com/2426330/episodes/19633443-hollywood-cinematographer-debunks-miracle-of-the-sun-photo-our-lady-of-fatima-re-ethan-muse
+
+Reviewed the entire available automatic-caption transcript and description;
+did not independently repeat his studio demonstrations or watch the full video.
+At 8:56-16:17 he emphasizes unknown lens distortion, calibration and vintage
+lens variability. At 16:17-22:13 he discusses perspective, distance, apparent
+shadow size and sloped receiving surfaces. At 18:10 he argues validation is
+only through a computer-generated scene. These claims were compared with
+Dalleur's actual mathematical model and current worked examples.
+
+Assessment:
+- Unknown residual lens distortion merits a quantified sensitivity analysis.
+- Demonstrating that an image changes with camera position/focal length does
+  not refute a method explicitly modeling perspective and focal length.
+- Pixel shadow length alone is not Dalleur's principal measurement. It is
+  object-to-shadow correspondence, ray convergence, then camera geometry.
+- Needing complete depth for every object or level ground for every shadow
+  is not a general requirement for this ray-convergence calculation.
+- Validation only in CGI is inaccurate as a description of the examples
+  currently published: Dalleur also supplies real photographic examples.
+
+Bradley advertises two follow-ups on development/processing and lighting.
+Searches and an inventory of the channel's 30 listed videos found only this
+Fatima installment. I did not locate published parts 2 or 3; promised future
+experiments must not be counted as completed demonstrations.
+
+His allegation about the paper's reviewers being exclusively humanities
+reviewers was not substantiated. The journal is listed by DOAJ as using
+double-anonymous peer review. Its science/religion scope is not proof that
+this paper received specialist optical review, but neither does it establish
+that peer review never happened. Rhetorical claims about dishonesty are not
+evidence for a geometric error and were excluded from the assessment.
+
+4. Georgia Ray: data accessibility and ambiguous assumptions
+
+Background: microbiology undergraduate at The Evergreen State College,
+master's in biodefense at George Mason University; independent biosecurity
+researcher, according to her own biography.
+https://eukaryotewritesblog.com/about/
+
+Primary critique, 30 September 2025:
+https://eukaryotewritesblog.com/2025/09/30/miracle-of-the-sun/
+
+Her most useful points are the limits of public low-resolution copies,
+ambiguity of candidate shadows/reflections, and the uncertain horizon and
+camera settings. She does not claim to have replicated the full calculation.
+The mismatch between accessible images and the original 6K scan is a real
+reproducibility issue; a difficult-to-access scan is not proof of a false result.
+
+Her suggested ambiguities in the rock's double shadow and umbrella-handle
+highlights deserve examination, but are alternative readings rather than
+demonstrated replacements. A level-ground objection would not by itself
+invalidate the point-correspondence method. Her observation that some generic
+uncertainty might bridge the gap is not a quantitative bridge of that gap.
+
+5. Matched validation: the strongest general methodological objection
+
+Mouthy Infidel's primary essay, 9 September 2026:
+https://confrontingcapital.substack.com/p/fatima-apologists-need-to-show-their
+Explicitly disclaims the technical expertise to adjudicate first-order optics.
+Its useful proposal is to validate on photographs comparable to D115 in scene,
+clothing, camera, terrain, shadow faintness and mixed lighting. This proposes
+a better empirical test; it does not supply its result.
+
+Dalleur's current examples:
+https://sites.google.com/pusc.it/elevation-azimuth/examples
+
+Important clarification to our earlier discussion of the control group:
+- The Castel Gandolfo picture has the sun visible through cloud and visible
+  rays. Dalleur explicitly says there are no shadows. Its accurate angle
+  recovery checks other parts of the pipeline but not extraction of an
+  off-frame light direction from faint clothing shadows.
+- The Saint Hubert example uses a statue/pedestal, lamp posts and a camera
+  with an approximately known focal length; it adds a useful real-scene test.
+- The synthetic example gives controlled ground truth and verifies the
+  computational geometry. It does not include all unknown historical-image
+  processing and feature-identification errors.
+
+The successful examples are genuine positive evidence for the method. They
+are a few author-conducted demonstrations, not a reported matched blind
+validation sample with a D115-specific error distribution. It was too broad
+to imply that subdegree errors there establish the same error bound here.
+
+6. Independent technical check of the broad objections
+
+Hany Farid, Dartmouth computer science affiliation on his Digital Image
+Forensics teaching material, section 5.7, PDF page 94:
+https://pages.cs.wisc.edu/~dyer/cs534/papers/farid-digitalimageforensics.pdf
+The material explicitly explains that correctly matched object and shadow
+points locate the projected light source regardless of the receiving
+surface. It also specifically warns about matching errors and unstable
+intersections when projected lines are nearly parallel. This supports both
+the validity of the basic geometry and the narrow empirical uncertainty issue.
+I inspected the entire relevant page, not the full 199-page course text.
+
+Antonio Criminisi, Ian Reid and Andrew Zisserman, Oxford Engineering Science:
+Single View Metrology, IJCV 40(2),123-148 (2000), plus 1999 conference version.
+https://ora.ox.ac.uk/objects/uuid%3A9b99df78-df75-49a9-a1b8-1b38e1b173a8
+https://www.robots.ox.ac.uk/~vgg/publications/1999/Criminisi99/criminisi99.pdf
+This establishes that useful measurements from a single perspective image
+without complete pre-known camera calibration are established computer vision,
+provided the necessary scene constraints are present. It does not establish
+that D115 provides those constraints accurately enough for the claimed result.
+
+Arthur A. Magill, US National Bureau of Standards, 1955:
+Variation in Distortion with Magnification, Journal of Research NBS 54(3).
+https://nvlpubs.nist.gov/nistpubs/jres/54/jresv54n3p135_A1b.pdf
+Provides measured behavior for historical symmetrical lens designs, including
+Dagor types. It is relevant primary evidence against treating every old lens
+as an arbitrarily warped fisheye. It is not the recovered 1917 lens calibration.
+
+7. What this changes
+
+The countercase is strongest as an objection to a proved error bound and to
+correctly identifying the particular light-source shadows. It is weakest when
+it substitutes generic camera demonstrations, speculation or ridicule for a
+fit to the actual image. The control examples answer whether the procedure
+can work; matched tests are needed to establish how reliably it works under
+the difficult conditions invoked in this dispute.
+
+No new conclusion about the preceding rain is drawn here. Rain and widespread
+wet conditions are well supported background. Questions about the specific
+wet/dry photo's causal interpretation do not erase those facts or the reports
+of rapid drying. This pass primarily concerns the directional-light claim.
+
+2 NOVEMBER 2026 REAUDIT
+See ../fatima-dalleur-reaudit-20261102/report.txt and claim-matrix.json. Muse supplies specific historical-lens, image-straightness, differential-displacement and multi-cue replies. A generic unknown-distortion concern must not be described as unanswered by him. Lack of an independently remeasured joint bound remains a verification limit, not a demonstrated error. The mixed-light rendering has not become an ordinary-solar fit to the full retained D115 cues. Core geometry and intended pitch/roll factors reproduce; minor printed/citation corrections do not reverse them. Tally unchanged.

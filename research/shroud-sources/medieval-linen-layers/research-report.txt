@@ -1,0 +1,201 @@
+MEDIEVAL ARTISTIC LINEN: PAINT LAYERS AND PENETRATION DEPTH
+27 October 2026
+Scope:1200–1400 Europe; later comparisons explicitly labeled; not exhaustive.
+
+The search did not recover a representative measured-thickness dataset for free artistic linen from 1200–1400. No defensible same-era mean, standard deviation, rarity probability or universal minimum depth can be computed from the material located.
+
+“Thin” and “surface” describe different things. A paint film above a cloth, paint or binder within weave interstices, colored fibers through a thread, and chemical change within an individual fiber wall need separate measurements. Pigment particle size and overall framed-object thickness are additional, different quantities.
+
+The full 1993 Withyham study now provides a directly verified period example of a thin calcium-sulphate ground and a simple egg-tempera layer structure. It does not provide a numerical depth. The 2017 review describes thick calcium-carbonate ground while citing Villers 2000; since that later chapter remains unavailable, the discrepancy is open and should not be collapsed into one technical finding.
+
+The Monreale panel provides explicit contemporary micron figures, but its linen serves as an interlayer in a rigid, heavily grounded panel. Its20 µm paint maximum does not establish the depth of a thin wash on free linen, nor the colored wall of an individual flax fiber.
+
+The Justus example demonstrates that thin groundless washes can still penetrate the cloth and leave a verso image. It does not show that all medieval washes must penetrate, or that such a wash matches the Shroud. Its support was thought to be linen but not analyzed in that study.
+
+The often-repeated200 nm figure for the Shroud should retain the local0.2 ± 0.2 µm estimate in its primary Fig12 caption. Do not interpret its± notation as an established population standard deviation. The same paper separately discusses thread/fabric superficiality. Its underlying structural interpretation also requires assessment.
+
+The available technique descriptions show a range from mineral grounds filling the weave to glue-sized/no-ground washes. “All medieval linen paintings had thick paint” is not supported. The opposite claim that a documented medieval wash reproduced the Shroud’s exact fiber-scale coloration is also not supported.
+
+No claim of exhaustive coverage is made. Dye-depth studies on garments, non-European cotton prints and ancient Egyptian painted shrouds would expand the question substantially; they cannot silently supply an answer for French 1200–1400 artistic linen.
+
+CASES
+
+object: Virgin Hodegetria, Monreale
+date: probably first half13th century
+material: Wood PANEL with two linen interlayers
+technique: Gypsum/glue grounds, pigment layers and later repainting
+depth_result: MOM-A: original paint layer maximum20 µm; separate colored layer55 µm; ground maxima 1250 and 1900 µm. Not fiber penetration.
+measurement_basis: Eight microsamples overall; two polished cross-sections; PLM/ESEM-EDX; Table2. Maximum values, no population SD.
+comparability: Contemporary but different support system; exclude from free-cloth depth distribution.
+source_ids: LAYERS-MONREALE-2023
+
+object: Four Florentine Passion scenes; Withyham / Leeds Castle
+date: last quarter of the 14th century, stylistically dated in the 1993 study
+material: Identified linen; 17 × 15 yarns/cm²; each approximately 1 m², two stitched pieces
+technique: Primary 1993 report: thin calcium-sulphate/animal-glue ground; egg tempera, generally one and sometimes two paint layers; flesh has three described strata
+depth_result: No µm film thickness or individual-fiber penetration measurement reported.
+measurement_basis: All six primary pages read; XRD, FTIR/DSC, optical microscopy and sometimes SEM/EDX. Only Flagellation and Mocking were closely examined at publication. Later mounting glue stained the ground and obscures original sizing.
+comparability: The 2017 review attributes thick CaCO3 ground to Villers 2000. That chapter is not obtained, so the discrepancy remains unresolved.
+source_ids: LAYERS-VILLERS-1993; LAYERS-VILLERS-FLORENCE-2000; LAYERS-REVIEW-2017
+
+object: Spinello Aretino, Magdalen / Flagellation, Met13.175
+date: ca 1395–1400
+material: Canvas; flax identification not confirmed from short museum entry
+technique: Gypsum ground, multiple red paint layers/varnish; protein binders examined
+depth_result: No numerical thickness recovered. Sample mass is not depth.
+measurement_basis: Detached multilayer sample studied by ELISA and complementary methods; full paper not obtained.
+comparability: Within target horizon at later end; material identification qualification needed.
+source_ids: LAYERS-SPINELLO-2015
+
+object: Attributed Lorenzo Monaco, Intercession, Met53.37
+date: before 1402
+material: Museum entry: canvas; chapter calls linen
+technique: Tempera; large devotional image
+depth_result: No depth measurement in museum metadata reviewed.
+measurement_basis: Catalogue dimensions239.4×153×2.5cm include overall object depth;2.5cm is NOT paint thickness.
+comparability: Near-period linen technical study by Charlotte Hale identified but full chapter not read.
+source_ids: Met53.37; LAYERS-REVIEW-2017
+
+object: Justus van Ghent, Adoration, Met41.190.21
+date: ca 1470 in technical study; museum date may differ
+material: Appears linen, not fiber-tested in this examination
+technique: Probable glue size; no ground; thin distemper washes
+depth_result: Through-cloth paint staining recorded on verso; no µm penetration or film distribution.
+measurement_basis: 1957 treatment photo; noninvasive 2014 study; weave and microscopy; printed pp.5–7,10.
+comparability: Later comparison. Demonstrates thin paint and substantial penetration can coexist; later glue/wax complicate present samples.
+source_ids: LAYERS-JUSTUS-2016
+
+object: Dirk Bouts, Entombment, NG664
+date: probably 1450 s
+material: Microscopically identified flax linen
+technique: Animal-glue tempera on sized canvas; no conventional ground
+depth_result: No numerical depth recovered; pigment layers vary by passage.
+measurement_basis: Roy comparison plus National Gallery catalogue technical notes.
+comparability: Later comparison; do not turn absence of mineral ground into absence of sizing/binder.
+source_ids: LAYERS-MASSYS-1988; NG664
+
+object: Reims cloth group,25 large works
+date: 1460–early 1500 s
+material: Toile in proceedings; individual fiber verification not supplied there
+technique: Unprepared/sized flexible distemper, animal-glue/protein medium; matte surface
+depth_result: No numerical depth or across-work distribution in examined report.
+measurement_basis: Conservator report cites LRMH880A(1992); later adhesives/restoration important.
+comparability: Later French process comparison; cannot count25 as25 independent measured thicknesses.
+source_ids: LAYERS-CHOMIENNE-2018
+
+object: Metz Passion cloth
+date: around 1500
+material: Toile in proceedings; fiber verification not supplied there
+technique: Sized flexible cloth; protein medium; probably Lenten cloth fragment
+depth_result: No numerical depth in examined report.
+measurement_basis: Conservator report cites C2RMF33583(2016).
+comparability: Later French process comparison; original versus consolidant layers must be separated.
+source_ids: LAYERS-CHOMIENNE-2018
+
+object: Massys, Virgin and Saints, NG 3664
+date: probably 1515–1525 current museum date
+material: Microscopically identified flax linen
+technique: Glue tempera; no conventional ground; thin flesh and layered drapery
+depth_result: Cross-sections show discrete layers, but no calibrated µm dataset.
+measurement_basis: Optical microscopy,SEM,staining,XRD,EDX; plate9,p40. Magnification alone not a dimensional scale.
+comparability: Outside medieval target. Useful methodological control, excluded from era statistics.
+source_ids: LAYERS-MASSYS-1988; NG 3664
+
+object: Brandenburg Hungertuch
+date: ca 1290
+material: Embroidered linen
+technique: Thread-based image
+depth_result: Paint-film depth not applicable to embroidery; preliminary drawing/dyes would require separate analysis.
+measurement_basis: Existing holding-institution/catalogue records in library.
+comparability: Target-era artistic linen, but not a painted-image thickness comparator.
+source_ids: LINEN-BRANDENBURG-DOM; LINEN-ZITTAU-CATALOGUE-2022
+
+object: Lüne large cloth
+date: mid13th century
+material: Embroidered linen
+technique: Thread-based image
+depth_result: No paint-film metric; no dye-penetration value recovered.
+measurement_basis: Existing 2022 Zittau catalogue,p18,369×114cm.
+comparability: Target-era artistic linen, different image medium.
+source_ids: LINEN-ZITTAU-CATALOGUE-2022
+
+object: Parement de Narbonne, Louvre MI 1121
+date: conventionallyca 1375
+material: SILK, not linen
+technique: Monochrome Passion painting
+depth_result: No layer-depth study recovered in this pass.
+measurement_basis: Existing Louvre metadata identifies silk;285.5×76.5cm.
+comparability: Same broad era and image class, but exclude from linen-only dataset.
+source_ids: ART-NARBONNE-PAREMENT
+
+object: Shroud body-image comparison
+date: Dating debated
+material: Flax linen
+technique: Fanti 2010 interprets colored fiber surface as altered wall/possible impurity layer
+depth_result: Local fiber-wall estimate0.2 ± 0.2 µm(Fig12); thread-level2–3 fibers. Some colored fibers100 µm beneath tangent fabric plane.
+measurement_basis: Optical microscopy of tape fibers and exposed wall lacuna; printed p.040201-7.
+comparability: The figures address different scales. No representative all-cloth thickness distribution or modern standard-protocol match provided.
+source_ids: SUPERFICIALITY-2010
+
+NEXT SOURCES
+Villers, Stevenson and Sharp, The Technique of Four14th-Century Italian Paintings on Fabric Supports, ICOM-CC 1993,pp104–109: now recovered and all six pages read. Actual running headers confirm 1993; a later Southampton bibliography gives 1990 Dresden for the same title, inconsistent with the paper and publisher record.
+Villers 2000, Four Scenes of the Passion...pp1–10; Hale 2000, Technique and Materials of the Intercession...pp31–41, in The Fabric of Images. Obtain the full chapters and underlying sample records.
+C2RMF33583(2016)forMetz andLRMH880A(1992)forReims, then raw calibrated cross-sections and sample-location metadata. Reports are identified by the conservator but not recovered here.
+King 1989, A Parallel for the Linen of the Turin Shroud, CIETA67,25–26, and direct V&A records 8615-1863/7027-1860 for printed linen. Located through references but not used as verified depth data.
+An adequate comparison experiment should use dated, authenticated flax cloths with documented paint/size/age/restoration history; cross-sections at multiple colors and worn/unworn locations; calibrated film thickness and intra-fiber depth measured separately; detection limits and raw distributions retained.
+
+SOURCE ACCESS
+
+LAYERS-REVIEW-2017 Thompson, Smith and Lennard — Analytical techniques for painted textiles, Part 1
+https://doi.org/10.1080/19455224.2016.1269355
+Journal of the Institute of Conservation 40(1), 64–82. Broad analytical review; relevant printed pp.68–69 and 75 distinguish grounded medieval Italian cloths, ungrounded Northern glue-size cloths, and sampling difficulties. The statement that paint layers are often around 10 µm occurs in general sampling discussion and cites modern banner work. Its thick calcium-carbonate description cites Villers 2000; the separately retrieved firsthand 1993 Withyham paper describes thin calcium-sulphate ground.
+Limit: A secondary literature review, not a measured survey of all medieval linens. Do not treat its roughly 10 µm generalization as an empirical medieval-linen mean, penetration depth, or standard deviation. The 1993/2017 wording discrepancy is unresolved until the 2000 chapter is checked; do not merge the descriptions or categorically label the review erroneous.
+Full PDF saved; relevant sections read
+
+LAYERS-MASSYS-1988 Ashok Roy — The Technique of a Tüchlein by Quinten Massys
+https://www.nationalgallery.org.uk/technical-bulletin/roy 1988
+National Gallery Technical Bulletin 12, 36–43. Primary microscopy, SEM/fiber identification, pigment and binder/cross-section study of NG 3664, compared with Bouts NG664. Full text read via the official RTF; printed p.40 plates inspected. Distinguishes thin single-layer flesh from multilayer drapery and notes ambiguous glue from lining/repairs.
+Limit: NG 3664 is currently dated probably 1515–1525: outside the 1200–1400 target and the main extended period. Included only as a later method comparison. Cross-sections show magnifications, but no calibrated layer-thickness dataset; do not calculate µm from an image marked only ×350.
+Full PDF saved; relevant sections read
+
+LAYERS-JUSTUS-2016 Scully and Seidel — A Tüchlein by Justus van Ghent: The Adoration of the Magi Re-Examined
+https://doi.org/10.5092/jhna.2016.8.1.3
+Primary technical examination of Met 41.190.21; relevant paragraphs 10, 13–14 and 18, printed pp.5–7 and 10. Reports no ground/toning layer, probable glue sizing, thin washes, and a verso ghost from paint soaking through. Verso photograph and text on printed p.7 visually inspected.
+Limit: Object ca.1470 in this study, after Lirey. Support appears linen but fiber identification was not analyzed in this investigation. Noninvasive examination; no numerical film/individual-fiber penetration depth reported. Lining glue, wax, varnishes and abrasion affect current condition.
+Full PDF saved; relevant sections read
+
+LAYERS-CHOMIENNE-2018 Lydiane Chomienne — Cleaning distemper cloths from Reims and Metz
+https://ffcr.fr/wp-content/uploads/2025/04/jeri 2018 actes.pdf
+Firsthand conservator report in JERI 2018 proceedings, relevant printed pp.35–37 and longer duplicate section beginning p.63. Reims group dates 1460–early 1500 s; Metz cloth ca.1500. Flexible unprepared/sized cloth, water-sensitive protein/animal-glue medium, matt surface and exposed textile; cites LRMH 880A (1992) and C2RMF 33583 (2016).
+Limit: Later than the target period. This proceedings passage says toile rather than presenting fresh fiber identification; retain this qualification unless the object-specific report is consulted. No numerical layer thickness/penetration distribution in the examined sections. Underlying lab reports not obtained.
+Full PDF saved; relevant sections read
+
+LAYERS-MONREALE-2023 Amadori et al. — The Virgin Hodegetria Panel in Monreale Cathedral
+https://doi.org/10.3390/heritage6060249
+Primary study of a probably first-half-13th-century PANEL with two linen interlayers. Eight microsamples; polished cross-sections MOM-A and MOM-B studied by PLM/ESEM-EDX and ATR-FTIR. Table2 explicitly gives a 20 µm maximum original paint layer, a separate 55 µm colored stratum, and 1250/1900 µm ground maxima. Table2 on printed p.4698 visually inspected.
+Limit: Panel-mounted linen reinforcement, not a free flexible painted linen; cannot supply a like-for-like cloth penetration comparison. Numbers are maximum layer thicknesses in particular samples, not fiber coloration depth, mean ±SD, or all original: repainting and later gilding are separately identified. The frame sample is not the body-paint sample.
+Full PDF saved; relevant sections read
+
+SUPERFICIALITY-2010 Fanti et al. — Microscopic and Macroscopic Characteristics of the Shroud of Turin Image Superficiality
+https://doi.org/10.2352/J.ImagingSci.Technol.2010.54.4.040201
+Primary microscopy/synthesis, JIST54(4), 040201-1–8. Separates fabric, thread and fiber scales. Figure12, printed p.040201-7, gives a local primary-cell-wall estimate 0.2 ±0.2 µm at a mechanically exposed lacuna; the full figure/caption was visually inspected. Describes 2–3 colored fibers into a thread and some colored fibers nominally100 µm below a tangential fabric plane.
+Limit: The ± quantity in the figure caption is not established here as a population SD or95% interval. A local wall estimate is not a uniform whole-cloth film measurement or a surveyed distribution. Primary-cell-wall versus impurity-coating interpretation is discussed. Not a chemical proof that every possible artist process is excluded.
+Full PDF saved; relevant sections read
+
+LAYERS-SPINELLO-2015 Lee et al. — Protein binders in artworks, including Spinello’s processional banner
+https://doi.org/10.1039/C4AY01919A
+Primary publisher abstract/introduction and indexed object-specific passages, with museum metadata for Met13.175. Multilayer paint sample; gypsum ground and red paint/varnish sequence. Relevant evidence for material localization, not a depth measurement.
+Limit: Full PDF not obtained; only clearly labeled researcher summary of reviewed material saved. No numerical thickness from this source recovered. Museum says canvas rather than identifying flax in the short entry. Conference abstract supports egg-protein localization but is not the full study.
+Primary abstract/selected indexed passages and museum metadata reviewed; summary saved; full paper not obtained
+
+LAYERS-VILLERS-FLORENCE-2000 Caroline Villers — Four Scenes of the Passion Painted in Florence around 1400 (bibliographic lead)
+https://bha-test.inist.fr/vibad/index.php?action=getRecordDetail&idt=oba_0333223&lang=fr
+Institutional CNRS/GRI catalogue abstract identifies four linen paintings and the primary chapter pp.1–10; the 2017 review reports a thick calcium-carbonate ground filling weave for these works. The earlier 1993 Villers/Stevenson/Sharp paper on these same four Withyham scenes is now obtained separately and reports thin calcium-sulphate ground.
+Limit: Chapter not obtained. Bibliographic abstract plus secondary technical description only; no µm value available. Treat as a precise next retrieval target, not a full-text technical study already read. The 1993 finding differs from the 2017 review account attributed to this 2000 chapter; whether revised analysis or a different layer/work explains the discrepancy remains open.
+Institutional bibliographic abstract and secondary review read; full chapter not obtained
+
+LAYERS-VILLERS-1993 Villers, Stevenson and Sharp — The Technique of Four14th-Century Italian Paintings on Fabric Supports
+https://www.icom-cc-publications-online.org/2736/The-Technique-of-Four-14th-Century-Italian-Paintings-on-Fabric-Supports
+Exact primary paper recovered from official ICOM platform; all six scanned pages104–109 visually read. Four Withyham linen Passion scenes, late14th-centuryFlorence; only Flagellation and Mocking closely examined at publication. Reports thin calcium-sulphate/animal-glue ground, XRD anhydrite+gypsum, egg tempera identified by FTIR/DSC, generally one or occasionally two paint layers, three flesh strata. Linen identification by Dinah Eastop;17×15yarns/cm². Running headers and publisher resolve date as 1993 Washington, not 1990 Dresden.
+Limit: No numerical µm paint-film or intra-fiber penetration measurements and no calibrated cross-section plates are printed. Later glue-panel mounting contaminates sizing interpretation. The 2017 review cites a 2000 chapter for thick calcium-carbonate ground; that chapter remains unobtained, so discrepancy is unresolved rather than proof the review is wrong. These are late14th-centuryItalian objects, not pre 1355 French examples.
+Full official six-page PDF saved; all pages visually read

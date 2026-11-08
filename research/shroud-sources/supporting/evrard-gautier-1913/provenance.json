@@ -1,0 +1,75 @@
+{
+  "reviewed_on": "2026-10-27",
+  "gautier": {
+    "source": "Pierre Gautier, Maître Evrard d’Orléans, sculpteur parisien du XIVe siècle, Annales de la Société d’histoire, d’archéologie et des beaux-arts de Chaumont, tome IV, 1913, pp 339–340",
+    "volume_wrapper_date": "Gallica catalogues the bound 506-view volume under 1911; the article is cited as 1913 by Technè 2024 and appears under L’Excursion de 1913",
+    "page_urls": [
+      "https://gallica.bnf.fr/ark:/12148/bpt6k9605129n/f425.item",
+      "https://gallica.bnf.fr/ark:/12148/bpt6k9605129n/f426.item"
+    ],
+    "review": "Both printed page images visually read; article starts near bottom of 339 and ends on 340. Earlier text on 339 concerns Claude de Longwy, not Guy Baudet.",
+    "source_level": "1913 scholarly summary of a medieval act, with a short quoted residence phrase; not the act or a full primary transcription",
+    "new_details": [
+      "Act reported before Châtelet notaries on 5 June 1341; notaries unnamed",
+      "Évrard’s reported residence: oultre la Porte Saint-Denis",
+      "G94 cited in 1913, preceding Ronot 1933 and Berger 2017",
+      "Earlier historians’ 120-livre price contrasted with the act’s 140 livres; one commission, not two invoices"
+    ],
+    "limitations": [
+      "Executors and notaries not named; no witness list",
+      "No Lirey or Charny connection established",
+      "Gautier’s hypothesized family workshop and distinction between two Évrards are historical interpretations, not new proof of genealogy or collaboration"
+    ]
+  },
+  "current_catalogue": {
+    "G94": {
+      "url": "https://recherche.archives.haute-marne.fr/archives/show/FRAD052_00000000G_de-143",
+      "title": "Correspondance",
+      "dates": "XVIe–1680",
+      "fonds": "Evêché de Langres / Duché Pairie",
+      "assessment": "Does not identify the medieval contract; not a verified modern equivalent of the historical G94 citation"
+    },
+    "2G94": {
+      "url": "https://recherche.archives.haute-marne.fr/archives/show/FRAD052_00000002G_de-143",
+      "title": "Chambrier, Chantre",
+      "dates": "1207–1675",
+      "fonds": "Chapitre cathédral de Langres / Dignités–Prébendes",
+      "assessment": "Broad office dossier; no contract identified in catalogue description. Cannot rule out unlisted contents."
+    },
+    "2G168": {
+      "url": "https://recherche.archives.haute-marne.fr/archives/show/FRAD052_00000002G_de-216",
+      "title": "Bénéfices, cures, fabriques, travaux et répartions, incendie, préau, comptes, procès du chapitre avec Mgr. de Montmorin de Saint-Hérem",
+      "dates": "1307–1789",
+      "assessment": "Potential search dossier by subject/date only. Not confirmed to contain the contract, not a shelfmark crosswalk."
+    }
+  },
+  "ronot_access": {
+    "catalogue_route": "BnF year list cb34374580q/date → 1933 resolves to bpt6k42370735, confirming stored journal identifier",
+    "before_verification": "Object reader returned Usage error.500; plain-text view presented ALTCHA checkbox",
+    "authorization": "User explicitly authorized completing the displayed verification in this turn",
+    "after_verification": "Verification completed. Normal reader, plain-text and ALTO endpoints failed; documented BnF IIIF images supplied f244 (printed 202) and f245 (printed 203). Expected f246 (204) remained unavailable after several image/OCR attempts. No fresh closing-page collation."
+  },
+  "ronot_primary_review": {
+    "saved_and_visually_read": [
+      {
+        "view": 244,
+        "printed_page": 202,
+        "file": "ronot-f244.jpg"
+      },
+      {
+        "view": 245,
+        "printed_page": 203,
+        "file": "ronot-f245.jpg"
+      }
+    ],
+    "new_names": [
+      "Guillaume Gormont",
+      "Richard Passart",
+      "Ponce dit le Bourguignon"
+    ],
+    "page_offset_check": "f253 visually proved unrelated printed p211; kept outside registered source assets. Do not label it p202.",
+    "unread_this_pass": "Printed p204, expected f246. Earlier selected date/shelfmark quotations are attributed to prior reading, not newly checked.",
+    "source_type": "Printed medieval primary-document edition, not an image of the original act",
+    "IIIF_documentation": "https://api.bnf.fr/fr/api-iiif-de-recuperation-des-images-de-gallica"
+  }
+}

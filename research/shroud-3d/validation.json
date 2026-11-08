@@ -1,0 +1,63 @@
+{
+  "mesh_checks": "passed",
+  "head_closed_manifold": true,
+  "head_signed_volume_nominal_mm3": 4488208.195412363,
+  "glb": "passed, two named surfaces, embedded image",
+  "obj": "passed",
+  "local_links": "passed",
+  "metrics": {
+    "head_vertices": 4356,
+    "head_triangles": 8708,
+    "cloth_vertices": 11009,
+    "cloth_triangles": 21600,
+    "max_collision_penetration_mm": 0.0,
+    "structural_edge_strain_median_percent": 0.6061992108836844,
+    "structural_edge_strain_p95_abs_percent": 5.372418981939033,
+    "landmark_rms_mm": 11.714524578254816,
+    "held_out": {
+      "bridge": 0.7148467315350591,
+      "chin": 23.054476495001307
+    },
+    "history": [
+      {
+        "iteration": 0,
+        "rms_flat_cloth_mm": 13.478346695329844,
+        "maximum_flat_cloth_mm": 25.322416239860978,
+        "seconds": 22.18
+      },
+      {
+        "iteration": 1,
+        "rms_flat_cloth_mm": 12.276446477588612,
+        "maximum_flat_cloth_mm": 25.166897055196813,
+        "seconds": 12.64
+      },
+      {
+        "iteration": 2,
+        "rms_flat_cloth_mm": 11.711983008183438,
+        "maximum_flat_cloth_mm": 22.75203980255822,
+        "seconds": 12.91
+      },
+      {
+        "iteration": 3,
+        "rms_flat_cloth_mm": 11.676411462796011,
+        "maximum_flat_cloth_mm": 22.613707803279542,
+        "seconds": 12.41
+      },
+      {
+        "iteration": 4,
+        "rms_flat_cloth_mm": 11.696844089968728,
+        "maximum_flat_cloth_mm": 22.757265877988704,
+        "seconds": 12.37
+      },
+      {
+        "iteration": 5,
+        "rms_flat_cloth_mm": 11.828635511824034,
+        "maximum_flat_cloth_mm": 23.487900265970143,
+        "seconds": 12.39
+      }
+    ],
+    "max_triangle_sample_penetration_mm": 0.0,
+    "triangle_collision_samples": 151200
+  },
+  "browser_testing": "Not performed: prior browser URL policy rejected the local viewer. Three.js control and geometry logic is checked separately with a mock renderer. Static CPU render inspected."
+}

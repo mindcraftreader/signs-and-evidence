@@ -1,0 +1,40 @@
+JOSEPH OF CUPERTINO: WHAT THE BEATIFICATION EXAMINATION SAID
+Research date: 5 November 2026
+
+DIRECT PAPAL EVIDENCE RECOVERED
+Prospero Lambertini / Pope Benedict XIV, De servorum Dei beatificatione et beatorum canonizatione, book III, chapter XLIX, paragraph9. In the1788 collected edition, printed p.257, PDF p.261.
+Source: https://archive.org/details/bub_gb_HzUiPibiLfUC
+Local original: sources/benedict-xiv-book3-1788.pdf
+The paragraph has been checked against the scanned printed page, not only a modern quotation. It reads:
+
+Dum autem munere fungebar Fidei Promotoris, in sacrorum rituum Congregatione discussa fuit causa Ven. Servi Dei Joseph a Cupertino super dubio virtutum, quod post dimissum a me Promotoratus officium feliciter fuit resolutum, in qua testes omni exceptione majores & oculati celeberrimas a terra elevationes, & ingentes volatus retulerunt de eo Servo Dei ecstatico & rapto.
+
+Working translation:
+While I held the office of Promoter of the Faith, the cause of the venerable servant of God Joseph of Cupertino was discussed in the Congregation of Sacred Rites on the question of his virtues; this was favorably resolved after I left the office of Promoter. In that cause, eyewitnesses beyond objection reported the celebrated elevations from the ground and great flights of that servant of God while in ecstasy and rapture.
+
+Translation precision: 'testes omni exceptione majores' is a legal expression of witness credibility/competence, not proof that no conceivable historical criticism is possible. 'Ingentes volatus' means great/remarkable flights; it does not itself specify duration, so do not silently translate it as 'prolonged flights.'
+
+This is direct evidence from the former Promoter of the Faith that flight testimony was in the proceedings and that he regarded its eyewitnesses as credible. The passage appears among examples of bodily elevation in divine ecstasy. It is appreciably stronger than merely inferring belief in the flights from the fact of canonization.
+The favorable resolution explicitly named in the sentence concerns the question of virtues. It is not a separately worded juridical decree approving each individual flight episode.
+
+1753 OFFICIAL-OCCASION COMPENDIUM
+Angelo Pastrovicchi, Compendio della vita, virtù e miracoli del B. Giuseppe di Copertino (Rome1753).
+Existing local source: ../joseph-cupertino-opening-audit-20261105/sources/pastrovicchi-1753.pdf
+Prefatory dedication by Franciscan Minister General Carlo Antonio Calvi (PDF pp.10-11): says each account was supported by testimony sworn in ordinary and apostolic processes, with precise marginal citations, following BenedictXIV's instruction. This is an explicit contemporary claim about the compendium's method; it does not substitute for inspecting each underlying deposition.
+The compendium includes the UrbanVIII audience at printed p.24 and supplies process references (see prior papal-audience follow-up). No original Urban-authored deposition or separate finding limited to that audience has yet been recovered.
+
+FORMAL DECISIONS
+15August1735: heroic virtues approved by ClementXII; recited in the1752 decree.
+4October1752: BenedictXIV's miracle decree approves two posthumous healings, not two levitations. Reproduced in Pastrovicchi1753 printed pp.97-100 (PDF pp.115-118):
+  - Stefano deMatthaeis: restoration of sight and the injured eye after trauma from a sharp stone.
+  - Vittorio deMatthaeis: sudden disappearance of a longstanding disabling knee swelling described as cystic/follicular.
+The decree states that Benedict reviewed proofs from the apostolic and ordinary processes, the postulators' submissions, and written medical opinions; heard the postulators; and weighed consultor and cardinal votes. It reports near-common support among consultors and unanimous cardinal support for the two approved miracles. These are the historical decree's statements, not a new medical reassessment performed here.
+20February1753: beatification brief signed; celebration24February1753. Official Vatican listing confirms celebration:
+https://www.causesanti.va/it/celebrazioni/beatificazioni/1753.html
+
+CONTEMPORARY VATICAN PRESENTATION
+The Dicastery's current biography describes levitations and an episode before the Naples inquisitors, followed by acquittal of accusations. This is an official modern biography, not the original seventeenth-century tribunal record:
+https://www.causesanti.va/it/santi-e-beati/giuseppe-da-copertino.html
+
+ASSESSMENT
+The investigation ended favorably. BenedictXIV expressly treats credible eyewitness testimony to substantial flights as part of the examined record; saying the Church merely ignored the flights would misrepresent this direct source. The specifically enumerated miracle approvals for beatification concern healings. The papal-audience narrative has process citations, but its original deponent and any episode-specific assessment still need retrieval. No new debate tally assigned.

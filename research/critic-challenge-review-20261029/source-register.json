@@ -1,0 +1,326 @@
+[
+  {
+    "id": "DHA-NYT",
+    "url": "https://www2.kenyon.edu/Depts/Religion/Fac/Adler/Reln260/Dhammakaya.htm",
+    "author": "Seth Mydans",
+    "background": "New York Times correspondent; university course site preserves newspaper text, not a new academic authorship",
+    "date": "1999-08-13",
+    "access": "full reprint read and saved",
+    "role": "contemporary external reporting of named religious claimant; not reporter observation of prior-year event",
+    "local": "sources/dhammakaya-mydans-1999-kenyon.txt"
+  },
+  {
+    "id": "DHA-MAN",
+    "url": "https://digital.car.chula.ac.th/manusya/vol5/iss1/2/",
+    "author": "Rungrawee Chalermsripinyorat",
+    "background": "Author identified in footnote2 as a student in the Thai Studies Section, Chulalongkorn University; earlier version presented at1999 Thai Studies conference in Amsterdam",
+    "date": "2002",
+    "access": "Full16-page PDF supplied by user download, copied into source library; all extracted text read, relevant printedp20 visually checked29October2026",
+    "role": "Sociological study of movement, fundraising and controversy; quoted witness via The Nation2December1998 on printedp20, not same-day journalist eyewitness account or controlled miracle investigation",
+    "local": "sources/dhammakaya-manusya-2002.pdf",
+    "sha256": "83093ae620a4dd855b1638e5d5551f43dff7e2078be8c9feacfa7faddde53715"
+  },
+  {
+    "id": "PIO-CRIT",
+    "url": "https://exegeticaldrift.substack.com/p/the-exact-perception-of-a-void",
+    "author": "Exegetical Drift",
+    "background": "pseudonymous; medical credentials unverified",
+    "date": "2026-10-09",
+    "access": "full saved, selected relevant sections checked",
+    "role": "critical finding aid, not clinical authority",
+    "local": "sources/pio-exact-perception.txt"
+  },
+  {
+    "id": "FAT-CRIT",
+    "url": "https://thatoneguy03.substack.com/p/death-by-a-thousand-suns-the-miracle",
+    "author": "thatoneguy03",
+    "background": "credentials unverified",
+    "date": "2026-09-08",
+    "access": "full saved, selected sections read; not cover-to-cover",
+    "role": "critical finding aid; Buddhist comparisons followed",
+    "local": "sources/fatima-thousand-suns.txt"
+  },
+  {
+    "id": "ZEI-CRIT",
+    "url": "https://rederror.substack.com/p/did-the-virgin-appear-at-zeitoun",
+    "author": "Arthur T",
+    "background": "credentials unverified",
+    "access": "article saved and read",
+    "role": "lead to Warraq comparison, not demonstrated Zeitoun mechanism",
+    "local": "sources/zeitoun-arthur.txt"
+  },
+  {
+    "id": "PIO-FESTA",
+    "url": "https://www.imagomundi.biz/wp-content/uploads/2025/04/PBSO37-Le_stigmate_di_Padre_Pio_da_Pietrelcina-Gerardo_di_Flumeri.pdf",
+    "author": "Giorgio Festa, reproduced by Gerardo Di Flumeri",
+    "background": "Roman surgeon; Capuchin editor of documentary edition",
+    "date": "1920 report /1995 edition",
+    "access": "original local PDF; printed208–209 rendered and inspected this pass;211–212 text checked",
+    "role": "primary observations with favorable and potentially ordinary features retained together"
+  },
+  {
+    "id": "PHENOL21",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8508160/",
+    "author": "Juan Manuel Muriel-Sánchez; Manuel Coheña-Jiménez; Pedro Montaño-Jiménez",
+    "background": "Department of Podiatry, Faculty of Nursing, Physiotherapy and Podiatry, University of Seville",
+    "date": "2021",
+    "access": "full HTML saved; trial methods and endpoints checked",
+    "role": "nail-surgery healing comparator; already in previous audit, not a new Pio explanation",
+    "local": "sources/phenol-seville-2021.txt"
+  },
+  {
+    "id": "PHENOL20",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7141528/",
+    "author": "Muriel-Sánchez and colleagues",
+    "background": "University of Seville podiatry research",
+    "date": "2020",
+    "access": "full HTML saved; relevant abstract and endpoints checked",
+    "role": "additional postoperative comparator, not long-term stigmata",
+    "local": "sources/phenol-seville-2020.txt"
+  },
+  {
+    "id": "PHENOL01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/11207690/",
+    "author": "A. B. Aksakal; C. Atahan; P. Oztaş; S. Oruk",
+    "background": "Gazi University School of Medicine, Department of Dermatology, Ankara",
+    "date": "2001",
+    "access": "abstract only read and saved",
+    "role": "prolonged postoperative oozing comparator; not full Pio pattern",
+    "local": "sources/phenol-gazi-2001-abstract.txt"
+  },
+  {
+    "id": "CASEBOOK",
+    "url": "https://books.google.com/books?id=6H0_EQAAQBAJ",
+    "author": "Mohammad Jafferany and Asmahane Souissi, editors",
+    "background": "clinical psychodermatology textbook editors; case6-1 title verified",
+    "date": "2025 copyright /2024 publication",
+    "access": "metadata/TOC/snippets; relevant full chapter unavailable",
+    "role": "unverified lead; alleged razor discovery not independently confirmed"
+  },
+  {
+    "id": "WEN26",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13344060/",
+    "author": "Xiaowen Wen; Xueting Zeng; Chao Ji",
+    "background": "Dermatology, Shenzhen Hospital (FuTian), Guangzhou University of Chinese Medicine; First Affiliated Hospital of Fujian Medical University",
+    "date": "2026",
+    "access": "full HTML read and saved",
+    "role": "three-year scalp ulcer case; inflammation present; limited analogy",
+    "local": "sources/wen-2026.txt"
+  },
+  {
+    "id": "CEGLIE",
+    "url": "https://ufo.com.br/2-medico-estudou-os-estigmas-de-bongiovanni-por-20-anos/",
+    "author": "Statement attributed to Nicola Ceglie, translated by Pedro de Campos",
+    "background": "Ceglie described as physician; institutional role not independently verified. Translator is writer/ufology contributor, not established clinical authority",
+    "date": "2009 statement /2010 publication",
+    "access": "translated statement read and saved; no original signed examination file",
+    "role": "primary-attributed translated testimony from supportive publication; not equal to verified medical dossier",
+    "local": "sources/bongiovanni-ceglie-2009-translation.txt"
+  },
+  {
+    "id": "BONG-FAM",
+    "url": "https://thebongiovannifamily.it/la-biografia-di-giorgio-bongiovanni/",
+    "author": "Bongiovanni movement website",
+    "background": "interested first-party religious source",
+    "access": "full page saved; relevant claims checked",
+    "role": "establishes movement teachings and assertions, not independent medical validation",
+    "local": "sources/bongiovanni-family-biography.txt"
+  },
+  {
+    "id": "ZEI-DEB",
+    "url": "https://www.youtube.com/watch?v=D_KMl_NF30Q",
+    "author": "Travis Dumsday and Ben Watkins, hosted by Capturing Christianity",
+    "background": "Dumsday: philosophy professor, Concordia University of Edmonton. Watkins: Real Atheology host; no doctorate claimed",
+    "access": "full automatic transcript exported; opening, naturalistic59:16–1:16:50, hysteria1:16:50–1:28 read; not entire video watched",
+    "role": "actual philosophical exchange; no identified ordinary source of figure",
+    "local": "sources/zeitoun-watkins-D_KMl_NF30Q-transcript.txt"
+  },
+  {
+    "id": "WAR-DNE",
+    "url": "https://www.dailynewsegypt.com/2009/12/23/egyptians-divided-on-virgin-mary-apparition/",
+    "author": "Raghda El-Halawany",
+    "background": "Daily News Egypt journalist",
+    "date": "2009-12-23",
+    "access": "full article read and saved",
+    "role": "contemporary interviews with named Christian and Muslim observers; not proof of light mechanism",
+    "local": "sources/warraq-daily-news-2009.txt"
+  },
+  {
+    "id": "WAR-VID",
+    "url": "https://www.youtube.com/watch?v=rFZfWWeAGiM",
+    "author": "wim_sweden",
+    "background": "video creator; relevant professional qualifications unverified",
+    "access": "selected frames inspected, including3:34/3:49/3:54; not full raw footage authenticated",
+    "role": "tower-light identification hypothesis, not yet independently verified"
+  },
+  {
+    "id": "DIEUL",
+    "url": "https://www.sfmg.fr/upload/fichier_sfmg_drmg_31_1989_07c39e13.pdf",
+    "author": "SFMG1989 reprint/retrospective quoting Georges Dieulafoy1908",
+    "background": "historical French medical discussion; original1908 article not acquired",
+    "access": "PDF/text acquired; relevant text checked, images not visually checked",
+    "role": "historical comparator with poor outcome; not fifty-year Pio match",
+    "local": "sources/dieulafoy-reprint-1989.pdf"
+  },
+  {
+    "id": "DHA-HISTORY",
+    "url": "https://www.dhammakaya.net/about-us/dhammakaya-temple-history",
+    "author": "Dhammakaya Foundation",
+    "background": "first-party institutional history",
+    "access": "public text checked",
+    "role": "1970 founding and distinction of Sodh from Dhammajayo"
+  },
+  {
+    "id": "DHA-LEGAL06",
+    "url": "https://www.buddhistchannel.tv/index.php?id=52%2C3073%2C0%2C0%2C1%2C0",
+    "author": "Bangkok Post, reproduced by Buddhist Channel",
+    "date": "2006-08-23",
+    "access": "full reproduced article checked",
+    "role": "earlier prosecution withdrawal; allegations distinguished from conviction"
+  },
+  {
+    "id": "DHA-LEGAL26",
+    "url": "https://www.nationthailand.com/news/general/40064321",
+    "author": "The Nation",
+    "date": "2026-03-27",
+    "access": "full article checked",
+    "role": "reports DSI letter on expiry/discontinuance of special case27/2016; not a merits verdict"
+  },
+  {
+    "id": "DHA-MAT98",
+    "url": "https://www.matichonelibrary.com/news/site/view?id=41291305",
+    "author": "Matichon newspaper; clipping preserved by publisher Information Center",
+    "date": "1998-12-03",
+    "access": "archive metadata, full2-pagePDF downloaded, first page visually inspected",
+    "role": "primary later investigation coverage, not following-week eyewitness confirmation",
+    "local": "sources/matichon-19981203-pp1-18-41291305.pdf"
+  },
+  {
+    "id": "DHA-SCOTT09",
+    "url": "https://api.pageplace.de/preview/DT0400.9781438427881_A40634160/preview-9781438427881_A40634160.pdf",
+    "author": "Rachelle M.Scott",
+    "background": "Department of Religious Studies, University of Tennessee, identified in book acknowledgments; Northwestern dissertation background",
+    "date": "2009",
+    "access": "authorized26-page publisher preview, relevant introductory passages read, printedp3 visually checked",
+    "role": "field-research-based scholarly account of promotional material and controversy chronology; not a contemporaneous eyewitness report of solar event",
+    "local": "sources/scott-nirvana-for-sale-2009-preview.pdf"
+  },
+  {
+    "id": "DHA-MAT17",
+    "url": "https://www.matichon.co.th/local/news_472748",
+    "author": "Matichon",
+    "date": "2017-02-22",
+    "access": "article read",
+    "role": "Thai-language retrospective; cannot be counted as following-week1998 reportage"
+  },
+  {
+    "id": "DHA-CHULA98-QUALITY",
+    "url": "https://digital.car.chula.ac.th/chulaetd/22126/",
+    "author": "อมรรัตน์ เรืองสกุล",
+    "background": "Chulalongkorn University journalism masters thesis",
+    "date": "1998",
+    "access": "repository abstract read",
+    "role": "classification of Matichon quality versus Thai Rath popular press"
+  },
+  {
+    "id": "DHA-KAL-OCT98-24",
+    "url": "https://www.dmc.tv/ebook/1095/139836",
+    "date": "1998-10",
+    "access": "original scan visually read; printed24, scan32",
+    "role": "movement magazine solar-miracle article",
+    "local": "sources/kalyanamitra-1998-10-scanned-p32.jpg"
+  },
+  {
+    "id": "DHA-KAL-OCT98-35",
+    "url": "https://www.dmc.tv/ebook/1095/139847",
+    "date": "1998-10",
+    "access": "original scan visually read; printed35, scan43",
+    "role": "multiple named eyewitness accounts in movement magazine",
+    "local": "sources/kalyanamitra-oct1998-scan43.jpg"
+  },
+  {
+    "id": "DHA-KAL-OCT98-38",
+    "url": "https://www.dmc.tv/ebook/1095/139850",
+    "date": "1998-10",
+    "access": "original scan visually read; printed38, scan46",
+    "role": "additional movement-published eyewitness testimony",
+    "local": "sources/kalyanamitra-oct1998-scan46.jpg"
+  },
+  {
+    "id": "DHA-KAL-DEC98-47",
+    "url": "https://www.dmc.tv/ebook/1100/140657",
+    "date": "1998-12",
+    "access": "original scan visually read; printed47, scan53",
+    "role": "contemporary citation to Daily News21November1998; newspaper page not recovered",
+    "local": "sources/kalyanamitra-1998-12-scanned-p53.jpg"
+  },
+  {
+    "id": "DHA-SIRIPORN-ANALYSIS",
+    "url": "https://www.kalyanamitra.org/th/phramahasiri_detail.php?page=256",
+    "author": "ศิริพร สุขสุทธิพันธ์",
+    "date": "undated online reproduction; author describes1998 visits",
+    "access": "text recovered",
+    "role": "physician eyewitness defense; identification with newspaper item not verified"
+  },
+  {
+    "id": "DHA-DAILYNEWS-HISTORY",
+    "url": "https://www.dailynews.co.th/aboutus/",
+    "access": "publisher historical account located",
+    "role": "established general Thai newspaper; not proof of1998 miracle claims"
+  },
+  {
+    "id": "DHA-MAT-JAN1-99",
+    "url": "https://www.matichonelibrary.com/news/site/view?id=42042842",
+    "date": "1999-01-01",
+    "access": "both original scan pages visually read",
+    "role": "reporter describesDecember31temple activities, not a confirmed solar miracle",
+    "local": "sources/matichon-19990101-42042842.pdf"
+  },
+  {
+    "id": "DHA-FEER-COURRIER-PR",
+    "url": "https://www.courrierinternational.com/article/1999/03/04/meditation-miracles-et-sebile-bien-remplie",
+    "author": "Prangtip Daorueng",
+    "background": "Far Eastern Economic Review reporter, French reproduction by Courrier International",
+    "date": "original issue unresolved; URL1999, displayed metadata2005/2022",
+    "access": "full public article read",
+    "role": "identifies Chuleeporn as temple PR representative and resident",
+    "local": "sources/dhammakaya-courrier-feer-public-relations.txt"
+  },
+  {
+    "id": "DHA-SAOWALAK-BOOK",
+    "url": "https://www.dmc.tv/ebook/499/71566",
+    "date": "foreword dated17May2010",
+    "access": "indexed acknowledgment and reproduced page",
+    "role": "later Buddhist publication advisory involvement; no compensation established",
+    "local": "sources/saowalak-book-acknowledgment.txt"
+  },
+  {
+    "id": "BON-BUSQUEDA50",
+    "url": "https://files.afu.se/Downloads/Magazines/Spain%20and%20Catalonia/Busqueda%20Boletin/Busqueda%20Boletin%20-%20No%2050.pdf",
+    "date": "1992-09",
+    "access": "downloaded; printed5and7visuallyread",
+    "role": "contemporarySpanishtranslateddoctorstatements pluscriticalcommentary; not originalsignedItalianrecords",
+    "local": "sources/busqueda-50-september1992.pdf"
+  },
+  {
+    "id": "BON-DOCTRINE2010",
+    "url": "https://thebongiovannifamily.it/messaggi-celesti/il-nesso-tra-gesu-e-la-realta-extraterrestre/",
+    "date": "2010-07-14",
+    "role": "primarymovementteachingJesus/extraterrestrials/reincarnation",
+    "access": "relevantpassagesread"
+  },
+  {
+    "id": "BON-HUMANIDAD",
+    "url": "https://www.thebongiovannifamily.com/images/stories/pdf/umanidad-donde-vas.pdf",
+    "author": "J.GeorgesAlmendras;OrazioValenti",
+    "access": "webcachedtextpp64–65read;currentPDFdownload404",
+    "role": "supporterbookreproducedmedicalstatements1991and1993;notauthenticatedsignedoriginals"
+  },
+  {
+    "id": "BON-CEGLIE-CREDENTIAL",
+    "url": "https://www.sifoweb.it/images/pdf/eventi-ed-ecm/atri-eventi/patrocini-congressi/2014/Progr._Bari_26_marzo_2014.pdf",
+    "date": "2014-03-26",
+    "access": "webcachedprogramtextread;download404",
+    "role": "independentlistingofmatchingnamedBari anesthesiologist;notuniversitycaseinvestigation"
+  }
+]

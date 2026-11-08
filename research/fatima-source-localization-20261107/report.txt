@@ -1,0 +1,206 @@
+F-06 | FÁTIMA | DID THE DISTANT WITNESSES LOCATE THE SOURCE?
+7 November 2026
+
+Result
+The directional-convergence argument does not establish a light source a few
+kilometres south of Cova da Iria. Figure 8 draws directions to the Cova and
+places its proposed source separately to the south. The witness wording
+does not supply the additional directions or elevations needed to identify
+that position. A local emitter remains compatible with portions of the
+record. This is a result about the published localization argument, not
+about whether the witnesses saw something or the cause of the announced sign.
+
+1. What Dalleur and Muse claim
+Dalleur, 2021, pp. 27–30, interprets four distant groups as seeing the same
+event in the Fátima direction and proposes a source over hills a few
+kilometres south of the Cova. The Figure 8 caption calls the marker an
+estimate. Muse, Our Lady of Fatima §2.2.2, goes further in calling the
+bearing convergence evidence for a localized emitter due south. He treats
+the anomalous D115 shadow elevation and the inferred geographic location
+as separate lines of reasoning. In his reply to Scott Alexander, Muse
+also argues from how the display varied by distance and viewing conditions.
+The audit grants the D115 25–32° elevation and uses 28.24° as a numerical
+example. The published photo azimuth is camera-relative. For the main
+sensitivity test, a due-south geographic direction is granted as well.
+
+2. What the diagram actually draws
+I visually checked the original PDF pp. 27–29. The Moel, Leiria and
+Alburitel lines end at 0, the Cova. The Minde line also goes to 0 and passes
+the vicinity of the separate source symbol. The markers in a 155 dpi
+render are approximately y=317 at the Cova, y=389 at the estimated source
+and y=454 at Minde. Reading the 12.2 km Cova–Minde scale on that segment
+puts the symbol roughly halfway, at about 6.4 km. The map is schematic.
+This is a sensitivity location, not a geodetic estimate attributed to
+Dalleur. Mark Grant's separate example uses 3 km due south. Both are tested.
+
+Recomputed WGS84 geographic directions from the archive's observer
+representatives, in degrees clockwise from true north:
+
+  Site                    To the Cova    To 3 km south    To 6.4 km south
+  São Pedro de Moel         114.1           118.6             123.2
+  Leiria                    137.2           143.3             148.6
+  Alburitel                 261.8           249.6             237.8
+  Minde vicinity              5.7             7.4              11.2
+
+For Moel, Leiria and Alburitel, the absolute offsets from the Sun's
+near-noon south bearing to the Cova directions are 65.9°, 42.8° and 81.8°.
+These closely reproduce Figure 8's labeled 65.7°, 42.5° and 82°. The
+Figure 8 Minde offset is 179°. The town representative used here differs
+by several degrees and the 1917 field is unidentified. The calculation
+shows the map's inputs are consistent with town-to-Cova lines. It does
+not treat the discrepancies as witness errors. If taken as precise lines
+they miss the proposed source. If treated as broad directions, the text
+does not say how much angular deviation is acceptable.
+
+3. Witnesses and the best case for each
+Minde. Haffert's pp. 40–41 interview is the strongest direction record.
+Albano Barros was tending sheep near Minde and recalls the fall toward
+Fátima. Fátima really is roughly north from the representative site,
+opposite the midday Sun. This is significant positive evidence against
+ordinary fixation on the midday Sun as an explanation of his description.
+The statement gives no village, field, angular elevation or exact time.
+The text about almost everyone fearing the end appears in Haffert's
+p. 79 discussion without quotation marks. It supplies no second station.
+On the WGS84 great circle between the Minde proxy and the Cova, points
+1, 3, 6.4 and 8 km out from the Cova all have the same bearing from the
+Minde proxy. Matching the D115 angle then requires heights of approximately
+0.89, 1.96, 3.79 and 4.65 km above sea level. This construction assigns the
+Cova bearing roughly 186°, and a separate run grants 180° exactly. On the
+due-south track the Minde bearings vary by about 0.5–9.2° from the Cova
+direction over that range. These are demonstrations of range ambiguity.
+They are not evidence for any one of the modeled heights or distances.
+
+Leiria. Haffert's p. 41 interview has Guilhermina Lopes da Silva looking
+toward a mountain and describing a red flash in the sky at noon. She
+reports calling two men. Their own directional statements are unavailable.
+The address is introduced as where she lives at the time of publication.
+The author's explanation on pp. 41–42 invokes the terrain tentatively.
+Dalleur attributes the masking to da Silva and computes a horizon from
+the address. The text does not establish the 1917 building, floor,
+window, mountain, or elevation of the flash. A 2023 municipal record
+verifies the current street and house numbering, without tying it to
+the observation. The 1918–19 city plan is known. No named 1917 occupancy
+or observation record was recovered.
+
+To check Muse's terrain interpretation without supplying a witness
+address, I sampled a modern Copernicus GLO-30 surface model from the
+Leiria locality and the government coordinates for the Encarnação hill,
+at 1.7 and 5 m above each sampled surface. Along the target directions,
+the highest surface beyond 2 km was about 1.6–2.3° above horizontal.
+For the hill proxy, a source 3 km south appears at about 5.7° and a source
+6.4 km south at about 9.8°. Both clear the modeled distant terrain. Near
+obstructions in the lower city proxy are much more sensitive, up to about
+8° in the sampled model. Modern trees and buildings are part of the
+surface product. These are conditional geometric comparisons with no
+1917 cloud, building or exact witness reconstruction. A low ridge does
+not set the red flash's elevation. Muse's selective-extinction idea is
+physically compatible with a redder appearance over distance, but the
+reported color does not supply a bearing, range, or spectrum.
+
+Amorim's 1960 appendix p. 202 cites the 8 November 1917 O Mensageiro,
+whose editor says people in Leiria saw the event without going to Fátima.
+Ferraz independently identifies the 8 November issue as no. 161 and
+points to DCF III-1 p. 617 for Lacerda's article. Muse dates the newspaper
+to November 5. The original newspaper page was not recovered. This early
+report is relevant to the geographic spread, but gives no witness bearing.
+
+São Pedro de Moel. The house is identified by its municipal coordinates.
+Vieira describes a surprising spectacle from his veranda and recalls
+having forgotten the prediction. De Marchi p. 176 and Jaki's quotation
+from the 1937 Marques da Cruz book, reporting a 1935 conversation, supply
+no compass direction. In Brochado's account the widow herself observed
+the spectacle and says they learned afterward of the Cova connection.
+The Shrine's February 1978 Voz da Fátima reproduces this distinction.
+Haffert's location over the mountain appears in his narration on p. 40.
+He says the widow confirmed the experience in 1960. Her original
+deposition was not recovered. The museum history identifies the historic
+interior veranda as sea-facing. The modern photographs show an end
+opening as well as sea-facing windows. This is a reason to require a
+specific viewing position before using the architecture as a bearing.
+It is not a basis to say the family could not see inland sky.
+
+Alburitel. De Marchi gives Inácio's school narrative, which he says
+he checked with the teacher and other villagers. Amorim pp. 202–204
+prints Fonseca's account of what Joaquim told her about the separate
+hilltop group. Haffert attributes the school story to Joaquim and
+places both brothers together. Dalleur also treats them together.
+Muse's distinction between the two groups is supported by the
+Portuguese source chains. Both report descent and rotation. The school
+story calls what people pointed at the sun and gives no azimuth. The
+hill story describes a wide horizon including the Fátima ridges, and
+gives no explicit bearing linking the disc to those ridges. Neither
+station is recovered closely enough to use as an angular measurement.
+
+4. Check against Muse's more distant corroboration
+The Granja letter was written the next day and relays apparent rotation
+and a pink cloud passing in front of what people called the Sun. The
+Oeiras account is a later secondhand report of what José Leite saw.
+Neither gives a bearing or angular size. Their retention as evidence of
+geographic spread is separate from treating them as sightings of the
+same compact physical disc.
+
+I reproduced Mark Grant's scale check under his assumption of a disc
+subtending about 0.53° from the Cova. That is an assumption based on the
+solar comparison, not a measured historical diameter. For a source
+3 km south and at a 28.24° Cova elevation, the disc appears about
+0.016° at Oeiras and 0.011° at Granja. Elevations for a coastal eye at
+2 m are about 0.45° and −0.01° with no refraction, or 0.52° and 0.09°
+with a conventional illustrative 7/6 effective Earth radius. This is
+an unobstructed geometric calculation, without local terrain or measured
+atmospheric conditions. With 6.4 km distance the apparent diameters are
+about 0.034° and 0.024°, still much smaller than the solar disc. Muse's
+diffuse reddening idea can explain why a flash could be seen across
+distance without preserving a resolved rotating disc. It supplies no
+quantitative model that predicts which features would be discernible
+from the two beaches. This is a tension for that single compact-disc
+interpretation, not an exclusion of detecting a sufficiently bright light.
+
+5. Adjudication
+The evidence supports several separate lines of testimony, including a
+particularly discriminating Minde report. It does not provide the
+independent crossing directions used to locate the emitter in Muse's
+argument. D115's angular evidence has been held fixed in this test. The
+specific published localization inference is not sustained. The dialogue
+score records the component review separately because Daniel authorized
+the audit without adopting the map location as a premise of his case.
+
+Sources and reproducibility
+Philippe Dalleur, Scientia et Fides 9(1), 2021, pp. 27–30, Figure 8.
+https://apcz.umk.pl/SetF/article/view/SetF.2021.001
+Ethan Muse, Our Lady of Fatima, §2.2.2, and It Wasn't the Sun!, §§2.1–2.7.
+https://motivacredibilitatis.substack.com/p/our-lady-of-fatima
+https://motivesofcredibility.substack.com/p/it-wasnt-the-sun
+John Haffert, Meet the Witnesses, 2006 reprint, pp. 39–42 and 79.
+https://www.basicincome.com/bp/files/Meet_the_Witnesses.pdf
+João De Marchi, Era uma Senhora mais brilhante que o Sol, pp. 176–177.
+https://centroculturalcampogrande.pt/pdfs/era.uma.senhora.mais.brilhante.que.o.sol.pdf
+Diogo Pacheco de Amorim, O Instituto 122, 1960, pp. 196–197 and 202–204.
+https://digitalis-dsp.uc.pt/institutocoimbra/UCBG-A-24-37a41_v122/UCBG-A-24-37a41_v122_item1/UCBG-A-24-37a41_v122.pdf
+Brochado's account reproduced by the Shrine in Voz da Fátima, February 1978.
+https://www.fatima.pt/files/upload/voz_da_fatima/VF0665_1978-02-13.pdf
+Jaki, God and the Sun at Fatima, pp. 202–204.
+https://dokumen.pub/god-and-the-sun-at-fatima.html
+Casa-Museu research, pp. 96–100, and Catarina Carvalho's museum project.
+https://sigarra.up.pt/faup/pt/pub_geral.show_file?pi_doc_id=155767
+https://afonsolopesvieira.ipleiria.pt/files/2011/11/CMMG_e_Projecto_museol%C3%B3gico_CATARINA_CARVALHO.pdf
+Leiria public sites and municipal records.
+https://imovel2.patrimoniocultural.gov.pt/detalhes.php?code=73317
+https://www.leiriatamanhoedesenho.pt/pt/leiriatd14
+https://www.cm-leiria.pt/cmleiria-migrate/uploads/document/file/41145/2023_09_19_ata.pdf
+Lacerda references in Luís Miguel Ribeiro Ferraz's dissertation.
+https://www.academia.edu/20950348/As_Apari%C3%A7%C3%B5es_de_F%C3%A1tima_e_o_seu_impacto_local_1917_1927_Leitura_hist%C3%B3rico_teol%C3%B3gica_a_partir_do_seman%C3%A1rio_O_Mensageiro
+Mark Grant's calculation, quoted in Matthew Adelstein's debate write-up, note 2.
+https://benthams.substack.com/p/a-clash-of-titans-the-ethan-muse
+Granja source, Maria Joaquina Tavares de Proença de Almeida Garrett, 14 October 1917.
+https://fatima-1917.com/pt/d/iii-1-79
+
+The coordinate register in ../fatima-distant-witness-geography-20261028
+supplies the site proxies. Run localization.py with the DEM tile below
+as its only argument using Python 3 with geographiclib, numpy, rasterio
+and matplotlib. It writes the two CSVs and the chart. The height
+calculation uses a mean spherical radius and WGS84 surface distances.
+The atmospheric-radius case is illustrative. The Copernicus elevations
+are approximately 30 m resolution and refer to the modern surface.
+https://registry.opendata.aws/copernicus-dem/
+https://copernicus-dem-30m.s3.amazonaws.com/Copernicus_DSM_COG_10_N39_00_W009_00_DEM/Copernicus_DSM_COG_10_N39_00_W009_00_DEM.tif
+Tile SHA-256 1d57c2d490d68ff64583b54a3297f7c0934a66908c44bfc25c9aab9576f58412

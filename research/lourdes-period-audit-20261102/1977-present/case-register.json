@@ -1,0 +1,347 @@
+[
+  {
+    "id": "BELY-1987",
+    "name": "Jean-Pierre Bely",
+    "recognized_case_number": 66,
+    "recovery_date": "1987-10-09",
+    "decade": "1980s",
+    "ecclesiastical_recognition_date": "1999-02-09",
+    "status": "recognized_miracle",
+    "diagnosis": "Multiple sclerosis, diagnosed1984 at Poitiers after symptoms since1972",
+    "actual_lourdes_connection": "Rosary pilgrimage; sacraments including anointing of the sick; sensory and motor improvement at Lourdes, then walking. Not documented as bath-side cure in retrieved record.",
+    "medical_dates": {
+      "bureau_report": "1988",
+      "near_contemporary_publication_lead": "Journal de la Grotte1988-12-18",
+      "cmil_decision": "1998-11-15",
+      "investigator_interview": "2005-10-28"
+    },
+    "physicians": [
+      {
+        "name": "Roger Gil",
+        "institution": "Neurology service, Poitiers hospital/CHU",
+        "role": "Diagnosing/follow-up neurologist; statements reported through Bureau and press"
+      },
+      {
+        "name": "Patrick Theillier",
+        "institution": "Lourdes Medical Bureau",
+        "role": "Presented case to CMIL1998; firsthand2005interview about investigation"
+      }
+    ],
+    "access": "Official bishop declaration and named investigator interview; original neurological charts and paired scans not obtained",
+    "evidence": [
+      "Recovered function after severe disability",
+      "Long follow-up before1998committee recognition",
+      "Named pre/post treating neurological service"
+    ],
+    "limits": [
+      "No paired MRI/CSF/evoked-potential results obtained",
+      "Exact number and reasons of dissent not recovered",
+      "Journal de la Grotte1988and January2003medical-spiritual booklet identified but not obtained"
+    ],
+    "source_ids": [
+      "OLD-S15",
+      "N09",
+      "N10",
+      "N11",
+      "N17"
+    ],
+    "next_records": [
+      "Original1984and1986diagnostic records",
+      "Original pre/post neurological/CSF/evoked-potential/MRIresults",
+      "Journal de la Grotte1988-12-18",
+      "Medical Office/CMIL January2003A Medical-Spiritual Report on the Cure of Mr Jean-Pierre Bely"
+    ],
+    "notes": "Access categories are documentary labels,not numerical probabilities. Recovery date governs period allocation."
+  },
+  {
+    "id": "CASTELLI-1989",
+    "name": "Danila Castelli",
+    "recognized_case_number": 69,
+    "recovery_date": "1989-05-04",
+    "decade": "1980s",
+    "ecclesiastical_recognition_date": "2013-06-20",
+    "status": "recognized_miracle",
+    "diagnosis": "Severe recurrent hypertensive crises; summaries report scintigraphically supported catecholamine-producing pheochromocytoma syndrome",
+    "actual_lourdes_connection": "Immediate well-being after Lourdes baths; patient connects change with prayer over forgiveness and meeting her physician husband immediately outside.",
+    "medical_dates": {
+      "bureau_meetings": [
+        "1989",
+        "1992",
+        "1994",
+        "1997",
+        "2010"
+      ],
+      "cmil_decision": "2011-11-19",
+      "patient_testimony_publication": "2019-05-05"
+    },
+    "physicians": [
+      {
+        "name": "Alessandro de Franciscis",
+        "institution": "Lourdes Medical Bureau",
+        "role": "Bureau president describing2010review"
+      }
+    ],
+    "access": "Official summary, medical vote description and retrospective first-person newspaper testimony; full endocrine dossier absent",
+    "evidence": [
+      "Long history of serious symptoms and multiple unsuccessful operations",
+      "Reported durable post-bath resolution",
+      "Five Bureau reviews and subsequent CMILassessment"
+    ],
+    "limits": [
+      "Original biochemical values, scintigraphy, histology and operation charts not obtained",
+      "Do not equate summary with independently verified instant disappearance of metastatic malignancy",
+      "No case-specific ordinary explanation established in this pass"
+    ],
+    "source_ids": [
+      "OLD-S1",
+      "N12",
+      "N13"
+    ],
+    "next_records": [
+      "Endocrine laboratory values before/after",
+      "Scintigraphy and histopathology",
+      "Surgical/treatment chronology",
+      "CMIL2011report",
+      "AMIL3172012pp10-12"
+    ],
+    "notes": "Access categories are documentary labels,not numerical probabilities. Recovery date governs period allocation."
+  },
+  {
+    "id": "MORIAU-2008",
+    "name": "Sister Bernadette Moriau",
+    "recognized_case_number": 70,
+    "recovery_date": "2008-07-11",
+    "decade": "2000s",
+    "ecclesiastical_recognition_date": "2018-02-11",
+    "status": "recognized_miracle",
+    "diagnosis": "Cauda equina syndrome/multiple lumbar-sacral radiculopathy after spinal operations, pain, left-foot paresis, bladder/bowel dysfunction",
+    "actual_lourdes_connection": "Pilgrimage including baths and sacraments; returned home still ill; recovery during/after adoration in Bresles days later, consciously in communion with Lourdes procession.",
+    "medical_dates": {
+      "first_bureau_review": "2009",
+      "bureau_finding": "2016-07-07",
+      "cmil_decision": "2016-11-18",
+      "firsthand_testimony_event": "2018-07-05",
+      "amil_publication": "2019-06"
+    },
+    "physicians": [
+      {
+        "name": "Christophe Fumery",
+        "institution": "Rural general practice,Bresles",
+        "role": "Treating doctor from2007 and post-recovery observer"
+      },
+      {
+        "name": "Alessandro de Franciscis",
+        "institution": "Lourdes Medical Bureau",
+        "role": "Investigation organizer/firsthand2019testimony"
+      },
+      {
+        "name": "Christophe Alliaume",
+        "institution": "Rheumatology; appointment not independently established here",
+        "role": "Dated2008letter quoted secondhand through memoir/critique"
+      },
+      {
+        "name": "Francesco DAlpa",
+        "institution": "Neurodiagnostica SSN-accredited specialist practice,Gravina di Catania",
+        "role": "Neurologist/neurophysiologist;2020critic without access to full dossier"
+      }
+    ],
+    "committee_vote": {
+      "yes": 26,
+      "no": 1,
+      "individual_dissent_reason": "Not recovered"
+    },
+    "access": "Firsthand2019treating-doctor/patient/investigator testimony plus official2018statement; no full specialist file or paired structural tests",
+    "evidence": [
+      "Treating doctor directly witnessed major functional improvement",
+      "Withdrawal of supports and pain control with reported restored bladder function",
+      "Long-term medical review and near-unanimous committee vote"
+    ],
+    "limits": [
+      "Residual atrophy/reflex/EMGfindings quoted in memoir via critic require original verification",
+      "Forty years of continuously total paralysis not established",
+      "Perfect anatomical restoration not established",
+      "DAlpa pain/disc-remodeling suggestion not demonstrated from patient scans"
+    ],
+    "source_ids": [
+      "OLD-S7",
+      "OLD-S8",
+      "N06",
+      "N07",
+      "N08"
+    ],
+    "next_records": [
+      "Original2008Fumery/Alliaume/Allaryletters",
+      "Before-after urodynamics,CT/MRI,EMG",
+      "2016CMILreport",
+      "AMIL3412018pp5-6notice",
+      "Original memoir passages underlying critical quotations"
+    ],
+    "notes": "Access categories are documentary labels,not numerical probabilities. Recovery date governs period allocation."
+  },
+  {
+    "id": "RACO-2009",
+    "name": "Antonia/Antonietta Raco (Lofiego)",
+    "recognized_case_number": 72,
+    "recovery_date": "2009-07/2009-08",
+    "decade": "2000s",
+    "ecclesiastical_recognition_date": "2025-04-16",
+    "status": "recognized_miracle",
+    "diagnosis": "Clinical primary lateral sclerosis; patient-specific diagnostic uncertainty explicitly debated",
+    "actual_lourdes_connection": "30July-5August2009pilgrimage; bishop2009letter reports unusual experience in bath; substantial function recovered by return home; subsequent progressive normalization.",
+    "medical_dates": {
+      "chio_report": "2009-09-25",
+      "bureau_report": "2010-03-17",
+      "silani_report": "2013-07-22",
+      "bureau_finding": "2017-09-12",
+      "cmil_inconclusive_vote": "2019-10",
+      "cmil_positive_vote": "2024-11",
+      "amil_publication": "2025-08"
+    },
+    "physicians": [
+      {
+        "name": "Adriano Chio",
+        "institution": "University of Turin,Department of Neuroscience/CRESLA",
+        "role": "Diagnosing/treating neurologist and dated pre/post observations"
+      },
+      {
+        "name": "Vincenzo Silani",
+        "institution": "University of Milan/Auxologico neurology",
+        "role": "Independent specialist clinical assessment2013;2020consensus coauthor"
+      },
+      {
+        "name": "Jean Pouget",
+        "institution": "University of Marseille neurology;CMIL",
+        "role": "Reviewer;2018accepted cure but disputed PLSdiagnosis"
+      },
+      {
+        "name": "Fernando Vazquez-Fernandez",
+        "institution": "Tarbes Hospital neurology",
+        "role": "Raised lack of instrumental diagnostic support in2016-2017"
+      },
+      {
+        "name": "Sandro de Franciscis",
+        "institution": "Lourdes Medical Bureau",
+        "role": "Author of2025case/review-history report"
+      }
+    ],
+    "quantitative_excerpts": {
+      "FVC_percent": [
+        {
+          "date": "2007-04",
+          "value": 56
+        },
+        {
+          "date": "2009-01",
+          "value": 62
+        },
+        {
+          "date": "2009-09-09",
+          "value": 93
+        }
+      ],
+      "other": "Serial MRCstrength scores,normalization of swallowing study and independent walking; raw tracings not retrieved"
+    },
+    "committee_votes": [
+      {
+        "year": 2019,
+        "yes": 12,
+        "no": 13,
+        "outcome": "No qualifying decision"
+      },
+      {
+        "year": 2024,
+        "yes": 17,
+        "no": 4,
+        "outcome": "Approved by two-thirds threshold"
+      }
+    ],
+    "access": "Published involved-investigator report reproduces treating/consulting clinical excerpts and votes; not complete raw clinical dossier",
+    "evidence": [
+      "Objective respiratory results plus serial clinical examinations",
+      "Specialist confirmation and long follow-up",
+      "Actual2020diagnostic criteria allow clinical diagnosis without abnormalMEP/MRI"
+    ],
+    "limits": [
+      "Initial abrupt functional improvement followed by progressive normalization,not instant imaged neuronal replacement",
+      "NormalMEP/MRIraises documented diagnostic debate but is not a categorical exclusion under2020consensus",
+      "Validation studies are not patient-specific proof and diagnostic-revision rates are not probability of natural cure",
+      "Supplied English PDFends at printed57thoughheader36-59"
+    ],
+    "source_ids": [
+      "OLD-S6",
+      "OLD-S12",
+      "OLD-S13",
+      "OLD-S19",
+      "N03",
+      "N04",
+      "N05"
+    ],
+    "next_records": [
+      "Full2009Chioand2013Silani reports",
+      "Original pre/post MEP/EMG/MRIand pulmonary/swallowing data",
+      "Treatment record",
+      "2024CMILpatient-specific diagnostic reasoning",
+      "Complete article if more pages exist"
+    ],
+    "notes": "Access categories are documentary labels,not numerical probabilities. Recovery date governs period allocation."
+  },
+  {
+    "id": "FRANCOIS-2002",
+    "name": "Serge Francois",
+    "recognized_case_number": null,
+    "recovery_date": "2002-04-12",
+    "decade": "2000s",
+    "ecclesiastical_recognition_date": "2011-03-27",
+    "status": "recognized_remarkable_healing_not_in72miracles",
+    "diagnosis": "Chronic leftS1sciatic pain and lumbar disability following disc surgery/postoperative complications",
+    "actual_lourdes_connection": "Prayer at grotto,contact with springwater,drinking and face washing; intense leg pain followed by relief after2-3minutes; renewed function next morning.",
+    "medical_dates": {
+      "first_bureau_report": "2003",
+      "cmil_remarkable_classification_reported": "2008-12-01",
+      "bishop_declaration": "2011-03-27"
+    },
+    "physicians": [],
+    "access": "Signed bishop declaration and2011firsthand magazine account; clinical dossier not obtained",
+    "evidence": [
+      "Published firsthand description",
+      "Eight-year durability and therapy-independent complete functional recovery attested in declaration",
+      "Explicit spring-water sequence"
+    ],
+    "limits": [
+      "Not one of72miracles",
+      "Not total pre-event immobility:some helper duties remained possible",
+      "No original structural imaging or examination data recovered"
+    ],
+    "source_ids": [
+      "N02",
+      "N15"
+    ],
+    "next_records": [
+      "Clinical file underlying2008CMILremarkable-healing assessment"
+    ],
+    "notes": "Access categories are documentary labels,not numerical probabilities. Recovery date governs period allocation."
+  },
+  {
+    "id": "NADINE-2004-LEAD",
+    "name": "Nadine (surname not recovered)",
+    "recognized_case_number": null,
+    "recovery_date": "2004",
+    "decade": "2000s",
+    "ecclesiastical_recognition_date": null,
+    "status": "additional_remarkable_healing_lead_not_in72",
+    "diagnosis": "Unclassified myopathy according to2011magazine account",
+    "actual_lourdes_connection": "Sixth pilgrimage; recovery after private prayer to Our Lady at Lourdes",
+    "access": "Short first-person narrative on same2011magazine page; no independent clinical record",
+    "source_ids": [
+      "N02"
+    ],
+    "limits": [
+      "No surname,original diagnostic or committee document recovered",
+      "Do not give equal weight to cases with clinical records"
+    ],
+    "next_records": [
+      "Identification and relevant2008CMILrecord"
+    ],
+    "notes": "Access categories are documentary labels,not numerical probabilities. Recovery date governs period allocation."
+  }
+]

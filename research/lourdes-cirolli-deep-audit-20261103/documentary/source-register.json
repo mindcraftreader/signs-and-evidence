@@ -1,0 +1,79 @@
+{
+  "retrieved": "2026-11-03",
+  "primary_programme_recording": {
+    "url": "https://www.youtube.com/watch?v=xr-hgKemauY",
+    "uploader": "GuildfordGhost",
+    "rights_status": "Not established; not verified rights holder",
+    "access": "Metadata and en-orig automatic captions retrieved; no media downloaded or frames watched",
+    "caption_scope": "Entire text searched; 36:30–44:40 closely read",
+    "caption_type": "automatic; not manually certified",
+    "relevant_intervals": [
+      "41:01–41:48",
+      "42:02–42:56"
+    ],
+    "verbatim_quote_limit_note": "Use report paraphrases; do not paste extended programme transcript as response."
+  },
+  "primary_production_credit": {
+    "url": "https://marengo.tv/credits/single-films/",
+    "read_scope": "Programme credit and production companies"
+  },
+  "institutional_copy_catalogue": {
+    "url": "https://columbans.ie/wp-content/uploads/2017/11/Dalgan-VideoLibrary-Catalogue.pdf",
+    "read_scope": "PDF page 5 extracted/rendered/personally viewed",
+    "item": "disc 044; 1998; 60 min; DVD/VHS; Equinox CH4 series"
+  },
+  "secondary_claim": {
+    "url": "https://www.cis.org.uk/serve.php?filename=scb-29-2-may.pdf",
+    "read_scope": "Parent acquired and read pp128–129; search-engine indexed text inspected by child",
+    "status": "No independent signed pathology report retrieved"
+  },
+  "files": [
+    {
+      "local_file": "research/lourdes-cirolli-deep-audit-20261103/documentary/sources/dalgan-page5.png",
+      "bytes": 461256,
+      "sha256": "a98a4573d613e77c705c1b0e4304914f651b59a2afea16ad613ffab5e85bc48d"
+    },
+    {
+      "local_file": "research/lourdes-cirolli-deep-audit-20261103/documentary/sources/dalgan-video-library-catalogue.pdf",
+      "bytes": 232367,
+      "sha256": "a6f7a5a360bca407628f7366c69aec8b5ab0f275a2c2f9bc3d8987123611ed3d"
+    },
+    {
+      "local_file": "research/lourdes-cirolli-deep-audit-20261103/documentary/sources/dalgan-video-library-catalogue.txt",
+      "bytes": 44157,
+      "sha256": "fd3e806f562cff33000e8dc73788c5f16aacdbc0e2edc0c1fef07b988c2642c6"
+    },
+    {
+      "local_file": "research/lourdes-cirolli-deep-audit-20261103/documentary/sources/equinox-en-auto.json3",
+      "bytes": 781597,
+      "sha256": "e1c484242c2dbe9dba3db0057c357c7b69f8df25c7bdad72ccf99035f9e64473"
+    },
+    {
+      "local_file": "research/lourdes-cirolli-deep-audit-20261103/documentary/sources/equinox-en-auto.txt",
+      "bytes": 45368,
+      "sha256": "32bcd608021a301643d767fa2be1bae3ca86ce5238ccfdb78c65abdfee81644e"
+    },
+    {
+      "local_file": "research/lourdes-cirolli-deep-audit-20261103/documentary/sources/equinox-youtube-metadata.json",
+      "bytes": 4370924,
+      "sha256": "2af0cdf3777df48807335b10965694171ed4e30d2e31482cc050a1eb20f2a202"
+    },
+    {
+      "local_file": "research/lourdes-cirolli-deep-audit-20261103/documentary/sources/marengo-primary-filmography.html",
+      "bytes": 59462,
+      "sha256": "f683e3a1ab25f80981cd2661046c12b7f05201dbd323d7c2e16a48d9405587ad"
+    },
+    {
+      "local_file": "research/lourdes-cirolli-deep-audit-20261103/documentary/sources/retrieval-status.json",
+      "bytes": 694,
+      "sha256": "fd61236c4d5922bec54337580c7c4cbcda917a619c4295426c9328d1b8b1ac21"
+    }
+  ],
+  "unresolved": [
+    "Identity of interviewee via lower third",
+    "Exact original audio",
+    "Whether any physical slides were personally reviewed by Pritchard-Jones",
+    "Original written pathology opinion",
+    "Completeness and authorization of public upload"
+  ]
+}

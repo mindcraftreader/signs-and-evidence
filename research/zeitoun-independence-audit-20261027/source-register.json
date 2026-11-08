@@ -1,0 +1,224 @@
+{
+  "audit_date": "2026-10-27",
+  "scope": "Public apparition, testimony independence, expectation and lights-out claims",
+  "sources": [
+    {
+      "id": "N73",
+      "author": "Cynthia Nelson",
+      "affiliation": "American University in Cairo; author note also lists preceding year at Institute of International Studies, UC Berkeley",
+      "title": "The Virgin of Zeitoun",
+      "publication_date": "1973-09",
+      "observations": [
+        "1968-04-15",
+        "later April1968",
+        "1968-06-01"
+      ],
+      "doi": "10.1017/S0084255900019951",
+      "url": "https://www.cambridge.org/core/journals/worldview/article/abs/virgin-of-zeitoun/790CA1806EB0C929371244686C0F2178",
+      "retrieval_url": "https://web.archive.org/web/20210923091215id_/https://carnegiecouncil-media.storage.googleapis.com/files/v16_i009_a003.pdf",
+      "local": "sources/nelson-1973.pdf",
+      "status": "Complete7-page original PDF recovered; all pages text-read/rendered/visually inspected",
+      "primary_scope": "Own field observations and interviews; not firsthand observer of every report summarized",
+      "pages": {
+        "5": "early woman interview: police breaking lamps; source author affiliation",
+        "6": "corrected white-shirt false alarm; attention-sensitive outline in palm light; disconnected streetlights; AlAhram report quoted",
+        "8": "June1 flashes and headlights question; crowd reports traffic excluded",
+        "9": "Muslim witness and Marian background; post-event prophecy stories",
+        "10": "shifting social interpretations",
+        "11": "educated witnesses and critics who refused to visit"
+      },
+      "dependencies": [
+        "Initial garage testimony through contemporary newspapers",
+        "May4 press conference via AlAhramMay5"
+      ],
+      "independence_assessment": "Separate firsthand observer and interviewer; her lamps-broken witness unnamed, not guaranteed isolated from public narratives"
+    },
+    {
+      "id": "M68",
+      "author": "William Farid Basili",
+      "affiliation": "Director, Ministry of Tourism Department of Inquiries and Complaints, Egypt",
+      "publication_date": "1968-04-30",
+      "url": "https://ourladyofzeitoun.com/en/report/ministry-of-tourism-department-of-inquiries/",
+      "local": "../zeitoun-investigation-records-20261027/sources/ministry-en.txt",
+      "original_scan": "../zeitoun-investigation-records-20261027/sources/ministry-report-ar-page-3.jpg",
+      "status": "Contemporary signed-report reproduction; Arabicp3 rechecked visually",
+      "scope": "Collected government affirmative narrative, not a recoverable circuit/search log",
+      "dependencies": [
+        "quotes church committee and other witnesses"
+      ],
+      "independence_assessment": "One source chain for lighting-test narrative; official signature does not supply independent measurement for every claim"
+    },
+    {
+      "id": "C68",
+      "author": [
+        "Girgis Matta",
+        "Youhanna Abdel-Messih",
+        "Benjamin Kamel"
+      ],
+      "affiliation": "Three priests on Coptic patriarchal committee",
+      "publication_date": "1968-04-30",
+      "observations": "Several nights after commission23April, exact nights unspecified",
+      "url": "https://ourladyofzeitoun.com/en/report/report-of-the-committee-formed-by-his-holiness-the-pope-to-verify-the-authenticity-of-the-apparitions-of-the-virgin-mary/",
+      "local": "../zeitoun-investigation-records-20261027/sources/committee-en.txt",
+      "status": "Printed Arabic reproduction pp3-4 visually rechecked; names under signatures heading, not handwritten signatures",
+      "scope": "Named garage interviews plus authors own reported figure/gesture/bird observations",
+      "independence_assessment": "One joint observation cluster; distinguish garage interview chain from own observations",
+      "translation_issue": "English titles bishop/archbishop differ from Arabic priestly roles"
+    },
+    {
+      "id": "W68",
+      "author": "Watani newspaper; named interviewees and MichelTekla article",
+      "publication_date": "1968-05-05",
+      "observations": "April1968, including27-28April and30April",
+      "url": "https://ourladyofzeitoun.com/en/newspaper/watani-newspaper-may-5-1968/",
+      "local": "../zeitoun-investigation-records-20261027/sources/watani-1968-05-05-en.txt",
+      "status": "Complete current English transcription read; not every corresponding Arabic paragraph retranslated",
+      "dependencies": [
+        "M68 reprinted explicitly",
+        "Patriarchal May4 press conference",
+        "Separate named witness reports"
+      ],
+      "independence_assessment": "Lighting reproduction not independent experiment; named personal reports are separate claimants with documented prior exposure",
+      "witnesses": [
+        "Bishop Athanasius of BeniSuef",
+        "Louis Marcos, English Department head AinShamsUniversity per report",
+        "MichelTekla airline administrator",
+        "AirForceMajor AsaadIskandar",
+        "Lawyer ZakiShenouda",
+        "Judge WahbiSalama"
+      ],
+      "translation_issue": "Tekla7:20-8:10 described as1h10 despite50min interval"
+    },
+    {
+      "id": "P68",
+      "author": "Coptic Orthodox Patriarchate",
+      "publication_date": "1968-05-04",
+      "url": "https://ourladyofzeitoun.com/en/report/statement-by-the-coptic-orthodox-patriarch/",
+      "local": "../zeitoun-investigation-records-20261027/sources/patriarch-1968-05-04-en.txt",
+      "scope": "Official synthesis of submitted reports",
+      "dependencies": [
+        "committee reports and other witnesses"
+      ],
+      "independence_assessment": "Official approval rather than another personal sighting by the patriarch"
+    },
+    {
+      "id": "A69",
+      "author": "Bishop Athanasius as interviewed by Fr Jerome Palmer",
+      "affiliation": "Bishop of BeniSuef; Palmer Benedictine monk",
+      "publication_date": "1969",
+      "observations": "1968, specific narrative date conflicted in current transcription",
+      "url": "https://ourladyofzeitoun.com/en/eyewitness/h-g-bp-athanasius-the-late-mertopolite-of-beni-suef/",
+      "local": "sources/athanasius.txt",
+      "original_reference": "Our Lady Returns to Egypt pp21-24",
+      "status": "Current English reproduction saved/read; original1969 book pages not retrieved",
+      "independence_assessment": "Same observer as W68, expanded personal testimony not a new witness",
+      "issues": [
+        "Introduction29-30April vs narrative6April",
+        "Cannot distinguish fine facial features explicitly"
+      ]
+    },
+    {
+      "id": "ZT79",
+      "author": "Zeinab Taher interviewed by Michel Nil",
+      "affiliation": "Muslim housewife near Zeitoun church",
+      "publication_date": "1979 per Ouellet bibliography; exact imprint not independently inspected",
+      "observations": "1968-69, particular night not dated",
+      "url": "https://ourladyofzeitoun.com/en/eyewitness/zeinab-taher-2/",
+      "local": "sources/zeinab.txt",
+      "original_reference": "MichelNil, The Apparitions of the Virgin in Egypt1968-1969 pp46-58",
+      "status": "Current reproduction saved/read; originalbook pages not retrieved",
+      "scope": "Personal luminousfigure and clothing description; ending turning/walking explicitly relayed from daughter and onlookers",
+      "independence_assessment": "Different named observer, exposed to prior rumors; no proof account copied"
+    },
+    {
+      "id": "VG79",
+      "author": "Vivian Sami Goubran interviewed by Michel Nil",
+      "affiliation": "Egyptian Christian witness",
+      "publication_date": "1979 per Ouellet bibliography; exact imprint not independently inspected",
+      "observations": [
+        "1968-09-11",
+        "several other nights"
+      ],
+      "url": "https://ourladyofzeitoun.com/en/eyewitness/vivian-sami-goubran/",
+      "local": "sources/vivian.txt",
+      "original_reference": "MichelNil book p81",
+      "status": "Current reproduction saved/read",
+      "scope": "Repeated figure and gesture observations; explicitly limited fine features by distance",
+      "independence_assessment": "Separate named observer; shared compiler and family context; publication later"
+    },
+    {
+      "id": "KM96",
+      "author": "Khairy Malek",
+      "affiliation": "Physician, Coptic Christian; current archive gives MD PhD",
+      "publication_date": "1996",
+      "observations": "1968-05-04 and preceding visits",
+      "url": "https://ourladyofzeitoun.com/en/eyewitness/dr-khairy-malek-m-d-phd/",
+      "local": "sources/khairy.txt",
+      "original_reference": "Kamell, JohnJackson and RebeccaJackson, A Lady of Light Appears in Egypt pp71-72",
+      "status": "Current reproduction saved/read; originalbook pages not retrieved",
+      "scope": "Lights/birds on early visits; close detailed figure and gestures May4",
+      "independence_assessment": "Different personal witness, latepublished, explicit radio exposure before detailed sighting"
+    },
+    {
+      "id": "B96",
+      "author": "Fr Abdel-Masih Baseet AbuEl-Khair",
+      "affiliation": "Coptic priest and apologetics teacher; age17 at reported observation",
+      "publication_date": "1996",
+      "observations": "MidApril1968",
+      "url": "https://ourladyofzeitoun.com/en/eyewitness/fr-abd-el-masih-baseet-abu-el-khair/",
+      "local": "sources/baseet.txt",
+      "original_reference": "Apparitions of the Virgin Mary around the world and their significance pp89-90",
+      "status": "Current reproduction saved/read",
+      "scope": "Personal figure, olivebranch, handmovement, bowing",
+      "independence_assessment": "Separate personal claimant, latepublished; explicitly arrived after news and crowd cue"
+    },
+    {
+      "id": "SG",
+      "author": "Compilation attributed to Bishop Gregorios",
+      "affiliation": "Coptic bishop for Higher Studies and Scientific Research",
+      "url": "https://ourladyofzeitoun.com/en/report/scenes-of-the-apparition/",
+      "local": "sources/scenes.txt",
+      "status": "Current compilation saved/read",
+      "independence_assessment": "Multiple source excerpts, cannot count as one independent observer of all events"
+    },
+    {
+      "id": "Z77",
+      "author": "Pearl Zaki",
+      "affiliation": "American visitor and personal witness to some appearances",
+      "publication_date": "1977",
+      "url": "https://www.miraclehunter.com/marian_apparitions/approved_apparitions/zeitun/OLMVE.pdf",
+      "local": "../zeitoun-investigation-records-20261027/sources/zaki-our-lords-mother-visits-egypt.pdf",
+      "relevant_pages": "printed22, PDFpage26",
+      "status": "Relevant pre-existing OCR and pagepreview checked",
+      "scope": "Later broad authority/search/garage-removal narrative",
+      "independence_assessment": "15mile search claim lacks inspected original police record here; do not count as second controlled test"
+    },
+    {
+      "id": "DP89",
+      "author": [
+        "JohnS.Derr",
+        "MichaelA.Persinger"
+      ],
+      "affiliation": [
+        "Golden, Colorado per publisher",
+        "Department of Psychology, Laurentian University"
+      ],
+      "publication_date": "1989-02",
+      "doi": "10.2466/pms.1989.68.1.123",
+      "url": "https://journals.sagepub.com/doi/10.2466/pms.1989.68.1.123",
+      "status": "Publisher abstract read only; fullpaper not retrieved",
+      "scope": "Reported monthly0.56 correlation and regional seismicity hypothesis",
+      "independence_assessment": "Scientific hypothesis with reported association; no church-source measurement or humanfigure demonstration"
+    },
+    {
+      "id": "D24",
+      "author": "Travis Dumsday",
+      "affiliation": "Associate Professor of Philosophy, Concordia University of Edmonton",
+      "publication_date": "2024",
+      "url": "https://svspress.com/the-marian-apparitions-at-zeitoun-an-evidential-inquiry/",
+      "status": "Publisher description and universityCV checked; booknotread",
+      "scope": "Book argues naturalistic explanations fail and supernatural is strongly supported",
+      "independence_assessment": "Secondary philosophical appraisal, not another eyewitness"
+    }
+  ]
+}

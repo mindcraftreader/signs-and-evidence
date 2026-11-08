@@ -1,0 +1,23 @@
+{
+  "date": "2026-10-28",
+  "narrative_context_entries": 62,
+  "source_issue_groups": 15,
+  "scan_checked_entry_counts": {
+    "scan_core_checked": 22,
+    "scan_partial_checked": 3,
+    "archive_translation_lead": 32,
+    "scan_clock_checked": 4,
+    "scan_excerpt_checked": 1
+  },
+  "downloaded_html_pages": 34,
+  "downloaded_image_files": 34,
+  "associated_scan_files": 32,
+  "associated_unique_scan_hashes": 32,
+  "duplicate_scan_groups": [],
+  "record_ids_unique": true,
+  "source_ids_unique": true,
+  "all_associated_scans_exist": true,
+  "inline_javascript_syntax": "node --check passed",
+  "live_browser_interaction": "Not performed",
+  "source_rights": "Source scans saved for research; only short expressively quoted excerpts reproduced with translations; English narratives labeled factual summaries."
+}

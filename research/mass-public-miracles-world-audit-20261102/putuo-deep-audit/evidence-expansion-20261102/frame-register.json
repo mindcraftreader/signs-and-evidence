@@ -1,0 +1,83 @@
+{
+  "source_url": "https://xuexi.12371.cn/2013/07/30/VIDE1375153186123274.shtml",
+  "scope": "Paused samples; not continuous viewing or a motion/duration analysis. Full web page context retained.",
+  "frames": [
+    {
+      "requested_seconds": 60,
+      "displayed_time": "1:00",
+      "file": "research/mass-public-miracles-world-audit-20261102/putuo-deep-audit/evidence-expansion-20261102/page-images/cctv-060s.png",
+      "sha256": "21ba32cafe18002b69f25546460367c4e3eb944f9a189d5920a18a822469ce1a",
+      "method": "Browser player paused and sought with five-second keyboard steps; screenshot, not original camera frame export."
+    },
+    {
+      "requested_seconds": 65,
+      "displayed_time": "1:05",
+      "file": "research/mass-public-miracles-world-audit-20261102/putuo-deep-audit/evidence-expansion-20261102/page-images/cctv-065s.png",
+      "sha256": "a48d441e23241897592e37d7789bdf327758a38b0216daa58642a26455d6452c",
+      "method": "Browser player paused and sought with five-second keyboard steps; screenshot, not original camera frame export."
+    },
+    {
+      "requested_seconds": 70,
+      "displayed_time": "1:10",
+      "file": "research/mass-public-miracles-world-audit-20261102/putuo-deep-audit/evidence-expansion-20261102/page-images/cctv-070s.png",
+      "sha256": "e7be291a0aba30c31200cb1f871a42707c5ea14428e8358ef01c1bfab8edecab",
+      "method": "Browser player paused and sought with five-second keyboard steps; screenshot, not original camera frame export."
+    },
+    {
+      "requested_seconds": 75,
+      "displayed_time": "1:15",
+      "file": "research/mass-public-miracles-world-audit-20261102/putuo-deep-audit/evidence-expansion-20261102/page-images/cctv-075s.png",
+      "sha256": "6d28d2312e9d537b0c3112ae86b9130508f227dee239c4aac658a561678e5712",
+      "method": "Browser player paused and sought with five-second keyboard steps; screenshot, not original camera frame export."
+    },
+    {
+      "requested_seconds": 80,
+      "displayed_time": "1:20",
+      "file": "research/mass-public-miracles-world-audit-20261102/putuo-deep-audit/evidence-expansion-20261102/page-images/cctv-080s.png",
+      "sha256": "f8580017e9bc5c443043f21e6f7283db2c1670947da0d07496f000007e40a92d",
+      "method": "Browser player paused and sought with five-second keyboard steps; screenshot, not original camera frame export."
+    },
+    {
+      "requested_seconds": 85,
+      "displayed_time": "1:25",
+      "file": "research/mass-public-miracles-world-audit-20261102/putuo-deep-audit/evidence-expansion-20261102/page-images/cctv-085s.png",
+      "sha256": "486e85de0468cdacd5bb1a64612cbbe4b295d993ca0473c3b27f859cc6b62bdc",
+      "method": "Browser player paused and sought with five-second keyboard steps; screenshot, not original camera frame export."
+    },
+    {
+      "requested_seconds": 90,
+      "displayed_time": "1:30",
+      "file": "research/mass-public-miracles-world-audit-20261102/putuo-deep-audit/evidence-expansion-20261102/page-images/cctv-090s.png",
+      "sha256": "2a3981ff2facec40b62d120b78209de23c3f4def76eb262a8b0a1fb68de25cf4",
+      "method": "Browser player paused and sought with five-second keyboard steps; screenshot, not original camera frame export."
+    },
+    {
+      "requested_seconds": 95,
+      "displayed_time": "1:35",
+      "file": "research/mass-public-miracles-world-audit-20261102/putuo-deep-audit/evidence-expansion-20261102/page-images/cctv-095s.png",
+      "sha256": "7d928274820b62d93fd653f5ca17e28e8b74944e0822a0f5a835ca2ef86c0f3c",
+      "method": "Browser player paused and sought with five-second keyboard steps; screenshot, not original camera frame export."
+    },
+    {
+      "requested_seconds": 100,
+      "displayed_time": "1:40",
+      "file": "research/mass-public-miracles-world-audit-20261102/putuo-deep-audit/evidence-expansion-20261102/page-images/cctv-100s.png",
+      "sha256": "07ef1a2c9bd595932d32afa48bb52393a73022783966800b6b072b42e63555da",
+      "method": "Browser player paused and sought with five-second keyboard steps; screenshot, not original camera frame export."
+    },
+    {
+      "requested_seconds": 105,
+      "displayed_time": "1:45",
+      "file": "research/mass-public-miracles-world-audit-20261102/putuo-deep-audit/evidence-expansion-20261102/page-images/cctv-105s.png",
+      "sha256": "475aa5ea6addb918040dc9f5d3cf4831fadb72cc0089d5d3f4aeae4b11df4a64",
+      "method": "Browser player paused and sought with five-second keyboard steps; screenshot, not original camera frame export."
+    },
+    {
+      "requested_seconds": 110,
+      "displayed_time": "1:50",
+      "file": "research/mass-public-miracles-world-audit-20261102/putuo-deep-audit/evidence-expansion-20261102/page-images/cctv-110s.png",
+      "sha256": "ceef3e138a872c9eeffe616c53fd227948bfadbcbf2301d9f208a8b6a37a9c5b",
+      "method": "Browser player paused and sought with five-second keyboard steps; screenshot, not original camera frame export."
+    }
+  ]
+}

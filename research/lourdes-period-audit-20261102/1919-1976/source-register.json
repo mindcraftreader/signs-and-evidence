@@ -1,0 +1,191 @@
+[
+  {
+    "id": "M1",
+    "title": "Sanctuary official 72-case list",
+    "url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+    "local_file": "research/lourdes-medical-audit-20261101/sources/official-cases-it.html",
+    "reading_scope": "All 72 published entries screened; not all underlying medical dossiers obtained.",
+    "sha256": "f1b3659ae6a46c82c6b8195dfa1636f292f61b16babc27e4b9c74ffc55b3f149",
+    "new_acquisition": false,
+    "fresh_review_scope": "Earlier documented scope retained; no new complete fresh review claimed."
+  },
+  {
+    "id": "M2",
+    "title": "Jim Garner, CMAJ associate editor, 1974",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1955914/",
+    "local_file": "research/lourdes-medical-audit-20261101/sources/garner-1974-pmc.html",
+    "reading_scope": "Micheli and Traynor sections read; all six canonical journal page scans saved; pp1257/1259 visually inspected. Author was a journalist/editor, not identified as a physician; he reports restricted original-record access.",
+    "sha256": "a067eb76580df715e921f43b723d52e5107ec600eebbb145318bff738502539f",
+    "new_acquisition": false,
+    "fresh_review_scope": "CMAJ pp.1257 and1259 visually rechecked: treatment claim and dated radiographs."
+  },
+  {
+    "id": "M3",
+    "title": "Barbara A Neilan, Regional Hematology Oncology, 2013",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6027009/",
+    "local_file": "research/lourdes-medical-audit-20261101/sources/neilan-micheli-2013.html",
+    "reading_scope": "Entire substantive article read. Secondary clinical account derived with permission from Salmon medical report; no actual image plates in this article.",
+    "sha256": "7e1ec1ea769acefc6f1b538ba3aea4202937bc79da470701b1788c2d308299c9",
+    "new_acquisition": false,
+    "fresh_review_scope": "Entire substantive article re-read from saved text."
+  },
+  {
+    "id": "M4",
+    "title": "Auguste Vallet, original 1926 medical record / AMIL 2025 translation",
+    "url": "[private link omitted]",
+    "local_file": "research/lourdes-medical-audit-20261101/sources/traynor-minutes-french-scan.pdf",
+    "reading_scope": "Original four-page newspaper scan saved, relevant original pages2/3 and masthead inspected. Entire14-page English translation read.",
+    "sha256": "7d4580a52eed341a9035bbac8b8a879cad88421696234d6f0337f2d292c2047e",
+    "new_acquisition": false,
+    "fresh_review_scope": "French pages2/3 visually rechecked; English translation pp.12–19 read. Original1923 sheets not retrieved."
+  },
+  {
+    "id": "M5",
+    "title": "Archbishop Malcolm McMahon, 8 December 2024 declaration",
+    "url": "https://www.lourdes-france.org/wp-content/uploads/2024/12/Statement-on-John-Traynor-Case-FINAL.pdf",
+    "local_file": "research/lourdes-medical-audit-20261101/sources/traynor-archbishop-2024.pdf",
+    "reading_scope": "Complete two-page statement read. Institutional account of archival review, not original wartime medical charts.",
+    "sha256": "a0d13dfa12d7f39851462ecc33d8205e39bdb141b8b210abf7c1c19dda1d58bd",
+    "new_acquisition": false,
+    "fresh_review_scope": "Earlier documented scope retained; no new complete fresh review claimed."
+  },
+  {
+    "id": "M9",
+    "title": "St John Dowling MB MRCGP, GP and CMIL member, 1984",
+    "url": "https://doi.org/10.1177/014107688407700803",
+    "local_file": "research/lourdes-medical-audit-20261101/sources/dowling-pmc-html.html",
+    "reading_scope": "Publisher PDF text read, notably Cirolli analysis pp636-637 and assessment methodology; canonical PMC journal page PNGs saved. PDF download attempt returned challenge HTML and is not counted as a valid local PDF.",
+    "sha256": "31e5183494641f4ac034fbd9c6676b3da0841a1b0c6aaf7ac2a1cb3108861e0b",
+    "new_acquisition": false,
+    "fresh_review_scope": "JRSM pp.636–637 visually rechecked; remaining reading scope inherited."
+  },
+  {
+    "id": "M10",
+    "title": "Comité des travaux historiques et scientifiques, Salmon biography",
+    "url": "https://cths.fr/an/savant.php?id=4692",
+    "local_file": "research/lourdes-medical-audit-20261101/sources/salmon-credential-cths.html",
+    "reading_scope": "Institutional historical credential source checked.",
+    "sha256": "a6173e044413fa07cdd5568e54cff9c17acf3ab7924d064b01dfb4f67084aaee",
+    "new_acquisition": false,
+    "fresh_review_scope": "Earlier documented scope retained; no new complete fresh review claimed."
+  },
+  {
+    "id": "M17",
+    "title": "Dissing/Heerfordt/Schiødt/Sneppen, Copenhagen, Acta Orthop1978",
+    "url": "https://actaorthop.org/actao/article/download/29079/33959/82545",
+    "local_file": "research/lourdes-medical-audit-20261101/sources/dissing-natural-regression-1978.pdf",
+    "reading_scope": "Complete five-page primary case report read; radiographs/histology present. Medical comparator, not a documented religious-vindication claim.",
+    "sha256": "3a97b7dff83b5d083755749f81c1826ef28dbda1a2ffc3f03b6a97cb1dcf8c1b",
+    "new_acquisition": false,
+    "fresh_review_scope": "Complete five-page text re-read; earlier figure inspection retained, not newly repeated."
+  },
+  {
+    "id": "M18",
+    "title": "Bernard François (Lyon1), Esther Sternberg (NIH), Elizabeth Fee (NLM), 2012/2014",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3854941/",
+    "local_file": "research/lourdes-medical-audit-20261101/sources/francois-sternberg-fee-2012.html",
+    "reading_scope": "Methods, relevant tables, substantive critical assessment, conclusions and cited case reports read. Original archival data described by authors; not independently re-examined here.",
+    "sha256": "a521784cf00c06ca656931b978dbc315002583320639251492c057c218bf9331",
+    "new_acquisition": false,
+    "fresh_review_scope": "Relevant tables, footnotes30/47 and discussion re-read; no independent archival re-examination."
+  },
+  {
+    "id": "N1",
+    "title": "Vallet1926 original report, direct Sanctuary URL",
+    "url": "https://www.lourdes-france.org/wp-content/uploads/2024/12/ATTACHMENT-1.A-JOURNAL-Pages-entieres-DE-LA-GROTTE-DE-LOURDES_1926_52.pdf",
+    "local_file": "research/lourdes-period-audit-20261102/1919-1976/sources/original-traynor-1926.pdf",
+    "sha256": "7d4580a52eed341a9035bbac8b8a879cad88421696234d6f0337f2d292c2047e",
+    "access": "A",
+    "reading_scope": "Same hash as old copy. Original pages2/3 visually checked; not an independent second report.",
+    "new_acquisition": false
+  },
+  {
+    "id": "N2",
+    "title": "Western Front Association, Traynor,19December2024",
+    "url": "[private link omitted]",
+    "local_file": "research/lourdes-period-audit-20261102/1919-1976/sources/wfa-traynor-2024.html",
+    "sha256": "7fbfe1f84035a8284db6363a4b8ca2caba38fed468e0d22e2cda799a81c2da6c",
+    "access": "C",
+    "reading_scope": "Substantive article read; pension card inspected. Military-history organization, not clinical examiner.",
+    "new_acquisition": true
+  },
+  {
+    "id": "N3",
+    "title": "Original pension-card image reproduced by WFA",
+    "url": "[private link omitted]",
+    "local_file": "research/lourdes-period-audit-20261102/1919-1976/sources/wfa-traynor-pension-card.jpg",
+    "sha256": "7217509e6ab30bec41d871340228ff78ecf09dd0da724acf0b47d4b47561b3fc",
+    "access": "A",
+    "reading_scope": "Full image inspected: identity, RNR service, address, right-chest gunshot injury and birth year. Administrative index/routing card, not a full medical dossier; handwritten correspondence not fully transcribed.",
+    "new_acquisition": true
+  },
+  {
+    "id": "N4",
+    "title": "CCFr: French Salmon1995 report,56pages",
+    "url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/0017270344",
+    "local_file": "research/lourdes-period-audit-20261102/1919-1976/sources/salmon-report-french-catalog.html",
+    "sha256": "f7e0af6c81341edf61d81b22b3c588083cea7f32c9a6bbac5d37ec23d0967fd4",
+    "access": "D",
+    "reading_scope": "Metadata and Tarbes call number8°BR1546 checked; report itself not retrieved.",
+    "new_acquisition": true
+  },
+  {
+    "id": "N6",
+    "title": "Christian Delourmel, SPP2014 lecture/web2015",
+    "url": "[private link omitted]",
+    "local_file": "research/lourdes-period-audit-20261102/1919-1976/sources/spp-2015-micheli.html",
+    "sha256": "da49a500d178ff20d683fd295695d7c082bd5540d2a4fae000df6d46b589215d",
+    "access": "B/C",
+    "reading_scope": "Micheli subsection, author and date read; not whole article. Former GP and psychoanalytic author, not a firsthand Micheli examiner.",
+    "new_acquisition": true
+  },
+  {
+    "id": "N7",
+    "title": "Christian Delourmel, SPP2017 text",
+    "url": "[private link omitted]",
+    "local_file": "research/lourdes-period-audit-20261102/1919-1976/sources/spp-2017-destructivite.html",
+    "sha256": "09bdb340e29a9c1e1d4ba26004a6726cad1212b8b8b5087c818096274fc7ef15",
+    "access": "B/C",
+    "reading_scope": "Full Micheli subsection read, including Salmon page references and offer of complete observation to readers. Proposed psychosomatic interpretation not an experimentally established cause.",
+    "new_acquisition": true
+  },
+  {
+    "id": "N8",
+    "title": "BNF: Trifaud/Colvin, French1989 Cirolli report",
+    "url": "https://catalogue.bnf.fr/ark:/12148/cb35041825p",
+    "local_file": "research/lourdes-period-audit-20261102/1919-1976/sources/cirolli-report-french-catalog.html",
+    "sha256": "3defa7806dfd42d73076f0c9574649138107a81f473b2082198abd27335e9b52",
+    "access": "D",
+    "reading_scope": "47pages,8-KPIECE-2500, metadata checked; monograph not retrieved.",
+    "new_acquisition": true
+  },
+  {
+    "id": "N9",
+    "title": "BNF: Trifaud/Colvin, English1990 Cirolli report",
+    "url": "https://catalogue.bnf.fr/ark:/12148/cb35068926d",
+    "local_file": "research/lourdes-period-audit-20261102/1919-1976/sources/cirolli-report-english-catalog.html",
+    "sha256": "2ab9de547f07339c58ebf496a4f2eb5567b17931a22c3c4f9243f4e65e61089b",
+    "access": "D",
+    "reading_scope": "47pages,8-KPIECE-2501, metadata checked; monograph not retrieved.",
+    "new_acquisition": true
+  },
+  {
+    "id": "N10",
+    "title": "Dirk Johan Kruijthoff, VU doctoral thesis2023",
+    "url": "https://research.vu.nl/ws/portalfiles/portal/220521157/proefschrift%20healing%20after%20prayer%20digitaal%20-%20641387f9ca42e.pdf",
+    "local_file": "research/lourdes-period-audit-20261102/1919-1976/sources/vu-healing-prayer-thesis.pdf",
+    "sha256": "a6ab2042d9353fde85066e1e54fff6255719d4a4b71515c344326e775bfdfbdb",
+    "access": "B",
+    "reading_scope": "Degree/title and printedpp.28–32 read; pp.29–30 rendered and visually checked. Reports personally inspecting Lourdes booklets in2012. Physician; doctoral degree from Faculty of Religion and Theology, not a medical doctorate awarded by this thesis. Not entire246pages read.",
+    "new_acquisition": true
+  },
+  {
+    "id": "N5",
+    "title": "CCFr: English Salmon1995 report52pages",
+    "url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/0017270345",
+    "local_file": null,
+    "access": "D",
+    "reading_scope": "Catalogue checked on web; Tarbes8°BR1548. Full report not retrieved.",
+    "new_acquisition": false
+  }
+]

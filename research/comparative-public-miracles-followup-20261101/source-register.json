@@ -1,0 +1,147 @@
+{
+  "date": "2026-11-01",
+  "sources": [
+    {
+      "id": "N01",
+      "title": "Kenya Times, 22 June 1988, pp.16–17",
+      "url": "https://web.stanford.edu/~ichriss/N1",
+      "role_and_limits": "Original newspaper-page reproduction; visually read. Journalist Job Mutungi. Photograph credited in article to Francis Kaburu. Host is Ilias Chrissochoidis personal page, not Stanford endorsement.",
+      "local_file": "sources/nairobi-kenya-times-19880622.jpg",
+      "bytes": 6434227,
+      "sha256": "aa448eb789b1cfca2fb7c31f8dee3f51e260965933cea548dc356832f3d7c45c",
+      "access": "downloaded"
+    },
+    {
+      "id": "N02",
+      "title": "Sunday Times (Kenya), 26 June 1988, pp.12,17",
+      "url": "https://web.stanford.edu/~ichriss/N2",
+      "role_and_limits": "Original page reproduction; visually read. By Nyaga wa Muto and Ben Mutiuka. Includes attributed arrival account and theological objections; neither is a controlled experiment.",
+      "local_file": "sources/nairobi-sunday-times-19880626.jpg",
+      "bytes": 4635748,
+      "sha256": "2f6b15eb28f6214318f4b1a08fe3c58a6be37e00c9fd5ac3d89e7dd8ef4971d2",
+      "access": "downloaded"
+    },
+    {
+      "id": "N03",
+      "title": "Nairobi newspaper reproduction index",
+      "url": "https://web.stanford.edu/~ichriss/N.htm",
+      "role_and_limits": "Index; not an independent eyewitness. Summary does not preserve all attribution distinctions.",
+      "local_file": "sources/nairobi-source-index.html",
+      "bytes": 35030,
+      "sha256": "d2eb22453de7704f79282c1d87b99bdbd4c9a7592189af4eb280a4f89576f902",
+      "access": "downloaded"
+    },
+    {
+      "id": "B01",
+      "title": "The Theosophist, February 1890 supplement, ci–cii",
+      "url": "https://en.teopedia.org/w/images/d/db/Theosophist_v011_supplements_1890.pdf",
+      "role_and_limits": "Downloaded complete issue supplement; relevant two pages read; cii rendered and visually inspected. Monk Rambuppola Pannasara testimony with H.S. Olcott commentary; Olcott a Theosophical advocate, not a physicist conducting calibrated tests.",
+      "local_file": "sources/theosophist-v11-supplements.pdf",
+      "bytes": 6780095,
+      "sha256": "9168403b8dd70d108a1000ad265f2a7d6b8766a1fb29f6a7e04054f7beaaedcb",
+      "access": "downloaded"
+    },
+    {
+      "id": "B02",
+      "title": "The Buddhist Ray, August 1888, p.64",
+      "url": "https://iapsop.com/archive/materials/buddhist_ray/buddhist_ray_v1_n8_aug_1888.pdf",
+      "role_and_limits": "Reprint of H. Sumangala letter dated 4 June 1887; he cites pupils, not personal presence.",
+      "local_file": "sources/buddhist-ray-1888-08.pdf",
+      "bytes": 17372748,
+      "sha256": "8d57c2162d40d0134efce4912ff652306d7ded3d4e6aa3fb55481918aedfe527",
+      "access": "downloaded"
+    },
+    {
+      "id": "H01",
+      "title": "UPI, Gods drink milk in India, 22 September 1995",
+      "url": "https://www.upi.com/Archives/1995/09/22/Gods-drink-milk-in-India/8602811742400/",
+      "role_and_limits": "Contemporary wire; named pro and contrary participant observations; explicit religious interpretation.",
+      "fetch_exit_code": 56,
+      "access": "full_indexed_web_text_read_direct_download_failed"
+    },
+    {
+      "id": "H02",
+      "title": "AP, Reports Of Hindu Miracle Draws Millions To Temples, 22 September 1995",
+      "url": "https://www.spokesman.com/stories/1995/sep/22/reports-of-hindu-miracle-draws-millions-to-temples/",
+      "role_and_limits": "Contemporary AP reprint; crowd estimates not direct-witness census.",
+      "fetch_exit_code": 0,
+      "local_file": "sources/milk-ap-19950922.html",
+      "bytes": 158393,
+      "sha256": "e9a1eabdbe010eddaccdfdaa2a00eb020901e0249986f58f13ae42f5e2148f05",
+      "access": "downloaded"
+    },
+    {
+      "id": "H03",
+      "title": "Times of India, 22 September 1995, reprinted in earlier research",
+      "url": "https://theory.tifr.res.in/bombay/leisure/trivia/ganapati-milk.html",
+      "role_and_limits": "See ../comparative-public-miracles-20261028/hinduism/sources.json and sources/times_of_india_19950922_reprint.html. Office plastic-object replication and temple runoff/dye reports; original quantitative data not recovered.",
+      "access": "copied_existing_download_and_rechecked_live",
+      "local_file": "sources/milk-times-of-india-19950922.html",
+      "bytes": 13755,
+      "sha256": "2166734322fbc4c6d351288d1777829e030c33c9bbf4caa68ce526189780dc93"
+    },
+    {
+      "id": "A01",
+      "title": "Colonist, 24 September 1903, p.4, News Items",
+      "url": "https://paperspast.natlib.govt.nz/newspapers/TC19030924.2.19",
+      "role_and_limits": "Indexed archival OCR located and read in web results; direct-page fetch failed. No original page image inspected. Confirms pre-outcome prayer challenge, not divine cause.",
+      "access": "see_role_and_limits"
+    },
+    {
+      "id": "A02",
+      "title": "Dictionary of National Biography, 1912 supplement, John Alexander Dowie",
+      "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography%2C_1912_supplement/Dowie%2C_John_Alexander",
+      "role_and_limits": "Near-contemporary biographical account of decline and death, with references; not eyewitness of prayer efficacy.",
+      "fetch_exit_code": 0,
+      "local_file": "sources/dowie-dnb-1912.html",
+      "bytes": 70362,
+      "sha256": "b679e8b9b7246e925c61656e6d5012605cfd3150ad1432d040a1bec7616ad3d8",
+      "access": "downloaded"
+    },
+    {
+      "id": "S01",
+      "title": "AFP, Buddha rays spark statue-gazing, 2 August 2006",
+      "url": "https://wwrn.org/articles/22316/",
+      "role_and_limits": "Contemporary wire reprint; electronics engineer R. Weerasekara reports seeing rays and optical interpretation, not recovered experimental study.",
+      "fetch_exit_code": 0,
+      "local_file": "sources/buddha-rays-afp-20060802.html",
+      "bytes": 5723,
+      "sha256": "c52891551641f7af3186edb19a9b8336d6334f3dd8fa886d83d24da78ad2e4c0",
+      "access": "downloaded"
+    },
+    {
+      "id": "S02",
+      "title": "PTI, Millions gaze at Buddha statue, 2 August 2006",
+      "url": "https://www.buddhistchannel.tv/index.php?id=43%2C2986%2C0%2C0%2C1%2C0",
+      "role_and_limits": "Contemporary wire reprint; describes gazing-dependent line at statue color boundary and religious disagreement.",
+      "fetch_exit_code": 0,
+      "local_file": "sources/buddha-rays-pti-20060802.html",
+      "bytes": 27818,
+      "sha256": "2d14d8afd81f3c6a7117f94a593ad842eec61525e85d989bacfc593fc058297e",
+      "access": "downloaded"
+    },
+    {
+      "id": "N04",
+      "title": "O.M. Jacob Nandi, University of Nairobi MA thesis, 1993",
+      "url": "https://erepository.uonbi.ac.ke/items/de6c454d-454e-419e-a82f-95d95b9ea6b6",
+      "role_and_limits": "Catalog/abstract indexed. Full PDF requests failed. No thesis conclusion about the 1988 event is claimed.",
+      "access": "see_role_and_limits"
+    },
+    {
+      "id": "H04",
+      "title": "T. Jayaraman, Behind the milk-drinking miracle",
+      "url": "https://www.imsc.res.in/~jayaram/Articles/milkb.html",
+      "author_background": "Institute of Mathematical Sciences, Madras, author affiliation stated in article",
+      "access": "full_live_text_read; existing download in prior research",
+      "role_and_limits": "First-person account of witnessing a demonstration; proposed mass-balance test is not a reported complete quantitative original-temple experiment. Polemical universal dismissals are not treated as measurements."
+    },
+    {
+      "id": "N05",
+      "title": "Collins Kweyu, I did not bring Jesus to Nairobi – Akatsa, The Standard, 1 November 2013",
+      "url": "https://www.standardmedia.co.ke/the-nairobian/article/2000096668/i-did-not-bring-jesus-to-nairobi-akatsa",
+      "local_file": "sources/nairobi-akatsa-denial-standard.html",
+      "access": "Page downloaded; title, byline and date readable. Body behind premium overlay in downloaded text; substantive quotations recovered through indexed search excerpt, not full article reading.",
+      "role_and_limits": "Indexed excerpt quotes Akatsa saying the Indian-looking visitor only came for prayers and that enemies misrepresented the incident. A 25-year-later attributed denial; not original recorded interview, not independent proof of visitor identity or deliberate staging. Compare with the June1988 eyewitness coverage before adjudication."
+    }
+  ]
+}

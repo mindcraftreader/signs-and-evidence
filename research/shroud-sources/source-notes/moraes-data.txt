@@ -1,0 +1,18 @@
+Cicero Moraes — Digital 3D approach, public supporting data
+========================================================================
+Source ID: MORAES-DATA
+Category: 3D and reproduction
+Year: 2025
+Recorded/reviewed: 2026-10-26
+Source: https://doi.org/10.6084/m9.figshare.29645060
+
+What it contributes:
+Dataset linked by the published paper, for inspecting/reproducing its digital setup. Saved archive contains Fabric.blend, Low_relief.blend and Body_3D.blend. These are the author’s simulation inputs, not an independently recovered Shroud body.
+
+Limits and interpretation:
+An available simulation is not validation of its assumptions.
+
+Access: Public CC BY 4.0 dataset saved; archive contents inventoried, simulations not executed
+
+Saved files:
+Data_Shroud_of_Turin-Moraes-2025.zip

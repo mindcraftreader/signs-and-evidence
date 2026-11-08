@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="A chaptered conversation about the Shroud of Turin, Fátima, Zeitoun, Padre Pio and Lourdes. Read the original exchanges and follow the sources.">
+  <meta name="theme-color" content="#f5f2eb">
+  <title>Signs & Evidence — The Conversation</title>
+  <link rel="icon" href="icon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="style.css">
+  <script defer src="vendor/marked.umd.js"></script>
+  <script defer src="vendor/purify.min.js"></script>
+  <script defer src="app.js"></script>
+</head>
+<body>
+  <a class="skip" href="#main">Skip to reading</a>
+  <header class="topbar">
+    <button class="icon-button mobile-menu" id="menu-toggle" aria-label="Open chapters" aria-expanded="false"></button>
+    <a href="#/" class="brand"><img src="icon.svg" alt="" width="28" height="28"><span>Signs <i>&</i> Evidence</span></a>
+    <span class="header-label">THE CONVERSATION ARCHIVE</span>
+    <div class="header-actions">
+      <button id="search-open" class="search-trigger"><span data-icon="search"></span><span>Search the conversation</span><kbd>⌘ K</kbd></button>
+      <button class="icon-button" id="saved-open" aria-label="Saved passages" title="Saved passages"></button>
+      <button class="icon-button" id="type-open" aria-label="Reading settings" title="Reading settings"><span class="type-icon">Aa</span></button>
+    </div>
+  </header>
+  <div class="layout">
+    <aside class="sidebar" id="sidebar" aria-label="Chapters"><div class="loading-label">Opening the archive…</div></aside>
+    <div id="sidebar-shade"></div>
+    <main id="main" tabindex="-1"><div class="initial-loading">Opening the conversation…</div></main>
+  </div>
+  <dialog id="search-dialog" class="search-dialog">
+    <div class="search-box"><span data-icon="search"></span><label class="sr-only" for="search-input">Search every chapter</label><input id="search-input" placeholder="Search an argument, person or source…" autocomplete="off"><button class="icon-button dialog-close" aria-label="Close search" data-close="search-dialog"><span data-icon="close"></span></button></div>
+    <div class="search-hint">Search across the original dialogue and research updates.</div>
+    <div id="search-results" class="search-results"></div>
+  </dialog>
+  <dialog id="resource-dialog" class="resource-dialog">
+    <div class="drawer-heading"><div><span class="eyebrow">THE RESEARCH DESK</span><h2 id="resource-title">Sources & documents</h2></div><button class="icon-button" data-close="resource-dialog" aria-label="Close sources"><span data-icon="close"></span></button></div>
+    <div id="resource-content"></div>
+  </dialog>
+  <dialog id="settings-dialog" class="settings-dialog">
+    <div class="drawer-heading"><h2>Make yourself at home</h2><button class="icon-button" data-close="settings-dialog" aria-label="Close settings"><span data-icon="close"></span></button></div>
+    <label class="setting-label" for="font-size">Text size</label><div class="font-controls"><span>A</span><input id="font-size" type="range" min="17" max="25" step="1" value="20"><span class="large-a">A</span></div>
+    <label class="setting-label" for="theme-select">Appearance</label><select id="theme-select"><option value="paper">Paper</option><option value="night">Night</option></select>
+    <p class="settings-note">Your reading position, settings and saved passages stay in this browser.</p>
+  </dialog>
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+</body>
+</html>

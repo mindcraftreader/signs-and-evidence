@@ -1,0 +1,203 @@
+LOURDES EXPANDED CASE INDEX — 3 NOVEMBER 2026
+
+21 selected case dossiers across three recovery periods.
+These supplement the existing Lourdes library. Source access varies by case; neither case count nor recognition equals a new independent medical experiment.
+Recovery dates and ecclesiastical recognition dates are separate. Full source registers and reading scopes remain in each period folder.
+
+1858-1918: 7 cases
+research/lourdes-expanded-audit-20261103/1858-1918/report.txt
+
+Catherine Latapie
+Recovery: 1858-03-01
+Recognition: 1862-01-18
+Diagnosis: Persistent flexion of two final fingers with arm/hand weakness after shoulder dislocation, retrospectively described as ulnar-type paralysis.
+Context: Hand placed in spring water at grotto; immediate movement reported.
+Assessment: Specific early recovery account supported by attributed medical review; anatomical mechanism and rapidity depend on historical observations.
+New findings: Newly read1891 detailed shoulder-dislocation account and1909Vergez quotation; stronger provenance than modern summary, no new raw clinical file.
+Limitations: No original signed1858 examination, operative report, or measured before/after function.
+
+Louis Bouriette
+Recovery: 1858-03
+Recognition: 1862-01-18
+Diagnosis: Severe right-eye visual impairment following quarry explosion; incomplete amaurosis in Bertrin, modern official summary says complete loss only last2years.
+Context: At home applied muddy spring water supplied by daughter, not a bath.
+Assessment: Documentary account of visual recovery, but cannot be presented as objectively established twenty-year total blindness or optic-nerve regrowth.
+New findings: New1891 detailed reading-test description and explicit source dependency; newly noticed conflicting severity wording retained.
+Limitations: No original1858 eye chart, fundus image, source1874Dozous volume or originalVergez report acquired. Boissarie footnote credits Lasserre, so not an independent new firsthand attestation.
+
+Blaisette Cazenave née Soupène
+Recovery: 1858-03
+Recognition: 1862-01-18
+Diagnosis: Chronic conjunctival/lid inflammation, ectropion, fleshy outgrowths and tearing, about3years.
+Context: Two spring-water lotions hours apart; reported full resolution after second.
+Assessment: An organic external-lesion claim that deserves evaluation; stronger than an unlocalized symptom report, less instrumentally documented than modern cases.
+New findings: New1891source pp105–106 and1909commission quotation closely read; p105 visually inspected. Distinguishes gradual lash return from immediate lid change.
+Limitations: Treating physician not named in inspected passage. Vergez judgment reproduced, original clinical notes absent.
+
+Elisa / Elise Seisson
+Recovery: 1882-08-29
+Recognition: 1912-07-12 (some official/parish rosters give1912-07-02)
+Diagnosis: Chronic bronchitis, gastritis and organic heart disease with hypertrophy/palpitations and lower-limb edema, clinically diagnosed.
+Context: Bath at Lourdes associated with improved standing and edema disappearance; next-day report and later physician certificate.
+Assessment: Useful1880s case with traceable pre/post certificates and later register trail, but structural cardiac-reversal claim is less directly documented than symptom/function change.
+New findings: Acquired1891primary-era summary and1995historian archival references: Annales30Oct1882,15thyear7thdelivery; registercahier4pp123–124 and1896no123.
+Limitations: Original23Aug/18Sept1882certificates and1896register not acquired. Recognition-day discrepancy12vs2July retained.
+
+Marie Lemarchand
+Recovery: 1892-08-21
+Recognition: 1908-06-06
+Diagnosis: Facial/leg suppurating ulcers, left hemiplegia/contracture, pulmonary signs; lupus/TB diagnosis disputed by medical advocate who favors trophoneurosis plus infection and functional symptoms.
+Context: Lourdes bath, abrupt functional recovery and ulcer closure reported; treating physician saw her at home five days later.
+Assessment: Serious documented recovery with detailed medical testimony; the entire symptom bundle should not be treated as uniformly proven irreversible organic disease. Ulcer healing remains the strongest physical thread in these records.
+New findings: New1912fullchapter provides unusually detailed signed-date report, examination dates, clinical findings, adverse history, functional interpretation and internal scarring nuance.
+Limitations: No pre/post calibrated photos, biopsy/culture or complete treatment chart recovered. Zola fictionalEliseRouquet is not a literal clinical chart.
+
+Marie Biré née Lucas
+Recovery: 1908-08-05
+Recognition: 1910-07-30
+Diagnosis: Reported blindness with bilateral white optic-disc/papillary atrophy, called cerebral-origin blindness; anatomical cause not fully established by recovered tests.
+Context: Sight returned after Mass at grotto; immediately presented to Bureau.
+Assessment: New near-contemporary first-person specific observation makes this more than a modern devotional summary; cannot elevate to measured optic-nerve regeneration.
+New findings: Guinier1909p597 newly applied to Biré and visually inspected; gives monocular reading and specific fundus findings. Resch names Lainey; parish confirms recognition quotation.
+Limitations: No original named-oculist report, fundus photograph, calibrated before acuity or full neurology record recovered.
+
+Juliette Orion
+Recovery: 1910-07-22/23
+Recognition: 1913-10-18
+Diagnosis: Reported pulmonary/laryngeal tuberculosis with suppurating left mastoiditis, later meningitic/coma symptoms.
+Context: At home, unable/refused to join pilgrimage; prayer to Our Lady of Lourdes duringnight22–23July, regained voice/appetite nextmorning. Not a Frenchbath event.
+Assessment: A relevant1910s registered Lourdes-devotion case, presently weaker documentary access thanBorel/Biré; not entitled to the same confidence merely because recognized.
+New findings: NewResch2008specific1912Bureaudate and at-homecontext recovered; no newly obtained clinicalprimary.
+Limitations: No original medical certificate, named physician, culture/histology, paired imaging or full1912/13file recovered.
+
+1919-1959: 7 cases
+research/lourdes-expanded-audit-20261103/1919-1959/report.txt
+
+Henriette Bressolles
+Recovery: 1924-07-03
+Recognition: 1957-06-04
+Diagnosis: Pott disease with paraplegia, spinal deformity and sphincter disturbance. No raw microbiology or films acquired.
+Context: Eucharistic procession followed by prayer before grotto; reported abrupt pain/sensation/movement change; walking recovered over subsequent weeks.
+Assessment: Serious detailed examination chain to pursue; this pass improves doctor/timing specificity, not original document access.
+New findings: Downloaded and fully read military-medical history with attributed dated physician certificates; retained initial stiff joints and later cane use.
+Limitations: Original1924 certificates/pension examinations, radiographs and raw clinical dossier not acquired. Source explicitly derives from Olivieri/Billet1972.
+
+Francis Pascal
+Recovery: 1938-08-31
+Recognition: 1949-05-31
+Diagnosis: Postmeningitis blindness and paralysis. Acquired illness, not established congenital blindness.
+Context: Reported recovery after second bath; August1938 date retained with conflicting26/28/31August variants disclosed.
+Assessment: Substantial historical recovery claim with long reported survival; documentation depth weaker than Bigot primary account recovered here.
+New findings: New detailed treating-physician quotation found in2014Annals; stronger than unnamed-doctor summary, but not independently authenticated original.
+Limitations: Original Darde certificate, Lesbros laboratory result and postwar Bureau minutes not acquired. Modern certificate quotations are derivative.
+
+Jeanne Frétel
+Recovery: 1948-10-08
+Recognition: 1950-11-20
+Diagnosis: Peritoneal tuberculosis, described as streptomycin-resistant in archival review; severe abdominal distension, vomiting and wasting.
+Context: Onset after communion, followed by abdominal normalization near grotto; later went to baths under own power. Not a cure that begins inside bath.
+Assessment: Promising1940s case with a concrete contemporaneous report/decree target and long reported function; full medical adjudication remains incomplete.
+New findings: Located1950original diocesan volume: printed364–365 clinical item and736–737 decree, PDF187/373; failed acquisition documented. Recognition-month correction substantiated by current official French roster.
+Limitations: Actual67MB1950diocesan PDF located but local download403; webfetch too large. Only indexed original text plus explicitly secondary transcription inspected. No claim visual verification.
+
+Evasio Ganora
+Recovery: 1950-06-02
+Recognition: 1955-05-31
+Diagnosis: Hodgkin lymphoma diagnosed February1950, per official narrative and archival review.
+Context: Bath-linked abrupt functional improvement; later returned to farm work, per official narrative.
+Assessment: Do not select as strongest untreated-cancer example while treatment history unresolved. Recovery itself not disproved.
+New findings: Made explicit primary archival-study treatment caveat and exact13page report target; no original dossier newly acquired.
+Limitations: Original13pageSandrail report and oncology treatment/biopsy records not acquired.
+
+Marie Bigot
+Recovery: 1953-10-08 and 1954-10-08/10
+Recognition: 1956-08-15
+Diagnosis: Posterior-fossa arachnoiditis; staged motor/sensory recovery1953, hearing/vision1954. Surgical observations transcribed in physician account.
+Context: Motor improvement during1953Eucharistic procession; hearing after1954procession; sight approximately36hours later aboard return train.
+Assessment: Strongest new dossier gain in this period: actual doctor eyewitness publication with specific tests, self-reported initial skepticism and transcribed specialist conclusion. Mechanism not established by this audit.
+New findings: Downloaded/read complete13page1958article; visually checked normal10/10acuity and hearing assessment pages419–420; identified precise physician roles and staged sequence.
+Limitations: Translated1958near-contemporary physician account, not entire raw case file. Some preoperative findings are transcribed from other physicians. Informal train reading test was not a standardized acuity chart; later ophthalmologist findings10/10distinct.
+
+Elisa Aloi
+Recovery: 1958-06-05
+Recognition: 1965-05-26
+Diagnosis: Tuberculous osteoarthritis and multiple draining fistulas of right lower limb.
+Context: Lourdes water used for dressings/irrigation because plaster prevented bathing in fuller narrative; fistula drying/closure over pilgrimage/return.
+Assessment: Documented serious fistula-recovery tradition; diagnostic precision and treatment exclusion currently weaker than accessible strongest modern cases.
+New findings: Separated irrigation/dressing context from bath story and preserved archival-study diagnostic objection.
+Limitations: OriginalSalmon20page report not acquired; originalpost-returncertificate and serialtests absent.
+
+Juliette Tamburini
+Recovery: 1959-07-17
+Recognition: 1965-05-11
+Diagnosis: Chronic fistulating femoral osteoperiostitis/osteomyelitis and recurrent epistaxis.
+Context: Lourdes water applied to largest draining wound; reported drying, closure and cessationofbleeding. Not demonstrated instantaneous full femur regeneration.
+Assessment: Reasonable1950s externally observable wound candidate; current access strongest in precise dossierlead, not direct diagnosticinstrumentaldata.
+New findings: Traced named examiningphysician quotations and18pageCMILtarget; preserved churchpublication timing/context rather than instantbone-regrowth story.
+Limitations: OriginalSalmonreport18pages, images/cultures and treatmentchart unrecovered. Secondarybook says Bureau suppliedcompletefile but reproduction is not originalfile.
+
+1960-present: 7 cases
+research/lourdes-expanded-audit-20261103/1960-present/report.txt
+
+Luigina Traverso
+Recovery: 1965-07-23
+Recognition: 2012-10-11
+Diagnosis: Postoperative disabling lumbar-sciatic pain and lower-limb sensorimotor impairment; official phrase paralysing lombosciatica in meningocele.
+Context: Eucharistic procession/adoration, warmth and restored foot/lower-limb movement, then walking.
+Assessment: Substantial medical institutionalassessment and long reportedfunctional durability, with sourceaccess weaker thanRaco quantitative excerpts.
+New findings: Full decree with four named medicalcommissioners and20June/3July2012meeting/report dates;2012congregationalletter published beforecanonization; officialCVcredentials lead.
+Limitations: Original operative and neurological charts and2011medicalreport not recovered.; VUthesisDOB1938 conflicts with official1934; some press wrongTerrier forPerrier.
+
+Serge Perrin
+Recovery: 1970-05-01
+Recognition: 1978-06-17
+Diagnosis: Organic recurrent hemiplegia and ocular dysfunction, attributed to cerebral vascular disturbance without precisely verified anatomical cause.
+Context: Anointing at Lourdes, with subsequent same-day regained walking/vision; examinations at home after departure.
+Assessment: Major new access gain: substantive organic interpretation and explicit diagnostic/functional qualifications are directly in approving report.
+New findings: Actual angiogram/visualfieldplates and primary report pages; quantitative VA; physicianroles; direct blackout/arteriography reservations.
+Limitations: Modern third-party photographed reproduction; edition/titlepage not recovered. No original radiology films physically examined.; Part of illness being functional is not a demonstrated explanation of the entirecase.
+
+Delizia Cirolli
+Recovery: 1976-12
+Recognition: 1989-06-28
+Diagnosis: Malignant right tibial tumor; originalneuroblastoma diagnosis later favoredEwingsarcoma, subtype uncertainty retained.
+Context: August1976pilgrimage/baths; Septemberprogression; recovery aroundChristmasathome withcontinuingMarianprayer/Lourdeswater.
+Assessment: Serious untreatedmalignanttumorregressionclaim withsubstantialspecialistreview, less tighttemporallinkthanbath-sidechange.
+New findings: Consistentcommon-field dossier; inheritedmedicalrecord not newindependentcorroboration.
+Limitations: FullTrifaud/Colvinbooklet,actualpathologyslides/films not acquired.
+
+Jean-Pierre Bely
+Recovery: 1987-10-09
+Recognition: 1999-02-09
+Diagnosis: Multiple sclerosis, diagnosed1984 at Poitiers after symptoms since1972
+Context: Rosary pilgrimage; sacraments including anointing of the sick; sensory and motor improvement at Lourdes, then walking. Not documented as bath-side cure in retrieved record.
+Assessment: See inherited detailed case report, preserved without upgrading source access.
+New findings: Structured dossier retained; no new original clinical file in this pass.
+Limitations: No paired MRI/CSF/evoked-potential results obtained; Exact number and reasons of dissent not recovered; Journal de la Grotte1988and January2003medical-spiritual booklet identified but not obtained
+
+Danila Castelli
+Recovery: 1989-05-04
+Recognition: 2013-06-20
+Diagnosis: Severe recurrent hypertensive crises; summaries report scintigraphically supported catecholamine-producing pheochromocytoma syndrome
+Context: Immediate well-being after Lourdes baths; patient connects change with prayer over forgiveness and meeting her physician husband immediately outside.
+Assessment: See inherited detailed case report, preserved without upgrading source access.
+New findings: Structured dossier retained; no new original clinical file in this pass.
+Limitations: Original biochemical values, scintigraphy, histology and operation charts not obtained; Do not equate summary with independently verified instant disappearance of metastatic malignancy; No case-specific ordinary explanation established in this pass
+
+Sister Bernadette Moriau
+Recovery: 2008-07-11
+Recognition: 2018-02-11
+Diagnosis: Cauda equina syndrome/multiple lumbar-sacral radiculopathy after spinal operations, pain, left-foot paresis, bladder/bowel dysfunction
+Context: Pilgrimage including baths and sacraments; returned home still ill; recovery during/after adoration in Bresles days later, consciously in communion with Lourdes procession.
+Assessment: See inherited detailed case report, preserved without upgrading source access.
+New findings: Structured dossier retained; no new original clinical file in this pass.
+Limitations: Residual atrophy/reflex/EMGfindings quoted in memoir via critic require original verification; Forty years of continuously total paralysis not established; Perfect anatomical restoration not established; DAlpa pain/disc-remodeling suggestion not demonstrated from patient scans
+
+Antonia/Antonietta Raco (Lofiego)
+Recovery: 2009-07/2009-08
+Recognition: 2025-04-16
+Diagnosis: Clinical primary lateral sclerosis; patient-specific diagnostic uncertainty explicitly debated
+Context: 30July-5August2009pilgrimage; bishop2009letter reports unusual experience in bath; substantial function recovered by return home; subsequent progressive normalization.
+Assessment: See inherited detailed case report, preserved without upgrading source access.
+New findings: Structured dossier retained; no new original clinical file in this pass.
+Limitations: Initial abrupt functional improvement followed by progressive normalization,not instant imaged neuronal replacement; NormalMEP/MRIraises documented diagnostic debate but is not a categorical exclusion under2020consensus; Validation studies are not patient-specific proof and diagnostic-revision rates are not probability of natural cure; Supplied English PDFends at printed57thoughheader36-59

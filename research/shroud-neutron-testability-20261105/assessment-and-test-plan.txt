@@ -1,0 +1,97 @@
+CAN THE SHROUD IRRADIATION EXPLANATION BE FALSIFIED?
+5 November 2026
+
+Finding
+=======
+Specified neutron-irradiation models make testable physical predictions. An unrestricted proposal that an unknown Resurrection process changed isotopes can remain possible after almost any result; that broader possibility is less scientifically informative. These must be kept separate. This audit does not establish that irradiation occurred on the Shroud or that a medieval date has been disproved.
+
+Daniel's position is undecided/open, with explicit acknowledgment that the Jenga blocks could be answered. Nothing in this report assigns a new numerical debate point.
+
+1. Separate the proponents and claims
+====================================
+Giulio Fanti, Department of Industrial Engineering, University of Padua, reports preliminary beta activity in Shroud-attributed blood material in his 2024 paper. His 2025 conference account treats the result as support for neutron conversion of nitrogen into carbon-14, while also calling for parallel confirmation. General beta counts do not identify the emitting isotope or measure an age correction in purified linen. Reproducing and identifying that signal would test his particular experimental lead.
+
+Robert A. Rucker is an independent nuclear engineer with an MS in nuclear engineering from the University of Michigan, according to his author biography. He supplies more detailed transport models. His author-hosted manuscripts should be distinguished from independent laboratory validation and from Fanti's measurements. A Michigan degree is not a current Michigan institutional affiliation.
+
+2. A particularly clear published prediction
+============================================
+Rucker's 2018 charred-material proposal predicts apparent radiocarbon dates approximately AD 3100–4800 for selected positions near the elbows. His 2020 discussion gives examples around AD 3500 and AD 4500. These are conventional, uncalibrated radiocarbon ages expressed on an AD-like scale, reflecting excess carbon-14; they are not calendar dates when the cloth would actually be made. The proposed material was charred cloth removed during the 2002 intervention. Rucker himself notes uncertainty about how adequately the jars preserve location information.
+
+A securely located elbow sample returning an ordinary medieval isotope ratio would contradict those particular numerical predictions, subject to the model's specified uncertainties and sample integrity. A suitable test should interrogate the isotope ratio directly, without pretending a negative-BP value can be read from an ordinary archaeological calendar calibration curve.
+
+3. The proponent explicitly accepts negative tests
+=================================================
+In Testing the Neutron Absorption Hypothesis (18 April 2019), Rucker identifies two tests: the distribution of radiocarbon across the cloth and surviving activation products. He explicitly says statistically significant negative isotope results would be evidence against his hypothesis. His illustrative isotope inventory assumes a one-milligram linen sample, a specified fluence and some trace-element abundances taken from average crustal composition. Those assumptions must be replaced or bounded using the actual material before setting a rejection threshold.
+
+4. Check later revisions before applying old predictions
+========================================================
+Rucker's January and February 2026 manuscripts develop a revised radiation model and fit uncertain positions to the existing measurements. The January manuscript describes calculations at 81 candidate positions, selecting the best fit, and anticipates further optimization. The later work also normalizes calculated results to the observed mean.
+
+Fitting unknown parameters is legitimate model development. Its agreement with the fitted data is not an independent test on unseen material. The old elbow predictions should therefore be labeled by version; this pass did not recover a newly frozen, site-by-site 2026 prediction table superseding the old map. Numerical rejection criteria for the current model remain to be specified by its proponents.
+
+5. A complementary test proposed in a peer-reviewed paper
+=========================================================
+César Barta and Elisa María Ruiz-Navas of Carlos III University of Madrid, José Luis Pérez-Díaz of the University of Alcalá, Robert Rucker, and Thomas McAvoy of the University of Maryland propose spatial FTIR measurements in section 5.3 of their 2025 Microchemical Journal paper. Their irradiation experiments support a proposed contrast between low-dose and higher-dose locations. They describe a homogeneous distribution as evidence against the modeled irradiation scenario. This is a proposed Shroud test, not a completed measurement across the actual cloth. Spectral effects need comparison with competing causes and a demonstrated measurement sensitivity.
+
+6. The older correspondence contains both a test and a limitation
+================================================================
+Thomas J. Phillips of Harvard's High Energy Physics Laboratory proposed isotope and spatial tests in Nature in 1989. R. E. M. Hedges of Oxford's Radiocarbon Accelerator Unit replied critically but also discussed chlorine-36 measurements and possible persistent radiation effects. Their exchange recognizes that subsequent gains or losses of relevant elements can complicate inference. Its isotope yields belong to the assumed dose and nuclear reactions in that exchange, not automatically to a later nitrogen-capture model.
+
+Chlorine-36 is not exclusively a signature of a proposed Resurrection event. The Commission on Isotopic Abundances and Atomic Weights documents natural production and nuclear-test contributions. Testing requires excess above appropriate backgrounds, composition measurements, exposure history and model-compatible isotope ratios. Mere presence is insufficient; mere nondetection is also insufficient if the proposed quantity lies below sensitivity or retention is unknown.
+
+7. A relevant experimental qualification
+=======================================
+The University of Padua's institutional record of the 2010 Lind/Antonacci/Fanti/Elmore/Guthrie experiment reports that neutron-produced radiocarbon in modern linen survived high temperatures and the cleaning treatments examined. It also reports nitrogen variability and limitations on one-to-one comparisons. This matters: ordinary pretreatment cannot simply be assumed to remove neutron-produced carbon-14. The standalone paper link failed DNS in this pass; this finding is based on its institutional abstract, not a newly inspected full paper.
+
+8. Proposed design for a genuinely informative test
+==================================================
+The following is an analyst's proposed protocol, not an approved sampling project or a claim that custodians have authorized access.
+
+A. Freeze the model before receiving new isotope results.
+Name its version and publish the neutron spectrum, spatial source, cloth/body geometry, nitrogen assumptions, sample-coordinate transformation, normalization, uncertainty envelope and permitted nuisance parameters. State whether any predicted contrasts remain robust across all permitted variants. A model that offers no robust contrast is less testable than a fixed map.
+
+B. Select documented original material at contrasting predicted exposures.
+Five widely separated sites are useful only if they actually distinguish the hypotheses. Include positions predicted to have low and high effects, and material comparable to the original corner. Verify original-cloth identity, repair status, pretreatment history and location. Conservators and laboratories must determine permissible material and mass; no cutting plan is authorized here. Already removed charred fragments might reduce new sampling, if their identities and coordinates can be established.
+
+C. Analyze coded splits with controls and record raw isotope ratios.
+Use independent laboratories where feasible, procedural blanks, background controls, treatment controls and sample-specific chemical characterization. Report carbon-14/carbon-12 results and uncertainty before interpreting any anomalous value as a historical date. Include nitrogen characterization at the closest practical scale, with spatial heterogeneity included in uncertainty.
+
+D. Test the radiation signal separately.
+Independently repeat Fanti's sample/blank beta measurements with suitable geometry and uncertainty. Identify the emitting isotope(s) using appropriate isotope-specific analysis. Determine whether the signal lies in blood, linen, adhesive or other material. A positive result in a mounted specimen is not automatically an age correction for cellulose elsewhere on the cloth.
+
+E. Predeclare evidential outcomes.
+- Original linen with consistent medieval ratios at sites where the frozen model robustly requires much larger carbon-14 enrichment: evidence against that model and in favor of medieval material.
+- A new, reproducible site pattern quantitatively predicted in advance, supported by independent activation measurements: evidence for the modeled irradiation. Age, exposure source and identification with Jesus still require interpretation.
+- Failure to reproduce Fanti's beta signal, or identification of an unrelated source: undermines that experimental lead, without refuting every possible neutron model.
+- Nondetection with inadequate sensitivity, uncertain sample identity, or unknown retention: inconclusive for the proposed physical test.
+- Ancient ratios across secure original linen: strong evidence against medieval manufacture; not independent proof of a particular image-formation mechanism.
+
+9. Questions needed from Fanti/Rucker before a decisive test
+==========================================================
+1. Which isotope is responsible for the measured beta activity, and what raw repeat/blank data, efficiency and uncertainty establish it?
+2. What amount of newly generated carbon-14 is predicted in purified original linen, as opposed to mounted blood material?
+3. Which current model version supplies a frozen map of predictions for named sample sites, including material composition and uncertainty?
+4. What measured isotope ratios or spatial pattern would count against that model? Can these criteria be fixed before new results arrive?
+5. Which activation-product tests remain feasible at the predicted concentrations after background and retention are considered?
+
+These are research questions for possible later correspondence. No author answer to them is inferred.
+
+Assessment for the ongoing argument
+===================================
+Five medieval dates could substantially defeat a localized replacement explanation while also challenging a particular radiation model, if they sample discriminating locations. They would not logically eliminate every unspecified supernatural alteration. The important finding here is that proponents have offered falsifiable physical versions; the hypothesis need not be treated as an unavoidable permanent escape from any future dating result. No completed independent Shroud-wide validation of these proposed tests was located in this bounded pass.
+
+Sources
+=======
+Fanti 2024: https://doi.org/10.17352/ahcrr.000044
+Fanti 2025 author conference account: https://www.shroud.com/pdfs/Fanti_1_Novelties%20for%20FOR%20ARTICLES%20SECTION.pdf
+Rucker 2018 proposal: https://www.shroudresearch.net/hproxy.php/Proposal-for-C14-Dating-of-Charred-Material-Removed-from-the-Shroud.pdf
+Rucker 2019 tests: https://0201.nccdn.net/1_2/000/000/16e/a46/Testing-the-Neutron-Absorption-Hypothesis.pdf
+Rucker 2020: https://shroudresearch.net/understanding-the-1988-carbon-dating-of-the-shroud.pdf
+Rucker 2026 hypothesis: https://0201.nccdn.net/1_2/000/000/0da/c87/hypothesis-to-explain-the-image-formation-and-carbon-dating-on-t.pdf
+Rucker 2026 objections: https://0201.nccdn.net/1_2/000/000/105/dc4/answering-objections-to-the-nuclear-analysis-of-the-shroud-of-tu.pdf
+Author catalog: https://www.shroudresearch.net/hproxy.php/papers.html
+Barta et al. 2025, section 5.3: https://doi.org/10.1016/j.microc.2024.112502
+Phillips/Hedges 1989: https://doi.org/10.1038/337594a0
+Scanned correspondence: https://staff.polito.it/alberto.carpinteri/related%20piezonuclear%20papers/337594a0_mod.pdf
+Lind et al. 2010 institutional abstract: https://www.research.unipd.it/handle/11577/2419395?mode=complete
+CIAAW chlorine: https://www.ciaaw.org/chlorine.htm

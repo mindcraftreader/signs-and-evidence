@@ -1,0 +1,527 @@
+{
+  "period": "Recovery years1919–1976 inclusive",
+  "date": "2026-11-02",
+  "official_roster_total": 72,
+  "recognized_period_count": 28,
+  "counts_by_decade": {
+    "1910": 0,
+    "1920": 2,
+    "1930": 4,
+    "1940": 7,
+    "1950": 11,
+    "1960": 2,
+    "1970": 2
+  },
+  "denominator_note": "Official recognized roster only, not all reports.1910bucket includes1919 only;1970bucket ends1976. Different from scholarly25 medically acknowledged1947–76 cohort.",
+  "cases": [
+    {
+      "official_case_number": 41,
+      "name": "Henriette BRESSOLLES",
+      "recovery_year": 1924,
+      "decade": 1920,
+      "diagnosis_as_published": "Morbo di Pott, paraplegia",
+      "recovery_date_source_context": "3 luglio 1924, a 28 anni. Miracolo riconosciuto il 4 giugno 1957 da Mons. Paul Rémond, arc",
+      "recognition_date_source_context": "4 giugno 1957 da Mons. Paul Rémond, arcivescovo di Nizza. La mattina del 4 luglio 1924, le sue gambe",
+      "source_ids": [
+        "M1"
+      ],
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "access": "C: inherited official summary screening",
+      "reading_scope": "Baseline screening inherited. Detailed fresh review only where explicitly included below."
+    },
+    {
+      "official_case_number": 42,
+      "name": "Lydia BROSSE",
+      "recovery_year": 1930,
+      "decade": 1930,
+      "diagnosis_as_published": "Fistole tubercolari multiple con vasti scollamenti in regione glutea sinistra",
+      "recovery_date_source_context": "11 ottobre 1930, a 41 anni. Miracolo riconosciuto il 5 agosto 1958 da Mons. Jean Guyot, ve",
+      "recognition_date_source_context": "5 agosto 1958 da Mons. Jean Guyot, vescovo di Coutances. Nel settembre 1984 Lourdes perde una delle ",
+      "source_ids": [
+        "M1"
+      ],
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "access": "C: inherited official summary screening",
+      "reading_scope": "Baseline screening inherited. Detailed fresh review only where explicitly included below."
+    },
+    {
+      "official_case_number": 43,
+      "name": "Suor MARIE MARGUERITE nata Françoise Capitaine",
+      "recovery_year": 1937,
+      "decade": 1930,
+      "diagnosis_as_published": "Ascesso del rene sinistro con edema flittenulare e « crisi cardiache »",
+      "recovery_date_source_context": "22 gennaio 1937, a 64 anni. Miracolo riconosciuto il 20 maggio 1946 dal cardinale Clement ",
+      "recognition_date_source_context": "20 maggio 1946 dal cardinale Clement Roques, arcivescovo di Rennes. L’anno 1937 comincia molto male ",
+      "source_ids": [
+        "M1"
+      ],
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "access": "C: inherited official summary screening",
+      "reading_scope": "Baseline screening inherited. Detailed fresh review only where explicitly included below."
+    },
+    {
+      "official_case_number": 44,
+      "name": "Louise JAMAIN (Mrs Maître)",
+      "recovery_year": 1937,
+      "decade": 1930,
+      "diagnosis_as_published": "Tubercolosi polmonare, intestinale, peritoneale",
+      "recovery_date_source_context": "1° aprile 1937, a 22 anni. Miracolo riconosciuto il 14 dicembre 1951 da Mons. Maurice Felt",
+      "recognition_date_source_context": "14 dicembre 1951 da Mons. Maurice Feltin, arcivescovo di Parigi. L’ospedale Laennec è formale: “Tube",
+      "source_ids": [
+        "M1"
+      ],
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "access": "C: inherited official summary screening",
+      "reading_scope": "Baseline screening inherited. Detailed fresh review only where explicitly included below."
+    },
+    {
+      "official_case_number": 45,
+      "name": "Francis PASCAL",
+      "recovery_year": 1938,
+      "decade": 1930,
+      "diagnosis_as_published": "Cecità, paralisi degli arti inferiori",
+      "recovery_date_source_context": "2 ottobre 1938, a 3 anni e 10 mesi. Miracolo riconosciuto il 31 maggio 1949 da Mons. Ch. d",
+      "recognition_date_source_context": "31 maggio 1949 da Mons. Ch. de Provenchères, arcivescovo di Aix en Provence. È la seconda guarigione",
+      "source_ids": [
+        "M1"
+      ],
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "access": "C: inherited official summary screening",
+      "reading_scope": "Baseline screening inherited. Detailed fresh review only where explicitly included below."
+    },
+    {
+      "official_case_number": 46,
+      "name": "Gabrielle CLAUZEL",
+      "recovery_year": 1943,
+      "decade": 1940,
+      "diagnosis_as_published": "Spondilite reumatica",
+      "recovery_date_source_context": "15 agosto 1943, al suo domicilio, all’età di 49 anni. Miracolo riconosciuto il 18 marzo 19",
+      "recognition_date_source_context": "18 marzo 1948 da Mons. Bertrand Lacaste, vescovo di Oran. Il 15 agosto 1943, Gabrielle chiede di ess",
+      "source_ids": [
+        "M1"
+      ],
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "access": "C: inherited official summary screening",
+      "reading_scope": "Baseline screening inherited. Detailed fresh review only where explicitly included below."
+    },
+    {
+      "official_case_number": 47,
+      "name": "Yvonne FOURNIER",
+      "recovery_year": 1945,
+      "decade": 1940,
+      "diagnosis_as_published": "Sindrome estenso-progressiva postraumatica dell’arto superiore sinistro. (Sindrome di Leriche)",
+      "recovery_date_source_context": "19 agosto 1945, a 22 anni. Miracolo riconosciuto il 14 novembre 1959 dal cardinale Mons. F",
+      "recognition_date_source_context": "14 novembre 1959 dal cardinale Mons. Feltin, arcivescovo di Parigi. Dietro l’inutilità informale e f",
+      "source_ids": [
+        "M1"
+      ],
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "access": "C: inherited official summary screening",
+      "reading_scope": "Baseline screening inherited. Detailed fresh review only where explicitly included below."
+    },
+    {
+      "official_case_number": 48,
+      "name": "Rose MARTIN",
+      "recovery_year": 1947,
+      "decade": 1940,
+      "diagnosis_as_published": "Cancro del collo uterino (epitelioma ghiandolare cilindrico)",
+      "recovery_date_source_context": "3 luglio 1947, a 46 anni. Miracolo riconosciuto il 5 magio 1949 da Mons. Rémond, arcivesco",
+      "recognition_date_source_context": "5 magio 1949 da Mons. Rémond, arcivescovo vescovo di Nizza. La morte ha colpito Rose là dove lei ha ",
+      "source_ids": [
+        "M1"
+      ],
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "access": "C: inherited official summary screening",
+      "reading_scope": "Baseline screening inherited. Detailed fresh review only where explicitly included below."
+    },
+    {
+      "official_case_number": 49,
+      "name": "Jeanne GESTAS",
+      "recovery_year": 1947,
+      "decade": 1940,
+      "diagnosis_as_published": "Turbe dispeptiche con complicanze occlusive post-operatorie",
+      "recovery_date_source_context": "22 agosto 1947, a 50 anni. Miracolo riconosciuto il 13 luglio 1952 da Mons. Paul Richaud, ",
+      "recognition_date_source_context": "13 luglio 1952 da Mons. Paul Richaud, arcivescovo di Bordeaux. Jeanne rimane stupita. Era così tanto",
+      "source_ids": [
+        "M1"
+      ],
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "access": "C: inherited official summary screening",
+      "reading_scope": "Baseline screening inherited. Detailed fresh review only where explicitly included below."
+    },
+    {
+      "official_case_number": 50,
+      "name": "Marie Thérèse CANIN",
+      "recovery_year": 1947,
+      "decade": 1940,
+      "diagnosis_as_published": "Morbo di Pott dorso-lombare e peritonite tubercolare fistolizzata",
+      "recovery_date_source_context": "9 ottobre 1947, all’età di 37 anni. Miracolo riconosciuto il 6 giugno 1952 da Mons, Jean D",
+      "recognition_date_source_context": "6 giugno 1952 da Mons, Jean Delay, arcivescovo di Marsiglia. La storia di Marie Thérèse è tristement",
+      "source_ids": [
+        "M1"
+      ],
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "access": "C: inherited official summary screening",
+      "reading_scope": "Baseline screening inherited. Detailed fresh review only where explicitly included below."
+    },
+    {
+      "official_case_number": 51,
+      "name": "Maddalena CARINI",
+      "recovery_year": 1948,
+      "decade": 1940,
+      "diagnosis_as_published": "Tubercolosi peritoneale, pleuro-polmonare e ossea, con coronaropatia",
+      "recovery_date_source_context": "15 agosto 1948, a 31 anni. Miracolo riconosciuto il 2 giugno 1960 dal cardinale G.B. Monti",
+      "recognition_date_source_context": "2 giugno 1960 dal cardinale G.B. Montini, arcivescovo di Milano. Questa guarigione è anche la storia",
+      "source_ids": [
+        "M1"
+      ],
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "access": "C: inherited official summary screening",
+      "reading_scope": "Baseline screening inherited. Detailed fresh review only where explicitly included below."
+    },
+    {
+      "official_case_number": 52,
+      "name": "Jeanne FRÉTEL",
+      "recovery_year": 1948,
+      "decade": 1940,
+      "diagnosis_as_published": "Peritonite tubercolare",
+      "recovery_date_source_context": "8 ottobre 1948, a 34 anni. Miracolo riconosciuto il 20 ottobre 1950 dal cardinale Roques, ",
+      "recognition_date_source_context": "20 ottobre 1950 dal cardinale Roques, arcivescovo di Rennes. “Il caso di Jeanne Fretel si colloca ne",
+      "source_ids": [
+        "M1"
+      ],
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "access": "C: inherited official summary screening",
+      "reading_scope": "Baseline screening inherited. Detailed fresh review only where explicitly included below."
+    },
+    {
+      "official_case_number": 53,
+      "name": "Théa ANGELE (Suor Marie Mercédès)",
+      "recovery_year": 1950,
+      "decade": 1950,
+      "diagnosis_as_published": "Sclerosi a placche da sei anni",
+      "recovery_date_source_context": "20 maggio 1950, a 29 anni. Miracolo riconosciuto il 28 giugno 1961 da Mons. Pierre Marie T",
+      "recognition_date_source_context": "28 giugno 1961 da Mons. Pierre Marie Théas, vescovo di Tarbes e Lourdes. Il suo nome, al momento del",
+      "source_ids": [
+        "M1"
+      ],
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "access": "C: inherited official summary screening",
+      "reading_scope": "Baseline screening inherited. Detailed fresh review only where explicitly included below."
+    },
+    {
+      "official_case_number": 54,
+      "name": "Evasio GANORA",
+      "recovery_year": 1950,
+      "decade": 1950,
+      "diagnosis_as_published": "Morbo di Hodgkin",
+      "recovery_date_source_context": "2 giugno 1950, a 37 anni. Miracolo riconosciuto il 31 maggio 1955 da Mons. G. Angrisani, v",
+      "recognition_date_source_context": "31 maggio 1955 da Mons. G. Angrisani, vescovo di Casale Monferrato. La storia medica di questo agric",
+      "source_ids": [
+        "M1"
+      ],
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "access": "C: inherited official summary screening",
+      "reading_scope": "Baseline screening inherited. Detailed fresh review only where explicitly included below."
+    },
+    {
+      "official_case_number": 55,
+      "name": "Edeltraud FULDA (Signora Haidinger)",
+      "recovery_year": 1950,
+      "decade": 1950,
+      "diagnosis_as_published": "Morbo di Addison",
+      "recovery_date_source_context": "12 agosto 1950, a 34 anni. Miracolo riconosciuto il 18 maggio 1955 dal cardinale Innitzer,",
+      "recognition_date_source_context": "18 maggio 1955 dal cardinale Innitzer, arcivescovo di Vienna. Edeltraud e Ruth, sua sorella, sono ba",
+      "source_ids": [
+        "M1"
+      ],
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "access": "C: inherited official summary screening",
+      "reading_scope": "Baseline screening inherited. Detailed fresh review only where explicitly included below."
+    },
+    {
+      "official_case_number": 56,
+      "name": "Paul PELLEGRIN",
+      "recovery_year": 1950,
+      "decade": 1950,
+      "diagnosis_as_published": "Fistola post-operatoria da svuotamento di ascesso epatico",
+      "recovery_date_source_context": "3 ottobre 1950, a 52 anni. Miracolo riconosciuto l’8 dicembre 1953 da Mons. Auguste Gaudel",
+      "recognition_date_source_context": "l’8 dicembre 1953 da Mons. Auguste Gaudel, vescovo del Féjus. Il 5 ottobre 1950 il colonnello Pelleg",
+      "source_ids": [
+        "M1"
+      ],
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "access": "C: inherited official summary screening",
+      "reading_scope": "Baseline screening inherited. Detailed fresh review only where explicitly included below."
+    },
+    {
+      "official_case_number": 57,
+      "name": "Fratel Léo SCHWAGER",
+      "recovery_year": 1952,
+      "decade": 1950,
+      "diagnosis_as_published": "Sclerosi a placche da cinque anni",
+      "recovery_date_source_context": "30 aprile 1952, a 28 anni. Miracolo riconosciuto il 18 dicembre 1960 da Mons. François Cha",
+      "recognition_date_source_context": "18 dicembre 1960 da Mons. François Charrière, vescovo di Losanna, Ginevra e Friburgo. Il 30 aprile 1",
+      "source_ids": [
+        "M1"
+      ],
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "access": "C: inherited official summary screening",
+      "reading_scope": "Baseline screening inherited. Detailed fresh review only where explicitly included below."
+    },
+    {
+      "official_case_number": 58,
+      "name": "Alice COUTEAULT nata GOURDON",
+      "recovery_year": 1952,
+      "decade": 1950,
+      "diagnosis_as_published": "Sclerosi a placche da tre anni",
+      "recovery_date_source_context": "15 maggio 1952 a 35 anni. Miracolo riconosciuto il 16 luglio 1956 da Mons. Henri Vion, ves",
+      "recognition_date_source_context": "16 luglio 1956 da Mons. Henri Vion, vescovo di Poitiers. Anche il marito di Alice vive un calvario n",
+      "source_ids": [
+        "M1"
+      ],
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "access": "C: inherited official summary screening",
+      "reading_scope": "Baseline screening inherited. Detailed fresh review only where explicitly included below."
+    },
+    {
+      "official_case_number": 59,
+      "name": "Marie BIGOT",
+      "recovery_year": 1953,
+      "decade": 1950,
+      "diagnosis_as_published": "Aracnoidite della fossa posteriore (cecità, sordità, emiplegia)",
+      "recovery_date_source_context": "8 ottobre 1953 e 8 – 10 ottobre 1954, a 31 e 32 anni. Miracolo riconosciuto il 15 agosto 1",
+      "recognition_date_source_context": "15 agosto 1956 dal cardinale Clement Roques, arcivescovo di Rennes. Il caso di Marie è unico negli a",
+      "source_ids": [
+        "M1"
+      ],
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "access": "C: inherited official summary screening",
+      "reading_scope": "Baseline screening inherited. Detailed fresh review only where explicitly included below."
+    },
+    {
+      "official_case_number": 60,
+      "name": "Ginette NOUVEL nata Ginette Fabre",
+      "recovery_year": 1954,
+      "decade": 1950,
+      "diagnosis_as_published": "Morbo di Budd-Chiari. (Trombosi delle vene sovraepatiche)",
+      "recovery_date_source_context": "21 settembre 1954, a 27 anni. Miracolo riconosciuto il 31 maggio 1963 da Mons. Claude Dupu",
+      "recognition_date_source_context": "31 maggio 1963 da Mons. Claude Dupuy, arcivescovo di Albi. Ginette compirà 26 anni tra alcune settim",
+      "source_ids": [
+        "M1"
+      ],
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "access": "C: inherited official summary screening",
+      "reading_scope": "Baseline screening inherited. Detailed fresh review only where explicitly included below."
+    },
+    {
+      "official_case_number": 61,
+      "name": "Elisa ALOI (Signora Varacalli)",
+      "recovery_year": 1958,
+      "decade": 1950,
+      "diagnosis_as_published": "Tubercolosi osteo-articolare e fistole multiple dell’arto inferiore destro",
+      "recovery_date_source_context": "5 giugno 1958, a 27 anni. Miracolo riconosciuto il 26 maggio 1965 da Mons. Francesco Fasol",
+      "recognition_date_source_context": "26 maggio 1965 da Mons. Francesco Fasola, arcivescovo di Messina. Elisa Aloi ha quasi 17 ani quando ",
+      "source_ids": [
+        "M1"
+      ],
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "access": "C: inherited official summary screening",
+      "reading_scope": "Baseline screening inherited. Detailed fresh review only where explicitly included below."
+    },
+    {
+      "official_case_number": 62,
+      "name": "Juliette TAMBURINI",
+      "recovery_year": 1959,
+      "decade": 1950,
+      "diagnosis_as_published": "Osteo-periostite femorale fistolizzata, epistassi da dieci anni",
+      "recovery_date_source_context": "17 luglio 1959, a 22 anni. Miracolo riconosciuto l’11 maggio 1965 da Mons. Marc Lallier, a",
+      "recognition_date_source_context": "l’11 maggio 1965 da Mons. Marc Lallier, arcivescovo di Marsiglia. Il corpo della giovane Juliette è ",
+      "source_ids": [
+        "M1"
+      ],
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "access": "C: inherited official summary screening",
+      "reading_scope": "Baseline screening inherited. Detailed fresh review only where explicitly included below."
+    },
+    {
+      "official_case_number": 63,
+      "name": "Vittorio MICHELI",
+      "recovery_year": 1963,
+      "decade": 1960,
+      "diagnosis_as_published": "Sarcoma dell’anca sinistra",
+      "recovery_date_source_context": "1° giugno 1963, a 23 anni. Miracolo riconosciuto il 26 maggio 1976 da Mons. Alessandro Got",
+      "recognition_date_source_context": "26 maggio 1976 da Mons. Alessandro Gottardi, arcivescovo di Trento. Chi potrebbe pensare che il bare",
+      "source_ids": [
+        "M1"
+      ],
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "access": "C: inherited official summary screening",
+      "reading_scope": "Baseline screening inherited. Detailed fresh review only where explicitly included below.",
+      "detailed_assessment": {
+        "source_ids": [
+          "M2",
+          "M3",
+          "M10",
+          "M17",
+          "N4",
+          "N5",
+          "N6",
+          "N7",
+          "N10"
+        ],
+        "religious_connection": "Bath with immediate reported pain/appetite change; subsequent walking recovery and radiological remodeling.",
+        "actual_documentation": "Published radiograph reproductions dated1August1962 and23August1963 inspected. Histology and other films described, not independently examined here.",
+        "open_conflicts": [
+          "Garner reports two-month chemotherapy trial; Neilan and later report-derived summaries say none. Original treatment chart needed.",
+          "Garner publishes1963 post-pilgrimage film; Neilan calls1964 first films.",
+          "CMIL1971/1972 decision chronology differs between summaries."
+        ],
+        "structural_vs_symptomatic": "Symptomatic improvement was abrupt; entire pelvis was not documented regenerating instantly on film.",
+        "counterevidence": "Dissing1978 documents an adult malignant pelvic-tumor regression with radiographs and histology, without antitumor treatment, over a much longer course. It is a relevant comparator, not a complete Micheli explanation.",
+        "next_records": [
+          "Salmon full report",
+          "Verona/Trento/Borgo treatment and biopsy charts",
+          "Original films",
+          "1971 orthopedic meeting abstract"
+        ],
+        "assessment": "Serious structural-recovery candidate; treatment discrepancy unresolved; no complete causal adjudication."
+      }
+    },
+    {
+      "official_case_number": 64,
+      "name": "Serge PERRIN",
+      "recovery_year": 1970,
+      "decade": 1970,
+      "diagnosis_as_published": "Emiplegia destra recidivante, con alterazione del visus, da turbe circolatorie carotidee bilaterali",
+      "recovery_date_source_context": "1° maggio 1970, a 41 anni. Miracolo riconosciuto il 17 luglio 1978 da Mons. Jean Orchampt,",
+      "recognition_date_source_context": "17 luglio 1978 da Mons. Jean Orchampt, vescovo di Angers. Nel mese di dicembre 1968 Serge viene impr",
+      "source_ids": [
+        "M1"
+      ],
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "access": "C: inherited official summary screening",
+      "reading_scope": "Baseline screening inherited. Detailed fresh review only where explicitly included below.",
+      "detailed_assessment": {
+        "source_ids": [
+          "M18",
+          "N10"
+        ],
+        "religious_connection": "Anointing during Lourdes pilgrimage;1May1970 reported recovery.",
+        "actual_documentation": "Kruijthoff reports personally reading Mouren/Bartoli booklet; recurrent hemiplegia/visual symptoms and inconclusive arteriograms described.",
+        "limits": "Original neurological and angiographic file not retrieved; later vascular-course objections need original follow-up.",
+        "next_records": [
+          "Mouren/Bartoli32-page report",
+          "Contemporaneous tests and follow-up"
+        ],
+        "assessment": "Priority documentary lead, below Micheli in directly accessible structural evidence in this pass."
+      }
+    },
+    {
+      "official_case_number": 65,
+      "name": "Delizia CIROLLI",
+      "recovery_year": 1976,
+      "decade": 1970,
+      "diagnosis_as_published": "Sarcoma di Ewing del ginocchio destro",
+      "recovery_date_source_context": "il Natale 1976. Miracolo riconosciuto il 28 giugno 1989 da Mons. Luigi Bonmarito, vescovo ",
+      "recognition_date_source_context": "28 giugno 1989 da Mons. Luigi Bonmarito, vescovo di Catania. Delizia Cirolli è oggi una madre di fam",
+      "source_ids": [
+        "M1"
+      ],
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "access": "C: inherited official summary screening",
+      "reading_scope": "Baseline screening inherited. Detailed fresh review only where explicitly included below.",
+      "detailed_assessment": {
+        "source_ids": [
+          "M9",
+          "M18",
+          "N8",
+          "N9",
+          "N10"
+        ],
+        "religious_connection": "August1976 pilgrimage and baths in Dowling; September lesion progression; December home recovery with continuing Marian prayer and Lourdes water.",
+        "actual_documentation": "CMIL physician describes serial radiographs and biopsy reviews by Cordaro,Payan,Nezelof,Mazabraud/Curie colleagues. Raw slides and paired films not retrieved.",
+        "diagnosis": "Malignancy retained; neuroblastoma metastasis versus Ewing sarcoma debated.",
+        "treatment": "Amputation and cobalt irradiation proposed but declined; no antitumor treatment in Dowling narrative.",
+        "structural_vs_symptomatic": "Delayed progressive recovery and bone repair with residual knee angulation; not an instant bath-side disappearance.",
+        "open_conflicts": [
+          "Exact subtype and current natural-history comparison require pathology.",
+          "Later summaries differ on age and July/August pilgrimage month.",
+          "1989/1990 editions47pages;2005 cited48pages."
+        ],
+        "next_records": [
+          "Trifaud/Colvin full report",
+          "Original biopsy and independent pathology review",
+          "Serial films"
+        ],
+        "assessment": "Important recovery candidate; delayed onset weakens strict immediate bath-timing inference without erasing continued water/prayer association."
+      }
+    },
+    {
+      "official_case_number": 67,
+      "name": "Anna SANTANIELLO",
+      "recovery_year": 1952,
+      "decade": 1950,
+      "diagnosis_as_published": "Morbo di Bouillaud",
+      "recovery_date_source_context": "19-08-1952 all’età di 41 anni. Miracolo riconosciuto da Mons. Gerardo Pierro, arcivescovo ",
+      "recognition_date_source_context": "da Mons. Gerardo Pierro, arcivescovo di Salerno, il 21-09-2005. Nata nel 1911, Anna Santaniello si è",
+      "source_ids": [
+        "M1"
+      ],
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "access": "C: inherited official summary screening",
+      "reading_scope": "Baseline screening inherited. Detailed fresh review only where explicitly included below."
+    },
+    {
+      "official_case_number": 68,
+      "name": "Suor Luigina TRAVERSO",
+      "recovery_year": 1965,
+      "decade": 1960,
+      "diagnosis_as_published": "Paralisi della gamba sinistra",
+      "recovery_date_source_context": "23-07-1965. Guarigione riconosciuta il 11.10.2012 da Mons. Alceste Catella, vescovo di Cas",
+      "recognition_date_source_context": "11.10.2012 da Mons. Alceste Catella, vescovo di Casale Monferrato. Suor Luigina Traverso è nata il 2",
+      "source_ids": [
+        "M1"
+      ],
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "access": "C: inherited official summary screening",
+      "reading_scope": "Baseline screening inherited. Detailed fresh review only where explicitly included below."
+    },
+    {
+      "official_case_number": 71,
+      "name": "John Traynor",
+      "recovery_year": 1923,
+      "decade": 1920,
+      "diagnosis_as_published": "Epilepsy, right arm paralysis, paraplegia and other sequelae of war injuries",
+      "recovery_date_source_context": "25–27 luglio 1923",
+      "recognition_date_source_context": "8 dicembre 2024",
+      "source_ids": [
+        "M1"
+      ],
+      "source_url": "https://www.lourdes-france.com/it/guarigioni-miracolose/",
+      "access": "C: inherited official summary screening",
+      "reading_scope": "Baseline screening inherited. Detailed fresh review only where explicitly included below.",
+      "detailed_assessment": {
+        "source_ids": [
+          "M4",
+          "M5",
+          "N1",
+          "N2",
+          "N3"
+        ],
+        "religious_connection": "Lourdes baths and Eucharistic procession, with examinations reported before and after24–27July1923.",
+        "actual_documentation": "1926 published report reproduces examination certificates,1924 GP follow-up and1926 later examination. New independent military pension-card reproduction saved.",
+        "before": "24July examination attributed to Azurdia,Finn,Marley. Certificate issued subsequently; original1923 clinical sheet not acquired.",
+        "after": "25July walking possible but difficult;27July improved walking,arm use,sensation and smaller skull opening.1926 residual claw hand/forearm difference retained.",
+        "structural_vs_functional": "Nerve regeneration inferred by Vallet, not directly imaged or microscopically observed. Skull closure assessed clinically; no paired skull radiographs retrieved.",
+        "new_evidence": "Pension card identifies RNR service,address and gunshot chest injury; birth year1882 differs from article1883. WFA reports100%disability. Card does not prove every operative detail or post-cure official medical reassessment.",
+        "next_records": [
+          "Nerve-operation notes",
+          "Ministry of Pensions medical-board records and correspondence",
+          "Full2024 canonical source list"
+        ],
+        "assessment": "Substantive historical medical recovery record; no adequate complete ordinary cause demonstrated here, but key original neurological files still absent."
+      }
+    }
+  ]
+}

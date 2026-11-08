@@ -1,0 +1,56 @@
+[
+  {
+    "url": "https://www.lourdes-france.org/guerisons-et-miracles/",
+    "local_file": "research/lourdes-medical-audit-20261101/sources/official-cases-it.txt",
+    "read_scope": "Official detailed Italian narratives and current French roster; summaries, not original charts.",
+    "sha256": "6fca966ff6e759280cceec055dd3b397a059c245799aaa548770d7b2737460bd"
+  },
+  {
+    "url": "https://www.1914-1918.be/inf_miraculee.php",
+    "local_file": "research/lourdes-expanded-audit-20261103/1919-1959/sources/bressolles-war-doctors.html",
+    "read_scope": "Whole narrative read; derivative1972 medical collection, not an original1924 certificate.",
+    "sha256": "12343d81c6f5e6e08463ec84e772faa95aeb3bf1ce7a85ecdc0950d8bf75dfaf"
+  },
+  {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3854941/",
+    "local_file": "research/lourdes-medical-audit-20261101/sources/francois-sternberg-fee-2012.txt",
+    "read_scope": "Archival reappraisal: period1928–46, Tables3/4, discussion, footnotes30/47 and relevant case limitations read.",
+    "sha256": "afb49ad418a6549cd3c6b13210d947f5f0ec9eac65264e695cb1968f658677f2"
+  },
+  {
+    "url": "https://australiancatholichistoricalsociety.com.au/wp-content/uploads/2021/09/Annals-October-2014.pdf",
+    "local_file": null,
+    "read_scope": "Indexed FrancisPascal certificate passage read; full issue not acquired."
+  },
+  {
+    "url": "https://www.imagomundi.biz/wp-content/uploads/2021/06/PNMA25-Lourdes-Paul_Dahm.pdf",
+    "local_file": null,
+    "read_scope": "Indexed decree/examination passage only; full book not acquired."
+  },
+  {
+    "url": "https://www.diocese-quimper.fr/wp-content/uploads/2026/01/1950-srql.pdf",
+    "local_file": null,
+    "read_scope": "Indexed clinical-report extract only; download403, webfetch size limit. Full contents not read."
+  },
+  {
+    "url": "https://www.catholon.com/miracles-i18n/fr/miracle-lourdes-jeanne-fretel.html?lang=fr",
+    "local_file": null,
+    "read_scope": "Secondary source/source-list read to trace original1950scan; not substituted for original chart."
+  },
+  {
+    "url": "https://www.revistadeespiritualidad.com/upload/pdf/924articulo.pdf",
+    "local_file": "research/lourdes-expanded-audit-20261103/1919-1959/sources/bigot-debroise-spanish.pdf",
+    "read_scope": "Entire13page1958 doctor eyewitness account read; operative and clinical transcriptions, post-healing examinations and conclusion; printed419/420 visually inspected, QA saved.",
+    "sha256": "8d9e98d8dec224510056a3bc598f536de73682a5936702f668aa63583843d0d8"
+  },
+  {
+    "url": "https://www.imagomundi.biz/wp-content/uploads/2022/01/PBHL316-Die_Wunder_von_Lourdes-Andreas_Resch.pdf",
+    "local_file": null,
+    "read_scope": "Indexed Aloi passage read; full book not acquired in this pass."
+  },
+  {
+    "url": "https://fr.scribd.com/document/868116573/9782714489654",
+    "local_file": null,
+    "read_scope": "Indexed Tamburini passage, secondarybook; not fullbook acquired."
+  }
+]

@@ -1,0 +1,84 @@
+Browser tab: 22, Title: "Moteur de recherche des Archives départementales de la Haute Marne - Consultation du document « Correspondance. »", URL: "https://recherche.archives.haute-marne.fr/archives/show/FRAD052_00000000G_de-143".
+1 AXWebArea URL: recherche.archives.haute-marne.fr/archives/show/FRAD052_00000000G_de-143, Moteur de recherche des Archives départementales de la Haute Marne - Consultation du document « Correspondance. »
+	2 container
+		3 container wrapper
+			4 heading Bach, Value: 1
+				5 link Description: Bach, Help: Notre actu, nos missions..., Value: haute-marne.fr/culture/archives-departementales/
+			6 container container
+				8 container nav_div
+					9 link Description: Le guide, Value: haute-marne.fr/liens-utiles/archives-departementales/archives-en-ligne/
+					10 link Description: Panier, Value: recherche.archives.haute-marne.fr/basketList
+					11 link Description: Historique, Value: recherche.archives.haute-marne.fr/searchhistoList
+					12 link Description: Connexion, Value: recherche.archives.haute-marne.fr/login
+				13 content list
+					14 link Description: Accueil, Value: recherche.archives.haute-marne.fr/home
+					15 link Description: Chercher, Value: recherche.archives.haute-marne.fr/archives/search
+					16 link Description: Soldats, Value: recherche.archives.haute-marne.fr/matricules/search
+					17 link Description: Inventaires en ligne, Value: recherche.archives.haute-marne.fr/archives/classification-scheme
+					18 link Description: Index, Value: recherche.archives.haute-marne.fr/archives/browse
+				19 container
+					20 content list
+						21 link Description: Clergé séculier du diocèse de Langres., Value: recherche.archives.haute-marne.fr/archives/show/FRAD052_00000000G_description
+						22 link Description: › Evêché de Langres, Value: recherche.archives.haute-marne.fr/archives/show/FRAD052_00000000G_tt1-1
+						23 link Description: › Duché Pairie de Langres, Value: recherche.archives.haute-marne.fr/archives/show/FRAD052_00000000G_tt2-6
+					24 heading Correspondance. • XVIe-1680 Situer dans l'inventaire Ajout à votre panier, Value: 2
+						25 text Correspondance.  • XVIe-1680
+						26 link Description: Situer dans l'inventaire, Value: recherche.archives.haute-marne.fr/document/FRAD052_00000000G#de-143
+						27 link Description: Ajout à votre panier, Value: recherche.archives.haute-marne.fr/basketAdd/FRAD052_00000000G_de-143
+					28 link Description: Item précédent, Help: Afficher l'item précédent État du revenu temporel de l'évêché de Langres et bail de ce revenu., Value: recherche.archives.haute-marne.fr/archives/show/FRAD052_00000000G_de-142, ID: prev_comp
+					29 link Description: Item suivant, Value: recherche.archives.haute-marne.fr/archives/show/FRAD052_00000000G_de-144, ID: next_comp, Help: Afficher l'item suivant Correspondance. Lettres d'affaires adressées à l'abbé du Val-des-Choux, 1681-1683 ; à l'évêque de Langres, 1683.
+					30 link Description: Imprimer, Value: recherche.archives.haute-marne.fr/printDoc/FRAD052_00000000G_de-143
+					31 tab group
+						32 tab (selected, expanded, settable, boolean) Description: Description, Secondary Actions: Collapse, Value: 1
+Description
+					33 container Description: Description, ID: de-143
+						34 container
+							35 heading Présentation du contenu, Value: 3
+								36 text Présentation du contenu
+							37 text - Lettres non datées, adressées par Antoine de Rossillon aux officiers de l'évêque de Langres, à Langres ; écrites à Rochetaillée, relatives à des méfaits commis par des gens dudit Rossillon, et pour lesquels les officiers de l'évêque avaient fait des poursuites, XVIe siècle. - Lettres de Jean Girardin, avocat de l'évêque de Langres, à Sens, adressées au procureur général de l'évêque, à Langres, et au lieutenant général du bailli dudit Langres, par lesquelles il rend compte de ses procédures dans des affaires d'intérêt concernant l'évêque, XVIe s. - Lettres d'affaires adressées à l'abbé du Val-des-Choux (Côte-d'Or) 1656-1680 ; à M. Tavernot, grand vicaire de l'évêque de Langres, 1669 ; M. Aubert, intendant de l'évêque à Langres, 1677-78 ; M. de Lille, maître de forges et fermier de l'évêque à Montigny, 1678 ; M. Profilet, receveur général de l'évêque, à Langres, 1680 ; à l'évêque de Langres, 1680. - M. Languet, procureur général à Dijon, à M. Senet, abbé du Val-des-Choux : « Je vois par vostre lettre que vous me marqués vous devoir rendre à Mornai le lendemain de quasimodo ;..... Comme je sçais que les moindres pluies font déborder la Vingenne, ce qui rend l'accès de Montigny dangereux et difficile, je ne crois pas que vous vous soies hazardé en ce pays-là,..... » Dijon, 23 avril 1679. - Le même au même : « Je ne retournai qu'hyer au soir de Montigny, où j'ay partagé le bois vulgairement appelle les Quatrevingts Arpents, qui nous apartient, à monsieur de Langres et à moy, en commun ; mais nous n'y avons pas trouvé la quantité desdits quatrevingts arpents,.... » Dijon, 12 mai 1679. - M. de Lisle, fermier de l'évêque pour le fourneau de Montigny, à M. Profilet, receveur général de l'évêque de Langres : «... Il y a plus à faire sur le boys de mesrain que sur le charbon, et qu'il n'y en auroit que pour une année pour le fourneau de monseigneur, et qu'on n'en peut pas trouver pour l'avenir, je prens la liberté d'escrire à mon dit sieur abbé (du Val-des-Choux) que j'ay bien du regret de luy dire que j'ay prins des bois ailleurs,... » Montigny, 25 mars 1680.
+						38 container
+							39 heading Date de l'unité documentaire, Value: 3
+								40 text Date de l'unité documentaire
+							41 text XVIe-1680
+						42 container
+							43 heading Description physique, Value: 3
+								44 text Description physique
+							45 text (Liasse.) - 53 pièces, papier.
+						46 container
+							47 heading Descripteurs, Value: 3
+								48 text Descripteurs
+							49 text Grand domaine de recherche :
+							50 link Description: Inventaires d'archives, Value: recherche.archives.haute-marne.fr/archives/search?filter_field=dyndescr_cSubject_liste-grandDomaine&filter_value=Inventaires+d%27archives
+							51 text Sous-domaine de recherche :
+							52 link Description: Archives religieuses, Value: recherche.archives.haute-marne.fr/archives/search?filter_field=dyndescr_cSubject_liste-sousDomaine&filter_value=Archives+religieuses
+							53 text Nom de personne :
+							54 link Description: Aubert (intendant de l'évêque à Langres), Value: recherche.archives.haute-marne.fr/archives/search?filter_field=cPersname&filter_value=Aubert+%28intendant+de+l%27%C3%A9v%C3%AAque+%C3%A0+Langres%29
+							55 text  • 
+							56 link Description: Girardin, Jean (avocat de l'évêque de Langres), Value: recherche.archives.haute-marne.fr/archives/search?filter_field=cPersname&filter_value=Girardin%2C+Jean+%28avocat+de+l%27%C3%A9v%C3%AAque+de+Langres%29
+							57 text  • 
+							58 link Description: Languet (procureur général à Dijon), Value: recherche.archives.haute-marne.fr/archives/search?filter_field=cPersname&filter_value=Languet+%28procureur+g%C3%A9n%C3%A9ral+%C3%A0+Dijon%29
+							59 text  • 
+							60 link Description: Lille [Lisle], de (maître de forges et fermier de l'évêque à Montigny), Value: recherche.archives.haute-marne.fr/archives/search?filter_field=cPersname&filter_value=Lille+%5BLisle%5D%2C+de+%28ma%C3%AEtre+de+forges+et+fermier+de+l%27%C3%A9v%C3%AAque+%C3%A0+Montigny%29
+							61 text  • 
+							62 link Description: Profilet (receveur général de l'évêque), Value: recherche.archives.haute-marne.fr/archives/search?filter_field=cPersname&filter_value=Profilet+%28receveur+g%C3%A9n%C3%A9ral+de+l%27%C3%A9v%C3%AAque%29
+							63 text  • 
+							64 link Description: Rossillon, Antoine de, Value: recherche.archives.haute-marne.fr/archives/search?filter_field=cPersname&filter_value=Rossillon%2C+Antoine+de
+							65 text  • 
+							66 link Description: Senet (abbé du Val-des-Choux), Value: recherche.archives.haute-marne.fr/archives/search?filter_field=cPersname&filter_value=Senet+%28abb%C3%A9+du+Val-des-Choux%29
+							67 text  • 
+							68 link Description: Tavernot (grand vicaire de l'évêque de Langres), Value: recherche.archives.haute-marne.fr/archives/search?filter_field=cPersname&filter_value=Tavernot+%28grand+vicaire+de+l%27%C3%A9v%C3%AAque+de+Langres%29
+							69 text Nom géographique :
+							70 link Description: Rochetaillée (Haute-Marne, France), Value: recherche.archives.haute-marne.fr/archives/search?filter_field=cGeogname&filter_value=Rochetaill%C3%A9e+%28Haute-Marne%2C+France%29
+							71 text  • 
+							72 link Description: Sens (Yonne, France), Value: recherche.archives.haute-marne.fr/archives/search?filter_field=cGeogname&filter_value=Sens+%28Yonne%2C+France%29
+							73 text  • 
+							74 link Description: Villiers-le-Duc (Côte-d'Or, France), Value: recherche.archives.haute-marne.fr/archives/search?filter_field=cGeogname&filter_value=Villiers-le-Duc+%28C%C3%B4te-d%27Or%2C+France%29
+						75 container
+							76 text Cotes extrêmes  G 94
+				77 container footer
+					78 text © 2026 Archives départementales de la Haute Marne | Développé par Anaphore | 
+					79 link Description: Mentions légales, Value: recherche.archives.haute-marne.fr/footer/legals
+					80 text  | 
+					81 text Gestion des cookies
+
+The focused UI element is 1 AXWebArea URL: recherche.archives.haute-marne.fr/archives/show/FRAD052_00000000G_de-143, Moteur de recherche des Archives départementales de la Haute Marne - Consultation du document « Correspondance. »

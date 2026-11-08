@@ -1,0 +1,109 @@
+[
+  {
+    "id": "[S1]",
+    "description": "Al-Ahram, 6 May 1968, Hassan Abu al-Aynayn, original Arabic scan and modern transcription hosted by the Zeitoun church archive:",
+    "urls": [
+      "https://ourladyofzeitoun.com/ar/newspaper/الأهرام-6مايو-1968/",
+      "https://ourladyofzeitoun.com/en/newspaper/al-ahram-newspaper-may-6-1968/"
+    ],
+    "provenance_note": "Original scan and acreage/traffic crops saved locally. The scan page heading appears 3 despite a modern filename containing p2."
+  },
+  {
+    "id": "[S2]",
+    "description": "Al-Fidaa, 3 August 1970, original petition passage (page image 5), archive:",
+    "urls": [
+      "https://ourladyofzeitoun.com/ar/newspaper/جريدة-الفداء-3-اغسطس-1970/",
+      "https://ourladyofzeitoun.com/en/newspaper/al-fida-newspaper-3-august-1970/"
+    ],
+    "provenance_note": "Original scan and fida-petition-crop.png saved locally."
+  },
+  {
+    "id": "[S3]",
+    "description": "Egyptian Ministry of Agriculture and Land Reclamation, Sustainable Agricultural Development Strategy towards 2030 (Cairo, 2009), printed page 4: 1 feddan = 0.420 hectare = 4,200 m². Official Egyptian strategy hosted by FAOLEX:",
+    "urls": [
+      "https://faolex.fao.org/docs/pdf/egy141040E.pdf"
+    ],
+    "provenance_note": ""
+  },
+  {
+    "id": "[S4]",
+    "description": "William Farid Basili, Director of Inquiries and Complaints, Ministry of Tourism, report dated 30 April 1968, republished in church archive:",
+    "urls": [
+      "https://ourladyofzeitoun.com/en/report/ministry-of-tourism-department-of-inquiries/"
+    ],
+    "provenance_note": "Local parent-source text: ../zeitoun-investigation-records-20261027/sources/ministry-en.txt"
+  },
+  {
+    "id": "[S5]",
+    "description": "Bishop Gregorios, 'Scenes of the Apparition,' church archive:",
+    "urls": [
+      "https://ourladyofzeitoun.com/en/report/scenes-of-the-apparition/"
+    ],
+    "provenance_note": "Local parent-source text: ../zeitoun-independence-audit-20261027/sources/scenes.txt"
+  },
+  {
+    "id": "[S6]",
+    "description": "Ezzat El-Saadani, Al-Ahram, 7 May 1968, archive:",
+    "urls": [
+      "https://ourladyofzeitoun.com/en/newspaper/al-ahram-newspaper-may-7-1968/"
+    ],
+    "provenance_note": "Original scan and visually checked Arabic crops in ../zeitoun-crowd-validation-20261027/."
+  },
+  {
+    "id": "[S7]",
+    "description": "Cynthia Nelson, anthropologist, 'The Virgin of Zeitoun' (1973), firsthand account. Text held by parent-source audit:",
+    "urls": [],
+    "provenance_note": "../zeitoun-independence-audit-20261027/sources/nelson-1973.txt\nThe precise original publication metadata and Nelson's institutional affiliation should be carried over from that audit rather than guessed here."
+  },
+  {
+    "id": "[S8]",
+    "description": "John Challen, Chartered Institution of Highways and Transportation, 22 November 2022, expert commentary of Prof G. Keith Still, University of Suffolk:",
+    "urls": [
+      "https://www.ciht.org.uk/news/five-must-knows-to-manage-a-large-scale-event-outdoors-safely/"
+    ],
+    "provenance_note": ""
+  },
+  {
+    "id": "[S9]",
+    "description": "UK Department for Transport, TAL 01/16, updated 23 November 2017; experiments by University of Greenwich Fire Safety Engineering Group:",
+    "urls": [
+      "https://www.gov.uk/government/publications/influence-of-bollards-on-pedestrian-evacuation-flow-tal-0116/the-influence-of-bollards-on-pedestrian-evacuation-flow"
+    ],
+    "provenance_note": ""
+  },
+  {
+    "id": "[S10]",
+    "description": "Fr Anthony Mourad, Pints with Aquinas episode 601, video and transcript. Relevant approximate segment: 1:14 for unique viewers, later discussion for 94:",
+    "urls": [
+      "https://www.youtube.com/watch?v=-pQKNgwQjdk",
+      "https://podscripts.co/podcasts/pints-with-aquinas/the-miracle-of-our-lady-of-zeitoun-fr-anthony-mourad-ep-601"
+    ],
+    "provenance_note": ""
+  },
+  {
+    "id": "[S11]",
+    "description": "Eric Ouellet, own quantitative reconstruction dated 12 October 2011, blog:",
+    "urls": [
+      "https://parasociology.blogspot.com/2011/10/"
+    ],
+    "provenance_note": "Table and caveat concerning 34 sourced versus 94 reconstructed appearances are preserved in downloaded HTML."
+  },
+  {
+    "id": "[S12]",
+    "description": "OpenStreetMap contributors, modern API geometry downloaded 27 October 2026, ODbL:",
+    "urls": [
+      "https://api.openstreetmap.org/api/0.6/map?bbox=31.3105%2C30.1002%2C31.3205%2C30.1092",
+      "https://www.openstreetmap.org/way/922977953",
+      "https://www.openstreetmap.org/way/28847332"
+    ],
+    "provenance_note": ""
+  },
+  {
+    "id": "[S13]",
+    "description": "Esri World Imagery REST service, modern imagery, acquisition date unverified. Copyright metadata: Esri, Vantor, Earthstar Geographics, and the GIS User Community. Used only as an approximate research width check, not a reconstruction of the 1968 scene:",
+    "urls": [
+      "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer"
+    ],
+    "provenance_note": "Actual exported extent is saved in sources/esri-neighborhood-extent.json. Original analysis map uses OSM instead of republishing this photograph."
+  }
+]

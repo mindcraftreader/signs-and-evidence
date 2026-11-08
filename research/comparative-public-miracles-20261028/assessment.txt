@@ -1,0 +1,52 @@
+MODERN MIRACLE COMPARISON: FIRST-PASS ASSESSMENT
+28 October 2026
+
+QUESTION
+Do other religions supply modern cases comparable in documentation and public character to Fatima, Zeitoun and Padre Pio? Search strength, rather than a requirement to produce a religious tie, controls inclusion. Ancient foundational narratives are excluded. The Bab's1850 execution is included only as an explicitly earlier press/diplomatic-era comparison.
+
+RESULT
+This pass has not established an equally documented counterpart to the entire combination, nor a Jewish counterpart to Zeitoun's reported repeated mass visibility. That is a substantive limit on using a casual list of other religions' miracles to answer the Christian argument. It does not establish exhaustive global uniqueness or independently settle the causes of the Christian events.
+
+Other traditions do have modern public extraordinary claims, firsthand investigators and, in some instances, published physical observations. Therefore the unrestricted proposition that only Christianity has such claims or such evidence is too strong. Comparable features must not be confused with comparable overall evidential strength.
+
+STRONGEST CANDIDATES LOCATED
+
+HINDU MILK EVENT,1995
+UPDATE 1 NOVEMBER 2026: Excluded as a serious rival supernatural case in the current cumulative comparison. The reviewed evidence places it nowhere near Fatima as a case for supernatural intervention: ordinary-object replication and reported runoff/dye tracing address its central effect. Assign no positive weight as an authenticated rival divine sign or matched counterexample. Retain the historical record; reopen only with new substantive evidence and an explicit argument addressing these findings. This supersedes any earlier wording implying a competitive evidential peer. Detailed disposition: ../comparative-public-miracles-followup-20261101/research-report.txt.
+
+The strongest public Hindu candidate found: contemporary international reporting, named participants and a physical appearance that many people tried directly. Against it there is specific contemporaneous reporting of spoon-emptying replication with an ordinary object and tracing runoff down idols. This is more concrete counterevidence than a generic appeal to mass suggestion. Exceptional no-runoff and large-volume claims were also preserved; the recovered tests do not separately adjudicate all of them. No dated advance record of an equivalently specific appointed public sign was found. See hinduism/report.txt, sources.json and candidates.json.
+
+SATHYA SAI BABA
+A closer sustained personal comparator than a Zeitoun counterpart. University of Iceland psychology professor Erlendur Haraldsson personally investigated reported productions and collected accounts including distant fragrance. His research is a substantive lead, with disputed observations and refusal of proposed controlled scientific participation. No reliable direct-observer denominator was established. The separate2007 airport announcement resembles an appointed public sign, but a named devotee's contemporary account describes departure without the anticipated manifestation. Other lunar-face reports on other dates remain separate claims. See hinduism/report.txt and root-audit/report.txt.
+
+JEWISH APPARITIONS AND HEALINGS
+Rachel's reported2009 appearance to Gaza soldiers includes a named firsthand account of a womanlike luminous figure and a group encounter. Bar-Ilan political-studies researcher Elisheva Rosman identifies four recorded testimonies, with divergent descriptions. This supplies a real qualitative apparition comparison; it does not supply independently documented Zeitoun-scale crowds or repeated appearances. Rebbe sightings are generally individual even in the promoter's introduction. Identifiable healing reports name real treating specialists, but clinical records were not recovered. See judaism/report.txt and candidate-register.json.
+
+BUDDHIST BODILY CASES
+University of Wisconsin–Madison biocultural anthropologist and Tibetan medical practitioner Tawni Tidwell's published2021 case documents marked resistance to decomposition over37days through attendant-recorded daily imagery and temperature measurements. The team worked remotely under pandemic restrictions; body temperature tracked room temperature, and later drying and decay occurred. It is a substantive observational case deserving evaluation, not scientific certification of a supernatural cause or complete incorruption. Original article: https://pmc.ncbi.nlm.nih.gov/articles/PMC12325478/
+
+Catholic scholar Francis Tiso's investigation of Khenpo A Cho's reported1998 rainbow body preserves named witnesses and reports of shrinkage, fragrance and disappearance. Interviews were retrospective; the body was covered for the critical interval and no body photographs were recovered. This is not a matched public disappearance experiment. The other-traditions report provides the source audit and additional Muslim, Buddhist and Sikh candidates.
+
+MUSLIM PHYSICAL CASE
+Howard Hall and colleagues in Case Western Reserve University's Division of Behavioral Pediatrics published a2001 Sufi cheek-piercing case. The indexed original abstract reports X-ray/CT confirmation and rapid puncture closure. This is an actual medical investigation of one participant, not a mass apparition. The full original protocol and matched comparison measurements remain needed. Wound closure and regeneration of destroyed tissue must not be conflated. Original abstract: https://pubmed.ncbi.nlm.nih.gov/11572849/
+
+The other-traditions report also screens Sri Lankan2006 statue-ray reports, Itigilov's preserved body, the Karmapa's postmortem warmth, an Imam Reza shrine healing lead and a Sikh cancer-remission narrative. Concrete limitations and medical co-interventions are recorded individually rather than applying a blanket verdict.
+
+PUBLIC-OBSERVATION RULE
+A guru's followers, visitors to a monastery, people attending Mass, and people directly observing a specific extraordinary phenomenon are distinct quantities. None should be silently substituted for another. Pio's decades of public exposure and identifiable medical examinations remain relevant even without an audited total of direct witnesses. A small levitation report does not answer that argument. Conversely, a large gathering around a guru does not demonstrate mass close observation of materialization or levitation. This pass established no100,000-observer modern levitation case.
+
+WHAT FOLLOWS FOR THE DEBATE
+1. The comparison does not establish an ordinary explanation for Fatima, Zeitoun or Pio.
+2. The strongest comparators must be assessed individually; the mere presence of miracle reports in another religion is not a rebuttal.
+3. If a non-Christian bodily anomaly were established, that would support the occurrence of the anomaly. Whether it vindicates a whole religious system is an additional inference, just as it is for a Christian anomaly.
+4. No equally documented match found is a bounded research result. Unique among all world religions is a larger claim requiring a larger search.
+5. Serious non-Christian physical evidence should be neither dismissed by religious identity nor inflated to public-apparition equivalence.
+
+FILES
+Protestant follow-up added28October2026: protestant-followup/report.txt traces Mary Jones's1904-05 Welsh revival lights to Fryer's original1905 SPR paper and checks Branham's1933 baptism-light claim. These are relevant modern Protestant public-light claims; this pass did not establish an evidential equivalent to Fatima. The follow-up also distinguishes milk-event scientific tests from the unlocated equivalent of a Catholic canonical/theological dossier.
+
+hinduism/report.txt — Hindu public/personal/medical candidates.
+judaism/report.txt — Jewish public/personal candidates.
+other-traditions/ — Buddhist, Muslim and Sikh research and source materials.
+root-audit/report.txt —2007 airport event, contemporary1850 dispatch, levitation lead and comparison rules.
+All paths are relative to this assessment's containing directory. Source URLs and investigator backgrounds are included in the subsidiary reports. This is a targeted first-pass audit, not an exhaustive literature review.

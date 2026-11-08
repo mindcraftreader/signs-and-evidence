@@ -1,0 +1,180 @@
+PAIRED DATING AUDIT: NEWER LINEN METHODS AND RADIOCARBON
+27 October 2026
+
+
+LATER 27 OCTOBER REANALYSIS
+The 82-year mechanical holdout is not a general accuracy estimate. Our
+reproduction of the published calculation gives an approximately 1330-year
+older error when another included C14 reference textile is withheld. This is
+our reanalysis, not a new published experiment. See shroud-probability-analysis.txt
+and its reproducible data/script before interpreting Gaussian tail probabilities.
+
+RESULT
+The clearest verified non-Shroud carbon-versus-alternative dating dataset in the
+citation set is De Caro et al. (2019), X-ray Dating of Ancient Linen Fabrics.
+Four non-anchor WAXS checks differ from the published radiocarbon reference
+central values by 10, 40, 0 and 110 years: mean absolute difference 40 years.
+This is positive agreement in the reported sample set. It is not a +/-40-year
+precision estimate or a broad population error estimate.
+
+SCOPE AND INTERPRETATION OF THE USER'S REQUEST
+The 85 citation links are 46 + 16 + 23 incoming links to three founding papers
+(the first introduces both FTIR and Raman). They identify 68 distinct OpenAlex
+records. At least three named Wiley chapters have duplicate edition records;
+one item is an issue/paratext record, and one article is retracted. Therefore
+85 should not be described as 85 independent experiments or even 85 distinct
+papers. This audit screens all 68 records by title, metadata and available
+abstracts, then inspects the promising accessible full texts. It is not a claim
+that all 68 full texts have been read. Corpus-screening.csv records the access
+level and unresolved gaps for every record.
+
+To calculate a date difference, a paper must give two numerical calendar-age
+estimates for the same material: a reference carbon age and an alternative
+FTIR/Raman/mechanical/WAXS age. Neither method is required to be labelled the
+primary method. Merely using FTIR to identify linen or contamination alongside
+a radiocarbon age does not supply a second calendar date. Similarly, using
+carbon-dated cloth to build a calibration chart is recorded, but not treated as
+independent validation of that same chart. Shroud disagreements and reused
+control data are recorded separately from non-Shroud benchmarking.
+
+The phrase 'average data range' is interpreted in two useful ways:
+1. Average absolute separation between the central age estimates.
+2. Average width of the reported approximately 95% age intervals.
+Averaging the ages themselves across different ancient objects would not
+measure agreement between the methods.
+
+WAXS: FOUR RADIOCARBON REFERENCE CHECKS
+Source: De Caro et al. 2019, Heritage 2, 2763-2783.
+DOI: https://doi.org/10.3390/heritage2040171
+Table 1 identifies the four reference dates as radiocarbon dates. Section 6
+states that these four dates were not used to determine the two main model
+parameters; those were set using sample D and historically dated sample FII.
+Table 3 reports aging times in centuries. Below they are converted to years.
+These are aging-time values as reported, not uncalibrated radiocarbon BP ages.
+
+Sample / place      Carbon reference         WAXS estimate          Gap
+DII / Jericho       950 +/-80                 940 -70/+70           10
+NII / Engedi        2310 +/-60                2350 -290/+510        40
+E / Egypt           2390 +/-40                2390 -230/+280         0
+HII / Thebes        2880 +/-140               2770 -360/+600       110
+
+All four approximately 95% intervals overlap.
+Mean absolute central-estimate difference: 40 years.
+Median absolute difference: 25 years.
+Observed difference range: 0-110 years.
+Mean signed difference (WAXS age minus reference age): -20 years.
+Root-mean-square difference: 58.7 years.
+Mean carbon-reference interval width: 160 years.
+Mean WAXS interval width: 602.5 years, or about 600 years total width.
+The WAXS intervals are asymmetric for older samples; do not turn the average
+width into a universal symmetric margin of error.
+
+The source deliberately replaces potentially multimodal calibrated carbon
+ranges with equivalent symmetric central values/limits for comparison. These
+are rounded tabulated summaries, not full probability distributions. In Table 1
+the calendar-range widths differ slightly from the rounded Table 3 widths.
+The 160-year mean above uses Table 3 consistently with the age differences.
+The mean width from the four Table 1 calendar ranges is 152.5 years instead.
+
+The two model anchors are excluded from this average. The chemically bleached
+modern sample and very old saturated sample do not produce comparable eligible
+checks in this analysis. The four checks are from one research group's study,
+with temperature/humidity conditions incorporated in its ageing model. They
+are not four independent laboratories or four different alternative methods.
+
+MECHANICAL METHOD: AN ADDITIONAL POSITIVE HOLD-OUT CHECK
+Source: Basso, Fanti and Malfi 2015, Monte Carlo method applied to the mechanical
+dating of the Turin Shroud. Section 6 and Table 7, PDF page 13.
+DOI: https://doi.org/10.1051/matecconf/20153601003
+The authors remove sample FII from the nine-sample calibration and predict its
+age using the remaining eight. Reference AD 65 +/-12 years (95%); mechanical
+prediction AD 147 +/-214 years (95%). Absolute central-date difference 82 years.
+The intervals, AD 53-77 and AD -67 to 361 under the paper's signed-year
+convention, overlap. This is one reference prediction, not three independent
+samples because three mechanical readings contributed to it.
+
+Important reference-provenance ambiguity: the companion 2015 combined-method
+Table 1 labels FII radiocarbon-dated, while the 2013 spectroscopy paper and
+2019 WAXS paper identify the Masada reference as historical. The WAXS paper
+explicitly uses the Siege of Masada historical interval AD 55-74. No original
+laboratory C14 determination for FII was traced in this pass. Therefore the
+82-year check is retained as a successful known-age comparison but is not
+silently pooled with the four unambiguous carbon-reference pairs. The +/-12
+reference interval in this mechanical paper and AD 55-74 in WAXS are also
+slightly different reported uncertainty conventions.
+
+FTIR AND RAMAN: WHAT THE CITING PAPERS ACTUALLY PROVIDE
+Fanti, Malfi and Crosilla 2015, DOI 10.1051/matecconf/20153601001:
+Includes radiocarbon reference textiles for calibration and three Shroud age
+estimates. The training references do not constitute a second independent
+non-Shroud validation sample set. A fitted residual calculation would have to
+be labelled as such, with exclusions and rounded inputs handled explicitly.
+It is not supplied here as an estimate of independent method performance.
+
+Baraldi and Tinti 2015, Molecular Spectroscopy as an alternative for dating
+Textiles, DOI 10.1051/matecconf/20153601002:
+Explains FTIR/Raman reference calibration and applies it to the Shroud. Does
+not add a reported series of unknown non-Shroud textile dates independently
+checked by radiocarbon.
+
+Bonizzoni et al. 2016, DOI 10.1016/j.microc.2015.11.011:
+Table 2 identifies a Fayyum sample at about AD 600 as radiocarbon-dated. The
+paper studies spectral ageing signatures and relative chronology, rather than
+publishing a separate Raman calendar age for that sample. Its new experimental
+data are real, but no paired calendar-age difference can be computed from them.
+
+Barta et al. 2025, DOI 10.1016/j.microc.2024.112502:
+Full paper obtained via University of Akron library access. Uses new modern
+irradiation/heating experiments and reanalyses existing Shroud data, including
+the reused 1988 carbon date. It is not a new non-Shroud carbon-paired series.
+For completeness, Table 5 gives modern unirradiated controls expected at
+AD 2020, predicted by FTIR as AD 1598 and 1626: absolute gaps 422 and 394 years,
+mean 408 years. They are pieces from one fabric, not independent ancient
+textiles. These shifts lie within the paper's broad stated dating uncertainty.
+They are not carbon-versus-FTIR pairs and are not pooled with the WAXS results.
+The heated sample gives AD 1396 and tests treatment effects, not natural age.
+
+OTHER CO-USE OF CARBON DATING AND MATERIAL ANALYSIS
+Quiles et al. 2014, DOI 10.4000/archeosciences.4222:
+Full publisher PDF obtained in the follow-up. Reports infrared detection of
+bitumen and radiocarbon dating/pretreatment experiments on mummy textiles.
+Table 3 supplies five uncontaminated C14 reference textiles with ATR-IR, but
+no separately calculated infrared calendar age. The documented bitumen-related
+C14 contamination errors are retained as relevant limitations of radiocarbon.
+They do not demonstrate bitumen on the Shroud. See the follow-up report.
+
+Marie Ferrant, doctoral thesis, 2021:
+https://theses.hal.science/tel-03616167
+Full thesis downloaded and text searched; relevant Chapters 3 and 5 inspected.
+Infrared spectra diagnose degradation and contamination; radiocarbon provides
+the calendar dates before/after cleaning. Two differently pretreated carbon
+dates are not an independent FTIR-versus-carbon comparison.
+
+Carbonaro et al. 2023, DOI 10.1016/j.culher.2023.08.004:
+Measures stable carbon isotope composition in ancient and modern linen, not
+paired radiocarbon and alternative calendar ages. A stable-isotope reading is
+not automatically a radiocarbon date.
+
+REVIEW STATUS AND LIMITS
+Verified numerical non-Shroud comparisons are one WAXS series of four C14
+reference checks and a mechanical leave-one-out check whose historical/C14
+reference attribution needs clarification. There is no defensible combined
+average across all four methods from the independent paired results located.
+This does not establish that no other comparison exists anywhere, nor that
+full texts marked unavailable contain none. Books/chapters and several papers
+remain metadata/abstract-only in the screening table. The paper list is a
+citation-based convenience set, not a systematic sample of all archaeological
+method-validation literature. An average over four selected qualifying samples
+is not a general error rate for all textiles, particularly excluded treatments.
+
+FILES
+waxs-radiocarbon-pairs.csv: transcribed input values, bounds and differences.
+paired-date-summary.json: computed statistics.
+mechanical-reference-check.json: separate Masada check and provenance caveat.
+corpus-screening.csv: all 68 records with evidence/access level.
+calculate-paired-dates.py: repeatable arithmetic from published rounded inputs.
+Full valid PDFs are saved in the Shroud source library. The initial Morgillo
+thesis transfer was incomplete; it was completed and validated during the
+follow-up review. See shroud-paired-dating-followup.txt for the subsequent
+handbook, Raman chapters, Coptic conservation, Quiles and thesis checks,
+including the latest access status.

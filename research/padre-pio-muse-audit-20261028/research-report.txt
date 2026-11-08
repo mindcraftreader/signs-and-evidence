@@ -1,0 +1,134 @@
+PADRE PIO: FOLLOWING ETHAN MUSE'S SOURCE THREADS
+Research pass: 28 October 2026
+
+Finding
+
+Muse's case leads to a substantial documentary record, including medical examinations, an early bandaging experiment, named witnesses, and a modern canonization investigation. It deserves assessment on those records. Neither the existence of chemical purchases nor a psychiatric label by itself explains that record. Equally, several numerical and anatomical claims in the essay are stronger than the underlying documentation presently establishes.
+
+This pass follows the essay's principal evidentiary branches. It is not a completed audit of every anecdote about Pio. It preserves the distinction between reading an original document reproduced in an edited collection, reading a historian's quotation of archival documents, and locating a citation to a document not yet obtained.
+
+Starting source
+
+Ethan Muse, “St. Pio of Pietrelcina,” published 15 March 2026:
+https://motivacredibilitatis.substack.com/p/st-pio-of-pietrelcina
+Saved: sources/muse-pio.html, muse-api.json, muse-pio.txt.
+The saved article body contains approximately 24,324 words. It explicitly treats stigmata, fevers, healings and character most extensively; confession knowledge and bilocation receive less detailed treatment. Its current footnotes acknowledge corrections concerning a blood-loss anecdote and the medical wording in the Savino case. This audit uses that revised version.
+
+1. THE MOST USEFUL PRIMARY-DOCUMENT COLLECTION
+
+Gerardo Di Flumeri, Capuchin editor, Le stigmate di Padre Pio da Pietrelcina: Testimonianze. Relazioni, second edition, 1995.
+https://www.imagomundi.biz/wp-content/uploads/2025/04/PBSO37-Le_stigmate_di_Padre_Pio_da_Pietrelcina-Gerardo_di_Flumeri.pdf
+Saved: sources/di-flumeri-stigmate.pdf and extracted text.
+
+The title/copyright leaf confirms first edition 1985 and second edition 1995. The download has 179 PDF pages, many containing two printed pages. Consequently printed and PDF page numbers differ. The collection includes separately authored reports, letters, testimony, photographs and radiographs. The editor states that the presentation does not anticipate the Church's definitive judgment. Several editorial notes explicitly identify evidentiary weaknesses; it is not a uniformly uncritical compilation.
+
+2. THE EIGHT-DAY BANDAGING EXPERIMENT: A SUBSTANTIAL POSITIVE THREAD
+
+Document 14, printed p. 64 / PDF p. 34, reproduces a sworn report signed by Paolino of Casacalenda, Basilio of Mirabello Sannitico and Ludovico of San Marco in Lamis. They report eight days of bandaging without medicinal applications, removal of iodine from the room, persistent wounds and daily bleeding, with more bleeding on the final day. The document is undated; the editor assigns it to July 1919. That date is an editorial identification, not a date visible on the document itself.
+
+Paolino's recollections, printed pp. 82–84, supply the seal-checking procedure. The dressings were checked, removed and replaced each morning. It should not be described as one unopened dressing maintained for eight days. The contemporary-style signed report and the later procedural account should remain distinguishable.
+
+Sergio Luzzatto, historian at the University of Turin, also discusses the medication withdrawal and persistent bleeding in his critical archival study. His French author proofs, printed pp. 65–66 / PDF pp. 66–67, acknowledge this episode rather than denying that the test was reported. His account is an additional historical treatment of the same underlying episode, not an independent second experiment.
+https://iris.unito.it/retrieve/handle/2318/144647/144588/Luzzatto%2C%20secondes%20%C3%A9preuves.pdf
+Saved: sources/luzzatto-french-author-proofs.pdf and extracted text. This is a 2013 French proof file, not the English 2010 edition.
+
+Assessment: this weighs against an explanation requiring daily concealed chemical reapplication during the test. Its evidentiary value should be conceded. Eight days do not, without a clinical comparison, establish that every possible prior injury or chronic lesion must have healed. The record is also not continuous observation by an independently staffed medical ward. Those limitations do not turn the reported result into a non-event.
+
+3. DEPTH, LONGEVITY AND DISAPPEARANCE: KEEP THE OBSERVATIONS SEPARATE
+
+Luigi Romanelli, chief surgeon at Barletta's civil hospital, reported a palpated void beneath membranes in May 1919 and interpreted the findings as penetrating wounds. His report is document 45, printed pp. 147–151 / PDF pp. 75–77.
+
+Amico Bignami, professor of pathology at the University of Rome, described substantially superficial changes in July 1919. Giorgio Festa, a Rome surgeon, documented lesions, bleeding and pain but also described intact underlying bones. Their examinations occurred at different times. The collection's introduction, printed pp. 7–9, explicitly recognizes the disagreement. Its photographic appendix includes the 1954 radiographs. Those later images cannot by themselves decide what tissue was present in 1919.
+
+Assessment: “there were real, repeatedly examined bodily signs” has much firmer support than “every relevant examination established full-thickness perforation.” Changing lesions could partly reconcile different dates, as Muse argues, but that is a proposed reconciliation requiring assessment. It does not convert contrary descriptions into agreement. Nor does an intact bone exclude every conceivable soft-tissue channel; the anatomical question should not be reduced to that false choice.
+
+Giuseppe Sala, Pio's physician and an assistant in medical semiotics at the University of Naples according to the collection's biographical note, supplied a signed statement dated 7 July 1969. Document 61, printed pp. 309–312 / PDF pp. 156–158, reports normal skin without visible scars shortly after death. It also describes a gradual reduction in some signs before death. Sala expressly says he had not conducted a direct inspection of the living wounds; the editor highlights this limitation for his description of their original nature.
+
+Assessment: the disappearance and reported absence of scarring are genuine documentary claims by a named physician, not merely an anonymous internet story. The inference to anatomically impossible regeneration depends on establishing the preceding depth and tissue destruction. A photographic surface appearance alone cannot establish all of that. The record should also not be simplified into every wound suddenly vanishing at the instant of death: the sources themselves describe earlier fading and a final remaining crust.
+
+4. BLOOD LOSS AND FRAGRANCE
+
+Luigi Pancaro's 1954 report, document 56, printed pp. 296–299 / PDF pp. 150–151, describes tests and examination of a blood-stained cloth. The editor gives blood-count values in a note; the cloth analysis reports a Sahli hemoglobin result of 12%. The published description does not provide the recovery volume, dilution protocol and daily fluid-volume measurements needed to reconstruct a precise long-term whole-blood loss rate.
+
+Assessment: bleeding and blood-stained materials are well attested. Muse's proposed daily whole-blood equivalent is an estimate, not a measured longitudinal dataset. An iron-budget calculation inherits that uncertainty. It would be a mistake either to deny the documented bleeding or to treat his daily-volume estimate as an established laboratory measurement. “Never anemic over fifty years” also requires more longitudinal information than one selected normal blood count.
+
+Festa's reports and the 1921 investigation provide substantial leads about fragrance, including scent on blood-stained cloths and reports by different observers. Francesco Castelli's published edition of the investigation is particularly important here. Castelli was identified by the 2011 book as a professor of modern Church history at the Romano Guardini Institute in Taranto and historian for John Paul II's beatification cause.
+https://books.google.com/books/about/Padre_Pio_Under_Investigation.html?id=zYtHDwAAQBAJ
+https://ignatius.com/padre-pio-under-investigation-ppuip/
+
+Assessment: those reports warrant attention, but claims requiring hundreds of liters of perfume, or that ordinary odors cannot be perceived intermittently, do not follow simply from testimony to a strong scent. A smell can be physically real without its source being established. No chemical identification or blinded fragrance trial was recovered in this pass.
+
+5. EXTREME TEMPERATURES: EARLY DOCUMENTATION, INCOMPLETE MEASUREMENT AUDIT
+
+Stefano Campanella, a journalist writing in the Capuchin periodical Voce di Padre Pio, “Dal 9 maggio 1919,” May 2011, pp. 52–57:
+https://www.vocedipadrepio.com/wp-content/uploads/2011_5_ita_5.pdf
+Saved: sources/campanella-1919-press.pdf and extracted text.
+
+On printed p. 56 / PDF p. 5, he identifies a Le Soir article dated 27 October 1923 by Nino Salvaneschi. It reports interviews with physicians Merla and Giuva and temperatures of 48–50 degrees. Thus there is a specific early newspaper lead, not just late devotional repetition. The original newspaper page was not recovered; Campanella's quotation is the present access point.
+
+There is a translation issue worth preserving: the quoted Italian says the bath thermometers “si sono fermati” at those values, meaning their readings stopped there, whereas Muse renders that clause as the thermometers having shattered. Campanella's preceding general sentence does mention thermometers bursting. The numerical reading and the claim of physical breakage must not be conflated. This correction does not erase the reported readings.
+
+Muse also quotes Lorenzo's sworn testimony in the 1921 Rossi inquiry. In the Festa passage quoted by Muse, Festa's personally supervised measurements were normal; the exceptional subsequent measurements were made by the superior using the instrument Festa left. That distinction matters when counting physician-observed episodes.
+
+Assessment: if sustained internal temperatures at those levels were accurately established together with the described preserved functioning, the result would be extraordinary. The readings in this historical case were axillary. Validation needs the original measurement accounts, observation of placement, timing, instruments, ordinary-temperature checks and, where possible, corroborating sites. No specific tampering episode has been demonstrated here. Equally, a damaged thermometer by itself is not a calibrated measurement of a patient's internal temperature. The 52-degree episode, the 48-degree depositions and the newspaper report are different source threads and should not be merged into one continuous temperature chart.
+
+6. MATTEO PIO COLELLA: THE BEST-DOCUMENTED HEALING THREAD IN THIS PASS
+
+Pietro Gerardo Violi, physician and scientific collaborator in the canonization investigation, “Il miracolo della canonizzazione di padre Pio,” 30 January 2010:
+https://www.padrepioesangiovannirotondo.it/piosgr/il-miracolo-della-canonizzazione-di-padre-pio/
+Saved: sources/violi-colella.html and .txt.
+
+Violi gives the illness and treatment chronology, quotes clinical diary entries, describes witness examinations, and names the five-member medical panel that unanimously classified the recovery as scientifically inexplicable on 22 November 2001. The Vatican's own canonization biography independently confirms the formal process and medical-board date:
+https://www.vatican.va/news_services/liturgy/saints/ns_lit_doc_20020616_padre-pio_en.html
+Saved: sources/vatican-canonization.html and .txt.
+
+This is substantive medically informed evidence in favor of an extraordinary recovery. The panel's conclusion should be represented accurately rather than dismissed as a generic pious assertion. The original complete patient chart and panel opinions were not downloaded; Violi quotes and summarizes them.
+
+The detailed account also records extensive intensive-care treatment and a recovery unfolding over time: sedation stopped on 31 January; diary entries describe continuing assisted breathing on 3 February; transfer to pediatrics occurred on 12 February and discharge on 26 February. The claim is an unexpectedly favorable, rapid and complete recovery relative to the preceding severity, not an untreated child instantly leaving the hospital.
+
+The statement that six failed organs entail 100% mortality needs a specified organ-system definition, population and source. Pediatric critical-care researchers François Proulx and colleagues at Sainte-Justine Hospital/Université de Montréal published relevant cohort studies in 1994 and 1996. Stéphane Leteurtre and colleagues' 1999 score-development study evaluates severity as well as organ-system count. These are comparator leads, not a retrospective prognosis already calculated for Colella:
+https://pubmed.ncbi.nlm.nih.gov/8205810/
+https://pubmed.ncbi.nlm.nih.gov/8635327/
+https://doi.org/10.1177/0272989X9901900408
+
+No matched probability for Colella's recovery was established in this pass. A very grave prognosis is not a license to invent a numerical probability, in either direction.
+
+7. GIOVANNI SAVINO: A SERIOUS CLAIM WITH AN UNRESOLVED ORIGINAL RECORD
+
+Muse's current footnote 27 acknowledges that the printed medical term is problematic and says he is trying to obtain the records. Multiple possible Italian words denote importantly different conditions. It would be circular to choose “missing eye” because that interpretation best fits the miracle conclusion.
+
+Glenn Dallaire's 2010 devotional account, explicitly cited by Muse, includes the widow's distinction between a badly damaged surviving eye and a replacement eye. It also dates a Dominic Meyer circular to July 1949; that differs from the within-a-month description in Muse. Neither original circular nor hospital record was recovered here.
+https://www.miraclesofthesaints.com/2010/10/miraculous-cures-in-lives-of-saints.html
+Saved: sources/savino-dallaire-2010.html and .txt.
+
+Assessment: reported recovery of vision after a serious blast injury and documented regeneration of a wholly absent eyeball are different claims. The latter should remain provisional until the primary clinical description and original early letter are obtained. This is a weakness in that particularly dramatic example, not a refutation of the other Pio evidence.
+
+8. CHEMICAL PURCHASES, CONFESSIONAL KNOWLEDGE AND BILOCATION
+
+Luzzatto's archival study reproduces the phenol request and pharmacists' allegations, including the stated sterilization purpose. Printed pp. 134–139 / PDF pp. 135–140 provide the relevant discussion. This establishes an evidentiary basis for investigating chemical access; it does not establish that chemicals caused the wounds. Rossi's interrogation and Pio's answers, published by Castelli, are the corresponding defense to examine alongside it. The complete Castelli volume was not obtained: the saved Everand material is an approximately 5,218-word public preview, not a full-book download. A short Ares article by Riccardo Caniato, also saved, summarizes the defense; it is not Castelli's original book or Rossi's full report.
+
+Giovanni Caccioppoli's 2019 compilation, also cited by Muse, supplies explicit book/page leads for bilocation and knowledge of hidden matters:
+https://www.caccioppoli.com/Heavenly%20Facts.%20June%202019.pdf
+Saved: sources/caccioppoli-heavenly-2019.pdf and extracted text.
+
+Its printed p. 25 / PDF p. 26 points to Castelli's English p. 208 for Pio's sworn account of finding himself beside Maria Massa while at the convent. Pio's reported wording leaves open whether the experience was bodily or representational. That is important testimony, but it is not by itself two externally synchronized observations of one man in separate places.
+
+For alleged knowledge of sins, a useful lead is Caccioppoli's Italian compilation, which gives Castelli's Italian p. 225 for the 16 June 1921 interrogation. This is a precise original-source target. The underlying page was not independently recovered in this pass:
+https://www.caccioppoli.com/2018%20Padre%20Pio/%27%27%27%20035%20Doni%20Speciali%20parte%20seconda.html
+
+The next substantive task in this branch is to select named cases with the earliest written testimony and establish exactly what Pio said before any disclosure, what information he already had, and which parts were independently recorded. A general claim of millions of confessions is not a count of millions of independently verified disclosures of hidden information. The historical inquiry should preserve the strongest specific cases rather than substituting either a bulk count or a generic cold-reading diagnosis.
+
+9. CONSEQUENCE FOR THE CUMULATIVE ARGUMENT
+
+Pio adds a different evidentiary domain: examined bodily signs, a reported intervention test, named observers and a modern medical investigation. A proposal about crowd perception at Fátima or ambiguous lights at Zeitoun does not account for those facts. An adequate ordinary account of the combined case would have to address the relevant Pio records as well.
+
+That does not mean multiplying every temperature, fragrance report and wound description as statistically independent experiments. Some come from the same witnesses or the same underlying records; the inferential claims about blood loss, depth and scar-free healing also depend on one another. This dependence is specific and should be mapped, not used as a slogan to discard the case.
+
+The justified update from this pass is to take the cumulative case more seriously and to retire the shortcut that chemical access alone settles Pio. The most productive next evidentiary targets are the full 1921 depositions, the original Le Soir page, the complete Colella case record and the Savino hospital/circular documents. These retrieval limits do not establish an ordinary explanation, nor do they justify treating every strongest version of a miracle claim as already verified.
+
+SOURCE CHECKING
+
+Seven selected original PDF pages were rendered and visually checked: Di Flumeri PDF pp. 6, 34, 43, 151, 156, 157; Campanella PDF p. 5. See checked-pages/. Other cited passages were checked in extracted PDF text or HTML. No authenticated library account was used and no one was contacted in this pass.
+
+
+CONTINUATION: See scent-confession-mass-medical.txt for the expanded pass on fragrance, Friday/Mass timing, Greco’s filmed confession account, medical-case comparisons and Agnese Stump. The source manifest and claim ledger now include this material.

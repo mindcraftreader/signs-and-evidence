@@ -1,0 +1,121 @@
+[
+  {
+    "id": "A01",
+    "title": "Khwaja’s ‘reflection’ at Chishti shrine",
+    "author": "TNN / The Times of India",
+    "publication_date": "2002-03-29 00:16 IST",
+    "url": "https://timesofindia.indiatimes.com/india/khwajas-reflection-at-chishti-shrine/articleshow/5201950.cms",
+    "files": [
+      "sources/toi-20020329.html",
+      "sources/toi-20020329.txt"
+    ],
+    "status": "Original publisher HTML archived and substantive article text read; no print facsimile recovered.",
+    "type": "contemporaneous newspaper",
+    "independence": "Separate TNN reporting but same named claimant as AP; not two independent eyewitnesses.",
+    "retrieved_on": "2026-11-02"
+  },
+  {
+    "id": "A02",
+    "title": "Apparition Attracts Thousands",
+    "author": "P. B. Chandra / Associated Press",
+    "publication_date": "Mirror header 2002-03-28; article says Friday, first occurrence Wednesday. Preserve discrepancy.",
+    "url": "https://www.mrt.com/news/article/Apparition-Attracts-Thousands-7846886.php",
+    "files": [
+      "sources/ap-mrt-client-challenge.html",
+      "sources/ap-mrt-reading-note.txt"
+    ],
+    "status": "Full article read through web research tool; direct local retrieval returned client challenge. Challenge clearly labeled; it is not an archived article.",
+    "type": "contemporaneous wire report",
+    "independence": "AP original reporting; named positive witness overlaps TNN.",
+    "retrieved_on": "2026-11-02"
+  },
+  {
+    "id": "A03",
+    "title": "Shining Goodwill",
+    "author": "WIRED",
+    "publication_date": "2002-03-30",
+    "url": "https://www.wired.com/2002/03/shining-goodwill/",
+    "files": [
+      "sources/wired-20020330.html",
+      "sources/wired-20020330.txt"
+    ],
+    "status": "HTML archived; substantive short summary read.",
+    "type": "secondary news summary",
+    "independence": "Repeats wire facts; not counted as separate eyewitness testimony.",
+    "retrieved_on": "2026-11-02"
+  },
+  {
+    "id": "D01",
+    "title": "A Beneficial Lesson — sidebar Holy Miracles of Sufi Khwaja Moinuddin Chishti",
+    "author": "Data Ajmeri / Alhaj Syed Hassan Hashmi (Guddu Bhai)",
+    "publication_date": "Post July 2011; sidebar insertion date not established",
+    "url": "https://dataajmeri.blogspot.com/2011/07/beneficial-lesson.html",
+    "files": [
+      "sources/blog-201107.html",
+      "sources/blog-201107.txt"
+    ],
+    "status": "HTML and text archived; exact sidebar and surrounding image markup read.",
+    "type": "later shrine-affiliated devotional account",
+    "independence": "Unverified relation to 2002 newspapers; not assumed independent firsthand witness.",
+    "retrieved_on": "2026-11-02"
+  },
+  {
+    "id": "F01",
+    "title": "फैक्ट चेक: अजमेर शरीफ दरगाह के गुंबद में रोशनी समाने की घटना करिश्मा नहीं, सिर्फ इफेक्ट",
+    "author": "Jyoti Dwivedi / Aaj Tak",
+    "publication_date": "2021-09-21; updated 2021-09-23",
+    "url": "https://www.aajtak.in/fact-check/story/fact-check-ajmer-sharif-dargah-miracle-fish-shaped-light-viral-video-ntc-1330035-2021-09-21",
+    "files": [
+      "sources/aajtak-factcheck-20210921.html",
+      "sources/aajtak-factcheck-20210921.txt"
+    ],
+    "status": "HTML archived and substantive Hindi article read; linked original video not independently watched.",
+    "type": "fact check of DISTINCT 2021 viral video",
+    "independence": "Not evidence determining the cause of the 2002 incident.",
+    "retrieved_on": "2026-11-02"
+  },
+  {
+    "id": "D02",
+    "title": "The Miracles and Karamaats",
+    "author": "Ajmer Gharib Nawaz devotional website; individual observer authorship unverified",
+    "publication_date": "No original composition date established",
+    "url": "https://ajmergharibnawaz.com/the-miracles-and-karamaats/",
+    "files": [
+      "sources/devotional-miracles-page.html",
+      "sources/devotional-miracles-page-text.txt"
+    ],
+    "status": "Opening 2002 account read; HTML saved; adjacent image link returns 410 Gone.",
+    "type": "later devotional account",
+    "independence": "Wording overlaps D01; not a new established eyewitness.",
+    "retrieved_on": "2026-11-02"
+  },
+  {
+    "id": "I01",
+    "title": "Nighttime dome image adjacent to the D01 account",
+    "author": "Photographer unverified",
+    "publication_date": "Capture date unknown; displayed in a 2011 blog sidebar",
+    "url": "https://dataajmeri.blogspot.com/2011/07/beneficial-lesson.html",
+    "files": [
+      "sources/blog-dome-context-largest.jpg"
+    ],
+    "status": "551 x 480 photo visually inspected. Location context, NOT an authenticated 2002 apparition image.",
+    "type": "context photograph",
+    "independence": "Not counted as visual corroboration of the event.",
+    "retrieved_on": "2026-11-02"
+  },
+  {
+    "id": "I02",
+    "title": "Khwaja garib nawaz Dargah real Photos Images 13.png",
+    "author": "Naziairfansheikh / Wikimedia Commons",
+    "publication_date": "2022-01-05 as cataloged",
+    "url": "https://commons.wikimedia.org/wiki/File:Khwaja_garib_nawaz_Dargah_real_Photos_Images_13.png",
+    "files": [
+      "sources/wikimedia-context-2022.png",
+      "sources/wikimedia-ajmer-context.html"
+    ],
+    "status": "Photograph and source page saved and inspected; CC BY-SA 4.0. Later location view, NOT the 2002 effect.",
+    "type": "context photograph",
+    "independence": "Does not add an event witness.",
+    "retrieved_on": "2026-11-02"
+  }
+]

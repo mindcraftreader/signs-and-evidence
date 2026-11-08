@@ -1,0 +1,105 @@
+{
+  "created": "2026-10-26",
+  "source": "Original stored 7293×7227 2002 photograph; source file itself is contrast-enhanced. Both photographic views use exactly the same grayscale pixels.",
+  "positive_negative_labels": "Photograph means the normal positive photograph of the cloth, whose body image is negative-like. Negative means a tonal inversion of that photograph. Model positive is an ordinary light-shaded render; model negative is its tonal inversion.",
+  "inversion": "uint8_negative=255-uint8_grayscale; no auto-contrast, independent exposure matching, morph or lighting change between each positive/negative pair.",
+  "render": "Untextured current fitted head; frontal orthographic projection; nominal 300 mm source width; anchor [0.525,0.540]; gray albedo 210; ambient 0.27, key 0.6, fill 0.17; camera aligned with +z; no camera tilt.",
+  "key_light_unit_vector": [
+    -0.3207501495497921,
+    0.4490502093697089,
+    0.8339503888294595
+  ],
+  "fill_light_unit_vector": [
+    0.6767155423319645,
+    0.29002094671369905,
+    0.6767155423319645
+  ],
+  "cloth_adjusted_view": "Bilinearly sample the existing 101×109 cloth grid at each source material coordinate; sample the frontal model render at that wrapped point’s x/y. Retains simulated drape distortions. This is a visualization under the existing model, not an independent reconstruction or an image-formation model.",
+  "image_output_pixels": [
+    1200,
+    1189
+  ],
+  "panel_crop_fraction": [
+    0.22,
+    0.14,
+    0.82,
+    0.9
+  ],
+  "fit_residual_rms_nominal_mm": 11.714524578254816,
+  "landmarks": [
+    {
+      "landmark": "nose_tip",
+      "used_in_fit": true,
+      "direct_front_xy_error_nominal_mm": 0.5106275485873676,
+      "cloth_coordinate_error_nominal_mm": 4.218099537863595
+    },
+    {
+      "landmark": "bridge",
+      "used_in_fit": false,
+      "direct_front_xy_error_nominal_mm": 8.115220872340894,
+      "cloth_coordinate_error_nominal_mm": 0.7148467315350591
+    },
+    {
+      "landmark": "eye_L",
+      "used_in_fit": true,
+      "direct_front_xy_error_nominal_mm": 2.573067791229305,
+      "cloth_coordinate_error_nominal_mm": 11.351234059675415
+    },
+    {
+      "landmark": "eye_R",
+      "used_in_fit": true,
+      "direct_front_xy_error_nominal_mm": 1.5225233466809054,
+      "cloth_coordinate_error_nominal_mm": 9.031820546760502
+    },
+    {
+      "landmark": "ala_L",
+      "used_in_fit": true,
+      "direct_front_xy_error_nominal_mm": 2.4894058647370896,
+      "cloth_coordinate_error_nominal_mm": 6.374195516978339
+    },
+    {
+      "landmark": "ala_R",
+      "used_in_fit": true,
+      "direct_front_xy_error_nominal_mm": 2.665201281229153,
+      "cloth_coordinate_error_nominal_mm": 6.554811411811195
+    },
+    {
+      "landmark": "mouth_L",
+      "used_in_fit": true,
+      "direct_front_xy_error_nominal_mm": 10.770863814698107,
+      "cloth_coordinate_error_nominal_mm": 6.553256799674794
+    },
+    {
+      "landmark": "mouth_R",
+      "used_in_fit": true,
+      "direct_front_xy_error_nominal_mm": 11.86313174425108,
+      "cloth_coordinate_error_nominal_mm": 11.389238724506281
+    },
+    {
+      "landmark": "lip_center",
+      "used_in_fit": true,
+      "direct_front_xy_error_nominal_mm": 4.654207168589618,
+      "cloth_coordinate_error_nominal_mm": 2.240880213966621
+    },
+    {
+      "landmark": "cheek_L",
+      "used_in_fit": true,
+      "direct_front_xy_error_nominal_mm": 8.452386700029246,
+      "cloth_coordinate_error_nominal_mm": 19.47941678840706
+    },
+    {
+      "landmark": "cheek_R",
+      "used_in_fit": true,
+      "direct_front_xy_error_nominal_mm": 10.876632670288057,
+      "cloth_coordinate_error_nominal_mm": 22.43566631679211
+    },
+    {
+      "landmark": "chin",
+      "used_in_fit": false,
+      "direct_front_xy_error_nominal_mm": 21.176250137084228,
+      "cloth_coordinate_error_nominal_mm": 23.054476495001307
+    }
+  ],
+  "source_sha256": "d06e4dd0efe3fc486add50d5366c78201371d3121f732e98eb20d2350c3b8624",
+  "geometry_sha256": "165c35e360e9dccf5dbe7ed125088300d262d0775662d786126025f42d772e77"
+}

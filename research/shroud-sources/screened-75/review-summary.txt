@@ -1,0 +1,35 @@
+Additional 75-record ancient-linen literature screen — 27 October 2026
+
+All 75 previously unprocessed metadata candidates now have individual screening
+decisions. This means 26 relevant full-text assessments, 2 partial primary-text
+checks and 47 title/available-abstract decisions; it does not mean 75 complete
+full texts were obtained. The CSV and JSON preserve the evidence level, source,
+academic affiliation provenance, access gap and reason for every decision.
+
+New eligible non-Shroud calendar-age predictions paired with a C14 or explicitly
+labelled historical reference: 0 accepted. The pre-existing comparison data and
+their descriptive statistics are unchanged. Co-use of C14 and FTIR for material
+identification does not provide a second calendar date, and so gives no numerical
+dating error or sample SD.
+
+Added detailed records include Boano (University of Turin, Life Sciences and
+Systems Biology) on C14-dated linen bandages; Oras (University of Tartu, Chemistry
+and History/Archaeology) on two mummy textiles; Ferrari (Turin / La Venaria Reale
+and Philadelphia Museum of Art) on a wool tunic; Quarta (Salento CEDAD, Engineering
+for Innovation) on bone-collagen FTIR alongside C14 dates on several materials;
+and Kalisz (Medical University of Lublin, Biopharmacy) on hemp macrofossils. The
+last three are retained with their material differences explicit, outside the
+flax/linen calendar-clock validation count.
+
+Eleven requested / attempted full-text routes remain incomplete: S08, S09, S12,
+S29, S42, S43, S44, S62, S64, S71 and S75. Their abstracts or partial text have
+nevertheless been screened; the workbook never labels them full-text reviewed.
+S09 (Fanti / Basso 2016 ISSAT proceedings) is the priority remaining methods
+verification: its abstract matches the three specimen categories in the 2017
+paper, but complete reuse / independence cannot be established from the abstract.
+
+All retrieved valid PDFs, the four XML primary full texts, searchable extractions
+and the Tartu chemical supplement are archived in the bibliography. Every frozen
+candidate also has its retrieved metadata saved in this folder. The review is a
+documented research snapshot; it is not certification that every database and
+non-indexed publication in the field has been exhausted.

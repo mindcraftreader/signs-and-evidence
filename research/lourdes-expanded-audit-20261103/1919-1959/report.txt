@@ -1,0 +1,79 @@
+LOURDES EXPANDED CASE AUDIT: RECOVERY YEARS 1919–1959
+3 November 2026
+
+Seven case dossiers cover all four decades: Henriette Bressolles (1924), Francis Pascal (1938), Jeanne Frétel (1948), Evasio Ganora (1950), Marie Bigot (1953–54), Elisa Aloi (1958) and Juliette Tamburini (1959). These are seven evaluated source chains with different depths of access, not seven complete original hospital dossiers or seven newly established miracles. No tally changed.
+
+The strongest new acquisition is Gabriel Debroise's complete thirteen-page 1958 physician eyewitness account of Bigot, downloaded from Revista de Espiritualidad and read throughout. It supplies transcribed operative and clinical findings, the author's own observations, specific subsequent specialist tests, and a quoted committee conclusion. The other major new lead is the actual 1950 diocesan volume containing Frétel's contemporary clinical account and decree. That file was located but could not be acquired: curl returned403 and web retrieval exceeded the size limit. Only its indexed extract and the secondary source that traces it were inspected.
+
+1. MARIE BIGOT: THE STRONGEST NEW PRIMARY-ERA GAIN
+
+Debroise's article is 'Curación milagrosa de Marie Bigot en Lourdes: Testimonio de un testigo', Revista de Espiritualidad17 (1958), pp410–422. Its year and pagination are corroborated by a contemporary bibliography in Estudios Eclesiásticos. The article's last page identifies Debroise as a former Bon-Secours Paris interne and professor in Rennes's medical faculty. This is his printed credential; no additional specialty is inferred.
+
+His account transcribes an April1951 neurological examination and a posterior-fossa operation observing adhesions around cranial nerves. The operative treatment did not produce the later reported recovery; visual and neurological function worsened afterward. July1951 acuities are reported as1/10 right and2/10 left; by August1952 the right eye had no sight and the left1/100, followed by an account of total blindness and deafness. The actual original charts, fundus photographs and audiogram sheets are not reproduced.
+
+The recovery was staged: movement and sensation during the1953 Eucharistic procession; hearing after the1954 procession; sight approximately36hours later on the return train. This is not one instantaneous recovery of all faculties in a bath. Debroise personally describes the restored walking and train reading. He initially lacked adequate clinical information and was skeptical about the1953 partial recovery. Leuret declined to open a dossier then. This documented caution should accompany the eventual positive assessment.
+
+The later reported ENT examination by Goubert of Alès found normal hearing, including whispers over two metres. A Rennes-service audiogram reportedly showed only1.8% binaural loss. A subsequent ophthalmologist's examination reports10/10 vision in each eye. The original scan makes this clear; OCR's10/100 reading is wrong. Debroise's earlier train reading test was informal, without a standardized acuity chart, and should not be confused with that later examination.
+
+Debroise quotes Strasbourg medical-faculty neurologist François Thiébaut's favorable conclusion about sudden recovery of hearing and sight. That is a primary eyewitness physician's transcription of the committee conclusion, not an independently acquired signed committee report. He reports25committee members and8medical professors; those are his reported counts. The1958 account supports more than an unnamed late anecdote, while leaving room for modern review of the diagnostic attribution and the full before/after file. Surgical evidence of arachnoiditis does not by itself establish the cause of every deficit.
+
+Primary PDF:
+https://www.revistadeespiritualidad.com/upload/pdf/924articulo.pdf
+Local: sources/bigot-debroise-spanish.pdf and .txt.
+QA: qa/bigot-10.png and bigot-11.png, printed419–420; parent also independently viewed them.
+
+2. HENRIETTE BRESSOLLES: SPECIFIC EXAMINERS, BUT DERIVATIVE ACCESS
+
+A downloaded military-medical history explicitly derives from Olivieri and Billet's1972 collection. It reproduces an attributed23June1924 certificate from Fighiera, chief physician at Sainte-Croix Hospital, Nice, and describes later examinations by Lavezzari and Bureau president Marchand. It gives specific spinal deformity, paralysis and sphincter findings. The original certificates, military pension board file and films remain unacquired.
+
+The detailed account retains initial ankylosed joints and inability to walk, followed by September cane use. Thus an instant return to entirely normal walking is not the best reading. It describes abrupt pain, sensory and movement improvement, followed by functional recovery. The history's1954 recognition date conflicts with the current official1957 date, which is retained. Its reported1941 follow-up and1961 death are useful leads, not a substitute for serial original examinations.
+
+https://www.1914-1918.be/inf_miraculee.php
+Local HTML/text saved. This improves physician and timing specificity without becoming a newly obtained1924 clinical report.
+
+3. FRANCIS PASCAL: ACQUIRED POSTMENINGITIS DISABILITY
+
+The official narrative concerns meningitis followed by blindness and paralysis. It should not be presented as congenital blindness. A new2014 Annals Australasia passage transcribes a certificate attributed to treating physician Darde and names additional consulted doctors and laboratory physician Lesbros. It reports absent light perception and persistent limb paralysis before pilgrimage. This is more specific than unnamed-doctor rhetoric, but the actual signed certificate and lab report have not been acquired.
+
+Recovery is associated with the second bath in August1938. Dates vary26/28/31August across accounts; the current French roster uses31August. The Italian detailed narrative's2October date conflicts with its own age and late-August travel story. That discrepancy needs preservation and reconciliation, not a verdict of fraud. The François/Sternberg/Fee archival study reports Pascal still alive in2008, aged74; no serial ophthalmic file through that year is in hand.
+
+Young age alone does not logically eliminate every ordinary explanation. Nor does a hypothetical functional explanation establish one for this case. Original Darde, Lesbros and postwar Bureau documents are the next clinical evidence to acquire.
+
+https://australiancatholichistoricalsociety.com.au/wp-content/uploads/2021/09/Annals-October-2014.pdf
+Only the indexed certificate passage was read; full issue not downloaded.
+
+4. JEANNE FRÉTEL: REAL CONTEMPORARY SOURCE TARGET, PRIOR ANTIBIOTICS
+
+The current French roster dates recovery8October1948 and recognition20November1950. The earlier Italian summary's October recognition month is inconsistent. The specific1950 diocesan volume reportedly contains the clinical news at printed364–365 and the decree at736–737 (PDF187/373). Its indexed text confirms that the National Medical Committee considered Frétel on12March1950. The full scan was not read or visually verified in this pass; the source that provides those page references is secondary and labeled accordingly.
+
+Her illness is described as peritoneal tuberculosis, severe distension, wasting and vomiting. Prior operations, streptomycin and morphine must remain in the account. The archival reappraisal labels the tuberculosis streptomycin-resistant, but original susceptibility testing and dosing records are absent. The reported change begins after communion and near the grotto; she subsequently walked to the baths. Restored eating, walking and nursing work are substantive functional claims. Their mechanism cannot be adjudicated from the selected material currently available.
+
+https://www.diocese-quimper.fr/wp-content/uploads/2026/01/1950-srql.pdf
+Failed acquisition documented in sources/new-downloads.json.
+
+5. EVASIO GANORA: A TREATED-CANCER CASE
+
+The official narrative describes a1950 Hodgkin lymphoma diagnosis and abrupt bath-associated functional improvement. The archival study gives Bureau acceptance in1954, committee acceptance in1955, and death in a1957 accident. Crucially, it explicitly notes radiotherapy and chemotherapy in his clinical history. We cannot classify this as an untreated cancer disappearance from the summary's silence about treatment.
+
+This is a specific evidentiary complication, not proof that treatment caused his recovery. The actual Sandra il report (spelled Sandrail in the reference),13February1955, pp1–13, and the treatment/biopsy file remain missing. The report author's full identity and institutional affiliation were not established. Do not invent them.
+
+6. ELISA ALOI: VISIBLE FISTULAS, INCOMPLETE ORIGINAL DIAGNOSIS
+
+The official diagnosis is osteoarticular tuberculosis with multiple fistulas. The fuller narrative says a plaster corset prevented bathing, so Lourdes water was used for irrigation and dressings. The archival review describes closure across6–11June1958; the official roster gives5June. This could distinguish onset from later closure/examination, but original notes must decide.
+
+The archive-based criticism is concrete: radiographs and bacteriological tests were unavailable in the reviewed file. That weakens precise microbiological/anatomical assertions. It does not show that the wounds were imaginary or prove their recovery ordinary. The20page report by Marseille surgical professor Michel-Marie Salmon, presented23April1961, is the critical next source. A later account attributes an11June examination to chief surgeon di Cesare; that certificate itself was not obtained.
+
+7. JULIETTE TAMBURINI: EXTERNALLY OBSERVABLE WOUND CLAIM
+
+The official narrative records chronic femoral osteoperiostitis with fistulas and recurrent nosebleeds, eleven operations including four bone curettages, and Lourdes water applied to the largest wound. Reported drying and closure are the relevant claim. Immediate regeneration of a whole femur is not documented.
+
+Secondary reproduced passages name Bouyala, Luccioni and Decamp, with an attributed21March1961 statement by Luccioni, hospital surgeon. These are leads to actual examinations, not authenticated original certificates. The original Salmon report of3May1964,18pages, plus radiology, microbiology and antibiotic chronology, remain needed. The favorable narrative itself acknowledges the risk of recurrence and waiting for durability before adjudication.
+
+SHARED SCHOLARLY CONTROL
+
+The François/Sternberg/Fee archival reappraisal is a primary archival investigation by a Lyon physician, NIH researcher and National Library of Medicine historian. Its actual findings vary by case. It records durable unusual recoveries and also specific diagnostic/treatment gaps. It is neither a universal debunking nor a wholesale certification of supernatural causation. Its exact dossier references provide useful acquisition targets.
+https://pmc.ncbi.nlm.nih.gov/articles/PMC3854941/
+
+FILES AND LIMITS
+
+cases.json contains seven structured dossiers with recovery/recognition dates, diagnosis, treatment, objective findings, doctors, follow-up, access limits and source URLs. source-register.json separates saved sources from indexed extracts and references to unacquired documents. Existing primary-library paths are reused rather than copied and counted as new evidence. No original full hospital dossier was obtained. No email, purchase, library authentication or tally change occurred.

@@ -1,0 +1,133 @@
+{
+  "date": "2026-11-02",
+  "scope": "Modern mass public apparitions and physical signs; excludes private healing and reincarnation.",
+  "cases": [
+    {
+      "id": "MP01",
+      "case": "Mount Putuo Guanyin claim, 1997",
+      "tradition": "Chinese Buddhist",
+      "status": "open_priority1",
+      "strongest_evidence": "Named claimed eyewitness, abbot interview, broadcaster text referring to 1997 footage, and official ceremony chronicle.",
+      "main_gap": "Original sky footage not played; same-week independent apparition reporting not recovered.",
+      "established_equivalent": false
+    },
+    {
+      "id": "MP02",
+      "case": "Ajmer shrine dome apparition, 2002",
+      "tradition": "Sufi Muslim",
+      "status": "open_priority2",
+      "strongest_evidence": "Contemporary AP and Times of India reporting, named claimant, and police crowd observations.",
+      "main_gap": "Original television reflection investigation and photographs not recovered; attendance is not a collected eyewitness total.",
+      "established_equivalent": false
+    },
+    {
+      "id": "MP03",
+      "case": "Kuala Lumpur moving Buddha statues, 2011",
+      "tradition": "Buddhist",
+      "status": "open_priority3",
+      "strongest_evidence": "Contemporary secondary Chinese and English reports; first-party site with video leads.",
+      "main_gap": "Original Guang Ming Daily issue and unedited video not recovered; no independent examination of objects.",
+      "established_equivalent": false
+    },
+    {
+      "id": "MP04",
+      "case": "Sabarimala ceremonial light",
+      "tradition": "Hindu",
+      "status": "ordinary_cause_documented_in_contemporary_reporting",
+      "strongest_evidence": "Contemporary reporting of a court admission that the ceremonial fire is human-lit.",
+      "main_gap": "Original court filing not inspected; distinguish ceremonial fire from the separate star.",
+      "established_equivalent": false
+    },
+    {
+      "id": "MP05",
+      "case": "Mahim sweet seawater, 2006",
+      "tradition": "Sufi-associated",
+      "status": "ordinary_environmental_explanation_reported",
+      "strongest_evidence": "Contemporary witnesses and samples; reported NIO dilution explanation; government report index.",
+      "main_gap": "Official investigation PDF failed retrieval; no independent reanalysis.",
+      "established_equivalent": false
+    },
+    {
+      "id": "MP06",
+      "case": "Sayeedi moon image, 2013",
+      "tradition": "Muslim political/religious",
+      "status": "manipulated_image_campaign_documented",
+      "strongest_evidence": "Contemporary local front-page reporting traces a composite image and its circulation.",
+      "main_gap": "Not independent mass observation of an astronomical figure.",
+      "established_equivalent": false
+    },
+    {
+      "id": "MP07",
+      "case": "Mecca angel clips,2010/2011",
+      "tradition": "Muslim",
+      "status": "unverified_video_not_mass_witness_file",
+      "established_equivalent": false
+    },
+    {
+      "id": "MP08",
+      "case": "Jain saffron water, Delhi,2014",
+      "tradition": "Jain",
+      "status": "unvalidated_fluid_claim",
+      "established_equivalent": false
+    },
+    {
+      "id": "MP09",
+      "case": "Sri Lankan statue rays,2006",
+      "tradition": "Buddhist",
+      "status": "earlier_record_retained_unscored",
+      "established_equivalent": false
+    },
+    {
+      "id": "MP10",
+      "case": "Azusa Street revival fire,1906",
+      "tradition": "Pentecostal",
+      "status": "primary_publication_index_only_new_pass",
+      "established_equivalent": false
+    },
+    {
+      "id": "MP11",
+      "case": "Timor/Soe church fire,1965",
+      "tradition": "Protestant",
+      "status": "later_investigative_reporting_partial_review",
+      "established_equivalent": false
+    }
+  ],
+  "prior_five_case_tally": "5–0 unchanged",
+  "new_cases_scored": false,
+  "not_globally_exhaustive": true,
+  "three_candidate_ranking": {
+    "file": "three-candidate-ranking-20261102.txt",
+    "positive_adversarial_eyewitnesses_established": {
+      "MP01": 0,
+      "MP02": 0,
+      "MP03": 0
+    },
+    "visual_documentation_lead_order": [
+      "MP01",
+      "MP03",
+      "MP02"
+    ],
+    "scientific_authentication_study_recovered": {
+      "MP01": false,
+      "MP02": false,
+      "MP03": false
+    },
+    "strongest_independent_contemporary_press": "MP02",
+    "original_videos_not_yet_independently_inspected": true,
+    "tally_changed": false
+  },
+  "lds_1956_disposition": {
+    "category": "private religious experience",
+    "eligible_for_current_public_vindicatory_comparison": false,
+    "tally_change": 0,
+    "reason": "Early letters and limited claimed co-observations do not establish a public mass sign. No finding of fraud or psychological causation."
+  },
+  "next_public_comparator": "Putuo 1997",
+  "putuo_evidence_expansion": {
+    "path": "research/mass-public-miracles-world-audit-20261102/putuo-deep-audit/evidence-expansion-20261102/index.html",
+    "claims_for_review": 16,
+    "source_cards": 11,
+    "tally_change": 0,
+    "repeated_appearance_claims": "Located later claims and a specific 2003 newspaper citation; original upstream items pending."
+  }
+}

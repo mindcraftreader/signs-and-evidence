@@ -1,0 +1,21 @@
+{
+  "id": "neutron-testability-20261105",
+  "completed": "2026-11-05",
+  "report": "shroud-neutron-testability-20261105/assessment-and-test-plan.txt",
+  "related_topics": [
+    "carbon dating",
+    "replacement",
+    "irradiation",
+    "model falsifiability"
+  ],
+  "analyst_assessment": {
+    "fanti_beta_measurements": "Testable experimental lead; isotope source and quantitative linen age correction not established.",
+    "rucker_spatial_prediction": "2018/2020 model predicts strong location differences, including apparent future radiocarbon dates near elbows. Numerical map is version-specific.",
+    "author_accepts_negative_tests": "Rucker 2019 explicitly says statistically significant negative isotope results are evidence against the hypothesis.",
+    "current_model_issue": "2026 manuscripts fit unknown positions to existing data; a frozen current prediction map and rejection criteria are needed before new tests.",
+    "isotope_background": "Natural and anthropogenic backgrounds, composition and retention must be considered.",
+    "completed_independent_shroud_wide_validation": "Not located in bounded search; proposals and laboratory analogues are not actual Shroud-wide verification."
+  },
+  "new_numerical_tally_assigned": false,
+  "user_concession_inferred": false
+}

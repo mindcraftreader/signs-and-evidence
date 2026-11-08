@@ -1,0 +1,7 @@
+{
+  "calibration_rows_checked": 10,
+  "max_abs_difference_deg": 7.105427357601002e-15,
+  "input_change_test": "passed; restored original",
+  "camera_rows": 21,
+  "lens_rows": 8
+}

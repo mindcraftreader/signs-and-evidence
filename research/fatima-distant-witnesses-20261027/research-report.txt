@@ -1,0 +1,99 @@
+FÁTIMA: DISTANT-WITNESS SOURCE AND LOCATION AUDIT
+27 October 2026
+
+Result
+Eight account entries across seven reported localities have been traced from Ethan Muse's reply to Scott Alexander. Portuguese source passages were retrieved for six entries: Granja, Torres Novas, Santo Amaro de Oeiras, São Pedro de Moel, and the two Alburitel groups. Published English interviews were retrieved for Albano Barros near Minde and Guilhermina Lopes da Silva in Leiria; their Portuguese edition/interview wording remains unlocated. A separate early Leiria newspaper passage is preserved in a later Portuguese quotation, but the newspaper issue itself was not retrieved.
+
+What the map shows
+Coordinates identify modern localities, not surveyed 1917 observation stations. Chapel coordinates come from the Associação Caminhos de Fátima. Settlement/beach coordinates come from the GeoNames Portugal dump; administrative geography comes from geoBoundaries. Distances are great-circle distances to the chapel, calculated with mean Earth radius 6371.0088 km. They differ from historical travel distances. Calculated bearings to Cova are not eyewitness measurements. The map intentionally does not draw purported intersecting viewing rays. The selected dashed connector is only a distance guide.
+
+Straight-line distances (rounded)
+Minde vicinity: 13 km (actual village/field not identified)
+Alburitel: 13 km (school and hill not identified)
+Leiria: 17 km
+Torres Novas: 21 km
+São Pedro de Moel: 34 km
+Santo Amaro de Oeiras: 119 km
+Praia da Granja: 157 km
+
+Sources and record-specific results
+
+1. PRAIA DA GRANJA
+Muse: reply, section 2.5, note 13, citing Amorim (1960).
+Retrieved: DCF III-1, document 79, 14 October 1917, pp. 214–215. Letter by Maria Joaquina Tavares de Proença de Almeida Garrett to Manuel Nunes Formigão. Archive reference AForm, Doss. 3, fl. 4, doc. 2.
+The letter writer was herself at the Cova. She reports that people at Granja saw apparent rotation and a pink cloud pass before the Sun. This is a next-day indirect report about unnamed local observers, not the writer's own sighting from Granja. No bearing, precise observation point, or clock time is supplied in the brief passage.
+Access: https://fatima-1917.com/pt/d/iii-1-79
+Printed DCF scans retrieved and visually checked:
+https://fatima-1917.com/scans/III-1/106-L.webp
+https://fatima-1917.com/scans/III-1/106-R.webp
+Amorim independently supplies the letter date and passage in his appendix, p. 201. This cross-check matters because the third-party witness index uses AI for summaries and classification. We used the scanned Portuguese edition as the textual evidence, not its AI summary. No handwritten manuscript photograph was retrieved.
+
+2. TORRES NOVAS
+Muse: reply, section 2.6, note 14, citing Amorim.
+Retrieved: DCF III-1, document 319, letter of Adelaide Grego to a friend, dated 24 November 1917, p. 740. Archive reference AForm, Doss. 6, fl. 52, doc. 11.
+Grego says she was happy to have attended Fátima and relays descriptions of something in the Sun at Torres Novas at the same hour, explicitly saying it was not comparable. This is a contemporary indirect report of a less dramatic phenomenon. It should not be represented as a detailed duplicate of the Cova experience.
+https://fatima-1917.com/pt/d/iii-1-319
+https://fatima-1917.com/scans/III-1/369-L.webp
+Printed Portuguese page visually checked. Amorim quotes it in his appendix, pp. 201–202.
+
+3. SANTO AMARO DE OEIRAS
+Muse: reply, section 2.5, note 12, citing Amorim.
+Retrieved: Diogo Pacheco de Amorim, University of Coimbra mathematician, O fenómeno solar de 13 de Outubro de 1917, O Instituto 122 (1960), p. 197, section 128. The volume scan places this on PDF p. 205.
+Amorim quotes Maria do Carmo Lopes da Fonseca's letter dated 17 August 1958, forwarding Berta Leite's report about her father, painter José Leite. Berta says she did not accompany him that day. The claim is her later recollection of her father's account, transmitted through a correspondent. No exact observation bearing toward Fátima is provided. Parede, where the family was staying, must not be counted as an additional independent observation.
+Publisher/library scan: https://digitalis-dsp.uc.pt/institutocoimbra/UCBG-A-24-37a41_v122/UCBG-A-24-37a41_v122_item1/UCBG-A-24-37a41_v122.pdf#page=205
+
+4. SÃO PEDRO DE MOEL
+Muse: reply, section 2.4, notes 8–9, citing Costa Brochado, Fátima in the Light of History (1955).
+Retrieved Portuguese: João de Marchi, Era uma Senhora mais brilhante que o Sol, p. 176 (PDF p. 181); the downloaded edition has an imprimatur dated 26 April 1966. Do not silently describe this scan as the first edition of 1948.
+Retrieved Portuguese: Amorim, p. 196, section 126, quoting Costa Brochado, pp. 315–316. The text reports the poet, his wife and mother-in-law, with the widow's confirmation.
+Retrieved English primary interview publication: John M. Haffert, Meet the Witnesses (1961), p. 40, says the widow gave a deposition in 1960.
+The Portuguese passages retrieved do not give a measured compass direction to the luminous object. Haffert's English narration places the event over the mountain at Fátima. Do not treat this narration as a surveyed bearing.
+https://centroculturalcampogrande.pt/pdfs/era.uma.senhora.mais.brilhante.que.o.sol.pdf#page=181
+
+5. ALBURITEL — SCHOOL
+Muse: reply, section 2.1, note 5, citing De Marchi.
+Retrieved Portuguese: De Marchi, pp. 176–177, quoting Inácio Lourenço's later letter. De Marchi reports personally questioning his teacher Delfina Pereira Lopes and other villagers to corroborate it. The school account describes apparent rotation, descent, colors and fear. No precise direction to the observed disc is recorded in this passage. The letter's date is not established from the retrieved excerpt.
+The exact 1917 school position has not been verified, so the marker is at the settlement.
+
+6. ALBURITEL — HILL GROUP
+Muse: reply, section 2.1, note 4, citing Amorim.
+Retrieved Portuguese: Amorim appendix, pp. 202–204, reproducing a letter by Maria do Carmo Lopes da Fonseca dated 10 June 1958. Fonseca recounts Joaquim Lourenço's description, given to her the preceding year, of approximately twenty people on a hill. She herself remembers local alarm and preparations but explicitly does not remember seeing the phenomenon.
+The hill afforded a view of the Fátima ridges, but this does not supply a measured direction of the observed disc. The hill remains unidentified. The letter explicitly describes prior expectation of an astronomical/celestial sign, including people preparing smoked glass that morning.
+The two Alburitel groups are distinguished in the Portuguese material. Haffert's English retelling attributes the school narrative to Joaquim and groups the brothers together. Retain that discrepancy rather than merging the narratives into independent identical measurements.
+
+7. MINDE VICINITY
+Muse: reply, section 2.2, note 6, citing Haffert (2006 reprint).
+Retrieved: Haffert's 1961 English publication, pp. 40–41, PDF pp. 62–63, containing his interview with Albano Barros in Somerville, New Jersey. The book says almost all these interviews occurred in 1960. It calls his childhood location a village near Minde; it does not identify a field. It explicitly reports a falling Sun in the direction of Fátima. This is directional evidence, although not a numeric azimuth and not yet checked in Portuguese.
+The Portuguese book Encontro de Testemunhas is catalogued by WorldCat (OCLC 51643617); no readable Portuguese edition or interview transcript was retrieved in this pass. An English publication must not be translated back and presented as original Portuguese.
+Published author PDF, archived: https://web.archive.org/web/20161128200651id_/http://johnhaffert.org/wp-content/uploads/2013/08/Meet-the-Witnesses-91511.pdf
+
+8. LEIRIA
+Muse: reply, section 2.3, note 7, citing Haffert; also a newspaper quotation in the body.
+Retrieved: Haffert (1961), pp. 41–42, PDF pp. 63–64: Guilhermina Lopes da Silva's interview describing a red flash toward the mountain, and two workmen whom she called. The mountain is not identified by a surveyed bearing. The workmen's own accounts are not separately reproduced in the retrieved passage.
+Important location limit: Haffert identifies 20 Rua de Nossa Senhora da Encarnação as where she was living at the time of publication/interview. The text does not establish that this was also her observation address in 1917. Dalleur's reconstruction based on that address therefore needs an independent historical-address check.
+The Portuguese interview wording remains unlocated.
+Separate early Leiria evidence: Amorim, appendix p. 202, quotes José Ferreira de Lacerda in O Mensageiro, dated 8 November 1917, referring to people who saw the event at Leiria without going to Fátima. Muse says 5 November. The Portuguese quotation supports an early claim, but the original newspaper issue has not been retrieved, and the date discrepancy remains open. The District Archive's old newspaper link now redirects to the new general Digitarq portal.
+
+What this supports and does not yet settle
+There are genuinely dispersed reports; two remote-location reports survive in letters written in 1917, including a next-day Granja letter. The corpus is not merely a set of recent internet repetitions.
+However, location, contemporaneity, first-hand status, and measured viewing direction are distinct attributes. Most retrieved Portuguese records supply locations and descriptions without numerical bearings. They cannot alone be treated as a completed triangulation locating one emitter near the Cova. The Minde published interview offers the clearest explicitly Fátima-directed wording, but it is late, its precise location is unresolved, and original Portuguese wording is not yet retrieved.
+
+Relevant interpretation by the cited historical scholar
+Amorim's opening note (p. 145) interprets the visible phenomenon as meteorological and naturally explicable, reserving the extraordinary feature for its prediction. His collecting these reports is therefore not equivalent to his endorsing Dalleur's later localized-emitter reconstruction. This distinction should remain visible when citing him.
+
+Remaining retrieval work
+- Portuguese Haffert edition and, if preserved, original interview notes/recordings for Barros and Silva.
+- O Mensageiro original November 1917 issue and verification of the 5 versus 8 November date.
+- Original correspondence of Berta Leite and Fonseca, and the underlying Brochado interviews.
+- Identification of the school/hill/field observation stations and Silva's 1917 address.
+These are specific source gaps, not reasons to erase the reports already located.
+
+Local deliverables
+witness-records.json — source-linked records, coordinates, distances, and source distinctions.
+witness-register.csv — same account register in tabular form.
+source-manifest.json — downloaded source files and hashes.
+sources/ — original Portuguese publications/scans, English Haffert, index and geography data.
+previews/ — page images checked and map previews.
+map-preview.html — standalone view of the interactive map.
+
+Edition clarification, 27 October 2026: The Haffert PDF downloaded here is the 2006 reprint of the work first published in 1961, rather than a scan of the 1961 physical edition. Printed page references quoted above are to this consulted reprint.

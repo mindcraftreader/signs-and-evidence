@@ -1,0 +1,166 @@
+{
+  "audit_date": "2026-10-27",
+  "scope": "Bounded source-dependence audit, not exhaustive review of all DCF volumes",
+  "sources": [
+    {
+      "id": "prediction-july",
+      "author": "Manuel Marques Ferreira",
+      "role": "Parish priest of Fátima; interviewer",
+      "date": "1917-07-14",
+      "publication": "DCF Seleção (2013), doc.3 = DCF I doc.3, printed p.32",
+      "url": "https://www.fatima.pt/files/upload/fontes/F001_DCF_selecao.pdf#page=34",
+      "transcription": "https://fatima-1917.com/pt/d/sel-3",
+      "local": "research/fatima-distant-witnesses-20261027/sources/dcf-selecao-2013.pdf",
+      "visual_check": "Relevant page image inspected",
+      "finding": "Records a request for a miracle so everyone would believe, followed by a promise in three months. This establishes advance promise, not advance specification of rotation, colors or descent."
+    },
+    {
+      "id": "prediction-september",
+      "author": "Manuel Nunes Formigão",
+      "role": "Priest and teacher at the Santarém seminary and lycée; interviewer and later canonical commission rapporteur",
+      "date": "1917-09-27",
+      "publication": "DCF Seleção (2013), doc.10 = DCF I doc.7, printed p.58",
+      "url": "https://www.fatima.pt/files/upload/fontes/F001_DCF_selecao.pdf#page=60",
+      "transcription": "https://fatima-1917.com/pt/d/sel-10",
+      "local": "research/fatima-distant-witnesses-20261027/sources/dcf-selecao-2013.pdf",
+      "visual_check": "Relevant page image inspected",
+      "finding": "Explicitly connects October 13 with making the people believe the Lady appears. Pre-event wording also includes peace for the world. Public sign must not be replaced with an invented exact prediction of a descending luminous disc."
+    },
+    {
+      "id": "pre-event-solar-context",
+      "author": "Anonymous subscriber and editor Henrique dos Santos Silva",
+      "role": "Contemporary letter writer and editor of Catholic monthly Raio de Luz",
+      "date": "1917-09-01",
+      "publication": "Raio de Luz 5(49), pp.11–13; DCF III-1 doc.20",
+      "url": "https://fatima-1917.com/pt/d/iii-1-20",
+      "local": "research/fatima-distant-witnesses-20261027/sources/dcf-third-party-witness-index.json",
+      "visual_check": "Complete printed transcription read online; original page scans not newly inspected in this pass",
+      "finding": "August account, published before October, already discusses temperature change, a cloud by the Sun, bystanders calling attention to astronomical appearance, a communal reaction, and writer distinguishing what she herself saw from what others reported. Supports pre-existing sky-focused attention; does not establish illusion as cause."
+    },
+    {
+      "id": "almeida-postcard",
+      "author": "Avelino de Almeida",
+      "role": "O Século special correspondent; eyewitness",
+      "date": "1917-10-13",
+      "publication": "Private postcard to sister Augusta; DCF III-1 doc.54 p.163",
+      "url": "https://fatima-1917.com/pt/d/iii-1-54",
+      "scan": "https://fatima-1917.com/scans/III-1/80-R.webp",
+      "local": "research/fatima-independence-audit-20261027/sources/80-R.webp",
+      "visual_check": "Complete printed DCF page inspected, including editorial description of postmarks",
+      "finding": "Says he saw extraordinary things; around 40,000 present. Separate private early record supports his sincere impression; no detailed feature inventory. DCF editors note the Ourém postmark is partly unclear, while Sintra October 15 is clear. This is an edited transcription, not my inspection of original postcard."
+    },
+    {
+      "id": "almeida-seculo",
+      "author": "Avelino de Almeida",
+      "role": "O Século special correspondent; eyewitness",
+      "date": "1917-10-15",
+      "composition_date": "1917-10-13",
+      "publication": "O Século 37(12876), p.1 cols.6–7; p.2 col.1; DCF III-1 doc.87 pp.237–243",
+      "url": "https://fatima-1917.com/pt/d/iii-1-87",
+      "local": "research/fatima-independence-audit-20261027/sources/selected-index-passages.json",
+      "visual_check": "Full transcription read; DCF pp.241–242 visually checked; all seven edited pages saved",
+      "finding": "Reports matte disc and extraordinary crowd response. Explicitly describes people asking one another what they saw, and distinguishes majority trembling/dancing from others reporting descent, colors and Marian face. Does not let us count all those features as his own separate observations."
+    },
+    {
+      "id": "diario-noticias",
+      "author": "Unnamed Vila Nova de Ourém correspondent",
+      "role": "Diário de Notícias reporter; contemporaneous event reporting",
+      "date": "1917-10-15",
+      "composition_date": "Dateline 1917-10-13",
+      "publication": "DCF III-1 doc.89 pp.245–246; original newspaper issue not newly retrieved",
+      "url": "https://fatima-1917.com/pt/d/iii-1-89",
+      "scan": "https://fatima-1917.com/scans/III-1/122-L.webp",
+      "local": "research/fatima-independence-audit-20261027/sources/122-L.webp",
+      "visual_check": "Complete relevant p.246 inspected; preceding p.245 saved",
+      "finding": "Explicitly reports descent as what some observers said and describes their explaining it to others. Reporter calls the process suggestion, but this causal label is interpretation, not a controlled demonstration. Do not present him as a second clearly self-attested witness to every optical feature."
+    },
+    {
+      "id": "almeida-ilustracao",
+      "author": "Avelino de Almeida",
+      "role": "O Século journalist writing his own follow-up",
+      "date": "1917-10-29",
+      "publication": "Ilustração Portuguesa II(610), pp.353–356; DCF III-1 doc.228",
+      "url": "https://fatima-1917.com/pt/d/iii-1-228",
+      "local": "research/fatima-independence-audit-20261027/sources/selected-index-passages.json",
+      "visual_check": "Complete transcription read online; four DCF page scans saved, not all visually inspected",
+      "finding": "Explicitly presents dancing and colors as what he personally saw, leaves cause to science and Church. Important counter to assertion he only reported the crowd. O Século article, postcard and this article remain one witness, not three independent observers."
+    },
+    {
+      "id": "granja",
+      "author": "Maria Joaquina Tavares de Proença de Almeida Garrett",
+      "role": "Cova attendee reporting unnamed observers at Granja in a letter to Formigão",
+      "date": "1917-10-14",
+      "publication": "DCF III-1 doc.79 pp.214–215",
+      "url": "https://fatima-1917.com/pt/d/iii-1-79",
+      "scan": "https://fatima-1917.com/scans/III-1/106-R.webp",
+      "local": "research/fatima-distant-witnesses-20261027/sources/dcf-iii1-p215.webp",
+      "visual_check": "Prior local audit visually checked printed pages; text re-read in current pass",
+      "finding": "Genuinely next-day distant report, but indirect; rotation and pink cloud, not a falling Sun or measured bearing. No demonstrated copying from a newspaper; earliest major newspaper accounts were October15."
+    },
+    {
+      "id": "torres",
+      "author": "Adelaide Grego",
+      "role": "Cova attendee relaying local Torres Novas descriptions",
+      "date": "1917-11-24",
+      "publication": "DCF III-1 doc.319 p.740",
+      "url": "https://fatima-1917.com/pt/d/iii-1-319",
+      "local": "research/fatima-distant-witnesses-20261027/sources/dcf-iii1-p740.webp",
+      "visual_check": "Prior local audit visually checked page; current report uses recorded passage",
+      "finding": "Contemporary distant report says something appeared in Sun at same hour but expressly says descriptions were not comparable to Cova. No demonstrated fabrication/copying; not independent exact duplicate."
+    },
+    {
+      "id": "amorim-1960",
+      "author": "Diogo Pacheco de Amorim",
+      "role": "University of Coimbra mathematician",
+      "date": "1960",
+      "publication": "O fenómeno solar de 13 de Outubro de 1917, O Instituto 122, pp.145–204",
+      "url": "https://digitalis-dsp.uc.pt/institutocoimbra/UCBG-A-24-37a41_v122/UCBG-A-24-37a41_v122_item1/UCBG-A-24-37a41_v122.pdf",
+      "local": "research/fatima-distant-witnesses-20261027/sources/amorim-o-instituto-v122.pdf",
+      "visual_check": "Appendix p.202 newly visually checked; pp.197,203–204 OCR/text re-read; previous audit inspected broader relevant pages",
+      "finding": "Preserves 1958 letters about Alburitel and Oeiras. Fonseca directly recalls advance preparation of smoked glass in Alburitel and recounts Joaquim Lourenço’s account learned in 1957, while explicitly not remembering personally seeing phenomenon. Underlying mother was schoolteacher. Geographic remoteness is not informational isolation."
+    },
+    {
+      "id": "haffert",
+      "author": "John M. Haffert",
+      "role": "Author and interviewer; Catholic Fatima advocate",
+      "date": "First publication 1961; interviews generally 1960; consulted 2006 reprint",
+      "publication": "Meet the Witnesses, pp.39–42; interview dating note p.8",
+      "url": "https://web.archive.org/web/20161128200651id_/http://johnhaffert.org/wp-content/uploads/2013/08/Meet-the-Witnesses-91511.pdf",
+      "local": "research/fatima-distant-witnesses-20261027/sources/haffert-meet-witnesses-1961.pdf",
+      "visual_check": "Relevant text re-read; adjacent local audit has page images pp.40–41; full raw interview notes/audio not retrieved",
+      "finding": "Albano Barros directly says falling Sun in direction Fatima; late publication not contemporaneous bearing measurement. Silva explicitly knew prediction and wanted to attend; called two workers to look, and recounts returning Cova relatives. Poet Vieira’s widow deposed in1960. Haffert merges Joaquim with school narrative where Portuguese sources distinguish brothers."
+    },
+    {
+      "id": "de-marchi",
+      "author": "João de Marchi",
+      "role": "Priest and interviewer/author",
+      "date": "Consulted Portuguese edition imprimatur 1966; work originated earlier",
+      "publication": "Era uma Senhora mais brilhante que o Sol, pp.176–177",
+      "url": "https://centroculturalcampogrande.pt/pdfs/era.uma.senhora.mais.brilhante.que.o.sol.pdf#page=181",
+      "local": "research/fatima-distant-witnesses-20261027/sources/de-marchi-portugues.pdf",
+      "visual_check": "Prior local audit checked pp.176–177; existing report re-read",
+      "finding": "Inácio Lourenço school account describes rotation, descent and colors; De Marchi claims corroborative questioning of teacher/villagers. That is real claimed corroboration, not separately preserved full depositions in inspected excerpt."
+    },
+    {
+      "id": "garrett-detailed",
+      "author": "José Maria de Proença de Almeida Garrett",
+      "role": "Lawyer and Cova eyewitness",
+      "date": "1917-12-18",
+      "publication": "DCF III-1 doc.345 pp.794–798",
+      "url": "https://fatima-1917.com/pt/d/iii-1-345",
+      "local": "research/fatima-independence-audit-20261027/sources/selected-index-passages.json",
+      "visual_check": "Full extracted Portuguese passage read; scans not newly downloaded",
+      "finding": "Directly describes rotation, apparent descent and environmental colors, explicitly says he made no notes and was writing two months later. Records hearing matte-silver comparison and a nearby man remarking yellow coloration. Repeated reports by him/family and later reproductions cannot be counted as independent records without deduplication."
+    },
+    {
+      "id": "reis",
+      "author": "Bruno Cardoso Reis",
+      "role": "At publication: Centro de Estudos de História Religiosa, Universidade Católica Portuguesa; PRAXIS XXI fellow",
+      "date": "2001",
+      "publication": "Fátima: a recepção nos diários católicos (1917–1930), Análise Social XXXVI(158–159), pp.249–299",
+      "url": "https://revistas.rcaap.pt/analisesocial/article/download/37141/25663/166577",
+      "visual_check": "Publisher PDF text reviewed in relevant sections; cause excluded by author; not used as experimental disproof",
+      "finding": "Documents early Catholic newspaper disagreement and circulation/reprinting. Explicitly excludes deciding whether phenomenon supernatural or natural. Useful context, cannot cite as scientific refutation."
+    }
+  ]
+}

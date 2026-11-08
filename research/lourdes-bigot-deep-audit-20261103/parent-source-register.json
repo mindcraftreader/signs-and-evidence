@@ -1,0 +1,34 @@
+[
+  {
+    "file": "ferey-hospital-history.html",
+    "url": "https://www.cphr.fr/memoire-humaine/notes-historiques/breve-histoire-de-neurochirurgie-a-rennes-gilles-guy/",
+    "exit": 56,
+    "error": "curl: (56) The requested URL returned error: 403\n",
+    "bytes": null,
+    "sha256": null
+  },
+  {
+    "file": "bigot-rosary-obituary-letter1998.html",
+    "url": "https://www.pelerinage-rosaire.org/le-ciel-pour-une-miraculee/",
+    "exit": 56,
+    "error": "curl: (56) The requested URL returned error: 404\n",
+    "bytes": null,
+    "sha256": null
+  },
+  {
+    "file": "bigot-ladepeche-20151010.html",
+    "url": "https://www.ladepeche.fr/article/2015/10/10/2194729-marie-bigot-triplement-miraculee-au-rosaire.html",
+    "exit": 0,
+    "error": "",
+    "bytes": 92414,
+    "sha256": "b0980126cb2b1de013517ac140a963fa83e022c5c174918923a42227e903cb43"
+  },
+  {
+    "file": "bigot-acermendax-2026.html",
+    "url": "https://menace-theoriste.fr/les-meilleurs-des-miracles-5-la-guerison-de-marie-bigot/",
+    "exit": 0,
+    "error": "",
+    "bytes": 293684,
+    "sha256": "6808339b4928e4b31bad017c0dc4cae3bf2ee03843357ca18f67c4ad92a30f20"
+  }
+]
