@@ -1,0 +1,17 @@
+{
+  "findings": 57,
+  "groups": 8,
+  "sources": 27,
+  "statuses": {
+    "settled_defense": 9,
+    "correction": 12,
+    "supported": 14,
+    "reproduced": 14,
+    "open_verification": 4,
+    "modeled_only": 3,
+    "bounded_search": 1
+  },
+  "canonical_sha256": "16684c85dacf0488d9dd58a4f042796b7c70703cbd5f4e5444798b9070e43b4b",
+  "docx_sha256": "38aa861005595029e70947fc8793c93ccef67e762bbeaac22dca1240c24da30b",
+  "semantic_validation": "IDs unique; sources resolve; source links valid by local existence"
+}

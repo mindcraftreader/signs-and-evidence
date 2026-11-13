@@ -1,0 +1,113 @@
+{
+  "status": "Sensitivity audit; no newly elicited historical posterior",
+  "target": "At least one authentic Christian intervention among the four cases",
+  "archived_posterior": {
+    "O": 0.029901151260483243,
+    "X": 0.027489094898177323,
+    "C": 0.3067822691766335,
+    "V": 0.635827484664706
+  },
+  "archived_christian_probability": 0.9426097538413394,
+  "archived_prior_christian": 0.14999999999999997,
+  "archived_bayes_factor": 93.07252763824442,
+  "scenarios": {
+    "central": 0.9426097538413394,
+    "cautious": 0.49449867026450955,
+    "favorable": 0.9981202731766132
+  },
+  "thresholds": [
+    {
+      "target": 0.9,
+      "total_bayes_factor": 51.00000000000002,
+      "additional_bayes_factor": 0.5479597609965802
+    },
+    {
+      "target": 0.95,
+      "total_bayes_factor": 107.66666666666659,
+      "additional_bayes_factor": 1.156803939881668
+    },
+    {
+      "target": 0.99,
+      "total_bayes_factor": 560.9999999999997,
+      "additional_bayes_factor": 6.027557370962376
+    },
+    {
+      "target": 0.999,
+      "total_bayes_factor": 5660.999999999996,
+      "additional_bayes_factor": 60.82353347062033
+    }
+  ],
+  "ordinary_sensitivity": [
+    {
+      "ordinary_likelihood_multiplier": 1,
+      "christian_probability": 0.9426097538413395
+    },
+    {
+      "ordinary_likelihood_multiplier": 0.75,
+      "christian_probability": 0.9497091027248478
+    },
+    {
+      "ordinary_likelihood_multiplier": 0.5,
+      "christian_probability": 0.9569162018894919
+    },
+    {
+      "ordinary_likelihood_multiplier": 0.25,
+      "christian_probability": 0.964233523161193
+    },
+    {
+      "ordinary_likelihood_multiplier": 0,
+      "christian_probability": 0.9716636145544396
+    }
+  ],
+  "parameter_sensitivity": [
+    {
+      "component": "CZ2",
+      "old_ordinary_truth_parameter": 0.2,
+      "new_ordinary_truth_parameter": 0.18000000000000002,
+      "relative_reduction": 0.1,
+      "christian_probability": 0.9435247530746268
+    },
+    {
+      "component": "CZ2",
+      "old_ordinary_truth_parameter": 0.2,
+      "new_ordinary_truth_parameter": 0.15000000000000002,
+      "relative_reduction": 0.25,
+      "christian_probability": 0.9449005875219025
+    },
+    {
+      "component": "CZ2",
+      "old_ordinary_truth_parameter": 0.2,
+      "new_ordinary_truth_parameter": 0.1,
+      "relative_reduction": 0.5,
+      "christian_probability": 0.9472025832004632
+    },
+    {
+      "component": "CP1",
+      "old_ordinary_truth_parameter": 0.3,
+      "new_ordinary_truth_parameter": 0.27,
+      "relative_reduction": 0.1,
+      "christian_probability": 0.9452489780842697
+    },
+    {
+      "component": "CP1",
+      "old_ordinary_truth_parameter": 0.3,
+      "new_ordinary_truth_parameter": 0.22499999999999998,
+      "relative_reduction": 0.25,
+      "christian_probability": 0.9492356423043464
+    },
+    {
+      "component": "CP1",
+      "old_ordinary_truth_parameter": 0.3,
+      "new_ordinary_truth_parameter": 0.15,
+      "relative_reduction": 0.5,
+      "christian_probability": 0.9559553409270112
+    }
+  ],
+  "input_sha256": {
+    "central": "dc310d2b610fe89f76f265c1311a43a5e79ba6ebfd586c7fed86bbbb62a418ef",
+    "cautious": "0566a81b0c621b62a5cf3db0ed441b595653760d1d53a0d1cf15af651ae45500",
+    "favorable": "0eb36a4bf0e4f846bddbdc4303940f144e9db3004b87d25be33907b2b63b35c6"
+  },
+  "tests": "Normalization, archived output, identity update and monotonicity passed",
+  "warning": "Scenario ranges are not confidence intervals. No moderate/high grade enters the likelihood calculation."
+}

@@ -1,13 +1,117 @@
+CURRENT SCOREBOARD — 11 NOVEMBER 2026 — F-08 ADDED
+Main tally: Daniel 17 — assistant 0. Confidence:17HIGH;0MODERATE;0UNRATED.
+F-08: successful defense of comfortable-viewing testimony plus absence of a
+known eye-injury cluster against the medical-ascertainment objection presented.
+The assistant withdrew this limitation as a substantive counterargument.
+No universal clinical zero-injury finding or numerical miracle probability follows.
+This is a new distinct challenge; F-04 joint-calibration remains an unscored
+follow-up beneath the already-scored photographic argument.
+Comparative tally8–0 is unchanged and overlaps the main ledger.
+Earlier counts below are preserved historical stages.
+
+CURRENT SCOREBOARD — 11 NOVEMBER 2026 — P-04 OUTCOME RATED HIGH
+Main tally: 16–0. All 16 scored argument outcomes now have HIGH confidence.
+These are confidence ratings for the recorded outcomes, not calibrated
+probabilities that any miracle occurred. The tally includes supporting,
+comparative and theological arguments as well as event-specific challenges.
+P-04 is HIGH for withdrawal of the ordinary explanations actually developed,
+not for an assertion that every possible natural cause is medically excluded.
+The reviewed medical chronology contains positive observations and no established
+full ordinary reconstruction in this investigation. Missing Rossi/Positio and
+other documents remain genuine access limits. A complete archive is not a
+prerequisite for retaining a well-supported withdrawal of a specific objection.
+Marian evidence may inform the cumulative causal assessment; this rating change
+does not assume Marian intervention as a proved premise or supply missing Pio data.
+Main points and comparative tally (8–0, Putuo provisional) are unchanged.
+Earlier ratings below are history. See scoreboard.html for the current display.
+
+CURRENT SCOREBOARD — 11 NOVEMBER 2026 — F-07 RATED HIGH
+Main tally: 16–0. Confidence: 15 HIGH, 1 MODERATE (P-04), 0 unrated.
+F-07 was previously unrated because it was added after the initial audit.
+HIGH applies to the conclusion that the recorded conduct supports sincerity
+and weighs against deliberate fabrication. It does not certify every reported
+interrogation detail, perfect accuracy, or supernatural causation.
+The comparative tally remains 8–0, including provisional Putuo. No new point.
+Earlier ratings below are retained as history; see scoreboard.html for current.
+
+CURRENT SCOREBOARD — 11 NOVEMBER 2026 — F-01 UPGRADE ADOPTED
+Main tally: Daniel 16 — assistant 0.
+Confidence: 14 HIGH; 1 MODERATE (P-04); 1 UNRATED (F-07).
+F-01 and Z-02 are HIGH-confidence withdrawals of the challenges as presented.
+P-04 remains MODERATE; F-07 is scored but has not received a confidence rating.
+Comparative tally: 8–0, including provisional Putuo; it overlaps the main ledger.
+No new points. P-01 remains open; H-01 is a separate methodological correction.
+Confidence describes the recorded verdict, not the probability of a miracle.
+Current detailed scoreboard: scoreboard.html and scoreboard.txt.
+Earlier dated ratings and totals below are historical and superseded as indicated.
+
+CURRENT AGREED UPDATE — 11 NOVEMBER 2026 — Z-02 HIGH
+Z-02 is upgraded from MODERATE to HIGH confidence in the withdrawal of the
+Pepper's Ghost challenge as presented. Daniel's count was approximate, not an
+assertion of exactly ninety individually documented appearances. The supported
+recurrence adds operational requirements to the proposed explanation. Unverified
+roof dimensions and witness stations still limit a universal claim of physical
+impossibility; they do not make the recurrence evidence moderate or undo the
+withdrawal. This revises the prior same-day decision to retain MODERATE.
+No new point: the main tally remains 16–0.
+Among the original fifteen rated defenses: 13 HIGH and 2 MODERATE. F-07 remains
+an additional recorded defense without a rating in that historical audit.
+Earlier assessments below are retained as dated history, not current ratings.
+
 LIVE DEBATE TALLY
-Updated 7 November 2026
+Updated 11 November 2026
 
 CURRENT SCORE
-Daniel: 15 successful defenses, organized into 14 scored argument groups
+Daniel: 16 successful defenses / sustained arguments, organized into 15 scored argument groups
 Assistant: 0 successful challenges
 Open: 1 challenge (P-01)
 Separately recorded: 1 methodological correction (H-01)
 
 This is the current explicit objection ledger, not a probability estimate or a tally of every argument in the conversation. The historical entries below preserve earlier running totals; the JSON and this header give the current total.
+
+2026-11-11 F-07 | FÁTIMA | CHILDREN'S CHARACTER AND STEADFASTNESS
+Main tally point 16. Status: sustained argument by explicit agreement.
+Daniel +1; assistant +0. Current main tally: 16–0.
+
+The children's reported resistance to threats and inducements, sustained central
+testimony, and subsequent religious commitment support sincere conviction and
+weigh against deliberate fabrication. Inventing a substitute secret might have
+offered an escape. Their belief that lying and betraying a sacred trust were sinful
+makes the reported refusal intelligible within their professed faith. No persuasive
+character-based rebuttal has been established in this discussion.
+
+Sources and provenance:
+- Lucia's sworn canonical interrogation, 8 July 1924, DCF II, Doc. 8;
+  selected edition Doc. 82. Reports threats of hot-oil execution, individual
+  removal and being told the other children had been killed. They were then
+  placed together in another room. Retrospective first-person testimony, not
+  a 1917 police transcript or three independently recorded accounts.
+  https://fatima-1917.com/pt/d/sel-82
+- Coimbra-trained lawyer Luis Antonio Vieira de Magalhaes e Vasconcelos,
+  testimony dated 30 December 1917, DCF I, Doc. 28; selected edition Doc. 32.
+  Records a relative's report of inducements and threats of burning or being
+  thrown into a well. Early corroboration of threat reports; he did not witness
+  the interrogation and does not corroborate every execution-threat detail.
+  https://fatima-1917.com/pt/w/luis-antonio-vieira-de-magalhaes-e-vasconcelos
+- Fr. Manuel Nunes Formigao's account of questioning on 11 October 1917,
+  DCF I, Doc. 12; selected edition Doc. 11. Records Lucia affirming the miracle
+  and denying fear of harm if nothing happened. Editors place the surviving
+  literary redaction likely after 13 October, within that month.
+  https://fatima-1917.com/pt/d/sel-11
+- Shrine chronology: Francisco died 4 April 1919; Jacinta died 20 February 1920.
+  Lucia entered religious life and subsequently the Coimbra Carmel on
+  25 March 1948, remaining a Carmelite until her death in 2005.
+  https://www.fatima.pt/en/pages/chronology-of-the-three-seers
+
+Scope: sincerity/character is supporting evidence in the cumulative case. This
+point does not independently establish supernatural agency, perfect agreement
+in every detail, or a probability. The reported early-death prediction is not
+counted here as independently documented before the deaths. One point covers
+the connected argument; threats, later conduct and source follow-ups are not
+additional victories. This is an explicitly agreed character argument, not a
+claim that a new controlled experiment or identified fraud allegation was defeated.
+The separate comparative exclusivity tally and H-01 correction are unchanged.
+Temporary entry FATIMA-CHARACTER-20261111 is merged here as F-07; do not count twice.
 
 UNSCORED COMPONENT REVIEW — 7 NOVEMBER 2026
 F-06 | FÁTIMA | GEOGRAPHIC LOCALIZATION OF THE LIGHT SOURCE
@@ -35,6 +139,10 @@ One successful defense, Daniel 13 and assistant 0. P-01 remains open. See l-02-l
 Daniel and the assistant agreed to test whether one sunlit patch produced the lower-angle shadows in D115 and the disc seen spinning, changing color and plunging at the Cova and from outside it. This challenge accepts Dalleur's lower direction and tests the identity of the source. F-04 tested a misleading shadow reading under ordinary direct sunlight with cloud illumination.
 A fixed-height drifting patch does not fit the reported swelling and descent. Eastward drift of a nearby low patch would raise its elevation at Alburitel. Changing illumination can escape those simple constraints, but the tested cloud-edge and halo mechanisms supply no joint fit to the shadows and the witness accounts. The assistant withdraws the challenge as presented.
 One successful defense, Daniel 12 and assistant 0. P-01 remains open. See f-05-cloud-source-20261107.txt for assumptions, numerical checks and sources.
+
+8 November 2026 follow-up on crowd sightlines
+Daniel argued that the spectators who appear to be watching can corroborate the link between the lower shadow source and the light they saw. The check compared 3D head directions with the shadow direction in a level camera frame, using Dalleur's camera assumptions. Five of six selected heads fitted up and to the right. The six-head average was about 42° right and 10° up, compared with 35° right and 28° up for the lower source.
+The broad agreement supports the proposed link. Some head fits shifted by tens of degrees when inputs changed, and the pupils were too indistinct to measure gaze. The exact sightline and the phase captured by the exposure remain unresolved. This supports the existing F-05 defense and carries no separate point. See ../fatima-gaze-check-20261108/report.txt for the marked faces, estimates and sensitivity checks.
 
 UNSCORED CASE REVIEW — 7 NOVEMBER 2026
 L-01 | LOURDES | ANTONIA RACO'S PRE-RECOVERY PLS DIAGNOSIS
@@ -289,3 +397,76 @@ The preceding foundational/epistemic concession label is superseded. Historical 
 Refines the earlier Bernadette-only fourth-pillar entry into the broader Lourdes case. Its main argument joins the claimed Marian apparition, specifically Catholic Immaculate Conception message, spring/shrine-associated recoveries and medical investigation across generations. Bernadette bodily preservation is supporting evidence within Lourdes, not a separately counted fifth event.
 Scope addition/refinement only; no automatic new successful-defense point or final supernatural-causation adjudication.
 Research: research/lourdes-case-deepdives-20261102/research-index.txt
+
+
+Z-02 RECURRENCE / CONFIDENCE REVIEW — 11 NOVEMBER 2026
+Recurrence strengthens the operational requirements on a proposed mechanism. Existing geometry-based confidence remains moderate because roof dimensions and witness stations remain unverified. The challenge remains withdrawn; no additional tally point.
+Repeated recognizable-figure reports are supported; an exact ninety-night calendar, per-night illumination/power-cutoff record and precise final apparition date are not established.
+Timeline: research/zeitoun-consolidated-timeline-20261111/timeline.html
+Main tally unchanged: 16–0.
+
+
+MUSE REVIEW — PROPOSED F-01 CONFIDENCE UPDATE — 11 NOVEMBER 2026
+Recommendation: HIGH confidence in retaining the narrow F-01 withdrawal; not
+yet an agreed rating change. Primary textual uncertainty is retained.
+P-04: user accepts MODERATE and distinguishes it from the three Marian cases.
+Report: ../fatima-war-prophecy-muse-review-20261111/review.txt
+No new points; main tally remains 16–0.
+
+
+11 NOVEMBER 2026 — F-04 JOINT-CALIBRATION FOLLOW-UP
+Daniel successfully defended the photographic argument against this attempt
+to supply sufficient reasonable doubt. HIGH confidence in that disposition.
+The paired-VP calculation is not a demonstrated historical full-image fit;
+Muse's additional scene/focal-range defense remains unanswered by it.
+Recorded as F-04.joint-calibration beneath the existing photographic point.
+Main tally remains16–0 under the agreed no-duplicate rule for these subentries.
+The mathematical calibration ambiguity and tree-inspection limits are retained.
+Reports: ../fatima-joint-calibration-audit-20261111/report.txt and
+../fatima-joint-calibration-audit-20261111/trees-and-muse-check.txt
+
+
+17. F-08 | HIGH | Comfortable viewing and absence of reported eye injuries
+Daniel successfully defended the combined witness-based argument. No identified injury reports or adequate ordinary explanation of the reported viewing experience were established. The assistant withdrew the ascertainment limitation as a substantive challenge to that combined argument.
+Scope: One distinct medical-ascertainment challenge, separate from F-03 solar-viewing reproduction and F-04 photographic calibration. Does not establish universal uninjured retinas or a numerical injury probability; does not retract the valid ascertainment distinction, diagnose injury, or make the combined inference conclusive by itself.
+
+
+11 NOVEMBER 2026 — C-03 REGISTERED OPEN
+Sincere participants, different ordinary causes and shared religious interpretation.
+User requested a full framework covering Fatima, Zeitoun, Lourdes and Pio.
+One cumulative challenge; no adjudicated point or confidence rating assigned.
+First pass: some supported components, but no adequate full account established.
+Existing constituent outcomes are preserved and not rescored.
+Main tally: Daniel17 — assistant0. Open: P-01 and C-03.
+Report: ../good-faith-cumulative-framework-20261111/framework.txt
+Private-vision dazzling receives no tally point, as explicitly requested.
+
+
+11 NOVEMBER 2026 — C-03 FOUR-FRAMEWORK COMPARISON
+Daniel requests a tally entry for Catholic vindication versus ordinary error,
+grand conspiracy, or demonic deception. Recorded beneath existing C-03.
+A mixed-origin account is a coherent additional cumulative framework outside
+those descriptions as worded. Naming it does not establish an adequate
+alternative for the retained evidence. No new empirical core objection is
+established by this taxonomy discussion. C-03 remains open; main tally 17-0.
+Prior scored outcomes are preserved. No new adjudicated point for either side.
+Report: four-frameworks-comparison-20261111.txt
+
+
+2026-11-11 F-07 FOLLOW-UP: REPORTED EARLY-DEATH PROPHECY
+The previously sustained character evidence supports giving credit to Lucia’s account of a privately communicated prediction; the earlier 1927/1928 record and continuity into 1941 strengthen that testimony. Late public disclosure alone does not establish invention, and no fabrication finding has been sustained here.
+Credible retrospective testimony of a prediction is supporting evidence. It is not identical to independently documented advance fulfillment; no pre-death record of the complete selective prediction was located in this research pass. Character evidence does not by itself settle that chronological question.
+Added as a supporting subpoint under existing F-07. No duplicate point; main 17-0 unchanged.
+
+
+2026-11-11 F-04 CONSOLIDATED COMPONENT REGISTER
+57 scoped micro-components and 27 source records are centralized in ../fatima-dalleur-master/findings-register.json, with generated dalleur-findings.txt and dalleur-findings.docx. Closed objections, reproduced calculations, corrections, modeled alternatives and open verification remain distinct. No new tally point or reopening; main 17-0 unchanged.
+
+2026-11-12 — EXPLICIT PHOTOGRAPHIC SUBTALLY
+Daniel 6 — assistant 0 across six grouped photo challenges. See photo-subtally.txt and photo-subtally.json for component IDs and exact scope. This grouping makes existing outcomes visible; no six-item historical scoreboard was located. The main tally is unchanged, and all six remain beneath F-04.
+
+2026-11-12 — CORRECTION TO THE GUESSED PHOTO SUBTALLY
+The immediately preceding 6–0 grouping was not an independently recovered count and is withdrawn as a verified score. Preserve the original draft in superseded/ for provenance. Use ../fatima-photo-challenge-history-20261112/index.html or challenge-history.txt: 17 sourced episodes, 46 linked original messages and later reports. Five explicit closing decisions, nine component rulings and the two existing main points F-04/F-05 are different overlapping units, not an automatic new score. Main totals unchanged.
+
+2026-11-12 — RAW SHADOW CHECK PH-18
+Raw edge fits and a new conditional single-ray plane test support a low direction under retained camera assumptions. Physical caster/shadow authentication remains incomplete. See ../fatima-shadow-check-20261112/report.txt and shadow-results.json. Eighteen history episodes now indexed; no new challenge victory or change to the five recorded closing decisions or main tally.

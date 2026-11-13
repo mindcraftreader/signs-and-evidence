@@ -1,0 +1,242 @@
+{
+  "date": "2026-11-11",
+  "case": "Zeitoun",
+  "source_records": [
+    {
+      "id": "S01",
+      "title": "Al-Ahram5May1968 complete issue",
+      "url": "https://archive.org/download/AlAhram1968EgyptArabic/May%2005%201968%2C%20%D8%A7%D9%84%D8%A3%D9%87%D8%B1%D8%A7%D9%85%20%28Al-Ahram%29%2C%20%2329731%2C%20Egypt%20%28ar%29.pdf",
+      "type": "primary_contemporary_press",
+      "locator": "p1 photo and caption; ZA-008",
+      "reading_scope": "Fresh full-page rendering and image check; earlier enlarged caption finding retained",
+      "limit": "Community archive custody; original negative not acquired; no fresh complete translation",
+      "local_path": "research/zeitoun-arabic-primary-followup-20261031/sources/al-ahram-1968-05-05.pdf",
+      "bytes": 3271773,
+      "sha256": "fbf8fb54b64856d531e1c2232a9af09a592cfcc481fbbda8a7eb9790c4d704ed"
+    },
+    {
+      "id": "S02",
+      "title": "Watani5May1968 Arabic scans",
+      "url": "https://ourladyofzeitoun.com/en/newspaper/watani-newspaper-may-5-1968/",
+      "type": "primary_contemporary_press_with_local_finding_aid",
+      "locator": "ZT-061p2; ZT-062p1; cropped p1-bottom",
+      "reading_scope": "p1 refusal personally visually checked; p2 prior original check reread",
+      "limit": "Unnamed offered picture cannot securely be identified with Al-Ahram image; twins unnamed",
+      "local_path": "research/zeitoun-arabic-press-reconstruction-20261028/testimony-register.json",
+      "bytes": 119116,
+      "sha256": "5278bef18d11c5e6d553dbe53f21ea092e0204a9c6c98fee881b41c2cc2e5286"
+    },
+    {
+      "id": "S03",
+      "title": "Travis Dumsday, The Marian Apparitions at Zeitoun: An Evidential Inquiry,2024",
+      "url": "https://svspress.com/the-marian-apparitions-at-zeitoun-an-evidential-inquiry/",
+      "type": "scholarly_defense_secondary",
+      "locator": "§§3.6,3.9,4.2–4.3,8.3; PDF115,132–136,217–220",
+      "reading_scope": "Full §§4.2–4.3 and8.3 plus selected relevant passages in §§3.6,3.9 read from saved layout text; no complete-book read claimed",
+      "limit": "255-page EPUB conversion; PDF locators not original print pages; cited original Jackson pages not acquired",
+      "local_path": "research/zeitoun-recurrence-full-audit-20261106/sources/dumsday-2024-public-copy.pdf",
+      "bytes": 2598514,
+      "sha256": "11aeba6b6e55e251acf680f92d1de62b49a4bbc00f2764920d65007489f33a94"
+    },
+    {
+      "id": "S04",
+      "title": "Eric Ouellet, Marian Apparitions at El-Zeitoun and Social Psi,part5,25April2013",
+      "url": "https://parasociology.blogspot.com/2013/04/marian-apparitions-at-el-zeitoun-and.html",
+      "type": "author_analysis_and_reproduced_image_captions",
+      "locator": "Photographic controversies; illustrations labeled Kamellp224,231",
+      "reading_scope": "Article read; three linked original-size reproductions downloaded and visually inspected",
+      "limit": "Author is not the1968 photographer; cropped reproduced images are not original negatives",
+      "local_path": "research/adversarial-crawl-20261111/zeitoun/sources/ouellet-2013-part5.html",
+      "bytes": 128749,
+      "sha256": "1b9f4f7b527a07db427386ebfbf074d1e781b9d4458b1702e61708b02848eb09"
+    },
+    {
+      "id": "S05",
+      "title": "Eric Ouellet,part3,31October2011",
+      "url": "https://parasociology.blogspot.com/2011/10/marian-apparitions-at-el-zeitoun-and_31.html",
+      "type": "author_analysis_secondary",
+      "locator": "Bird forms section, note9 cites Kamellp223",
+      "reading_scope": "Full relevant web paragraphs read",
+      "limit": "Miller alteration assessment reported secondhand; no book page acquired"
+    },
+    {
+      "id": "S06",
+      "title": "Ahmad Shalaby, al-Masihiyya,10th ed1998",
+      "url": "https://archive.org/download/moh001-100/0047.pdf",
+      "type": "new_primary_author_criticism_retrospective",
+      "locator": "Title PDF2; printed108–110/PDF111–113",
+      "reading_scope": "Complete source acquired; exact title/relevant pages visually checked; no complete-book read",
+      "limit": "1998 edition not a1968 statement; author gives no censorship order or tested ordinary light source; includes quotations requiring verification",
+      "local_path": "research/adversarial-crawl-20261111/zeitoun/sources/shalaby-christianity-later.pdf",
+      "bytes": 6065917,
+      "sha256": "1bc70399275b2e4364979e617fc54c6c2159a35b8bac9d3f40efb15cb3a9fb0f"
+    },
+    {
+      "id": "S07",
+      "title": "Muhammad al-Ghazali, Qadha’if al-Haqq,2nd Dar al-Qalam ed1997",
+      "url": "https://archive.org/download/WAQ45653/45653.pdf",
+      "type": "primary_author_visit_and_reproduced_proposal",
+      "locator": "pp59–64; al-Fandi pp60–63",
+      "reading_scope": "Existing original/research register reread; prior scan checks retained",
+      "limit": "No precise visit date or original censorship directive; al-Fandi appointment not independently verified here",
+      "local_path": "research/zeitoun-arabic-primary-followup-20261031/sources/ghazali-qadhaif-alhaqq-1997.pdf",
+      "bytes": 5178374,
+      "sha256": "301159a892978cacf659929e59bc0237d9a4ff16d51a6c6621c4d32664ec83ed"
+    },
+    {
+      "id": "S08",
+      "title": "Zeitoun government and Muslim authority attestations audit,31October2026",
+      "url": null,
+      "type": "existing_source_chain_audit",
+      "locator": "Haraz12May1968p3; Taher; Basili reportp4",
+      "reading_scope": "Full report read",
+      "limit": "Crossfaith personal observation separated from official endorsement",
+      "local_path": "research/zeitoun-authority-attestations-20261031/report.txt",
+      "bytes": 2408,
+      "sha256": "dc3b3f3f145ffae5b05aa34def9a78e72c86e9141986bc9aa07ea150ba9b6760"
+    },
+    {
+      "id": "S09",
+      "title": "Valerie J. Hoffman, The Role of Visions in Contemporary Egyptian Religious Life, Religion27,1997,45–64",
+      "url": "https://www.academia.edu/4096302/The_Role_of_Visions_in_Contemporary_Egyptian_Religious_Life",
+      "type": "scholarly_secondary_author_uploaded_text",
+      "locator": "p57 and notes on Meinardus",
+      "reading_scope": "Relevant full article web text inspected",
+      "limit": "Not her own1968 observation;1970 original still required to adjudicate Shalaby attribution"
+    },
+    {
+      "id": "S10",
+      "title": "McGill thesis comparing Shalabi with Meinardus",
+      "url": "https://escholarship.mcgill.ca/downloads/02870x04m.PDF",
+      "type": "unverified_bibliographic_lead",
+      "locator": "Search-indexed printedp77",
+      "reading_scope": "Relevant indexed passage only; full fetch403",
+      "limit": "Author/title/degree not securely resolved; do not cite as acquired full study",
+      "local_path": "research/adversarial-crawl-20261111/zeitoun/sources/mcgill-403.html",
+      "bytes": 434728,
+      "sha256": "037a5e88c02cd9ff1723890873702b6adffbabcb79fdd51c862351a4d0465bfd"
+    },
+    {
+      "id": "S11",
+      "title": "John S. Derr and Michael A. Persinger, Geophysical Variables and Behavior:LIV,1989",
+      "url": "https://doi.org/10.2466/pms.1989.68.1.123",
+      "type": "research_article_abstract_only",
+      "locator": "Perceptual and Motor Skills68(1),123–128; PMID2648309",
+      "reading_scope": "Indexed author-upload abstract read; Dumsday discussion checked",
+      "limit": "Full paper acquisition failed; no independent statistical reproduction or full methodological audit claimed"
+    },
+    {
+      "id": "S12",
+      "title": "Zeitoun recurrence full audit,6November2026",
+      "url": null,
+      "type": "existing_source_based_audit",
+      "locator": "Strong early evidence;1969;1970/1971",
+      "reading_scope": "Full report read",
+      "limit": "Preserves repeated figures; exact totals not certified",
+      "local_path": "research/zeitoun-recurrence-full-audit-20261106/audit-report.txt",
+      "bytes": 14536,
+      "sha256": "dc71af2348758ac8ddb1b08f5b08a2e09208c983ae0b44b0da1e19e0b8fef41f"
+    },
+    {
+      "id": "S13",
+      "title": "Zeitoun motion-picture search,1November2026",
+      "url": null,
+      "type": "existing_source_based_audit",
+      "locator": "AP z055347,z055226;9MayTV",
+      "reading_scope": "Full report read",
+      "limit": "Original motion of figure not recovered; films about event are real",
+      "local_path": "research/zeitoun-motion-footage-20261101/research-report.txt",
+      "bytes": 6857,
+      "sha256": "8c5c55a4724358864d051936a60fc6d59bdd0fd1fcc6f60db599af3473e60a27"
+    },
+    {
+      "id": "S14",
+      "title": "Arabic press/follow-up, timeline, closed figure and Pepper’s Ghost audits",
+      "url": null,
+      "type": "existing_primary_source_audit",
+      "locator": "Named early observers; committee; movements",
+      "reading_scope": "Full relevant reports read",
+      "limit": "Does not establish all observations identical or every doctrinal implication",
+      "local_path": "research/zeitoun-arabic-primary-followup-20261031/report.txt",
+      "bytes": 6636,
+      "sha256": "994855d822eaa8d1f5b91fc8b7758da1a5f51ec4f6f08586171745647ed97126"
+    },
+    {
+      "id": "S15",
+      "title": "Excluded ISAM bibliographic PDF",
+      "url": "https://isamveri.org/pdfdkm/11/DKM111159.pdf",
+      "type": "excluded_wrong_search_target",
+      "locator": "27-page bibliography",
+      "reading_scope": "pdfinfo/text inspected",
+      "limit": "Search engine description mislabeled as Shalaby book; NOT the acquired Shalaby source",
+      "local_path": "research/adversarial-crawl-20261111/zeitoun/sources/isam-bibliography-not-shalaby.pdf",
+      "bytes": 4067799,
+      "sha256": "f5483c9fd964353fb70ba6f280ae97b4550b00a485260344ea0e4c750b92d216"
+    },
+    {
+      "id": "S16",
+      "title": "Shalaby al-Masihiyya 1973 fourth-edition digital transcription",
+      "url": "https://hz.turathalanbiaa.com/public/3645.pdf",
+      "type": "supplementary_not_used_for_critical_claim",
+      "locator": "digital title",
+      "reading_scope": "Retrieved and text screened",
+      "limit": "Not substituted for1998 facsimile; no complete reading or proof of episode omission claimed",
+      "local_path": "research/adversarial-crawl-20261111/zeitoun/sources/shalaby-christianity-1973.pdf",
+      "bytes": 483239,
+      "sha256": "c62345375cb11d8ad230a9017b608f48c455a256139307730f1e16a14f70101d"
+    }
+  ],
+  "new_images": [
+    {
+      "name": "ImprovedPicture.png",
+      "local_path": "research/adversarial-crawl-20261111/zeitoun/sources/ImprovedPicture.png",
+      "bytes": 871477,
+      "sha256": "0ee640ec6bcd3f0c5b89440b0a9bd56facf33d1680545061f77c3667a3567899",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7lFGytbGjfI4Frv15nyJ13lpLEcLaLQRqQd4SwKzZbjiUU_tqq75KjLG67l_H-fulWRY19d1OPLvwQDZ5pffyHHJ7T-WaumPQU8fSsW058dp1C3NzHTJl4JgWQwNvoH_V-u5Lv_4eIms/s1600/ImprovedPicture.png"
+    },
+    {
+      "name": "Ibrahim2.png",
+      "local_path": "research/adversarial-crawl-20261111/zeitoun/sources/Ibrahim2.png",
+      "bytes": 137698,
+      "sha256": "2a3df19bb9ca01a951500d3ed579f541fbe81781e0590de5936da985c8cf1489",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUhjqN8i-nbJT8r5Hx4tCqfjGHaUqRk1vH8wBzlljxF4_SQg4E8A-lAPzavnzB00i3VNNg0Cdat9Q7O_TQmW1x3kXeEEuKrtpoqfWg5HMmcH8hQZLRkl_7xUlpNOHQyt59cnZ7aDiC1Tw/s1600/Ibrahim2.png"
+    },
+    {
+      "name": "Mansur1.png",
+      "local_path": "research/adversarial-crawl-20261111/zeitoun/sources/Mansur1.png",
+      "bytes": 44453,
+      "sha256": "889ef67edb3709452a9448f49b639f28b72b43ce0a6e608d74154c8209f60ff0",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJMT_aYgliskKG_7H5SJfNUco5zQpqAkMkmxGuIr8qQm2BGkuIL7zaL8L3OY5_YtRHuo5vruMlZH9csmbt6brnGbvMB8uoL0vw_aY56BjMrwS-m_-XFjGwhT8kwNjLXhqE31fXILnvugs/s1600/Mansur1.png"
+    }
+  ],
+  "acquisition_limits": [
+    "No original Kamell/Jackson technical pages acquired",
+    "No original Meinardus1970 book acquired",
+    "No full Derr/Persinger1989 paper acquired",
+    "No original negatives or motion of figure acquired",
+    "No emails,purchases,account creation or tally changes"
+  ],
+  "new_image_status": "Reproductions linked from Ouellet blog; captions visually checked; not original negatives",
+  "checked_primary_page_images": [
+    {
+      "path": "research/adversarial-crawl-20261111/zeitoun/sources/checked-pages/shalaby-p108-pdf111.png",
+      "bytes": 103859,
+      "sha256": "d56c58378d36ea8f3e67bf75c99092fb26826e3f8d55f614cc975874aefa10d7"
+    },
+    {
+      "path": "research/adversarial-crawl-20261111/zeitoun/sources/checked-pages/shalaby-p109-pdf112.png",
+      "bytes": 108422,
+      "sha256": "e365ca82006299b4e67f213a4542a3c1fda933119f7df55b2fed0cb933e1f7f4"
+    },
+    {
+      "path": "research/adversarial-crawl-20261111/zeitoun/sources/checked-pages/shalaby-p110-pdf113.png",
+      "bytes": 60301,
+      "sha256": "838d4eb8f93724b696f259f739fa49622924c1130415af2f8e12fbeb04f25d26"
+    },
+    {
+      "path": "research/adversarial-crawl-20261111/zeitoun/sources/checked-pages/shalaby-pdf002-title.png",
+      "bytes": 68958,
+      "sha256": "71468e15e05d070343d3633a71216248288c4cfac6785d9bb7c1c255e1e1f617"
+    }
+  ]
+}

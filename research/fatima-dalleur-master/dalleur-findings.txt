@@ -1,0 +1,505 @@
+DALLEUR D115 FINDINGS AND DECISIONS
+Updated 2026-11-11
+Version 1
+
+Preserve the investigated micro-components, evidence, corrections and adjudications so future reviews do not reset them or confuse open verification with a successful objection.
+
+F-04 remains closed against the tested challenge. Confidence HIGH in the recorded disposition.
+Main score snapshot 17-0. Consolidation adds no points and assigns no miracle probabilities.
+
+HOW TO USE
+Before assessing Dalleur, D115, Muse's photo defense or a camera/shadow counterargument, read this register and the current F-04 entry.
+A settled defense records the outcome of the tested objection. It is neither an immutable fact nor proof that every conceivable alternative is excluded.
+To reopen a settled item, identify its ID, cite substantive new evidence or a materially developed argument, and explain which finding changes. Preserve the previous outcome in change_history.
+Open verification is not established counterevidence. A modeled alternative is not a demonstrated historical reconstruction. A reproduced calculation does not independently authenticate its inputs.
+Carry positive findings and their strongest existing defenses into the cumulative assessment. Do not repeatedly count the same objection or its micro-components as new tally points.
+Update the JSON first, regenerate the DOCX and TXT, check their contents and render, and synchronize the research-library mirror. Do not silently overwrite dated source reports.
+
+STATUS DEFINITIONS
+Settled defense: The identified attempted objection was not sustained in the recorded review.
+Reproduced: The stated arithmetic or measurement was reproduced with its specified inputs and scope.
+Supported: Positive evidence supports the scoped finding; not an independent finding of every stronger claim.
+Correction: A prior wording or interpretation is superseded by the stated more precise account.
+Open verification: A specific empirical or analytical check remains incomplete; this is not itself an adverse finding.
+Modeled only: A conditional calculation or possibility exists without a demonstrated complete historical fit.
+Bounded search: The result concerns the documented search, not proof of global absence or expert consensus.
+
+GEOMETRY
+
+G01 | Recovering a projected light direction | Settled defense
+Suitable object and cast-shadow correspondences determine projected light-ray lines and their convergence. The basic method has a legitimate projective-geometric basis.
+Scope: Metric source elevation also needs camera orientation and angular calibration.
+Revisit when: Identify an error in the actual construction or show the chosen physical correspondences fail its conditions.
+Evidence: S01, S13, S26
+
+G02 | Physical heights and shadow lengths | Settled defense
+The principal ray-convergence construction does not require measuring every object's physical height or comparing physical shadow lengths. Bradley's length demonstration does not refute this construction.
+Scope: Longer usable features can improve precision; feature correspondence remains necessary.
+Revisit when: Connect a demonstrated failure specifically to the ray-convergence method rather than another shadow-length method.
+Evidence: S04, S13, S23
+
+G03 | Sloping and different receiving surfaces | Settled defense
+The receivers need not all occupy one horizontal plane. Sloping terrain is not a categorical disproof of appropriate object-to-shadow rays.
+Scope: An arbitrary shadow contour on a curved surface is not automatically a valid matched ray.
+Revisit when: Show a specific claimed correspondence is invalid because of its actual geometry.
+Evidence: S01, S13, S23
+
+G04 | Supporting tangents | Settled defense
+An appropriate common supporting tangent to projected object and shadow regions can supply directional information. The attempted categorical objection to tangent-based cues was rejected against primary vision literature.
+Scope: A tangent to an arbitrary dark edge is insufficient; its physical supporting-line conditions matter.
+Revisit when: Test the precise crown and brim feature against those conditions, retaining its correct identification.
+Evidence: S13, S26
+
+G05 | Straightness and angles | Correction
+Rectilinear perspective preserves straight-line incidence and convergence, not arbitrary Euclidean angles. Dalleur's calibrated equations supply the necessary conversion.
+Scope: Loose spoken language that angles are preserved must not replace the actual mathematical model.
+Revisit when: Identify an inference in the actual equations that incorrectly assumes general angle preservation.
+Evidence: S01, S05, S23
+
+G06 | Direction and position are different | Supported
+Recovering a distant source direction is distinct from locating a finite source in three dimensions. A single photo does not itself establish the emitter's range or height above the landscape.
+Scope: Rochester's single-view location limitation is not a blanket impossibility theorem for direction recovery.
+Revisit when: Supply additional calibrated views, known geometry or measured bearings that identify a position.
+Evidence: S13, S16, S26
+
+G07 | One exposure and movement | Supported
+D115 supplies illumination geometry at one exposure. It does not independently photograph a trajectory; the reported descent and repeated motion come from testimony.
+Scope: A reliable anomalous direction could corroborate that testimony in the announced-sign context.
+Revisit when: Recover synchronized additional exposures or other evidence establishing movement photographically.
+Evidence: S01, S15, S17
+
+NUMERICAL RESULTS
+
+N01 | Central elevation and discrepancy | Reproduced
+The published inputs a 2.4207, e minus 1.9927 and h 0.31 with 37 mm equivalent give 28.2386067 degrees. Against the adopted 42.72 degree Sun, the gap is 14.4813933 degrees.
+Scope: This reproduces the calculation, not independent selection of every image input.
+Revisit when: Show a mathematical error or justify a changed empirical input.
+Evidence: S01, S05, S14
+
+N02 | The conservative focal length test | Reproduced
+Muse explicitly tests 30 mm equivalent, wider than his preferred interval, obtaining 31.8593 degrees and a 10.8607 degree gap. His preferred estimate remains about 28 degrees.
+Scope: Do not confuse the preferred value with the maximum of the deliberately widened focal sweep.
+Revisit when: Justify a different jointly calibrated input set rather than merely repeating that focal length is unknown.
+Evidence: S01, S04, S09
+
+N03 | The other focal rows | Reproduced
+The same retained geometry gives 30.2417 degrees at 33 mm and 24.7624 degrees at 45 mm. Longer ordinary focal lengths lower the inferred source.
+Scope: The four rows are conditional calculations, not four independent observations or a confidence interval.
+Revisit when: Produce a corrected derivation or a supported change to the retained geometry.
+Evidence: S01, S05, S15
+
+N04 | Sensitivity factors and small printing corrections | Correction
+Independent differentiation reproduces the intended pitch factor 0.8240 and roll factor minus 0.5646 at 37 mm. The equation 9 sine versus cosine inconsistency does not change the zero-roll central result. The 45 mm printed row differs about 0.01 degree.
+Scope: These small corrections do not reverse the main calculation.
+Revisit when: Show that a corrected term materially changes the evaluated historical result.
+Evidence: S05
+
+N05 | Time near solar noon | Reproduced
+A timing calculation anchored to the adopted noon elevation changes solar altitude about 0.51 degree within 30 minutes of noon. Reaching 28.24 degrees takes about 172 minutes from noon.
+Scope: This is a timing-sensitivity model, not independent proof of D115's exact exposure time.
+Revisit when: Provide historical timing evidence far enough from noon, or a materially corrected astronomical calculation.
+Evidence: S15
+
+N06 | Ordinary atmospheric refraction | Reproduced
+The standard refraction approximation at the adopted 42.72 degree solar elevation gives about 0.01745 degree, roughly one arcminute. It does not explain the approximately 14.48 degree gap.
+Scope: This rejects ordinary refraction at that elevation, not every conceivable atmospheric optical phenomenon.
+Revisit when: Supply a specific physically applicable atmospheric model and propagate its predicted direction.
+Evidence: S27
+
+N07 | Focal length alone over the full positive range | Reproduced
+With the published vanishing point, horizon and centered calibration retained, varying any positive equivalent focal length yields a mathematical maximum about 41.9393 degrees at an extreme 9.8589 mm equivalent.
+Scope: This is a conditional single-parameter result, not a plausible camera identification or a bound on joint changes and measurement uncertainty.
+Revisit when: Justify a changed camera or image input and propagate the joint constraints.
+Evidence: S08
+
+VALIDATION
+
+V01 | Real photographic controls exist | Settled defense
+Dalleur publishes real photographic worked examples as well as a synthetic template. Bradley's claim that validation is only CGI is not retained.
+Scope: Author-run examples are useful without being external blinded replication.
+Revisit when: Show the cited real examples are misidentified or their reported outcomes are materially wrong.
+Evidence: S04, S23, S24
+
+V02 | Control errors and their unit of counting | Reproduced
+Castel Gandolfo has reported absolute errors 0.48, 0.84 and 0.34 degree under different settings; these are variants of one scene. Saint Hubert differs 0.574 degree from the stated astronomical elevation.
+Scope: Do not count three settings of one photo as three independent controls.
+Revisit when: Recheck the actual examples, dates, parameters and astronomical comparisons.
+Evidence: S15, S24
+
+V03 | A universal one degree error bar | Open verification
+The successful selected examples support the method but do not establish a universal plus or minus one degree error distribution for D115's faint features.
+Scope: A matched blind study could strengthen this; defensible worst-case measurement bounds are another route.
+Revisit when: Supply a relevant validation dataset or a reproduced bound applicable to D115.
+Evidence: S05, S15, S24
+
+V04 | Promised additional period photo tests | Correction
+At about 65 to 66 minutes, Muse announces future antique-photo and new-scan work. That announcement is not itself a completed validation dataset shown in the response video.
+Scope: Existing real controls remain credited. The focused searches did not locate the promised completed dataset.
+Revisit when: Locate the actual completed publication and assess its methods and results.
+Evidence: S04, S15, S23
+
+CAMERA AND SCENE CONSTRAINTS
+
+C01 | Physical and equivalent millimetres | Correction
+The 30 to 46 mm values use a horizontal 36 mm image-width convention. They are not claims that the large-format camera physically carried a 30 to 46 mm lens.
+Scope: For an assumed 120 mm plate width, 37 mm equivalent corresponds to 123.33 mm physical focal length.
+Revisit when: Use a supported format or crop and maintain consistent units.
+Evidence: S01, S09, S14
+
+C02 | Complementary focal length arguments | Supported
+Muse offers edge-head perspective, hanging-thread direction and historical practice as complementary constraints. The response does not simply choose one unexplained preferred lens.
+Scope: The strict 31 to 46 and 33 to 39 mm boundaries have not both been independently reconstructed here.
+Revisit when: Address these constraints together with a developed alternative calibration or reproduce their numerical bounds.
+Evidence: S04, S09, S12, S23
+
+C03 | The original press manual recommendation | Reproduced
+Kinkaid's quarter-plate table recommends 5.25 inches on 4.25 inches image width, giving 44.47 mm equivalent; its minimum gives 38.12 mm. The historical preference has a primary-source basis.
+Scope: The book is American and from 1936, not a recovered 1917 Portuguese equipment inventory. Its table is not a bound on all optical designs.
+Revisit when: Correct the table reading or conversion, or supply stronger evidence of the actual historical equipment.
+Evidence: S14, S18
+
+C04 | Period equipment screening | Supported
+The saved survey documents 21 camera or format rows and 8 lens or family rows. Several reflex camera mechanical minima support ordinary equivalent focal lengths.
+Scope: Rows are not distinct manufacturers or a worldwide sales census. Availability does not identify Ruah's apparatus.
+Revisit when: Add an authenticated relevant model or constraints absent from the screening survey.
+Evidence: S09
+
+C05 | Principal point and lens front movement | Supported
+The period Goerz museum specimen and maker catalogue document rising and cross-shifting fronts. Centered principal point is not mechanically guaranteed merely by naming this family.
+Scope: No evidence here establishes that Ruah used movement, or measures its amount in D115.
+Revisit when: Recover exposure-specific equipment or independently calibrate the principal point.
+Evidence: S08, S09, S14
+
+C06 | Wide angle is not necessarily fish eye | Correction
+Period specialist wide-angle rectilinear lenses existed. A wide field of view need not produce GoPro-like bending of straight lines.
+Scope: Perspective stretching and radial distortion are distinct. Such a lens still needs historical and whole-image support.
+Revisit when: Evaluate a specified real optical design and a complete image fit rather than the label wide angle.
+Evidence: S08, S09
+
+C07 | Developed physical camera rebuttal | Settled defense
+The proposed Protar and convertible-camera solar calibration was not established as a historically feasible complete fit. Mounting, crop, face perspective and thread constraints were not jointly satisfied. The attempted rebuttal failed as developed.
+Scope: Record remains under F-04, not a new point. It does not prove every unusual camera mechanically impossible.
+Revisit when: Supply materially new historical evidence or a complete feasible calibration meeting the retained scene constraints.
+Evidence: S09, S10, S21
+
+C08 | Measured hanging strand directions | Reproduced
+Twelve selected pixel ridges have median 4.6 degrees leftward; ten less-window-sensitive traces have median 5.2. The published calibration is closer on average than the tested alternative predicting roughly 9.6 to 11 degrees.
+Scope: These are visible ridge directions, not authenticated gravity plumb lines. Neither model exactly matches every trace.
+Revisit when: Improve feature identification or raw resolution and test physical verticality and competing calibrations.
+Evidence: S10
+
+C09 | Joint calibration ambiguity | Modeled only
+Changing intrinsics and orientation together can preserve adopted projected light and vertical vanishing points while producing the solar elevation. This mathematical ambiguity is genuine.
+Scope: The vertical VP was implied by baseline assumptions, not newly measured. Preserving it does not preserve anatomy, horizon or historical feasibility.
+Revisit when: Develop the construction into a feasible full-scene alternative with independently supported constraints.
+Evidence: S11, S12
+
+C10 | Joint calibration challenge outcome | Settled defense
+The paired-VP calculation was not sustained as a sufficient objection to the combined photographic argument. Muse's head-perspective and other scene defenses were not answered by it.
+Scope: Preserves the F-04 subentry and the validity of the narrower mathematical ambiguity in C09.
+Revisit when: Supply substantive new evidence or a materially complete fit; the same unfitted parameter set is insufficient.
+Evidence: S12, S21
+
+C11 | Background trees and horizon | Open verification
+The inspected background primarily shows crowns and vegetation silhouettes, without secure bases, heights or distances. It did not yield an independent camera calibration.
+Scope: A treetop boundary is not the geometric horizon. This data limit is not evidence for a wide lens.
+Revisit when: Identify stable multi-view tree features or measured historical terrain and camera station.
+Evidence: S12
+
+C12 | Head direction versus gaze | Supported
+Conditional head-pose fits show broad upward and rightward consistency. Their uncertainties and indistinct pupils cannot discriminate a 28 degree gaze from roughly 43 degrees.
+Scope: Head axes are not eye directions. The head fit shares some camera assumptions with the shadow model.
+Revisit when: Recover reliable eye direction or stronger independently calibrated face and camera geometry.
+Evidence: S17
+
+C13 | Plate format and restored crop | Open verification
+The 9 by 12 cm plate and top-only sky crop are adopted reconstructions. Under that model, restoring the 4 to 3 frame places the public-image principal center at pixel 834.5 by 555.125. Modest tested format changes alone did not close the gap.
+Scope: The original plate boundaries and all-sided crop or shift are not independently recovered. Scan metadata describes digitization rather than calibrating the 1917 exposure.
+Revisit when: Recover authenticated original frame boundaries or a better supported jointly calibrated format and crop.
+Evidence: S02, S08, S09
+
+LENS DISTORTION
+
+D01 | Measured historical lens curves | Reproduced
+Magill's inspected Dagor specimen gives about 0.243 percent distortion at 30 degrees, 0.400 percent at 35 degrees and 0.663 percent at 40 degrees.
+Scope: These are specific measured specimens and test conditions, not calibration of Ruah's actual lens.
+Revisit when: Use the actual specimen data or a relevant alternative measured optical curve.
+Evidence: S14, S19
+
+D02 | The 0 point 24 percent citation correction | Correction
+The inspected table associates approximately 0.24 percent with 30 degrees, not 35 degrees. Correcting that citation retains the small-distortion finding.
+Scope: This small mismatch does not establish a correction sufficient to close the source-elevation gap.
+Revisit when: Show a material effect on the reconstructed result rather than merely repeating the reference mismatch.
+Evidence: S05, S14, S19
+
+D03 | Differential displacement mechanism | Reproduced
+For the stated simple radial model, a bound of 0.5 percent implies at most 0.289 degree local line rotation; a 1 percent bound implies 0.585 degree. Nearby endpoint differential movement controls line rotation.
+Scope: This is model-specific, not a theorem for every small-displacement high-order or scan distortion.
+Revisit when: Supply and propagate an empirically relevant different distortion model.
+Evidence: S14
+
+D04 | Propagated radial stress tests | Reproduced
+Constructed rays near the selected regions yield source changes about minus 0.127 to plus 0.115 degree at 37 mm under the simple plus or minus 1 percent tests. A fitted Magill curve gives plus 0.042 degree.
+Scope: The segments are constructed on the published VP, not newly measured historical endpoints. The tests support a mechanism, not a universal exclusion.
+Revisit when: Use independently identified physical pairs or a better supported camera and distortion model.
+Evidence: S08, S14
+
+D05 | Symmetry and cancellation | Correction
+Radial symmetry does not guarantee exact cancellation across an arbitrary set of image cues. Common movement can preserve a segment direction while still shifting the fitted VP.
+Scope: The tested effects remain small; this precision does not rehabilitate a large unspecified lens error.
+Revisit when: Quantify the effect for the actual accepted cue coordinates and calibration.
+Evidence: S14
+
+D06 | Unknown exact lens is not automatically fatal | Settled defense
+An exact make and serial number are unnecessary if the relevant possible camera mappings can be sufficiently bounded. Generic unknown-lens objections are not a demonstrated refutation.
+Scope: The claimed bound over all plausible historical setups still needs evidence; do not silently convert it into verified inventory knowledge.
+Revisit when: Identify a supported mapping or setup that materially changes the result and fits the retained image constraints.
+Evidence: S08, S14, S23
+
+PHYSICAL FEATURES AND MEASUREMENTS
+
+F01 | Features in unannotated reproductions | Supported
+Dark hat boundaries, stone occlusions and garment-related tonal changes exist in the public unannotated image. They are not merely lines invented in the paper's overlays.
+Scope: Existence of a feature does not by itself authenticate a unique caster and shadow correspondence.
+Revisit when: Compare the specific feature in authenticated source reproductions.
+Evidence: S06
+
+F02 | The correct principal hat cue | Correction
+The central cue is the crown's shadow on the brim. Grant acknowledges initially focusing on the wrong interior feature. Objections addressing only that misidentification do not defeat the corrected argument.
+Scope: The crown crease can be a supplementary cue, but is not a substitute for the main brim cue.
+Revisit when: Analyse the correctly identified crown and brim geometry.
+Evidence: S03, S13, S15, S23
+
+F03 | Pixel boundary angle is not source elevation | Reproduced
+The earlier raw edge fit gives about 34.10 degrees within the image, with window-dependent values about 25.47 to 35.28 degrees. This is a boundary orientation, not an elevation above the real horizon.
+Scope: The selected contour may include silhouette or material edges. Small fit residuals do not authenticate its physical meaning.
+Revisit when: Identify the physical boundary and repeat the full calibrated reconstruction.
+Evidence: S07
+
+F04 | The 27 point 14 degree sketch | Correction
+The earlier two-feature calculation produced 27.14 degrees using new pixel selections but retained camera assumptions and unverified feature assignments. It is not a full independent confirmation of Dalleur.
+Scope: Agreement near 28 degrees must not be reported as two independently verified physical measurements.
+Revisit when: Validate the physical pairs and camera assumptions independently.
+Evidence: S07
+
+F05 | Multiple cues and their independence | Supported
+Agreement across separated features is positive internal-consistency evidence. It is not twelve independent experiments merely because rays drawn from a selected common VP pass through those regions.
+Scope: The empirical test is agreement with independently specified cues and residuals. The author video uses a shared directional probe.
+Revisit when: Provide an endpoint or supporting-tangent inventory, residuals and leave-one-out or comparable checks.
+Evidence: S22, S23
+
+F06 | Original scan and image processing | Open verification
+The original 6144 by 4348 TIFF remains unavailable in the recovered files. Dalleur's displayed excerpts disclose denoising and contrast adjustment; a processing artifact has not been demonstrated.
+Scope: The available public copy is 1669 by 1181. Enlargement adds no detail. Missing access is not evidence that the original result is wrong.
+Revisit when: Obtain the archival scan and compare physical feature selection before and after processing.
+Evidence: S02, S06, S22
+
+LIGHTING AND DRYING
+
+L01 | Grant mixed light simulation | Modeled only
+Grant's toy scene reportedly gives a 15 to 20 degree apparent reconstruction error when bright overhead illumination changes the selected hat boundary despite a 42 degree Sun. It demonstrates a relevant possible failure mode.
+Scope: No scene file was independently rerun here. It does not establish a full D115 fit; the later comment corrects pitch to 4 degrees.
+Revisit when: Recover and test the simulation against the actual correctly identified hat, stone and remaining cues together.
+Evidence: S03, S15, S20
+
+L02 | Cloud countermodel outcome | Settled defense
+The ordinary sunlight and cloud model was not sustained as a better explanation of the complete photographic and historical combination. Dalleur's retained-contour reply remains substantive.
+Scope: F-04 records this tested outcome, not a proof that every ordinary lighting mechanism is impossible.
+Revisit when: Supply a developed fit that addresses the relevant cues and the scope of the combined claim.
+Evidence: S03, S20, S21
+
+L03 | Fill light and geometric occlusion | Supported
+Adding fill light changes contrast and can produce misleading apparent boundaries. It does not relocate the unchanged direct source's actual geometric occlusion boundary.
+Scope: The issue is whether D115's selected boundaries are the physical direct-source contours claimed, not whether clouds can move solar rays arbitrarily.
+Revisit when: Identify which actual boundaries are being replaced and demonstrate their illumination model.
+Evidence: S13, S15, S20
+
+L04 | Near contact shadow sharpness | Supported
+Shadow sharpness alone does not uniquely prove a small angular source; penumbra also depends on separation between caster and receiver.
+Scope: This general optical fact does not refute the complete multiple-feature reconstruction. Its isolated contact-shadow criticism was not sustained as that refutation.
+Revisit when: Fit a specified extended source to the actual cue set rather than only a generic contact example.
+Evidence: S13, S22
+
+L05 | The second source is not a second miraculous orb | Correction
+Dalleur identifies LSb as probably a bright cloud. Bradley's description of two extraordinary floating orbs misrepresents that proposal.
+Scope: Whether every proposed two-source cue is uniquely interpreted remains an empirical matter.
+Revisit when: Quote and test the actual two-source interpretation rather than the corrected paraphrase.
+Evidence: S01, S23
+
+L06 | Garment patterns and infrared power | Supported
+The tonal boundaries follow clothing-related regions and are worth assessing alongside rain and drying testimony. A monochrome exposure does not independently measure moisture, elapsed drying time or infrared power.
+Scope: The photographic thermal interpretation and the angular reconstruction are related but separate claims.
+Revisit when: Supply calibrated material, timing or spectral evidence that discriminates the competing interpretations.
+Evidence: S05, S06, S15
+
+L07 | Photochemical defect alternative | Modeled only
+A photographic-development defect has been proposed for clothing tones, but no specific demonstrated defect explains the relevant pattern in this record.
+Scope: Lack of a demonstrated defect does not turn a photograph into a calibrated moisture or energy measurement.
+Revisit when: Demonstrate the proposed mechanism on the actual material or a sufficiently matched photographic process.
+Evidence: S03, S15, S20
+
+CONTEXT AND LITERATURE
+
+R01 | The western visibility quotation | Correction
+The quoted western-invisibility possibility concerns a separate Italian event in Muse's discussion, not Dalleur proposing western invisibility at Fatima. His Fatima map includes western observers.
+Scope: Correcting the attribution does not independently validate every witness bearing or the Italian event.
+Revisit when: Use a source that actually makes the disputed claim about Fatima.
+Evidence: S01, S03, S23
+
+R02 | Distant evidence and exact geographic localization | Correction
+The distant accounts remain evidence of reported phenomena outside the Cova, including the discriminating Minde direction. They do not supply independent crossing bearings establishing the exact emitter location south of the Cova.
+Scope: F-06 records a closed unscored source-claim correction. Daniel did not adopt that map location as a premise. D115's angular argument was held fixed.
+Revisit when: Recover actual observer stations and sufficiently specific original bearings or elevations.
+Evidence: S16, S21
+
+R03 | Physical corroboration and visual perception | Supported
+If a physical non-solar illumination direction is reliably established, retinal effects or expectation cannot explain that direction on the plate. Its agreement with descent testimony and advance prediction carries cumulative relevance.
+Scope: Non-solar illumination alone does not identify supernatural agency; an ordinary alternative still needs case-specific support.
+Revisit when: Address the physical inference and the historical combination at their actual respective scopes.
+Evidence: S05, S15, S23
+
+R04 | Credentials journal and dishonesty allegations | Supported
+Dalleur's applied-science and philosophy doctorates and relevant engineering work were checked against his official biography. The paper is published in an interdisciplinary journal; no knowing deception or absence of peer review was established.
+Scope: Credentials and publication do not independently prove a particular measurement or disclose the anonymous reviewers' expertise.
+Revisit when: Use documentary evidence of the particular allegation or a technical error, not personal rhetoric.
+Evidence: S20, S22, S23
+
+R05 | Formal rebuttals and independent replication | Bounded search
+The documented searches did not locate a peer-reviewed technical refutation or a complete independent D115 reconstruction. Informal technical arguments remain eligible for evaluation.
+Scope: OpenAlex returns two citing records, one a journal-issue record. Neither citation count nor favorable contextual discussion establishes optical consensus or replication.
+Revisit when: Locate a relevant completed work and evaluate its actual calculation and evidence.
+Evidence: S15
+
+R06 | Complete Muse response retained | Reproduced
+The full approximately 90 minute Muse and Bertuzzi response to Bradley was retrieved and completely reread. Timestamped coverage includes focal bounds, distortion, real controls, feature tangency, representations and Catholic context.
+Scope: Automatic captions are not audio-verified verbatim testimony. Future period tests announced there are not counted as completed results.
+Revisit when: Check the linked passage before asserting Muse omitted an issue he addresses.
+Evidence: S04, S23
+
+R07 | Message credibility is a separate linked argument | Supported
+Muse argues that authenticating the apparitions supports Lúcia's credibility and the Catholic message, including content from early interrogations. This must remain connected to the historical case rather than treating the photo as an isolated unexplained patch.
+Scope: The early secrets and death-prediction chronology are preserved separately under F-07 research, not counted as new optical measurements.
+Revisit when: Identify the exact historical or theological premise at issue and consult its own source audit.
+Evidence: S23, S25, S21
+
+EVIDENCE CATALOGUE
+
+S01 | Dalleur original paper
+Printed pages 31-40 for geometry and figures 9-12; pages 27-30 for geography
+research/fatima-photo-analysis-20261027/dalleur-2021-compatible.pdf
+https://doi.org/10.12775/SetF.2021.001
+
+S02 | Dalleur author research page
+D115 inputs, equipment discussion and source-height derivation
+research/fatima-dalleur-reaudit-20261102/sources/dalleur-photo-page-current.txt
+https://sites.google.com/pusc.it/elevation-azimuth/fatimas-miracle-photo
+
+S03 | Muse written defense
+Section 3, revised 18 April 2026; section 4 for drying
+research/fatima-dalleur-reaudit-20261102/sources/muse-reply-current.txt
+https://motivesofcredibility.substack.com/p/it-wasnt-the-sun
+
+S04 | Muse response to Cade Bradley full transcript
+Complete automatic captions, about 90 minutes; not a manually corrected verbatim record
+research/fatima-muse-bradley-response-20261101/transcript.txt
+https://www.youtube.com/watch?v=GZZ3H-ExWMc
+
+S05 | Full technical re-audit
+Arithmetic, sensitivity, source comparisons and corrections
+research/fatima-dalleur-reaudit-20261102/report.txt
+
+S06 | Direct photograph inspection
+Unannotated public 1669 by 1181 copy and region register
+research/fatima-independent-photo-audit-20261102/report.txt
+https://commons.wikimedia.org/wiki/File:People_looking_miracle_sun.jpg
+
+S07 | Pixel boundary calculation
+Conditional 27.14 degree sketch and measurement limits
+research/fatima-independent-photo-audit-20261102/pixel-measurements/report.txt
+
+S08 | Camera assumptions audit
+Principal point, focal range, format, pitch, roll and distortion
+research/fatima-camera-assumptions-audit-20261102/report.txt
+
+S09 | Period camera catalogue and adjudication
+21 camera or format rows, 8 lens or family rows; later physical-camera finding
+research/fatima-period-camera-catalogue-20261102/report.txt
+
+S10 | Actual hanging strand pixel measurements
+12 traces, sensitivity checks and model residuals
+research/fatima-period-camera-catalogue-20261102/thread-angle-audit/report.txt
+
+S11 | Joint calibration calculation
+Paired vanishing-point counter-calibrations and their scope
+research/fatima-joint-calibration-audit-20261111/report.txt
+
+S12 | Trees and Muse reply to the joint calibration
+Head perspective, unchanged projected verticals and missing whole-scene fit
+research/fatima-joint-calibration-audit-20261111/trees-and-muse-check.txt
+
+S13 | Shadow correspondence and source identity
+Supporting tangents, contact shadows and extended sources
+research/fatima-shadow-correspondence-audit-20261102/research-report.txt
+
+S14 | New numerical and historical claims check
+Kinkaid table, Magill specimen and differential distortion calculations
+research/fatima-muse-numerical-claims-20261111/report.txt
+
+S15 | Shadow literature review
+Critics, control errors, timing check and current citation search
+research/fatima-shadow-literature-review-20261111/research-report.txt
+
+S16 | Source localization audit
+F-06 unscored source-claim review; bearings versus exact emitter location
+research/fatima-source-localization-20261107/report.txt
+
+S17 | Head directions and gaze check
+Conditional head-pose fits and unresolved eye direction
+research/fatima-gaze-check-20261108/report.txt
+
+S18 | Kinkaid original press manual
+Printed pages 9, 10 and 12; page 10 is PDF page 20
+research/fatima-muse-numerical-claims-20261111/sources/kinkaid-1936.pdf
+https://archive.org/details/pressphotography00kinkrich
+
+S19 | Magill National Bureau of Standards lens measurements
+Printed page 138, PDF page 4, table 2
+research/fatima-photo-counters-20261027/magill-nbs-1955-distortion.pdf
+https://nvlpubs.nist.gov/nistpubs/jres/54/jresv54n3p135_A1b.pdf
+
+S20 | Direct critics and ordinary lighting fit review
+Grant, Fodor, Bradley and Ray; see adjacent ordinary-lighting-fit-test-20261101.txt
+research/fatima-photo-counters-20261027/research-report.txt
+
+S21 | Current debate tally
+F-04 and subentries; F-06 geographic review is separately unscored
+research/argument-thread-audit-20261028/live-debate-tally.json
+
+S22 | Dalleur video features and validation register
+11 feature or probe entries, sampled author video frames and official CV verification
+research/fatima-dalleur-followup-20261102/research-report.txt
+
+S23 | Complete Muse transcript rereading
+All three complete transcript parts reread on 11 November 2026
+research/fatima-shadow-literature-review-20261111/muse-bradley-full-transcript-followup.txt
+
+S24 | Known source validation examples
+Real scenes, synthetic template and panorama demonstration distinguished
+research/fatima-dalleur-followup-20261102/worked-example-register.json
+https://sites.google.com/pusc.it/elevation-azimuth/examples
+
+S25 | Early secrets and children credibility cross reference
+Separate from the optical reconstruction; character point remains F-07
+research/fatima-early-death-prediction-20261111/muse-early-secrets-followup.txt
+
+S26 | Rochester primary geometry research
+Hu, Brown and Nelson, technical report 810, 2004; source direction and supporting lines
+research/fatima-shadow-correspondence-audit-20261102/sources/rochester-hu-brown-nelson-2004.txt
+https://urresearch.rochester.edu/institutionalPublicationPublicView.action?institutionalItemId=847
+
+S27 | Ordinary lighting fit and refraction calculation
+Standard atmospheric refraction, model scope and the combined-evidence challenge
+research/fatima-photo-counters-20261027/ordinary-lighting-fit-test-20261101.txt
+
+CHANGE HISTORY
+2026-11-11 version 1: Consolidated existing dated audits, explicit F-04 adjudications, later source-claim corrections and numerical checks into stable component IDs. No original dialogue edits or tally changes.

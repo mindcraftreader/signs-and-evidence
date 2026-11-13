@@ -1,0 +1,45 @@
+{
+  "date": "2026-11-11",
+  "request": "Find and sustain a material documented objection bearing on reasonable doubt, rather than invoke unspecified alternatives.",
+  "outcome": "No new substantive core rebuttal established in this follow-up.",
+  "tally": {
+    "main": "17–0",
+    "change": "none",
+    "private_vision_dazzling": "Withdrawn as a substantive challenge; user explicitly declined a tally point."
+  },
+  "checks": [
+    {
+      "topic": "D115 geometry and camera assumptions",
+      "sources": [
+        "https://doi.org/10.12775/SetF.2021.001",
+        "https://sites.google.com/pusc.it/elevation-azimuth/theory/the-maths",
+        "https://sites.google.com/pusc.it/elevation-azimuth/fatimas-miracle-photo",
+        "https://www.piercevaubel.com/cam/catalogs/1389.goerz.lenses.c1906-all.pdf"
+      ],
+      "result": "Re-read relevant original geometry and current author material; searched period equipment specifications. Rise/shift and period wide-angle availability do not supply the missing full-scene historical camera fit. No new measurement refuting Dalleur established. Existing joint-calibration limits remain."
+    },
+    {
+      "topic": "Fatima pre-event solar expectation",
+      "result": "Searched the exact Tavares lead again. No newly recovered original DCF I pp401–406. No new adequate expectation explanation. Existing F-02 disposition remains."
+    },
+    {
+      "topic": "Zeitoun primary accounts",
+      "sources": [
+        "https://ourladyofzeitoun.com/en/report/scenes-of-the-apparition/",
+        "https://ourladyofzeitoun.com/en/report/st-marys-apparitions/",
+        "https://ourladyofzeitoun.com/en/newspaper/watani-26-may-1968/"
+      ],
+      "result": "Recovered pages continue to include early named prolonged figure reports alongside flashes/lights. Diverse descriptions are not a demonstrated ordinary mechanism for the retained figure reports. No new source disproving them established. Online translations are not newly authenticated Arabic originals."
+    },
+    {
+      "topic": "Lourdes and Pio medical alternatives",
+      "sources": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC3854941/",
+        "https://www.imagomundi.biz/wp-content/uploads/2025/04/PBSO37-Le_stigmate_di_Padre_Pio_da_Pietrelcina-Gerardo_di_Flumeri.pdf"
+      ],
+      "result": "Search led to known diagnostic/selection qualifications and reported sealed-bandage persistence, not a new ordinary explanation of the retained pattern. PMC direct access returned a browser check; no claim of newly reading unavailable full text. Previously recovered clinical audit remains the detailed record."
+    }
+  ],
+  "assessment": "Do not continue asserting that a material reasonable doubt has been demonstrated by this follow-up. No new sufficient one was established. This is a report of the bounded search and the arguments actually tested, not a probability estimate or exhaustive elimination of all alternatives.",
+  "score_policy": "No automatic point for a search that yields no argument; no numerical posterior update from tally counts."
+}

@@ -2,6 +2,8 @@
 
 Use [How to read and research](HOW-TO-READ.md) to locate the current ledger, the exact claim under review, and its original sources.
 
+Before assessing Dalleur, D115 shadows, camera assumptions or Muse's photographic defense, read the [component register](research/fatima-dalleur-master/findings-register.json) and current F-04 entry. For previous attempts and replies, consult the [chronological challenge history](research/fatima-photo-challenge-history-20261112/challenge-history.txt). Its episode count is not a score; the earlier guessed six-point subtotal was withdrawn. Preserve scoped settled outcomes. Reopening requires naming the component ID and explaining substantive new evidence or a developed argument; an open verification item alone is not a successful objection.
+
 For cross-religious challenges, start with the [comparative exclusivity tally](EXCLUSIVITY-TALLY.md). Match the candidate to the level and religious scope of the claim it is supposed to challenge.
 
 1. State the strongest version of the claim and identify which premise your challenge tests. Separate what happened, what caused it, and what it would authenticate.

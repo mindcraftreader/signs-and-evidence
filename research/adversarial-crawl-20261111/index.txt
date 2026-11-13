@@ -1,0 +1,81 @@
+ADVERSARIAL MIRACLE RESEARCH CRAWL — 11 NOVEMBER 2026
+
+Three specialist subagents plus a root cumulative/comparative audit.
+Completed screening:27case-specific candidate families,6cumulative checks
+and8comparative tests:41in total, with66source records (including reused
+materials and inaccessible leads). These are coverage counts, not independent objections,
+new discoveries, adjudicated wins or a probability calculation. The completed second
+comparative pass follows the Palmar de Troya rival-sign lead separately.
+
+CASE REPORTS
+fatima/report.txt —10candidate families;20source records.
+zeitoun/report.txt —8candidate families;16source records.
+clinical/report.txt —9candidate families;17source records.
+cumulative/report.txt —6checks;5source records.
+comparative/report.txt —8tests;8source records.
+Each has source-manifest.json and candidate-register.json. Distinguish
+original documents, scholarly analysis and secondary finding aids.
+
+OUTCOME
+No newly established full ordinary explanation or material new defeat of a
+retained core case. Specific genuine qualifications and unresolved clinical
+premises survive. A failed proposed mechanism stays withdrawn unless new
+material actually changes its fit. Neither a narrow correction nor this
+crawl's failure to find a complete explanation supplies an automatic numerical
+probability for intervention. The canonical16–0 tally is untouched.
+
+FIRST LIVE ARGUMENT SELECTED
+clinical/treatment-claim-check.txt
+Vittorio Micheli: an unresolved contradiction about chemotherapy in a major
+Lourdes imaging case. This was identified earlier and repeatedly left open;
+it is not a new discovery or a reopening of an adjudicated loss.
+Jim Garner's1974CMAJ report, printed1257, explicitly reports chemotherapy
+stopped after two months without discernible improvement. His disclosed
+access to Bureau records and its director gives the report provenance, but
+not a claim-specific medication chart. Barbara A.Neilan's2013Linacre
+Quarterly case account, derived from Michel-Marie Salmon's report and citing
+Garner, explicitly denies chemotherapy or radiotherapy was offered.
+
+Proposed challenge: the existing accessible record does not securely exclude
+relevant anticancer treatment in Micheli. Therefore an unqualified assertion
+that this particular malignancy regressed untreated should not be a settled
+premise for excluding an ordinary clinical cause.
+
+Strongest reply: Salmon-derived material has the more direct clinical basis;
+Garner gives no drug,dose,administration chart or claim-specific attribution,
+and reports nonresponse and subsequent deterioration months before the
+pilgrimage. His wording could be erroneous. The collision does not establish
+effective chemotherapy or explain the improvement. Root also visually checked
+the original1257page; the primary passage is real, not search-excerpt noise.
+
+Scope: one important individual's causal interpretation, not an explanation
+of all Lourdes recoveries or evidence against Fatima and Zeitoun. No win
+awarded to either side. Needed discriminator: original1962medication and
+transfer records or Salmon's full treatment account and supporting appendix.
+
+OTHER SURVIVING MATERIAL
+Fatima: distinguishing a reported dazzling experience from clinically
+established retinal photostress; ascertainment/denominator limits in the
+retinopathy inference; a documented shared child-interview episode. These do
+not establish hallucination, refute the public sign, or undo sincerity.
+The attempted D115redating challenge failed against a contemporary caption
+and the hours of timing displacement required by its tested assumptions.
+
+Zeitoun: photographic provenance and the independence/technical scope of
+institutional investigation. No primary basis was found for conflating a
+reported altered bird image with a particular published figure photograph.
+Shalaby's newly recovered Arabic text supplied no tested optical mechanism.
+None explains away the early full-figure testimony or reopensZ01/Z02.
+
+Pio: newly acquired facsimiles of Gemelli's1926claim of an earlier1919
+inspection, alongside his1920statement of no medical examination and
+Campanella's strong documentary reply. This is new access for our library,
+not a globally new archive discovery. The disputed excerpt is incomplete and
+does not establish fabrication or a full ordinary cause of the wound history.
+
+READING AND REPRODUCTION
+Start with each report's outcome, then candidate register, exact source
+passage and strongest defense. Follow access-status labels. Do not cite an
+unread full article, an unacquired original treatment chart or a scholarly
+credential as if it supplied a clinical observation. Current model/tallies
+retain their separate documented scope.

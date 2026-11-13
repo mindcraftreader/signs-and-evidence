@@ -1,0 +1,137 @@
+{
+  "title": "D115 photographic arguments: grouped challenge subtally",
+  "updated": "2026-11-12",
+  "parent_entry": "F-04",
+  "daniel": 6,
+  "assistant": 0,
+  "provenance": "New explicit grouping of existing recorded outcomes, not recovery of a previously located six-item scoreboard and not six newly adjudicated challenges.",
+  "counting_rule": "Six topical challenge groups. Several share assumptions and evidence; they are not independent measurements or six main-tally points. Detailed findings retain their exact scope and reopening conditions.",
+  "main_tally_effect": 0,
+  "component_register": "../fatima-dalleur-master/findings-register.json",
+  "entries": [
+    {
+      "id": "PHOTO-01",
+      "title": "Geometric methodology",
+      "status": "recorded_challenge_not_sustained",
+      "daniel_successful_defenses": 1,
+      "assistant_successful_challenges": 0,
+      "result": "The categorical objections concerning shadow lengths, receiving surfaces and supporting tangents did not defeat the actual projective construction.",
+      "component_ids": [
+        "G01",
+        "G02",
+        "G03",
+        "G04"
+      ],
+      "source_ids": [
+        "S01",
+        "S13",
+        "S26",
+        "S04",
+        "S23"
+      ]
+    },
+    {
+      "id": "PHOTO-02",
+      "title": "Known-source validation",
+      "status": "recorded_challenge_not_sustained",
+      "daniel_successful_defenses": 1,
+      "assistant_successful_challenges": 0,
+      "result": "The claim that validation was only CGI was not sustained: real photographic controls exist. Their reported errors do not establish a universal subdegree error distribution.",
+      "component_ids": [
+        "V01",
+        "V02",
+        "V03",
+        "V04"
+      ],
+      "source_ids": [
+        "S04",
+        "S23",
+        "S24",
+        "S15",
+        "S05"
+      ]
+    },
+    {
+      "id": "PHOTO-03",
+      "title": "Developed physical camera/lens alternative",
+      "status": "recorded_challenge_not_sustained",
+      "daniel_successful_defenses": 1,
+      "assistant_successful_challenges": 0,
+      "result": "The attempted period ultra-wide/shift setup did not establish a historically feasible whole-image fit to mounting, face perspective and thread constraints.",
+      "component_ids": [
+        "C07",
+        "C08"
+      ],
+      "source_ids": [
+        "S09",
+        "S10",
+        "S21"
+      ]
+    },
+    {
+      "id": "PHOTO-04",
+      "title": "Joint calibration and background-tree follow-up",
+      "status": "recorded_challenge_not_sustained",
+      "daniel_successful_defenses": 1,
+      "assistant_successful_challenges": 0,
+      "result": "The paired-vanishing-point construction preserved a mathematical ambiguity but did not supply the developed scene-consistent alternative needed to sustain the objection.",
+      "component_ids": [
+        "C09",
+        "C10",
+        "C11",
+        "C12"
+      ],
+      "source_ids": [
+        "S11",
+        "S12",
+        "S21",
+        "S17"
+      ]
+    },
+    {
+      "id": "PHOTO-05",
+      "title": "Unknown lens and proposed distortion escape",
+      "status": "recorded_challenge_not_sustained",
+      "daniel_successful_defenses": 1,
+      "assistant_successful_challenges": 0,
+      "result": "Generic unknown-lens uncertainty did not establish a refutation. The tested small radial distortions did not bridge the angular gap; the conditional tests are not a universal bound on every historical setup.",
+      "component_ids": [
+        "D01",
+        "D02",
+        "D03",
+        "D04",
+        "D05",
+        "D06"
+      ],
+      "source_ids": [
+        "S14",
+        "S19",
+        "S05",
+        "S08",
+        "S23"
+      ]
+    },
+    {
+      "id": "PHOTO-06",
+      "title": "Ordinary sunlight plus cloud/fill-light model",
+      "status": "recorded_challenge_not_sustained",
+      "daniel_successful_defenses": 1,
+      "assistant_successful_challenges": 0,
+      "result": "The ordinary-lighting model was not sustained as a better explanation of the combined photograph and historical case. Its possible boundary-selection failure mode was not demonstrated as a complete D115 fit.",
+      "component_ids": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ],
+      "source_ids": [
+        "S03",
+        "S15",
+        "S20",
+        "S21",
+        "S13",
+        "S22"
+      ]
+    }
+  ]
+}

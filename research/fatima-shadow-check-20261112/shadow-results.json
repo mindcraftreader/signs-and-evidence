@@ -1,0 +1,1993 @@
+{
+  "date": "2026-11-12",
+  "source": "research/fatima-independent-photo-audit-20261102/sources/D115-commons.jpg",
+  "source_dimensions": [
+    1669,
+    1181
+  ],
+  "source_sha256": "e95a29699a442b2a6214e4dbd4bce67417f93a8ac5cfd02fa5ef5a959be44a5e",
+  "scope": "Raw-image gradient trace, correctly located author cue region, robust estimator comparison and a new conditional single-ray plane-cap test. Not an independent complete D115 reconstruction.",
+  "selection": "Previously declared source-coordinate windows retained for comparability, after image-to-image alignment of the actual paper figure. Not blinded. Neither published VP nor solar target enters gradient selection or line fits.",
+  "semantic_status": "The traced lower hat/adjacent bright-object boundary lies near the author\u2019s main common-tangent cue. Intensity tracing alone does not establish separate crown and receiving-brim contours or a valid common supporting tangent.",
+  "registration": "figure-registration.json; this is image alignment of an annotated, processed author inset, not new light measurement.",
+  "adopted_camera": {
+    "principal_point": [
+      834.5,
+      555.125
+    ],
+    "horizon_parameter_h": 0.31,
+    "horizon_y_px": 411.40555555555557,
+    "focal_equivalents_mm": [
+      30,
+      33,
+      37,
+      45
+    ],
+    "roll_deg": 0,
+    "provenance": "Dalleur retained calibration; not independently estimated in this check."
+  },
+  "plane_cap_derivation": "Each valid projected ray line defines a plane through camera center. With unit normal n and adopted world-up u, maximum possible source elevation in that plane is acos(abs(dot(n,u))). This maximizes over all directions in the plane, not a chosen source VP or azimuth.",
+  "primary_fit": {
+    "window_x": [
+      850,
+      882
+    ],
+    "search_y": [
+      738,
+      772
+    ],
+    "estimator": "OLS",
+    "slope": -0.6771390374331604,
+    "intercept": 1338.7357397504502,
+    "image_line_angle_deg": 34.103462507278806,
+    "orthogonal_rms_px": 1.2520331771885878,
+    "source_points": [
+      [
+        850,
+        766
+      ],
+      [
+        851,
+        765
+      ],
+      [
+        852,
+        765
+      ],
+      [
+        853,
+        763
+      ],
+      [
+        854,
+        762
+      ],
+      [
+        855,
+        760
+      ],
+      [
+        856,
+        757
+      ],
+      [
+        857,
+        757
+      ],
+      [
+        858,
+        756
+      ],
+      [
+        859,
+        755
+      ],
+      [
+        860,
+        754
+      ],
+      [
+        861,
+        754
+      ],
+      [
+        862,
+        753
+      ],
+      [
+        863,
+        753
+      ],
+      [
+        864,
+        753
+      ],
+      [
+        865,
+        752
+      ],
+      [
+        866,
+        751
+      ],
+      [
+        867,
+        751
+      ],
+      [
+        868,
+        750
+      ],
+      [
+        869,
+        750
+      ],
+      [
+        870,
+        749
+      ],
+      [
+        871,
+        749
+      ],
+      [
+        872,
+        749
+      ],
+      [
+        873,
+        749
+      ],
+      [
+        874,
+        748
+      ],
+      [
+        875,
+        747
+      ],
+      [
+        876,
+        746
+      ],
+      [
+        877,
+        746
+      ],
+      [
+        878,
+        746
+      ],
+      [
+        879,
+        745
+      ],
+      [
+        880,
+        743
+      ],
+      [
+        881,
+        742
+      ],
+      [
+        882,
+        741
+      ]
+    ],
+    "conditional_plane_caps": [
+      {
+        "fd_equiv_mm": 30,
+        "max_possible_elevation_deg": 36.53477453514982,
+        "gap_from_adopted_sun_deg": 6.185225464850177
+      },
+      {
+        "fd_equiv_mm": 33,
+        "max_possible_elevation_deg": 36.12773733417334,
+        "gap_from_adopted_sun_deg": 6.592262665826659
+      },
+      {
+        "fd_equiv_mm": 37,
+        "max_possible_elevation_deg": 35.725554995258484,
+        "gap_from_adopted_sun_deg": 6.9944450047415145
+      },
+      {
+        "fd_equiv_mm": 45,
+        "max_possible_elevation_deg": 35.210438091309925,
+        "gap_from_adopted_sun_deg": 7.509561908690074
+      }
+    ],
+    "endpoint_sensitivity": [
+      {
+        "declared_endpoint_y_displacement_px": 1,
+        "largest_conditional_cap_deg": 38.71128832863629,
+        "interpretation": "Illustrative finite sensitivity set, not authenticated physical endpoints or an uncertainty confidence bound."
+      },
+      {
+        "declared_endpoint_y_displacement_px": 2,
+        "largest_conditional_cap_deg": 40.7797914613454,
+        "interpretation": "Illustrative finite sensitivity set, not authenticated physical endpoints or an uncertainty confidence bound."
+      }
+    ]
+  },
+  "all_fits": [
+    {
+      "window_x": [
+        850,
+        882
+      ],
+      "search_y": [
+        738,
+        772
+      ],
+      "estimator": "OLS",
+      "slope": -0.6771390374331604,
+      "intercept": 1338.7357397504502,
+      "image_line_angle_deg": 34.103462507278806,
+      "orthogonal_rms_px": 1.2520331771885878,
+      "source_points": [
+        [
+          850,
+          766
+        ],
+        [
+          851,
+          765
+        ],
+        [
+          852,
+          765
+        ],
+        [
+          853,
+          763
+        ],
+        [
+          854,
+          762
+        ],
+        [
+          855,
+          760
+        ],
+        [
+          856,
+          757
+        ],
+        [
+          857,
+          757
+        ],
+        [
+          858,
+          756
+        ],
+        [
+          859,
+          755
+        ],
+        [
+          860,
+          754
+        ],
+        [
+          861,
+          754
+        ],
+        [
+          862,
+          753
+        ],
+        [
+          863,
+          753
+        ],
+        [
+          864,
+          753
+        ],
+        [
+          865,
+          752
+        ],
+        [
+          866,
+          751
+        ],
+        [
+          867,
+          751
+        ],
+        [
+          868,
+          750
+        ],
+        [
+          869,
+          750
+        ],
+        [
+          870,
+          749
+        ],
+        [
+          871,
+          749
+        ],
+        [
+          872,
+          749
+        ],
+        [
+          873,
+          749
+        ],
+        [
+          874,
+          748
+        ],
+        [
+          875,
+          747
+        ],
+        [
+          876,
+          746
+        ],
+        [
+          877,
+          746
+        ],
+        [
+          878,
+          746
+        ],
+        [
+          879,
+          745
+        ],
+        [
+          880,
+          743
+        ],
+        [
+          881,
+          742
+        ],
+        [
+          882,
+          741
+        ]
+      ],
+      "conditional_plane_caps": [
+        {
+          "fd_equiv_mm": 30,
+          "max_possible_elevation_deg": 36.53477453514982,
+          "gap_from_adopted_sun_deg": 6.185225464850177
+        },
+        {
+          "fd_equiv_mm": 33,
+          "max_possible_elevation_deg": 36.12773733417334,
+          "gap_from_adopted_sun_deg": 6.592262665826659
+        },
+        {
+          "fd_equiv_mm": 37,
+          "max_possible_elevation_deg": 35.725554995258484,
+          "gap_from_adopted_sun_deg": 6.9944450047415145
+        },
+        {
+          "fd_equiv_mm": 45,
+          "max_possible_elevation_deg": 35.210438091309925,
+          "gap_from_adopted_sun_deg": 7.509561908690074
+        }
+      ],
+      "endpoint_sensitivity": [
+        {
+          "declared_endpoint_y_displacement_px": 1,
+          "largest_conditional_cap_deg": 38.71128832863629,
+          "interpretation": "Illustrative finite sensitivity set, not authenticated physical endpoints or an uncertainty confidence bound."
+        },
+        {
+          "declared_endpoint_y_displacement_px": 2,
+          "largest_conditional_cap_deg": 40.7797914613454,
+          "interpretation": "Illustrative finite sensitivity set, not authenticated physical endpoints or an uncertainty confidence bound."
+        }
+      ]
+    },
+    {
+      "window_x": [
+        850,
+        882
+      ],
+      "search_y": [
+        738,
+        772
+      ],
+      "estimator": "orthogonal_TLS",
+      "slope": -0.6889861455560693,
+      "intercept": 1348.9953353848894,
+      "image_line_angle_deg": 34.56630348020464,
+      "orthogonal_rms_px": 1.2486040986047873,
+      "source_points": [
+        [
+          850,
+          766
+        ],
+        [
+          851,
+          765
+        ],
+        [
+          852,
+          765
+        ],
+        [
+          853,
+          763
+        ],
+        [
+          854,
+          762
+        ],
+        [
+          855,
+          760
+        ],
+        [
+          856,
+          757
+        ],
+        [
+          857,
+          757
+        ],
+        [
+          858,
+          756
+        ],
+        [
+          859,
+          755
+        ],
+        [
+          860,
+          754
+        ],
+        [
+          861,
+          754
+        ],
+        [
+          862,
+          753
+        ],
+        [
+          863,
+          753
+        ],
+        [
+          864,
+          753
+        ],
+        [
+          865,
+          752
+        ],
+        [
+          866,
+          751
+        ],
+        [
+          867,
+          751
+        ],
+        [
+          868,
+          750
+        ],
+        [
+          869,
+          750
+        ],
+        [
+          870,
+          749
+        ],
+        [
+          871,
+          749
+        ],
+        [
+          872,
+          749
+        ],
+        [
+          873,
+          749
+        ],
+        [
+          874,
+          748
+        ],
+        [
+          875,
+          747
+        ],
+        [
+          876,
+          746
+        ],
+        [
+          877,
+          746
+        ],
+        [
+          878,
+          746
+        ],
+        [
+          879,
+          745
+        ],
+        [
+          880,
+          743
+        ],
+        [
+          881,
+          742
+        ],
+        [
+          882,
+          741
+        ]
+      ],
+      "conditional_plane_caps": [
+        {
+          "fd_equiv_mm": 30,
+          "max_possible_elevation_deg": 36.955527014149496,
+          "gap_from_adopted_sun_deg": 5.764472985850503
+        },
+        {
+          "fd_equiv_mm": 33,
+          "max_possible_elevation_deg": 36.55518917671231,
+          "gap_from_adopted_sun_deg": 6.164810823287688
+        },
+        {
+          "fd_equiv_mm": 37,
+          "max_possible_elevation_deg": 36.159757537789396,
+          "gap_from_adopted_sun_deg": 6.560242462210603
+        },
+        {
+          "fd_equiv_mm": 45,
+          "max_possible_elevation_deg": 35.65348413329538,
+          "gap_from_adopted_sun_deg": 7.06651586670462
+        }
+      ],
+      "endpoint_sensitivity": [
+        {
+          "declared_endpoint_y_displacement_px": 1,
+          "largest_conditional_cap_deg": 39.11172526453332,
+          "interpretation": "Illustrative finite sensitivity set, not authenticated physical endpoints or an uncertainty confidence bound."
+        },
+        {
+          "declared_endpoint_y_displacement_px": 2,
+          "largest_conditional_cap_deg": 41.1596343722837,
+          "interpretation": "Illustrative finite sensitivity set, not authenticated physical endpoints or an uncertainty confidence bound."
+        }
+      ]
+    },
+    {
+      "window_x": [
+        850,
+        882
+      ],
+      "search_y": [
+        738,
+        772
+      ],
+      "estimator": "Theil_Sen",
+      "slope": -0.6220238095238095,
+      "intercept": 1290.4285714285716,
+      "image_line_angle_deg": 31.882595762490055,
+      "orthogonal_rms_px": 1.4448074717755766,
+      "source_points": [
+        [
+          850,
+          766
+        ],
+        [
+          851,
+          765
+        ],
+        [
+          852,
+          765
+        ],
+        [
+          853,
+          763
+        ],
+        [
+          854,
+          762
+        ],
+        [
+          855,
+          760
+        ],
+        [
+          856,
+          757
+        ],
+        [
+          857,
+          757
+        ],
+        [
+          858,
+          756
+        ],
+        [
+          859,
+          755
+        ],
+        [
+          860,
+          754
+        ],
+        [
+          861,
+          754
+        ],
+        [
+          862,
+          753
+        ],
+        [
+          863,
+          753
+        ],
+        [
+          864,
+          753
+        ],
+        [
+          865,
+          752
+        ],
+        [
+          866,
+          751
+        ],
+        [
+          867,
+          751
+        ],
+        [
+          868,
+          750
+        ],
+        [
+          869,
+          750
+        ],
+        [
+          870,
+          749
+        ],
+        [
+          871,
+          749
+        ],
+        [
+          872,
+          749
+        ],
+        [
+          873,
+          749
+        ],
+        [
+          874,
+          748
+        ],
+        [
+          875,
+          747
+        ],
+        [
+          876,
+          746
+        ],
+        [
+          877,
+          746
+        ],
+        [
+          878,
+          746
+        ],
+        [
+          879,
+          745
+        ],
+        [
+          880,
+          743
+        ],
+        [
+          881,
+          742
+        ],
+        [
+          882,
+          741
+        ]
+      ],
+      "conditional_plane_caps": [
+        {
+          "fd_equiv_mm": 30,
+          "max_possible_elevation_deg": 34.52105631751582,
+          "gap_from_adopted_sun_deg": 8.198943682484177
+        },
+        {
+          "fd_equiv_mm": 33,
+          "max_possible_elevation_deg": 34.08131479443086,
+          "gap_from_adopted_sun_deg": 8.63868520556914
+        },
+        {
+          "fd_equiv_mm": 37,
+          "max_possible_elevation_deg": 33.64607755114328,
+          "gap_from_adopted_sun_deg": 9.07392244885672
+        },
+        {
+          "fd_equiv_mm": 45,
+          "max_possible_elevation_deg": 33.08750327857897,
+          "gap_from_adopted_sun_deg": 9.632496721421028
+        }
+      ],
+      "endpoint_sensitivity": [
+        {
+          "declared_endpoint_y_displacement_px": 1,
+          "largest_conditional_cap_deg": 36.79080498931322,
+          "interpretation": "Illustrative finite sensitivity set, not authenticated physical endpoints or an uncertainty confidence bound."
+        },
+        {
+          "declared_endpoint_y_displacement_px": 2,
+          "largest_conditional_cap_deg": 38.95531849477168,
+          "interpretation": "Illustrative finite sensitivity set, not authenticated physical endpoints or an uncertainty confidence bound."
+        }
+      ]
+    },
+    {
+      "window_x": [
+        856,
+        878
+      ],
+      "search_y": [
+        738,
+        772
+      ],
+      "estimator": "OLS",
+      "slope": -0.5039525691699734,
+      "intercept": 1188.0138339921061,
+      "image_line_angle_deg": 26.745937014987145,
+      "orthogonal_rms_px": 0.40839258701060316,
+      "source_points": [
+        [
+          856,
+          757
+        ],
+        [
+          857,
+          757
+        ],
+        [
+          858,
+          756
+        ],
+        [
+          859,
+          755
+        ],
+        [
+          860,
+          754
+        ],
+        [
+          861,
+          754
+        ],
+        [
+          862,
+          753
+        ],
+        [
+          863,
+          753
+        ],
+        [
+          864,
+          753
+        ],
+        [
+          865,
+          752
+        ],
+        [
+          866,
+          751
+        ],
+        [
+          867,
+          751
+        ],
+        [
+          868,
+          750
+        ],
+        [
+          869,
+          750
+        ],
+        [
+          870,
+          749
+        ],
+        [
+          871,
+          749
+        ],
+        [
+          872,
+          749
+        ],
+        [
+          873,
+          749
+        ],
+        [
+          874,
+          748
+        ],
+        [
+          875,
+          747
+        ],
+        [
+          876,
+          746
+        ],
+        [
+          877,
+          746
+        ],
+        [
+          878,
+          746
+        ]
+      ],
+      "conditional_plane_caps": [
+        {
+          "fd_equiv_mm": 30,
+          "max_possible_elevation_deg": 29.973835437260774,
+          "gap_from_adopted_sun_deg": 12.746164562739224
+        },
+        {
+          "fd_equiv_mm": 33,
+          "max_possible_elevation_deg": 29.4434765681668,
+          "gap_from_adopted_sun_deg": 13.276523431833198
+        },
+        {
+          "fd_equiv_mm": 37,
+          "max_possible_elevation_deg": 28.915767260030467,
+          "gap_from_adopted_sun_deg": 13.804232739969532
+        },
+        {
+          "fd_equiv_mm": 45,
+          "max_possible_elevation_deg": 28.23421463899391,
+          "gap_from_adopted_sun_deg": 14.485785361006087
+        }
+      ],
+      "endpoint_sensitivity": [
+        {
+          "declared_endpoint_y_displacement_px": 1,
+          "largest_conditional_cap_deg": 33.502483060044256,
+          "interpretation": "Illustrative finite sensitivity set, not authenticated physical endpoints or an uncertainty confidence bound."
+        },
+        {
+          "declared_endpoint_y_displacement_px": 2,
+          "largest_conditional_cap_deg": 36.83522806449081,
+          "interpretation": "Illustrative finite sensitivity set, not authenticated physical endpoints or an uncertainty confidence bound."
+        }
+      ]
+    },
+    {
+      "window_x": [
+        856,
+        878
+      ],
+      "search_y": [
+        738,
+        772
+      ],
+      "estimator": "orthogonal_TLS",
+      "slope": -0.5058686175448096,
+      "intercept": 1189.675047933089,
+      "image_line_angle_deg": 26.83341684925092,
+      "orthogonal_rms_px": 0.40823543977703797,
+      "source_points": [
+        [
+          856,
+          757
+        ],
+        [
+          857,
+          757
+        ],
+        [
+          858,
+          756
+        ],
+        [
+          859,
+          755
+        ],
+        [
+          860,
+          754
+        ],
+        [
+          861,
+          754
+        ],
+        [
+          862,
+          753
+        ],
+        [
+          863,
+          753
+        ],
+        [
+          864,
+          753
+        ],
+        [
+          865,
+          752
+        ],
+        [
+          866,
+          751
+        ],
+        [
+          867,
+          751
+        ],
+        [
+          868,
+          750
+        ],
+        [
+          869,
+          750
+        ],
+        [
+          870,
+          749
+        ],
+        [
+          871,
+          749
+        ],
+        [
+          872,
+          749
+        ],
+        [
+          873,
+          749
+        ],
+        [
+          874,
+          748
+        ],
+        [
+          875,
+          747
+        ],
+        [
+          876,
+          746
+        ],
+        [
+          877,
+          746
+        ],
+        [
+          878,
+          746
+        ]
+      ],
+      "conditional_plane_caps": [
+        {
+          "fd_equiv_mm": 30,
+          "max_possible_elevation_deg": 30.049904621086764,
+          "gap_from_adopted_sun_deg": 12.670095378913235
+        },
+        {
+          "fd_equiv_mm": 33,
+          "max_possible_elevation_deg": 29.521262459680116,
+          "gap_from_adopted_sun_deg": 13.198737540319883
+        },
+        {
+          "fd_equiv_mm": 37,
+          "max_possible_elevation_deg": 28.995318477161796,
+          "gap_from_adopted_sun_deg": 13.724681522838203
+        },
+        {
+          "fd_equiv_mm": 45,
+          "max_possible_elevation_deg": 28.31613531354311,
+          "gap_from_adopted_sun_deg": 14.403864686456888
+        }
+      ],
+      "endpoint_sensitivity": [
+        {
+          "declared_endpoint_y_displacement_px": 1,
+          "largest_conditional_cap_deg": 33.57488376677535,
+          "interpretation": "Illustrative finite sensitivity set, not authenticated physical endpoints or an uncertainty confidence bound."
+        },
+        {
+          "declared_endpoint_y_displacement_px": 2,
+          "largest_conditional_cap_deg": 36.90313024014015,
+          "interpretation": "Illustrative finite sensitivity set, not authenticated physical endpoints or an uncertainty confidence bound."
+        }
+      ]
+    },
+    {
+      "window_x": [
+        856,
+        878
+      ],
+      "search_y": [
+        738,
+        772
+      ],
+      "estimator": "Theil_Sen",
+      "slope": -0.5,
+      "intercept": 1184.5,
+      "image_line_angle_deg": 26.565051177077994,
+      "orthogonal_rms_px": 0.4170288281141496,
+      "source_points": [
+        [
+          856,
+          757
+        ],
+        [
+          857,
+          757
+        ],
+        [
+          858,
+          756
+        ],
+        [
+          859,
+          755
+        ],
+        [
+          860,
+          754
+        ],
+        [
+          861,
+          754
+        ],
+        [
+          862,
+          753
+        ],
+        [
+          863,
+          753
+        ],
+        [
+          864,
+          753
+        ],
+        [
+          865,
+          752
+        ],
+        [
+          866,
+          751
+        ],
+        [
+          867,
+          751
+        ],
+        [
+          868,
+          750
+        ],
+        [
+          869,
+          750
+        ],
+        [
+          870,
+          749
+        ],
+        [
+          871,
+          749
+        ],
+        [
+          872,
+          749
+        ],
+        [
+          873,
+          749
+        ],
+        [
+          874,
+          748
+        ],
+        [
+          875,
+          747
+        ],
+        [
+          876,
+          746
+        ],
+        [
+          877,
+          746
+        ],
+        [
+          878,
+          746
+        ]
+      ],
+      "conditional_plane_caps": [
+        {
+          "fd_equiv_mm": 30,
+          "max_possible_elevation_deg": 29.815310768651628,
+          "gap_from_adopted_sun_deg": 12.904689231348371
+        },
+        {
+          "fd_equiv_mm": 33,
+          "max_possible_elevation_deg": 29.28159922895449,
+          "gap_from_adopted_sun_deg": 13.438400771045508
+        },
+        {
+          "fd_equiv_mm": 37,
+          "max_possible_elevation_deg": 28.75043799968882,
+          "gap_from_adopted_sun_deg": 13.969562000311178
+        },
+        {
+          "fd_equiv_mm": 45,
+          "max_possible_elevation_deg": 28.064245337187042,
+          "gap_from_adopted_sun_deg": 14.655754662812956
+        }
+      ],
+      "endpoint_sensitivity": [
+        {
+          "declared_endpoint_y_displacement_px": 1,
+          "largest_conditional_cap_deg": 33.35166670059895,
+          "interpretation": "Illustrative finite sensitivity set, not authenticated physical endpoints or an uncertainty confidence bound."
+        },
+        {
+          "declared_endpoint_y_displacement_px": 2,
+          "largest_conditional_cap_deg": 36.69382936259509,
+          "interpretation": "Illustrative finite sensitivity set, not authenticated physical endpoints or an uncertainty confidence bound."
+        }
+      ]
+    },
+    {
+      "window_x": [
+        862,
+        880
+      ],
+      "search_y": [
+        738,
+        772
+      ],
+      "estimator": "OLS",
+      "slope": -0.5052631578947341,
+      "intercept": 1189.031578947366,
+      "image_line_angle_deg": 26.805788329799668,
+      "orthogonal_rms_px": 0.4772149763359698,
+      "source_points": [
+        [
+          862,
+          753
+        ],
+        [
+          863,
+          753
+        ],
+        [
+          864,
+          753
+        ],
+        [
+          865,
+          752
+        ],
+        [
+          866,
+          751
+        ],
+        [
+          867,
+          751
+        ],
+        [
+          868,
+          750
+        ],
+        [
+          869,
+          750
+        ],
+        [
+          870,
+          749
+        ],
+        [
+          871,
+          749
+        ],
+        [
+          872,
+          749
+        ],
+        [
+          873,
+          749
+        ],
+        [
+          874,
+          748
+        ],
+        [
+          875,
+          747
+        ],
+        [
+          876,
+          746
+        ],
+        [
+          877,
+          746
+        ],
+        [
+          878,
+          746
+        ],
+        [
+          879,
+          745
+        ],
+        [
+          880,
+          743
+        ]
+      ],
+      "conditional_plane_caps": [
+        {
+          "fd_equiv_mm": 30,
+          "max_possible_elevation_deg": 30.023978175989708,
+          "gap_from_adopted_sun_deg": 12.696021824010291
+        },
+        {
+          "fd_equiv_mm": 33,
+          "max_possible_elevation_deg": 29.49508901617445,
+          "gap_from_adopted_sun_deg": 13.224910983825549
+        },
+        {
+          "fd_equiv_mm": 37,
+          "max_possible_elevation_deg": 28.96888754349221,
+          "gap_from_adopted_sun_deg": 13.751112456507787
+        },
+        {
+          "fd_equiv_mm": 45,
+          "max_possible_elevation_deg": 28.28935336924147,
+          "gap_from_adopted_sun_deg": 14.430646630758527
+        }
+      ],
+      "endpoint_sensitivity": [
+        {
+          "declared_endpoint_y_displacement_px": 1,
+          "largest_conditional_cap_deg": 34.314469995963215,
+          "interpretation": "Illustrative finite sensitivity set, not authenticated physical endpoints or an uncertainty confidence bound."
+        },
+        {
+          "declared_endpoint_y_displacement_px": 2,
+          "largest_conditional_cap_deg": 38.29916253115738,
+          "interpretation": "Illustrative finite sensitivity set, not authenticated physical endpoints or an uncertainty confidence bound."
+        }
+      ]
+    },
+    {
+      "window_x": [
+        862,
+        880
+      ],
+      "search_y": [
+        738,
+        772
+      ],
+      "estimator": "orthogonal_TLS",
+      "slope": -0.5091219794620424,
+      "intercept": 1192.3926125324915,
+      "image_line_angle_deg": 26.981644485821256,
+      "orthogonal_rms_px": 0.4768448018504834,
+      "source_points": [
+        [
+          862,
+          753
+        ],
+        [
+          863,
+          753
+        ],
+        [
+          864,
+          753
+        ],
+        [
+          865,
+          752
+        ],
+        [
+          866,
+          751
+        ],
+        [
+          867,
+          751
+        ],
+        [
+          868,
+          750
+        ],
+        [
+          869,
+          750
+        ],
+        [
+          870,
+          749
+        ],
+        [
+          871,
+          749
+        ],
+        [
+          872,
+          749
+        ],
+        [
+          873,
+          749
+        ],
+        [
+          874,
+          748
+        ],
+        [
+          875,
+          747
+        ],
+        [
+          876,
+          746
+        ],
+        [
+          877,
+          746
+        ],
+        [
+          878,
+          746
+        ],
+        [
+          879,
+          745
+        ],
+        [
+          880,
+          743
+        ]
+      ],
+      "conditional_plane_caps": [
+        {
+          "fd_equiv_mm": 30,
+          "max_possible_elevation_deg": 30.1772834400702,
+          "gap_from_adopted_sun_deg": 12.542716559929797
+        },
+        {
+          "fd_equiv_mm": 33,
+          "max_possible_elevation_deg": 29.65178973178869,
+          "gap_from_adopted_sun_deg": 13.06821026821131
+        },
+        {
+          "fd_equiv_mm": 37,
+          "max_possible_elevation_deg": 29.129078930079668,
+          "gap_from_adopted_sun_deg": 13.59092106992033
+        },
+        {
+          "fd_equiv_mm": 45,
+          "max_possible_elevation_deg": 28.454228433962314,
+          "gap_from_adopted_sun_deg": 14.265771566037685
+        }
+      ],
+      "endpoint_sensitivity": [
+        {
+          "declared_endpoint_y_displacement_px": 1,
+          "largest_conditional_cap_deg": 34.458317903387375,
+          "interpretation": "Illustrative finite sensitivity set, not authenticated physical endpoints or an uncertainty confidence bound."
+        },
+        {
+          "declared_endpoint_y_displacement_px": 2,
+          "largest_conditional_cap_deg": 38.431508414766796,
+          "interpretation": "Illustrative finite sensitivity set, not authenticated physical endpoints or an uncertainty confidence bound."
+        }
+      ]
+    },
+    {
+      "window_x": [
+        862,
+        880
+      ],
+      "search_y": [
+        738,
+        772
+      ],
+      "estimator": "Theil_Sen",
+      "slope": -0.5,
+      "intercept": 1184.5,
+      "image_line_angle_deg": 26.565051177077994,
+      "orthogonal_rms_px": 0.48122650318578786,
+      "source_points": [
+        [
+          862,
+          753
+        ],
+        [
+          863,
+          753
+        ],
+        [
+          864,
+          753
+        ],
+        [
+          865,
+          752
+        ],
+        [
+          866,
+          751
+        ],
+        [
+          867,
+          751
+        ],
+        [
+          868,
+          750
+        ],
+        [
+          869,
+          750
+        ],
+        [
+          870,
+          749
+        ],
+        [
+          871,
+          749
+        ],
+        [
+          872,
+          749
+        ],
+        [
+          873,
+          749
+        ],
+        [
+          874,
+          748
+        ],
+        [
+          875,
+          747
+        ],
+        [
+          876,
+          746
+        ],
+        [
+          877,
+          746
+        ],
+        [
+          878,
+          746
+        ],
+        [
+          879,
+          745
+        ],
+        [
+          880,
+          743
+        ]
+      ],
+      "conditional_plane_caps": [
+        {
+          "fd_equiv_mm": 30,
+          "max_possible_elevation_deg": 29.815310768651628,
+          "gap_from_adopted_sun_deg": 12.904689231348371
+        },
+        {
+          "fd_equiv_mm": 33,
+          "max_possible_elevation_deg": 29.28159922895449,
+          "gap_from_adopted_sun_deg": 13.438400771045508
+        },
+        {
+          "fd_equiv_mm": 37,
+          "max_possible_elevation_deg": 28.75043799968882,
+          "gap_from_adopted_sun_deg": 13.969562000311178
+        },
+        {
+          "fd_equiv_mm": 45,
+          "max_possible_elevation_deg": 28.064245337187042,
+          "gap_from_adopted_sun_deg": 14.655754662812956
+        }
+      ],
+      "endpoint_sensitivity": [
+        {
+          "declared_endpoint_y_displacement_px": 1,
+          "largest_conditional_cap_deg": 34.118359673207685,
+          "interpretation": "Illustrative finite sensitivity set, not authenticated physical endpoints or an uncertainty confidence bound."
+        },
+        {
+          "declared_endpoint_y_displacement_px": 2,
+          "largest_conditional_cap_deg": 38.11855853119336,
+          "interpretation": "Illustrative finite sensitivity set, not authenticated physical endpoints or an uncertainty confidence bound."
+        }
+      ]
+    },
+    {
+      "window_x": [
+        866,
+        880
+      ],
+      "search_y": [
+        738,
+        772
+      ],
+      "estimator": "OLS",
+      "slope": -0.5071428571428767,
+      "intercept": 1190.669047619065,
+      "image_line_angle_deg": 26.891519322070334,
+      "orthogonal_rms_px": 0.5107328063625522,
+      "source_points": [
+        [
+          866,
+          751
+        ],
+        [
+          867,
+          751
+        ],
+        [
+          868,
+          750
+        ],
+        [
+          869,
+          750
+        ],
+        [
+          870,
+          749
+        ],
+        [
+          871,
+          749
+        ],
+        [
+          872,
+          749
+        ],
+        [
+          873,
+          749
+        ],
+        [
+          874,
+          748
+        ],
+        [
+          875,
+          747
+        ],
+        [
+          876,
+          746
+        ],
+        [
+          877,
+          746
+        ],
+        [
+          878,
+          746
+        ],
+        [
+          879,
+          745
+        ],
+        [
+          880,
+          743
+        ]
+      ],
+      "conditional_plane_caps": [
+        {
+          "fd_equiv_mm": 30,
+          "max_possible_elevation_deg": 30.098692857073864,
+          "gap_from_adopted_sun_deg": 12.621307142926135
+        },
+        {
+          "fd_equiv_mm": 33,
+          "max_possible_elevation_deg": 29.571461621038345,
+          "gap_from_adopted_sun_deg": 13.148538378961653
+        },
+        {
+          "fd_equiv_mm": 37,
+          "max_possible_elevation_deg": 29.04696484709158,
+          "gap_from_adopted_sun_deg": 13.673035152908419
+        },
+        {
+          "fd_equiv_mm": 45,
+          "max_possible_elevation_deg": 28.36971844494575,
+          "gap_from_adopted_sun_deg": 14.350281555054249
+        }
+      ],
+      "endpoint_sensitivity": [
+        {
+          "declared_endpoint_y_displacement_px": 1,
+          "largest_conditional_cap_deg": 35.558632291015996,
+          "interpretation": "Illustrative finite sensitivity set, not authenticated physical endpoints or an uncertainty confidence bound."
+        },
+        {
+          "declared_endpoint_y_displacement_px": 2,
+          "largest_conditional_cap_deg": 40.4906740890089,
+          "interpretation": "Illustrative finite sensitivity set, not authenticated physical endpoints or an uncertainty confidence bound."
+        }
+      ]
+    },
+    {
+      "window_x": [
+        866,
+        880
+      ],
+      "search_y": [
+        738,
+        772
+      ],
+      "estimator": "orthogonal_TLS",
+      "slope": -0.5143090962134144,
+      "intercept": 1196.925174327644,
+      "image_line_angle_deg": 27.217171014677795,
+      "orthogonal_rms_px": 0.5099961876346414,
+      "source_points": [
+        [
+          866,
+          751
+        ],
+        [
+          867,
+          751
+        ],
+        [
+          868,
+          750
+        ],
+        [
+          869,
+          750
+        ],
+        [
+          870,
+          749
+        ],
+        [
+          871,
+          749
+        ],
+        [
+          872,
+          749
+        ],
+        [
+          873,
+          749
+        ],
+        [
+          874,
+          748
+        ],
+        [
+          875,
+          747
+        ],
+        [
+          876,
+          746
+        ],
+        [
+          877,
+          746
+        ],
+        [
+          878,
+          746
+        ],
+        [
+          879,
+          745
+        ],
+        [
+          880,
+          743
+        ]
+      ],
+      "conditional_plane_caps": [
+        {
+          "fd_equiv_mm": 30,
+          "max_possible_elevation_deg": 30.38316703957976,
+          "gap_from_adopted_sun_deg": 12.336832960420239
+        },
+        {
+          "fd_equiv_mm": 33,
+          "max_possible_elevation_deg": 29.862144828893907,
+          "gap_from_adopted_sun_deg": 12.857855171106092
+        },
+        {
+          "fd_equiv_mm": 37,
+          "max_possible_elevation_deg": 29.344028004243,
+          "gap_from_adopted_sun_deg": 13.375971995756998
+        },
+        {
+          "fd_equiv_mm": 45,
+          "max_possible_elevation_deg": 28.675336785889563,
+          "gap_from_adopted_sun_deg": 14.044663214110436
+        }
+      ],
+      "endpoint_sensitivity": [
+        {
+          "declared_endpoint_y_displacement_px": 1,
+          "largest_conditional_cap_deg": 35.8193559964923,
+          "interpretation": "Illustrative finite sensitivity set, not authenticated physical endpoints or an uncertainty confidence bound."
+        },
+        {
+          "declared_endpoint_y_displacement_px": 2,
+          "largest_conditional_cap_deg": 40.723114468056885,
+          "interpretation": "Illustrative finite sensitivity set, not authenticated physical endpoints or an uncertainty confidence bound."
+        }
+      ]
+    },
+    {
+      "window_x": [
+        866,
+        880
+      ],
+      "search_y": [
+        738,
+        772
+      ],
+      "estimator": "Theil_Sen",
+      "slope": -0.5,
+      "intercept": 1184.5,
+      "image_line_angle_deg": 26.565051177077994,
+      "orthogonal_rms_px": 0.5163977794943222,
+      "source_points": [
+        [
+          866,
+          751
+        ],
+        [
+          867,
+          751
+        ],
+        [
+          868,
+          750
+        ],
+        [
+          869,
+          750
+        ],
+        [
+          870,
+          749
+        ],
+        [
+          871,
+          749
+        ],
+        [
+          872,
+          749
+        ],
+        [
+          873,
+          749
+        ],
+        [
+          874,
+          748
+        ],
+        [
+          875,
+          747
+        ],
+        [
+          876,
+          746
+        ],
+        [
+          877,
+          746
+        ],
+        [
+          878,
+          746
+        ],
+        [
+          879,
+          745
+        ],
+        [
+          880,
+          743
+        ]
+      ],
+      "conditional_plane_caps": [
+        {
+          "fd_equiv_mm": 30,
+          "max_possible_elevation_deg": 29.815310768651628,
+          "gap_from_adopted_sun_deg": 12.904689231348371
+        },
+        {
+          "fd_equiv_mm": 33,
+          "max_possible_elevation_deg": 29.28159922895449,
+          "gap_from_adopted_sun_deg": 13.438400771045508
+        },
+        {
+          "fd_equiv_mm": 37,
+          "max_possible_elevation_deg": 28.75043799968882,
+          "gap_from_adopted_sun_deg": 13.969562000311178
+        },
+        {
+          "fd_equiv_mm": 45,
+          "max_possible_elevation_deg": 28.064245337187042,
+          "gap_from_adopted_sun_deg": 14.655754662812956
+        }
+      ],
+      "endpoint_sensitivity": [
+        {
+          "declared_endpoint_y_displacement_px": 1,
+          "largest_conditional_cap_deg": 35.29823805293316,
+          "interpretation": "Illustrative finite sensitivity set, not authenticated physical endpoints or an uncertainty confidence bound."
+        },
+        {
+          "declared_endpoint_y_displacement_px": 2,
+          "largest_conditional_cap_deg": 40.258219081816314,
+          "interpretation": "Illustrative finite sensitivity set, not authenticated physical endpoints or an uncertainty confidence bound."
+        }
+      ]
+    }
+  ],
+  "image_angle_range_deg": [
+    26.565051177077994,
+    34.56630348020464
+  ],
+  "conditional_caps_all_estimators_all_focal_lengths_deg": [
+    28.064245337187042,
+    36.955527014149496
+  ],
+  "conditional_two_feature_repeat": {
+    "hat": "raw primary OLS fit",
+    "object_point": [
+      183.5,
+      953.5
+    ],
+    "shadow_point": [
+      178.0,
+      963.5
+    ],
+    "stone_semantics": "Old manual hypothesis retained, not newly validated corresponding vertices.",
+    "vp_px": [
+      -45.22124585042412,
+      1369.3568106371345
+    ],
+    "elevation_at_37mm_deg": 27.13976871522274,
+    "interpretation": "Reproduction of the old conditional sketch, not independent corroboration."
+  },
+  "cue_audit": [
+    {
+      "id": "SC-01",
+      "cue": "Crown/brim common tangent",
+      "observed": "Visible lower hat boundary near author marked tangent. Quantitative edge trace can be fitted.",
+      "usable_for_independent_physical_ray": false,
+      "reason": "Casting contour and receiving shadow contour not independently isolated as a common-supporting pair."
+    },
+    {
+      "id": "SC-02",
+      "cue": "Inner crown crease",
+      "observed": "Dark diagonal crease/shadow exists.",
+      "usable_for_independent_physical_ray": false,
+      "reason": "Supplementary crease, not a substitute for principal brim cue; receiving surface is curved and precise corresponding points unresolved."
+    },
+    {
+      "id": "SC-03",
+      "cue": "Finger/hat",
+      "observed": "Finger silhouette and dark region are visible.",
+      "usable_for_independent_physical_ray": false,
+      "reason": "Receiving shadow is not uniquely separated from dark felt and finger silhouette in this copy."
+    },
+    {
+      "id": "SC-04",
+      "cue": "Stick/knee",
+      "observed": "Stick and bright/dark patches under hat are visible.",
+      "usable_for_independent_physical_ray": false,
+      "reason": "Exact paired casting and receiving points not uniquely recoverable here."
+    },
+    {
+      "id": "SC-05",
+      "cue": "Sharp left foreground stone",
+      "observed": "Overhanging light stone and dark lower region visible; old candidate vertices have a short source-pixel baseline.",
+      "usable_for_independent_physical_ray": false,
+      "reason": "Cannot authenticate a unique same-vertex shadow tip independently of nearby pebble boundaries."
+    },
+    {
+      "id": "SC-06",
+      "cue": "Large foreground stone",
+      "observed": "A distinct dark recess on the lower/left side is present, matching the author\u2019s discussed region.",
+      "usable_for_independent_physical_ray": false,
+      "reason": "Recess includes occlusion/cast-shading; its full 3D profile and corresponding boundary are not separately identified."
+    },
+    {
+      "id": "SC-07",
+      "cue": "Left boy hand/lapel and right girl face",
+      "observed": "Dark shading and visible features exist at the identified locations.",
+      "usable_for_independent_physical_ray": false,
+      "reason": "Automatic dark-edge detection cannot resolve reliable point correspondences for additional rays in this image."
+    }
+  ],
+  "verification": {
+    "math_plane_identity_checks_passed": true,
+    "old_raw_primary_fit_reproduced": true,
+    "source_unchanged": true,
+    "generative_processing": false,
+    "statistical_confidence_assigned": false,
+    "independent_source_elevation_established": false,
+    "tally_change": 0
+  }
+}

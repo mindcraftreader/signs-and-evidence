@@ -1,0 +1,111 @@
+{
+  "date": "2026-11-11",
+  "sources": {
+    "muse-reply.html": "https://motivesofcredibility.substack.com/p/it-wasnt-the-sun",
+    "dalleur-photo.html": "https://sites.google.com/pusc.it/elevation-azimuth/fatimas-miracle-photo",
+    "dalleur-examples.html": "https://sites.google.com/pusc.it/elevation-azimuth/examples",
+    "ray-critique.html": "https://eukaryotewritesblog.com/2025/09/30/miracle-of-the-sun/",
+    "grant-current.txt": "https://docs.google.com/document/d/1t-wlHbqyUUL1-wN2Lf-zOs6_v77NmG9gmBK0BDWXe4c/export?format=txt",
+    "openalex-dalleur.json": "https://api.openalex.org/works/W3152771519",
+    "openalex-citing.json": "https://api.openalex.org/works?filter=cites:W3152771519&per-page=100"
+  },
+  "original_6k_acquired": false,
+  "fresh_full_independent_reconstruction": false,
+  "score_change": 0,
+  "new_checks": [
+    "Conditional focal-length calculation",
+    "Timing-sensitivity anchored to adopted noon elevation",
+    "Worked-example signed errors",
+    "Illustrative endpoint direction-error formula"
+  ],
+  "fresh_visual_read_scope": "Original paper printed31-34, unannotated public D115 and preserved crops; not all37pages freshly reread",
+  "access_failure": {
+    "url": "https://ispcjournal.org/journals/2026/36/PhC_vol_36.pdf",
+    "status": 403,
+    "contents_inspected": false
+  },
+  "files": [
+    {
+      "path": "checks.py",
+      "bytes": 3785,
+      "sha256": "8eac85609b46dcbdcbaa8e7fafc1dc3eaaa3765a0124332fa2445e2131d3247e"
+    },
+    {
+      "path": "figures/dalleur-23.png",
+      "bytes": 483107,
+      "sha256": "666effd4d579c657b7af0c41fdeb75cb94676e1c092f802a76304aa10d08a21e"
+    },
+    {
+      "path": "figures/dalleur-24.png",
+      "bytes": 711614,
+      "sha256": "1f278d950de0fe2178d5f836007db2ccc761dcfa1011a6384c8cf6ecc4c36376"
+    },
+    {
+      "path": "figures/dalleur-25.png",
+      "bytes": 562894,
+      "sha256": "22fa144ecbcc3c325a229cca39f0456ada784a2472edea6288dd0ff8fe242ef7"
+    },
+    {
+      "path": "figures/dalleur-26.png",
+      "bytes": 328019,
+      "sha256": "771368e26d81ee97208a4effaff1f71e2194812b535244fb2a479ae57bf353c5"
+    },
+    {
+      "path": "numerical-checks.json",
+      "bytes": 4564,
+      "sha256": "628050ce041d0c39f81c9747a84f4d47b848dcaa107a50a52b6541d0c1f5d91e"
+    },
+    {
+      "path": "research-report.txt",
+      "bytes": 15540,
+      "sha256": "a1b7e1711b30812753ee8cd21e644667a1d20ee23127a2efda8a0c5d8e3bf1d8"
+    },
+    {
+      "path": "sources/dalleur-examples.html",
+      "bytes": 150254,
+      "sha256": "852ba6cc382740e67a27d95553495834fe55f49beecd210572c885b67371c037"
+    },
+    {
+      "path": "sources/dalleur-photo.html",
+      "bytes": 299368,
+      "sha256": "091bbd789906949e4023b31e318d41565e7d94d693a8c316afe0b40fabe68705"
+    },
+    {
+      "path": "sources/grant-current.txt",
+      "bytes": 43095,
+      "sha256": "276a8809aa161a18940d425ff2b7b5c0627eb467095d0da747b56f0bcca4d433"
+    },
+    {
+      "path": "sources/muse-reply.html",
+      "bytes": 415412,
+      "sha256": "41b0c9574c091e682ac1a4be9f5466238f90013d972ffc0bcc69961f49271885"
+    },
+    {
+      "path": "sources/openalex-citing.json",
+      "bytes": 26948,
+      "sha256": "17de9fc2f4768e14d5677b905d665cd478de4bc68347d891f2d74c013c5322bd"
+    },
+    {
+      "path": "sources/openalex-dalleur.json",
+      "bytes": 15536,
+      "sha256": "4585163d00f2d89bbcfa2f22587a8291e26d5aa7a400fb6ee1d62265470591ee"
+    },
+    {
+      "path": "sources/ray-critique.html",
+      "bytes": 200579,
+      "sha256": "c8764a5e02fa7e0351fa56b55e45f22cbd1cafa9163a996792de0d99f4fb0d48"
+    },
+    {
+      "path": "muse-bradley-full-transcript-followup.txt",
+      "bytes": 6596,
+      "sha256": "0ff6b8cb4c9ba85aa7dc932a8655069d312388539b88e565d1cb0d2ec8c73722"
+    }
+  ],
+  "muse_response_complete_rereading": {
+    "video": "GZZ3H-ExWMc",
+    "duration_seconds": 5424,
+    "date": "2026-11-11",
+    "scope": "All three complete minute-grouped automatic-caption parts read; not full audiovisual viewing",
+    "report": "muse-bradley-full-transcript-followup.txt"
+  }
+}

@@ -1,0 +1,947 @@
+{
+  "title": "Dalleur D115 findings and decisions",
+  "version": 1,
+  "updated": "2026-11-11",
+  "purpose": "Preserve the investigated micro-components, evidence, corrections and adjudications so future reviews do not reset them or confuse open verification with a successful objection.",
+  "canonical_format": "This JSON is the editable register. The TXT and DOCX are generated from it by build_reference.py. Keep original dated reports and dialogue unchanged.",
+  "tally": {
+    "entry": "F-04",
+    "disposition": "closed against the lighting challenge as presented; developed physical camera and joint calibration rebuttals failed as sufficient objections",
+    "confidence": "high in that disposition",
+    "main_score_snapshot": "17-0",
+    "new_points_from_consolidation": 0,
+    "independent_miracle_probabilities": false
+  },
+  "review_rules": [
+    "Before assessing Dalleur, D115, Muse's photo defense or a camera/shadow counterargument, read this register and the current F-04 entry.",
+    "A settled defense records the outcome of the tested objection. It is neither an immutable fact nor proof that every conceivable alternative is excluded.",
+    "To reopen a settled item, identify its ID, cite substantive new evidence or a materially developed argument, and explain which finding changes. Preserve the previous outcome in change_history.",
+    "Open verification is not established counterevidence. A modeled alternative is not a demonstrated historical reconstruction. A reproduced calculation does not independently authenticate its inputs.",
+    "Carry positive findings and their strongest existing defenses into the cumulative assessment. Do not repeatedly count the same objection or its micro-components as new tally points.",
+    "Update the JSON first, regenerate the DOCX and TXT, check their contents and render, and synchronize the research-library mirror. Do not silently overwrite dated source reports."
+  ],
+  "status_definitions": {
+    "settled_defense": "The identified attempted objection was not sustained in the recorded review.",
+    "reproduced": "The stated arithmetic or measurement was reproduced with its specified inputs and scope.",
+    "supported": "Positive evidence supports the scoped finding; not an independent finding of every stronger claim.",
+    "correction": "A prior wording or interpretation is superseded by the stated more precise account.",
+    "open_verification": "A specific empirical or analytical check remains incomplete; this is not itself an adverse finding.",
+    "modeled_only": "A conditional calculation or possibility exists without a demonstrated complete historical fit.",
+    "bounded_search": "The result concerns the documented search, not proof of global absence or expert consensus."
+  },
+  "source_catalog": {
+    "S01": {
+      "title": "Dalleur original paper",
+      "path": "fatima-photo-analysis-20261027/dalleur-2021-compatible.pdf",
+      "url": "https://doi.org/10.12775/SetF.2021.001",
+      "locator": "Printed pages 31-40 for geometry and figures 9-12; pages 27-30 for geography"
+    },
+    "S02": {
+      "title": "Dalleur author research page",
+      "path": "fatima-dalleur-reaudit-20261102/sources/dalleur-photo-page-current.txt",
+      "url": "https://sites.google.com/pusc.it/elevation-azimuth/fatimas-miracle-photo",
+      "locator": "D115 inputs, equipment discussion and source-height derivation"
+    },
+    "S03": {
+      "title": "Muse written defense",
+      "path": "fatima-dalleur-reaudit-20261102/sources/muse-reply-current.txt",
+      "url": "https://motivesofcredibility.substack.com/p/it-wasnt-the-sun",
+      "locator": "Section 3, revised 18 April 2026; section 4 for drying"
+    },
+    "S04": {
+      "title": "Muse response to Cade Bradley full transcript",
+      "path": "fatima-muse-bradley-response-20261101/transcript.txt",
+      "url": "https://www.youtube.com/watch?v=GZZ3H-ExWMc",
+      "locator": "Complete automatic captions, about 90 minutes; not a manually corrected verbatim record"
+    },
+    "S05": {
+      "title": "Full technical re-audit",
+      "path": "fatima-dalleur-reaudit-20261102/report.txt",
+      "locator": "Arithmetic, sensitivity, source comparisons and corrections"
+    },
+    "S06": {
+      "title": "Direct photograph inspection",
+      "path": "fatima-independent-photo-audit-20261102/report.txt",
+      "url": "https://commons.wikimedia.org/wiki/File:People_looking_miracle_sun.jpg",
+      "locator": "Unannotated public 1669 by 1181 copy and region register"
+    },
+    "S07": {
+      "title": "Pixel boundary calculation",
+      "path": "fatima-independent-photo-audit-20261102/pixel-measurements/report.txt",
+      "locator": "Conditional 27.14 degree sketch and measurement limits"
+    },
+    "S08": {
+      "title": "Camera assumptions audit",
+      "path": "fatima-camera-assumptions-audit-20261102/report.txt",
+      "locator": "Principal point, focal range, format, pitch, roll and distortion"
+    },
+    "S09": {
+      "title": "Period camera catalogue and adjudication",
+      "path": "fatima-period-camera-catalogue-20261102/report.txt",
+      "locator": "21 camera or format rows, 8 lens or family rows; later physical-camera finding"
+    },
+    "S10": {
+      "title": "Actual hanging strand pixel measurements",
+      "path": "fatima-period-camera-catalogue-20261102/thread-angle-audit/report.txt",
+      "locator": "12 traces, sensitivity checks and model residuals"
+    },
+    "S11": {
+      "title": "Joint calibration calculation",
+      "path": "fatima-joint-calibration-audit-20261111/report.txt",
+      "locator": "Paired vanishing-point counter-calibrations and their scope"
+    },
+    "S12": {
+      "title": "Trees and Muse reply to the joint calibration",
+      "path": "fatima-joint-calibration-audit-20261111/trees-and-muse-check.txt",
+      "locator": "Head perspective, unchanged projected verticals and missing whole-scene fit"
+    },
+    "S13": {
+      "title": "Shadow correspondence and source identity",
+      "path": "fatima-shadow-correspondence-audit-20261102/research-report.txt",
+      "locator": "Supporting tangents, contact shadows and extended sources"
+    },
+    "S14": {
+      "title": "New numerical and historical claims check",
+      "path": "fatima-muse-numerical-claims-20261111/report.txt",
+      "locator": "Kinkaid table, Magill specimen and differential distortion calculations"
+    },
+    "S15": {
+      "title": "Shadow literature review",
+      "path": "fatima-shadow-literature-review-20261111/research-report.txt",
+      "locator": "Critics, control errors, timing check and current citation search"
+    },
+    "S16": {
+      "title": "Source localization audit",
+      "path": "fatima-source-localization-20261107/report.txt",
+      "locator": "F-06 unscored source-claim review; bearings versus exact emitter location"
+    },
+    "S17": {
+      "title": "Head directions and gaze check",
+      "path": "fatima-gaze-check-20261108/report.txt",
+      "locator": "Conditional head-pose fits and unresolved eye direction"
+    },
+    "S18": {
+      "title": "Kinkaid original press manual",
+      "path": "fatima-muse-numerical-claims-20261111/sources/kinkaid-1936.pdf",
+      "url": "https://archive.org/details/pressphotography00kinkrich",
+      "locator": "Printed pages 9, 10 and 12; page 10 is PDF page 20"
+    },
+    "S19": {
+      "title": "Magill National Bureau of Standards lens measurements",
+      "path": "fatima-photo-counters-20261027/magill-nbs-1955-distortion.pdf",
+      "url": "https://nvlpubs.nist.gov/nistpubs/jres/54/jresv54n3p135_A1b.pdf",
+      "locator": "Printed page 138, PDF page 4, table 2"
+    },
+    "S20": {
+      "title": "Direct critics and ordinary lighting fit review",
+      "path": "fatima-photo-counters-20261027/research-report.txt",
+      "locator": "Grant, Fodor, Bradley and Ray; see adjacent ordinary-lighting-fit-test-20261101.txt"
+    },
+    "S21": {
+      "title": "Current debate tally",
+      "path": "argument-thread-audit-20261028/live-debate-tally.json",
+      "locator": "F-04 and subentries; F-06 geographic review is separately unscored"
+    },
+    "S22": {
+      "title": "Dalleur video features and validation register",
+      "path": "fatima-dalleur-followup-20261102/research-report.txt",
+      "locator": "11 feature or probe entries, sampled author video frames and official CV verification"
+    },
+    "S23": {
+      "title": "Complete Muse transcript rereading",
+      "path": "fatima-shadow-literature-review-20261111/muse-bradley-full-transcript-followup.txt",
+      "locator": "All three complete transcript parts reread on 11 November 2026"
+    },
+    "S24": {
+      "title": "Known source validation examples",
+      "path": "fatima-dalleur-followup-20261102/worked-example-register.json",
+      "url": "https://sites.google.com/pusc.it/elevation-azimuth/examples",
+      "locator": "Real scenes, synthetic template and panorama demonstration distinguished"
+    },
+    "S25": {
+      "title": "Early secrets and children credibility cross reference",
+      "path": "fatima-early-death-prediction-20261111/muse-early-secrets-followup.txt",
+      "locator": "Separate from the optical reconstruction; character point remains F-07"
+    },
+    "S26": {
+      "title": "Rochester primary geometry research",
+      "path": "fatima-shadow-correspondence-audit-20261102/sources/rochester-hu-brown-nelson-2004.txt",
+      "url": "https://urresearch.rochester.edu/institutionalPublicationPublicView.action?institutionalItemId=847",
+      "locator": "Hu, Brown and Nelson, technical report 810, 2004; source direction and supporting lines"
+    },
+    "S27": {
+      "title": "Ordinary lighting fit and refraction calculation",
+      "path": "fatima-photo-counters-20261027/ordinary-lighting-fit-test-20261101.txt",
+      "locator": "Standard atmospheric refraction, model scope and the combined-evidence challenge"
+    }
+  },
+  "findings": [
+    {
+      "id": "G01",
+      "group": "Geometry",
+      "title": "Recovering a projected light direction",
+      "status": "settled_defense",
+      "finding": "Suitable object and cast-shadow correspondences determine projected light-ray lines and their convergence. The basic method has a legitimate projective-geometric basis.",
+      "scope": "Metric source elevation also needs camera orientation and angular calibration.",
+      "sources": [
+        "S01",
+        "S13",
+        "S26"
+      ],
+      "reopen_when": "Identify an error in the actual construction or show the chosen physical correspondences fail its conditions."
+    },
+    {
+      "id": "G02",
+      "group": "Geometry",
+      "title": "Physical heights and shadow lengths",
+      "status": "settled_defense",
+      "finding": "The principal ray-convergence construction does not require measuring every object's physical height or comparing physical shadow lengths. Bradley's length demonstration does not refute this construction.",
+      "scope": "Longer usable features can improve precision; feature correspondence remains necessary.",
+      "sources": [
+        "S04",
+        "S13",
+        "S23"
+      ],
+      "reopen_when": "Connect a demonstrated failure specifically to the ray-convergence method rather than another shadow-length method."
+    },
+    {
+      "id": "G03",
+      "group": "Geometry",
+      "title": "Sloping and different receiving surfaces",
+      "status": "settled_defense",
+      "finding": "The receivers need not all occupy one horizontal plane. Sloping terrain is not a categorical disproof of appropriate object-to-shadow rays.",
+      "scope": "An arbitrary shadow contour on a curved surface is not automatically a valid matched ray.",
+      "sources": [
+        "S01",
+        "S13",
+        "S23"
+      ],
+      "reopen_when": "Show a specific claimed correspondence is invalid because of its actual geometry."
+    },
+    {
+      "id": "G04",
+      "group": "Geometry",
+      "title": "Supporting tangents",
+      "status": "settled_defense",
+      "finding": "An appropriate common supporting tangent to projected object and shadow regions can supply directional information. The attempted categorical objection to tangent-based cues was rejected against primary vision literature.",
+      "scope": "A tangent to an arbitrary dark edge is insufficient; its physical supporting-line conditions matter.",
+      "sources": [
+        "S13",
+        "S26"
+      ],
+      "reopen_when": "Test the precise crown and brim feature against those conditions, retaining its correct identification."
+    },
+    {
+      "id": "G05",
+      "group": "Geometry",
+      "title": "Straightness and angles",
+      "status": "correction",
+      "finding": "Rectilinear perspective preserves straight-line incidence and convergence, not arbitrary Euclidean angles. Dalleur's calibrated equations supply the necessary conversion.",
+      "scope": "Loose spoken language that angles are preserved must not replace the actual mathematical model.",
+      "sources": [
+        "S01",
+        "S05",
+        "S23"
+      ],
+      "reopen_when": "Identify an inference in the actual equations that incorrectly assumes general angle preservation."
+    },
+    {
+      "id": "G06",
+      "group": "Geometry",
+      "title": "Direction and position are different",
+      "status": "supported",
+      "finding": "Recovering a distant source direction is distinct from locating a finite source in three dimensions. A single photo does not itself establish the emitter's range or height above the landscape.",
+      "scope": "Rochester's single-view location limitation is not a blanket impossibility theorem for direction recovery.",
+      "sources": [
+        "S13",
+        "S16",
+        "S26"
+      ],
+      "reopen_when": "Supply additional calibrated views, known geometry or measured bearings that identify a position."
+    },
+    {
+      "id": "G07",
+      "group": "Geometry",
+      "title": "One exposure and movement",
+      "status": "supported",
+      "finding": "D115 supplies illumination geometry at one exposure. It does not independently photograph a trajectory; the reported descent and repeated motion come from testimony.",
+      "scope": "A reliable anomalous direction could corroborate that testimony in the announced-sign context.",
+      "sources": [
+        "S01",
+        "S15",
+        "S17"
+      ],
+      "reopen_when": "Recover synchronized additional exposures or other evidence establishing movement photographically."
+    },
+    {
+      "id": "N01",
+      "group": "Numerical results",
+      "title": "Central elevation and discrepancy",
+      "status": "reproduced",
+      "finding": "The published inputs a 2.4207, e minus 1.9927 and h 0.31 with 37 mm equivalent give 28.2386067 degrees. Against the adopted 42.72 degree Sun, the gap is 14.4813933 degrees.",
+      "scope": "This reproduces the calculation, not independent selection of every image input.",
+      "sources": [
+        "S01",
+        "S05",
+        "S14"
+      ],
+      "reopen_when": "Show a mathematical error or justify a changed empirical input."
+    },
+    {
+      "id": "N02",
+      "group": "Numerical results",
+      "title": "The conservative focal length test",
+      "status": "reproduced",
+      "finding": "Muse explicitly tests 30 mm equivalent, wider than his preferred interval, obtaining 31.8593 degrees and a 10.8607 degree gap. His preferred estimate remains about 28 degrees.",
+      "scope": "Do not confuse the preferred value with the maximum of the deliberately widened focal sweep.",
+      "sources": [
+        "S01",
+        "S04",
+        "S09"
+      ],
+      "reopen_when": "Justify a different jointly calibrated input set rather than merely repeating that focal length is unknown."
+    },
+    {
+      "id": "N03",
+      "group": "Numerical results",
+      "title": "The other focal rows",
+      "status": "reproduced",
+      "finding": "The same retained geometry gives 30.2417 degrees at 33 mm and 24.7624 degrees at 45 mm. Longer ordinary focal lengths lower the inferred source.",
+      "scope": "The four rows are conditional calculations, not four independent observations or a confidence interval.",
+      "sources": [
+        "S01",
+        "S05",
+        "S15"
+      ],
+      "reopen_when": "Produce a corrected derivation or a supported change to the retained geometry."
+    },
+    {
+      "id": "N04",
+      "group": "Numerical results",
+      "title": "Sensitivity factors and small printing corrections",
+      "status": "correction",
+      "finding": "Independent differentiation reproduces the intended pitch factor 0.8240 and roll factor minus 0.5646 at 37 mm. The equation 9 sine versus cosine inconsistency does not change the zero-roll central result. The 45 mm printed row differs about 0.01 degree.",
+      "scope": "These small corrections do not reverse the main calculation.",
+      "sources": [
+        "S05"
+      ],
+      "reopen_when": "Show that a corrected term materially changes the evaluated historical result."
+    },
+    {
+      "id": "N05",
+      "group": "Numerical results",
+      "title": "Time near solar noon",
+      "status": "reproduced",
+      "finding": "A timing calculation anchored to the adopted noon elevation changes solar altitude about 0.51 degree within 30 minutes of noon. Reaching 28.24 degrees takes about 172 minutes from noon.",
+      "scope": "This is a timing-sensitivity model, not independent proof of D115's exact exposure time.",
+      "sources": [
+        "S15"
+      ],
+      "reopen_when": "Provide historical timing evidence far enough from noon, or a materially corrected astronomical calculation."
+    },
+    {
+      "id": "N06",
+      "group": "Numerical results",
+      "title": "Ordinary atmospheric refraction",
+      "status": "reproduced",
+      "finding": "The standard refraction approximation at the adopted 42.72 degree solar elevation gives about 0.01745 degree, roughly one arcminute. It does not explain the approximately 14.48 degree gap.",
+      "scope": "This rejects ordinary refraction at that elevation, not every conceivable atmospheric optical phenomenon.",
+      "sources": [
+        "S27"
+      ],
+      "reopen_when": "Supply a specific physically applicable atmospheric model and propagate its predicted direction."
+    },
+    {
+      "id": "N07",
+      "group": "Numerical results",
+      "title": "Focal length alone over the full positive range",
+      "status": "reproduced",
+      "finding": "With the published vanishing point, horizon and centered calibration retained, varying any positive equivalent focal length yields a mathematical maximum about 41.9393 degrees at an extreme 9.8589 mm equivalent.",
+      "scope": "This is a conditional single-parameter result, not a plausible camera identification or a bound on joint changes and measurement uncertainty.",
+      "sources": [
+        "S08"
+      ],
+      "reopen_when": "Justify a changed camera or image input and propagate the joint constraints."
+    },
+    {
+      "id": "V01",
+      "group": "Validation",
+      "title": "Real photographic controls exist",
+      "status": "settled_defense",
+      "finding": "Dalleur publishes real photographic worked examples as well as a synthetic template. Bradley's claim that validation is only CGI is not retained.",
+      "scope": "Author-run examples are useful without being external blinded replication.",
+      "sources": [
+        "S04",
+        "S23",
+        "S24"
+      ],
+      "reopen_when": "Show the cited real examples are misidentified or their reported outcomes are materially wrong."
+    },
+    {
+      "id": "V02",
+      "group": "Validation",
+      "title": "Control errors and their unit of counting",
+      "status": "reproduced",
+      "finding": "Castel Gandolfo has reported absolute errors 0.48, 0.84 and 0.34 degree under different settings; these are variants of one scene. Saint Hubert differs 0.574 degree from the stated astronomical elevation.",
+      "scope": "Do not count three settings of one photo as three independent controls.",
+      "sources": [
+        "S15",
+        "S24"
+      ],
+      "reopen_when": "Recheck the actual examples, dates, parameters and astronomical comparisons."
+    },
+    {
+      "id": "V03",
+      "group": "Validation",
+      "title": "A universal one degree error bar",
+      "status": "open_verification",
+      "finding": "The successful selected examples support the method but do not establish a universal plus or minus one degree error distribution for D115's faint features.",
+      "scope": "A matched blind study could strengthen this; defensible worst-case measurement bounds are another route.",
+      "sources": [
+        "S05",
+        "S15",
+        "S24"
+      ],
+      "reopen_when": "Supply a relevant validation dataset or a reproduced bound applicable to D115."
+    },
+    {
+      "id": "V04",
+      "group": "Validation",
+      "title": "Promised additional period photo tests",
+      "status": "correction",
+      "finding": "At about 65 to 66 minutes, Muse announces future antique-photo and new-scan work. That announcement is not itself a completed validation dataset shown in the response video.",
+      "scope": "Existing real controls remain credited. The focused searches did not locate the promised completed dataset.",
+      "sources": [
+        "S04",
+        "S15",
+        "S23"
+      ],
+      "reopen_when": "Locate the actual completed publication and assess its methods and results."
+    },
+    {
+      "id": "C01",
+      "group": "Camera and scene constraints",
+      "title": "Physical and equivalent millimetres",
+      "status": "correction",
+      "finding": "The 30 to 46 mm values use a horizontal 36 mm image-width convention. They are not claims that the large-format camera physically carried a 30 to 46 mm lens.",
+      "scope": "For an assumed 120 mm plate width, 37 mm equivalent corresponds to 123.33 mm physical focal length.",
+      "sources": [
+        "S01",
+        "S09",
+        "S14"
+      ],
+      "reopen_when": "Use a supported format or crop and maintain consistent units."
+    },
+    {
+      "id": "C02",
+      "group": "Camera and scene constraints",
+      "title": "Complementary focal length arguments",
+      "status": "supported",
+      "finding": "Muse offers edge-head perspective, hanging-thread direction and historical practice as complementary constraints. The response does not simply choose one unexplained preferred lens.",
+      "scope": "The strict 31 to 46 and 33 to 39 mm boundaries have not both been independently reconstructed here.",
+      "sources": [
+        "S04",
+        "S09",
+        "S12",
+        "S23"
+      ],
+      "reopen_when": "Address these constraints together with a developed alternative calibration or reproduce their numerical bounds."
+    },
+    {
+      "id": "C03",
+      "group": "Camera and scene constraints",
+      "title": "The original press manual recommendation",
+      "status": "reproduced",
+      "finding": "Kinkaid's quarter-plate table recommends 5.25 inches on 4.25 inches image width, giving 44.47 mm equivalent; its minimum gives 38.12 mm. The historical preference has a primary-source basis.",
+      "scope": "The book is American and from 1936, not a recovered 1917 Portuguese equipment inventory. Its table is not a bound on all optical designs.",
+      "sources": [
+        "S14",
+        "S18"
+      ],
+      "reopen_when": "Correct the table reading or conversion, or supply stronger evidence of the actual historical equipment."
+    },
+    {
+      "id": "C04",
+      "group": "Camera and scene constraints",
+      "title": "Period equipment screening",
+      "status": "supported",
+      "finding": "The saved survey documents 21 camera or format rows and 8 lens or family rows. Several reflex camera mechanical minima support ordinary equivalent focal lengths.",
+      "scope": "Rows are not distinct manufacturers or a worldwide sales census. Availability does not identify Ruah's apparatus.",
+      "sources": [
+        "S09"
+      ],
+      "reopen_when": "Add an authenticated relevant model or constraints absent from the screening survey."
+    },
+    {
+      "id": "C05",
+      "group": "Camera and scene constraints",
+      "title": "Principal point and lens front movement",
+      "status": "supported",
+      "finding": "The period Goerz museum specimen and maker catalogue document rising and cross-shifting fronts. Centered principal point is not mechanically guaranteed merely by naming this family.",
+      "scope": "No evidence here establishes that Ruah used movement, or measures its amount in D115.",
+      "sources": [
+        "S08",
+        "S09",
+        "S14"
+      ],
+      "reopen_when": "Recover exposure-specific equipment or independently calibrate the principal point."
+    },
+    {
+      "id": "C06",
+      "group": "Camera and scene constraints",
+      "title": "Wide angle is not necessarily fish eye",
+      "status": "correction",
+      "finding": "Period specialist wide-angle rectilinear lenses existed. A wide field of view need not produce GoPro-like bending of straight lines.",
+      "scope": "Perspective stretching and radial distortion are distinct. Such a lens still needs historical and whole-image support.",
+      "sources": [
+        "S08",
+        "S09"
+      ],
+      "reopen_when": "Evaluate a specified real optical design and a complete image fit rather than the label wide angle."
+    },
+    {
+      "id": "C07",
+      "group": "Camera and scene constraints",
+      "title": "Developed physical camera rebuttal",
+      "status": "settled_defense",
+      "finding": "The proposed Protar and convertible-camera solar calibration was not established as a historically feasible complete fit. Mounting, crop, face perspective and thread constraints were not jointly satisfied. The attempted rebuttal failed as developed.",
+      "scope": "Record remains under F-04, not a new point. It does not prove every unusual camera mechanically impossible.",
+      "sources": [
+        "S09",
+        "S10",
+        "S21"
+      ],
+      "reopen_when": "Supply materially new historical evidence or a complete feasible calibration meeting the retained scene constraints."
+    },
+    {
+      "id": "C08",
+      "group": "Camera and scene constraints",
+      "title": "Measured hanging strand directions",
+      "status": "reproduced",
+      "finding": "Twelve selected pixel ridges have median 4.6 degrees leftward; ten less-window-sensitive traces have median 5.2. The published calibration is closer on average than the tested alternative predicting roughly 9.6 to 11 degrees.",
+      "scope": "These are visible ridge directions, not authenticated gravity plumb lines. Neither model exactly matches every trace.",
+      "sources": [
+        "S10"
+      ],
+      "reopen_when": "Improve feature identification or raw resolution and test physical verticality and competing calibrations."
+    },
+    {
+      "id": "C09",
+      "group": "Camera and scene constraints",
+      "title": "Joint calibration ambiguity",
+      "status": "modeled_only",
+      "finding": "Changing intrinsics and orientation together can preserve adopted projected light and vertical vanishing points while producing the solar elevation. This mathematical ambiguity is genuine.",
+      "scope": "The vertical VP was implied by baseline assumptions, not newly measured. Preserving it does not preserve anatomy, horizon or historical feasibility.",
+      "sources": [
+        "S11",
+        "S12"
+      ],
+      "reopen_when": "Develop the construction into a feasible full-scene alternative with independently supported constraints."
+    },
+    {
+      "id": "C10",
+      "group": "Camera and scene constraints",
+      "title": "Joint calibration challenge outcome",
+      "status": "settled_defense",
+      "finding": "The paired-VP calculation was not sustained as a sufficient objection to the combined photographic argument. Muse's head-perspective and other scene defenses were not answered by it.",
+      "scope": "Preserves the F-04 subentry and the validity of the narrower mathematical ambiguity in C09.",
+      "sources": [
+        "S12",
+        "S21"
+      ],
+      "reopen_when": "Supply substantive new evidence or a materially complete fit; the same unfitted parameter set is insufficient."
+    },
+    {
+      "id": "C11",
+      "group": "Camera and scene constraints",
+      "title": "Background trees and horizon",
+      "status": "open_verification",
+      "finding": "The inspected background primarily shows crowns and vegetation silhouettes, without secure bases, heights or distances. It did not yield an independent camera calibration.",
+      "scope": "A treetop boundary is not the geometric horizon. This data limit is not evidence for a wide lens.",
+      "sources": [
+        "S12"
+      ],
+      "reopen_when": "Identify stable multi-view tree features or measured historical terrain and camera station."
+    },
+    {
+      "id": "C12",
+      "group": "Camera and scene constraints",
+      "title": "Head direction versus gaze",
+      "status": "supported",
+      "finding": "Conditional head-pose fits show broad upward and rightward consistency. Their uncertainties and indistinct pupils cannot discriminate a 28 degree gaze from roughly 43 degrees.",
+      "scope": "Head axes are not eye directions. The head fit shares some camera assumptions with the shadow model.",
+      "sources": [
+        "S17"
+      ],
+      "reopen_when": "Recover reliable eye direction or stronger independently calibrated face and camera geometry."
+    },
+    {
+      "id": "C13",
+      "group": "Camera and scene constraints",
+      "title": "Plate format and restored crop",
+      "status": "open_verification",
+      "finding": "The 9 by 12 cm plate and top-only sky crop are adopted reconstructions. Under that model, restoring the 4 to 3 frame places the public-image principal center at pixel 834.5 by 555.125. Modest tested format changes alone did not close the gap.",
+      "scope": "The original plate boundaries and all-sided crop or shift are not independently recovered. Scan metadata describes digitization rather than calibrating the 1917 exposure.",
+      "sources": [
+        "S02",
+        "S08",
+        "S09"
+      ],
+      "reopen_when": "Recover authenticated original frame boundaries or a better supported jointly calibrated format and crop."
+    },
+    {
+      "id": "D01",
+      "group": "Lens distortion",
+      "title": "Measured historical lens curves",
+      "status": "reproduced",
+      "finding": "Magill's inspected Dagor specimen gives about 0.243 percent distortion at 30 degrees, 0.400 percent at 35 degrees and 0.663 percent at 40 degrees.",
+      "scope": "These are specific measured specimens and test conditions, not calibration of Ruah's actual lens.",
+      "sources": [
+        "S14",
+        "S19"
+      ],
+      "reopen_when": "Use the actual specimen data or a relevant alternative measured optical curve."
+    },
+    {
+      "id": "D02",
+      "group": "Lens distortion",
+      "title": "The 0 point 24 percent citation correction",
+      "status": "correction",
+      "finding": "The inspected table associates approximately 0.24 percent with 30 degrees, not 35 degrees. Correcting that citation retains the small-distortion finding.",
+      "scope": "This small mismatch does not establish a correction sufficient to close the source-elevation gap.",
+      "sources": [
+        "S05",
+        "S14",
+        "S19"
+      ],
+      "reopen_when": "Show a material effect on the reconstructed result rather than merely repeating the reference mismatch."
+    },
+    {
+      "id": "D03",
+      "group": "Lens distortion",
+      "title": "Differential displacement mechanism",
+      "status": "reproduced",
+      "finding": "For the stated simple radial model, a bound of 0.5 percent implies at most 0.289 degree local line rotation; a 1 percent bound implies 0.585 degree. Nearby endpoint differential movement controls line rotation.",
+      "scope": "This is model-specific, not a theorem for every small-displacement high-order or scan distortion.",
+      "sources": [
+        "S14"
+      ],
+      "reopen_when": "Supply and propagate an empirically relevant different distortion model."
+    },
+    {
+      "id": "D04",
+      "group": "Lens distortion",
+      "title": "Propagated radial stress tests",
+      "status": "reproduced",
+      "finding": "Constructed rays near the selected regions yield source changes about minus 0.127 to plus 0.115 degree at 37 mm under the simple plus or minus 1 percent tests. A fitted Magill curve gives plus 0.042 degree.",
+      "scope": "The segments are constructed on the published VP, not newly measured historical endpoints. The tests support a mechanism, not a universal exclusion.",
+      "sources": [
+        "S08",
+        "S14"
+      ],
+      "reopen_when": "Use independently identified physical pairs or a better supported camera and distortion model."
+    },
+    {
+      "id": "D05",
+      "group": "Lens distortion",
+      "title": "Symmetry and cancellation",
+      "status": "correction",
+      "finding": "Radial symmetry does not guarantee exact cancellation across an arbitrary set of image cues. Common movement can preserve a segment direction while still shifting the fitted VP.",
+      "scope": "The tested effects remain small; this precision does not rehabilitate a large unspecified lens error.",
+      "sources": [
+        "S14"
+      ],
+      "reopen_when": "Quantify the effect for the actual accepted cue coordinates and calibration."
+    },
+    {
+      "id": "D06",
+      "group": "Lens distortion",
+      "title": "Unknown exact lens is not automatically fatal",
+      "status": "settled_defense",
+      "finding": "An exact make and serial number are unnecessary if the relevant possible camera mappings can be sufficiently bounded. Generic unknown-lens objections are not a demonstrated refutation.",
+      "scope": "The claimed bound over all plausible historical setups still needs evidence; do not silently convert it into verified inventory knowledge.",
+      "sources": [
+        "S08",
+        "S14",
+        "S23"
+      ],
+      "reopen_when": "Identify a supported mapping or setup that materially changes the result and fits the retained image constraints."
+    },
+    {
+      "id": "F01",
+      "group": "Physical features and measurements",
+      "title": "Features in unannotated reproductions",
+      "status": "supported",
+      "finding": "Dark hat boundaries, stone occlusions and garment-related tonal changes exist in the public unannotated image. They are not merely lines invented in the paper's overlays.",
+      "scope": "Existence of a feature does not by itself authenticate a unique caster and shadow correspondence.",
+      "sources": [
+        "S06"
+      ],
+      "reopen_when": "Compare the specific feature in authenticated source reproductions."
+    },
+    {
+      "id": "F02",
+      "group": "Physical features and measurements",
+      "title": "The correct principal hat cue",
+      "status": "correction",
+      "finding": "The central cue is the crown's shadow on the brim. Grant acknowledges initially focusing on the wrong interior feature. Objections addressing only that misidentification do not defeat the corrected argument.",
+      "scope": "The crown crease can be a supplementary cue, but is not a substitute for the main brim cue.",
+      "sources": [
+        "S03",
+        "S13",
+        "S15",
+        "S23"
+      ],
+      "reopen_when": "Analyse the correctly identified crown and brim geometry."
+    },
+    {
+      "id": "F03",
+      "group": "Physical features and measurements",
+      "title": "Pixel boundary angle is not source elevation",
+      "status": "reproduced",
+      "finding": "The earlier raw edge fit gives about 34.10 degrees within the image, with window-dependent values about 25.47 to 35.28 degrees. This is a boundary orientation, not an elevation above the real horizon.",
+      "scope": "The selected contour may include silhouette or material edges. Small fit residuals do not authenticate its physical meaning.",
+      "sources": [
+        "S07"
+      ],
+      "reopen_when": "Identify the physical boundary and repeat the full calibrated reconstruction."
+    },
+    {
+      "id": "F04",
+      "group": "Physical features and measurements",
+      "title": "The 27 point 14 degree sketch",
+      "status": "correction",
+      "finding": "The earlier two-feature calculation produced 27.14 degrees using new pixel selections but retained camera assumptions and unverified feature assignments. It is not a full independent confirmation of Dalleur.",
+      "scope": "Agreement near 28 degrees must not be reported as two independently verified physical measurements.",
+      "sources": [
+        "S07"
+      ],
+      "reopen_when": "Validate the physical pairs and camera assumptions independently."
+    },
+    {
+      "id": "F05",
+      "group": "Physical features and measurements",
+      "title": "Multiple cues and their independence",
+      "status": "supported",
+      "finding": "Agreement across separated features is positive internal-consistency evidence. It is not twelve independent experiments merely because rays drawn from a selected common VP pass through those regions.",
+      "scope": "The empirical test is agreement with independently specified cues and residuals. The author video uses a shared directional probe.",
+      "sources": [
+        "S22",
+        "S23"
+      ],
+      "reopen_when": "Provide an endpoint or supporting-tangent inventory, residuals and leave-one-out or comparable checks."
+    },
+    {
+      "id": "F06",
+      "group": "Physical features and measurements",
+      "title": "Original scan and image processing",
+      "status": "open_verification",
+      "finding": "The original 6144 by 4348 TIFF remains unavailable in the recovered files. Dalleur's displayed excerpts disclose denoising and contrast adjustment; a processing artifact has not been demonstrated.",
+      "scope": "The available public copy is 1669 by 1181. Enlargement adds no detail. Missing access is not evidence that the original result is wrong.",
+      "sources": [
+        "S02",
+        "S06",
+        "S22"
+      ],
+      "reopen_when": "Obtain the archival scan and compare physical feature selection before and after processing."
+    },
+    {
+      "id": "L01",
+      "group": "Lighting and drying",
+      "title": "Grant mixed light simulation",
+      "status": "modeled_only",
+      "finding": "Grant's toy scene reportedly gives a 15 to 20 degree apparent reconstruction error when bright overhead illumination changes the selected hat boundary despite a 42 degree Sun. It demonstrates a relevant possible failure mode.",
+      "scope": "No scene file was independently rerun here. It does not establish a full D115 fit; the later comment corrects pitch to 4 degrees.",
+      "sources": [
+        "S03",
+        "S15",
+        "S20"
+      ],
+      "reopen_when": "Recover and test the simulation against the actual correctly identified hat, stone and remaining cues together."
+    },
+    {
+      "id": "L02",
+      "group": "Lighting and drying",
+      "title": "Cloud countermodel outcome",
+      "status": "settled_defense",
+      "finding": "The ordinary sunlight and cloud model was not sustained as a better explanation of the complete photographic and historical combination. Dalleur's retained-contour reply remains substantive.",
+      "scope": "F-04 records this tested outcome, not a proof that every ordinary lighting mechanism is impossible.",
+      "sources": [
+        "S03",
+        "S20",
+        "S21"
+      ],
+      "reopen_when": "Supply a developed fit that addresses the relevant cues and the scope of the combined claim."
+    },
+    {
+      "id": "L03",
+      "group": "Lighting and drying",
+      "title": "Fill light and geometric occlusion",
+      "status": "supported",
+      "finding": "Adding fill light changes contrast and can produce misleading apparent boundaries. It does not relocate the unchanged direct source's actual geometric occlusion boundary.",
+      "scope": "The issue is whether D115's selected boundaries are the physical direct-source contours claimed, not whether clouds can move solar rays arbitrarily.",
+      "sources": [
+        "S13",
+        "S15",
+        "S20"
+      ],
+      "reopen_when": "Identify which actual boundaries are being replaced and demonstrate their illumination model."
+    },
+    {
+      "id": "L04",
+      "group": "Lighting and drying",
+      "title": "Near contact shadow sharpness",
+      "status": "supported",
+      "finding": "Shadow sharpness alone does not uniquely prove a small angular source; penumbra also depends on separation between caster and receiver.",
+      "scope": "This general optical fact does not refute the complete multiple-feature reconstruction. Its isolated contact-shadow criticism was not sustained as that refutation.",
+      "sources": [
+        "S13",
+        "S22"
+      ],
+      "reopen_when": "Fit a specified extended source to the actual cue set rather than only a generic contact example."
+    },
+    {
+      "id": "L05",
+      "group": "Lighting and drying",
+      "title": "The second source is not a second miraculous orb",
+      "status": "correction",
+      "finding": "Dalleur identifies LSb as probably a bright cloud. Bradley's description of two extraordinary floating orbs misrepresents that proposal.",
+      "scope": "Whether every proposed two-source cue is uniquely interpreted remains an empirical matter.",
+      "sources": [
+        "S01",
+        "S23"
+      ],
+      "reopen_when": "Quote and test the actual two-source interpretation rather than the corrected paraphrase."
+    },
+    {
+      "id": "L06",
+      "group": "Lighting and drying",
+      "title": "Garment patterns and infrared power",
+      "status": "supported",
+      "finding": "The tonal boundaries follow clothing-related regions and are worth assessing alongside rain and drying testimony. A monochrome exposure does not independently measure moisture, elapsed drying time or infrared power.",
+      "scope": "The photographic thermal interpretation and the angular reconstruction are related but separate claims.",
+      "sources": [
+        "S05",
+        "S06",
+        "S15"
+      ],
+      "reopen_when": "Supply calibrated material, timing or spectral evidence that discriminates the competing interpretations."
+    },
+    {
+      "id": "L07",
+      "group": "Lighting and drying",
+      "title": "Photochemical defect alternative",
+      "status": "modeled_only",
+      "finding": "A photographic-development defect has been proposed for clothing tones, but no specific demonstrated defect explains the relevant pattern in this record.",
+      "scope": "Lack of a demonstrated defect does not turn a photograph into a calibrated moisture or energy measurement.",
+      "sources": [
+        "S03",
+        "S15",
+        "S20"
+      ],
+      "reopen_when": "Demonstrate the proposed mechanism on the actual material or a sufficiently matched photographic process."
+    },
+    {
+      "id": "R01",
+      "group": "Context and literature",
+      "title": "The western visibility quotation",
+      "status": "correction",
+      "finding": "The quoted western-invisibility possibility concerns a separate Italian event in Muse's discussion, not Dalleur proposing western invisibility at Fatima. His Fatima map includes western observers.",
+      "scope": "Correcting the attribution does not independently validate every witness bearing or the Italian event.",
+      "sources": [
+        "S01",
+        "S03",
+        "S23"
+      ],
+      "reopen_when": "Use a source that actually makes the disputed claim about Fatima."
+    },
+    {
+      "id": "R02",
+      "group": "Context and literature",
+      "title": "Distant evidence and exact geographic localization",
+      "status": "correction",
+      "finding": "The distant accounts remain evidence of reported phenomena outside the Cova, including the discriminating Minde direction. They do not supply independent crossing bearings establishing the exact emitter location south of the Cova.",
+      "scope": "F-06 records a closed unscored source-claim correction. Daniel did not adopt that map location as a premise. D115's angular argument was held fixed.",
+      "sources": [
+        "S16",
+        "S21"
+      ],
+      "reopen_when": "Recover actual observer stations and sufficiently specific original bearings or elevations."
+    },
+    {
+      "id": "R03",
+      "group": "Context and literature",
+      "title": "Physical corroboration and visual perception",
+      "status": "supported",
+      "finding": "If a physical non-solar illumination direction is reliably established, retinal effects or expectation cannot explain that direction on the plate. Its agreement with descent testimony and advance prediction carries cumulative relevance.",
+      "scope": "Non-solar illumination alone does not identify supernatural agency; an ordinary alternative still needs case-specific support.",
+      "sources": [
+        "S05",
+        "S15",
+        "S23"
+      ],
+      "reopen_when": "Address the physical inference and the historical combination at their actual respective scopes."
+    },
+    {
+      "id": "R04",
+      "group": "Context and literature",
+      "title": "Credentials journal and dishonesty allegations",
+      "status": "supported",
+      "finding": "Dalleur's applied-science and philosophy doctorates and relevant engineering work were checked against his official biography. The paper is published in an interdisciplinary journal; no knowing deception or absence of peer review was established.",
+      "scope": "Credentials and publication do not independently prove a particular measurement or disclose the anonymous reviewers' expertise.",
+      "sources": [
+        "S20",
+        "S22",
+        "S23"
+      ],
+      "reopen_when": "Use documentary evidence of the particular allegation or a technical error, not personal rhetoric."
+    },
+    {
+      "id": "R05",
+      "group": "Context and literature",
+      "title": "Formal rebuttals and independent replication",
+      "status": "bounded_search",
+      "finding": "The documented searches did not locate a peer-reviewed technical refutation or a complete independent D115 reconstruction. Informal technical arguments remain eligible for evaluation.",
+      "scope": "OpenAlex returns two citing records, one a journal-issue record. Neither citation count nor favorable contextual discussion establishes optical consensus or replication.",
+      "sources": [
+        "S15"
+      ],
+      "reopen_when": "Locate a relevant completed work and evaluate its actual calculation and evidence."
+    },
+    {
+      "id": "R06",
+      "group": "Context and literature",
+      "title": "Complete Muse response retained",
+      "status": "reproduced",
+      "finding": "The full approximately 90 minute Muse and Bertuzzi response to Bradley was retrieved and completely reread. Timestamped coverage includes focal bounds, distortion, real controls, feature tangency, representations and Catholic context.",
+      "scope": "Automatic captions are not audio-verified verbatim testimony. Future period tests announced there are not counted as completed results.",
+      "sources": [
+        "S04",
+        "S23"
+      ],
+      "reopen_when": "Check the linked passage before asserting Muse omitted an issue he addresses."
+    },
+    {
+      "id": "R07",
+      "group": "Context and literature",
+      "title": "Message credibility is a separate linked argument",
+      "status": "supported",
+      "finding": "Muse argues that authenticating the apparitions supports Lúcia's credibility and the Catholic message, including content from early interrogations. This must remain connected to the historical case rather than treating the photo as an isolated unexplained patch.",
+      "scope": "The early secrets and death-prediction chronology are preserved separately under F-07 research, not counted as new optical measurements.",
+      "sources": [
+        "S23",
+        "S25",
+        "S21"
+      ],
+      "reopen_when": "Identify the exact historical or theological premise at issue and consult its own source audit."
+    }
+  ],
+  "change_history": [
+    {
+      "date": "2026-11-11",
+      "version": 1,
+      "change": "Consolidated existing dated audits, explicit F-04 adjudications, later source-claim corrections and numerical checks into stable component IDs. No original dialogue edits or tally changes.",
+      "score_change": 0
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+[
+  {
+    "id": "CUM-01",
+    "claim": "An unsupported numerical model cannot establish a beyond-reasonable-doubt posterior",
+    "status": "established modeling limitation, already acknowledged; not new event rebuttal",
+    "evidence": "Local probability validation and refinement audits; likelihood assignments not derived from sources",
+    "scope": "Do not count this as evidence against the events or rescore the tally"
+  },
+  {
+    "id": "CUM-02",
+    "claim": "Later evidence must update a shared interventionist worldview rather than reset each case to the same prior",
+    "status": "user correction retained; cannot be challenged by multiplying unconditional case probabilities",
+    "scope": "Any joint model must represent event-level dependence and avoid reusing the same evidence"
+  },
+  {
+    "id": "CUM-03",
+    "claim": "Church approval itself guarantees historically demonstrated divine origin",
+    "status": "primary doctrinal qualification; not an objection to the user's independent evidence",
+    "evidence": "CDF Ratzinger Fatima commentary 2000; DDF norms 2024 distinguish prudential approval and supernatural certainty",
+    "scope": "Does not refute Fatima or overturn older approvals; does not alone rebut conditional institutional-authentication argument"
+  },
+  {
+    "id": "CUM-04",
+    "claim": "Palmar de Troya supplies a relevant rival sign/message bundle",
+    "status": "new comparative lead, not established evidence-equivalent counterexample",
+    "evidence": "Lundberg 2020 pp19-20 (PDF25-26); William A Christian Zainak18 (1999) pp74-75; El Diario Palentino20Aug1969, Cifra/Ana Aldaz report",
+    "strongest_reply": "Events began within Roman Catholic culture; later schism does not prove every original event false. No recovered equivalent hostile first-person immediate solar reportage, full-body photo geometry, or multi-month specific fulfilled prediction. Do not describe this as the Fatima of another world religion."
+  },
+  {
+    "id": "CUM-05",
+    "claim": "A growing list of unsupported ordinary mechanisms constitutes positive refutation",
+    "status": "rejected method",
+    "scope": "Mechanism must fit the retained observations; partial fit can narrow claims but cannot silently become full explanation"
+  },
+  {
+    "id": "CUM-06",
+    "claim": "A failed specific objection establishes that the full supernatural conclusion is true",
+    "status": "scope distinction; repeated methodological point, not newly discovered counterevidence",
+    "scope": "Retain the actual win; identify which causal uncertainty was reduced and why. No numerical bonus per tally entry."
+  }
+]

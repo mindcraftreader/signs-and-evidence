@@ -1,0 +1,17 @@
+{
+  "date": "2026-11-11",
+  "main_score": "17–0",
+  "open_ids": [
+    "P-01",
+    "C-03"
+  ],
+  "mirror_checks": {
+    "live-debate-tally.json": true,
+    "live-debate-tally.txt": true,
+    "scoreboard.txt": true,
+    "scoreboard.html": true
+  },
+  "framework_mirrors_match": true,
+  "canonical_outcomes_reversed": false,
+  "new_scored_points": 0
+}

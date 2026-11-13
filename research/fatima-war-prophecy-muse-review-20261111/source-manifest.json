@@ -1,0 +1,37 @@
+{
+  "date": "2026-11-11",
+  "files": [
+    {
+      "path": "research/fatima-dalleur-muse-transcripts-20261102/working-transcripts/V5U7d47iBAo.txt",
+      "sha256": "b3db2c64a016067405829bae6723eb35c0137c4631ff8be3025fa692bb3bf72d"
+    },
+    {
+      "path": "research/fatima-dalleur-muse-transcripts-20261102/working-transcripts/8yln9fuDMRQ.txt",
+      "sha256": "71f23aa09c0af88d5a7b2ed4cafd4791aeddf3b268c4b3133b589c0f60068fce"
+    },
+    {
+      "path": "research/fatima-dalleur-muse-transcripts-20261102/working-transcripts/tp1ivUSSz2s.txt",
+      "sha256": "490ac3c3b717945f34ecabcb2e961b4108b13c86c119869696bc3f091af6899f"
+    },
+    {
+      "path": "research/fatima-distant-witnesses-20261027/sources/dcf-selecao-2013.pdf",
+      "sha256": "3096132c8bb20f01d91ac5a89ab728b7bf59d757636831e8075872186393ea18"
+    },
+    {
+      "path": "research/fatima-muse-8yln9fuDMRQ-20261028/october13-portuguese-and-manuscript-audit.txt",
+      "sha256": "7acf0e28fafdacd4d86fa8fd7ead372ac47157c0015ed028c9caaacdc6475968"
+    }
+  ],
+  "reviewed_video_ranges": {
+    "V5U7d47iBAo": "00:40:02–00:49:50",
+    "8yln9fuDMRQ": "01:04:02–01:14:20 (later world-ending segment already covered in prior notes)",
+    "tp1ivUSSz2s": "01:44:45–01:51:25"
+  },
+  "primary_doc_locators": [
+    "DCF selection Doc.18 printed100–104",
+    "Doc.30 printed153",
+    "Doc.65 printed234",
+    "1924 interrogation printed321"
+  ],
+  "status": "F-01 HIGH confidence adopted; no tally point added."
+}

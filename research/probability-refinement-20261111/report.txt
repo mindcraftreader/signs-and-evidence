@@ -1,0 +1,156 @@
+PROBABILITY REFINEMENT — 11 NOVEMBER 2026
+
+STATUS
+Completed: numerical audit, threshold calculations, upgrade-to-input mapping,
+and a specification for the next elicitation. Not completed: replacement
+probability judgments justified against the full causal record.
+No new preferred historical posterior is asserted. Existing tally remains 16–0,
+with all 16 scored dispositions rated high. Old conversation and model preserved.
+
+TARGET
+H = at least one authentic Christian intervention among Fatima, Zeitoun,
+Lourdes and Pio. This does not mean all three Marian events are true, and it
+does not specifically require any Marian event to be true (Pio alone qualifies).
+The old four states cannot recover the probability of any/all Marian events.
+That requires event-level joint states. Do not relabel the old 94.3% result.
+
+REPRODUCED BASELINE
+Prior H: 15%; resulting H: 94.260975%.
+Implied evidence ratio H versus not-H: 93.072528:1, under the archived inputs
+and the archived within-H / within-not-H prior mixture weights.
+O (ordinary throughout): 2.990115%
+X (some supernatural, no authentic Christian intervention): 2.748909%
+C (Christian intervention without the proposed endorsement): 30.678227%
+V (Christian intervention with the proposed endorsement): 63.582748%
+C+V: 94.260975%
+These numbers reproduce subjective assignments, not calibrated frequencies.
+
+THRESHOLDS, RETAINING THE ARCHIVED BASELINE
+Target H | Total evidence ratio required at 15% prior | Additional odds multiplier
+90.0% | 51.000:1 | 0.548
+95.0% | 107.667:1 | 1.157
+99.0% | 561.000:1 | 6.028
+99.9% | 5661.000:1 | 60.824
+
+The additional multiplier must come from evidence not already incorporated,
+or a reasoned correction to previous likelihoods. It is not a target to fit.
+For 90%, the multiplier is below one because the archived central scenario
+already exceeds 90%. None of these is a legally mandated threshold.
+
+WHAT CHANGES WHEN ONLY ORDINARY EXPLANATIONS LOSE WEIGHT?
+Keep Christian and other-supernatural likelihoods fixed. Scale only O's
+unnormalized weight, then renormalize. This is an illustrative update, not
+an asserted measured effect of the three upgrades.
+O likelihood retained | H after update
+100% | 94.261%
+75% | 94.971%
+50% | 95.692%
+25% | 96.423%
+0% | 97.166%
+
+Even assigning O zero likelihood leaves H about 97.2% in this restricted
+exercise. That is not a real-world upper bound: X's old likelihood is also
+unvalidated. Religious identity and comparative evidence bear on X and need
+explicit reassessment. Do not secretly retain a fixed 'unknown cause' reserve.
+
+THREE UPGRADES: WHAT WAS ACTUALLY CHANGED?
+F-01, failed war prophecy: high confidence in withdrawing the objection as
+presented. The old numerical model has no separate failed-prophecy penalty.
+The Nov 11 review adds a documentary synthesis of early conditional wording
+and conflicting accounts. Map to transmission/credibility and the precise
+authentication claim, rather than automatically increasing CF1's probability
+that an advance announcement existed. Do not turn lack of disproof of a
+conditional prophecy into independent fulfillment evidence. Next judgment:
+what, if any, residual numerical penalty was included and what source now
+changes it? No supported numeric delta has been found.
+
+Z-02, one-pane Pepper's Ghost: map to ordinary mechanism composition within
+Zeitoun, principally CZ2. The physical audit predates the numerical model.
+Its withdrawal was therefore available at the original elicitation; the
+Nov 11 confidence label alone is not new physical evidence. The actual site
+model's limitations are preserved, without reopening the withdrawn claim.
+The old model never disclosed how much of O's Zeitoun likelihood came from
+this particular mechanism. That share must be elicited before removing it.
+
+P-04, core stigmata: map to CP1's causal likelihoods and observation model.
+The Oct 28 consolidated medical audit predates the numerical model. The
+old model already says chemical access is not proof of manufacture and no
+ordinary cause has been demonstrated. The high grade strengthens confidence
+in the withdrawn challenges; it is not new histology or a measured wound
+base rate. Reassess CP1 on the whole medical chronology if its old numerical
+assignments underweight that chronology. No numerical upgrade by label.
+
+F-07, children's sincerity, is also relevant although not one of the three
+moderate upgrades. Its source material predates its scoring. The old model
+compressed sincerity and the prediction/message connection. Restore those
+observations in a joint Fatima bundle without multiplying the same witnesses
+again. Sincerity weakens deliberate-fabrication branches more directly than
+it weakens every possible perception or transmission error.
+
+HOW A FAILED MECHANISM CAN UPDATE THE MODEL
+Suppose, after the old evidence, a particular mechanism carries fraction w
+of O's weight. Suppose a genuinely additional test is r times as likely
+under that mechanism as under the retained other states. If its likelihood
+is equal for those other states, O is scaled by k=1-w*(1-r). This equality
+is an explicit simplifying assumption, not guaranteed by a withdrawal.
+The grade 'high' supplies neither w nor r. Re-evaluating evidence already
+included should revise the original likelihood, not append a second test.
+
+MOST CONSEQUENTIAL REPAIR
+The archived CF2 sets the ordinary probability of its coarse Fatima event
+proposition to 0.55. That is not an empirical rate for the full combination
+of advance prediction, reported motion/descent, contemporary press, regional
+testimony and photo reconstruction. The old CF4 false-report parameter 0.18
+is not derived from Dalleur's controls. Neither number is validated.
+The alternatives and religious hypothesis both need predictive specification.
+'God can do it' is not a numerical probability that this particular record
+would occur, just as 'ordinary causes can exist' is not its ordinary rate.
+Record a direct, reasoned comparison of the joint observed dossier under
+the specified hypotheses; do not require repeatable frequencies as the only
+possible basis for a subjective judgment.
+
+DEPENDENCE AND SCOPE
+No independent multiplier for 16 wins or 8 comparator dispositions. C-01
+is within C-02's comparative discussion. Repeated publications of one
+witness do not add independent witnesses. Distinct evidence in a shared
+document can still add information. The comparative finding is a bounded
+search result, including provisional Putuo, not a perfect worldwide census.
+The shared Christian identity is evidence to assess jointly, not an automatic
+reason to discard cross-case corroboration. If this evidence updates a
+shared Christian-worldview prior, do not add that same update a second time.
+
+ENDORSEMENT
+The 100% lockstep link remains an explicitly conditional user premise.
+It reproduces 94.3% for endorsement from H but is not independently fitted.
+The old H includes Zeitoun-only or Pio-only configurations, which are not
+distinguished by the four-state model. Event-level structure is necessary
+for more precise institutional and Marian targets. No new endorsement
+discount is introduced in this audit.
+
+NEXT ELICITATION
+Start with the dated Fatima prediction-and-public-event bundle, including
+credibility and source transmission. Freeze the evidence packet. State what
+each hypothesis predicts, document a lower/central/upper conditional judgment
+and why, and perform sensitivity before selecting a preferred estimate.
+Then regional and photographic evidence conditional on that packet; then
+Zeitoun, Lourdes, Pio and the bounded comparative search with explicit
+cross-case dependencies. No arbitrary uplift merely to meet 95% or 99.9%.
+
+PROVENANCE / COVERAGE
+Read: old model, validation audit, core ledger, current scoreboard,
+Nov 11 Muse/war-prophecy review, Nov 7 one-pane physical audit; reviewed
+the assessment and relevant sections of the consolidated Pio medical audit.
+This pass did not reread every underlying primary document or perform new
+photo/medical experiments. New results are mathematical sensitivity results.
+All three original model inputs are snapshotted and SHA256 recorded.
+Run python3 audit.py to reproduce results.json and this report.
+
+METHODOLOGICAL REFERENCES
+University of Sheffield statisticians Tony O'Hagan and Jeremy Oakley:
+SHELF allows structured judgment under sparse data. This audit is not a
+completed SHELF expert elicitation.
+https://shelf.sites.sheffield.ac.uk/
+NIST researchers Hariharan Iyer and Steven Lund: likelihood-ratio assessments
+need explicit uncertainty about their assumptions.
+https://www.nist.gov/publications/likelihood-ratio-weight-forensic-evidence-closer-look
+These references support modeling procedure, not a probability of a miracle.

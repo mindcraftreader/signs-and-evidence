@@ -1,0 +1,93 @@
+{
+  "date": "2026-11-11",
+  "case": "Zeitoun",
+  "candidate_count": 8,
+  "new_material_core_defeaters": 0,
+  "closed_challenges_preserved": [
+    "Z-01",
+    "Z-02"
+  ],
+  "no_tally_changes": true,
+  "candidates": [
+    {
+      "id": "ZAC-01",
+      "candidate": "Photographic authentication and independence",
+      "claim_touched": "Independent camera support for resolved woman/gestures",
+      "best_evidence": "Contemporary Al-Ahram caption versus unnamed Watani rejection; explicitly drawn Shenouda picture; reported Miller bird retouching",
+      "strongest_reply": "Photos are supplementary; named early testimony survives",
+      "disposition": "bounded_survives_not_new_core_defeater",
+      "report_locator": "Deep check1; source IDs S01,S02,S03,S04,S05",
+      "novel_core_defeater": false
+    },
+    {
+      "id": "ZAC-02",
+      "candidate": "Political censorship and hostile-state inference",
+      "claim_touched": "Institutional attestation as an adversarial independent control",
+      "best_evidence": "New Shalaby original; prior Ghazali; traced official report chains",
+      "strongest_reply": "Political amplification can coexist with a real sighting; named Muslims still testify",
+      "disposition": "bounded_survives_unverified_censorship_no_hoax",
+      "report_locator": "Deep check2; S06,S07,S08,S09,S10",
+      "novel_core_defeater": false
+    },
+    {
+      "id": "ZAC-03",
+      "candidate": "Tectonic strain and field-induced perception",
+      "claim_touched": "Ordinary cause for shared light plus richer woman perceptions",
+      "best_evidence": "Actual published monthly0.56 correlation; no full paper acquired",
+      "strongest_reply": "No demonstrated roof localization, measured fields or duration/gesture fit",
+      "disposition": "not_established_access_limited",
+      "report_locator": "Deep check3; S03,S11",
+      "novel_core_defeater": false
+    },
+    {
+      "id": "ZAC-04",
+      "candidate": "St Elmo atmospheric discharge",
+      "claim_touched": "Ordinary luminous source above church",
+      "best_evidence": "al-Fandi proposal reproduced in Ghazali; no site measurements",
+      "strongest_reply": "An electrical glow does not itself fit prolonged moving woman",
+      "disposition": "not_established",
+      "report_locator": "Deep check3; S07",
+      "novel_core_defeater": false
+    },
+    {
+      "id": "ZAC-05",
+      "candidate": "Same-episode divergent perception",
+      "claim_touched": "Uniform external human form",
+      "best_evidence": "Watani5Mayp2 twins report already audited",
+      "strongest_reply": "Indirect unnamed pair without measured sightlines; different prolonged episodes remain",
+      "disposition": "old_objection_not_reopened",
+      "report_locator": "Remaining candidates; S02",
+      "novel_core_defeater": false
+    },
+    {
+      "id": "ZAC-06",
+      "candidate": "Recurrence and late chronology",
+      "claim_touched": "Repeated recognizable figures beyond first cluster",
+      "best_evidence": "Existing recurrence review distinguishes lights/nights/retellings",
+      "strongest_reply": "Conservative separate-night figure reports survive; exact90/1971 endpoint not core",
+      "disposition": "old_objection_not_reopened",
+      "report_locator": "Remaining candidates; S12",
+      "novel_core_defeater": false
+    },
+    {
+      "id": "ZAC-07",
+      "candidate": "No authenticated moving-figure film recovered",
+      "claim_touched": "Independent motion-record corroboration",
+      "best_evidence": "AP contemporary film and9MayTV describe site/witness/photo coverage",
+      "strongest_reply": "No dated failed camera comparison during strongest figure episode",
+      "disposition": "bounded_existing_limit_not_counterevidence",
+      "report_locator": "Remaining candidates; S13",
+      "novel_core_defeater": false
+    },
+    {
+      "id": "ZAC-08",
+      "candidate": "Identity and doctrinal authentication",
+      "claim_touched": "Mary/religious significance rather than unexplained light alone",
+      "best_evidence": "No public verbal doctrinal message; context supplies identity",
+      "strongest_reply": "Church/cross gestures and figure supply positive context; core does not authenticate every institutional proposition",
+      "disposition": "no_new_substantive_contradiction",
+      "report_locator": "Remaining candidates; S14",
+      "novel_core_defeater": false
+    }
+  ]
+}

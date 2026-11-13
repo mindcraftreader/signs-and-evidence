@@ -1,0 +1,26 @@
+{
+  "assumptions": {
+    "latitude_degrees": 39.63,
+    "granted_maximum_elevation_degrees": 42.72,
+    "implied_solar_declination_degrees": -7.649999999999999,
+    "solar_noon_local": "13:21:04",
+    "scope": "conditional spherical calculation, not independent historical calibration"
+  },
+  "results": [
+    {
+      "elevation_degrees": 25,
+      "hours_from_solar_noon": 3.221742179797157,
+      "afternoon_azimuth_degrees": 234.768072025189
+    },
+    {
+      "elevation_degrees": 28.24,
+      "hours_from_solar_noon": 2.868030568538747,
+      "afternoon_azimuth_degrees": 230.13399172155306
+    },
+    {
+      "elevation_degrees": 32,
+      "hours_from_solar_noon": 2.4230175073953317,
+      "afternoon_azimuth_degrees": 223.83785081865966
+    }
+  ]
+}

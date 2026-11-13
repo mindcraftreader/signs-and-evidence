@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-12",
+  "html_links_checked": 113,
+  "source_image_hash_verified_unchanged": true,
+  "source_image_sha256": "e95a29699a442b2a6214e4dbd4bce67417f93a8ac5cfd02fa5ef5a959be44a5e",
+  "mathematical_identity_checks_passed": true,
+  "raw_primary_fit_reproduced": true,
+  "summary_figure_visually_inspected": true,
+  "source_paths_valid_in_both_libraries": true,
+  "original_and_mirror_equal": true,
+  "history_episodes": 18,
+  "explicit_closing_decisions_unchanged": 5,
+  "tally_change": 0,
+  "independent_physical_shadow_correspondence_verified": false,
+  "files": {
+    "hat-grid.png": "e15eb5b03117047cfd1d2e70d2fab5813fc05b21d8615763295249e32d65967f",
+    "left-stone-grid.png": "20a7e52c3b7becc4a50bc7dffac31d605bd703e899cf3d3b28595741e4444cf8",
+    "register_figure.py": "5e16065e03c4feff2c25da735b938e01222b169e2ef05203fae4dfa4a30a8bf3",
+    "shadow_check.py": "51b9ae7a8a4fa8695fcfff8e672972d02e9566d20bd551a4be2d798a327cdebf",
+    "figure-registration.json": "af022bca24e664dda994d164c2692a70cf8fc30e97b187df870561f4a3e0255d",
+    "hand-grid.png": "d34421978841fee78695cfea5b514f88b5e7d9123262ee6ee23d9608aa37aec2",
+    "stone-grid.png": "d205975d7e2dec9e709ba1e9a40e1ccdc4fe62e2d5068ec2dc03ab52021c1845",
+    "report.txt": "3d2e9e7b8bd4ae02e41e5847413a8292c1f7ab935011c93263363f7e236c59a6",
+    "registered-paper-cues.png": "46c4db6cefa8bddde2f627db1c4af2f6ce9da9679186373adf918bf83626d704",
+    "shadow-results.json": "5af370afd92dd8c74c7b48c960c37829125ecd97f1e3419779018cfc5565a50d",
+    "figure9-000.png": "e11b29ced7827c2bdc723dad31cc63f54081964d54d42d3f3a69da6df49a09a0",
+    "raw-edge-points.csv": "b58892350bc5f92044ae5e6d04cff54a69b04976497c377697dad4348463a98f",
+    "finger-hat-grid.png": "1de027b92a316a97501edb457f34a714ae95e0f52790a4b4ab25e36e187436e7",
+    "shadow-check-summary.png": "afa8ab9a19fd67045e033f3c901d4220c5c309d0a800337aff13b0487bf533a1"
+  }
+}

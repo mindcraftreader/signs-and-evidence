@@ -1,0 +1,9 @@
+{
+  "updated": "2026-11-12",
+  "master_version_unchanged": 1,
+  "latest_check": "../fatima-shadow-check-20261112/report.txt",
+  "machine_results": "../fatima-shadow-check-20261112/shadow-results.json",
+  "history": "../fatima-photo-challenge-history-20261112/index.html",
+  "history_episode": "PH-18",
+  "scope": "New measured boundary fits and conditional source-plane caps; physical correspondence and camera calibration not independently authenticated. No change to the master component dispositions or tally."
+}

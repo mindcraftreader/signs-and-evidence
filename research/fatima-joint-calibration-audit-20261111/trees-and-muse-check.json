@@ -1,0 +1,84 @@
+{
+  "date": "2026-11-11",
+  "source_image": "research/fatima-independent-photo-audit-20261102/sources/D115-commons.jpg",
+  "image_sha256": "e95a29699a442b2a6214e4dbd4bce67417f93a8ac5cfd02fa5ef5a959be44a5e",
+  "inspection_regions": {
+    "D115_background_crown": {
+      "box_px": [
+        770,
+        155,
+        1045,
+        355
+      ],
+      "observation": "A broad leafy crown is visible behind people. Base and most trunk are occluded. No independently known height, distance, trunk vertical or verified cross-photo match recovered."
+    },
+    "D115_left_background": {
+      "box_px": [
+        220,
+        175,
+        760,
+        375
+      ],
+      "observation": "Distant tree/vegetation boundary mixed with crowd silhouettes; not a measured geometric horizon."
+    },
+    "D115_right_background": {
+      "box_px": [
+        1440,
+        230,
+        1669,
+        365
+      ],
+      "observation": "Crown silhouettes behind foreground people. Bases and full isolated trunks not resolved."
+    }
+  },
+  "other_images_inspected": "Existing contact sheet of shrine D110,D113,D114,D115,D116,D118; low-resolution public files ~600x425, no accepted cross-view tree matches measured.",
+  "muse_video": "https://www.youtube.com/watch?v=GZZ3H-ExWMc",
+  "muse_relevant_ranges": {
+    "40:17\u201342:42": "Field of view/focal interval and head appearance near edges, including other series photographs",
+    "42:52\u201344:18": "Thread verticality gives asserted33\u201339mm equivalent range,37mm best",
+    "44:22\u201345:12": "Period practice asserted to favor44mm equivalent",
+    "50:24\u201353:21": "Straight staffs and distributed shadow convergence versus radial distortion",
+    "53:52\u201355:10": "Claimed newspaper lens inventory / period equipment likelihood"
+  },
+  "source_access": "Read selected locally saved timestamped automatic captions; live YouTube tool fetch failed. Live article sections checked. Audio not newly replayed.",
+  "manual_inspection_points": {
+    "left_boy_head": [
+      170,
+      110
+    ],
+    "right_man_head": [
+      1270,
+      200
+    ],
+    "right_woman_headscarf": [
+      1400,
+      240
+    ],
+    "central_tree_crown": [
+      900,
+      240
+    ]
+  },
+  "model_ray_obliquity_deg": {
+    "baseline": {
+      "left_boy_head": 24.997922444083517,
+      "right_man_head": 18.138356442130334,
+      "right_woman_headscarf": 20.676431365502154,
+      "central_tree_crown": 10.62707764841522
+    },
+    "counter_calibration": {
+      "left_boy_head": 32.73157987719051,
+      "right_man_head": 37.62159289911165,
+      "right_woman_headscarf": 42.374768849272535,
+      "central_tree_crown": 18.71917875717399
+    }
+  },
+  "not_claimed": [
+    "No calibrated tree heights or distances",
+    "No independently fitted focal-length interval from tree crowns",
+    "No measured anatomical head-model residuals",
+    "No located direct Muse answer to this newly generated paired-VP calibration",
+    "No proof that preserving projected verticals reproduces whole-scene perspective",
+    "No new ordinary-solar historical reconstruction or tally change"
+  ]
+}

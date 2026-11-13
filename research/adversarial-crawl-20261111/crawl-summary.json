@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-11",
+  "candidate_families": {
+    "fatima": 10,
+    "zeitoun": 8,
+    "clinical": 9,
+    "cumulative": 6,
+    "comparative": 8
+  },
+  "source_records": {
+    "fatima": 20,
+    "zeitoun": 16,
+    "clinical": 17,
+    "cumulative": 5,
+    "comparative": 8
+  },
+  "counts_are_not_independent_trials": true,
+  "first_live_challenge": "Micheli treatment history: unscored existing unresolved source collision",
+  "new_core_case_defeat_established": false,
+  "tally_changed": false,
+  "probability_reestimated": false,
+  "total_candidate_families": 41,
+  "total_source_records": 66,
+  "all_assigned_crawls_complete": true
+}

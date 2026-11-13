@@ -1,0 +1,273 @@
+D115 SHADOWS: DALLEUR, MUSE AND THE COUNTERARGUMENTS
+11 November 2026
+
+ASSESSMENT
+
+The ray-convergence method has a legitimate geometrical basis. Dalleur's
+principal angular calculation reproduces under his published assumptions.
+Known-source examples support the practical method. No reviewed critique
+establishes a full ordinary-solar fit to D115's retained features and scene
+constraints. The evidence should not be dismissed as an optical impossibility
+or given zero weight because it is disputed.
+
+The narrower conclusion is conditional: the selected features and camera
+calibration imply a low source. The true angular elevation is not established
+merely by rerunning those inputs. Neither the critiques nor this review supply
+a complete independent remeasurement of the original 6K source. The strongest
+remaining issues are feature correspondence and joint camera calibration,
+not a demonstrated arithmetic failure or a completed historical alternative.
+
+SCOPE OF THIS PASS
+
+Freshly visually inspected the unannotated public D115 reproduction, preserved
+hat and stone crops, and newly rendered complete paper pages 31-34 (PDF pages
+23-26). Reread the associated geometry and focal-length table, current Muse
+written defense section 3, Grant's freshly downloaded full photogrammetry
+section and update, Ray's full relevant critique, Dalleur's worked examples,
+and selected archived Muse/Bradley-response and Fodor caption passages.
+Caption readings are not checked verbatim audio or fresh full video reviews.
+Retained earlier, explicitly identified primary optical and equipment audits.
+No fresh claim to have read every page of every cited book or paper.
+
+The exact proposition tested is whether object-shadow cues in D115 exclude
+ordinary solar illumination near solar noon. This is distinct from the
+advance prediction, eyewitness movement reports, agent identification, and
+the cumulative historical case. They are not discarded by this narrower test.
+
+1. WHAT THE PHOTOGRAPH CONTRIBUTES
+
+The crown/brim region contains a visible dark band. The foreground stones
+have real occlusion/shadow structure, and small hand, stick and clothing
+features are visible. These are not just annotations without photographic
+counterparts. The unprocessed 1669x1181 public copy, however, does not let this
+reviewer uniquely assign every caster point to its receiving shadow point.
+An arbitrary dark contour, material edge or hat silhouette cannot simply be
+treated as a projected light ray.
+
+Dalleur's principal hat feature is the crown's shadow on the brim, not merely
+the depression inside the crown. Grant explicitly corrects his earlier
+misidentification. A critique aimed only at the wrong feature is inadequate.
+The published figure is denoised and contrast-adjusted; this is disclosed in
+its caption. That does not establish a processing artifact. Measurement on
+the raw scan would allow processing robustness to be checked directly.
+
+2. WHY THE GEOMETRY IS LEGITIMATE
+
+Bo Hu, Christopher Brown and Randal Nelson of the University of Rochester
+Computer Science Department, technical report TR810 (2004), distinguish the
+3D location of a finite light from its direction. Their supporting-line result
+supports recovering projected source direction from appropriate object/shadow
+contours. Their single-view limitation is not a blanket prohibition on source
+direction estimation. Metric conversion requires camera calibration.
+
+Consequently, these categorical criticisms fail: every receiver must be level;
+every object's complete 3D shape must be known; a photograph cannot supply
+any light-direction information because it loses a dimension. Nor is an
+arbitrary tangent sufficient: it must satisfy the physical correspondence
+or common-supporting-line condition.
+
+3. REPRODUCED CALCULATION AND FRESH TIMING CHECK
+
+With a=2.4207, e=-1.9927, h=0.31 and f=equivalent focal length/10,
+the paper's equation gives:
+
+Equivalent focal mm | source elevation | gap from adopted 42.72-degree Sun
+30                  | 31.8593          | 10.8607 degrees
+33                  | 30.2417          | 12.4783 degrees
+37                  | 28.2386          | 14.4814 degrees
+45                  | 24.7624          | 17.9576 degrees
+
+These are conditional reconstructions, not four independent measurements and
+not a statistical confidence interval. The final row differs about 0.01 degree
+from the printed table, an immaterial discrepancy already recorded earlier.
+
+New timing sensitivity: a fixed-declination calculation anchored to latitude
+39.6317 and Dalleur's 42.72-degree noon elevation gives changes of 0.127 degree
+at 15 minutes, 0.507 at 30 minutes and 1.997 at 60 minutes from solar noon.
+The actual Sun reaches 28.2386 degrees approximately 172.09 minutes before or
+after noon. Reaching the 30-mm estimate takes approximately 146.44 minutes.
+This is not an independent ephemeris or a new dating of D115; it establishes
+that a modest error around noon cannot alone close the reported gap.
+
+Script: checks.py. Full assumptions and numerical values: numerical-checks.json.
+
+4. VALIDATION: REAL SUPPORT, LIMITED ERROR CALIBRATION
+
+Dalleur's Castel Gandolfo example reports 17.07 versus astronomical 16.59
+degrees; another focal assumption gives 15.75, while a zero-roll variant gives
+16.93. Those absolute differences are 0.48, 0.84 and 0.34 degree. These are
+three configurations of ONE scene, not three independent controls.
+Saint Hubert reports 50.246 versus 50.82 degrees, a 0.574-degree difference.
+
+It is false to say the published validation consists only of CGI. The real
+examples support the implementation. But the Castel Gandolfo photo has a
+directly visible Sun/ray convergence, and the other example uses more rigid
+scene cues. These selected demonstrations do not estimate the probability
+of correctly identifying D115's faint boundaries. They are not a universal
+plus/minus-one-degree error bar or a blind matched historical-image dataset.
+An author-controlled demonstration remains useful without being independent
+replication. A large blind experiment is one way to strengthen confidence;
+defensible worst-case image/camera bounds could also do so.
+
+5. STRONGEST COUNTERARGUMENTS AND THEIR BEST REPLIES
+
+Mark Grant, self-described mathematics graduate student and former software
+developer (institution not independently verified): the short-baseline and
+uncertain-correspondence concerns are mathematically real. His current Google
+document is explicitly tentative, incomplete and partly outdated following
+Dalleur's replies. His proposed lapel lines are not a validated replacement
+for Dalleur's actual selected cues. His separate ground-shadow demonstration
+addresses a supplementary method, not the published main reconstruction.
+
+Grant's later toy rendering, described in Adelstein's debate review and its
+comments, is the strongest concrete lighting counterexample located. Bright
+overhead fill with an ordinary 42-degree Sun reportedly yields a misleading
+hat-boundary estimate displaced by 15-20 degrees. This is a useful failure-mode
+demonstration, not a complete D115 reconstruction. This pass did not obtain
+its scene file or independently verify the quoted error. The comments correct
+the camera pitch to 4 degrees, superseding an earlier recalled 5 degrees.
+
+Muse's section 3, quoting Dalleur's response, argues the simulation loses the
+distinct contours retained in D115 and does not fit the hat, stick/hand and
+stone cues together. That is substantive. Adding fill illumination changes
+contrast; it does not physically relocate an unchanged direct source's
+geometric occlusion boundary. It can produce a different apparent boundary
+that is mistakenly traced. Resolving which happens in D115 requires feature
+identification, rather than simply invoking either clouds or sharpness.
+
+Georgia Ray, independent biosecurity researcher: identifies accessibility and
+feature/calibration issues, but explicitly does not replicate the mathematics.
+Her requirement of level receivers does not apply generally to this method.
+Her alternative interpretations of stone shadows and handle highlights are
+possibilities, not measured substitute fits. Her general expectation of enough
+error to bridge the discrepancy is not a quantitative demonstration.
+
+James Fodor, whose Melbourne institutional biography records scientific
+graduate study: his archived presentation rightly asks for propagation of
+uncertainty in the selected lines, rather than only camera-tilt derivatives.
+It supplies no new endpoint table or successful solar fit in the reviewed
+section. Generic 5-20-degree errors from different automatic estimators are
+not a measured error distribution for Dalleur's manual method. Categorical
+claims that the paper was not peer reviewed were not established.
+
+Cade Bradley, professional cinematographer: unknown historical calibration
+is a legitimate issue. Lost-depth, common-plane and CGI-only objections do
+not defeat the actual method. Muse's video response answers those points;
+it does not independently authenticate every empirical bound he asserts.
+No completed later studio reproduction fitting D115 was located in this pass.
+
+6. CAMERA CALIBRATION AND CONVERGENCE
+
+Earlier documented primary equipment checks show that period Goerz cameras
+could have translating fronts. A centered principal point is an assumption,
+not a mechanical certainty. The earlier joint-calibration script preserves
+the adopted light and vertical vanishing points while fitting a 42.72-degree
+source using an ultra-wide lens plus shift and a changed horizon. Its
+18.0975-mm-equivalent example needs 13.63 mm image shift in both axes on an
+assumed 120-mm-wide plate, and changes the horizon about 82 pixels.
+
+This is genuine mathematical ambiguity, not merely saying unknown camera.
+But actual mount/focus/shift compatibility and use by Ruah are not established;
+the baseline vertical VP is implied rather than newly measured. Muse's
+edge-head perspective and other scene constraints are not answered by
+preserving the vertical VP alone. Hence this is not a historically supported
+whole-scene ordinary alternative, and no probability for it is defended here.
+
+Multiple feature agreements provide positive internal consistency. However,
+the author's ray probe starts with a shared VP; lines drawn through that VP
+are not twelve independently fitted measurements. The relevant evidence is
+how well independently specified physical cues agree with those rays. No
+complete endpoint/tangent inventory with residuals and an admissible joint
+camera region was recovered. That is a reproducibility limit, not proof
+that the reported agreement is false or meaningless.
+
+An illustrative calculation shows why feature baseline length matters:
+two endpoints each uncertain within a one-pixel-radius disk can rotate a
+10-pixel line by up to 11.54 degrees, or a 100-pixel line by 1.15 degrees.
+These are image-line rotations, NOT source-elevation errors or measured D115
+uncertainties. A tangent fitted across many pixels has a different error model.
+They must not be assigned wholesale to Dalleur's selected features.
+
+7. WHAT THIS DOES AND DOES NOT ESTABLISH
+
+If the low source direction is reliably established, retinal effects and
+expectation cannot explain that physical direction. The agreement with
+descent testimony then matters in the advance-announcement context. The
+photo alone neither records a trajectory nor identifies Mary. Non-solar
+illumination is not identical to supernatural illumination: cloud/sky
+illumination is physically ordinary, though no such fit to the full case
+was established by the reviewed countermodels.
+
+Sharp near-contact shadows alone do not uniquely prove a compact source;
+penumbra also depends on caster-receiver separation. This general fact does
+not overturn Dalleur's multiple-cue reconstruction. Similarly, black-and-white
+garment tonal patterns do not independently measure water content, duration
+of drying or infrared power. The proposed photographic-defect alternative
+has not been demonstrated either. Keep the angle reconstruction and drying
+interpretation separate, while retaining their possible cumulative relevance.
+
+8. LITERATURE SEARCH AND ACCESS
+
+Fresh exact-title, DOI, author/critique/response, shadow/calibration/replication
+searches and OpenAlex citation query. No peer-reviewed technical refutation
+or independent full D115 reconstruction located. This is not proof of absence
+or expert consensus. Informal arguments can still be correct.
+
+OpenAlex now returns two citing records for W3152771519. One is Lomas and
+Case (2023), previously locally inspected: favorable contextual discussion,
+not an optical replication. The other is an untitled paratext/journal-issue
+record DOI 10.29202/phil-cosm/36. It must not be reported as a second technical
+validation. Publisher access to the issue PDF returned 403; contents were not
+inspected. A related 2026 Lomas et al. article was bibliographically located,
+but its relation to that issue-level citation remains unverified here.
+
+No new tally point or reversal is assigned. The research distinction is between
+a published, substantively defended anomalous-light inference and completed
+independent physical verification. Neither an adequate ordinary explanation
+nor a calibrated supernatural probability is supplied by this audit.
+
+PRIMARY REFERENCES AND LOCATORS
+
+Philippe Dalleur, Pontifical University of the Holy Cross, 2021:
+https://doi.org/10.12775/SetF.2021.001
+Paper printed pp.31-34, figures9-11, table onp34; mathematical appendix pp36-40.
+https://sites.google.com/pusc.it/elevation-azimuth/fatimas-miracle-photo
+https://sites.google.com/pusc.it/elevation-azimuth/examples
+
+Ethan Muse, It Wasn't the Sun, section3 (revised18April2026):
+https://motivesofcredibility.substack.com/p/it-wasnt-the-sun
+Muse/Bradley response, archived automatic captions, fresh passages39-43min,
+63-66.5min; earlier whole-transcript review retained:
+https://www.youtube.com/watch?v=GZZ3H-ExWMc
+
+Mark Grant, current exported critique, sections1-1.4 and update:
+https://docs.google.com/document/d/1t-wlHbqyUUL1-wN2Lf-zOs6_v77NmG9gmBK0BDWXe4c/edit
+His original simulation description/comments:
+https://benthams.substack.com/p/a-clash-of-titans-the-ethan-muse
+
+Georgia Ray,30September2025:
+https://eukaryotewritesblog.com/2025/09/30/miracle-of-the-sun/
+James Fodor, relevant archived captions1:20-1:28:
+https://www.youtube.com/watch?v=YPDEfgnGPCM
+Cade Bradley, original critique and earlier full caption review:
+https://www.youtube.com/watch?v=dc8PZK65cz8
+
+Bo Hu, Christopher Brown, Randal Nelson, Rochester TR810,2004:
+https://urresearch.rochester.edu/institutionalPublicationPublicView.action?institutionalItemId=847
+Abstract and directional-source/supporting-line passages consulted, not fresh
+complete reading of all21pages.
+
+Earlier primary equipment/optics checks and exploratory joint-calibration:
+../fatima-camera-assumptions-audit-20261102/report.txt
+../fatima-joint-calibration-audit-20261111/report.txt
+../fatima-joint-calibration-audit-20261111/trees-and-muse-check.txt
+Earlier pixel-selection limitations:
+../fatima-independent-photo-audit-20261102/pixel-measurements/report.txt
+
+SAVED MATERIAL
+
+checks.py and numerical-checks.json: reproducible conditional calculations.
+figures/: newly rendered original paper pages31-34.
+sources/: fresh current-page snapshots, full Grant export, OpenAlex records.
+source-manifest.json: hashes, read scope, public source URLs and limitations.
+No outreach, new payments, browser-library session or public deployment.

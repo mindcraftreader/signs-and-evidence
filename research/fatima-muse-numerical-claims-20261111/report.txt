@@ -1,0 +1,213 @@
+MUSE'S NUMERICAL AND HISTORICAL CAMERA CLAIMS: PRIMARY-SOURCE CHECK
+11 November 2026
+
+RESULT
+
+The newly checked material supports important parts of Muse's defense. The
+original Kinkaid press manual really recommends ordinary-to-long focal
+lengths; the approximately44mm-equivalent example is reproducible. Measured
+Dagor-type distortion is small in the relevant field-angle range. Independent
+conditional calculations support Muse's explanation that differential
+endpoint movement, rather than total pixel displacement, is the relevant
+quantity for a shadow line's direction. In the models tested, distortion
+changes source elevation by tenths or hundredths of a degree, not14degrees.
+
+This strengthens the case against Bradley's generic lens-distortion objection.
+It does not independently identify every historical shadow correspondence,
+authenticate a universal Portuguese newspaper lens inventory, or establish
+the complete joint uncertainty exclusion claimed in the response video.
+No new ordinary whole-scene fit or reversal of the photographic tally results.
+
+1. ORIGINAL PRESS MANUAL RECOVERED
+
+Obtained James C. Kinkaid, Press Photography, Boston: American Photographic
+Publishing Co.,1936, public Prelinger Library scan from Internet Archive.
+Downloaded the complete300-page PDF, but this pass reads relevant printed
+pp9-12, with pp9,10,12 visually inspected. Do not describe this as a full
+cover-to-cover reading. Printedp10 is PDFpage20; its fractions were checked
+visually, not trusted to the poor OCR.
+
+Public source:
+https://archive.org/details/pressphotography00kinkrich
+https://archive.org/download/pressphotography00kinkrich/pressphotography00kinkrich.pdf
+
+The printed table, with independent horizontal36mm-width conversions:
+Plate inches | minimum focal inches | preferred focal inches | equivalent mm
+3.25x4.25    | 4.5                  | 5.25                   | 38.12 /44.47
+4x5          | 5.25                 | 6.5                    | 37.80 /46.80
+4x6          | 6                    | 7                      | 36.00 /42.00
+5x7          | 7.5                  | 8.5-10                 | 38.57 /43.71-51.43
+
+Equivalent =36*focal length/landscape image width in consistent units. These
+are horizontal equivalents, not diagonal35mm-format crop factors. Dalleur
+explicitly uses a horizontal36mm-width convention.
+
+Thus the44mm statement has a concrete primary-source basis, especially the
+quarter-plate row's44.47mm. The manual supports a photographic-practice prior
+favoring this range, not proof of the exact setting used for D115. Its table
+does not claim every possible optical design is incapable of a wider view.
+The4x6 row also shows why the prose should not become a universal minimum
+strictly above37mm. Most importantly, this is a1936 American practice manual,
+19years after Fatima, not a recovered1917 Portuguese newspaper equipment list.
+
+Printedp9 emphasizes relatively fast lenses for difficult news conditions;
+p12 discusses convertible and supplementary lenses. This supports the concern
+that a slow specialist ultra-wide is not the obvious default equipment for
+the event, without establishing which lens Ruah actually mounted.
+
+2. MEASURED LENS DISTORTION RECHECKED
+
+Arthur A. Magill, US National Bureau of Standards, Variation in Distortion
+with Magnification, Journal of Research54(3),1955,135-142. Re-inspected the
+entire table on printedp138/PDFpage4 at high resolution. The paper measures
+named specimens, not Ruah's lens. Measurements use f/22 and a narrow spectral
+band; field, aperture, focus and lens identity must not be silently universalized.
+
+https://nvlpubs.nist.gov/nistpubs/jres/54/jresv54n3p135_A1b.pdf
+Local unchanged original is in ../fatima-photo-counters-20261027/.
+
+For Dagor-type specimenB,f=6.5in=165.1mm,m=0, measured displacement inmm:
+Angle degrees:10,15,20,25,30,35,40
+Displacement:0.004,0.018,0.048,0.110,0.232,0.462,0.919
+
+The fractional distortion is displacement/[f*tan(angle)]. Consequently,
+30degrees gives0.243percent,35gives0.400percent, and40gives0.663percent.
+The earlier correction is retained: the often-quoted0.24percent belongs to
+30degrees in these rows, not35degrees. This is a small source-reference
+correction, not a route to a14degree light-source correction.
+
+Low distortion for these specimens supports Muse's lens-class argument.
+It does not establish every lens in every Portuguese press inventory had
+the same measured curve. Manufacturer correction claims, patents, measured
+bench data and historical ownership are different evidence types.
+
+3. DIFFERENTIAL ENDPOINT DISPLACEMENT: NEW CALCULATION
+
+New reproducible script: check_distortion.py; full data: distortion-checks.json.
+Uses standard-library arithmetic, with explicit0-distortion baseline tests.
+
+For the simple radial map p -> p*(1+k*r^2), the local tangential and radial
+stretch factors are1+q and1+3q,where q=k*r^2. The maximum possible local line
+rotation, if|q|<=d, is bounded by asin[d/(1-2d)] for d<0.5. Therefore:
+|q|<=0.005 -> worst local image-line rotation0.289degrees
+|q|<=0.010 -> worst local image-line rotation0.585degrees
+
+This is a model-specific statement about differential stretching. It is not
+a bound for arbitrary high-order polynomials, decentering, scan warping or
+all physical lenses merely having small absolute point displacements.
+Image-line rotation is not identical to final source-elevation error.
+
+To propagate to a reconstructed source, constructed four short segments
+along Dalleur's adopted rays near the hat,left stone,left hand,right-pebble
+regions. These are NOT newly measured historical caster/shadow pairs. This
+conditional stress test corrects their endpoints, least-squares refits the VP,
+corrects the adopted horizon's center point, then recalculates elevation.
+
+At37mm equivalent:
+simple-curve coefficient-0.5percent ->28.1767degrees,change-0.0619
+simple-curve coefficient+0.5percent ->28.2976degrees,change+0.0590
+simple-curve coefficient-1.0percent ->28.1119degrees,change-0.1268
+simple-curve coefficient+1.0percent ->28.3540degrees,change+0.1154
+Reference uncorrected value28.2386degrees.
+
+At30mm equivalent, even the+1percent stress case yields31.9898degrees,
+not42.72degrees. These coefficients refer to the stated radius normalization;
+they are not recovered distortion parameters from D115.
+
+For the37mm,+1percent case, the constructed near-center hat segment rotates
+only0.017degree, while the right-edge segment rotates0.425degree. The endpoint
+displacement difference is respectively0.018pixel and0.194pixel. The common
+movement of both endpoints is substantially less important for line rotation.
+The source VP may still move; common displacement does not imply a completely
+invariant reconstruction. Symmetry also does not guarantee exact cancellation
+for arbitrary, asymmetrically distributed cues.
+
+A second calculation fits a three-term radial polynomial to Magill specimenB's
+seven measured points. Maximum fit residual is0.00157mm. Transferring this
+specimen's angular distortion curve into the same constructed-ray experiment
+changes source elevation by+0.0417degree at37mm and+0.0843at30mm. This is a
+physically informed illustration, NOT calibration of Ruah's actual lens.
+
+Conclusion supported: small conventional radial distortion does not naturally
+produce the needed gap in these tests. Conclusion not supported: every lens
+and all possible combined image errors have now been mathematically excluded.
+
+4. HEADS AND HANGING THREADS
+
+Muse's response39-47minutes offers complementary evidence for31-46mm from
+edge-head perspective and33-39mm from threads. These should not be described
+as absent or ignored. Neither is independently reproduced merely by repeating
+the focal-length/elevation table. Faces have unknown shapes and orientations;
+textile strands have uncertain physical verticality. Agreement is useful,
+but their assumptions and errors need explicit accounting.
+
+Located and read the existing actual thread-ridge audit, previously omitted
+from some summaries:12source-JPEG ridge fits in a selected shawl crop have
+median4.6degrees leftward;10less-window-sensitive traces have median5.2degrees.
+The published calibration predicts1.3-1.6degrees there; the earlier5x7ultra-wide
+candidate predicts9.6-11.0degrees. Published calibration is closer on average:
+mean absolute angular discrepancies3.39versus5.63degrees. These are descriptive
+pixel fits, not known3Dplumb lines or calibrated probabilities. The measurements
+support Daniel's objection to treating that alternative's large slant as a fit.
+
+An earlier joint-VP counter-calibration can preserve the adopted projected
+vertical family with different intrinsics and horizon, but has not answered
+all the edge-head, camera-mount, terrain/horizon and whole-image constraints.
+It is not newly promoted to an established rebuttal. The distinction between
+mathematical degeneracy and an evidenced historical alternative is retained.
+
+References:
+../fatima-period-camera-catalogue-20261102/thread-angle-audit/report.txt
+../fatima-period-camera-catalogue-20261102/physical-candidate-followup.json
+../fatima-joint-calibration-audit-20261111/trees-and-muse-check.txt
+
+5. WHAT THE HISTORICAL RECORD SUPPORTS
+
+The Science Museum's period Goerz-Anschutz specimen,120mm on a107.95mm-wide
+plate, corresponds horizontally to40.02mm equivalent, consistent with the
+ordinary range. The museum documents rising/cross-shifting front movements.
+This supports historical plausibility of the camera class while showing that
+centered principal point cannot be a mechanical certainty merely from its name.
+https://collection.sciencemuseumgroup.org.uk/objects/co8085135/goerz-anschutz-press-camera
+
+Earlier documented maker catalogues include ordinary reflex minimum focal
+constraints, but also specialist wide-angle lenses and alternative bodies.
+Some designs are unsymmetrical, including Tessar and Protar families. This
+qualifies a literal claim that every period lens was symmetric; it does not
+show they had enough distortion to explain D115, nor establish their use.
+
+Fresh English/Portuguese searches did not recover a dated newspaper lens
+inventory tied to Ruah or his actual exposure. The report therefore retains
+Muse's historical preference as supporting evidence, without labeling his
+universal inventory claim independently authenticated. This is not evidence
+that an unusual camera actually was used.
+
+6. COMBINED UNCERTAINTY AND DISPOSITION
+
+The reproduced central value, focal-range sensitivity, local pitch/roll
+derivatives, small-distortion tests and real examples favor robustness under
+ordinary retained assumptions. They do not automatically yield a complete
+joint acceptance region over every selected shadow,tangent,principal point,
+horizon,lens curve,format and scan uncertainty. A critic should not bridge
+the remaining gap by simply listing unknowns. Nor should an auditor call all
+these bounds independently checked without the relevant data.
+
+The main remaining empirical task is a raw-scan feature inventory plus jointly
+tested scene/calibration constraints. No new large distortion, no completed
+ordinary solar fit and no evidence of knowing deception by Dalleur or Muse
+was found. Bradley's generic lens objection is weakened further by the new
+calculations; the previous failed-camera-rebuttal adjudication remains intact.
+No new independent victory point, no tally reversal, no calibrated odds.
+
+PRIMARY SOURCES / ACCESS AND READ SCOPE
+
+Kinkaid1936: complete public PDF downloaded; relevant printedpp9-12read,
+pp9,10,12visually inspected. No borrowing or login required for this copy.
+Magill1955: original local PDF, printedp138/PDF4 visually reinspected; measured
+curve transcribed directly. No bench replication performed.
+Science Museum object record read through web tool on11November2026.
+Goerz1910catalogue index reopened; earlier specified maker-page visual reads
+retained in the period-camera report. No new exhaustive worldwide census.
+Full Muse response transcript reread in the immediately preceding turn; video
+timestamped coverage in ../fatima-shadow-literature-review-20261111/.
+No email, purchase, library session, publication or deployment undertaken.

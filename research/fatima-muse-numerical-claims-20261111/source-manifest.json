@@ -1,0 +1,79 @@
+{
+  "date": "2026-11-11",
+  "score_change": 0,
+  "raw_scan_acquired": false,
+  "historical_shadow_endpoints_newly_measured": false,
+  "sources": [
+    {
+      "url": "https://archive.org/download/pressphotography00kinkrich/pressphotography00kinkrich.pdf",
+      "path": "sources/kinkaid-1936.pdf",
+      "read_scope": "printed9-12;9,10,12visually inspected"
+    },
+    {
+      "url": "https://nvlpubs.nist.gov/nistpubs/jres/54/jresv54n3p135_A1b.pdf",
+      "path": "../fatima-photo-counters-20261027/magill-nbs-1955-distortion.pdf",
+      "read_scope": "table2printed138/PDF4freshly visually inspected"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=GZZ3H-ExWMc",
+      "read_scope": "full automatic transcript read preceding turn"
+    }
+  ],
+  "files": [
+    {
+      "path": "check_distortion.py",
+      "bytes": 7062,
+      "sha256": "477919b79dc6880de127d13ce44424cfa9c50e6b6e261c971e6ca13e78072502"
+    },
+    {
+      "path": "distortion-checks.json",
+      "bytes": 75241,
+      "sha256": "508bf8ab6a19aee9ac22551fe941b98e21c1afc6a838956505ed4da2393e04bf"
+    },
+    {
+      "path": "figures/kinkaid-019.png",
+      "bytes": 647391,
+      "sha256": "c6125c9482e0977b450f90f7f8e193698122eebe3b9ca3f46283e193a895c6d8"
+    },
+    {
+      "path": "figures/kinkaid-020.png",
+      "bytes": 739059,
+      "sha256": "4ac9344d904c56b3efb9582bd474a30277282ad4f580c34c403d7b60abbf4b85"
+    },
+    {
+      "path": "figures/kinkaid-021.png",
+      "bytes": 765462,
+      "sha256": "f65fa9b8e4756c625eee4e47c68fb47996abb06fa5649943cf1914f33b8795cc"
+    },
+    {
+      "path": "figures/kinkaid-022.png",
+      "bytes": 723502,
+      "sha256": "cd0ecdb7ddb6ac2b2f9d3d47fdd3399adbef93909cae274aed7c98d3967e7585"
+    },
+    {
+      "path": "figures/magill-4.png",
+      "bytes": 1304403,
+      "sha256": "7df8e8c3870f5f61b66632d3115cf56a7fbf6e21b2212e9fc7b53de6ee74e1b0"
+    },
+    {
+      "path": "report.txt",
+      "bytes": 12161,
+      "sha256": "f5c8d63dc19c4107c3694520d24a4e7a298f0b06718382660f8ff67ad5ecd2ea"
+    },
+    {
+      "path": "sources/kinkaid-1936.pdf",
+      "bytes": 19932268,
+      "sha256": "aada7f54aa90682cf5ad230c465677625af4a5222629778289f02299ff3815ed"
+    },
+    {
+      "path": "sources/kinkaid-1936.txt",
+      "bytes": 687206,
+      "sha256": "cc2d01a61693075f51f90a8edd696f8451a01d00909103c268d971993fe9fb53"
+    },
+    {
+      "path": "sources/kinkaid-archive-metadata.json",
+      "bytes": 61129,
+      "sha256": "178163b2ed9b1bb20dfb014be8c9904685d02d2a5ea034ec577d677f19bdafdf"
+    }
+  ]
+}

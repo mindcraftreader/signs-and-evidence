@@ -1,0 +1,201 @@
+{
+  "date": "2026-11-11",
+  "scope": "bounded Fatima adversarial crawl; source-specific access limitations retained",
+  "sources": [
+    {
+      "id": "DCF10",
+      "title": "DCF selection document 10, Formigão interrogation, 27 September 1917",
+      "url": "https://www.fatima.pt/files/upload/fontes/F001_DCF_selecao.pdf#page=60",
+      "locator": "printed p58, PDF p60; nearby context pp56–59",
+      "type": "critical edition of contemporary primary record",
+      "read_scope": "Portuguese extraction and official printed p58 visually checked; not original ink manuscript",
+      "independence": "one investigator transmitting child responses; not an independent observation of a physical emitter",
+      "local_source": "research/fatima-distant-witnesses-20261027/sources/dcf-selecao-2013.pdf"
+    },
+    {
+      "id": "DCF11",
+      "title": "DCF selection document 11, 11 October 1917 interrogation",
+      "url": "https://www.fatima.pt/files/upload/fontes/F001_DCF_selecao.pdf#page=70",
+      "locator": "printed pp68–69, PDF pp70–71",
+      "type": "critical edition of contemporary primary record",
+      "read_scope": "Portuguese extracted text read including Jacinta and Francisco looking difficulty; not separately rendered this pass",
+      "independence": "same investigator, children with contact; differentiated perception remains positive evidence"
+    },
+    {
+      "id": "DCF36",
+      "title": "Ferreira report dated 6 August 1918 about 1917 inquiries, DCF selection doc36",
+      "url": "https://www.fatima.pt/files/upload/fontes/F001_DCF_selecao.pdf#page=175",
+      "locator": "printed pp171–181, especially p173",
+      "type": "primary investigator report in official critical edition",
+      "read_scope": "relevant Portuguese text pp171–179 and printed p173 visually checked",
+      "independence": "actual observation of child consultation by investigator; not a separate clinical examination"
+    },
+    {
+      "id": "DCF33",
+      "title": "Ana Maria da Câmara letter to her sister,1 June1918,about May13,1918 visit,DCF selection doc33",
+      "url": "https://www.fatima.pt/files/upload/fontes/F001_DCF_selecao.pdf#page=166",
+      "locator": "printed pp163–165, especially p164",
+      "type": "primary account of interviewer in critical edition",
+      "read_scope": "Portuguese text read including explicit separate1918 interviews and avoidance of crown; does not establish isolation in1917",
+      "independence": "different questioner; separate elicitation after children had ongoing contact"
+    },
+    {
+      "id": "MAINSTER2012",
+      "title": "Mainster and Turner, Glare’s causes, consequences, and clinical challenges after a century of ophthalmic study",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0002939412000414",
+      "doi": "10.1016/j.ajo.2012.01.008",
+      "locator": "American Journal of Ophthalmology 153(4), 587–593; p588 classification table and opening discussion",
+      "type": "clinical perspective / literature synthesis",
+      "credentials": "authors affiliation: Department of Ophthalmology, University of Kansas School of Medicine",
+      "read_scope": "PubMed abstract and original article classification/opening text via Academia author page and publisher indexed text; not claiming complete PDF review",
+      "independence": "scientific distinctions independent of Fatima; not a study of seers"
+    },
+    {
+      "id": "LAENG2012",
+      "title": "Laeng and Endestad, Bright illusions reduce the eye's pupil",
+      "url": "https://www.pnas.org/content/pnas/109/6/2162.full.pdf",
+      "doi": "10.1073/pnas.1118298109",
+      "locator": "PNAS109(6),2162–2167; abstract and experiments 1–2",
+      "type": "original experiment",
+      "credentials": "Department of Psychology, University of Oslo",
+      "read_scope": "PDF abstract/results/methods and indexed original text reviewed",
+      "independence": "equiluminant adult laboratory stimuli, not Fatima children; already cited by Muse"
+    },
+    {
+      "id": "KAY2022",
+      "title": "Kay, Keogh, Andrillon and Pearson, The pupillary light response as a physiological index of aphantasia, sensory and phenomenological imagery strength",
+      "url": "https://elifesciences.org/articles/72484.pdf",
+      "doi": "10.7554/eLife.72484",
+      "locator": "eLife11:e72484, abstract and opening rationale",
+      "type": "original experiment",
+      "credentials": "UNSW, Macquarie University, Paris Brain Institute/Sorbonne affiliations",
+      "read_scope": "PDF metadata, abstract and opening text; no claim of matched visual incapacity result",
+      "independence": "imagery physiology independent of Fatima; not a reconstruction"
+    },
+    {
+      "id": "KALLMARK2005",
+      "title": "Källmark and Ygge, Photo-induced foveal injury after viewing a solar eclipse",
+      "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/j.1600-0420.2005.00511.x",
+      "doi": "10.1111/j.1600-0420.2005.00511.x",
+      "locator": "Acta Ophthalmologica Scandinavica83,586–589; Subjects, Subjective disturbances, Funduscopic findings, Discussion",
+      "type": "selected clinical injury cohort follow-up",
+      "credentials": "St. Erik’s Eye Hospital, Department of Clinical Neuroscience, Karolinska Institute, Stockholm",
+      "read_scope": "full publisher HTML available; identified sections read directly; clinic-hosted PDF failed DNS/502 and was not used",
+      "independence": "injured emergency attendees; no population incidence denominator or 1917 ascertainment measure"
+    },
+    {
+      "id": "WONG2001",
+      "title": "Wong, Eke and Ziakas, Eclipse burns: a prospective study of solar retinopathy following the 1999 solar eclipse",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11213101/",
+      "doi": "10.1016/S0140-6736(00)03597-2",
+      "locator": "Lancet357(9251),199–200, abstract",
+      "type": "self-presenting clinical cohort",
+      "read_scope": "abstract only; full article not recovered",
+      "independence": "45 attendees do not represent all eclipse observers"
+    },
+    {
+      "id": "FRANCE2000",
+      "title": "Coulombier, Malfait, Dixsault and Espinoza, French eclipse injury surveillance",
+      "url": "https://www.santepubliquefrance.fr/en/climat/uv/reportsummary/measures-prevent-and-monitor-eye-complications-related-viewing-total-solar-eclipse-august-11-1999",
+      "related_primary": "https://pubmed.ncbi.nlm.nih.gov/11077724/",
+      "type": "government surveillance summary and journal abstract",
+      "read_scope": "both summaries reviewed; no full report; discrepant 54,000 versus 5,600 ophthalmologist counts explicitly not used",
+      "independence": "demonstrates active ascertainment procedure, not injury rate matched to Fatima"
+    },
+    {
+      "id": "NEWSPAPER353",
+      "title": "Ilustração Portuguesa no610,29 October1917,p353",
+      "url": "https://commons.wikimedia.org/wiki/File:Newspaper_fatima_353.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Newspaper_fatima_353.jpg",
+      "locator": "group caption across middle and lower crops recognizable as portions of D115",
+      "type": "scan of contemporary newspaper primary artifact",
+      "read_scope": "whole scanned page visually inspected; caption read; not merely modern file description",
+      "independence": "contemporary event attribution by same reporting publication; no independent clock or second witness",
+      "local_preserved": "newspaper-19171029-p353.jpg"
+    },
+    {
+      "id": "D115IDENTIFICATION",
+      "title": "Gallery identification of D0000115 and original-source links",
+      "url": "https://fatima-1917.com/gallery/III-1-p88-55c729bc",
+      "type": "AI-assisted third-party archival finding aid",
+      "read_scope": "text/source links read; book-scan image viewed; used for identification, caption checked against actual newspaper",
+      "independence": "not a new historical witness; avoid AI-restored/colourized images"
+    },
+    {
+      "id": "DALLEUR2021",
+      "title": "Philippe Dalleur, Fatima pictures and testimonials: in-depth analysis",
+      "url": "https://doi.org/10.12775/SetF.2021.001",
+      "locator": "Scientia et Fides9(1),9–45; pp25–27 medical argument and previous photo audits",
+      "type": "peer-reviewed interpretive technical paper",
+      "read_scope": "relevant preserved full-text passages reread, not a new complete reconstruction",
+      "independence": "modern analysis of existing images/testimonies; author has engineering/applied science qualifications as well as philosophy; no dismissal on affiliation"
+    },
+    {
+      "id": "DALLEURWEB",
+      "title": "Dalleur, The Fatima D115 Photo, current author page",
+      "url": "https://sites.google.com/pusc.it/elevation-azimuth/fatimas-miracle-photo",
+      "locator": "event attribution, EXIF/scan details, solar noon, current geometry and response",
+      "type": "author primary statement of analysis",
+      "read_scope": "page read; geometry baseline granted for conditional timing test",
+      "independence": "same researcher and image as paper"
+    },
+    {
+      "id": "MUSE",
+      "title": "Ethan Muse, Our Lady of Fatima and reply to Scott Alexander",
+      "url": "https://motivacredibilitatis.substack.com/p/our-lady-of-fatima",
+      "related_url": "https://motivacredibilitatis.substack.com/p/reply-to-scott-alexander",
+      "locator": "Our Lady §§1.2–1.3, footnotes18–27; Reply cloud-dimming and photogrammetry sections",
+      "type": "defender argument and bibliography",
+      "read_scope": "preserved articles and current Dalleur reply passages read; credential claims not independently upgraded",
+      "independence": "interpretation rather than additional historical testimony"
+    },
+    {
+      "id": "SHARON2004",
+      "title": "Sharon and Woolley, Do monsters dream? Young children’s understanding of the fantasy/reality distinction",
+      "url": "https://liberalarts.mercer.edu/wp-content/uploads/sites/5/2019/07/SharonTWoolleyJD2004.pdf",
+      "doi": "10.1348/026151004323044627",
+      "locator": "British Journal of Developmental Psychology22,293–310; abstract, participants p296, conclusion p308",
+      "type": "original developmental psychology experiment",
+      "credentials": "Emory and University of Texas affiliations; correspondence Mercer",
+      "read_scope": "primary PDF abstract, participants/procedure and conclusion read; preschool verbal tasks do not model Fatima experiences",
+      "independence": "experimental data distinct from Fatima, wrong age range for direct matching"
+    },
+    {
+      "id": "MAGPIE2025",
+      "title": "Evan Harkness-Murphy, Your Lady of Fatima: A Response to Ethan Muse",
+      "url": "https://yourmagpie.substack.com/p/your-lady-of-fatima",
+      "date": "2025-09-12 as displayed on article",
+      "type": "skeptical public essay",
+      "read_scope": "relevant complete main essay read; citations pursued rather than essay treated as authority",
+      "credentials": "self-described psychology BA; no primary evidence of specialist clinical or photogrammetric expertise",
+      "independence": "secondary critique reusing DCF and scientific sources"
+    },
+    {
+      "id": "JAKITAVARES",
+      "title": "Stanley L. Jaki, God and the Sun at Fatima",
+      "url": "https://dokumen.pub/god-and-the-sun-at-fatima.html",
+      "locator": "printed pp91–93,footnote28 on p97 points to DCF I(1992)pp401–406",
+      "type": "secondary translation of identified primary testimony",
+      "read_scope": "relevant text and source locator read; full original Portuguese Tavares item not obtained",
+      "independence": "one Tavares report, not additional witnesses; translation not independently authenticated this pass"
+    },
+    {
+      "id": "RAIO",
+      "title": "Raio de Luz,1 September1917,DCF III-1doc20",
+      "url": "https://fatima-1917.com/pt/d/iii-1-20",
+      "locator": "original magazine5(49),pp11–13; DCF finding-aid transcription and apparatus",
+      "type": "pre-event publication of August account",
+      "read_scope": "Portuguese transcription reviewed; already audited in existing project",
+      "independence": "writer distinguishes own observation from others; not new to current ledger"
+    },
+    {
+      "id": "THOUSANDSUNS2026",
+      "title": "Death by a Thousand Suns: The Miracle (and Myth) of Fátima",
+      "url": "https://thatoneguy03.substack.com/p/death-by-a-thousand-suns-the-miracle",
+      "date": "2026-09-08",
+      "type": "skeptical public essay",
+      "read_scope": "opening method and explicit removed-photo-discussion notice; no claim whole long essay exhaustively checked",
+      "independence": "secondary critique, no new photographic dataset recovered"
+    }
+  ]
+}

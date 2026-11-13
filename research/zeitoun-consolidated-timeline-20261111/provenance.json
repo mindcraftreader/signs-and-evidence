@@ -1,0 +1,34 @@
+[
+  {
+    "path": "research/zeitoun-primary-appearance-timeline-20261028/event-register.json",
+    "sha256": "511343faf21a7b730f2ef47bc797943572a81f53bfaa9773e5423641fa2fdfb6"
+  },
+  {
+    "path": "research/zeitoun-primary-appearance-timeline-20261028/observation-register.json",
+    "sha256": "fc4f3e200a0bc91fd15d50b02717fe3d2048e49c813092be7470059e674cd980"
+  },
+  {
+    "path": "research/zeitoun-primary-appearance-timeline-20261028/source-register.json",
+    "sha256": "5ca5f276215892adb4afa3140a85453ab6edf062334e42bfefd09779ba93c143"
+  },
+  {
+    "path": "research/zeitoun-primary-appearance-timeline-20261028/calendar-candidates.json",
+    "sha256": "27dd0ff59ac1699f167b56d92ca6280ae520256bcee41f2eb9c44726eef644d8"
+  },
+  {
+    "path": "research/zeitoun-recurrence-full-audit-20261106/selected-night-register.json",
+    "sha256": "cea7ecf098fbc63e518c55d905c15c5fcf51b3568c90e2f25f80c482369f946a"
+  },
+  {
+    "path": "research/zeitoun-recurrence-full-audit-20261106/audit-report.txt",
+    "sha256": "dc71af2348758ac8ddb1b08f5b08a2e09208c983ae0b44b0da1e19e0b8fef41f"
+  },
+  {
+    "path": "research/zeitoun-recurrence-full-audit-20261106/sources/scspr-1981-volume2.txt",
+    "sha256": "30aa833a68e956dd37f0eaa4216cc3d828e4ac145ff35ab21018442c2e06aa04"
+  },
+  {
+    "path": "research/zeitoun-recurrence-full-audit-20261106/sources/dumsday-layout.txt",
+    "sha256": "699ea396dcc7a937089fc04357e82e79868fa296f0c2e2a4a7c5a7005785f493"
+  }
+]

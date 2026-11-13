@@ -1,0 +1,63 @@
+MICHELI: TARGETED TREATMENT-CLAIM CHECK
+11 November 2026 — follow-up for final candidate selection
+
+Result: a genuine unresolved contradiction about an important premise of Micheli's individual case, not a newly discovered objection, not an adjudicated/withdrawn challenge found in the ledger, and not evidence that chemotherapy actually caused the recovery. Garner's reporting has identifiable journalistic access to medical records and the Bureau director. It is materially better than an anonymous allegation, but it is not a reproduced treatment chart or a drug-specific clinical report. The stronger Salmon-derived contrary account deserves substantial weight. Garner’s article is broadly favorable to the serious medical character of Lourdes; its treatment sentence is not a hostile allegation planted in a debunking essay. Existing material does not resolve the collision.
+
+1. Exact Garner wording and context
+
+Actual scanned printed pages1254,1255 and1257 were re-inspected. The article's correct title is Spontaneous regressions: scientific documentation as a basis for the declaration of miracles, by Jim Garner, CMA Journal,7December1974,volume111,pp1254–1264. The treatment passage is p1257,right column.
+
+After August1962 referral by the army medical service for radiological treatment, Garner reports that three days later the case was judged unsuitable for irradiation. Then: “The treatment was switched to chemotherapy but after two months no improvement was discerned and it was discontinued.”
+
+The following sentence describes November radiographs with femoral-head displacement and loss of femur-pelvis connection by January. The following May is the Lourdes journey; his leg was deformed/nonfunctional and pain continued. In context, the implied chemotherapy interval begins around August1962 and ends roughly October1962, several months before the May/June1963 recovery. These approximate boundaries are an inference from the narrative, not dated administration records.
+
+Important correction to loose summaries: three days in the referred service is not evidence that three days of radiation were actually delivered. The text can mean that the decision against irradiation was made after three days. It does not specify a radiation dose or number of delivered fractions.
+
+2. Whose evidence was Garner reporting?
+
+The p1254 author footnote identifies Garner as CMAJ associate editor for Affairs of Organized Medicine. It states that his article was based on personal observation, interviews with Bureau director Théodore Mangiapan and Congregation-for-the-Causes archivist Father I.Beaudoin, and books/documents. It says Mangiapan allowed unrestricted access to the actual Lourdes records despite Garner's professed agnosticism and lack of medical competence. Pages1255–1257 put named Mangiapan interview remarks near the Micheli discussion. The radiograph caption specifically credits the Bureau and Italian military/civil sources.
+
+However, the chemotherapy sentence itself is unquoted narrative. It is not explicitly attributed to Mangiapan, an Italian treating physician, Salmon, a named medication sheet or a reproduced committee report. General archival access is therefore established in Garner's own disclosure; the precise source of this particular assertion is not. It would be inaccurate either to describe it as entirely source-free journalism or to say that Mangiapan explicitly confirmed chemotherapy on the record.
+
+3. Strongest favorable record
+
+Barbara A.Neilan (printed affiliation: Regional Hematology Oncology, PA, USA), Linacre Quarterly80(3)(2013),277–281, DOI10.1179/0024363913Z.00000000015, explicitly says in the abstract that neither radiotherapy nor chemotherapy was offered. The body traces an August transfer to Borgo di Valsugana Centre for Tumours with radiotherapy intended, its rejection as unsuitable, and return to Trento Military Hospital. The body does not describe chemotherapy; the conclusion excludes curative treatment. Neilan identifies her account as derived with permission from Salmon's full Bureau medical report and cites Garner. Her explicit denial therefore cannot be explained merely by her failure to know Garner existed. Whether she noticed and addressed his conflicting sentence is not stated.
+
+Salmon's report-specific quotations, preserved through Delourmel and the previous2November follow-up, likewise deny anticancer intervention and connect the later recovery to the Lourdes turning point. We possess neither the complete original Salmon report nor the hospital medication sheets. Those quotations support the denial but do not let us audit its underlying treatment schedule. Garner is an earlier report; Salmon/Neilan has a more explicit medical-dossier source chain. Neither attribute alone settles the discrepancy.
+
+4. Was the issue previously adjudicated or closed?
+
+No explicit adjudication or withdrawal of this treatment conflict was found in the current scoreboard, detailed thread ledger or searched transcript. The transcript instead repeatedly preserves it as unresolved:
+
+—2November2026, assistant turn2183, lines21674–21688: treatment disagreement is described as the most consequential unresolved issue; untreated status withheld, no causal chemotherapy conclusion.
+—Turn2185, lines21723 onward: unresolved chemotherapy materially complicates Micheli's assessment while Lourdes receives positive cumulative weight.
+—4November2026, turn2303, lines22974 onward: original treatment records recommended as a concrete evidential route; no new point earned merely by mentioning it.
+—Turn2308, lines23022 onward: full dossier/original treatment records recommended again.
+
+Transcript: conversation/conversation.txt
+
+The current scored L-02 withdrawal concerns timing objections against ten fast before/after cases. Micheli is one of the four staged cases in the forensic selection and not one of those ten. L-04 concerns the apparition series. Neither entry silently adjudicates Micheli's treatment history. The current positive ledger's narrower Micheli proposition is that published films document destructive pelvic change followed by bone repair; that proposition does not assert absence of chemotherapy.
+
+5. Legitimate surviving impact
+
+This is a legitimate unresolved causal-premise gap for the individual claim that a biopsy-supported malignant tumour regressed without relevant treatment. Prior effective cancer treatment, if verified and temporally/biologically relevant, could weaken that claim. No complete replacement theory is required to withhold an unqualified untreated assertion in the face of an unresolved source contradiction.
+
+It is not yet positive evidence of an adequate treatment explanation. The actual agent, dose, dates, therapeutic purpose and response measurements are unknown. The narrative reports nonresponse, subsequent progression, and an interval of months before the pilgrimage-associated improvement. These facts complicate a simple treatment account; they do not prove delayed effects impossible. One cannot assess such effects responsibly without identifying the regimen. Nor should the word chemotherapy be silently reinterpreted as antibiotics to rescue the favorable history: that is an unverified harmonization.
+
+Relative to Gemelli's access dispute, this targets a more consequential medical premise in a major Lourdes imaging case. Relative to the user's core claim of repeated substantial medically documented recoveries, it remains confined to one selected case. It establishes neither that Micheli's improvement was imaginary nor that the whole Lourdes series is explained. Its correct status is unresolved, material, already disclosed and presently unscored; it should not be presented as this crawl's new successful objection.
+
+6. Decisive records and sources
+
+Best targets: August–October1962 Borgo di Valsugana/Trento medication administration and discharge/transfer records; the treatment schedule appendix or corresponding passage of Salmon's complete report; any named contemporaneous treating-doctor statement identifying the purported chemotherapy. Original prescription and response evidence could strengthen either side.
+
+Garner source: https://pmc.ncbi.nlm.nih.gov/articles/PMC1955914/
+Actual local scans, visually checked: research/lourdes-medical-audit-20261101/sources/canmedaj01523-0078.png (p1254),canmedaj01523-0079.png (p1255),canmedaj01523-0081.png (p1257).
+
+Neilan source: https://pmc.ncbi.nlm.nih.gov/articles/PMC6027009/
+Local complete text: research/lourdes-medical-audit-20261101/sources/neilan-micheli-2013.txt
+
+Existing deep follow-up: research/lourdes-period-audit-20261102/1919-1976/micheli-deep-followup.txt
+Scoreboard: research/argument-thread-audit-20261028/scoreboard.txt
+Forensic selection: research/lourdes-forensic-tally-20261107/forensic-tally.txt
+
+No new medication record, external medical opinion, purchase, contact or tally change in this check.

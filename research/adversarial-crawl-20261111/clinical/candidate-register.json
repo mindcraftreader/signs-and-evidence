@@ -1,0 +1,150 @@
+{
+  "date": "2026-11-11",
+  "core_rebuttals_established": 0,
+  "limited_new_documentary_survivor": "CLIN-01",
+  "candidates": [
+    {
+      "id": "CLIN-01",
+      "candidate": "Pio: Gemelli claimed a separate1919 inspection",
+      "target": "CP1; categorical dismissal of physician dissent for no visual access",
+      "status": "new primary material, limited survivor",
+      "sources": [
+        "S01",
+        "S02",
+        "S16",
+        "S17"
+      ],
+      "evidence": "Three facsimiles of6Apr1926typescribed reply claim two-day1919visit and lesion inspection; author admits incomplete clinical assessment.",
+      "inference": "An additional asserted visit could make later testimony about deniedApr1920access insufficient to establish that he never saw wounds.",
+      "strongest_defense": "No independent1919corroboration;1920firstpage explicitly no medical exam; Campanella disputes absent convent chronology and missing1919reference. Current CP1 already carefully bounded.1926report previously transcribed in2001, newly accessible here as facsimiles.",
+      "surviving_impact": "Preserve contested firsthand-access claim; no core defeat or score change.",
+      "distinguishing_observation": "Full13pages;1919itinerary/convent records; genuinely contemporaneous clinical description.",
+      "depth": "deep"
+    },
+    {
+      "id": "CLIN-02",
+      "candidate": "Micheli: remodeling, chemotherapy and histology",
+      "target": "CL2; impossibility and unqualified untreated cancer cure",
+      "status": "old issues rechecked; no new core rebuttal",
+      "sources": [
+        "S04",
+        "S05",
+        "S06",
+        "S07",
+        "S08"
+      ],
+      "evidence": "Images support destruction/repair; report-derived narratives conflict with Garner chemotherapy history; Dissing gives actual untreated pelvic-malignancy regression.",
+      "inference": "Natural regression with skeletal repair is possible; alleged untreated status needs the original chart.",
+      "strongest_defense": "All already recognized; comparator cannot assign the cause or rate for Micheli; displaced neo-joint does not erase malignancy regression.",
+      "surviving_impact": "Limits instant perfect-regrowth/untreated formulations already excluded; core recovery remains.",
+      "distinguishing_observation": "Medication administration chart, biopsy slides, Salmon full report and serial films; actual operative record if one exists.",
+      "depth": "deep"
+    },
+    {
+      "id": "CLIN-03",
+      "candidate": "Carrel/Bailly:2025/26archival diagnostic reappraisal",
+      "target": "Older clinical case; TBperitonitis diagnosis",
+      "status": "new primary-archive lead; incomplete access",
+      "sources": [
+        "S03"
+      ],
+      "evidence": "Journal study based on original archive materials raises TB vs pseudoperitonitis; abstract/introduction available.",
+      "inference": "If original signs favor functional distension rather than confirmedTB, the inference from cure to biological impossibility would weaken.",
+      "strongest_defense": "Fulltext/conclusions and underlying notes not obtained; question in abstract is not final diagnosis; older non-core case.",
+      "surviving_impact": "No actual new diagnostic rebuttal demonstrated.",
+      "distinguishing_observation": "Fullsevenpages and original document inventory/notes.",
+      "depth": "deep"
+    },
+    {
+      "id": "CLIN-04",
+      "candidate": "Bigot: unstable historical diagnosis and reversible optic deficits",
+      "target": "CL2; permanent neurological damage",
+      "status": "new general clinical-series check; previous limitation retained",
+      "sources": [
+        "S09",
+        "S10"
+      ],
+      "evidence": "Padova82case series emphasizes surgical confirmation; spontaneous chiasmal-remission title verified but no case details.",
+      "inference": "Arachnoid-related impairment is not universally irreversible; diagnosis cannot rest on old imaging alone.",
+      "strongest_defense": "Bigot has reported operative posterior-fossa adhesions; chiasmal series differs; no matched deaf-blind course recovered.",
+      "surviving_impact": "No newly demonstrated explanation; universal irreversibility already rejected.",
+      "distinguishing_observation": "Bojarski original; original Bigot operative/audiometric/ophthalmic charts.",
+      "depth": "screened"
+    },
+    {
+      "id": "CLIN-05",
+      "candidate": "Cirolli: infection differential versus malignant tumour",
+      "target": "CL2; exact diagnosis of selected cancer case",
+      "status": "substantive existing limitation; not new",
+      "sources": [
+        "S14"
+      ],
+      "evidence": "Prior Equinox/Pritchard-Jones concern exists; no new slides or signed specialist rereading obtained.",
+      "inference": "Inadequate histology can undermine a cancer-specific inference without proving another disease.",
+      "strongest_defense": "Existing malignant readings remain evidence; infection possibility is not confirmedTB and cannot dismiss other Lourdes cases.",
+      "surviving_impact": "Keep diagnostic contest open; no new point.",
+      "distinguishing_observation": "Specimen provenance and physical modern review; unedited interview/written expert opinion.",
+      "depth": "screened"
+    },
+    {
+      "id": "CLIN-06",
+      "candidate": "Perrin: functional component and unconfirmed thrombus",
+      "target": "CL2; structural vascular reversal",
+      "status": "prior primary findings; not new",
+      "sources": [],
+      "evidence": "Earlier Mouren/Bartoli photographs show disagreement about angiography and functional blackouts alongside organic ocular findings.",
+      "inference": "If all relevant deficits were functional, a nerve-repair inference would fail.",
+      "strongest_defense": "A functional component in blackouts does not establish functional cause of ocular/motor findings.",
+      "surviving_impact": "Retained qualifications already recorded; no new clinical counterrecord.",
+      "distinguishing_observation": "Original neurological/ophthalmic dossier and method-specific diagnostic reassessment.",
+      "depth": "screened"
+    },
+    {
+      "id": "CLIN-07",
+      "candidate": "Selected cohort/declining cures as natural baseline",
+      "target": "CL2–CL3; recovery-frequency inference",
+      "status": "denominator insufficient for proposed inference",
+      "sources": [
+        "S13"
+      ],
+      "evidence": "411earlyreviewed reports;25lateracknowledgedcures; specific misgivings in8later cases. Current documentary selection95cases with10fast/4stagedpairs.",
+      "inference": "To estimate excess cures need disease-specific susceptible population and follow-up, not all shrine attendance or approved claims.",
+      "strongest_defense": "Neither selected records nor millions of visitors are matched untreated patient-trials; specific cautions do not erase retained paired outcomes.",
+      "surviving_impact": "Case-specific qualifications survive but already integrated; no new rate comparison.",
+      "distinguishing_observation": "Disease-matched denominator, treatment history and complete follow-up with comparator natural history.",
+      "depth": "screened"
+    },
+    {
+      "id": "CLIN-08",
+      "candidate": "Pio:fortyyears of recurrent excoriation",
+      "target": "CP1; duration alone implies impossibility of self-injury",
+      "status": "new partial comparator; no link to case",
+      "sources": [
+        "S12"
+      ],
+      "evidence": "Primary abstract reports40years of excoriating an old surgical scar, later fatal carcinoma.",
+      "inference": "Recurrent bodily injury over decades is clinically possible.",
+      "strongest_defense": "Different anatomy/course/scarring; no connection to Pio or answer to withdrawal observations.",
+      "surviving_impact": "Reject duration-only impossibility if asserted; no new explanation of CP1.",
+      "distinguishing_observation": "Case-linked evidence of production or a matching process across the retained chronology.",
+      "depth": "screened"
+    },
+    {
+      "id": "CLIN-09",
+      "candidate": "Pio: ordinary religious stigmata in clinical literature",
+      "target": "CP1; lesions plus religious meaning uniquely imply supernatural cause",
+      "status": "new comparator check; fails full comparison",
+      "sources": [
+        "S11",
+        "S15"
+      ],
+      "evidence": "Bari case documents real seasonal ulcers/bleeding and authors’ inferred artificial production; exact method unobserved.",
+      "inference": "Religious identity plus real lesions can occur with an ordinary process.",
+      "strongest_defense": "Three seasonal episodes, different sites and follow-up; no fifty-year/control match or case-linked evidence.",
+      "surviving_impact": "A possibility boundary only, no core falsification.",
+      "distinguishing_observation": "Direct case-linked production evidence or medical mechanism fitted to Pio chronology.",
+      "depth": "screened"
+    }
+  ],
+  "no_tally_change": true
+}

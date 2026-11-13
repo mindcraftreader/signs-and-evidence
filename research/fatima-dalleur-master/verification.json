@@ -1,0 +1,17 @@
+{
+  "updated": "2026-11-11",
+  "findings": 57,
+  "sources": 27,
+  "rendered_pages": 15,
+  "visual_review": "All 15 pages inspected; no clipping or orphan headings; title rule removed.",
+  "source_paths_resolve_in_both_libraries": true,
+  "docx_internal_anchors_valid": true,
+  "tally_change": 0,
+  "files": {
+    "findings-register.json": "16684c85dacf0488d9dd58a4f042796b7c70703cbd5f4e5444798b9070e43b4b",
+    "dalleur-findings.txt": "809747c1bdaddd1b409f90b1ff6fd624ec2f7f2c4e23c535d31284ea451beb11",
+    "dalleur-findings.docx": "38aa861005595029e70947fc8793c93ccef67e762bbeaac22dca1240c24da30b",
+    "build_reference.py": "c027065a9c73c304c6a54a6fb09280c723a3d6f56603afd7caad2b5eb4bd48e1",
+    "build-checks.json": "1850dc4b1f636e2903d7ded78cd23983a3a88b76b955eb5d4727885dfee3e89e"
+  }
+}

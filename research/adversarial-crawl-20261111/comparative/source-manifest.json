@@ -1,0 +1,99 @@
+{
+  "date": "2026-11-11",
+  "scope": "bounded second-wave Palmar comparative audit",
+  "sources": [
+    {
+      "id": "SV1970",
+      "title": "Francisco Sánchez-Ventura y Pascual,Las apariciones en el Palmar de Troya",
+      "date": "1970",
+      "url": "https://es.scribd.com/document/569089129/Palmar-de-Troya-Las-Apariciones-en-Palmar-de-Troya-Por-Francisco-Sanchez-Ventura",
+      "locator": "printed pp20–23,89–90",
+      "type": "near-contemporary firsthand advocate account, publicly reproduced scan OCR",
+      "read_scope": "identified passages read; photographs/negatives not authenticated; exact printing day unverified",
+      "independence": "author and publisher advocates apparitions; no hostile eyewitness-journalist status established"
+    },
+    {
+      "id": "ALDAZ1969",
+      "title": "Las apariciones en el Palmar de Troya",
+      "author": "Ana Aldaz,Agencia Cifra,interviewing Jesuit Francisco Albarracín",
+      "date": "1969-08-20",
+      "dispatch": "Madrid,18August1969",
+      "url": "https://prensahistorica.mcu.es/es/catalogo_imagenes/grupo.do?path=8006897",
+      "locator": "article heading;printed page not visually verified",
+      "type": "original issue OCR of contemporary interview",
+      "read_scope": "masthead and relevant article OCR recovered through indexed source; direct archive and screenshot repeatedly429",
+      "independence": "Aldaz not thereby a firsthand solar eyewitness; March17visit and August15Mass kept separate; no observatory data or originals of cited photos obtained"
+    },
+    {
+      "id": "CADORET1981",
+      "title": "Les apparitions du Palmar de Troya:analyse anthropologique d’un phénomène religieux",
+      "author": "Anne Cadoret-Abeles",
+      "date": "1981",
+      "doi": "10.3406/casa.1981.2353",
+      "url": "https://www.persee.fr/doc/casa_0076-230x_1981_num_17_1_2353",
+      "locator": "Mélanges de la Casa de Velázquez17,369–391,especially380–381",
+      "type": "original anthropological fieldwork",
+      "credentials": "article identifies Casa de Velázquez scientific-section membership; fieldwork1968–1973",
+      "read_scope": "firstpage and standard viewer HTML pp375–386;380–381 visually verified; full PDF unavailable",
+      "independence": "nondevotional fieldwork; not controlled optics; distinct dates do not combine into one event",
+      "preserved_images": [
+        "cadoret-p380.jpg",
+        "cadoret-p381.jpg"
+      ]
+    },
+    {
+      "id": "CHRISTIAN1999",
+      "title": "Religious apparitions and the Cold War in Southern Europe",
+      "author": "William A.Christian",
+      "date": "1999,revision of1984chapter",
+      "url": "https://www.eusko-ikaskuntza.eus/PDFAnlt/zainak/18/18065086.pdf",
+      "locator": "Zainak18,65–86,especially74–75",
+      "type": "original historical fieldwork synthesis",
+      "read_scope": "relevant full indexed article passages; directPDFreturned botchallengeHTML,notused",
+      "independence": "author presence at1968solarclaim is not testimony of personally seeing motion or naturalistic reproduction"
+    },
+    {
+      "id": "LUNDBERG2020",
+      "title": "A Pope of Their Own:El Palmar de Troya and the Palmarian Church,second edition",
+      "author": "Magnus Lundberg",
+      "date": "2020",
+      "url": "https://magnuslundberg.net/wp-content/uploads/2020/06/palmar-second-edition.pdf",
+      "locator": "printed19–21,55–57;footnotes20–24;LBM bibliographic entry",
+      "type": "scholarly secondary monograph",
+      "credentials": "Professor of Church and Mission History,Uppsala University,as listed in front matter",
+      "read_scope": "downloaded2MBoriginalPDF; relevant passages and underlying-source bibliography read,not entirebook",
+      "independence": "modern secondary synthesis; LBM is1972petition reproduced in2011revised movement collection,not independent medical study"
+    },
+    {
+      "id": "SECO1988",
+      "title": "La inscripción en el Registro de Entidades Religiosas de las denominadas Iglesia Palmariana...",
+      "author": "Carlos Seco Caro,Universidad de Sevilla",
+      "date": "1988",
+      "url": "https://www.boe.es/biblioteca_juridica/anuarios_derecho/pdf/E/1988/ANU-E-1988-10058100600.pdf",
+      "locator": "Anuario de Derecho Eclesiástico del Estado,printed586,footnote1",
+      "type": "legal scholarly commentary citing diocesanprimarydocument",
+      "read_scope": "relevant originalPDFparagraph and footnotes read; original1970bulletinpage not recovered",
+      "independence": "precise rejection locator,not optical verification or current legal advice",
+      "original_locator": "Comunicación Pastoral,18May1970,Boletín Oficial Eclesiástico del Arzobispado de Sevilla1857,June1970,p297"
+    },
+    {
+      "id": "HOY1970",
+      "title": "Sobre las supuestas apariciones en el Palmar de Troya",
+      "date": "1970-04-17",
+      "publisher": "Diario del Campo de Gibraltar,editorAntonioGómezRubio",
+      "url": "https://lalinea.es/biblioteca/wp-content/uploads/2021/02/17-04-1970.pdf",
+      "locator": "printedp3",
+      "type": "contemporary newspaper retrospective personal visit report",
+      "read_scope": "indexed article text; not full14pageissue",
+      "independence": "reports no personal vision at earlier visit; does not observe the same dated solar episode; not used as complete negative solar counterproof"
+    },
+    {
+      "id": "BIBLIOGRAPHY",
+      "title": "UFOs and the extraterrestrial contact movement,volume2,bibliography",
+      "url": "https://cufos.org/PDFs/books/Ufos_And_The_Extraterrestrial_Contact_Movement_v2.pdf",
+      "locator": "item12703",
+      "type": "bibliographic cross-check only",
+      "read_scope": "entry only; no reliance on UFO interpretation"
+    }
+  ]
+}

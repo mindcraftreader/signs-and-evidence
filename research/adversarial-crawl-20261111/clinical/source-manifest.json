@@ -1,0 +1,163 @@
+{
+  "date": "2026-11-11",
+  "scope": "Lourdes and Padre Pio clinical adversarial crawl",
+  "sources": [
+    {
+      "id": "S01",
+      "title": "Agostino Gemelli, Osservazioni sullo scritto ... del dottor Giorgio Festa, 6 April 1926",
+      "type": "reproduced primary typescript",
+      "url": "https://messaggidonorione.it/articoli/1489/padre-agostino-gemelli-disse-il-vero--visito-le-stimmate-di-padre-pio-da-pietrelcina",
+      "locator": "ACDF, Santo Uffizio, Padre Pio, Prot. 255/1919, VIII, 131; original pages 1–3 (last partial)",
+      "access": "All three supplied image scans downloaded and visually inspected. Only first 2.5 of thirteen pages supplied; remainder not inspected.",
+      "files": [
+        "sources/gemelli-1926-1r.jpg",
+        "sources/gemelli-1926-2r.jpg",
+        "sources/gemelli-1926-3r.jpg"
+      ],
+      "sha256": {
+        "sources/gemelli-1926-1r.jpg": "af6aa1631981b971b31085b52e2f1559d7e5711b705ac4c4e525704549f64459",
+        "sources/gemelli-1926-2r.jpg": "3a1600f1b075c5a02055d7b5aa8711b94b43ed5edd8f653b82970ecf762fcc84",
+        "sources/gemelli-1926-3r.jpg": "ef8e43b9174d81cb402896344ed56eac8c30f4f971d11ece117b501f5d5f1d2e"
+      }
+    },
+    {
+      "id": "S02",
+      "title": "Flavio Peloso, Padre Agostino Gemelli disse il vero: visitò le stimmate di Padre Pio da Pietrelcina",
+      "type": "archival research by document editor",
+      "url": "https://messaggidonorione.it/articoli/1489/padre-agostino-gemelli-disse-il-vero--visito-le-stimmate-di-padre-pio-da-pietrelcina",
+      "locator": "Bollettino dell’Archivio per la storia del movimento sociale cattolico in Italia LI (2016),71–86; institutional repost 22 September 2021; document section, notes18,28–34,46–63",
+      "access": "Full web article read; quotes and scanned appendix compared. Independent 1919 visitor register or military file not acquired."
+    },
+    {
+      "id": "S03",
+      "title": "Mathieu Ginier-Gillet and Alessandro de Franciscis, Why Alexis Carrel, later Nobel laureate, left France for the United States: A reappraisal",
+      "type": "original archival historical research",
+      "url": "https://doi.org/10.1016/j.amjms.2025.11.010",
+      "locator": "American Journal of the Medical Sciences371(3),201–207 (March2026); online24Nov2025; PMID41297763",
+      "access": "Publisher indexed abstract/introduction and PubMed author/COI record read. Direct publisher open403; complete seven-page text and original archives not obtained.",
+      "metadata_url": "https://pubmed.ncbi.nlm.nih.gov/41297763/"
+    },
+    {
+      "id": "S04",
+      "title": "Michel-Marie Salmon, Guérison de Vittorio Micheli, sarcome du bassin",
+      "type": "primary medical report, not newly acquired",
+      "url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/0017270344",
+      "locator": "1995French56pageedition; Tarbes departmental archives8°BR1546; report quotations pp36–47 via Delourmel",
+      "access": "Fresh catalogue search confirmed holding; full report remains unacquired. Existing report-derived quotations reused with dependencies explicit."
+    },
+    {
+      "id": "S05",
+      "title": "Jim Garner, Spontaneous regressions: scientific documentation as a basis for the declaration of miracles",
+      "type": "original-era journal reporting with medical-image reproductions",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1955914/",
+      "locator": "CMA Journal111(7December1974),1254–1264; treatment p1257; author-source disclosure p1254; director interview context pp1255–1257",
+      "access": "Targeted follow-up freshly visually verified local scans of printed1254,1255,1257; treatment sentence and article-source disclosure read. Medication chart not reproduced; claim-specific source unnamed.",
+      "local_reference": "../../lourdes-medical-audit-20261101/sources/garner-1974-pmc.html"
+    },
+    {
+      "id": "S06",
+      "title": "Barbara A. Neilan, The Miraculous Cure of a Sarcoma of the Pelvis: Cure of Vittorio Micheli at Lourdes",
+      "type": "case presentation derived with permission from full medical report",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6027009/",
+      "locator": "Linacre Quarterly80(3)(2013),277–281; DOI10.1179/0024363913Z.00000000015",
+      "access": "Existing local complete text and focused audit reused; fresh search crosscheck. Direct PMC open interstitial this pass. No original films/slides acquired."
+    },
+    {
+      "id": "S07",
+      "title": "Christian Delourmel, La destructivité. Questions cliniques, théoriques et épistémologiques",
+      "type": "physician/psychoanalyst interpretation with report-specific quotations",
+      "url": "https://www.spp.asso.fr/textes/textes-et-conferences/psychanalyse-sciences-vivant/la-destructivite-questions-cliniques-theoriques-et-epistemologiques/",
+      "locator": "Micheli subsection, Salmon report quoted pp36–47",
+      "access": "Relevant fresh search excerpts and existing entire-subsection follow-up read. Not a new examination or proven psychosomatic mechanism."
+    },
+    {
+      "id": "S08",
+      "title": "Inger Dissing, Jan Heerfordt, Torben Schiødt, Otto Sneppen, Spontaneous regression of a malignant primary bone tumour",
+      "type": "original clinical case report",
+      "url": "https://actaorthop.org/actao/article/download/29079/33959/82545",
+      "locator": "Acta Orthopaedica Scandinavica49(1978),49–53",
+      "access": "Existing full five-page local text and focused audit reused; not a newly discovered counterexample.",
+      "local_reference": "../../lourdes-medical-audit-20261101/sources/dissing-natural-regression-1978.txt"
+    },
+    {
+      "id": "S09",
+      "title": "G. Iraci et al., Opto-chiasmatic arachnoiditis: a review of traditional neuroradiological diagnosis (82 cases,1951–1976)",
+      "type": "authors’ retrospective clinical series",
+      "url": "https://link.springer.com/article/10.1007/BF02056965",
+      "locator": "Acta Neurochirurgica48(1979),151–176, summary p151; references5,19",
+      "access": "Publisher summary/references and indexed paper transcription inspected; original complete scans not obtained. University of Padova neurosurgery, neuroradiology and ophthalmology group. No new diagnosis of Bigot."
+    },
+    {
+      "id": "S10",
+      "title": "Z. Bojarski, K. Drozd, R. Rylek, Spontaneous remission in a case of post-traumatic arachnoiditis in the chiasmal area",
+      "type": "primary clinical lead, metadata only",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1249900/",
+      "locator": "Klinika Oczna46(1)(1976),97–101; Polish; PMID1249900",
+      "access": "Fresh title/metadata checked. Full clinical report and usable abstract remain unavailable; severity, duration, treatments cannot be filled in."
+    },
+    {
+      "id": "S11",
+      "title": "Domenico Bonamonte, Michelangelo Vestita, Angela Filoni, Giuseppe Giudice, Gianni Angelini, Religious stigmata as malingering artifact",
+      "type": "original clinical case report plus review",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5265984/",
+      "locator": "Medicine95(49)(2016),e5354; Case presentation and Discussion; University of Bari dermatology/plastic surgery",
+      "access": "Full relevant original clinical narrative read; no observed act of production in their index patient; mechanism described probabilistically."
+    },
+    {
+      "id": "S12",
+      "title": "J.C. Alcolado, K. Ray, M. Baxter, C.W. Edwards, P.M. Dodson, Malignant change in dermatitis artefacta",
+      "type": "original clinical case report",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2399678/",
+      "locator": "Postgraduate Medical Journal69(814)(1993),648–650; Department of Medicine, East Birmingham Hospital",
+      "access": "Primary abstract and publisher indexed first page read; full three-page report not read. Case involves40years of excoriation, preexisting scar and fatal carcinoma; not scarless Pio analogue."
+    },
+    {
+      "id": "S13",
+      "title": "Bernard François, Esther M. Sternberg, Elizabeth Fee, The Lourdes Medical Cures Revisited",
+      "type": "archival/clinical cohort review with underlying-report access",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3854941/",
+      "locator": "J Hist Med Allied Sci69(1)(2014),135–162; online2012; Table3, critical assessment, footnote47",
+      "access": "Existing local full text and fresh web full-page access checked; 411historical reports and25modern reviewed cures are denominators of selected medical records, not all sick pilgrims. Reused, not new."
+    },
+    {
+      "id": "S14",
+      "title": "St John Dowling, Lourdes cures and their medical assessment",
+      "type": "first-person CMIL member clinical discussion",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1440112/",
+      "locator": "JRSM77(1984),634–638; Cirolli pp636–638",
+      "access": "Existing Cirolli deep audit and its visually inspected primary pages reused; no fresh slide access."
+    },
+    {
+      "id": "S15",
+      "title": "Gerardo Di Flumeri ed., Le stigmate di Padre Pio da Pietrelcina,2nded1995",
+      "type": "published primary document compilation",
+      "url": "https://www.imagomundi.biz/wp-content/uploads/2025/04/PBSO37-Le_stigmate_di_Padre_Pio_da_Pietrelcina-Gerardo_di_Flumeri.pdf",
+      "locator": "documents14,25,30,31,48,51,53; prior dressing audit and consolidated medical analysis",
+      "access": "Existing detailed primary-source reading reused. Full Rossi/Positio not obtained. No new chemical-control material."
+    },
+    {
+      "id": "S16",
+      "title": "Stefano Campanella, Per amore di verità. Alcune considerazioni sul caso Gemelli-Padre Pio",
+      "type": "direct institutional response by Tele Radio Padre Pio director",
+      "url": "https://www.teleradiopadrepio.it/per-amore-di-verita-alcune-considerazioni-sul-caso-gemelli-padre-pio/",
+      "locator": "2021response; first-page1920facsimile; convent chronicle objection; DiFlumeri2001pp421–466; Fabiano2013pp218–219",
+      "access": "Entire relevant response read. Convent chronicle and Fabiano originals not obtained; counterclaims distinguished from personally verified documents."
+    },
+    {
+      "id": "S17",
+      "title": "Agostino Gemelli,19April1920 report to Carlo Perosi, first page",
+      "type": "reproduced primary typescript",
+      "url": "https://www.teleradiopadrepio.it/wp-content/uploads/primo-foglio.png",
+      "locator": "Visible heading19.4.1920; HolyOfficeProt255/1919; first page only",
+      "access": "Downloaded and visually verified explicit statement that no medical examination was performed. Highlighting belongs to modern reproduction; unsigned supplied excerpt.",
+      "files": [
+        "sources/gemelli-1920-first-page.png"
+      ],
+      "sha256": {
+        "sources/gemelli-1920-first-page.png": "41e980a1145c6c37fc748be18b599f99fcdc83943ea19b4a7b9bf6550662d7ff"
+      }
+    }
+  ],
+  "download_bytes_this_pass": 5330289,
+  "note": "Fresh discoveries distinguished from reused controls. No emails, purchases, tally modifications or large downloads."
+}

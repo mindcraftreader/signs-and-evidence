@@ -1,0 +1,661 @@
+{
+  "status": "Exploratory joint calibration; actual equipment/whole-scene fit NOT established",
+  "published_image_inputs": {
+    "width": 1669.0,
+    "height": 1181.0,
+    "light_VP": [
+      -287.76341666666667,
+      1478.9628611111111
+    ],
+    "adopted_baseline_center": [
+      834.5,
+      555.125
+    ],
+    "horizon_y": 411.40555555555557
+  },
+  "adopted_not_independently_measured_vertical_VP": [
+    834.5,
+    21028.78987455197
+  ],
+  "baseline": {
+    "equivalent_focal_mm": 37,
+    "physical_focal_mm_if_plate_width_120mm": 123.33333333333333,
+    "image_principal_shift_mm_xy": [
+      0,
+      0
+    ],
+    "principal_point_px": [
+      834.5,
+      555.125
+    ],
+    "inferred_elevation_deg": 28.23860670865216,
+    "pitch_magnitude_deg": 4.78927165077602,
+    "roll_magnitude_deg": 0.0,
+    "horizon_at_x834_5_px": 411.40555555555557,
+    "horizon_change_px": 0.0,
+    "light_vp_reprojection_error_px": 0.0,
+    "vertical_vp_reprojection_error_px": 0.0
+  },
+  "solar_targeted_solutions": [
+    {
+      "equivalent_focal_mm": 18.097500000000004,
+      "physical_focal_mm_if_plate_width_120mm": 60.32500000000001,
+      "image_principal_shift_mm_xy": [
+        -13.631341882682172,
+        -13.631341882682172
+      ],
+      "principal_point_px": [
+        644.9107533150288,
+        365.5357533150288
+      ],
+      "inferred_elevation_deg": 42.71999999999998,
+      "pitch_magnitude_deg": 2.325088942335191,
+      "roll_magnitude_deg": 0.5256848125983473,
+      "horizon_at_x834_5_px": 329.72827652027536,
+      "horizon_change_px": -81.67727903528021,
+      "light_vp_reprojection_error_px": 0.0,
+      "vertical_vp_reprojection_error_px": 0.0
+    },
+    {
+      "equivalent_focal_mm": 26.67,
+      "physical_focal_mm_if_plate_width_120mm": 88.9,
+      "image_principal_shift_mm_xy": [
+        -23.524273645956946,
+        -23.524273645956946
+      ],
+      "principal_point_px": [
+        507.31656070748215,
+        227.94156070748215
+      ],
+      "inferred_elevation_deg": 42.71999999999999,
+      "pitch_magnitude_deg": 3.4013718712363175,
+      "roll_magnitude_deg": 0.9011499978935117,
+      "horizon_at_x834_5_px": 149.29766880865077,
+      "horizon_change_px": -262.1078867469048,
+      "light_vp_reprojection_error_px": 0.0,
+      "vertical_vp_reprojection_error_px": 3.637978807091713e-12
+    },
+    {
+      "equivalent_focal_mm": 30.0,
+      "physical_focal_mm_if_plate_width_120mm": 100.0,
+      "image_principal_shift_mm_xy": [
+        -28.065379877003707,
+        -28.065379877003707
+      ],
+      "principal_point_px": [
+        444.1573415440068,
+        164.78234154400678
+      ],
+      "inferred_elevation_deg": 42.71999999999999,
+      "pitch_magnitude_deg": 3.8131347459618414,
+      "roll_magnitude_deg": 1.0718160442612852,
+      "horizon_at_x834_5_px": 64.76393669919455,
+      "horizon_change_px": -346.641618856361,
+      "light_vp_reprojection_error_px": 5.684341886080802e-14,
+      "vertical_vp_reprojection_error_px": 0.0
+    },
+    {
+      "equivalent_focal_mm": 37.0,
+      "physical_focal_mm_if_plate_width_120mm": 123.33333333333333,
+      "image_principal_shift_mm_xy": [
+        -38.52353018922123,
+        -38.52353018922123
+      ],
+      "principal_point_px": [
+        298.70190095158137,
+        19.326900951581365
+      ],
+      "inferred_elevation_deg": 42.71999999999999,
+      "pitch_magnitude_deg": 4.6661685179252625,
+      "roll_magnitude_deg": 1.460880602640643,
+      "horizon_at_x834_5_px": -134.39160906051907,
+      "horizon_change_px": -545.7971646160746,
+      "light_vp_reprojection_error_px": 0.0,
+      "vertical_vp_reprojection_error_px": 0.0
+    }
+  ],
+  "sensitivity_grid": [
+    {
+      "equivalent_focal_mm": 18.097500000000004,
+      "physical_focal_mm_if_plate_width_120mm": 60.32500000000001,
+      "image_principal_shift_mm_xy": [
+        -0.0,
+        -0.0
+      ],
+      "principal_point_px": [
+        834.5,
+        555.125
+      ],
+      "inferred_elevation_deg": 34.78139613124738,
+      "pitch_magnitude_deg": 2.3466943211778646,
+      "roll_magnitude_deg": 0.0,
+      "horizon_at_x834_5_px": 520.7415657538578,
+      "horizon_change_px": 109.33601019830223,
+      "light_vp_reprojection_error_px": 0.0,
+      "vertical_vp_reprojection_error_px": 0.0
+    },
+    {
+      "equivalent_focal_mm": 18.097500000000004,
+      "physical_focal_mm_if_plate_width_120mm": 60.32500000000001,
+      "image_principal_shift_mm_xy": [
+        -5.0,
+        -5.0
+      ],
+      "principal_point_px": [
+        764.9583333333334,
+        485.5833333333333
+      ],
+      "inferred_elevation_deg": 37.705620233616486,
+      "pitch_magnitude_deg": 2.338745879117338,
+      "roll_magnitude_deg": 0.19395359594532172,
+      "horizon_at_x834_5_px": 451.08088348586944,
+      "horizon_change_px": 39.67532793031387,
+      "light_vp_reprojection_error_px": 2.5421149729252077e-13,
+      "vertical_vp_reprojection_error_px": 0.0
+    },
+    {
+      "equivalent_focal_mm": 18.097500000000004,
+      "physical_focal_mm_if_plate_width_120mm": 60.32500000000001,
+      "image_principal_shift_mm_xy": [
+        -10.0,
+        -10.0
+      ],
+      "principal_point_px": [
+        695.4166666666666,
+        416.04166666666663
+      ],
+      "inferred_elevation_deg": 40.62167064638088,
+      "pitch_magnitude_deg": 2.330824660075746,
+      "roll_magnitude_deg": 0.3865941109722699,
+      "horizon_at_x834_5_px": 380.95177587150687,
+      "horizon_change_px": -30.453779684048698,
+      "light_vp_reprojection_error_px": 0.0,
+      "vertical_vp_reprojection_error_px": 0.0
+    },
+    {
+      "equivalent_focal_mm": 18.097500000000004,
+      "physical_focal_mm_if_plate_width_120mm": 60.32500000000001,
+      "image_principal_shift_mm_xy": [
+        -15.0,
+        -15.0
+      ],
+      "principal_point_px": [
+        625.875,
+        346.5
+      ],
+      "inferred_elevation_deg": 43.504306948999144,
+      "pitch_magnitude_deg": 2.3229309229451514,
+      "roll_magnitude_deg": 0.5779305231682847,
+      "horizon_at_x834_5_px": 310.3589679793422,
+      "horizon_change_px": -101.04658757621337,
+      "light_vp_reprojection_error_px": 1.1368683772161603e-13,
+      "vertical_vp_reprojection_error_px": 0.0
+    },
+    {
+      "equivalent_focal_mm": 18.097500000000004,
+      "physical_focal_mm_if_plate_width_120mm": 60.32500000000001,
+      "image_principal_shift_mm_xy": [
+        -20.0,
+        -20.0
+      ],
+      "principal_point_px": [
+        556.3333333333333,
+        276.9583333333333
+      ],
+      "inferred_elevation_deg": 46.3286084715653,
+      "pitch_magnitude_deg": 2.3150649149844713,
+      "roll_magnitude_deg": 0.767971805827347,
+      "horizon_at_x834_5_px": 239.30712154105257,
+      "horizon_change_px": -172.098434014503,
+      "light_vp_reprojection_error_px": 0.0,
+      "vertical_vp_reprojection_error_px": 0.0
+    },
+    {
+      "equivalent_focal_mm": 18.097500000000004,
+      "physical_focal_mm_if_plate_width_120mm": 60.32500000000001,
+      "image_principal_shift_mm_xy": [
+        -25.0,
+        -25.0
+      ],
+      "principal_point_px": [
+        486.7916666666667,
+        207.41666666666669
+      ],
+      "inferred_elevation_deg": 49.07085668584922,
+      "pitch_magnitude_deg": 2.307226872080982,
+      "roll_magnitude_deg": 0.9567269251686087,
+      "horizon_at_x834_5_px": 167.80083600912045,
+      "horizon_change_px": -243.60471954643512,
+      "light_vp_reprojection_error_px": 5.684341886080802e-14,
+      "vertical_vp_reprojection_error_px": 0.0
+    },
+    {
+      "equivalent_focal_mm": 18.097500000000004,
+      "physical_focal_mm_if_plate_width_120mm": 60.32500000000001,
+      "image_principal_shift_mm_xy": [
+        -30.0,
+        -30.0
+      ],
+      "principal_point_px": [
+        417.25,
+        137.875
+      ],
+      "inferred_elevation_deg": 51.70928661379818,
+      "pitch_magnitude_deg": 2.2994170190085534,
+      "roll_magnitude_deg": 1.1442048381343433,
+      "horizon_at_x834_5_px": 95.84464959340774,
+      "horizon_change_px": -315.56090596214784,
+      "light_vp_reprojection_error_px": 0.0,
+      "vertical_vp_reprojection_error_px": 0.0
+    },
+    {
+      "equivalent_focal_mm": 26.67,
+      "physical_focal_mm_if_plate_width_120mm": 88.9,
+      "image_principal_shift_mm_xy": [
+        -0.0,
+        -0.0
+      ],
+      "principal_point_px": [
+        834.5,
+        555.125
+      ],
+      "inferred_elevation_deg": 31.485528106965464,
+      "pitch_magnitude_deg": 3.4560238951209583,
+      "roll_magnitude_deg": 0.0,
+      "horizon_at_x834_5_px": 480.4529433546384,
+      "horizon_change_px": 69.04738779908286,
+      "light_vp_reprojection_error_px": 0.0,
+      "vertical_vp_reprojection_error_px": 0.0
+    },
+    {
+      "equivalent_focal_mm": 26.67,
+      "physical_focal_mm_if_plate_width_120mm": 88.9,
+      "image_principal_shift_mm_xy": [
+        -5.0,
+        -5.0
+      ],
+      "principal_point_px": [
+        764.9583333333334,
+        485.5833333333333
+      ],
+      "inferred_elevation_deg": 33.92038472585315,
+      "pitch_magnitude_deg": 3.444333290412596,
+      "roll_magnitude_deg": 0.19395359594532172,
+      "horizon_at_x834_5_px": 410.92864378541356,
+      "horizon_change_px": -0.47691177014201,
+      "light_vp_reprojection_error_px": 2.5421149729252077e-13,
+      "vertical_vp_reprojection_error_px": 0.0
+    },
+    {
+      "equivalent_focal_mm": 26.67,
+      "physical_focal_mm_if_plate_width_120mm": 88.9,
+      "image_principal_shift_mm_xy": [
+        -10.0,
+        -10.0
+      ],
+      "principal_point_px": [
+        695.4166666666666,
+        416.04166666666663
+      ],
+      "inferred_elevation_deg": 36.34490718812138,
+      "pitch_magnitude_deg": 3.432682571571715,
+      "roll_magnitude_deg": 0.38659411097227,
+      "horizon_at_x834_5_px": 340.93499863539625,
+      "horizon_change_px": -70.47055692015931,
+      "light_vp_reprojection_error_px": 0.0,
+      "vertical_vp_reprojection_error_px": 0.0
+    },
+    {
+      "equivalent_focal_mm": 26.67,
+      "physical_focal_mm_if_plate_width_120mm": 88.9,
+      "image_principal_shift_mm_xy": [
+        -15.0,
+        -15.0
+      ],
+      "principal_point_px": [
+        625.875,
+        346.5
+      ],
+      "inferred_elevation_deg": 38.74226167844766,
+      "pitch_magnitude_deg": 3.4210721214866098,
+      "roll_magnitude_deg": 0.5779305231682847,
+      "horizon_at_x834_5_px": 270.47674225568534,
+      "horizon_change_px": -140.92881329987023,
+      "light_vp_reprojection_error_px": 0.0,
+      "vertical_vp_reprojection_error_px": 0.0
+    },
+    {
+      "equivalent_focal_mm": 26.67,
+      "physical_focal_mm_if_plate_width_120mm": 88.9,
+      "image_principal_shift_mm_xy": [
+        -20.0,
+        -20.0
+      ],
+      "principal_point_px": [
+        556.3333333333333,
+        276.9583333333333
+      ],
+      "inferred_elevation_deg": 41.0958939039575,
+      "pitch_magnitude_deg": 3.4095023059385205,
+      "roll_magnitude_deg": 0.767971805827347,
+      "horizon_at_x834_5_px": 199.55854553605747,
+      "horizon_change_px": -211.8470100194981,
+      "light_vp_reprojection_error_px": 0.0,
+      "vertical_vp_reprojection_error_px": 0.0
+    },
+    {
+      "equivalent_focal_mm": 26.67,
+      "physical_focal_mm_if_plate_width_120mm": 88.9,
+      "image_principal_shift_mm_xy": [
+        -25.0,
+        -25.0
+      ],
+      "principal_point_px": [
+        486.7916666666667,
+        207.41666666666669
+      ],
+      "inferred_elevation_deg": 43.390024300416655,
+      "pitch_magnitude_deg": 3.397973473984937,
+      "roll_magnitude_deg": 0.9567269251686089,
+      "horizon_at_x834_5_px": 128.18501696474533,
+      "horizon_change_px": -283.22053859081024,
+      "light_vp_reprojection_error_px": 5.684341886080802e-14,
+      "vertical_vp_reprojection_error_px": 0.0
+    },
+    {
+      "equivalent_focal_mm": 26.67,
+      "physical_focal_mm_if_plate_width_120mm": 88.9,
+      "image_principal_shift_mm_xy": [
+        -30.0,
+        -30.0
+      ],
+      "principal_point_px": [
+        417.25,
+        137.875
+      ],
+      "inferred_elevation_deg": 45.610090263260815,
+      "pitch_magnitude_deg": 3.3864859583381213,
+      "roll_magnitude_deg": 1.1442048381343433,
+      "horizon_at_x834_5_px": 56.36070366704847,
+      "horizon_change_px": -355.0448518885071,
+      "light_vp_reprojection_error_px": 0.0,
+      "vertical_vp_reprojection_error_px": 0.0
+    },
+    {
+      "equivalent_focal_mm": 30.0,
+      "physical_focal_mm_if_plate_width_120mm": 100.0,
+      "image_principal_shift_mm_xy": [
+        -0.0,
+        -0.0
+      ],
+      "principal_point_px": [
+        834.5,
+        555.125
+      ],
+      "inferred_elevation_deg": 30.331904341694194,
+      "pitch_magnitude_deg": 3.8862916986721525,
+      "roll_magnitude_deg": 0.0,
+      "horizon_at_x834_5_px": 460.6418005843681,
+      "horizon_change_px": 49.23624502881256,
+      "light_vp_reprojection_error_px": 0.0,
+      "vertical_vp_reprojection_error_px": 0.0
+    },
+    {
+      "equivalent_focal_mm": 30.0,
+      "physical_focal_mm_if_plate_width_120mm": 100.0,
+      "image_principal_shift_mm_xy": [
+        -5.0,
+        -5.0
+      ],
+      "principal_point_px": [
+        764.9583333333334,
+        485.5833333333333
+      ],
+      "inferred_elevation_deg": 32.59990551708609,
+      "pitch_magnitude_deg": 3.87315403574975,
+      "roll_magnitude_deg": 0.19395359594532172,
+      "horizon_at_x834_5_px": 391.1845645421565,
+      "horizon_change_px": -20.220991013399043,
+      "light_vp_reprojection_error_px": 1.1368683772161603e-13,
+      "vertical_vp_reprojection_error_px": 0.0
+    },
+    {
+      "equivalent_focal_mm": 30.0,
+      "physical_focal_mm_if_plate_width_120mm": 100.0,
+      "image_principal_shift_mm_xy": [
+        -10.0,
+        -10.0
+      ],
+      "principal_point_px": [
+        695.4166666666666,
+        416.04166666666663
+      ],
+      "inferred_elevation_deg": 34.85825616981091,
+      "pitch_magnitude_deg": 3.860061110967527,
+      "roll_magnitude_deg": 0.3865941109722699,
+      "horizon_at_x834_5_px": 321.25753041186,
+      "horizon_change_px": -90.14802514369558,
+      "light_vp_reprojection_error_px": 1.1368683772161603e-13,
+      "vertical_vp_reprojection_error_px": 0.0
+    },
+    {
+      "equivalent_focal_mm": 30.0,
+      "physical_focal_mm_if_plate_width_120mm": 100.0,
+      "image_principal_shift_mm_xy": [
+        -15.0,
+        -15.0
+      ],
+      "principal_point_px": [
+        625.875,
+        346.5
+      ],
+      "inferred_elevation_deg": 37.09277076023258,
+      "pitch_magnitude_deg": 3.8470133557661135,
+      "roll_magnitude_deg": 0.5779305231682846,
+      "horizon_at_x834_5_px": 250.86543710907844,
+      "horizon_change_px": -160.54011844647712,
+      "light_vp_reprojection_error_px": 0.0,
+      "vertical_vp_reprojection_error_px": 0.0
+    },
+    {
+      "equivalent_focal_mm": 30.0,
+      "physical_focal_mm_if_plate_width_120mm": 100.0,
+      "image_principal_shift_mm_xy": [
+        -20.0,
+        -20.0
+      ],
+      "principal_point_px": [
+        556.3333333333333,
+        276.9583333333333
+      ],
+      "inferred_elevation_deg": 39.28951059874306,
+      "pitch_magnitude_deg": 3.834011182363357,
+      "roll_magnitude_deg": 0.767971805827347,
+      "horizon_at_x834_5_px": 180.01296002690498,
+      "horizon_change_px": -231.3925955286506,
+      "light_vp_reprojection_error_px": 0.0,
+      "vertical_vp_reprojection_error_px": 0.0
+    },
+    {
+      "equivalent_focal_mm": 30.0,
+      "physical_focal_mm_if_plate_width_120mm": 100.0,
+      "image_principal_shift_mm_xy": [
+        -25.0,
+        -25.0
+      ],
+      "principal_point_px": [
+        486.7916666666667,
+        207.41666666666669
+      ],
+      "inferred_elevation_deg": 41.43516802998643,
+      "pitch_magnitude_deg": 3.821054984184332,
+      "roll_magnitude_deg": 0.9567269251686087,
+      "horizon_at_x834_5_px": 108.70471209672596,
+      "horizon_change_px": -302.7008434588296,
+      "light_vp_reprojection_error_px": 5.684341886080802e-14,
+      "vertical_vp_reprojection_error_px": 0.0
+    },
+    {
+      "equivalent_focal_mm": 30.0,
+      "physical_focal_mm_if_plate_width_120mm": 100.0,
+      "image_principal_shift_mm_xy": [
+        -30.0,
+        -30.0
+      ],
+      "principal_point_px": [
+        417.25,
+        137.875
+      ],
+      "inferred_elevation_deg": 43.51741303124632,
+      "pitch_magnitude_deg": 3.8081451362860173,
+      "roll_magnitude_deg": 1.1442048381343433,
+      "horizon_at_x834_5_px": 36.94524482783307,
+      "horizon_change_px": -374.4603107277225,
+      "light_vp_reprojection_error_px": 0.0,
+      "vertical_vp_reprojection_error_px": 0.0
+    },
+    {
+      "equivalent_focal_mm": 37.0,
+      "physical_focal_mm_if_plate_width_120mm": 123.33333333333333,
+      "image_principal_shift_mm_xy": [
+        -0.0,
+        -0.0
+      ],
+      "principal_point_px": [
+        834.5,
+        555.125
+      ],
+      "inferred_elevation_deg": 28.23860670865216,
+      "pitch_magnitude_deg": 4.78927165077602,
+      "roll_magnitude_deg": 0.0,
+      "horizon_at_x834_5_px": 411.40555555555557,
+      "horizon_change_px": 0.0,
+      "light_vp_reprojection_error_px": 0.0,
+      "vertical_vp_reprojection_error_px": 0.0
+    },
+    {
+      "equivalent_focal_mm": 37.0,
+      "physical_focal_mm_if_plate_width_120mm": 123.33333333333333,
+      "image_principal_shift_mm_xy": [
+        -5.0,
+        -5.0
+      ],
+      "principal_point_px": [
+        764.9583333333334,
+        485.5833333333333
+      ],
+      "inferred_elevation_deg": 30.20346420004795,
+      "pitch_magnitude_deg": 4.773107097583929,
+      "roll_magnitude_deg": 0.19395359594532174,
+      "horizon_at_x834_5_px": 342.1149911832627,
+      "horizon_change_px": -69.29056437229286,
+      "light_vp_reprojection_error_px": 1.1368683772161603e-13,
+      "vertical_vp_reprojection_error_px": 0.0
+    },
+    {
+      "equivalent_focal_mm": 37.0,
+      "physical_focal_mm_if_plate_width_120mm": 123.33333333333333,
+      "image_principal_shift_mm_xy": [
+        -10.0,
+        -10.0
+      ],
+      "principal_point_px": [
+        695.4166666666666,
+        416.04166666666663
+      ],
+      "inferred_elevation_deg": 32.160941091408155,
+      "pitch_magnitude_deg": 4.756997331708156,
+      "roll_magnitude_deg": 0.3865941109722699,
+      "horizon_at_x834_5_px": 272.3535041153756,
+      "horizon_change_px": -139.05205144017998,
+      "light_vp_reprojection_error_px": 1.1368683772161603e-13,
+      "vertical_vp_reprojection_error_px": 0.0
+    },
+    {
+      "equivalent_focal_mm": 37.0,
+      "physical_focal_mm_if_plate_width_120mm": 123.33333333333333,
+      "image_principal_shift_mm_xy": [
+        -15.0,
+        -15.0
+      ],
+      "principal_point_px": [
+        625.875,
+        346.5
+      ],
+      "inferred_elevation_deg": 34.101148547920786,
+      "pitch_magnitude_deg": 4.740942887511942,
+      "roll_magnitude_deg": 0.5779305231682847,
+      "horizon_at_x834_5_px": 202.12584461155907,
+      "horizon_change_px": -209.2797109439965,
+      "light_vp_reprojection_error_px": 0.0,
+      "vertical_vp_reprojection_error_px": 0.0
+    },
+    {
+      "equivalent_focal_mm": 37.0,
+      "physical_focal_mm_if_plate_width_120mm": 123.33333333333333,
+      "image_principal_shift_mm_xy": [
+        -20.0,
+        -20.0
+      ],
+      "principal_point_px": [
+        556.3333333333333,
+        276.9583333333333
+      ],
+      "inferred_elevation_deg": 36.01437047611369,
+      "pitch_magnitude_deg": 4.724944275712609,
+      "roll_magnitude_deg": 0.767971805827347,
+      "horizon_at_x834_5_px": 131.43669925691043,
+      "horizon_change_px": -279.96885629864516,
+      "light_vp_reprojection_error_px": 0.0,
+      "vertical_vp_reprojection_error_px": 0.0
+    },
+    {
+      "equivalent_focal_mm": 37.0,
+      "physical_focal_mm_if_plate_width_120mm": 123.33333333333333,
+      "image_principal_shift_mm_xy": [
+        -25.0,
+        -25.0
+      ],
+      "principal_point_px": [
+        486.7916666666667,
+        207.41666666666669
+      ],
+      "inferred_elevation_deg": 37.891285273264344,
+      "pitch_magnitude_deg": 4.709001983908416,
+      "roll_magnitude_deg": 0.9567269251686087,
+      "horizon_at_x834_5_px": 60.29069202529879,
+      "horizon_change_px": -351.1148635302568,
+      "light_vp_reprojection_error_px": 5.684341886080802e-14,
+      "vertical_vp_reprojection_error_px": 0.0
+    },
+    {
+      "equivalent_focal_mm": 37.0,
+      "physical_focal_mm_if_plate_width_120mm": 123.33333333333333,
+      "image_principal_shift_mm_xy": [
+        -30.0,
+        -30.0
+      ],
+      "principal_point_px": [
+        417.25,
+        137.875
+      ],
+      "inferred_elevation_deg": 39.72316923890139,
+      "pitch_magnitude_deg": 4.693116477098919,
+      "roll_magnitude_deg": 1.1442048381343435,
+      "horizon_at_x834_5_px": -11.307614678534229,
+      "horizon_change_px": -422.7131702340898,
+      "light_vp_reprojection_error_px": 0.0,
+      "vertical_vp_reprojection_error_px": 0.0
+    }
+  ],
+  "validation": "Baseline, horizon identity, light-VP and vertical-VP reprojections pass",
+  "caveats": [
+    "Solutions were deliberately fitted to the astronomical target, not estimated blindly.",
+    "Vertical VP is implied by the old baseline, not newly measured.",
+    "Preserving a VP preserves the corresponding projected line family, not known scene anatomy.",
+    "Horizon changes: the baseline estimated horizon is not preserved.",
+    "No exact camera identity, shift travel, mount/focus compatibility or use is recovered.",
+    "No likelihood for any camera configuration is estimated.",
+    "This does not demonstrate ordinary lighting for the complete historical scene."
+  ]
+}

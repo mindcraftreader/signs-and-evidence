@@ -1,0 +1,121 @@
+CURRENT AGREED UPDATE — 11 NOVEMBER 2026 — Z-02 HIGH
+Z-02 is upgraded from MODERATE to HIGH confidence in the withdrawal of the
+Pepper's Ghost challenge as presented. Daniel's count was approximate, not an
+assertion of exactly ninety individually documented appearances. The supported
+recurrence adds operational requirements to the proposed explanation. Unverified
+roof dimensions and witness stations still limit a universal claim of physical
+impossibility; they do not make the recurrence evidence moderate or undo the
+withdrawal. This revises the prior same-day decision to retain MODERATE.
+No new point: the main tally remains 16–0.
+Among the original fifteen rated defenses: 13 HIGH and 2 MODERATE. F-07 remains
+an additional recorded defense without a rating in that historical audit.
+Earlier assessments below are retained as dated history, not current ratings.
+
+ZEITOUN CHRONOLOGY AND Z-02 CONFIDENCE REVIEW
+11 November 2026
+
+Decision
+The Pepper's Ghost challenge remains withdrawn. No new tally point: main score
+remains 16–0. Retain MODERATE for the existing Z-02 geometry-based defense,
+rather than upgrading it merely because the series recurred. The original
+rating explicitly depends on unverified witness stations and roof dimensions.
+Repeated operation increases what a proposed installation must explain, but
+does not independently measure those dimensions or rule out a reusable setup.
+
+There is strong documentary support for the narrower positive finding that
+recognizable-figure reports recur on separate nights. The November 6 audit
+already withdrew the attempt to reduce that history to a few ambiguous lights
+or a single story repeatedly retold. This supports Z-01 and adds an operational
+constraint to Z-02. It does not make a mathematical probability out of ninety
+repetitions. No historical installation or adequate complete mechanism has been
+identified in this research. That is a finding about the investigation's result,
+not a demonstration that every possible installation is physically impossible.
+
+What the consolidated timeline contains
+93 inherited observation records, grouped in 64 historical event groups:
+57 groups have dates; seven originally had unresolved dates. A dated group is
+not necessarily one distinct observing night, nor necessarily a figure report.
+Nine supplementary rows add later-source information and context, making
+73 display rows. Some rows are period summaries, unsuccessful visits, corrected
+false alarms or context-only newspaper publications. Do not call this a list
+of 73 apparitions. The 65 older calendar candidates (53 distinct dates) are
+preserved separately in the JSON, with their original verification flags.
+
+Chronological findings
+2 April 1968: first evening report, with 20:30/21:00 source variation. The early
+hours of 3 April may be part of the same vigil, not another independent night.
+28 and 30 April: substantial named-figure accounts published in Watani, 5 May.
+30 April variants differ about uninterrupted visibility; preserve the break
+and later return described in the 1969 booklet.
+19, 22 and 23 May: separate nights in Watani, 26 May; Gregorian dates are
+normalized from relative weekdays. Repeated phases do not become extra nights.
+27 and 28 May: further figure reports in Watani, 2 June. Eight phases on one
+night are not eight nights. Original printed page 3 was checked in the earlier
+recurrence audit.
+31 May: Gobreial couple's figure report, collected in interviews in 1980–81.
+Keep its retrospective timing visible beside the earlier newspaper evidence.
+Later 1968–May 1969: named dated witness extracts in the Gregorios appendix,
+published in 2007. Those pages preserve attributed reports; the original signed
+statements and their recording dates were not recovered.
+4 April 1969: half-hour figure report traced through Egyptian Gazette, Zaki
+and Dumsday. The recovered original headline/date is legible; the entire body
+is not independently readable. Distinct source chain, not three confirmations.
+21 August 1969–11 June 1971: Bayless summarizes an anonymous nun's diary via
+Zaki: 105 visits, 17 individual Marian apparitions, bird forms on 24 nights,
+other lights on 85 nights. Categories overlap; the seventeen sightings are not
+individually dated in this summary.
+6 January, 14 February, 6 March 1970: later chronology via Johnston, quoted
+by Dumsday. Primary dated statements remain unrecovered.
+Late July/early August 1970: contemporary Al-Fida evidence of renewed figures.
+The November 6 audit verified the printed issue date, 3 August 1970, issue 78.
+Thursday/Friday wording remains inconsistent; no fabricated exact-night list.
+29 May 1971: claimed final apparition in later sources cited by Dumsday,
+notes 140–142. No recovered contemporary dated eyewitness record here.
+11 June 1971: final nun's diary entry describes a water-container phenomenon.
+It is not evidence of a full-figure apparition on that date.
+15 August 1971: Watani's original feature documents shrine crowds and worship,
+recalling April 1968; it does not establish a new apparition that August.
+
+Consequence for “ninety over three years, then never again”
+Recurrence is well supported. Approximately ninety is a summary estimate,
+not an inspected ninety-night primary-source calendar. Reports extend into
+1971 in later accounts; the clearest original contemporary figure reporting
+recovered in this dossier extends through 1970. Neither a precise final night
+nor the absolute assertion “never again” has been established by this register.
+No date-by-date blackout, equipment-inspection or illumination-measurement
+series has been recovered. Those variables cannot be assigned to every row.
+
+What would settle the remaining timeline questions
+1. Recover the full nun's diary in Zaki, preserving each visit and category.
+2. Obtain the original dated report behind the claimed 29 May 1971 finale.
+3. Resolve Al-Fida's Thursday/Friday wording with a complete issue.
+4. Continue the Watani serial archive, especially 1969–71, linking each report
+   to its original publication and distinguishing phases from observing nights.
+These are finite archival targets, not conditions for retaining the successful
+defense against the recurrence objection already withdrawn.
+
+Scope of this pass
+Consolidated existing registers, incorporated the November 6 original-source
+audit, and reread Bayless's diary passage and Dumsday's late chronology and
+citations. This is not a fresh inspection of every Arabic scan. Live church
+archive requests returned 403, and the live Bayless PDF URL returned 404;
+previously saved copies remain linked. Provenance hashes are in provenance.json.
+No new photometric experiment or camera/roof survey was performed.
+
+Sources
+Watani 5 May 1968:
+https://ourladyofzeitoun.com/en/newspaper/watani-newspaper-may-5-1968/
+Watani 26 May 1968:
+https://ourladyofzeitoun.com/en/newspaper/watani-newspaper-may-26-1968/
+Watani 2 June 1968:
+https://ourladyofzeitoun.com/en/newspaper/watani-june-2-1968/
+Al-Fida 3 August 1970:
+https://ourladyofzeitoun.com/en/newspaper/al-fida-newspaper-3-august-1970/
+Bayless, original journal article, printed pp.21–22; saved PDF:
+../zeitoun-recurrence-full-audit-20261106/sources/scspr-1981-volume2.pdf
+Dumsday, historical overview, notes 140–142:
+../zeitoun-recurrence-full-audit-20261106/sources/dumsday-layout.txt
+Original-source inspection and recovery account:
+../zeitoun-recurrence-full-audit-20261106/audit-report.txt
+Optical model and its geometric assumptions:
+../zeitoun-peppers-ghost-20261107/report.txt

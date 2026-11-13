@@ -1,0 +1,2890 @@
+{
+  "scope": "Conditional model verification, not D115 remeasurement or universal distortion bound",
+  "published_vp_px": [
+    -287.76341666666667,
+    1478.9628611111111
+  ],
+  "assumed_principal_point_px": [
+    834.5,
+    555.125
+  ],
+  "empirical_source": "Magill1955Table2specimenB,m=0,f=165.1mm; convention assumes zero distortion at5degrees",
+  "empirical_coefficients": [
+    0.005241989680374492,
+    0.006121201320719705,
+    -0.0002703277440031584
+  ],
+  "empirical_fit": [
+    {
+      "angle_deg": 10,
+      "observed_distortion_mm": 0.004,
+      "fitted_distortion_mm": 0.004916620144772278,
+      "residual_mm": 0.0009166201447722783
+    },
+    {
+      "angle_deg": 15,
+      "observed_distortion_mm": 0.018,
+      "fitted_distortion_mm": 0.018040924227313078,
+      "residual_mm": 4.092422731307929e-05
+    },
+    {
+      "angle_deg": 20,
+      "observed_distortion_mm": 0.048,
+      "fitted_distortion_mm": 0.048146759370769406,
+      "residual_mm": 0.00014675937076940454
+    },
+    {
+      "angle_deg": 25,
+      "observed_distortion_mm": 0.11,
+      "fitted_distortion_mm": 0.10982041785764843,
+      "residual_mm": -0.00017958214235157255
+    },
+    {
+      "angle_deg": 30,
+      "observed_distortion_mm": 0.232,
+      "fitted_distortion_mm": 0.23043273161107172,
+      "residual_mm": -0.001567268388928289
+    },
+    {
+      "angle_deg": 35,
+      "observed_distortion_mm": 0.462,
+      "fitted_distortion_mm": 0.4635363409484017,
+      "residual_mm": 0.00153634094840166
+    },
+    {
+      "angle_deg": 40,
+      "observed_distortion_mm": 0.919,
+      "fitted_distortion_mm": 0.9186267896373538,
+      "residual_mm": -0.00037321036264625906
+    }
+  ],
+  "local_k1_bounds": [
+    {
+      "maximum_abs_fractional_radial_displacement": 0.005,
+      "worst_local_line_rotation_deg": 0.2893738540178179,
+      "direct_jacobian_angle_sweep_max_deg": 0.2893738539346232
+    },
+    {
+      "maximum_abs_fractional_radial_displacement": 0.01,
+      "worst_local_line_rotation_deg": 0.5846609577936199,
+      "direct_jacobian_angle_sweep_max_deg": 0.584660951113644
+    }
+  ],
+  "cases": [
+    {
+      "fd_equivalent_mm": 30,
+      "model": "k1_stress",
+      "parameter": -0.01,
+      "baseline_elevation_deg": 31.859311979477965,
+      "corrected_elevation_deg": 31.716979483460914,
+      "source_elevation_change_deg": -0.1423324960170511,
+      "corrected_vp_px": [
+        -289.61415111428494,
+        1474.0140424638528
+      ],
+      "horizon_center_correction_px": -0.02842198971200105,
+      "rms_line_miss_px": 4.074972709849746,
+      "segments": [
+        {
+          "region": "hat",
+          "constructed_endpoints": [
+            [
+              842.3438226349236,
+              760.0511598235116
+            ],
+            [
+              867.6561773650764,
+              743.9488401764884
+            ]
+          ],
+          "corrected_endpoints": [
+            [
+              842.3469829724623,
+              760.1337261774052
+            ],
+            [
+              867.6678501710041,
+              744.0153165985636
+            ]
+          ],
+          "image_line_rotation_deg": 0.017192627908428904,
+          "endpoint_displacements_px": [
+            [
+              0.0031603375387021515,
+              0.08256635389352596
+            ],
+            [
+              0.011672805927787522,
+              0.06647642207519766
+            ]
+          ],
+          "differential_displacement_px": 0.018202967450216215
+        },
+        {
+          "region": "left_stone",
+          "constructed_endpoints": [
+            [
+              178.98689405469491,
+              959.5784199179649
+            ],
+            [
+              189.01310594530509,
+              948.4215800820351
+            ]
+          ],
+          "corrected_endpoints": [
+            [
+              175.20076936169573,
+              961.9144694437956
+            ],
+            [
+              185.42511745531885,
+              950.6077493373411
+            ]
+          ],
+          "image_line_rotation_deg": 0.17736588197314518,
+          "endpoint_displacements_px": [
+            [
+              -3.7861246929991808,
+              2.336049525830731
+            ],
+            [
+              -3.5879884899862304,
+              2.1861692553060266
+            ]
+          ],
+          "differential_displacement_px": 0.24843922886079736
+        },
+        {
+          "region": "left_hand",
+          "constructed_endpoints": [
+            [
+              42.55497287487509,
+              384.7866372964382
+            ],
+            [
+              45.44502712512491,
+              375.2133627035618
+            ]
+          ],
+          "corrected_endpoints": [
+            [
+              37.48636821370337,
+              383.69643811643977
+            ],
+            [
+              40.40446055827044,
+              374.06406814853176
+            ]
+          ],
+          "image_line_rotation_deg": 0.055576986242172666,
+          "endpoint_displacements_px": [
+            [
+              -5.068604661171719,
+              -1.0901991799984216
+            ],
+            [
+              -5.040566566854466,
+              -1.1492945550300533
+            ]
+          ],
+          "differential_displacement_px": 0.06540946478203576
+        },
+        {
+          "region": "right_pebbles",
+          "constructed_endpoints": [
+            [
+              1574.1522432768359,
+              1051.343034365416
+            ],
+            [
+              1585.8477567231641,
+              1048.656965634584
+            ]
+          ],
+          "corrected_endpoints": [
+            [
+              1579.8988088738188,
+              1055.198291360587
+            ],
+            [
+              1591.7965634026575,
+              1052.5645120768797
+            ]
+          ],
+          "image_line_rotation_deg": 0.4524740385129462,
+          "endpoint_displacements_px": [
+            [
+              5.746565596982919,
+              3.8552569951709756
+            ],
+            [
+              5.948806679493373,
+              3.907546442295825
+            ]
+          ],
+          "differential_displacement_px": 0.20889145922134492
+        }
+      ]
+    },
+    {
+      "fd_equivalent_mm": 30,
+      "model": "k1_stress",
+      "parameter": -0.005,
+      "baseline_elevation_deg": 31.859311979477965,
+      "corrected_elevation_deg": 31.789719886719183,
+      "source_elevation_change_deg": -0.06959209275878209,
+      "corrected_vp_px": [
+        -288.7187689206894,
+        1476.5615872026476
+      ],
+      "horizon_center_correction_px": -0.014206779301844108,
+      "rms_line_miss_px": 2.001848822226903,
+      "segments": [
+        {
+          "region": "hat",
+          "constructed_endpoints": [
+            [
+              842.3438226349236,
+              760.0511598235116
+            ],
+            [
+              867.6561773650764,
+              743.9488401764884
+            ]
+          ],
+          "corrected_endpoints": [
+            [
+              842.3454018486996,
+              760.0924180504894
+            ],
+            [
+              867.6620106859363,
+              743.9820608349985
+            ]
+          ],
+          "image_line_rotation_deg": 0.00858884413838723,
+          "endpoint_displacements_px": [
+            [
+              0.0015792137759262914,
+              0.04125822697778858
+            ],
+            [
+              0.00583332085989241,
+              0.03322065851011757
+            ]
+          ],
+          "differential_displacement_px": 0.00909395040421653
+        },
+        {
+          "region": "left_stone",
+          "constructed_endpoints": [
+            [
+              178.98689405469491,
+              959.5784199179649
+            ],
+            [
+              189.01310594530509,
+              948.4215800820351
+            ]
+          ],
+          "corrected_endpoints": [
+            [
+              177.11023218214063,
+              960.7363255425819
+            ],
+            [
+              187.23406935796208,
+              949.5055509760801
+            ]
+          ],
+          "image_line_rotation_deg": 0.08788850819550476,
+          "endpoint_displacements_px": [
+            [
+              -1.8766618725542799,
+              1.1579056246170012
+            ],
+            [
+              -1.7790365873430005,
+              1.0839708940450237
+            ]
+          ],
+          "differential_displacement_px": 0.12246240524068823
+        },
+        {
+          "region": "left_hand",
+          "constructed_endpoints": [
+            [
+              42.55497287487509,
+              384.7866372964382
+            ],
+            [
+              45.44502712512491,
+              375.2133627035618
+            ]
+          ],
+          "corrected_endpoints": [
+            [
+              40.04499968192215,
+              384.2467706270691
+            ],
+            [
+              42.94889269001544,
+              374.6442215808637
+            ]
+          ],
+          "image_line_rotation_deg": 0.027344198889323934,
+          "endpoint_displacements_px": [
+            [
+              -2.509973192952941,
+              -0.5398666693690757
+            ],
+            [
+              -2.496134435109468,
+              -0.5691411226981131
+            ]
+          ],
+          "differential_displacement_px": 0.032380624397381215
+        },
+        {
+          "region": "right_pebbles",
+          "constructed_endpoints": [
+            [
+              1574.1522432768359,
+              1051.343034365416
+            ],
+            [
+              1585.8477567231641,
+              1048.656965634584
+            ]
+          ],
+          "corrected_endpoints": [
+            [
+              1576.9920429246936,
+              1053.2481996806846
+            ],
+            [
+              1588.7868372772791,
+              1050.5875366518674
+            ]
+          ],
+          "image_line_rotation_deg": 0.2226412194480929,
+          "endpoint_displacements_px": [
+            [
+              2.839799647857717,
+              1.9051653152685049
+            ],
+            [
+              2.9390805541149803,
+              1.9305710172834551
+            ]
+          ],
+          "differential_displacement_px": 0.1024799884959788
+        }
+      ]
+    },
+    {
+      "fd_equivalent_mm": 30,
+      "model": "k1_stress",
+      "parameter": 0,
+      "baseline_elevation_deg": 31.859311979477965,
+      "corrected_elevation_deg": 31.85931197947808,
+      "source_elevation_change_deg": 1.1368683772161603e-13,
+      "corrected_vp_px": [
+        -287.76341666666326,
+        1478.9628611111143
+      ],
+      "horizon_center_correction_px": 0.0,
+      "rms_line_miss_px": 7.68260676534282e-12,
+      "segments": [
+        {
+          "region": "hat",
+          "constructed_endpoints": [
+            [
+              842.3438226349236,
+              760.0511598235116
+            ],
+            [
+              867.6561773650764,
+              743.9488401764884
+            ]
+          ],
+          "corrected_endpoints": [
+            [
+              842.3438226349236,
+              760.0511598235116
+            ],
+            [
+              867.6561773650764,
+              743.9488401764884
+            ]
+          ],
+          "image_line_rotation_deg": 1.4210854715202004e-13,
+          "endpoint_displacements_px": [
+            [
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0
+            ]
+          ],
+          "differential_displacement_px": 0.0
+        },
+        {
+          "region": "left_stone",
+          "constructed_endpoints": [
+            [
+              178.98689405469491,
+              959.5784199179649
+            ],
+            [
+              189.01310594530509,
+              948.4215800820351
+            ]
+          ],
+          "corrected_endpoints": [
+            [
+              178.98689405469486,
+              959.5784199179649
+            ],
+            [
+              189.01310594530514,
+              948.4215800820351
+            ]
+          ],
+          "image_line_rotation_deg": 1.1368683772161603e-13,
+          "endpoint_displacements_px": [
+            [
+              -5.684341886080802e-14,
+              0.0
+            ],
+            [
+              5.684341886080802e-14,
+              0.0
+            ]
+          ],
+          "differential_displacement_px": 1.1368683772161603e-13
+        },
+        {
+          "region": "left_hand",
+          "constructed_endpoints": [
+            [
+              42.55497287487509,
+              384.7866372964382
+            ],
+            [
+              45.44502712512491,
+              375.2133627035618
+            ]
+          ],
+          "corrected_endpoints": [
+            [
+              42.55497287487515,
+              384.7866372964382
+            ],
+            [
+              45.44502712512485,
+              375.2133627035618
+            ]
+          ],
+          "image_line_rotation_deg": 5.684341886080801e-13,
+          "endpoint_displacements_px": [
+            [
+              5.684341886080802e-14,
+              0.0
+            ],
+            [
+              -5.684341886080802e-14,
+              0.0
+            ]
+          ],
+          "differential_displacement_px": 1.1368683772161603e-13
+        },
+        {
+          "region": "right_pebbles",
+          "constructed_endpoints": [
+            [
+              1574.1522432768359,
+              1051.343034365416
+            ],
+            [
+              1585.8477567231641,
+              1048.656965634584
+            ]
+          ],
+          "corrected_endpoints": [
+            [
+              1574.1522432768359,
+              1051.343034365416
+            ],
+            [
+              1585.8477567231641,
+              1048.656965634584
+            ]
+          ],
+          "image_line_rotation_deg": 3.836930773104541e-13,
+          "endpoint_displacements_px": [
+            [
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0
+            ]
+          ],
+          "differential_displacement_px": 0.0
+        }
+      ]
+    },
+    {
+      "fd_equivalent_mm": 30,
+      "model": "k1_stress",
+      "parameter": 0.005,
+      "baseline_elevation_deg": 31.859311979477965,
+      "corrected_elevation_deg": 31.9259374803874,
+      "source_elevation_change_deg": 0.06662550090943498,
+      "corrected_vp_px": [
+        -286.75344273455653,
+        1481.2266916790359
+      ],
+      "horizon_center_correction_px": 0.014198358188821203,
+      "rms_line_miss_px": 1.934353947228393,
+      "segments": [
+        {
+          "region": "hat",
+          "constructed_endpoints": [
+            [
+              842.3438226349236,
+              760.0511598235116
+            ],
+            [
+              867.6561773650764,
+              743.9488401764884
+            ]
+          ],
+          "corrected_endpoints": [
+            [
+              842.3422453265255,
+              760.0099513760557
+            ],
+            [
+              867.6503501954238,
+              743.9156545489948
+            ]
+          ],
+          "image_line_rotation_deg": 0.008573948562030864,
+          "endpoint_displacements_px": [
+            [
+              -0.0015773083981684977,
+              -0.04120844745591512
+            ],
+            [
+              -0.0058271696525480365,
+              -0.03318562749359444
+            ]
+          ],
+          "differential_displacement_px": 0.009078929497979796
+        },
+        {
+          "region": "left_stone",
+          "constructed_endpoints": [
+            [
+              178.98689405469491,
+              959.5784199179649
+            ],
+            [
+              189.01310594530509,
+              948.4215800820351
+            ]
+          ],
+          "corrected_endpoints": [
+            [
+              180.83186341081898,
+              958.4400686646331
+            ],
+            [
+              190.76320102420675,
+              947.3552433125512
+            ]
+          ],
+          "image_line_rotation_deg": 0.08635338747620835,
+          "endpoint_displacements_px": [
+            [
+              1.8449693561240679,
+              -1.1383512533317344
+            ],
+            [
+              1.7500950789016656,
+              -1.0663367694838826
+            ]
+          ],
+          "differential_displacement_px": 0.11911009345284616
+        },
+        {
+          "region": "left_hand",
+          "constructed_endpoints": [
+            [
+              42.55497287487509,
+              384.7866372964382
+            ],
+            [
+              45.44502712512491,
+              375.2133627035618
+            ]
+          ],
+          "corrected_endpoints": [
+            [
+              45.01810494818676,
+              385.31642897404186
+            ],
+            [
+              47.894664239167696,
+              375.77190201846383
+            ]
+          ],
+          "image_line_rotation_deg": 0.02650161907409654,
+          "endpoint_displacements_px": [
+            [
+              2.4631320733116695,
+              0.5297916776036686
+            ],
+            [
+              2.449637114042787,
+              0.5585393149020206
+            ]
+          ],
+          "differential_displacement_px": 0.031757527862010894
+        },
+        {
+          "region": "right_pebbles",
+          "constructed_endpoints": [
+            [
+              1574.1522432768359,
+              1051.343034365416
+            ],
+            [
+              1585.8477567231641,
+              1048.656965634584
+            ]
+          ],
+          "corrected_endpoints": [
+            [
+              1571.3763918474992,
+              1049.480770642868
+            ],
+            [
+              1582.976079144346,
+              1046.7706690861999
+            ]
+          ],
+          "image_line_rotation_deg": 0.2158331824870885,
+          "endpoint_displacements_px": [
+            [
+              -2.775851429336626,
+              -1.8622637225480503
+            ],
+            [
+              -2.8716775788182076,
+              -1.8862965483840526
+            ]
+          ],
+          "differential_displacement_px": 0.09879386439516387
+        }
+      ]
+    },
+    {
+      "fd_equivalent_mm": 30,
+      "model": "k1_stress",
+      "parameter": 0.01,
+      "baseline_elevation_deg": 31.859311979477965,
+      "corrected_elevation_deg": 31.989763839469806,
+      "source_elevation_change_deg": 0.13045185999184028,
+      "corrected_vp_px": [
+        -285.6937087284932,
+        1483.3612240338196
+      ],
+      "horizon_center_correction_px": 0.028388305241833223,
+      "rms_line_miss_px": 3.804719812889759,
+      "segments": [
+        {
+          "region": "hat",
+          "constructed_endpoints": [
+            [
+              842.3438226349236,
+              760.0511598235116
+            ],
+            [
+              867.6561773650764,
+              743.9488401764884
+            ]
+          ],
+          "corrected_endpoints": [
+            [
+              842.3406699189128,
+              759.9687925881487
+            ],
+            [
+              867.6445291640199,
+              743.8825038787177
+            ]
+          ],
+          "image_line_rotation_deg": 0.017133045419399195,
+          "endpoint_displacements_px": [
+            [
+              -0.0031527160108453245,
+              -0.08236723536288082
+            ],
+            [
+              -0.011648201056459584,
+              -0.06633629777070382
+            ]
+          ],
+          "differential_displacement_px": 0.01814288362539233
+        },
+        {
+          "region": "left_stone",
+          "constructed_endpoints": [
+            [
+              178.98689405469491,
+              959.5784199179649
+            ],
+            [
+              189.01310594530509,
+              948.4215800820351
+            ]
+          ],
+          "corrected_endpoints": [
+            [
+              182.64619245694996,
+              957.3206225682718
+            ],
+            [
+              192.4852807881714,
+              946.3059763358954
+            ]
+          ],
+          "image_line_rotation_deg": 0.17122269752130137,
+          "endpoint_displacements_px": [
+            [
+              3.6592984022550468,
+              -2.257797349693078
+            ],
+            [
+              3.472174842866309,
+              -2.1156037461397545
+            ]
+          ],
+          "differential_displacement_px": 0.23501967443129138
+        },
+        {
+          "region": "left_hand",
+          "constructed_endpoints": [
+            [
+              42.55497287487509,
+              384.7866372964382
+            ],
+            [
+              45.44502712512491,
+              375.2133627035618
+            ]
+          ],
+          "corrected_endpoints": [
+            [
+              47.43611137878406,
+              385.83651463944443
+            ],
+            [
+              50.299503849488474,
+              376.32022709922694
+            ]
+          ],
+          "image_line_rotation_deg": 0.05220339251171424,
+          "endpoint_displacements_px": [
+            [
+              4.881138503908971,
+              1.0498773430062442
+            ],
+            [
+              4.854476724363565,
+              1.1068643956651272
+            ]
+          ],
+          "differential_displacement_px": 0.06291561538500727
+        },
+        {
+          "region": "right_pebbles",
+          "constructed_endpoints": [
+            [
+              1574.1522432768359,
+              1051.343034365416
+            ],
+            [
+              1585.8477567231641,
+              1048.656965634584
+            ]
+          ],
+          "corrected_endpoints": [
+            [
+              1568.6616735484113,
+              1047.659519926097
+            ],
+            [
+              1580.1687839658293,
+              1044.9266629050778
+            ]
+          ],
+          "image_line_rotation_deg": 0.42521318717024315,
+          "endpoint_displacements_px": [
+            [
+              -5.490569728424589,
+              -3.6835144393191968
+            ],
+            [
+              -5.6789727573348046,
+              -3.730302729506093
+            ]
+          ],
+          "differential_displacement_px": 0.19412584938940192
+        }
+      ]
+    },
+    {
+      "fd_equivalent_mm": 37,
+      "model": "k1_stress",
+      "parameter": -0.01,
+      "baseline_elevation_deg": 28.23860670865216,
+      "corrected_elevation_deg": 28.11185582041325,
+      "source_elevation_change_deg": -0.12675088823890945,
+      "corrected_vp_px": [
+        -289.61415111428494,
+        1474.0140424638528
+      ],
+      "horizon_center_correction_px": -0.02842198971200105,
+      "rms_line_miss_px": 4.074972709849746,
+      "segments": [
+        {
+          "region": "hat",
+          "constructed_endpoints": [
+            [
+              842.3438226349236,
+              760.0511598235116
+            ],
+            [
+              867.6561773650764,
+              743.9488401764884
+            ]
+          ],
+          "corrected_endpoints": [
+            [
+              842.3469829724623,
+              760.1337261774052
+            ],
+            [
+              867.6678501710041,
+              744.0153165985636
+            ]
+          ],
+          "image_line_rotation_deg": 0.017192627908428904,
+          "endpoint_displacements_px": [
+            [
+              0.0031603375387021515,
+              0.08256635389352596
+            ],
+            [
+              0.011672805927787522,
+              0.06647642207519766
+            ]
+          ],
+          "differential_displacement_px": 0.018202967450216215
+        },
+        {
+          "region": "left_stone",
+          "constructed_endpoints": [
+            [
+              178.98689405469491,
+              959.5784199179649
+            ],
+            [
+              189.01310594530509,
+              948.4215800820351
+            ]
+          ],
+          "corrected_endpoints": [
+            [
+              175.20076936169573,
+              961.9144694437956
+            ],
+            [
+              185.42511745531885,
+              950.6077493373411
+            ]
+          ],
+          "image_line_rotation_deg": 0.17736588197314518,
+          "endpoint_displacements_px": [
+            [
+              -3.7861246929991808,
+              2.336049525830731
+            ],
+            [
+              -3.5879884899862304,
+              2.1861692553060266
+            ]
+          ],
+          "differential_displacement_px": 0.24843922886079736
+        },
+        {
+          "region": "left_hand",
+          "constructed_endpoints": [
+            [
+              42.55497287487509,
+              384.7866372964382
+            ],
+            [
+              45.44502712512491,
+              375.2133627035618
+            ]
+          ],
+          "corrected_endpoints": [
+            [
+              37.48636821370337,
+              383.69643811643977
+            ],
+            [
+              40.40446055827044,
+              374.06406814853176
+            ]
+          ],
+          "image_line_rotation_deg": 0.055576986242172666,
+          "endpoint_displacements_px": [
+            [
+              -5.068604661171719,
+              -1.0901991799984216
+            ],
+            [
+              -5.040566566854466,
+              -1.1492945550300533
+            ]
+          ],
+          "differential_displacement_px": 0.06540946478203576
+        },
+        {
+          "region": "right_pebbles",
+          "constructed_endpoints": [
+            [
+              1574.1522432768359,
+              1051.343034365416
+            ],
+            [
+              1585.8477567231641,
+              1048.656965634584
+            ]
+          ],
+          "corrected_endpoints": [
+            [
+              1579.8988088738188,
+              1055.198291360587
+            ],
+            [
+              1591.7965634026575,
+              1052.5645120768797
+            ]
+          ],
+          "image_line_rotation_deg": 0.4524740385129462,
+          "endpoint_displacements_px": [
+            [
+              5.746565596982919,
+              3.8552569951709756
+            ],
+            [
+              5.948806679493373,
+              3.907546442295825
+            ]
+          ],
+          "differential_displacement_px": 0.20889145922134492
+        }
+      ]
+    },
+    {
+      "fd_equivalent_mm": 37,
+      "model": "k1_stress",
+      "parameter": -0.005,
+      "baseline_elevation_deg": 28.23860670865216,
+      "corrected_elevation_deg": 28.176741632127257,
+      "source_elevation_change_deg": -0.06186507652490292,
+      "corrected_vp_px": [
+        -288.7187689206894,
+        1476.5615872026476
+      ],
+      "horizon_center_correction_px": -0.014206779301844108,
+      "rms_line_miss_px": 2.001848822226903,
+      "segments": [
+        {
+          "region": "hat",
+          "constructed_endpoints": [
+            [
+              842.3438226349236,
+              760.0511598235116
+            ],
+            [
+              867.6561773650764,
+              743.9488401764884
+            ]
+          ],
+          "corrected_endpoints": [
+            [
+              842.3454018486996,
+              760.0924180504894
+            ],
+            [
+              867.6620106859363,
+              743.9820608349985
+            ]
+          ],
+          "image_line_rotation_deg": 0.00858884413838723,
+          "endpoint_displacements_px": [
+            [
+              0.0015792137759262914,
+              0.04125822697778858
+            ],
+            [
+              0.00583332085989241,
+              0.03322065851011757
+            ]
+          ],
+          "differential_displacement_px": 0.00909395040421653
+        },
+        {
+          "region": "left_stone",
+          "constructed_endpoints": [
+            [
+              178.98689405469491,
+              959.5784199179649
+            ],
+            [
+              189.01310594530509,
+              948.4215800820351
+            ]
+          ],
+          "corrected_endpoints": [
+            [
+              177.11023218214063,
+              960.7363255425819
+            ],
+            [
+              187.23406935796208,
+              949.5055509760801
+            ]
+          ],
+          "image_line_rotation_deg": 0.08788850819550476,
+          "endpoint_displacements_px": [
+            [
+              -1.8766618725542799,
+              1.1579056246170012
+            ],
+            [
+              -1.7790365873430005,
+              1.0839708940450237
+            ]
+          ],
+          "differential_displacement_px": 0.12246240524068823
+        },
+        {
+          "region": "left_hand",
+          "constructed_endpoints": [
+            [
+              42.55497287487509,
+              384.7866372964382
+            ],
+            [
+              45.44502712512491,
+              375.2133627035618
+            ]
+          ],
+          "corrected_endpoints": [
+            [
+              40.04499968192215,
+              384.2467706270691
+            ],
+            [
+              42.94889269001544,
+              374.6442215808637
+            ]
+          ],
+          "image_line_rotation_deg": 0.027344198889323934,
+          "endpoint_displacements_px": [
+            [
+              -2.509973192952941,
+              -0.5398666693690757
+            ],
+            [
+              -2.496134435109468,
+              -0.5691411226981131
+            ]
+          ],
+          "differential_displacement_px": 0.032380624397381215
+        },
+        {
+          "region": "right_pebbles",
+          "constructed_endpoints": [
+            [
+              1574.1522432768359,
+              1051.343034365416
+            ],
+            [
+              1585.8477567231641,
+              1048.656965634584
+            ]
+          ],
+          "corrected_endpoints": [
+            [
+              1576.9920429246936,
+              1053.2481996806846
+            ],
+            [
+              1588.7868372772791,
+              1050.5875366518674
+            ]
+          ],
+          "image_line_rotation_deg": 0.2226412194480929,
+          "endpoint_displacements_px": [
+            [
+              2.839799647857717,
+              1.9051653152685049
+            ],
+            [
+              2.9390805541149803,
+              1.9305710172834551
+            ]
+          ],
+          "differential_displacement_px": 0.1024799884959788
+        }
+      ]
+    },
+    {
+      "fd_equivalent_mm": 37,
+      "model": "k1_stress",
+      "parameter": 0,
+      "baseline_elevation_deg": 28.23860670865216,
+      "corrected_elevation_deg": 28.238606708652263,
+      "source_elevation_change_deg": 1.0302869668521453e-13,
+      "corrected_vp_px": [
+        -287.76341666666326,
+        1478.9628611111143
+      ],
+      "horizon_center_correction_px": 0.0,
+      "rms_line_miss_px": 7.68260676534282e-12,
+      "segments": [
+        {
+          "region": "hat",
+          "constructed_endpoints": [
+            [
+              842.3438226349236,
+              760.0511598235116
+            ],
+            [
+              867.6561773650764,
+              743.9488401764884
+            ]
+          ],
+          "corrected_endpoints": [
+            [
+              842.3438226349236,
+              760.0511598235116
+            ],
+            [
+              867.6561773650764,
+              743.9488401764884
+            ]
+          ],
+          "image_line_rotation_deg": 1.4210854715202004e-13,
+          "endpoint_displacements_px": [
+            [
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0
+            ]
+          ],
+          "differential_displacement_px": 0.0
+        },
+        {
+          "region": "left_stone",
+          "constructed_endpoints": [
+            [
+              178.98689405469491,
+              959.5784199179649
+            ],
+            [
+              189.01310594530509,
+              948.4215800820351
+            ]
+          ],
+          "corrected_endpoints": [
+            [
+              178.98689405469486,
+              959.5784199179649
+            ],
+            [
+              189.01310594530514,
+              948.4215800820351
+            ]
+          ],
+          "image_line_rotation_deg": 1.1368683772161603e-13,
+          "endpoint_displacements_px": [
+            [
+              -5.684341886080802e-14,
+              0.0
+            ],
+            [
+              5.684341886080802e-14,
+              0.0
+            ]
+          ],
+          "differential_displacement_px": 1.1368683772161603e-13
+        },
+        {
+          "region": "left_hand",
+          "constructed_endpoints": [
+            [
+              42.55497287487509,
+              384.7866372964382
+            ],
+            [
+              45.44502712512491,
+              375.2133627035618
+            ]
+          ],
+          "corrected_endpoints": [
+            [
+              42.55497287487515,
+              384.7866372964382
+            ],
+            [
+              45.44502712512485,
+              375.2133627035618
+            ]
+          ],
+          "image_line_rotation_deg": 5.684341886080801e-13,
+          "endpoint_displacements_px": [
+            [
+              5.684341886080802e-14,
+              0.0
+            ],
+            [
+              -5.684341886080802e-14,
+              0.0
+            ]
+          ],
+          "differential_displacement_px": 1.1368683772161603e-13
+        },
+        {
+          "region": "right_pebbles",
+          "constructed_endpoints": [
+            [
+              1574.1522432768359,
+              1051.343034365416
+            ],
+            [
+              1585.8477567231641,
+              1048.656965634584
+            ]
+          ],
+          "corrected_endpoints": [
+            [
+              1574.1522432768359,
+              1051.343034365416
+            ],
+            [
+              1585.8477567231641,
+              1048.656965634584
+            ]
+          ],
+          "image_line_rotation_deg": 3.836930773104541e-13,
+          "endpoint_displacements_px": [
+            [
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0
+            ]
+          ],
+          "differential_displacement_px": 0.0
+        }
+      ]
+    },
+    {
+      "fd_equivalent_mm": 37,
+      "model": "k1_stress",
+      "parameter": 0.005,
+      "baseline_elevation_deg": 28.23860670865216,
+      "corrected_elevation_deg": 28.297627784118518,
+      "source_elevation_change_deg": 0.05902107546635804,
+      "corrected_vp_px": [
+        -286.75344273455653,
+        1481.2266916790359
+      ],
+      "horizon_center_correction_px": 0.014198358188821203,
+      "rms_line_miss_px": 1.934353947228393,
+      "segments": [
+        {
+          "region": "hat",
+          "constructed_endpoints": [
+            [
+              842.3438226349236,
+              760.0511598235116
+            ],
+            [
+              867.6561773650764,
+              743.9488401764884
+            ]
+          ],
+          "corrected_endpoints": [
+            [
+              842.3422453265255,
+              760.0099513760557
+            ],
+            [
+              867.6503501954238,
+              743.9156545489948
+            ]
+          ],
+          "image_line_rotation_deg": 0.008573948562030864,
+          "endpoint_displacements_px": [
+            [
+              -0.0015773083981684977,
+              -0.04120844745591512
+            ],
+            [
+              -0.0058271696525480365,
+              -0.03318562749359444
+            ]
+          ],
+          "differential_displacement_px": 0.009078929497979796
+        },
+        {
+          "region": "left_stone",
+          "constructed_endpoints": [
+            [
+              178.98689405469491,
+              959.5784199179649
+            ],
+            [
+              189.01310594530509,
+              948.4215800820351
+            ]
+          ],
+          "corrected_endpoints": [
+            [
+              180.83186341081898,
+              958.4400686646331
+            ],
+            [
+              190.76320102420675,
+              947.3552433125512
+            ]
+          ],
+          "image_line_rotation_deg": 0.08635338747620835,
+          "endpoint_displacements_px": [
+            [
+              1.8449693561240679,
+              -1.1383512533317344
+            ],
+            [
+              1.7500950789016656,
+              -1.0663367694838826
+            ]
+          ],
+          "differential_displacement_px": 0.11911009345284616
+        },
+        {
+          "region": "left_hand",
+          "constructed_endpoints": [
+            [
+              42.55497287487509,
+              384.7866372964382
+            ],
+            [
+              45.44502712512491,
+              375.2133627035618
+            ]
+          ],
+          "corrected_endpoints": [
+            [
+              45.01810494818676,
+              385.31642897404186
+            ],
+            [
+              47.894664239167696,
+              375.77190201846383
+            ]
+          ],
+          "image_line_rotation_deg": 0.02650161907409654,
+          "endpoint_displacements_px": [
+            [
+              2.4631320733116695,
+              0.5297916776036686
+            ],
+            [
+              2.449637114042787,
+              0.5585393149020206
+            ]
+          ],
+          "differential_displacement_px": 0.031757527862010894
+        },
+        {
+          "region": "right_pebbles",
+          "constructed_endpoints": [
+            [
+              1574.1522432768359,
+              1051.343034365416
+            ],
+            [
+              1585.8477567231641,
+              1048.656965634584
+            ]
+          ],
+          "corrected_endpoints": [
+            [
+              1571.3763918474992,
+              1049.480770642868
+            ],
+            [
+              1582.976079144346,
+              1046.7706690861999
+            ]
+          ],
+          "image_line_rotation_deg": 0.2158331824870885,
+          "endpoint_displacements_px": [
+            [
+              -2.775851429336626,
+              -1.8622637225480503
+            ],
+            [
+              -2.8716775788182076,
+              -1.8862965483840526
+            ]
+          ],
+          "differential_displacement_px": 0.09879386439516387
+        }
+      ]
+    },
+    {
+      "fd_equivalent_mm": 37,
+      "model": "k1_stress",
+      "parameter": 0.01,
+      "baseline_elevation_deg": 28.23860670865216,
+      "corrected_elevation_deg": 28.353967719152955,
+      "source_elevation_change_deg": 0.11536101050079495,
+      "corrected_vp_px": [
+        -285.6937087284932,
+        1483.3612240338196
+      ],
+      "horizon_center_correction_px": 0.028388305241833223,
+      "rms_line_miss_px": 3.804719812889759,
+      "segments": [
+        {
+          "region": "hat",
+          "constructed_endpoints": [
+            [
+              842.3438226349236,
+              760.0511598235116
+            ],
+            [
+              867.6561773650764,
+              743.9488401764884
+            ]
+          ],
+          "corrected_endpoints": [
+            [
+              842.3406699189128,
+              759.9687925881487
+            ],
+            [
+              867.6445291640199,
+              743.8825038787177
+            ]
+          ],
+          "image_line_rotation_deg": 0.017133045419399195,
+          "endpoint_displacements_px": [
+            [
+              -0.0031527160108453245,
+              -0.08236723536288082
+            ],
+            [
+              -0.011648201056459584,
+              -0.06633629777070382
+            ]
+          ],
+          "differential_displacement_px": 0.01814288362539233
+        },
+        {
+          "region": "left_stone",
+          "constructed_endpoints": [
+            [
+              178.98689405469491,
+              959.5784199179649
+            ],
+            [
+              189.01310594530509,
+              948.4215800820351
+            ]
+          ],
+          "corrected_endpoints": [
+            [
+              182.64619245694996,
+              957.3206225682718
+            ],
+            [
+              192.4852807881714,
+              946.3059763358954
+            ]
+          ],
+          "image_line_rotation_deg": 0.17122269752130137,
+          "endpoint_displacements_px": [
+            [
+              3.6592984022550468,
+              -2.257797349693078
+            ],
+            [
+              3.472174842866309,
+              -2.1156037461397545
+            ]
+          ],
+          "differential_displacement_px": 0.23501967443129138
+        },
+        {
+          "region": "left_hand",
+          "constructed_endpoints": [
+            [
+              42.55497287487509,
+              384.7866372964382
+            ],
+            [
+              45.44502712512491,
+              375.2133627035618
+            ]
+          ],
+          "corrected_endpoints": [
+            [
+              47.43611137878406,
+              385.83651463944443
+            ],
+            [
+              50.299503849488474,
+              376.32022709922694
+            ]
+          ],
+          "image_line_rotation_deg": 0.05220339251171424,
+          "endpoint_displacements_px": [
+            [
+              4.881138503908971,
+              1.0498773430062442
+            ],
+            [
+              4.854476724363565,
+              1.1068643956651272
+            ]
+          ],
+          "differential_displacement_px": 0.06291561538500727
+        },
+        {
+          "region": "right_pebbles",
+          "constructed_endpoints": [
+            [
+              1574.1522432768359,
+              1051.343034365416
+            ],
+            [
+              1585.8477567231641,
+              1048.656965634584
+            ]
+          ],
+          "corrected_endpoints": [
+            [
+              1568.6616735484113,
+              1047.659519926097
+            ],
+            [
+              1580.1687839658293,
+              1044.9266629050778
+            ]
+          ],
+          "image_line_rotation_deg": 0.42521318717024315,
+          "endpoint_displacements_px": [
+            [
+              -5.490569728424589,
+              -3.6835144393191968
+            ],
+            [
+              -5.6789727573348046,
+              -3.730302729506093
+            ]
+          ],
+          "differential_displacement_px": 0.19412584938940192
+        }
+      ]
+    },
+    {
+      "fd_equivalent_mm": 45,
+      "model": "k1_stress",
+      "parameter": -0.01,
+      "baseline_elevation_deg": 24.76244373995195,
+      "corrected_elevation_deg": 24.650758791905915,
+      "source_elevation_change_deg": -0.11168494804603668,
+      "corrected_vp_px": [
+        -289.61415111428494,
+        1474.0140424638528
+      ],
+      "horizon_center_correction_px": -0.02842198971200105,
+      "rms_line_miss_px": 4.074972709849746,
+      "segments": [
+        {
+          "region": "hat",
+          "constructed_endpoints": [
+            [
+              842.3438226349236,
+              760.0511598235116
+            ],
+            [
+              867.6561773650764,
+              743.9488401764884
+            ]
+          ],
+          "corrected_endpoints": [
+            [
+              842.3469829724623,
+              760.1337261774052
+            ],
+            [
+              867.6678501710041,
+              744.0153165985636
+            ]
+          ],
+          "image_line_rotation_deg": 0.017192627908428904,
+          "endpoint_displacements_px": [
+            [
+              0.0031603375387021515,
+              0.08256635389352596
+            ],
+            [
+              0.011672805927787522,
+              0.06647642207519766
+            ]
+          ],
+          "differential_displacement_px": 0.018202967450216215
+        },
+        {
+          "region": "left_stone",
+          "constructed_endpoints": [
+            [
+              178.98689405469491,
+              959.5784199179649
+            ],
+            [
+              189.01310594530509,
+              948.4215800820351
+            ]
+          ],
+          "corrected_endpoints": [
+            [
+              175.20076936169573,
+              961.9144694437956
+            ],
+            [
+              185.42511745531885,
+              950.6077493373411
+            ]
+          ],
+          "image_line_rotation_deg": 0.17736588197314518,
+          "endpoint_displacements_px": [
+            [
+              -3.7861246929991808,
+              2.336049525830731
+            ],
+            [
+              -3.5879884899862304,
+              2.1861692553060266
+            ]
+          ],
+          "differential_displacement_px": 0.24843922886079736
+        },
+        {
+          "region": "left_hand",
+          "constructed_endpoints": [
+            [
+              42.55497287487509,
+              384.7866372964382
+            ],
+            [
+              45.44502712512491,
+              375.2133627035618
+            ]
+          ],
+          "corrected_endpoints": [
+            [
+              37.48636821370337,
+              383.69643811643977
+            ],
+            [
+              40.40446055827044,
+              374.06406814853176
+            ]
+          ],
+          "image_line_rotation_deg": 0.055576986242172666,
+          "endpoint_displacements_px": [
+            [
+              -5.068604661171719,
+              -1.0901991799984216
+            ],
+            [
+              -5.040566566854466,
+              -1.1492945550300533
+            ]
+          ],
+          "differential_displacement_px": 0.06540946478203576
+        },
+        {
+          "region": "right_pebbles",
+          "constructed_endpoints": [
+            [
+              1574.1522432768359,
+              1051.343034365416
+            ],
+            [
+              1585.8477567231641,
+              1048.656965634584
+            ]
+          ],
+          "corrected_endpoints": [
+            [
+              1579.8988088738188,
+              1055.198291360587
+            ],
+            [
+              1591.7965634026575,
+              1052.5645120768797
+            ]
+          ],
+          "image_line_rotation_deg": 0.4524740385129462,
+          "endpoint_displacements_px": [
+            [
+              5.746565596982919,
+              3.8552569951709756
+            ],
+            [
+              5.948806679493373,
+              3.907546442295825
+            ]
+          ],
+          "differential_displacement_px": 0.20889145922134492
+        }
+      ]
+    },
+    {
+      "fd_equivalent_mm": 45,
+      "model": "k1_stress",
+      "parameter": -0.005,
+      "baseline_elevation_deg": 24.76244373995195,
+      "corrected_elevation_deg": 24.70801093882007,
+      "source_elevation_change_deg": -0.05443280113188109,
+      "corrected_vp_px": [
+        -288.7187689206894,
+        1476.5615872026476
+      ],
+      "horizon_center_correction_px": -0.014206779301844108,
+      "rms_line_miss_px": 2.001848822226903,
+      "segments": [
+        {
+          "region": "hat",
+          "constructed_endpoints": [
+            [
+              842.3438226349236,
+              760.0511598235116
+            ],
+            [
+              867.6561773650764,
+              743.9488401764884
+            ]
+          ],
+          "corrected_endpoints": [
+            [
+              842.3454018486996,
+              760.0924180504894
+            ],
+            [
+              867.6620106859363,
+              743.9820608349985
+            ]
+          ],
+          "image_line_rotation_deg": 0.00858884413838723,
+          "endpoint_displacements_px": [
+            [
+              0.0015792137759262914,
+              0.04125822697778858
+            ],
+            [
+              0.00583332085989241,
+              0.03322065851011757
+            ]
+          ],
+          "differential_displacement_px": 0.00909395040421653
+        },
+        {
+          "region": "left_stone",
+          "constructed_endpoints": [
+            [
+              178.98689405469491,
+              959.5784199179649
+            ],
+            [
+              189.01310594530509,
+              948.4215800820351
+            ]
+          ],
+          "corrected_endpoints": [
+            [
+              177.11023218214063,
+              960.7363255425819
+            ],
+            [
+              187.23406935796208,
+              949.5055509760801
+            ]
+          ],
+          "image_line_rotation_deg": 0.08788850819550476,
+          "endpoint_displacements_px": [
+            [
+              -1.8766618725542799,
+              1.1579056246170012
+            ],
+            [
+              -1.7790365873430005,
+              1.0839708940450237
+            ]
+          ],
+          "differential_displacement_px": 0.12246240524068823
+        },
+        {
+          "region": "left_hand",
+          "constructed_endpoints": [
+            [
+              42.55497287487509,
+              384.7866372964382
+            ],
+            [
+              45.44502712512491,
+              375.2133627035618
+            ]
+          ],
+          "corrected_endpoints": [
+            [
+              40.04499968192215,
+              384.2467706270691
+            ],
+            [
+              42.94889269001544,
+              374.6442215808637
+            ]
+          ],
+          "image_line_rotation_deg": 0.027344198889323934,
+          "endpoint_displacements_px": [
+            [
+              -2.509973192952941,
+              -0.5398666693690757
+            ],
+            [
+              -2.496134435109468,
+              -0.5691411226981131
+            ]
+          ],
+          "differential_displacement_px": 0.032380624397381215
+        },
+        {
+          "region": "right_pebbles",
+          "constructed_endpoints": [
+            [
+              1574.1522432768359,
+              1051.343034365416
+            ],
+            [
+              1585.8477567231641,
+              1048.656965634584
+            ]
+          ],
+          "corrected_endpoints": [
+            [
+              1576.9920429246936,
+              1053.2481996806846
+            ],
+            [
+              1588.7868372772791,
+              1050.5875366518674
+            ]
+          ],
+          "image_line_rotation_deg": 0.2226412194480929,
+          "endpoint_displacements_px": [
+            [
+              2.839799647857717,
+              1.9051653152685049
+            ],
+            [
+              2.9390805541149803,
+              1.9305710172834551
+            ]
+          ],
+          "differential_displacement_px": 0.1024799884959788
+        }
+      ]
+    },
+    {
+      "fd_equivalent_mm": 45,
+      "model": "k1_stress",
+      "parameter": 0,
+      "baseline_elevation_deg": 24.76244373995195,
+      "corrected_elevation_deg": 24.76244373995204,
+      "source_elevation_change_deg": 8.881784197001252e-14,
+      "corrected_vp_px": [
+        -287.76341666666326,
+        1478.9628611111143
+      ],
+      "horizon_center_correction_px": 0.0,
+      "rms_line_miss_px": 7.68260676534282e-12,
+      "segments": [
+        {
+          "region": "hat",
+          "constructed_endpoints": [
+            [
+              842.3438226349236,
+              760.0511598235116
+            ],
+            [
+              867.6561773650764,
+              743.9488401764884
+            ]
+          ],
+          "corrected_endpoints": [
+            [
+              842.3438226349236,
+              760.0511598235116
+            ],
+            [
+              867.6561773650764,
+              743.9488401764884
+            ]
+          ],
+          "image_line_rotation_deg": 1.4210854715202004e-13,
+          "endpoint_displacements_px": [
+            [
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0
+            ]
+          ],
+          "differential_displacement_px": 0.0
+        },
+        {
+          "region": "left_stone",
+          "constructed_endpoints": [
+            [
+              178.98689405469491,
+              959.5784199179649
+            ],
+            [
+              189.01310594530509,
+              948.4215800820351
+            ]
+          ],
+          "corrected_endpoints": [
+            [
+              178.98689405469486,
+              959.5784199179649
+            ],
+            [
+              189.01310594530514,
+              948.4215800820351
+            ]
+          ],
+          "image_line_rotation_deg": 1.1368683772161603e-13,
+          "endpoint_displacements_px": [
+            [
+              -5.684341886080802e-14,
+              0.0
+            ],
+            [
+              5.684341886080802e-14,
+              0.0
+            ]
+          ],
+          "differential_displacement_px": 1.1368683772161603e-13
+        },
+        {
+          "region": "left_hand",
+          "constructed_endpoints": [
+            [
+              42.55497287487509,
+              384.7866372964382
+            ],
+            [
+              45.44502712512491,
+              375.2133627035618
+            ]
+          ],
+          "corrected_endpoints": [
+            [
+              42.55497287487515,
+              384.7866372964382
+            ],
+            [
+              45.44502712512485,
+              375.2133627035618
+            ]
+          ],
+          "image_line_rotation_deg": 5.684341886080801e-13,
+          "endpoint_displacements_px": [
+            [
+              5.684341886080802e-14,
+              0.0
+            ],
+            [
+              -5.684341886080802e-14,
+              0.0
+            ]
+          ],
+          "differential_displacement_px": 1.1368683772161603e-13
+        },
+        {
+          "region": "right_pebbles",
+          "constructed_endpoints": [
+            [
+              1574.1522432768359,
+              1051.343034365416
+            ],
+            [
+              1585.8477567231641,
+              1048.656965634584
+            ]
+          ],
+          "corrected_endpoints": [
+            [
+              1574.1522432768359,
+              1051.343034365416
+            ],
+            [
+              1585.8477567231641,
+              1048.656965634584
+            ]
+          ],
+          "image_line_rotation_deg": 3.836930773104541e-13,
+          "endpoint_displacements_px": [
+            [
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0
+            ]
+          ],
+          "differential_displacement_px": 0.0
+        }
+      ]
+    },
+    {
+      "fd_equivalent_mm": 45,
+      "model": "k1_stress",
+      "parameter": 0.005,
+      "baseline_elevation_deg": 24.76244373995195,
+      "corrected_elevation_deg": 24.814223714222173,
+      "source_elevation_change_deg": 0.05177997427022163,
+      "corrected_vp_px": [
+        -286.75344273455653,
+        1481.2266916790359
+      ],
+      "horizon_center_correction_px": 0.014198358188821203,
+      "rms_line_miss_px": 1.934353947228393,
+      "segments": [
+        {
+          "region": "hat",
+          "constructed_endpoints": [
+            [
+              842.3438226349236,
+              760.0511598235116
+            ],
+            [
+              867.6561773650764,
+              743.9488401764884
+            ]
+          ],
+          "corrected_endpoints": [
+            [
+              842.3422453265255,
+              760.0099513760557
+            ],
+            [
+              867.6503501954238,
+              743.9156545489948
+            ]
+          ],
+          "image_line_rotation_deg": 0.008573948562030864,
+          "endpoint_displacements_px": [
+            [
+              -0.0015773083981684977,
+              -0.04120844745591512
+            ],
+            [
+              -0.0058271696525480365,
+              -0.03318562749359444
+            ]
+          ],
+          "differential_displacement_px": 0.009078929497979796
+        },
+        {
+          "region": "left_stone",
+          "constructed_endpoints": [
+            [
+              178.98689405469491,
+              959.5784199179649
+            ],
+            [
+              189.01310594530509,
+              948.4215800820351
+            ]
+          ],
+          "corrected_endpoints": [
+            [
+              180.83186341081898,
+              958.4400686646331
+            ],
+            [
+              190.76320102420675,
+              947.3552433125512
+            ]
+          ],
+          "image_line_rotation_deg": 0.08635338747620835,
+          "endpoint_displacements_px": [
+            [
+              1.8449693561240679,
+              -1.1383512533317344
+            ],
+            [
+              1.7500950789016656,
+              -1.0663367694838826
+            ]
+          ],
+          "differential_displacement_px": 0.11911009345284616
+        },
+        {
+          "region": "left_hand",
+          "constructed_endpoints": [
+            [
+              42.55497287487509,
+              384.7866372964382
+            ],
+            [
+              45.44502712512491,
+              375.2133627035618
+            ]
+          ],
+          "corrected_endpoints": [
+            [
+              45.01810494818676,
+              385.31642897404186
+            ],
+            [
+              47.894664239167696,
+              375.77190201846383
+            ]
+          ],
+          "image_line_rotation_deg": 0.02650161907409654,
+          "endpoint_displacements_px": [
+            [
+              2.4631320733116695,
+              0.5297916776036686
+            ],
+            [
+              2.449637114042787,
+              0.5585393149020206
+            ]
+          ],
+          "differential_displacement_px": 0.031757527862010894
+        },
+        {
+          "region": "right_pebbles",
+          "constructed_endpoints": [
+            [
+              1574.1522432768359,
+              1051.343034365416
+            ],
+            [
+              1585.8477567231641,
+              1048.656965634584
+            ]
+          ],
+          "corrected_endpoints": [
+            [
+              1571.3763918474992,
+              1049.480770642868
+            ],
+            [
+              1582.976079144346,
+              1046.7706690861999
+            ]
+          ],
+          "image_line_rotation_deg": 0.2158331824870885,
+          "endpoint_displacements_px": [
+            [
+              -2.775851429336626,
+              -1.8622637225480503
+            ],
+            [
+              -2.8716775788182076,
+              -1.8862965483840526
+            ]
+          ],
+          "differential_displacement_px": 0.09879386439516387
+        }
+      ]
+    },
+    {
+      "fd_equivalent_mm": 45,
+      "model": "k1_stress",
+      "parameter": 0.01,
+      "baseline_elevation_deg": 24.76244373995195,
+      "corrected_elevation_deg": 24.863504331887874,
+      "source_elevation_change_deg": 0.10106059193592287,
+      "corrected_vp_px": [
+        -285.6937087284932,
+        1483.3612240338196
+      ],
+      "horizon_center_correction_px": 0.028388305241833223,
+      "rms_line_miss_px": 3.804719812889759,
+      "segments": [
+        {
+          "region": "hat",
+          "constructed_endpoints": [
+            [
+              842.3438226349236,
+              760.0511598235116
+            ],
+            [
+              867.6561773650764,
+              743.9488401764884
+            ]
+          ],
+          "corrected_endpoints": [
+            [
+              842.3406699189128,
+              759.9687925881487
+            ],
+            [
+              867.6445291640199,
+              743.8825038787177
+            ]
+          ],
+          "image_line_rotation_deg": 0.017133045419399195,
+          "endpoint_displacements_px": [
+            [
+              -0.0031527160108453245,
+              -0.08236723536288082
+            ],
+            [
+              -0.011648201056459584,
+              -0.06633629777070382
+            ]
+          ],
+          "differential_displacement_px": 0.01814288362539233
+        },
+        {
+          "region": "left_stone",
+          "constructed_endpoints": [
+            [
+              178.98689405469491,
+              959.5784199179649
+            ],
+            [
+              189.01310594530509,
+              948.4215800820351
+            ]
+          ],
+          "corrected_endpoints": [
+            [
+              182.64619245694996,
+              957.3206225682718
+            ],
+            [
+              192.4852807881714,
+              946.3059763358954
+            ]
+          ],
+          "image_line_rotation_deg": 0.17122269752130137,
+          "endpoint_displacements_px": [
+            [
+              3.6592984022550468,
+              -2.257797349693078
+            ],
+            [
+              3.472174842866309,
+              -2.1156037461397545
+            ]
+          ],
+          "differential_displacement_px": 0.23501967443129138
+        },
+        {
+          "region": "left_hand",
+          "constructed_endpoints": [
+            [
+              42.55497287487509,
+              384.7866372964382
+            ],
+            [
+              45.44502712512491,
+              375.2133627035618
+            ]
+          ],
+          "corrected_endpoints": [
+            [
+              47.43611137878406,
+              385.83651463944443
+            ],
+            [
+              50.299503849488474,
+              376.32022709922694
+            ]
+          ],
+          "image_line_rotation_deg": 0.05220339251171424,
+          "endpoint_displacements_px": [
+            [
+              4.881138503908971,
+              1.0498773430062442
+            ],
+            [
+              4.854476724363565,
+              1.1068643956651272
+            ]
+          ],
+          "differential_displacement_px": 0.06291561538500727
+        },
+        {
+          "region": "right_pebbles",
+          "constructed_endpoints": [
+            [
+              1574.1522432768359,
+              1051.343034365416
+            ],
+            [
+              1585.8477567231641,
+              1048.656965634584
+            ]
+          ],
+          "corrected_endpoints": [
+            [
+              1568.6616735484113,
+              1047.659519926097
+            ],
+            [
+              1580.1687839658293,
+              1044.9266629050778
+            ]
+          ],
+          "image_line_rotation_deg": 0.42521318717024315,
+          "endpoint_displacements_px": [
+            [
+              -5.490569728424589,
+              -3.6835144393191968
+            ],
+            [
+              -5.6789727573348046,
+              -3.730302729506093
+            ]
+          ],
+          "differential_displacement_px": 0.19412584938940192
+        }
+      ]
+    },
+    {
+      "fd_equivalent_mm": 30,
+      "model": "magill_B_polynomial",
+      "parameter": null,
+      "baseline_elevation_deg": 31.859311979477965,
+      "corrected_elevation_deg": 31.94363497966278,
+      "source_elevation_change_deg": 0.08432300018481342,
+      "corrected_vp_px": [
+        -287.8390177839734,
+        1482.3477201158178
+      ],
+      "horizon_center_correction_px": 0.008143239843320771,
+      "rms_line_miss_px": 2.1504966606038782,
+      "segments": [
+        {
+          "region": "hat",
+          "constructed_endpoints": [
+            [
+              842.3438226349236,
+              760.0511598235116
+            ],
+            [
+              867.6561773650764,
+              743.9488401764884
+            ]
+          ],
+          "corrected_endpoints": [
+            [
+              842.3429063567008,
+              760.0272213197646
+            ],
+            [
+              867.6528029370556,
+              743.9296228689485
+            ]
+          ],
+          "image_line_rotation_deg": 0.00508881744451628,
+          "endpoint_displacements_px": [
+            [
+              -0.0009162782228031574,
+              -0.023938503746990136
+            ],
+            [
+              -0.003374428020720188,
+              -0.019217307539861395
+            ]
+          ],
+          "differential_displacement_px": 0.005322799456602358
+        },
+        {
+          "region": "left_stone",
+          "constructed_endpoints": [
+            [
+              178.98689405469491,
+              959.5784199179649
+            ],
+            [
+              189.01310594530509,
+              948.4215800820351
+            ]
+          ],
+          "corrected_endpoints": [
+            [
+              180.40229026827467,
+              958.7051164951511
+            ],
+            [
+              190.34301258488244,
+              947.6112650500929
+            ]
+          ],
+          "image_line_rotation_deg": 0.08263530116981599,
+          "endpoint_displacements_px": [
+            [
+              1.4153962135797542,
+              -0.8733034228138195
+            ],
+            [
+              1.3299066395773593,
+              -0.8103150319421957
+            ]
+          ],
+          "differential_displacement_px": 0.10618853350389301
+        },
+        {
+          "region": "left_hand",
+          "constructed_endpoints": [
+            [
+              42.55497287487509,
+              384.7866372964382
+            ],
+            [
+              45.44502712512491,
+              375.2133627035618
+            ]
+          ],
+          "corrected_endpoints": [
+            [
+              44.49567363409221,
+              385.2040599438442
+            ],
+            [
+              47.374116102622565,
+              375.653212357088
+            ]
+          ],
+          "image_line_rotation_deg": 0.026621255092791785,
+          "endpoint_displacements_px": [
+            [
+              1.9407007592171226,
+              0.4174226474059992
+            ],
+            [
+              1.9290889774976563,
+              0.43984965352620975
+            ]
+          ],
+          "differential_displacement_px": 0.025254783273995694
+        },
+        {
+          "region": "right_pebbles",
+          "constructed_endpoints": [
+            [
+              1574.1522432768359,
+              1051.343034365416
+            ],
+            [
+              1585.8477567231641,
+              1048.656965634584
+            ]
+          ],
+          "corrected_endpoints": [
+            [
+              1571.8408540183575,
+              1049.7923691103306
+            ],
+            [
+              1583.4428162800587,
+              1047.0772510836327
+            ]
+          ],
+          "image_line_rotation_deg": 0.2368337188595575,
+          "endpoint_displacements_px": [
+            [
+              -2.311389258478357,
+              -1.5506652550855051
+            ],
+            [
+              -2.404940443105488,
+              -1.5797145509511665
+            ]
+          ],
+          "differential_displacement_px": 0.09795757109805397
+        }
+      ]
+    },
+    {
+      "fd_equivalent_mm": 37,
+      "model": "magill_B_polynomial",
+      "parameter": null,
+      "baseline_elevation_deg": 28.23860670865216,
+      "corrected_elevation_deg": 28.280344297525055,
+      "source_elevation_change_deg": 0.041737588872894804,
+      "corrected_vp_px": [
+        -287.6818120105264,
+        1480.7446324468742
+      ],
+      "horizon_center_correction_px": 0.005331229629575773,
+      "rms_line_miss_px": 1.1896506850844522,
+      "segments": [
+        {
+          "region": "hat",
+          "constructed_endpoints": [
+            [
+              842.3438226349236,
+              760.0511598235116
+            ],
+            [
+              867.6561773650764,
+              743.9488401764884
+            ]
+          ],
+          "corrected_endpoints": [
+            [
+              842.3432252871879,
+              760.035553634635
+            ],
+            [
+              867.6539752022367,
+              743.9362988982971
+            ]
+          ],
+          "image_line_rotation_deg": 0.0032941274859012992,
+          "endpoint_displacements_px": [
+            [
+              -0.0005973477357201773,
+              -0.015606188876631677
+            ],
+            [
+              -0.0022021628396942106,
+              -0.012541278191292804
+            ]
+          ],
+          "differential_displacement_px": 0.0034596400140834865
+        },
+        {
+          "region": "left_stone",
+          "constructed_endpoints": [
+            [
+              178.98689405469491,
+              959.5784199179649
+            ],
+            [
+              189.01310594530509,
+              948.4215800820351
+            ]
+          ],
+          "corrected_endpoints": [
+            [
+              179.83765692621273,
+              959.0534968465513
+            ],
+            [
+              189.81443595369274,
+              947.9333279506305
+            ]
+          ],
+          "image_line_rotation_deg": 0.047004471250119195,
+          "endpoint_displacements_px": [
+            [
+              0.8507628715178157,
+              -0.524923071413582
+            ],
+            [
+              0.8013300083876516,
+              -0.4882521314045789
+            ]
+          ],
+          "differential_displacement_px": 0.061549701854594255
+        },
+        {
+          "region": "left_hand",
+          "constructed_endpoints": [
+            [
+              42.55497287487509,
+              384.7866372964382
+            ],
+            [
+              45.44502712512491,
+              375.2133627035618
+            ]
+          ],
+          "corrected_endpoints": [
+            [
+              43.7136792131987,
+              385.0358618432994
+            ],
+            [
+              46.59694564233496,
+              375.47601049565196
+            ]
+          ],
+          "image_line_rotation_deg": 0.01502674359507239,
+          "endpoint_displacements_px": [
+            [
+              1.1587063383236114,
+              0.2492245468612282
+            ],
+            [
+              1.1519185172100492,
+              0.2626477920901493
+            ]
+          ],
+          "differential_displacement_px": 0.015041875812061267
+        },
+        {
+          "region": "right_pebbles",
+          "constructed_endpoints": [
+            [
+              1574.1522432768359,
+              1051.343034365416
+            ],
+            [
+              1585.8477567231641,
+              1048.656965634584
+            ]
+          ],
+          "corrected_endpoints": [
+            [
+              1572.7904415537696,
+              1050.429428572481
+            ],
+            [
+              1584.4327227825258,
+              1047.7274832798237
+            ]
+          ],
+          "image_line_rotation_deg": 0.13130217855223236,
+          "endpoint_displacements_px": [
+            [
+              -1.3618017230662645,
+              -0.9136057929351864
+            ],
+            [
+              -1.4150339406382955,
+              -0.9294823547602391
+            ]
+          ],
+          "differential_displacement_px": 0.05554938526231201
+        }
+      ]
+    },
+    {
+      "fd_equivalent_mm": 45,
+      "model": "magill_B_polynomial",
+      "parameter": null,
+      "baseline_elevation_deg": 24.76244373995195,
+      "corrected_elevation_deg": 24.784075080536773,
+      "source_elevation_change_deg": 0.021631340584821857,
+      "corrected_vp_px": [
+        -287.6488903308016,
+        1479.9730902178485
+      ],
+      "horizon_center_correction_px": 0.0035948179684055503,
+      "rms_line_miss_px": 0.7066602816705314,
+      "segments": [
+        {
+          "region": "hat",
+          "constructed_endpoints": [
+            [
+              842.3438226349236,
+              760.0511598235116
+            ],
+            [
+              867.6561773650764,
+              743.9488401764884
+            ]
+          ],
+          "corrected_endpoints": [
+            [
+              842.3434209131158,
+              760.0406645189594
+            ],
+            [
+              867.6546954232306,
+              743.9404005440431
+            ]
+          ],
+          "image_line_rotation_deg": 0.0022053896615261692,
+          "endpoint_displacements_px": [
+            [
+              -0.00040172180786157696,
+              -0.010495304552250673
+            ],
+            [
+              -0.0014819418457818756,
+              -0.008439632445288225
+            ]
+          ],
+          "differential_displacement_px": 0.002322210830581056
+        },
+        {
+          "region": "left_stone",
+          "constructed_endpoints": [
+            [
+              178.98689405469491,
+              959.5784199179649
+            ],
+            [
+              189.01310594530509,
+              948.4215800820351
+            ]
+          ],
+          "corrected_endpoints": [
+            [
+              179.52792277351512,
+              959.2446036851297
+            ],
+            [
+              189.5236376822461,
+              948.1105119751353
+            ]
+          ],
+          "image_line_rotation_deg": 0.028635683518473343,
+          "endpoint_displacements_px": [
+            [
+              0.5410287188202005,
+              -0.3338162328351473
+            ],
+            [
+              0.5105317369410045,
+              -0.31106810689982467
+            ]
+          ],
+          "differential_displacement_px": 0.03804659166481681
+        },
+        {
+          "region": "left_hand",
+          "constructed_endpoints": [
+            [
+              42.55497287487509,
+              384.7866372964382
+            ],
+            [
+              45.44502712512491,
+              375.2133627035618
+            ]
+          ],
+          "corrected_endpoints": [
+            [
+              43.28806263202512,
+              384.9443165603651
+            ],
+            [
+              46.1738931655226,
+              375.3795507224016
+            ]
+          ],
+          "image_line_rotation_deg": 0.009086475116703241,
+          "endpoint_displacements_px": [
+            [
+              0.7330897571500259,
+              0.15767926392692289
+            ],
+            [
+              0.7288660403976905,
+              0.16618801883976175
+            ]
+          ],
+          "differential_displacement_px": 0.009499404895608873
+        },
+        {
+          "region": "right_pebbles",
+          "constructed_endpoints": [
+            [
+              1574.1522432768359,
+              1051.343034365416
+            ],
+            [
+              1585.8477567231641,
+              1048.656965634584
+            ]
+          ],
+          "corrected_endpoints": [
+            [
+              1573.2996295196508,
+              1050.7710326896167
+            ],
+            [
+              1584.9627644603856,
+              1048.0756476402037
+            ]
+          ],
+          "image_line_rotation_deg": 0.07814996345852876,
+          "endpoint_displacements_px": [
+            [
+              -0.852613757185054,
+              -0.5720016757993562
+            ],
+            [
+              -0.8849922627784963,
+              -0.5813179943802425
+            ]
+          ],
+          "differential_displacement_px": 0.0336921566000922
+        }
+      ]
+    }
+  ],
+  "warnings": [
+    "Cue points are constructed on the adopted VP, not independently selected physical correspondences.",
+    "The empirical polynomial transfers one lens specimen angular curve, not actual lens calibration.",
+    "Bounds do not cover arbitrary high-order, decentered or scan distortions.",
+    "Principal point and camera class have not been independently identified.",
+    "Models tested do not supply a probability or full joint error region."
+  ]
+}

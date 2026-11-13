@@ -1,0 +1,110 @@
+MUSE RESPONSE TO CADE BRADLEY: COMPLETE TRANSCRIPT FOLLOW-UP
+11 November 2026
+
+Video: GZZ3H-ExWMc, Capturing Catholicism: Apostate Filmmaker Tried to Debunk
+Fatima. He Failed. Host Cameron Bertuzzi; guest Ethan Muse.
+https://www.youtube.com/watch?v=GZZ3H-ExWMc
+Duration approximately 1:30:24, published 21 August 2026 per preserved metadata.
+
+Freshly reread all three complete minute-grouped transcript parts, covering
+00:00 through the conclusion after01:30:00. These total approximately17,932
+whitespace words including minute timestamps; prior raw caption extraction
+reports approximately17,841 spoken-text words and2,813events. Not newly watched
+in its entirety, not manually audio-corrected, and speaker labels are unreliable.
+Clips of Bradley are interleaved with Muse and Bertuzzi. Automatic captions
+corrupt Dalleur's name repeatedly. No verbatim speaker quotation is authenticated
+solely by these captions.
+
+SOURCE
+../fatima-muse-bradley-response-20261101/readable-part-1.txt
+../fatima-muse-bradley-response-20261101/readable-part-2.txt
+../fatima-muse-bradley-response-20261101/readable-part-3.txt
+Original captions and metadata remain in that same folder.
+
+ADDITIONAL COVERAGE THAT MUST ACCOMPANY THE SHADOW REVIEW
+
+00:09-00:14: Dalleur's applied-science/engineering background and work, compared
+with Bradley's camera practice. Relevant expertise is not a substitute for the
+optical calculation. Claims about either participant's motives were not used
+as evidence deciding geometry.
+
+00:15-00:20: Muse corrects the authorship/journal framing. The sole author is
+Dalleur. Scientia et Fides is interdisciplinary, not secretly presented as
+Nature or as a specialist optics journal. The original paper confirms its
+authorship. This exchange does not disclose the actual anonymous reviewers'
+identities or prove what expertise they had.
+
+00:20-00:26: Two important representation corrections. LSb is described in the
+paper as probably a bright cloud, not a second extraordinary orb. A quotation
+about visibility from the west concerns the separate Ghiaie case in Muse's
+reply, not Dalleur proposing western invisibility at Fatima. The Fatima map
+itself includes western witnesses. Correcting this attribution does not
+independently adjudicate every witness bearing or the Italian case.
+
+00:28-00:36: Method and sensitivity. Object-to-shadow ray directions and a VP,
+followed by a horizon/principal-point/focal model, not physical shadow-length
+measurement. Muse expressly argues the available uncertainty cannot bridge
+the angular discrepancy. It is wrong to portray him as ignoring uncertainty.
+Whether the claimed total bound is demonstrated remains an empirical question.
+
+00:39-00:47: Three complementary focal-length arguments. Edge/head perspective
+gives a claimed31-46mm-equivalent range; hanging threads narrow it to33-39mm,
+with37mm preferred; press-photography practice favors roughly44mm. Muse
+deliberately tests30mm anyway and still obtains approximately31.86degrees.
+These are substantive constraints, not an arbitrary isolated preferred lens.
+Our earlier joint-VP counter-calibration does not answer all these constraints
+merely by preserving the projected vertical-line family. It has not fitted
+the edge-head/anatomy and remaining whole-scene constraints.
+
+00:48-00:55: Muse distinguishes focal-length/perspective uncertainty from radial
+distortion. He argues from likely period lens inventories, lens patents and
+straight staffs across the image to small distortion, then emphasizes relative
+movement of nearby endpoints, rather than total displacement at the image edge.
+He also invokes distributed cue agreement. This is a direct quantitative reply
+to Bradley's generic antique-lens objection. No independent full inventory,
+all-endpoint displacement table or joint error region was newly supplied by
+this caption reading. Do not present Muse's universal inventory/maximum-error
+claims as independently verified by this project.
+
+01:03-01:07: Real photographs as well as CGI. Existing real controls were
+separately checked in the main review. Additional antique-photo tests and a
+new scan are announced as future work at01:05-01:06; this video does not
+provide those future results. The CGI-only criticism is not retained.
+
+01:10-01:15: Sloping receivers, rock correspondence, crown-on-brim tangency,
+and multiple cues. Muse explains why physical object height and actual shadow
+length are unnecessary for the intended ray construction. He emphasizes an
+acceptance region shared by differently located/directed cues, allowing some
+individual angular imprecision. These replies must accompany any short-shadow
+error discussion. Mere pixel sensitivity in an arbitrary pair does not prove
+that all his chosen cues permit a solar fit. Conversely, the caption account
+does not itself provide independent coordinates or a fitted confidence region.
+
+01:19-01:22: Religious context and credibility of the secrets. Muse argues a
+genuine authenticated miracle would support the seer's continued credibility;
+he also invokes1917 Catholic-conversion requests, the Rosary identification
+and penitential context independently of later secrets. This overlaps Daniel's
+earlier argument about not treating Lucia as presumptively dishonest while
+granting the apparitions. It is not new pre-death documentation of the exact
+June1917selective-death prediction. The relevant secret-provenance work is in
+../fatima-early-death-prediction-20261111/.
+
+01:22-01:28: Bradley's distant-mountain demonstration does not directly test
+object-shadow ray correspondence. Muse closes by stressing the conjunction
+of advance announcement, witnesses and photograph, rather than an isolated
+unexplained dark feature. This cumulative context remains in the review.
+
+DISPOSITION
+
+Yes, this response addresses substantially more than the brief table in the
+previous answer conveyed. The principal audit already retained many of these
+replies, but this complete rereading supplies an explicit full coverage record.
+Bradley's broad lost-depth, physical-length, common-level-plane and CGI-only
+criticisms should not be recycled as unanswered objections. His two-orbs and
+western-invisibility descriptions also need correction.
+
+The main narrower verification questions survive as questions, not refutations:
+independent physical cue selection, historical camera bounds and a reproduced
+joint exclusion region. Muse has offered arguments addressing them; wanting
+to check those arguments is different from claiming he did not address them.
+No new scored challenge or duplicate tally point is created by rereading.

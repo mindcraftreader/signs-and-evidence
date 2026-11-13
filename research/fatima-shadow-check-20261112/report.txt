@@ -1,0 +1,92 @@
+D115 SHADOW CHECK
+12 November 2026
+
+RESULT
+
+The available-image check supplies conditional support for a low illumination direction. It does not establish a full independent physical reconstruction of D115. The earlier photo and camera challenge outcomes are preserved, with no new tally point or reopened adjudication.
+
+A raw lower-hat luminance trace measures 34.1035 degrees within the photograph. A new single-ray-plane calculation, retaining Dalleur's camera calibration, bounds the possible elevation of any source on that line's backprojection plane at 35.7256 degrees for the 37 mm equivalent setting. Across four predefined source windows, three line estimators and four focal settings, these conditional caps range from 28.0642 to 36.9555 degrees, below the adopted 42.72-degree Sun. These values are upper limits conditional on the selected trace being a valid projected beam; they are not measured source elevations or a statistical confidence interval.
+
+The decisive unresolved empirical step is semantic: the detector measures a real brightness edge near the author's indicated common-tangent region. It does not independently isolate both the casting crown contour and its receiving shadow contour as a valid common supporting pair. Several adjacent surfaces overlap. A line fitted to a silhouette, material edge or occlusion cannot be substituted for a physical light ray. Consequently this result must not be promoted to independent confirmation that the Sun was at the wrong angle.
+
+WHAT WAS ACTUALLY DONE
+
+1. Read the existing component decisions G01, G04, C09, C10, C13 and F01-F06 and the previous failed camera / joint-calibration challenges. This is further verification, not a repetition of those objections as though they had succeeded.
+
+2. Reinspected the original unannotated 1669 by 1181 public JPEG, the paper's actual figure 9 and the retained author walkthrough frames. The relevant figure explicitly distinguishes the main crown-on-brim common tangent from the inner crown crease. Dalleur's and Muse's current primary pages were reopened on 12 November. No claim to have newly watched their entire videos or independently acquired the original 6K TIFF.
+
+3. Extracted figure 9 losslessly from the preserved display-compatible PDF with pdfimages. It is an annotated, denoised and contrast-adjusted author illustration, not a new raw historical source. Registered the lower photo inset to the public JPEG using image correlation with colored/bright annotations and label regions masked. The best scalar scale is 0.234 with normalized correlation 0.8971. This locates the intended region without using a target light elevation. It does not measure a light direction or authenticate physical shadows. The approximately mapped author marks are retained for inspection, not counted as independent measurements.
+
+4. Re-ran the previously declared raw-gradient bands without smoothing or image enhancement: x=850-882, 856-878, 862-880 and 866-880, with search y=738-772 in the source image. For each column, selected the strongest positive central vertical luminance gradient. The published VP and expected Sun were not supplied to this detector. The review is not blinded: the author's figures and previous work were already known, and the windows are retained from the earlier audit.
+
+5. Fitted each trace by ordinary least squares, orthogonal total least squares and the Theil-Sen median-slope estimator. All fits and raw sample coordinates are saved. The whole-window OLS result exactly reproduces the earlier 34.1035-degree edge orientation. The whole-window TLS is 34.566 degrees and median-slope estimate 31.883 degrees. Smaller windows give around 26.6-27.2 degrees, demonstrating curvature and window dependence. These are alternative fits to one boundary, not twelve independent shadows.
+
+6. Applied the new single-ray plane test described below, with no selected shadow VP or second shadow. It strengthens the conditional geometry check while leaving physical ray authentication and camera independence unresolved.
+
+7. Reviewed seven cue groups: the main crown/brim region, inner crown crease, finger/hat, stick/knee, sharp left stone, large central stone, and hand/lapel/face details. Dark boundaries and shadow/occlusion structures are real and visible. I did not recover additional unique authenticated casting-point/shadow-point pairs from this copy. Their individual status and reason are in shadow-results.json. I did not manufacture extra ray intersections from every dark region.
+
+THE NEW SINGLE-RAY PLANE TEST
+
+For a calibrated perspective camera, an image line backprojects to a plane through the optical center. If n is that plane's unit normal and u is world-up in camera coordinates, the largest possible elevation of any ray in that plane is:
+
+  maximum elevation = acos(abs(dot(n, u))).
+
+This maximizes over all directions in the plane. It does not assume the source's particular horizontal bearing or Dalleur's fitted shadow VP. Because it even admits directions that may later be physically excluded, it is an upper bound, not a preferred elevation.
+
+For image line y=m*x+b, focal length in pixels f, and principal point (cx,cy), a proportional plane normal in camera coordinates (right, up, forward) is:
+
+  n proportional to (m, 1, (m*cx + b - cy)/f).
+
+The adopted frame restoration gives cx=834.5, cy=555.125. Dalleur's h=0.31 is retained; with equivalent focal length FD, the adopted world-up is proportional to (0, FD/10, -0.31). The 30,33,37,45 mm settings remain conditional camera choices, not a newly established joint camera uncertainty region.
+
+Identity checks confirm that the selected image line lies in the calculated plane and that projecting world-up into it attains the stated maximum. The old raw OLS fit and old two-feature arithmetic are also reproduced.
+
+SENSITIVITY CHECKS AND WHAT THEY MEAN
+
+At the primary whole-window fit, permitting the fitted segment endpoints to move vertically by plus or minus one pixel, with the adopted camera models retained, gives a largest tested plane cap of 38.7113 degrees. Plus or minus two pixels gives 40.7798 degrees. These are deliberately specified finite perturbations, not measured physical endpoint uncertainty, confidence limits or proof that all possible feature/scan/camera errors are smaller. Shorter selected spans and different contours have different sensitivity. No probability is calculated from these exercises.
+
+The prior provisional stone boxes, centered on (183.5,953.5) and (178,963.5), combined with the old raw hat fit again yield approximately 27.1398 degrees. This is explicitly a repeat of an old conditional sketch, with the same unvalidated vertex pairing and retained camera assumptions. It is not a new independent low-elevation measurement. The raw stone crop shows why a corner detector alone cannot distinguish a shadow vertex from a nearby pebble boundary.
+
+INTERPRETATION
+
+The directional result is not produced simply by typing Dalleur's VP into the new plane-cap calculation. An independently computed image trace constrains a plane. Under the retained camera, its conditional maximum is below the noon Sun. That is a useful consistency result and should receive its proper weight.
+
+The calculation still begins with a proposed physical interpretation of an image trace and retained camera assumptions. The result therefore supports the narrower conditional statement; it does not complete the missing independent joint authentication. The seven-cue audit does not establish that Dalleur's assignments are wrong. Limited recovery from the smaller reproduction is not counterevidence to what he reports from his 6K scan.
+
+This pass identifies no demonstrated material error closing the discrepancy and supplies no full ordinary-solar fit. It also does not independently authenticate the source elevation, a trajectory, the source's identity or supernatural agency. Those are different inferences and remain connected to the historical and testimonial case at their existing scope. No new score is assigned.
+
+SOURCES AND ACADEMIC ATTRIBUTION
+
+Philippe Dalleur, Pontifical University of the Holy Cross; applied-science doctorate at UCLouvain and philosophy doctorate per the previously verified official CV. Original 2021 paper, printed page 31, figure 9; mathematical appendix and current author explanation.
+https://doi.org/10.12775/SetF.2021.001
+https://sites.google.com/pusc.it/elevation-azimuth/fatimas-miracle-photo
+Local original: ../fatima-photo-analysis-20261027/dalleur-2021-compatible.pdf
+
+Ethan Muse, philosophy researcher/advocate, not an independent optical laboratory. It Wasn't the Sun, section 3, includes Dalleur's reported reply to the mixed-light render. This is relevant substantive defense, not independent measurement.
+https://motivesofcredibility.substack.com/p/it-wasnt-the-sun
+Local preceding complete response transcript: ../fatima-muse-bradley-response-20261101/transcript.txt
+
+Bo Hu, Christopher Brown and Randal Nelson, University of Rochester Computer Science, technical report 810 (2004). Previously consulted primary supporting-line geometry is retained; this pass did not reread the complete report.
+../fatima-shadow-correspondence-audit-20261102/sources/rochester-hu-brown-nelson-2004.txt
+
+Public historical image: Judah Ruah photograph, Wikimedia reproduction, unchanged local source and hash in shadow-results.json.
+https://commons.wikimedia.org/wiki/File:People_looking_miracle_sun.jpg
+
+Earlier direct-pixel audit, including its explicit semantic and calibration limits:
+../fatima-independent-photo-audit-20261102/pixel-measurements/report.txt
+
+REPRODUCTION AND FILES
+
+Run using the configured bundled Python with numpy and Pillow:
+  python register_figure.py
+  python shadow_check.py
+The first command expects figure9-000.png, extracted from PDF page 23 by pdfimages.
+The second reads the unchanged original JPEG from the adjacent source library.
+
+shadow-results.json: fits, adopted camera, seven cue statuses and conditional outputs.
+raw-edge-points.csv: unfiltered raw edge samples and source coordinates.
+figure-registration.json: actual registration settings, score and mapped author marks.
+registered-paper-cues.png: transferred approximate author markings; not independent rays.
+shadow-check-summary.png: raw samples, fitted line and conditional-cap summary.
+*-grid.png: enlarged raw source crops with coordinate grids; no generated detail.
+No outreach, purchase, deployment or change to the historical conversation in this pass.

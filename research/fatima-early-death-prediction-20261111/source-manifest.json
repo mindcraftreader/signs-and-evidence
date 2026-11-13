@@ -1,0 +1,58 @@
+{
+  "date": "2026-11-11",
+  "finding": {
+    "composition_attributed_by_cristino": "late December1927",
+    "earliest_dated_primary_transmission_verified": "1928-10-11",
+    "pre_death_full_prediction_found": false,
+    "early_related_trace": "1917-11-02 longevity question, not a full early-death prediction"
+  },
+  "primary_pdf": {
+    "path": "research/fatima-distant-witnesses-20261027/sources/dcf-selecao-2013.pdf",
+    "url": "https://www.fatima.pt/files/upload/fontes/F001_DCF_selecao.pdf",
+    "verified_pdf_pages": [
+      120,
+      355,
+      356
+    ],
+    "printed_pages": [
+      118,
+      353,
+      354
+    ]
+  },
+  "cristino": {
+    "url": "https://www.fatima.pt/pt/news/conferencia-notas-biograficas-irma-lucia",
+    "author": "Fr. Dr. Luciano Cristino",
+    "position": "Director, Shrine of Fatima Studies and Dissemination Service",
+    "conference_date": "2007-03-28",
+    "publication_date": "2007-04-09",
+    "html_saved": true
+  },
+  "source_limits": [
+    "Original1927 autograph not inspected",
+    "No exhaustive new review of entire3811-document collection",
+    "1921booklet transcription abridged"
+  ],
+  "score_change": 0,
+  "followup": {
+    "new_earlier_related_publication": "1920-06-05, DCF III-2doc528, reprinted1921booklet",
+    "independently_inspected_original_1920_newspaper": false,
+    "visually_inspected_reprint_pdf_pages": [
+      607,
+      608,
+      609
+    ],
+    "earliest_full_selective_prediction_changed": false,
+    "public_dataset_accounts": 471,
+    "public_dataset_documents": 182,
+    "dataset_limit": "Witness excerpts, not entireDCFcorpus",
+    "report": "followup-1920-sources.txt",
+    "score_change": 0
+  },
+  "muse_early_secrets_followup": {
+    "report": "muse-early-secrets-followup.txt",
+    "date": "2026-11-11",
+    "score_change": 0,
+    "underlying_1946_publication_inspected": false
+  }
+}

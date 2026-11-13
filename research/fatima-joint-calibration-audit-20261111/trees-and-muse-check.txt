@@ -1,0 +1,87 @@
+D115 BACKGROUND TREES AND MUSE: DIRECT CHECK
+11 November 2026
+
+RESULT
+The background trees do not yield a usable independent calibration from the
+reproductions inspected here. The visible features are chiefly crowns and
+vegetation silhouettes; trunks/bases are obscured by the crowd. I did not
+recover independently established heights, distances or identified homologous
+points across the other photos. A treetop boundary cannot be substituted for
+the geometric horizon. This is a data limit, not evidence for a wide lens.
+
+A more important defense comes from Muse's other scene constraints. His
+Bradley-response captions41–45minutes argue a31–46mm-equivalent interval
+from heads near the image edges and other series images; threads reportedly
+narrow it to33–39mm, with37mm best; period practice favors about44mm.
+At50–55minutes he invokes straight staffs, small lens distortion, distributed
+shadow convergence and the newspaper's probable equipment. These are
+relevant substantive defenses. The new18.1mm-equivalent counter-calibration
+has not been tested against the head-perspective constraints or independently
+verified inventory. Muse's numeric bounds are his stated estimates; this
+pass did not reproduce their complete measurement derivation.
+
+MY PREVIOUS CLAIM: EXACT SCOPE
+Holding the baseline's implied vertical vanishing point fixed does preserve
+the projected family of truly parallel vertical lines, including any plumb
+threads/trunks. That mathematical result survives. It does not preserve known
+sizes, distances, camera station or head anatomy. It does not establish that
+an18mm lens plus shift is consistent with all those additional constraints.
+The prior calculation also moves the estimated horizon by about82pixels.
+Therefore my reply to the threads was mathematically narrow, and must not be
+read as an answer to all of Muse's independent scene arguments.
+
+ACTUAL INSPECTION
+Viewed the unannotated1669x1181D115image and the six-image shrine contact
+sheet. Relevant pixel regions are recorded in trees-and-muse-check.json.
+The prominent crown above/behind the central crowd is visible; its support
+and base are hidden. Other images show vegetation but I did not independently
+identify and measure a stable same-tree correspondence. Most public shrine
+files are about600pixels wide. No generated detail or image enhancement used.
+Original-scans multi-view reconstruction may supply further constraints;
+this pass is not such a reconstruction and does not declare it impossible.
+
+ADDITIONAL NUMERICAL CHECK
+At illustrative manually identified image positions, ray obliquity differs:
+left boy's head about25degrees baseline versus33degrees alternative;
+right man's head18versus38; right woman's headscarf21versus42.
+These are angles computed from competing intrinsics at selected pixels,
+not estimated gaze, head pose, distortion measurements or a formal rejection.
+They make the missing edge-perspective check consequential: the alternative
+changes rays across the image even though its vertical VP is held fixed.
+No observed face anatomy has been declared impossible from these numbers.
+
+MUSE ACCESS / ATTRIBUTION
+Read relevant archived caption passages (automatic/unverified audio), not
+an invented transcript or an entirely replayed video. Live YouTube retrieval
+failed. The current written reply's photogrammetry section was also checked:
+it emphasizes reliable shadow correspondences, validation and quantitative
+rather than generic uncertainty. I found no direct discussion of this exact
+newly generated joint-calibration construction. The response above is Muse's
+existing relevant defense, not a statement falsely attributed to him about
+our new calculation. The detailed quoted correspondence in the article is
+attributed by Muse to Dalleur, not an independent replication.
+
+JUDGMENT
+Trees alone neither establish nor refute the new camera configuration.
+Muse's edge-perspective/historical-equipment defense is unanswered by my
+paired-VP calculation. Consequently the latter remains an incomplete
+mathematical counter-calibration, not a demonstrated plausible historical
+alternative or a sufficient basis for reasonable doubt in the combined case.
+The correct next test would jointly fit those extra constraints, rather
+than repeating 'unknown camera' or declaring all scene details preserved.
+No new tally, no reversal of the prior16–0record.
+
+SOURCES
+Ethan Muse, response to Cade Bradley, selected relevant caption times:
+https://www.youtube.com/watch?v=GZZ3H-ExWMc&t=2524s
+https://www.youtube.com/watch?v=GZZ3H-ExWMc&t=2632s
+https://www.youtube.com/watch?v=GZZ3H-ExWMc&t=3232s
+Local transcript: ../fatima-muse-bradley-response-20261101/transcript.txt
+Ethan Muse, It Wasn't The Sun!, section3(revised18April2026):
+https://motivesofcredibility.substack.com/p/it-wasnt-the-sun
+Dalleur's walkthrough and verticality probe, about5:45–7:10:
+https://www.youtube.com/watch?v=0e8VSSHAB6c&t=345s
+Public unannotated D115:
+https://commons.wikimedia.org/wiki/File:People_looking_miracle_sun.jpg
+Shrine series:
+https://www.fatima.pt/pt/multimedia/images/19171013

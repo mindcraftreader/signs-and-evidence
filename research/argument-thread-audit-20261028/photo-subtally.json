@@ -1,0 +1,12 @@
+{
+  "title": "Photographic subtally: correction and history pointer",
+  "updated": "2026-11-12",
+  "status": "unverified_six_count_withdrawn",
+  "daniel": null,
+  "assistant": null,
+  "reason": "Six was Daniel’s tentative guess. The assistant organized topics into six and incorrectly presented that grouping as a verified 6–0 score. A chronological evidence audit replaces that score; no final local win count is assigned.",
+  "history": "../fatima-photo-challenge-history-20261112/challenge-history.json",
+  "readable_history": "../fatima-photo-challenge-history-20261112/index.html",
+  "old_draft": "superseded/photo-subtally-20261112-guessed-six-draft.json",
+  "main_tally_effect": 0
+}

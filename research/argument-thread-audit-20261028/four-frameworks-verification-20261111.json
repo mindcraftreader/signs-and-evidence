@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-11",
+  "main_score": "17-0",
+  "open_ids": [
+    "P-01",
+    "C-03"
+  ],
+  "score_change": 0,
+  "files": {
+    "live-debate-tally.json": {
+      "mirrors_identical": true,
+      "sha256": "309bfdcb8db126a9a644bf45d3b64d2b93c4d52175632d55b5f4b8d0740ea19a"
+    },
+    "live-debate-tally.txt": {
+      "mirrors_identical": true,
+      "sha256": "66516c406c3deb7619627ffe27c86d629cf5f39def41fd1c6e35d0c4580b512d"
+    },
+    "scoreboard.txt": {
+      "mirrors_identical": true,
+      "sha256": "e3a2598925263d4c135b4c466037d230dd5a3e07a31a5233f03c65341917bacc"
+    },
+    "scoreboard.html": {
+      "mirrors_identical": true,
+      "sha256": "5452d99aa1adddc25cf0e44e83bd05ed173e2f4e5906b1073c3f8ee3baaf18cd"
+    },
+    "four-frameworks-comparison-20261111.txt": {
+      "mirrors_identical": true,
+      "sha256": "6efc37dbe7857e1f6fe759677779638a3efc8b956d04e929444ecbcd18b22373"
+    }
+  }
+}

@@ -1,0 +1,122 @@
+CORE COMPONENT CLAIMS — 10 NOVEMBER 2026
+Separate grouped assessment using the same 0–4 rubric. Scores are reasoned judgments for the exact core propositions, not sums/averages of component rows or extra independent evidence. Original detailed scores and defense tallies remain unchanged.
+
+Scope is drawn from Daniel’s stated priorities in the conversation. The full 72-entry register and eight comparative rows remain intact. This 16-group view is additional, not a replacement or a new win/loss tally.
+
+Excluded as standalone core claims: Pio scent, infection/scarring, fever, confession/bilocation/healing extensions; Zeitoun blackout, exact crowd/appearance counts and Nasser claims; Bernadette preservation; Fátima drying and minute-by-minute duration. These remain in the full record. Photographic corroboration remains a core argument the user defended, although he says the historical case can stand without it.
+
+CF1 | Fátima | 4/4
+A public miracle on 13 October was announced in advance, as an authentication of the Lady’s appearances.
+Score basis: Early dated records support the advance announcement and its stated purpose.
+Scope: Scores the announcement; occurrence and interpretation of the event are separate components below.
+Evidence IDs: F01, F02
+Conversation basis: User: “The prediction is that ... I will perform a miracle on october 13th ... as proof of the truth of what i have told you” (user explicitly called this a paraphrase).
+
+CF2 | Fátima | 3/4
+A large public solar event was experienced and promptly documented by eyewitnesses, including secular press witnesses.
+Score basis: Crowd photographs, Almeida’s immediate and later firsthand accounts, and other testimony support a substantial public event.
+Scope: Specific motion, descent and color details have different witnesses; the score does not assume every observer reported the same sequence.
+Evidence IDs: F04, F05, F06, F07, F14
+Conversation basis: User: “The physical event is established by witnesses and the press honestly.”
+
+CF3 | Fátima | 3/4
+Geographically separated reports corroborate the event beyond the gathered Cova crowd.
+Score basis: Reports from other localities broaden the witness setting beyond people assembled around the children.
+Scope: Regional corroboration is retained; a measured convergence of sight lines or an entirely contemporaneous firsthand corpus is not established.
+Evidence IDs: F08, F09
+Conversation basis: User: “also from distant km away reports in several different and converging directions”.
+
+CF4 | Fátima | 3/4
+Dalleur’s photographic lighting reconstruction supplies physical corroboration of illumination inconsistent with the expected solar position.
+Score basis: The published reconstruction, known-source examples and visible shadow features support the photographic argument.
+Scope: Strong support for the reconstruction argument, with full independent joint validation of image inputs and geometry still incomplete.
+Evidence IDs: F10, F11, F12
+Conversation basis: User: “Everything we have done with the photo delleur work confirms it.” The user also retained the historical case if the photo were discarded.
+
+CF5 | Fátima | 3/4
+The sign’s stated purpose and associated message connect the event specifically to Catholic teaching and practice.
+Score basis: The authentication purpose, rosary and specifically Christian message create an affirmative link between event and religious content.
+Scope: Exact message wording has different documentary dates; the further church-wide inference appears under CX3.
+Evidence IDs: F02, F03, F15
+Conversation basis: User: “the people who predicted it was gonna happen said that’s what Mary told them to tell us. That’s the connection.”
+
+CZ1 | Zeitoun | 3/4
+The appearances were repeated public events over several years, accessible to large crowds.
+Score basis: Repeated appearances and sustained public attendance are documented across the 1968–1971 period.
+Scope: Does not require exactly 90 separately verified appearances or one million individually documented witnesses.
+Evidence IDs: Z01, Z02, Z06
+Conversation basis: User repeatedly identified “90 times over 3 years” and the public crowds as central.
+
+CZ2 | Zeitoun | 3/4
+Witnesses described a recognizable luminous woman moving purposefully above a Christian church, including gestures toward its cross.
+Score basis: Early named testimony supplies a figurative, moving and religiously situated appearance rather than only an unspecified light.
+Scope: Reports support the form and gestures; agent identification is the cumulative inference, not a separate photographic measurement.
+Evidence IDs: Z04, Z05, Z12
+Conversation basis: User: “It is a ‘nun-looking’ lady made of light floating above a church”. Cross-directed bowing was repeatedly emphasized.
+
+CZ3 | Zeitoun | 3/4
+Witnesses outside the Christian community, especially Muslims, corroborated the public appearances.
+Score basis: Named cross-religious testimony and outside observation strengthen the case beyond Coptic devotional accounts alone.
+Scope: No precise religious breakdown or count of unique independent witness records is inferred from crowd estimates.
+Evidence IDs: Z03, Z10
+Conversation basis: User: “recognize its above an apostolic christian church in a muslim country.”
+
+CZ4 | Zeitoun | 3/4
+Contemporary church and civil investigation provides institutional corroboration of the reported events.
+Score basis: Identifiable contemporary investigations and reporting add accountable institutional records.
+Scope: Does not incorporate the unverified Nasser personal endorsement, land-sale story or full suburb-wide blackout.
+Evidence IDs: Z09
+Conversation basis: User requested “muslim authorities with egypt gov and religous leaders attesting”. Later explicitly said blackout was not core.
+
+CP1 | Padre Pio | 3/4
+The medically examined, recurrent stigmata across approximately fifty years is the primary Pio case.
+Score basis: Direct physician examinations, the long chronology and reported persistence during treatment withdrawal support the sustained stigmata case as a whole.
+Scope: Changing wound appearance is retained. This does not require invariant full-thickness wounds, proved sterility or a particular scar-healing deadline.
+Evidence IDs: P01, P02, P03, P04, P07
+Conversation basis: User: “for pio, attacking anything but stigmata is not attacking the primary claim ... i could sceed the entire scent argument and lose no ground.”
+
+CL1 | Lourdes | 3/4
+Bernadette’s Marian encounters and directions to the spring establish a specifically Catholic origin and meaning for the healing site.
+Score basis: The apparition sequence, reported directions, chapel/procession requests and Immaculate Conception identification connect place and message.
+Scope: The spring’s direction is distinguished from creation of water from nothing; its historical documentation remains part of the source analysis.
+Evidence IDs: L01, L02, L03
+Conversation basis: User linked Mary, a particular pool/spring and healing; the later spring audit preserved that connection without requiring ex nihilo water.
+
+CL2 | Lourdes | 3/4
+Repeated substantial recoveries associated with the shrine have documented before-and-after medical histories.
+Score basis: Multiple named cases include treating-physician examinations, clinical records, durable outcomes and, in some cases, imaging.
+Scope: Cases differ in diagnosis, treatment history and speed of recovery; the claim does not require every cure to be instantaneous or every reported healing to qualify.
+Evidence IDs: L05, L06, L07, L08, L09, L10, L11, L12, L13
+Conversation basis: User requested the best modern cases with “before/after documentation and at least 2 doctors” and then an audit across decades.
+
+CL3 | Lourdes | 4/4
+The healing claims have a sustained medical-investigation record spanning generations.
+Score basis: The longstanding investigation apparatus and surviving longitudinal clinical literature are directly documented.
+Scope: This scores the existence and persistence of the medical record, not a numerical supernatural cure rate.
+Evidence IDs: L04, L14
+Conversation basis: User: “medically documented for 150 years”. This is central to distinguishing Lourdes from an isolated private recovery.
+
+CX1 | Cumulative | 3/4
+Different types of signs across the cases converge on intentional Christian intervention and reinforce one another.
+Score basis: Prediction, public appearances, stigmata and shrine-associated recoveries provide different evidential routes with a shared religious identity.
+Scope: An affirmative cumulative inference; the routes are not treated as statistically independent trials with a calculated joint probability.
+Evidence IDs: A01, A02, A03, F15, Z12, L15
+Conversation basis: User repeatedly argued that the distinct events “buttress each other” under the same interventionist Christian explanation.
+
+CX2 | Cumulative | 3/4
+Comparative exclusivity strengthens the Christian interpretation: the investigated rival public-sign cases have not matched the case advanced here.
+Score basis: The completed comparison findings favor the user’s claimed evidential advantage within the examined field.
+Scope: This is bounded to the investigated claims, with Putuo provisional; it is not an exhaustive proof that no counterexample exists anywhere.
+Evidence IDs: A04, C01, C02, C03, C04, C05, C06, C07, C08
+Conversation basis: User: “exclusivity is a KEY argument maybe the most important of all.”
+
+CX3 | Cumulative | 3/4
+Authenticating the Catholic messages supports the Church’s teaching authority and supplies the proposed bridge to its dogmatic/metaphysical framework.
+Score basis: Preserves the user’s sign-to-messenger-to-authority argument rather than treating the religious content as incidental.
+Scope: Conditional on the divine authentication and its intended scope. Score 3 reflects support for that bridge, not a separate demonstration of every dogma.
+Evidence IDs: A05, F02, F03, F15, L02, L15, P01, P02
+Conversation basis: User: “if Catholicism is validated, it’s kind of ... an A to Z thing with a lot of these dogmas”. Zeitoun is Coptic and supports the apostolic connection, not uniquely Roman authority.
+
+SCORE COUNTS: {4: 2, 3: 14}
+13 event-specific groups and 3 cumulative groups, 16 total.
+Conversation source: conversation/conversation.txt

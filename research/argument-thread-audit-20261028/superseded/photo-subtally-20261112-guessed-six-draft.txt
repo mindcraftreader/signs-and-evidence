@@ -1,0 +1,40 @@
+D115 PHOTOGRAPHIC ARGUMENTS: GROUPED CHALLENGE SUBTALLY
+Updated: 2026-11-12
+PHOTO SUBTALLY: Daniel 6 — assistant 0
+
+New explicit grouping of existing recorded outcomes, not recovery of a previously located six-item scoreboard and not six newly adjudicated challenges.
+Six topical challenge groups. Several share assumptions and evidence; they are not independent measurements or six main-tally points. Detailed findings retain their exact scope and reopening conditions.
+
+PHOTO-01 | Geometric methodology | Daniel 1 — assistant 0
+The categorical objections concerning shadow lengths, receiving surfaces and supporting tangents did not defeat the actual projective construction.
+Component records: G01, G02, G03, G04
+Source records: S01, S13, S26, S04, S23
+
+PHOTO-02 | Known-source validation | Daniel 1 — assistant 0
+The claim that validation was only CGI was not sustained: real photographic controls exist. Their reported errors do not establish a universal subdegree error distribution.
+Component records: V01, V02, V03, V04
+Source records: S04, S23, S24, S15, S05
+
+PHOTO-03 | Developed physical camera/lens alternative | Daniel 1 — assistant 0
+The attempted period ultra-wide/shift setup did not establish a historically feasible whole-image fit to mounting, face perspective and thread constraints.
+Component records: C07, C08
+Source records: S09, S10, S21
+
+PHOTO-04 | Joint calibration and background-tree follow-up | Daniel 1 — assistant 0
+The paired-vanishing-point construction preserved a mathematical ambiguity but did not supply the developed scene-consistent alternative needed to sustain the objection.
+Component records: C09, C10, C11, C12
+Source records: S11, S12, S21, S17
+
+PHOTO-05 | Unknown lens and proposed distortion escape | Daniel 1 — assistant 0
+Generic unknown-lens uncertainty did not establish a refutation. The tested small radial distortions did not bridge the angular gap; the conditional tests are not a universal bound on every historical setup.
+Component records: D01, D02, D03, D04, D05, D06
+Source records: S14, S19, S05, S08, S23
+
+PHOTO-06 | Ordinary sunlight plus cloud/fill-light model | Daniel 1 — assistant 0
+The ordinary-lighting model was not sustained as a better explanation of the combined photograph and historical case. Its possible boundary-selection failure mode was not demonstrated as a complete D115 fit.
+Component records: L01, L02, L03, L04
+Source records: S03, S15, S20, S21, S13, S22
+
+This subtally records outcomes of the specified challenges. It does not score every verification item as settled or assign a numerical probability to supernatural causation.
+The overall tally and the original dated decisions remain unchanged.
+Canonical detail: ../fatima-dalleur-master/findings-register.json

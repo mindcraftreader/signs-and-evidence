@@ -1,0 +1,155 @@
+{
+  "scale": 0.234,
+  "score": 0.8970900446269265,
+  "template_origin_raw": [
+    783.0,
+    713.0
+  ],
+  "figure_origin_raw": [
+    777.15,
+    669.476
+  ],
+  "line1_mapped_raw": [
+    [
+      831.204,
+      774.542
+    ],
+    [
+      890.874,
+      738.038
+    ]
+  ],
+  "line4_mapped_raw": [
+    [
+      845.01,
+      741.08
+    ],
+    [
+      885.96,
+      715.106
+    ]
+  ],
+  "registration_description": "Weighted normalized image correlation over declared photo inset, scalar resize plus translation; annotations masked. Not a shadow or light measurement.",
+  "top_fits": [
+    {
+      "scale": 0.234,
+      "score": 0.8970900446269265,
+      "template_origin_raw": [
+        783.0,
+        713.0
+      ],
+      "figure_origin_raw": [
+        777.15,
+        669.476
+      ]
+    },
+    {
+      "scale": 0.23600000000000002,
+      "score": 0.8951525550904519,
+      "template_origin_raw": [
+        782.0,
+        712.0
+      ],
+      "figure_origin_raw": [
+        776.1,
+        668.104
+      ]
+    },
+    {
+      "scale": 0.23800000000000002,
+      "score": 0.8947339891853701,
+      "template_origin_raw": [
+        782.0,
+        712.0
+      ],
+      "figure_origin_raw": [
+        776.05,
+        667.732
+      ]
+    },
+    {
+      "scale": 0.232,
+      "score": 0.8908326602022056,
+      "template_origin_raw": [
+        784.0,
+        713.0
+      ],
+      "figure_origin_raw": [
+        778.2,
+        669.848
+      ]
+    },
+    {
+      "scale": 0.23,
+      "score": 0.8840955022979704,
+      "template_origin_raw": [
+        785.0,
+        713.0
+      ],
+      "figure_origin_raw": [
+        779.25,
+        670.22
+      ]
+    },
+    {
+      "scale": 0.24000000000000002,
+      "score": 0.8825270696036905,
+      "template_origin_raw": [
+        781.0,
+        711.0
+      ],
+      "figure_origin_raw": [
+        775.0,
+        666.36
+      ]
+    },
+    {
+      "scale": 0.24200000000000002,
+      "score": 0.8785284353766696,
+      "template_origin_raw": [
+        780.0,
+        711.0
+      ],
+      "figure_origin_raw": [
+        773.95,
+        665.988
+      ]
+    },
+    {
+      "scale": 0.228,
+      "score": 0.8769921195193559,
+      "template_origin_raw": [
+        785.0,
+        714.0
+      ],
+      "figure_origin_raw": [
+        779.3,
+        671.592
+      ]
+    },
+    {
+      "scale": 0.226,
+      "score": 0.8730059584925044,
+      "template_origin_raw": [
+        786.0,
+        714.0
+      ],
+      "figure_origin_raw": [
+        780.35,
+        671.9639999999999
+      ]
+    },
+    {
+      "scale": 0.24400000000000002,
+      "score": 0.8703671347898918,
+      "template_origin_raw": [
+        779.0,
+        711.0
+      ],
+      "figure_origin_raw": [
+        772.9,
+        665.616
+      ]
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "date": "2026-11-11",
+  "candidate_count": 8,
+  "complete_counterexample_established": false,
+  "tally_action": "none",
+  "candidates": [
+    {
+      "id": "PC01",
+      "candidate": "A reported Marian sign bundle uniquely identifies a Rome-accepted institution",
+      "disposition": "narrow_sufficiency_rule_challenged",
+      "sources": "SV1970;ALDAZ1969;LUNDBERG2020",
+      "strongest_reply": "Specific evidence quality and contemporaneous message matter; categories alone are not Daniel’s full argument.",
+      "scope": "Not an equivalent institutional counterexample;no tally action."
+    },
+    {
+      "id": "PC02",
+      "candidate": "Palmar furnishes a second public dated solar prediction/fulfillment equal to Fátima",
+      "disposition": "not_established",
+      "sources": "CADORET1981 pp380–381",
+      "strongest_reply": "Announced May15climax describes healing rumor;April2solarrotation is separate.",
+      "scope": "Do not conflate dates or claimparity."
+    },
+    {
+      "id": "PC03",
+      "candidate": "Named near-noon personal solar account is available",
+      "disposition": "limited_positive_comparative_evidence",
+      "sources": "SV1970 pp20–23,89–90",
+      "strongest_reply": "Advocate,smallgroup,retrospectivepublication;no independentevent-datejournalist or D115fit.",
+      "scope": "Sourcequalityimproved;fullFatimacounterexample unestablished."
+    },
+    {
+      "id": "PC04",
+      "candidate": "Christian independently witnessed an objective solar anomaly",
+      "disposition": "overstatement_rejected",
+      "sources": "CHRISTIAN1999 p75",
+      "strongest_reply": "Presence at an alleged event is not an assertion of personally seeing anomalous motion.",
+      "scope": "Retain independent attendance only."
+    },
+    {
+      "id": "PC05",
+      "candidate": "Original1969press supplies hostile firsthand solar journalism",
+      "disposition": "not_established",
+      "sources": "ALDAZ1969",
+      "strongest_reply": "Interviewing a participant months later differs from event-datepersonalreporting.",
+      "scope": "No repeat of comparator equivalenceerror."
+    },
+    {
+      "id": "PC06",
+      "candidate": "Photographs establish physicalsolar motion/direction",
+      "disposition": "not_established",
+      "sources": "SV1970 pp89–90;ALDAZ1969",
+      "strongest_reply": "Originalnegatives,calibration,exposureprovenance andmeasurement not obtained.",
+      "scope": "Claimed photographs alone are insufficient;no fakery finding."
+    },
+    {
+      "id": "PC07",
+      "candidate": "Later schism retrospectively falsifies all earlierpublic signs",
+      "disposition": "not_sustained",
+      "sources": "LUNDBERG2020 chronology;SECO1988 rejectionlocator",
+      "strongest_reply": "Earlier Catholic claims can precede appropriation/error;earlysigns do not automatically authenticate laterpapacy.",
+      "scope": "No supernaturalagencycontradiction established."
+    },
+    {
+      "id": "PC08",
+      "candidate": "Diocesan condemnation proves an ordinary cause",
+      "disposition": "not_sustained",
+      "sources": "SECO1988 p586;CADORET1981 p381",
+      "strongest_reply": "Adverse religious judgment is not an optical/clinicaldemonstration.",
+      "scope": "Retain genuine rejection and unresolvedcause."
+    }
+  ]
+}

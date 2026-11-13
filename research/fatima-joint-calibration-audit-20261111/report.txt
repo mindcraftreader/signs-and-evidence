@@ -1,0 +1,140 @@
+D115: JOINT CALIBRATION AND THE REASONABLE-DOUBT CLAIM
+11 November 2026
+
+QUESTION
+Can a concrete uncertainty in the photographic inference be defended, rather
+than merely invoking an unspecified possible error?
+
+RESULT
+There is a demonstrable calibration ambiguity when lens/principal point and
+attitude vary together: the published light-ray convergence and the baseline's
+implied vertical-line convergence can be preserved while obtaining the solar
+elevation. This narrows an earlier fringe argument: those projected vertical
+directions alone cannot exclude every shifted wide-angle calibration.
+
+However, no historical camera configuration or full-scene ordinary fit was
+established. The most compact-shift solution uses a specialist ultra-wide
+lens class, and the alternative changes the estimated ground horizon. I cannot
+defend its probability or historical likelihood from the present sources.
+Therefore this test does NOT establish that an ordinary source is probable,
+that Dalleur's reconstruction is false, or that the cumulative Fatima case
+falls short of reasonable doubt. Missing independent verification must not
+be substituted for such an adverse finding.
+
+EXACT CLAIM UNDER REVIEW
+Dalleur's published inference places a dominant source about25–32degrees
+above the horizon near a time when the Sun was about42–42.72degrees high.
+If reliable, this is physical corroboration of a reported lower apparent
+source. It does not itself photograph a trajectory or identify an agent.
+The user combines it with advance prediction, press and regional testimony;
+this test does not discard those other strands.
+
+BASELINE AND NEW TEST
+Unaltered published shadow VP on the1669x1181image:
+(-287.76341666666667, 1478.9628611111111)
+Adopted camera center: (834.5, 555.125); ground horizon: 411.405556px.
+Baseline37mm equivalent gives28.238606709degrees.
+The implied gravity-vertical VP is(834.5, 21028.78987455197). It is a consequence of the
+baseline assumptions, NOT an independently measured plumb-line intersection.
+
+For each alternative intrinsic calibration K, backproject both image VPs.
+The source elevation is arcsin of the absolute normalized dot product of
+the two resulting3Ddirections. Reprojecting returns both VPs exactly.
+Changing K therefore changes the physical angle without changing either
+projected line family. Equal x/y principal shifts are chosen for a simple
+one-dimensional sensitivity path. They are not inferred from the photo.
+
+FITTED SOLUTIONS
+Equivalent focal mm | absolute shift each axis mm on120mm plate | source deg | pitch magnitude deg | roll magnitude deg | horizon change px
+18.0975 | 13.631 | 42.720 | 2.325 | 0.526 | -81.68
+26.6700 | 23.524 | 42.720 | 3.401 | 0.901 | -262.11
+30.0000 | 28.065 | 42.720 | 3.813 | 1.072 | -346.64
+37.0000 | 38.524 | 42.720 | 4.666 | 1.461 | -545.80
+
+The18.0975mm-equivalent example corresponds to a60.325mmphysical focal length
+on a120mm-wide plate. The original1910Goerz catalogue actually lists a
+2.375inch Hypergon F:22. The required image principal-point displacement is
+about13.63mm in each axis. This is not a claim about sign of lens-board motion.
+The ground horizon at the old image-center x shifts about80pixels upward.
+Its small roll/pitch do not require9–11degree visibly slanting threads.
+
+The26.67mm-equivalent Dagor example requires about23.52mm per axis and a
+much larger horizon change. Normal30–37mm examples need still larger shifts.
+These assumed shifts are NOT verified mechanical travel ranges.
+
+STRONGEST DEFENSE OF DALLEUR
+The catalogue itself calls the Hypergon a specialist lens, explicitly not a
+general-purpose photographic lens. Its mount, illumination-correcting star
+diaphragm, focal distance and the likely fixed-strut camera's focus position
+create actual physical compatibility questions. A period-available lens plus
+a shift mechanism is not proof of an assembled camera fitting this exposure.
+Dalleur also estimates the horizon from tripod height and the slope; the new
+calibration changes that estimate. I have not reconstructed the camera station,
+terrain or known3Dhuman dimensions to test those constraints together.
+There is no exact exposure inventory tying a different lens to Ruah.
+The convergent shadow features and ordinary-camera historical argument remain
+positive evidence. A target-fitting numerical configuration does not erase them.
+
+PRIMARY SOURCE CHECKS
+Dalleur's current author page explicitly estimates plate format/crop,
+center of view, tripod height, downslope position, horizon and roll. The
+25–32degree interval varies selected camera assumptions; it is not a fully
+calibrated all-errors confidence interval. His worked controls are retained;
+their success checks calculation on those scenes, not all D115 input choices.
+
+The Goerz manufacturer catalogue c1906 printed21/PDF12 establishes front-board
+translation in both axes but supplies no verified travel for Ruah's actual
+camera. The1910catalogue printed28–29 (visually re-inspected this turn)
+lists the60.325mmHypergon,135degree coverage, mounting dimensions and the
+specialist-use qualification. It describes geometric correction; 'wide angle'
+is not itself proof of fisheye distortion. Manufacturer specifications are
+not independent bench calibration or evidence of use at Fatima.
+
+CONCESSIONS RETAINED
+No ordinary-solar angle from modest focal length, crop or small distortion
+changes alone. No successful alternative exposure-time argument; the
+contemporary phenomenon caption remains contrary to arbitrary redating.
+No new refutation of the light-ray VP or actual shadow correspondence.
+No claim that Dalleur ignores uncertainty. No dismissal based on credentials,
+religion or absence of an instrumented1917experiment.
+
+JUDGMENT AND SCOPE
+What is sustained: a specific conditionality of the photographic angle;
+one cannot equate repeated evaluation of adopted inputs with an independently
+calibrated, uniquely established physical angle. The new paired-VP test adds
+a concrete reason why vertical appearance alone cannot settle all calibrations.
+What is not sustained: an historically demonstrated configuration, an ordinary
+whole-scene model, or a defended probability that the required alternative is
+large enough to constitute reasonable doubt in the cumulative argument.
+I therefore cannot use this calculation alone to defend the categorical
+negative verdict challenged by the user. No tally change or reopening is made.
+This remains an exploratory research result, available for further testing.
+
+NEXT DISCRIMINATOR
+Recover mechanical bounds and focus/mount geometry for an actual historically
+credible camera/lens combination; jointly test the estimated horizon against
+site/height information and image perspective. Trace original shadow selections
+to the6Kscan for independent measurements. Those tests could favor either side.
+An original scan is helpful but its absence does not itself make a doubt reasonable.
+
+REPRODUCTION
+python3 audit.py
+Standard library only. Baseline and VP reprojection checks pass. No image
+enhancement or source-photograph modification. The archive scan is not acquired.
+Existing16–0scoreboard and immutable dialogue remain unchanged.
+
+SOURCES
+Philippe Dalleur, Pontifical University of the Holy Cross, author derivation:
+https://sites.google.com/pusc.it/elevation-azimuth/fatimas-miracle-photo
+https://sites.google.com/pusc.it/elevation-azimuth/theory/the-maths
+https://doi.org/10.12775/SetF.2021.001
+Manufacturer catalogue c1906, printed21/PDF12:
+https://www.piercevaubel.com/cam/catalogs/1389.goerz.lenses.c1906-all.pdf
+Manufacturer catalogue1910, printed28–29:
+https://www.piercevaubel.com/cam/catalogs/1910goerzlp770.htm
+Prior detailed calibration/equipment audit:
+../fatima-camera-assumptions-audit-20261102/report.txt
+Prior independent-image inspection and source resolution limits:
+../fatima-independent-photo-audit-20261102/report.txt
+Prior cue/video and worked-control audit:
+../fatima-dalleur-followup-20261102/research-report.txt

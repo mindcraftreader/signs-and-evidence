@@ -1,0 +1,871 @@
+{
+  "title": "D115 photographic challenges: history, replies and outcomes",
+  "updated": "2026-11-12",
+  "purpose": "Preserve each documented return to the photographic argument without losing defenses or manufacturing a score from topical groupings.",
+  "coverage": {
+    "conversation_export_start": "2026-10-26",
+    "conversation_export_end": "2026-11-05",
+    "later_episodes": "Reconstructed from dated local reports and the live debate ledger, not claimed as recovered verbatim later chat messages.",
+    "episode_selection": "Initial critic review and subsequent substantive challenge/reply or measurement episodes; routine status messages are not separate episodes."
+  },
+  "counting": {
+    "overall_tally_change": 0,
+    "automatic_photo_win_count": null,
+    "reason": "Episodes, component rulings and main tally points are distinct units. The number of episode cards is not a score.",
+    "existing_main_points": [
+      "F-04",
+      "F-05"
+    ],
+    "existing_unscored_subentries": [
+      "F-04.methodology",
+      "F-04.physical-camera-lens",
+      "F-04.joint-calibration"
+    ],
+    "source_claim_correction": "F-06 remains unscored.",
+    "settled_component_ids": [
+      "G01",
+      "G02",
+      "G03",
+      "G04",
+      "V01",
+      "C07",
+      "C10",
+      "D06",
+      "L02"
+    ]
+  },
+  "editorial_history": [
+    {
+      "date": "2026-11-12",
+      "correction": "The earlier 6–0 photo score was constructed by grouping topics after Daniel guessed six. It was not a recovered historical count and is withdrawn. The six topic groups remain an obsolete organizational draft, not a scored result."
+    },
+    {
+      "date": "2026-11-12",
+      "correction": "Added PH-18, a new available-image measurement check. Episode count is now 18; five explicit closing decisions and existing main tally points remain unchanged."
+    }
+  ],
+  "episodes": [
+    {
+      "id": "PH-01",
+      "date": "2026-10-27",
+      "title": "Initial critic search",
+      "kind": "critic review",
+      "family": "method-and-evidence",
+      "challenge": "Grant, Fodor, Bradley and Ray raised feature-selection, camera, geometry and validation objections.",
+      "daniel_or_author_reply": "Daniel asked for the actual critiques and the authors’ replies, rather than treating the existence of criticism as a refutation.",
+      "recorded_outcome": "No completed ordinary-solar reconstruction fitting all retained features was found. Several criticisms were meaningful questions; several categorical criticisms misdescribed the method.",
+      "outcome_type": "review_not_separate_verdict",
+      "component_ids": [
+        "G01",
+        "G02",
+        "G03",
+        "V01",
+        "D06",
+        "R05"
+      ],
+      "reports": [
+        "fatima-photo-counters-20261027/research-report.txt"
+      ],
+      "conversation_indices": [
+        465,
+        470
+      ],
+      "parent_episode": null,
+      "ledger_authority": null,
+      "limits": "",
+      "conversation_refs": [
+        {
+          "id": "msg_01a18003-e95f-71c2-9ae0-aced236c725a",
+          "timestamp": "2026-10-27T20:58:22.431000-04:00",
+          "role": "user",
+          "source_index": 465
+        },
+        {
+          "id": "msg_0f6354addff80b60016ae14ac081c481a2a0a23e7986a24122",
+          "timestamp": "2026-10-27T21:07:23.135000-04:00",
+          "role": "assistant",
+          "source_index": 470
+        }
+      ]
+    },
+    {
+      "id": "PH-02",
+      "date": "2026-11-01",
+      "title": "Bradley response and actual-method correction",
+      "kind": "reply review",
+      "family": "method-and-evidence",
+      "challenge": "Lost depth, changing pixel shadow length, sloping surfaces and allegedly CGI-only validation were presented as challenges.",
+      "daniel_or_author_reply": "Daniel supplied Muse’s full response and asked whether Bradley had previously been counted as an effective critic. Muse distinguishes ray correspondences from length measurement and supplies real-photo examples.",
+      "recorded_outcome": "These categorical objections were not retained as unanswered defeats. Unknown calibration and feature uncertainty remained questions requiring their own tests.",
+      "outcome_type": "component_objections_answered",
+      "component_ids": [
+        "G01",
+        "G02",
+        "G03",
+        "V01",
+        "R06"
+      ],
+      "reports": [
+        "fatima-muse-bradley-response-20261101/research-report.txt",
+        "fatima-dalleur-reaudit-20261102/report.txt"
+      ],
+      "conversation_indices": [
+        1494,
+        1497,
+        1498,
+        1499
+      ],
+      "parent_episode": "PH-01",
+      "ledger_authority": null,
+      "limits": "",
+      "conversation_refs": [
+        {
+          "id": "msg_01a199bb-3f85-7dd1-93c8-874a65fa26b3",
+          "timestamp": "2026-11-01T19:49:07.973000-05:00",
+          "role": "user",
+          "source_index": 1494
+        },
+        {
+          "id": "msg_0014c0be73dd0c18016ae7de929f0481a19983f7cc70c983b7",
+          "timestamp": "2026-11-01T19:51:34.046000-05:00",
+          "role": "assistant",
+          "source_index": 1497
+        },
+        {
+          "id": "msg_01a199bd-f87b-7a51-88e6-907c683e3dd0",
+          "timestamp": "2026-11-01T19:52:06.395000-05:00",
+          "role": "user",
+          "source_index": 1498
+        },
+        {
+          "id": "msg_0014c0be73dd0c18016ae7dec19ce881a1989001179cc6cacf",
+          "timestamp": "2026-11-01T19:52:19.314000-05:00",
+          "role": "assistant",
+          "source_index": 1499
+        }
+      ]
+    },
+    {
+      "id": "PH-03",
+      "date": "2026-11-01",
+      "title": "Mixed sunlight/cloud model: first developed lighting challenge",
+      "kind": "developed challenge",
+      "family": "mixed-lighting",
+      "challenge": "An ordinary 42-degree Sun plus bright overhead fill might create a misleading hat boundary and account for the photographic anomaly.",
+      "daniel_or_author_reply": "Daniel insisted the model explain the actual shadows together, the reported dance/descent, and the advance announcement. Dalleur’s reply identifies protected contours missing from the toy rendering.",
+      "recorded_outcome": "The model demonstrates a possible selection failure but did not establish that it happened in D115 or supply a better combined explanation. Challenge closed as presented.",
+      "outcome_type": "closed_defense",
+      "component_ids": [
+        "L01",
+        "L02",
+        "L03",
+        "N06"
+      ],
+      "reports": [
+        "fatima-photo-counters-20261027/ordinary-lighting-fit-test-20261101.txt",
+        "argument-thread-audit-20261028/live-debate-tally.json"
+      ],
+      "conversation_indices": [
+        1504,
+        1508,
+        1509,
+        1510,
+        1511,
+        1512,
+        1513
+      ],
+      "parent_episode": null,
+      "ledger_authority": "F-04",
+      "limits": "A failed particular model does not exclude every ordinary lighting model; Grant’s scene file was not independently rerun.",
+      "conversation_refs": [
+        {
+          "id": "msg_01a199c1-bd3a-76e3-bbee-51e29bfd5070",
+          "timestamp": "2026-11-01T19:56:13.370000-05:00",
+          "role": "user",
+          "source_index": 1504
+        },
+        {
+          "id": "msg_0014c0be73dd0c18016ae7e0a6008481a18ca52b70ee7b0d8b",
+          "timestamp": "2026-11-01T20:00:27.074000-05:00",
+          "role": "assistant",
+          "source_index": 1508
+        },
+        {
+          "id": "msg_01a199c6-2c73-7143-837e-720480f8bb88",
+          "timestamp": "2026-11-01T20:01:03.988000-05:00",
+          "role": "user",
+          "source_index": 1509
+        },
+        {
+          "id": "msg_0014c0be73dd0c18016ae7e0d4adc881a196f46a5c83f4f2b9",
+          "timestamp": "2026-11-01T20:01:11.412000-05:00",
+          "role": "assistant",
+          "source_index": 1510
+        },
+        {
+          "id": "msg_01a199c8-e63a-7b90-bfe4-aca8f462155e",
+          "timestamp": "2026-11-01T20:04:02.618000-05:00",
+          "role": "user",
+          "source_index": 1511
+        },
+        {
+          "id": "msg_0014c0be73dd0c18016ae7e185e3f081a1a226c60e498419db",
+          "timestamp": "2026-11-01T20:04:07.066000-05:00",
+          "role": "assistant",
+          "source_index": 1512
+        },
+        {
+          "id": "msg_0014c0be73dd0c18016ae7e19bddc081a1b58d5441fef0da5c",
+          "timestamp": "2026-11-01T20:04:30.949000-05:00",
+          "role": "assistant",
+          "source_index": 1513
+        }
+      ]
+    },
+    {
+      "id": "PH-04",
+      "date": "2026-11-02",
+      "title": "Methodology, arithmetic and controls re-audit",
+      "kind": "developed review",
+      "family": "method-and-evidence",
+      "challenge": "Do the actual equations, camera sensitivity and validation support the claimed low source, or is there a fatal methodological error?",
+      "daniel_or_author_reply": "Daniel requested a full Dalleur/Muse re-audit. Ray-convergence geometry, real controls, historical lens defenses and multiple retained cues answer the categorical criticisms.",
+      "recorded_outcome": "Principal result 28.2386 degrees at 37 mm equivalent and intended sensitivity factors reproduce. No fatal methodological error established. Explicit methodology defense retained beneath F-04.",
+      "outcome_type": "closed_defense",
+      "component_ids": [
+        "G01",
+        "G02",
+        "G03",
+        "G05",
+        "N01",
+        "N02",
+        "N03",
+        "N04",
+        "V01",
+        "V02",
+        "V03",
+        "D06"
+      ],
+      "reports": [
+        "fatima-dalleur-reaudit-20261102/report.txt"
+      ],
+      "conversation_indices": [
+        1952,
+        1953,
+        1958,
+        1989,
+        1991
+      ],
+      "parent_episode": "PH-02",
+      "ledger_authority": "F-04.methodology",
+      "limits": "Reproducing the calculation does not independently authenticate every physical cue or establish a universal one-degree error bar.",
+      "conversation_refs": [
+        {
+          "id": "msg_01a19e23-a2ba-74b0-a539-d2fc4fa6228d",
+          "timestamp": "2026-11-02T16:21:37.978000-05:00",
+          "role": "user",
+          "source_index": 1952
+        },
+        {
+          "id": "msg_0014c0be73dd0c18016ae8fee57d6481a1b205f70ac0ef68dc",
+          "timestamp": "2026-11-02T16:21:42.337000-05:00",
+          "role": "assistant",
+          "source_index": 1953
+        },
+        {
+          "id": "msg_0014c0be73dd0c18016ae9006377fc81a182272a56273370dc",
+          "timestamp": "2026-11-02T16:28:12.693000-05:00",
+          "role": "assistant",
+          "source_index": 1958
+        },
+        {
+          "id": "msg_0014c0be73dd0c18016ae90cdfd8a481a1ab5bbb36e140e122",
+          "timestamp": "2026-11-02T17:21:22.916000-05:00",
+          "role": "assistant",
+          "source_index": 1989
+        },
+        {
+          "id": "msg_0014c0be73dd0c18016ae90d162b6481a19be1013060e5f64b",
+          "timestamp": "2026-11-02T17:22:17.606000-05:00",
+          "role": "assistant",
+          "source_index": 1991
+        }
+      ]
+    },
+    {
+      "id": "PH-05",
+      "date": "2026-11-02",
+      "title": "Public-image pixel measurement and original-scan issue",
+      "kind": "measurement follow-up",
+      "family": "feature-identification",
+      "challenge": "Could the available image supply an independent check, and does lack of the 6K scan invalidate the published result?",
+      "daniel_or_author_reply": "Daniel asked for direct pixel work on the image already available. The original archival scan was sought for better feature selection, rather than made a prerequisite for evaluating the historical case.",
+      "recorded_outcome": "Visible boundaries were measured; the conditional two-feature sketch gave about 27.14 degrees. Physical caster/shadow assignments were not independently established. Missing scan access was not counted as evidence of error.",
+      "outcome_type": "conditional_support_and_open_verification",
+      "component_ids": [
+        "F01",
+        "F02",
+        "F03",
+        "F04",
+        "F06"
+      ],
+      "reports": [
+        "fatima-independent-photo-audit-20261102/pixel-measurements/report.txt",
+        "fatima-independent-photo-audit-20261102/report.txt"
+      ],
+      "conversation_indices": [
+        1972,
+        1980,
+        1986
+      ],
+      "parent_episode": "PH-04",
+      "ledger_authority": null,
+      "limits": "This is not a second fully independent physical reconstruction or a new defense point.",
+      "conversation_refs": [
+        {
+          "id": "msg_0014c0be73dd0c18016ae904afd0b481a184770115b78cdbe8",
+          "timestamp": "2026-11-02T16:46:29.014000-05:00",
+          "role": "assistant",
+          "source_index": 1972
+        },
+        {
+          "id": "msg_01a19e51-0579-79a2-a6e7-acc72dded344",
+          "timestamp": "2026-11-02T17:11:12.377000-05:00",
+          "role": "user",
+          "source_index": 1980
+        },
+        {
+          "id": "msg_0014c0be73dd0c18016ae90c3fca0c81a187e5384a75f1a9f7",
+          "timestamp": "2026-11-02T17:18:44.204000-05:00",
+          "role": "assistant",
+          "source_index": 1986
+        }
+      ]
+    },
+    {
+      "id": "PH-06",
+      "date": "2026-11-02",
+      "title": "Camera assumptions: focal length, crop, attitude and shift",
+      "kind": "parameter audit",
+      "family": "physical-camera",
+      "challenge": "Could a different focal length, plate/crop, pitch, roll or principal point remove the gap?",
+      "daniel_or_author_reply": "Daniel requested an evidence-based audit and then period catalogues, patents and manuals. Muse’s focal-range, face-perspective and thread arguments must be addressed.",
+      "recorded_outcome": "Retained-input focal/crop checks did not close the gap. Period shifting fronts were real; centered calibration was not mechanically guaranteed. A mathematical wide/shift candidate required further historical and scene testing.",
+      "outcome_type": "candidate_not_yet_a_fit",
+      "component_ids": [
+        "C01",
+        "C02",
+        "C04",
+        "C05",
+        "C06",
+        "C13",
+        "N07"
+      ],
+      "reports": [
+        "fatima-camera-assumptions-audit-20261102/report.txt"
+      ],
+      "conversation_indices": [
+        1998,
+        1999,
+        2003,
+        2004,
+        2005
+      ],
+      "parent_episode": "PH-04",
+      "ledger_authority": null,
+      "limits": "Do not turn documented front movement into evidence Ruah used it. Rectilinear wide angle need not show fisheye distortion.",
+      "conversation_refs": [
+        {
+          "id": "msg_01a19e60-b2dd-77a1-83dd-25f81af4ee61",
+          "timestamp": "2026-11-02T17:28:19.805000-05:00",
+          "role": "user",
+          "source_index": 1998
+        },
+        {
+          "id": "msg_0014c0be73dd0c18016ae90e8735dc81a180c799398317fbb6",
+          "timestamp": "2026-11-02T17:28:24.158000-05:00",
+          "role": "assistant",
+          "source_index": 1999
+        },
+        {
+          "id": "msg_0014c0be73dd0c18016ae9116ee60881a1b1403f6756c1f978",
+          "timestamp": "2026-11-02T17:40:58.892000-05:00",
+          "role": "assistant",
+          "source_index": 2003
+        },
+        {
+          "id": "msg_01a19e8f-fbb0-7f72-b346-1a4778c7563c",
+          "timestamp": "2026-11-02T18:19:58.640000-05:00",
+          "role": "user",
+          "source_index": 2004
+        },
+        {
+          "id": "msg_0014c0be73dd0c18016ae91b03cf8481a1bf723afa2900b65c",
+          "timestamp": "2026-11-02T18:21:41.470000-05:00",
+          "role": "assistant",
+          "source_index": 2005
+        }
+      ]
+    },
+    {
+      "id": "PH-07",
+      "date": "2026-11-02",
+      "title": "Actual period Protar/camera candidate and explicit withdrawal",
+      "kind": "developed challenge",
+      "family": "physical-camera",
+      "challenge": "A Stereoscopic Graphic / 85.7 mm Protar configuration with shifted principal point might reproduce the actual solar elevation.",
+      "daniel_or_author_reply": "Daniel pressed for a physically plausible setup and its fit to the whole photograph, especially hanging threads and face perspective.",
+      "recorded_outcome": "The candidate could reach the target algebraically but lacked demonstrated mounting and whole-image agreement. The assistant explicitly conceded that its developed physical-camera rebuttal failed.",
+      "outcome_type": "closed_defense",
+      "component_ids": [
+        "C04",
+        "C05",
+        "C06",
+        "C07"
+      ],
+      "reports": [
+        "fatima-period-camera-catalogue-20261102/report.txt",
+        "fatima-period-camera-catalogue-20261102/physical-candidate-followup.json"
+      ],
+      "conversation_indices": [
+        2013,
+        2014,
+        2017,
+        2018,
+        2028,
+        2030,
+        2031,
+        2033
+      ],
+      "parent_episode": "PH-06",
+      "ledger_authority": "F-04.physical-camera-lens",
+      "limits": "This closes the developed candidate, not every possible unusual historical camera.",
+      "conversation_refs": [
+        {
+          "id": "msg_0014c0be73dd0c18016ae92229856481a1b16b802e28108b9c",
+          "timestamp": "2026-11-02T18:52:15.514000-05:00",
+          "role": "assistant",
+          "source_index": 2013
+        },
+        {
+          "id": "msg_01a19eae-5821-71a0-a0c4-a53874580da5",
+          "timestamp": "2026-11-02T18:53:08.385000-05:00",
+          "role": "user",
+          "source_index": 2014
+        },
+        {
+          "id": "msg_0014c0be73dd0c18016ae922bded1481a184be296bef0f1bdf",
+          "timestamp": "2026-11-02T18:54:38.689000-05:00",
+          "role": "assistant",
+          "source_index": 2017
+        },
+        {
+          "id": "msg_0014c0be73dd0c18016ae92312500481a186a848c34cdb296a",
+          "timestamp": "2026-11-02T18:56:05.005000-05:00",
+          "role": "assistant",
+          "source_index": 2018
+        },
+        {
+          "id": "msg_01a19ec4-88ec-7362-88f2-21b2385258e2",
+          "timestamp": "2026-11-02T19:17:22.668000-05:00",
+          "role": "user",
+          "source_index": 2028
+        },
+        {
+          "id": "msg_0014c0be73dd0c18016ae92845139881a1816baab0758448fd",
+          "timestamp": "2026-11-02T19:18:14.105000-05:00",
+          "role": "assistant",
+          "source_index": 2030
+        },
+        {
+          "id": "msg_01a19ec7-0386-7631-90e7-41ec05587722",
+          "timestamp": "2026-11-02T19:20:05.126000-05:00",
+          "role": "user",
+          "source_index": 2031
+        },
+        {
+          "id": "msg_0014c0be73dd0c18016ae92917610481a18dcd3c408e6d4900",
+          "timestamp": "2026-11-02T19:21:44.272000-05:00",
+          "role": "assistant",
+          "source_index": 2033
+        }
+      ]
+    },
+    {
+      "id": "PH-08",
+      "date": "2026-11-02",
+      "title": "Hanging-thread measurements",
+      "kind": "measurement follow-up",
+      "family": "physical-camera",
+      "challenge": "Does the proposed setup’s predicted 9–11 degree fringe slant actually fit the shawl strands?",
+      "daniel_or_author_reply": "Daniel challenged the visual mismatch and requested direct measurements instead of an assertion of impossibility.",
+      "recorded_outcome": "Twelve trace fits had median 4.6 degrees; ten less-sensitive traces had median 5.2. The published calibration was closer on average than that ultra-wide candidate. This supported the existing camera-defense disposition.",
+      "outcome_type": "supporting_test_not_new_challenge",
+      "component_ids": [
+        "C08"
+      ],
+      "reports": [
+        "fatima-period-camera-catalogue-20261102/thread-angle-audit/report.txt"
+      ],
+      "conversation_indices": [
+        2022,
+        2023,
+        2024,
+        2025,
+        2027
+      ],
+      "parent_episode": "PH-07",
+      "ledger_authority": null,
+      "limits": "Pixel ridges are not authenticated gravity plumb lines, and neither model exactly matches every trace.",
+      "conversation_refs": [
+        {
+          "id": "msg_01a19ebd-5475-72d0-9aa1-7b1f21086f5f",
+          "timestamp": "2026-11-02T19:09:30.485000-05:00",
+          "role": "user",
+          "source_index": 2022
+        },
+        {
+          "id": "msg_0014c0be73dd0c18016ae926538ebc81a18696af7079d86219",
+          "timestamp": "2026-11-02T19:09:56.824000-05:00",
+          "role": "assistant",
+          "source_index": 2023
+        },
+        {
+          "id": "msg_01a19ebe-4a6a-7123-8a51-24dd7d2a28b6",
+          "timestamp": "2026-11-02T19:10:33.450000-05:00",
+          "role": "user",
+          "source_index": 2024
+        },
+        {
+          "id": "msg_0014c0be73dd0c18016ae9268ac49081a19211fca77a8fd2b8",
+          "timestamp": "2026-11-02T19:10:51.474000-05:00",
+          "role": "assistant",
+          "source_index": 2025
+        },
+        {
+          "id": "msg_0014c0be73dd0c18016ae927c737e481a1a94d0d432960ca74",
+          "timestamp": "2026-11-02T19:16:10.313000-05:00",
+          "role": "assistant",
+          "source_index": 2027
+        }
+      ]
+    },
+    {
+      "id": "PH-09",
+      "date": "2026-11-02",
+      "title": "Tangent-based shadow correspondence objection",
+      "kind": "component challenge",
+      "family": "feature-identification",
+      "challenge": "A categorical criticism questioned whether a tangent could provide a valid object-shadow correspondence.",
+      "daniel_or_author_reply": "The actual construction was checked against primary computer-vision research. An appropriate common supporting tangent is valid; an arbitrary dark-edge tangent is not.",
+      "recorded_outcome": "The categorical tangent criticism was rejected. No contrary set of authenticated D115 feature pairs was established.",
+      "outcome_type": "component_objection_rejected",
+      "component_ids": [
+        "G04",
+        "F02"
+      ],
+      "reports": [
+        "fatima-shadow-correspondence-audit-20261102/research-report.txt"
+      ],
+      "conversation_indices": [
+        2058
+      ],
+      "parent_episode": "PH-04",
+      "ledger_authority": null,
+      "limits": "Validity of the supporting-tangent method does not authenticate every historical selected tangent.",
+      "conversation_refs": [
+        {
+          "id": "msg_0014c0be73dd0c18016ae9361a6d6c81a1a0fcd8d96b5def79",
+          "timestamp": "2026-11-02T20:17:33.535000-05:00",
+          "role": "assistant",
+          "source_index": 2058
+        }
+      ]
+    },
+    {
+      "id": "PH-10",
+      "date": "2026-11-02",
+      "title": "Broad-source contact shadows and source identity",
+      "kind": "component challenge",
+      "family": "source-identity",
+      "challenge": "Granting about 28 degrees, could ordinary extended sky illumination make sharp near-contact edges without being the moving disc witnesses described?",
+      "daniel_or_author_reply": "Daniel asked what Muse and Dalleur would say. Their existing defense demands matching all sheltered cues and competing illumination, not merely demonstrating contact hardening in another geometry.",
+      "recorded_outcome": "The general optics principle is correct. The illustrative calculation did not supply D115’s actual geometry, cloud radiance or a complete fit; the assistant acknowledged the substantial reply. No new point was awarded then.",
+      "outcome_type": "valid_narrow_principle_incomplete_historical_countermodel",
+      "component_ids": [
+        "L04",
+        "G06",
+        "R03"
+      ],
+      "reports": [
+        "fatima-shadow-correspondence-audit-20261102/research-report.txt"
+      ],
+      "conversation_indices": [
+        2062,
+        2067,
+        2068,
+        2070
+      ],
+      "parent_episode": "PH-03",
+      "ledger_authority": null,
+      "limits": "Do not erase the valid contact-shadow principle, or promote it into an established ordinary explanation. This precursor is distinct from the later F-05 decision.",
+      "conversation_refs": [
+        {
+          "id": "msg_01a19f03-3909-7510-ac0f-44912cfb56ea",
+          "timestamp": "2026-11-02T20:25:50.986000-05:00",
+          "role": "user",
+          "source_index": 2062
+        },
+        {
+          "id": "msg_0014c0be73dd0c18016ae93a66875481a19d484250ae38ceb8",
+          "timestamp": "2026-11-02T20:35:44.968000-05:00",
+          "role": "assistant",
+          "source_index": 2067
+        },
+        {
+          "id": "msg_01a19f14-eb3c-75c2-9650-2b0a7c4f622d",
+          "timestamp": "2026-11-02T20:45:10.716000-05:00",
+          "role": "user",
+          "source_index": 2068
+        },
+        {
+          "id": "msg_0014c0be73dd0c18016ae93cedda8881a18b847fcbf0d8fed6",
+          "timestamp": "2026-11-02T20:46:28.881000-05:00",
+          "role": "assistant",
+          "source_index": 2070
+        }
+      ]
+    },
+    {
+      "id": "PH-11",
+      "date": "2026-11-02",
+      "title": "Walkthrough, feature probes and transcript follow-up",
+      "kind": "reply and evidence review",
+      "family": "feature-identification",
+      "challenge": "Does a simplified sharpness objection or an isolated feature inspection engage the actual multi-cue procedure?",
+      "daniel_or_author_reply": "Daniel asked to continue with the authors’ explanations and transcripts. The walkthrough shows moving a shared-VP probe across separate features.",
+      "recorded_outcome": "The isolated contact-shadow calculation was not a test of the complete procedure. Separate cues supply internal consistency; rays drawn from a shared VP are not automatically independent measurements. No reversal or new challenge point.",
+      "outcome_type": "follow_up_preserves_prior_dispositions",
+      "component_ids": [
+        "F05",
+        "L06",
+        "L07",
+        "R04",
+        "R06"
+      ],
+      "reports": [
+        "fatima-dalleur-followup-20261102/research-report.txt",
+        "fatima-dalleur-muse-transcripts-20261102/review-notes.txt"
+      ],
+      "conversation_indices": [
+        2085,
+        2091
+      ],
+      "parent_episode": "PH-10",
+      "ledger_authority": null,
+      "limits": "Twenty-one sampled frames were inspected, not a complete independent scene replication. Garment tones do not independently measure drying rate or infrared energy.",
+      "conversation_refs": [
+        {
+          "id": "msg_0014c0be73dd0c18016ae948ccfee881a19da475c73b737601",
+          "timestamp": "2026-11-02T21:37:02.540000-05:00",
+          "role": "assistant",
+          "source_index": 2085
+        },
+        {
+          "id": "msg_0014c0be73dd0c18016ae94c08310481a19cb64d1b9090ff9d",
+          "timestamp": "2026-11-02T21:50:55.643000-05:00",
+          "role": "assistant",
+          "source_index": 2091
+        }
+      ]
+    },
+    {
+      "id": "PH-12",
+      "date": "2026-11-07",
+      "title": "A sunlit cloud as both lower light and moving disc",
+      "kind": "developed challenge",
+      "family": "source-identity",
+      "challenge": "Accept the reconstructed lower direction: could a compact sunlit cloud patch also be the reported changing, spinning and plunging disc across observer locations?",
+      "daniel_or_author_reply": "Daniel tested the specific cloud drift and motion proposal against D115, witness descriptions and distant reports rather than accepting an unspecified cloud as a complete explanation.",
+      "recorded_outcome": "No physically credible joint fit was established. Fixed-height drift conflicts with aspects of the reported motion; changing illumination can evade simple drift tests but no evidenced fitted version was supplied. F-05 explicitly awards Daniel a separate defense.",
+      "outcome_type": "closed_defense",
+      "component_ids": [
+        "L04",
+        "R02",
+        "R03"
+      ],
+      "reports": [
+        "argument-thread-audit-20261028/f-05-cloud-source-20261107.txt",
+        "argument-thread-audit-20261028/live-debate-tally.json"
+      ],
+      "conversation_indices": [],
+      "parent_episode": "PH-10",
+      "ledger_authority": "F-05",
+      "limits": "Not the same challenge as F-04: here the low direction is granted, rather than explained as a misleading reading. No measured triangulation or exclusion of all atmospheric optics was established.",
+      "conversation_refs": []
+    },
+    {
+      "id": "PH-13",
+      "date": "2026-11-07",
+      "title": "Geographic localization audit",
+      "kind": "source-claim review",
+      "family": "geographic-localization",
+      "challenge": "Do published distant-witness lines independently locate a finite source a few kilometres south of the Cova?",
+      "daniel_or_author_reply": "The record distinguishes Daniel’s authorization to audit a source claim from adopting that geographic position as a premise. Distant testimony and D115’s direction remain separate evidence.",
+      "recorded_outcome": "Independent crossing bearings sufficient for that exact localization were not recovered. F-06 records an unscored correction to a source claim, not defeat of Daniel’s photo case.",
+      "outcome_type": "unscored_source_claim_correction",
+      "component_ids": [
+        "G06",
+        "R02"
+      ],
+      "reports": [
+        "fatima-source-localization-20261107/report.txt",
+        "argument-thread-audit-20261028/live-debate-tally.json"
+      ],
+      "conversation_indices": [],
+      "parent_episode": null,
+      "ledger_authority": "F-06",
+      "limits": "Keep the correction; do not count it as a win against a premise Daniel did not adopt, or erase geographically dispersed reports.",
+      "conversation_refs": []
+    },
+    {
+      "id": "PH-14",
+      "date": "2026-11-08",
+      "title": "Crowd head directions and the inferred light",
+      "kind": "measurement follow-up",
+      "family": "source-identity",
+      "challenge": "Can spectators’ apparent viewing directions corroborate the link between the lower illumination and the reported visible object?",
+      "daniel_or_author_reply": "Daniel proposed using the heads as additional scene evidence. Six selected faces were fitted under the retained camera model.",
+      "recorded_outcome": "Five of six fits broadly point upward/rightward, supporting broad consistency. The fit cannot reliably distinguish 28-degree gaze from about 43 degrees; head pose is not eye direction. Supports existing F-05, no new point.",
+      "outcome_type": "conditional_support_and_open_verification",
+      "component_ids": [
+        "C12",
+        "R03"
+      ],
+      "reports": [
+        "fatima-gaze-check-20261108/report.txt"
+      ],
+      "conversation_indices": [],
+      "parent_episode": "PH-12",
+      "ledger_authority": null,
+      "limits": "Unknown anatomy/pose and indistinct pupils limit precision; shared camera assumptions limit independence.",
+      "conversation_refs": []
+    },
+    {
+      "id": "PH-15",
+      "date": "2026-11-11",
+      "title": "Joint camera calibration, background trees and Muse’s defense",
+      "kind": "developed challenge",
+      "family": "joint-calibration",
+      "challenge": "Vary intrinsics, shift and horizon together while preserving the adopted light and vertical vanishing points, producing a solar-elevation solution.",
+      "daniel_or_author_reply": "Daniel invoked hanging threads, background trees and Muse’s complementary edge-head and historical-equipment constraints. Preserving one projected vertical family does not answer all those constraints.",
+      "recorded_outcome": "The paired-VP ambiguity is mathematically valid, but no historically feasible full scene fit was demonstrated. The recorded F-04 follow-up says this was not sustained as a sufficient objection.",
+      "outcome_type": "closed_defense",
+      "component_ids": [
+        "C09",
+        "C10",
+        "C11",
+        "C12"
+      ],
+      "reports": [
+        "fatima-joint-calibration-audit-20261111/report.txt",
+        "fatima-joint-calibration-audit-20261111/trees-and-muse-check.txt",
+        "argument-thread-audit-20261028/live-debate-tally.json"
+      ],
+      "conversation_indices": [],
+      "parent_episode": "PH-07",
+      "ledger_authority": "F-04.joint-calibration",
+      "limits": "Trees yielded no independent focal bound. The narrow mathematical degeneracy survives; it is not a demonstrated historical counterexample.",
+      "conversation_refs": []
+    },
+    {
+      "id": "PH-16",
+      "date": "2026-11-11",
+      "title": "Manuals, measured distortion and propagated ray tests",
+      "kind": "numerical follow-up",
+      "family": "lens-distortion",
+      "challenge": "Can period-lens distortion or incorrect historical lens claims bridge the angular gap?",
+      "daniel_or_author_reply": "Muse’s differential-endpoint argument was tested against Kinkaid’s original press manual, Magill’s measured lens curves and explicit radial-distortion models.",
+      "recorded_outcome": "These checks supported ordinary focal-range practice and small effects in the tested radial models. Corrected the 0.24-percent field-angle citation and a symmetry overstatement; neither supplied a large error or overturned prior defenses.",
+      "outcome_type": "supporting_test_with_corrections",
+      "component_ids": [
+        "C03",
+        "D01",
+        "D02",
+        "D03",
+        "D04",
+        "D05",
+        "D06"
+      ],
+      "reports": [
+        "fatima-muse-numerical-claims-20261111/report.txt"
+      ],
+      "conversation_indices": [],
+      "parent_episode": "PH-06",
+      "ledger_authority": null,
+      "limits": "The manual is American and from 1936, not a recovered 1917 Ruah inventory. Constructed rays and specimen curves are not calibration of the actual lens or a universal joint-error bound.",
+      "conversation_refs": []
+    },
+    {
+      "id": "PH-17",
+      "date": "2026-11-11",
+      "title": "Renewed critic review, timing and validation limits",
+      "kind": "critic and numerical review",
+      "family": "method-and-evidence",
+      "challenge": "Do the current Grant, Ray, Fodor or Bradley arguments, modest timing error, or generic error ranges overturn D115?",
+      "daniel_or_author_reply": "The actual method, corrected hat cue, real controls, multi-cue and focal-range replies were retained and checked. A new timing calculation tested modest offsets near noon.",
+      "recorded_outcome": "No full ordinary-solar fit or fatal core arithmetic error emerged. Modest timing shifts are too small under the retained model. Feature correspondence and joint uncertainty remain verification tasks, not newly established errors.",
+      "outcome_type": "follow_up_preserves_prior_dispositions",
+      "component_ids": [
+        "N05",
+        "V02",
+        "V03",
+        "V04",
+        "F02",
+        "R01",
+        "R04",
+        "R05",
+        "R06",
+        "R07"
+      ],
+      "reports": [
+        "fatima-shadow-literature-review-20261111/research-report.txt"
+      ],
+      "conversation_indices": [],
+      "parent_episode": "PH-04",
+      "ledger_authority": null,
+      "limits": "No universal subdegree error distribution, complete independent raw-scan reconstruction or exhaustive global literature absence is claimed.",
+      "conversation_refs": []
+    },
+    {
+      "id": "PH-18",
+      "date": "2026-11-12",
+      "title": "Raw shadow trace and conditional single-ray plane check",
+      "kind": "measurement follow-up",
+      "family": "feature-identification",
+      "challenge": "Check the real source pixels and correctly identified author cue; determine what a separately measured boundary constrains without inserting Dalleur’s fitted VP.",
+      "daniel_or_author_reply": "Daniel requested the shadow check after the five recorded defense decisions. The main crown/brim cue and the demand for valid physical correspondences remain in scope.",
+      "recorded_outcome": "Raw edge fitting reproduces 34.1035 degrees within the image. A new single-ray plane test gives a 35.7256-degree maximum at the retained 37 mm camera setting, with all tested unperturbed fit/focal caps below 42.72 degrees. This supports a low direction conditionally. The actual caster/shadow correspondence is not independently authenticated; no full independent source elevation is claimed.",
+      "outcome_type": "conditional_support_and_open_verification",
+      "component_ids": [
+        "G01",
+        "G04",
+        "F01",
+        "F02",
+        "F03",
+        "F04",
+        "F05",
+        "F06"
+      ],
+      "reports": [
+        "fatima-shadow-check-20261112/report.txt",
+        "fatima-shadow-check-20261112/shadow-results.json"
+      ],
+      "conversation_indices": [],
+      "conversation_refs": [],
+      "parent_episode": "PH-05",
+      "ledger_authority": null,
+      "limits": "Same non-blinded image/windows, retained camera assumptions; overlapping fit variants are not independent rays or a confidence distribution. No new tally point."
+    }
+  ]
+}

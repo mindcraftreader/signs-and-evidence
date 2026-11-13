@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-11",
+  "latest_entry": "F-08",
+  "main_score": [
+    17,
+    0
+  ],
+  "high_confidence_outcomes": 17,
+  "existing_nested_C01_included": true,
+  "main_mirrors_identical": true,
+  "scored_ids": [
+    "F-01",
+    "P-02",
+    "P-04",
+    "F-02",
+    "P-05",
+    "Z-01",
+    "F-03",
+    "F-04",
+    "C-02",
+    "C-01",
+    "D-01",
+    "F-05",
+    "L-02",
+    "L-04",
+    "Z-02",
+    "F-07",
+    "F-08"
+  ],
+  "source_sha256": {
+    "live-debate-tally.json": "96e5d76fc5e645d27bcef98b1a1a27730372fee92e871630fd36d8a3805d8694",
+    "live-debate-tally.txt": "cd2d23c1bf8518337fb11796f2f98b7c852ea80cf5c960828425d3150c25bd1f",
+    "scoreboard.txt": "13bd4d8870472f4b9f4f00d97724a073ea2615b4cd5ebd38df4e3e0629d62015",
+    "scoreboard.html": "02d4fc4a33aa26cd07a0d7f30a5469108edbbe6da8fe76bbcd40dbc92016437b"
+  }
+}

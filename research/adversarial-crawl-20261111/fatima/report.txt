@@ -1,0 +1,152 @@
+FÁTIMA: ADVERSARIAL CRAWL — 11 NOVEMBER 2026
+
+Result
+
+No new adequate ordinary account of the combined Fátima case was established. No closed challenge should be reopened on this report alone. Three narrower criticisms survive: the identification of the children's reported dazzling experience with clinically established photostress; treating unreported eye injuries as a measured injury-free population; and treating separately elicited descriptions as information-independent. These are criticisms of particular evidential bridges. They do not defeat the advance announcement, immediate eyewitness journalism, public solar motion/descent reports, regional corroboration, or the children's sincerity. The strongest new candidate is the photostress bridge, because its historical premise and scientific source can both be checked directly. Its effect is limited to one supporting argument for an externally luminous apparition.
+
+The D115 exposure-time challenge was investigated and did not survive as a developed alternative. A contemporary caption positively connects recognizable portions of D115 with the phenomenon. Granting the published elevation, a normal Sun would require an exposure about 2.4–3.2 hours away from solar noon, not a modest ambiguity of minutes. I found no affirmative evidence for such a displaced exposure.
+
+This is a bounded crawl, not an exhaustive search of the archive or literature. No email was sent and no canonical tally was edited. The 16–0 tally is preserved as the result of the objections actually adjudicated, not as a miracle probability.
+
+1. Claim under test and retained case
+
+The strongest claim is a cumulative one: children who appear sincere announced in advance a public sign for a specified date and place to authenticate their alleged interlocutor; on that date a large crowd reported a remarkable solar display; contemporary journalists and later geographically dispersed testimony corroborate important elements; D115 is offered as physical evidence of an anomalous lighting direction. The evidentiary purpose was present before the event. A challenge cannot answer this by treating the event as an unrelated sky observation subsequently given a Catholic meaning.
+
+Read before this crawl: AGENTS.md, HOW-TO-READ.md, current scoreboard and relevant live-tally entries; the November 2 adversarial, Dalleur and camera audits; November 7 source-localization report; October 27 independence/distant-witness audits; November 11 Muse war-prophecy review; relevant preserved Muse articles and Dalleur paper. F-01, F-02, F-03, F-04, F-05 and F-07 are retained. F-06's already recorded limitation of geographical localization is not presented as a new discovery or another point.
+
+Four distinctions govern the findings below:
+• Reported experience, external cause, and doctrinal authentication are separate inferences.
+• Sincerity and information independence are different properties.
+• A paper showing a mechanism exists does not establish that mechanism operated at Fátima.
+• An unsupported exclusion can be criticized without claiming that the excluded alternative is established.
+
+2. Best new candidate: reported dazzling is not established retinal photostress
+
+Inference tested
+
+Muse's current Our Lady of Fatima §1.3, item “Dazzling,” reasons from Lúcia's reported temporary blinding to retinal photopigment bleaching and hence against hallucination. The claim is more specific than that she sincerely perceived brightness. It identifies a physiological effect requiring actual retinal illumination. His footnote 26 points to DCF selection document 10; footnote 27 cites Mainster–Turner (2012) and Laeng–Endestad (2012).
+
+Historical source, read against the official printed page
+
+DCF selection doc. 10, September 27, 1917, printed p.58 (PDF p.60): Formigão asks why she often lowers her eyes instead of looking at the Lady. Lúcia answers: “É que ela às vezes cega.” A straightforward translation is “Because she sometimes blinds/dazzles.” The question itself is evidence for noticed gaze aversion, although the date and circumstances of each observation are not enumerated in that sentence.
+
+Do not weaken the favorable record into a single metaphor about beauty. DCF doc.11, October 11, printed pp.68–69, also records Jacinta saying she cannot look well at the face because it harms her eyes, and Francisco saying he can look only a little because of the light. These are real early brightness-related reports. Conversely, doc.36 p.173 says the figure's beauty almost blinded Lúcia. The three passages have different wording and should not be silently merged into a clinical examination.
+
+Official selection: https://www.fatima.pt/files/upload/fontes/F001_DCF_selecao.pdf#page=60
+Finding aid/transcription: https://fatima-1917.com/pt/d/sel-10
+
+Scientific source and actual discriminator
+
+Mainster and Turner, American Journal of Ophthalmology 153 (2012), 587–593, doi:10.1016/j.ajo.2012.01.008, distinguish discomfort glare, dazzling glare, disability glare and scotomatic glare/photostress. Their classification and abstract place excessive local photopigment bleaching specifically in photostress. The article's table assesses this using induced afterimages and recovery of visual performance. This is a multidisciplinary clinical perspective, not an experiment on Fátima or hallucinating children. Mainster's listed affiliation is the University of Kansas School of Medicine's ophthalmology department.
+
+https://pubmed.ncbi.nlm.nih.gov/22445628/
+Publisher: https://www.sciencedirect.com/science/article/pii/S0002939412000414
+
+The historical passages establish a bright experience plus looking difficulty. They do not record an afterimage test, acuity/contrast measurement, photostress recovery interval or retinal examination during the apparitions. The inference from the word “cega” and gaze aversion to excessive photopigment bleaching therefore introduces a diagnostic premise not established by the cited historical item. This is an identifiable source-to-inference gap, rather than a generic demand for instrumental evidence of every reported event.
+
+Laeng and Endestad's PNAS experiment, already cited by Muse, found pupil changes with equiluminant brightness illusions (109, 2012, 2162–2167; doi:10.1073/pnas.1118298109). It does not demonstrate blinding photostress. Kay, Keogh, Andrillon and Pearson, eLife 11 (2022), e72484, add experimental evidence of pupil changes during mental imagery. The latter authors are affiliated with UNSW, Macquarie and the Paris Brain Institute/Sorbonne. These studies show why involuntary ocular response alone is not a sufficient discriminator of external luminous energy. They do not establish that internally generated images cause the particular visual incapacity Muse claims.
+
+https://www.pnas.org/content/pnas/109/6/2162.full.pdf
+https://elifesciences.org/articles/72484.pdf
+
+Strongest reply
+
+Muse can reasonably stress the converging accounts of the three children, Lúcia's externally noticed gaze aversion and the distinction between an illusion that changes pupil size and disabling glare. He explicitly anticipates that distinction, so merely citing the pupil literature as if he did not know it would miss his argument. An actual bleaching-related afterimage/recovery deficit would indeed be a different evidential fact. Also, the children's coherent accounts and the subsequent public sign remain independent parts of the wider case.
+
+Does it survive?
+
+Yes, as a challenge to identifying the historical datum as established photostress. The pupil experiments are not a matched replacement explanation; the decisive issue is that the clinical discriminator in the reply is not itself documented. “The children experienced light-related difficulty looking” remains standing. “Therefore actual retinal bleaching excludes an internally generated experience” is stronger than the inspected evidence warrants. No diagnosis of hallucination is inferred, and F-07 sincerity is untouched. This finding does not answer D115, regional testimony or the predicted public event.
+
+What would change it: a contemporaneous account specifying reproducible post-exposure visual loss/afterimages and recovery, rather than simply brightness/aversion, or a demonstrated scientific basis for treating precisely the reported behavior as specific to retinal photostress. No such item was recovered here.
+
+3. Eye-injury argument: selected injury studies do not establish a Fátima detection rate
+
+Inference tested
+
+Dalleur 2021 printed pp.25–27 argues statistically against prolonged ordinary sungazing because no associated retinopathy was reported. The question is whether the clinical citations supply an exposure-matched probability of injury and historical reporting. This is distinct from denying the eyewitness descriptions of comfortable viewing or claiming a clear midday Sun is harmless.
+
+Original paper checked
+
+Fredrik P. Källmark and Jan Ygge, St. Erik's Eye Hospital / Karolinska Institute, “Photo-induced foveal injury after viewing a solar eclipse,” Acta Ophthalmologica Scandinavica 83 (2005), 586–589, doi:10.1111/j.1600-0420.2005.00511.x. Full publisher text was accessible and read in the Subjects, Results and Discussion sections.
+
+Subjects: fifteen patients with visual disturbances who attended an emergency department within a week, after gazing with one eye. They estimated 20 seconds to 5 minutes of exposure. At one year all retained microperimetric scotomas, although nine reported no subjective disturbance. Only seven initially had funduscopically visible lesions. These are important observations about injury and detection; they provide no denominator of all similarly exposed observers. This was an injured-patient follow-up, not a population incidence experiment.
+
+https://onlinelibrary.wiley.com/doi/full/10.1111/j.1600-0420.2005.00511.x
+
+Wong, Eke and Ziakas, Lancet 357 (2001), 199–200, doi:10.1016/S0140-6736(00)03597-2: the accessible abstract reports 45 self-presenting patients, 20 with visual symptoms and five with visible retinal changes. Only the abstract was obtained, not the complete article. Its denominator is also not all eclipse viewers.
+
+https://pubmed.ncbi.nlm.nih.gov/11213101/
+
+For comparison of ascertainment procedures rather than event incidence: Coulombier and colleagues' French 1999 eclipse surveillance explicitly distributed questionnaires to ophthalmologists and emergency departments and found injuries. Its government English summary appears to misprint the ophthalmologist count as 54,000; the corresponding journal abstract gives 5,600. I use neither discrepant count as a precise premise. The relevant point is the documented active reporting system, which has not been identified for the 1917 crowd.
+
+https://www.santepubliquefrance.fr/en/climat/uv/reportsummary/measures-prevent-and-monitor-eye-complications-related-viewing-total-solar-eclipse-august-11-1999
+https://pubmed.ncbi.nlm.nih.gov/11077724/
+
+Test and strongest reply
+
+For an illustrative independent-exposure model, P(zero surviving reports)=(1-q)^N, where q is the joint probability of injury, notice, attribution, reporting and preservation. At N=50,000, a q of about 0.000060 makes zero reports a 5% event. This is algebra, not an estimate of q or a historical injury rate. Correlated weather/exposure and ascertainment can invalidate the independence model. None of the inspected case series measures the required joint q for Fátima.
+
+The strong reply is that severe solar injury can follow short exposures, the crowd was enormous, some observers were educated, and an injury cluster might have become polemically important. The Swedish study demonstrates persistent damage even after fairly short stated exposures. The primary reports of a pale, comfortably viewed disc also support lower apparent brightness independently of any medical silence. Those points have force. The critic has not supplied a measured low q, shown a comparable exposure regime free of injury, or made continuous clear-sky sungazing a good fit.
+
+Does it survive?
+
+Yes, against treating archival silence as an actively examined zero-injury cohort or assigning a strong numerical exclusion from these studies. No clinical finding of universal healthy retinas follows from absence of located reports. The result does not establish that no-injury testimony is worthless, that injury was present, that cloud dimming explains the sharp pale disc, or that F-02/F-03 should reopen. In the complete case this is a bounded reduction in the claimed independent medical corroboration.
+
+4. Children's agreement: actual consultation versus separate interview occasions
+
+Magpie's September 12, 2025 response led to a check of DCF doc.36, rather than adoption of its psychological narrative. The author self-identifies as having a psychology BA; this is a public essay, not a peer-reviewed case study.
+
+DCF doc.36 is Ferreira's report dated August 6, 1918 about his 1917 inquiries, not a May 1917 verbatim transcript. On printed p.173 he explicitly reports Lúcia turning to Jacinta, in his presence, to ask whether the figure wore stockings because she had not noticed. I visually rechecked the official PDF page. That is affirmative evidence of a channel for shared detail. On p.172 he says his first inquiry followed his hearing the news about fifteen days after the first event.
+
+Strongest reply and an important correction to Magpie: separate questioning really did occur. DCF doc.33 printed p.164 explicitly says Ana Maria da Câmara had spoken to all three separately during a May 13, 1918 visit; her June 1, 1918 letter also records avoiding the suggested word “crown.” This is a later interview, not a demonstration that the children were isolated in 1917. Doc.10/11 give genuine differentiated answers, including Francisco's lack of hearing. Information sharing on stockings neither establishes wholesale borrowing nor invalidates the testimony of a shared figure. A hostile official's failure to induce recantation continues to support sincerity.
+
+Survivor: separate elicitation is not independent acquisition. It cannot support an analysis that counts matching details as if the children had no opportunity to exchange or assimilate them. Failure: no observed chain was found showing that they acquired their entire luminous-figure narratives from one another. This component challenge does not overturn F-07 and does not explain the solar event. The existence of contact is new to this particular close check, not claimed to be unknown to the wider literature.
+
+The psychological source most prominently invoked by Magpie, Sharon and Woolley 2004, was checked in the original Mercer-hosted PDF. It studies 3–5-year-olds' verbal categorizations and property attributions; the Fátima children were older. Its abstract emphasizes better-developed fantasy/reality discrimination than often supposed. It does not experimentally reproduce recurring shared apparitions or establish a Fátima diagnosis. Treating its nuanced conclusion as a ready empirical model of these children's experiences would overstate it.
+
+https://liberalarts.mercer.edu/wp-content/uploads/sites/5/2019/07/SharonTWoolleyJD2004.pdf
+https://yourmagpie.substack.com/p/your-lady-of-fatima
+
+5. D115 exposure time: a serious test that failed to supply an alternative
+
+Question: grant the reconstructed direction and the normal-camera model. Could the source simply be the astronomical Sun photographed much earlier or later than the reported phenomenon?
+
+Affirmative contemporary evidence against free redating
+
+The October 29, 1917 Ilustração Portuguesa article, no.610, p.353, reproduces recognizable central/right portions of D115 under a group caption expressly placing the people kneeling and praying at the moment the Sun became uncovered and the phenomenon occurred. I visually inspected a public scan of the newspaper page, rather than relying only on the modern gallery's AI-assisted summary. The caption is not a stopwatch or a separate witness, and photographic layout can group images. Nonetheless it is affirmative contemporary event-attribution, not merely a later devotional label.
+
+Newspaper scan: https://commons.wikimedia.org/wiki/File:Newspaper_fatima_353.jpg
+Gallery/source identification: https://fatima-1917.com/gallery/III-1-p88-55c729bc
+Original article transcription: https://fatima-1917.com/pt/d/iii-1-228
+
+Calculation
+
+Use the spherical identity sin h=sin φ sin δ+cos φ cos δ cos H. Grant latitude 39.63° and Dalleur's maximum altitude 42.72°, implying δ=-7.65° in this approximation. For h=25°, 28.24°, 32°, |H|/15 is respectively 3.222, 2.868, 2.423 hours from solar noon. Granting his 13:21:04 local solar-noon value, the afternoon window is about 15:46–16:34, with 28.24° at about 16:13. The morning alternatives are about 10:08–10:56, while contemporary testimony describes rain before the event. Afternoon solar azimuths in this calculation are about 224–235°, compared with 180° at solar noon. D115's reconstructed azimuth is camera-relative; there is no independent camera compass heading here that licenses treating these as an automatic mismatch.
+
+These are conditional arithmetic checks using the defender's baseline, not an independently surveyed ephemeris or proof of exposure time. Refraction at these elevations is far smaller than the angular discrepancy. No small correction of a few minutes reaches the claimed range.
+
+Strongest reply: the contemporary caption, directed crowd attention, recent rain and the event's reported near-noon chronology jointly constrain the exposure. The observed clothing contrasts do not independently timestamp the plate, but absence of a timestamp does not cancel the caption. The paired frames supply contextual support without a second clock. The numerical label D115 alone is not a time sequence.
+
+Verdict: no affirmative evidence was found that D115 was made hours later or earlier; no independently calibrated full ordinary-solar azimuth/camera reconstruction was produced. The redating proposal remains a live abstract possibility and fails as a developed challenge. This result supports retaining F-04 against the attempted reopening. It does not transform all camera assumptions into measured facts.
+
+6. Other leads and why they do not earn a new result
+
+Tavares's expected solar colors: Stanley Jaki's God and the Sun at Fatima pp.91–93 translates an October 21 narrative by Joaquim Gregório Tavares, including earlier conversations anticipating solar colors. His footnote locates the full text in DCF I (1992), pp.401–406. I located that precise lead, improving on the November 2 unresolved reference, but did not obtain those full original Portuguese pages/manuscript. The popular November 18 Concelho de Mação article is a different published text and cannot simply be substituted. Jaki also presents Tavares as a strong positive witness of rotation/descent and preannounced timing. Even successful authentication would support prior solar expectation, not its sufficiency to cause the entire event. Mark as promising retrieval, not a primary-source victory.
+
+Pre-October sky expectation: Raio de Luz, September 1, DCF III-1 doc.20, gives an August crowd's solar-adjacent observation and a remark comparing astronomical appearances with the previous month. This was already in the October 27 independence audit. It cannot be counted as fresh proof against F-02. The writer distinguishes what she felt from what others said they saw; that distinction should be retained.
+
+Newer broad skeptical essays: the September 8, 2026 “Death by a Thousand Suns” essay makes independence/selection arguments but explicitly removed its substantial Grant photo-critique discussion pending new arguments. It supplied no new photograph calibration that overcomes the already recorded Dalleur reply. Its author does not gain a technical credential from the word “paper.”
+
+Hostile eyewitness/negative testimony: Almeida's later October 29 wording explicitly presents personal seeing, while his earlier October 15 article and private October 13 note remain early evidence. Denying all personal seeing, treating his different publications as independent witnesses, or arguing from a few non-seers to universal non-occurrence would each misdescribe the record. No new authenticated Ruah denial was found.
+
+Regional reports: the next-day Granja letter remains genuinely early; the late Minde/Alburitel/Moel reports have already been audited and the stronger localization inference was separately limited on November 7. Repeating those provenance reservations cannot reopen the defeated full crowd-expectation challenge without new causal evidence.
+
+War prophecy: the November 11 review already considers the conditional strand and unresolved syntax. No new manuscript or decisive evidence was recovered here. Not reopened.
+
+7. What changed and what remains
+
+This crawl yields specific objections to three overextensions: clinical photostress inferred from ordinary witness language; selected clinical injury cohorts treated as establishing the probability of an unreported 1917 injury cluster; and separate interviews treated as eliminating actual opportunities for inter-child consultation. None establishes a natural cause of the public solar display, defeats its announced evidentiary purpose, or reverses the current closed defenses.
+
+The photostress issue is the best candidate for further adversarial discussion. It targets a defined extra premise rather than recycling generic sincerity/accuracy distinctions. It also has the sharpest answer to the strongest reply: actual photostress would matter, but the record inspected establishes brightness and looking difficulty rather than the clinical discriminator. The strongest challenge to the combined Fátima case remains unestablished in this pass.
+
+High-value next retrievals are narrowly identified: full DCF I pp.401–406 and apparatus for Tavares; contemporaneous ocular complaints or a documented archival search protocol; an independently documented original plate/camera orientation or a feasible ordinary model fitting all D115 cues. Those are research targets, not claims that missing material must favor skepticism. No score recommendation is made.

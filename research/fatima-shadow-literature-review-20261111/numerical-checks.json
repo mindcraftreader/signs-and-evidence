@@ -1,0 +1,144 @@
+{
+  "scope": "Conditional calculations; not independent image-feature measurement or a confidence interval",
+  "geometry_inputs": {
+    "a": 2.4207,
+    "e": -1.9927,
+    "h": 0.31
+  },
+  "focal_sweep": [
+    {
+      "equivalent_focal_mm": 30,
+      "inferred_source_deg": 31.859311979477965,
+      "gap_from_noon_sun_deg": 10.860688020522034,
+      "minutes_before_or_after_noon_for_actual_sun_to_reach_this_elevation": 146.4350850248577
+    },
+    {
+      "equivalent_focal_mm": 33,
+      "inferred_source_deg": 30.24170709710382,
+      "gap_from_noon_sun_deg": 12.478292902896179,
+      "minutes_before_or_after_noon_for_actual_sun_to_reach_this_elevation": 158.21052145667656
+    },
+    {
+      "equivalent_focal_mm": 37,
+      "inferred_source_deg": 28.23860670865216,
+      "gap_from_noon_sun_deg": 14.481393291347839,
+      "minutes_before_or_after_noon_for_actual_sun_to_reach_this_elevation": 172.0931213794912
+    },
+    {
+      "equivalent_focal_mm": 45,
+      "inferred_source_deg": 24.76244373995195,
+      "gap_from_noon_sun_deg": 17.957556260048047,
+      "minutes_before_or_after_noon_for_actual_sun_to_reach_this_elevation": 194.8141696028838
+    }
+  ],
+  "solar_timing": {
+    "latitude": 39.6317,
+    "declination_anchored_to_adopted_noon_deg": -7.648299999999999,
+    "values": [
+      {
+        "minutes_from_noon": 0,
+        "altitude_deg": 42.72,
+        "change_from_noon_deg": 0.0
+      },
+      {
+        "minutes_from_noon": 5,
+        "altitude_deg": 42.705835410688124,
+        "change_from_noon_deg": 0.01416458931187492
+      },
+      {
+        "minutes_from_noon": 10,
+        "altitude_deg": 42.66336775413889,
+        "change_from_noon_deg": 0.05663224586110971
+      },
+      {
+        "minutes_from_noon": 15,
+        "altitude_deg": 42.59267513144627,
+        "change_from_noon_deg": 0.12732486855372827
+      },
+      {
+        "minutes_from_noon": 30,
+        "altitude_deg": 42.21279063855282,
+        "change_from_noon_deg": 0.5072093614471811
+      },
+      {
+        "minutes_from_noon": 60,
+        "altitude_deg": 40.723329391015014,
+        "change_from_noon_deg": 1.996670608984985
+      },
+      {
+        "minutes_from_noon": 120,
+        "altitude_deg": 35.18035890569738,
+        "change_from_noon_deg": 7.539641094302617
+      },
+      {
+        "minutes_from_noon": 180,
+        "altitude_deg": 27.055165536235005,
+        "change_from_noon_deg": 15.664834463764993
+      }
+    ]
+  },
+  "source_reported_controls": [
+    {
+      "scene": "Castel Gandolfo, 35 mm, stated roll",
+      "estimate": 17.07,
+      "truth": 16.59,
+      "signed_error_deg": 0.4800000000000004,
+      "absolute_error_deg": 0.4800000000000004
+    },
+    {
+      "scene": "Castel Gandolfo, 38 mm",
+      "estimate": 15.75,
+      "truth": 16.59,
+      "signed_error_deg": -0.8399999999999999,
+      "absolute_error_deg": 0.8399999999999999
+    },
+    {
+      "scene": "Castel Gandolfo, 35 mm, zero roll",
+      "estimate": 16.93,
+      "truth": 16.59,
+      "signed_error_deg": 0.33999999999999986,
+      "absolute_error_deg": 0.33999999999999986
+    },
+    {
+      "scene": "Saint Hubert",
+      "estimate": 50.246,
+      "truth": 50.82,
+      "signed_error_deg": -0.5739999999999981,
+      "absolute_error_deg": 0.5739999999999981
+    }
+  ],
+  "illustrative_endpoint_error": [
+    {
+      "baseline_pixels": 5,
+      "each_endpoint_error_disk_radius_pixels": 1,
+      "maximum_direction_change_deg": 23.578178478201835
+    },
+    {
+      "baseline_pixels": 10,
+      "each_endpoint_error_disk_radius_pixels": 1,
+      "maximum_direction_change_deg": 11.536959032815489
+    },
+    {
+      "baseline_pixels": 20,
+      "each_endpoint_error_disk_radius_pixels": 1,
+      "maximum_direction_change_deg": 5.739170477266787
+    },
+    {
+      "baseline_pixels": 50,
+      "each_endpoint_error_disk_radius_pixels": 1,
+      "maximum_direction_change_deg": 2.292442775955887
+    },
+    {
+      "baseline_pixels": 100,
+      "each_endpoint_error_disk_radius_pixels": 1,
+      "maximum_direction_change_deg": 1.1459919983885924
+    }
+  ],
+  "endpoint_error_scope": "Analytic worst-case image-line rotation for two endpoint disks. Not measured D115 errors or source-elevation errors.",
+  "control_scope": "Published estimates versus published astronomical comparisons; three Castel configurations are one scene, not independent controls.",
+  "limitations": [
+    "No universal error distribution is estimated from the controls.",
+    "No original 6K scan was acquired.",
+    "No ordinary full-scene lighting reconstruction was established."
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "date": "2026-11-11",
+  "candidate_count": 10,
+  "best_new_candidate": "FC01",
+  "complete_case_defeater_established": false,
+  "canonical_tally_edited": false,
+  "candidates": [
+    {
+      "id": "FC01",
+      "candidate": "Reported dazzle establishes actual retinal bleaching",
+      "status": "source_to_physiology_bridge_survives",
+      "source_locator": "DCF10 p58;DCF11 pp68–69;Mainster2012 classification",
+      "strongest_reply": "Gaze aversion and three children’s light-related complaints are genuine; true clinical photostress would be significant.",
+      "scope_and_verdict": "Retain bright-experience evidence; clinical discriminator is not documented. No hallucination diagnosis and F07 untouched.",
+      "novelty": "New focused bridge test, not general sincerity objection.",
+      "tally_action": "none"
+    },
+    {
+      "id": "FC02",
+      "candidate": "No located retinopathy cases statistically excludes ordinary sungazing",
+      "status": "ascertainment_bridge_survives",
+      "source_locator": "Kallmark2005 Subjects/Results;Wong2001 abstract;Dalleur2021 pp25–27",
+      "strongest_reply": "Large crowd and potentially severe injury supply real qualitative reason to expect complaints; pale comfortable disc independently supports lowered brightness.",
+      "scope_and_verdict": "No measured exposure/ascertainment rate; no replacement ordinary explanation. F02/F03 unchanged.",
+      "novelty": "New original clinical-source check; general silence caveat is older.",
+      "tally_action": "none"
+    },
+    {
+      "id": "FC03",
+      "candidate": "Separately questioned children supply independent matching detail",
+      "status": "independence_qualification_survives",
+      "source_locator": "DCF36 p173 visually checked;DCF33 p164",
+      "strongest_reply": "Separate questioning occurred; differentiated hearing reports show no automatic conformity.",
+      "scope_and_verdict": "Actual consultation limits information independence; does not establish wholesale borrowing, deception or defeat F07.",
+      "novelty": "Concrete source verification, not all-new scholarly discovery.",
+      "tally_action": "none"
+    },
+    {
+      "id": "FC04",
+      "candidate": "D115 normal solar light at an earlier/later exposure",
+      "status": "not_sustained",
+      "source_locator": "Ilustracao no610 p353 caption;conditional spherical calculation",
+      "strongest_reply": "Contemporary caption identifies event moment; hour-scale redating lacks affirmative evidence.",
+      "scope_and_verdict": "No reopen F04. Granting elevation requires2.4–3.2h from solar noon.",
+      "novelty": "New quantitative redating check and affirmative caption inspection.",
+      "tally_action": "none"
+    },
+    {
+      "id": "FC05",
+      "candidate": "Tavares proves prior expectation of solar colours",
+      "status": "primary_retrieval_incomplete",
+      "source_locator": "Jaki pp91–93;DCF I1992 pp401–406 locator",
+      "strongest_reply": "Same Tavares source positively describes extraordinary event and predicted timing; prior colour expectation would not explain full motion.",
+      "scope_and_verdict": "Precise primary target found; do not claim primary authentication or reopen F02.",
+      "novelty": "Nov2 left exact source unresolved; locator improved but source gap persists.",
+      "tally_action": "none"
+    },
+    {
+      "id": "FC06",
+      "candidate": "Pre-October sky reports suffice for expectation explanation",
+      "status": "not_new_or_sufficient",
+      "source_locator": "Raio de Luz Sep1,DCF III-1doc20",
+      "strongest_reply": "Pre-event expectations can coexist with actual external event; no joint ordinary fit.",
+      "scope_and_verdict": "Retain historical expectation; F02 remains closed.",
+      "novelty": "Already October27 independence audit.",
+      "tally_action": "none"
+    },
+    {
+      "id": "FC07",
+      "candidate": "Regional convergence is not measured triangulation",
+      "status": "already_recorded_component_result",
+      "source_locator": "November7 localization audit;Granja doc79",
+      "strongest_reply": "Early remote testimony is genuine positive evidence even without measured bearings.",
+      "scope_and_verdict": "No new point and no retesting F02/F05 without new evidence.",
+      "novelty": "F06 previous qualification; do not rescore.",
+      "tally_action": "none"
+    },
+    {
+      "id": "FC08",
+      "candidate": "New September2026 essay supplies a photo refutation",
+      "status": "not_sustained",
+      "source_locator": "Thousand Suns Sep8 edit notice;Muse current Grant reply",
+      "strongest_reply": "It removed substantial photo section pending new work; existing cloud simulation fails joint cue fit.",
+      "scope_and_verdict": "No new calibration or feasible ordinary full fit; F04 unchanged.",
+      "novelty": "New publication inspected, no material new photo result.",
+      "tally_action": "none"
+    },
+    {
+      "id": "FC09",
+      "candidate": "Negative witnesses or Ruah denial refute public event",
+      "status": "not_sustained",
+      "source_locator": "Existing primary-source audits;Almeida Oct29 first-person statement",
+      "strongest_reply": "Unanimity is not required;Almeida’s first-person experience is explicit;authenticated Ruah denial not recovered.",
+      "scope_and_verdict": "Neither a full event challenge nor new eyewitness evidence established.",
+      "novelty": "Known rejected avenue re-screened, not recycled as victory.",
+      "tally_action": "none"
+    },
+    {
+      "id": "FC10",
+      "candidate": "War deadline is a decisive unconditional failed prediction",
+      "status": "no_material_new_evidence",
+      "source_locator": "Nov11 war-prophecy review;DCF18/30/65",
+      "strongest_reply": "Early conditional strand is real; syntax/manuscript questions already explicitly retained.",
+      "scope_and_verdict": "F01 HIGH withdrawal unchanged.",
+      "novelty": "Closed challenge screened out.",
+      "tally_action": "none"
+    }
+  ]
+}
