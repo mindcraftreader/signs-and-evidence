@@ -78,3 +78,40 @@ rest were not searched. Concelho de Ourém and Voz da Verdade for 1917 not
 checked. De Marchi (1952 English), Barthas 1969 and the originals behind
 Michel's quotations not inspected. Haffert page numbers ±1. Daniel may
 search for further same-week diaries and letters.
+
+ADDENDUM — 13 NOVEMBER 2026: GROUND / MUD DRYING
+Question (Daniel): are there ~10 reports that the ground or mud dried?
+Searched: all 167 documents on fatima-1917.com (DCF III-1, III-2, III-3,
+V-4, Seleção) plus OCR of 252 III-1 page scans; Haffert 2006 reprint in
+full; De Marchi (Portuguese, 1947 and 1952 English); Walsh 1947 snippets;
+Barthas 1947; Michel vol. 1; web in PT/EN/FR/IT. Register: ground-register.csv.
+
+Result: one named first-hand witness says the ground dried — Dominic Reis,
+1960 (Haffert p. 11), who attributes it to a strong wind. One hearsay
+account at two removes (Caixerio, 2017). One ambiguous (Rainho, 1960).
+The Ti Marto puddle (Rambaud 1948 interview, via Jaki 1999) is unverified;
+a search summary suggests the puddle may have been in his house. No
+Portuguese ground-drying statement 1917–1930 was found. Ti Marto's own
+1923 deposition says only "lamaçal enorme".
+
+Every other "the Cova dried" line is authors' narration (Haffert pp. 15,
+33, 37, 44, 79; De Marchi 1952 "pools of water"; Johnston 1980; McGrew
+2009), not a named witness.
+
+Counter-evidence: five 1917 first-hand writers describe the crowd kneeling
+in mud during or after the sun (Pereira da Silva, Patrício, Curado —
+explicitly after "Terminára o phenomeno" —, Magalhães e Vasconcelos) or
+going home soaked in mud (Maria Rita dos Santos); Paula 1923 likewise.
+Dalleur himself (2021, p. 14) reads wet, shiny mud and a puddle in the
+photographs, including D115.
+
+Assessment: ground drying is not a decent independent line of evidence on
+the present record; it is weaker than clothes drying. Heat remains the
+best-attested 1917 physical effect. Criterion 4 unchanged at ½.
+
+Library-only items that could change this: Jaki, God and the Sun at
+Fatima (1999), drying section; Rambaud, La Dame toute belle (1949);
+Barthas, Fatima, merveille du XXe siècle (1969) pp. 358, 361; Johnston
+1980 and McGrew 2009 page numbers. All requestable via UAkron "Get it for
+me" (OhioLINK/Rapido). Not searched: Fox, McClure, Nickell, Meessen, Alonso;
+~166 unscanned DCF III-1 pages.
