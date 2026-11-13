@@ -115,3 +115,16 @@ Barthas, Fatima, merveille du XXe siècle (1969) pp. 358, 361; Johnston
 1980 and McGrew 2009 page numbers. All requestable via UAkron "Get it for
 me" (OhioLINK/Rapido). Not searched: Fox, McClure, Nickell, Meessen, Alonso;
 ~166 unscanned DCF III-1 pages.
+
+ADDENDUM — 13 NOVEMBER 2026: A CAPITAL (LISBON), 14–31 OCTOBER 1917
+Source: Hemeroteca Digital de Lisboa, A Capital: diário republicano da
+noite, nos. 2569–2586 (62 page scans, ACapitalN2557aoN2586_0043–0104).
+Method: macOS Vision OCR (Portuguese) of every page; fuzzy search for
+Fátima/Ourém/Leiria/Cova da Iria/Nossa Senhora/aparição/milagre/fenómeno;
+front page of 15 Oct 1917 (no. 2570) read visually.
+Result: no Fátima coverage found. "Milagre" hits are a recurring item on
+"O milagre de Tancos" (the army camp). The 15 Oct front page covers the
+Lisbon by-election, the war, war-wounded aid, and a Santarém bullfight.
+Caveat: OCR of the multi-column layout is imperfect; a short item on an
+inner page could be missed. Scans and OCR are in the session scratchpad
+only (not committed).
