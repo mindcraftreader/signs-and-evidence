@@ -100,3 +100,13 @@ consistency check on the source bearing only.
 6. NO NEW CALCULATION
 This note adds no new measurement. It records an argument, the testimony
 that resolved it, and a reading of existing gaze-check outputs.
+
+ADDENDUM — 12 NOVEMBER 2026 (later the same day)
+The Garrett passage quoted above also says the sky was "enevoado de cirros
+leves" with gaps of blue sky, and that the ~10-minute phenomenon had "duas
+breves interrupções em que o sol bravio arremessou os seus raios mais
+coruscantes e refulgentes, e que obrigaram a desviar o olhar" (DCF Doc. 29,
+local text ~lines 5899–5916). This should have been quoted with the rest.
+Light cirrus is compatible with a strong direct source and sharp shadows;
+it does not produce a 28° shadow direction and does not reopen PH-19.
+See ../fatima-rebuttal-search-20261112/report.txt.

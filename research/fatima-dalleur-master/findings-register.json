@@ -1,6 +1,6 @@
 {
  "title": "Dalleur D115 findings and decisions",
- "version": 2,
+ "version": 3,
  "updated": "2026-11-12",
  "purpose": "Preserve the investigated micro-components, evidence, corrections and adjudications so future reviews do not reset them or confuse open verification with a successful objection.",
  "canonical_format": "This JSON is the editable register. The TXT and DOCX are generated from it by build_reference.py. Keep original dated reports and dialogue unchanged.",
@@ -201,6 +201,11 @@
    "title": "Almeida Garrett account, 18 December 1917",
    "path": "fatima-distant-witnesses-20261027/sources/dcf-selecao-2013.txt",
    "locator": "Documentação Crítica de Fátima selection, Doc. 29, printed p. 151; local text about lines 5886-5910"
+  },
+  "S30": {
+   "title": "Search for the strongest rebuttals to Fátima",
+   "path": "fatima-rebuttal-search-20261112/report.txt",
+   "locator": "Garrett cirrus addendum; Formigão reprint; drying and distant-witness dating; natural explanations"
   }
  },
  "findings": [
@@ -876,10 +881,11 @@
    "title": "Lighting conditions at exposure",
    "status": "settled_defense",
    "finding": "The challenge that D115 was exposed under dim, hazy or veiled light, outside the clear-sun regime of the author's controls, was withdrawn. Garrett's 18 December 1917 account reports the sun breaking through to shine clearly and intensely, with no fog, light and heat, and moving clouds that did not dim it.",
-   "scope": "Supports a strong direct source with moving bright clouds at the event. Does not authenticate every caster and shadow correspondence (F03, F05) or exclude every lighting mechanism. Pale-disc and comfortable-viewing reports describe the watched object, not scene illumination.",
+   "scope": "Supports a strong direct source with moving bright clouds at the event. Does not authenticate every caster and shadow correspondence (F03, F05) or exclude every lighting mechanism. Pale-disc and comfortable-viewing reports describe the watched object, not scene illumination. The same Garrett passage also reports a sky veiled with light cirrus ('cirros leves') with blue gaps, and two brief interruptions when the 'sol bravio' forced people to look away; this addendum does not produce a 28-degree shadow and does not reopen PH-19 (S30).",
    "sources": [
     "S28",
-    "S29"
+    "S29",
+    "S30"
    ],
    "reopen_when": "Produce contemporary testimony or physical evidence that the scene was veiled or diffusely lit at the exposure, then test the method under matched conditions."
   },
@@ -989,6 +995,12 @@
    "date": "2026-11-12",
    "version": 2,
    "change": "Added L08 (lighting conditions at exposure, settled defense) from PH-19; added the gaze elevation note to C12; added sources S28 and S29; recorded the 6–0 photo subtally on explicit closing decisions. Main tally unchanged. Main score snapshot updated to 19-0 after D-02 and F-09.",
+   "score_change": 0
+  },
+  {
+   "date": "2026-11-12",
+   "version": 3,
+   "change": "Added the Garrett cirrus wording to L08 scope and source S30 (rebuttal search). No disposition changes.",
    "score_change": 0
   }
  ]

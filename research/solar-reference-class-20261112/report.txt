@@ -31,7 +31,7 @@ AGREED NEUTRAL TEST (proposed by the assistant, accepted by Daniel)
 7. Physical corroboration (e.g. D115).
 
 SCORES (detail in scores.csv)
-Fátima 1917          7/7
+Fátima 1917          6/7 (revised from 7/7; see addendum)
 Lubbock 15 Aug 1988  0/7 (criterion 6 unknown)
 Necedah 15 Aug 1950  ½/7 (appearance date announced; no specific sign found)
 Palmar de Troya      0/7 (criterion 6 unknown)
@@ -87,3 +87,10 @@ https://isthmus.com/api/content/d83a4398-606d-11f1-b0c8-1248ae80e59d/
 https://www.yoreanaheim.com/view/anaheim_gazette_1950_ag_1950_08_14/0
 https://hannemanarchive.com/2014/12/29/
 https://www.persee.fr/doc/casa_0076-230x_1981_num_17_1_2353
+
+ADDENDUM — 12 NOVEMBER 2026 (later the same day)
+After the rebuttal search (../fatima-rebuttal-search-20261112/report.txt),
+Fátima is rescored 6/7: criterion 3 (distant witnesses) ½, because the 1917
+regional reports are relayed and the direct accounts were recorded decades
+later; criterion 4 (drying) ½, because only one 1917 source was located in
+the DCF selection. The outcome is unchanged: the comparators score 0 to ½.

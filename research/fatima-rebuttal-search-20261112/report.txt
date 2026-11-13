@@ -1,0 +1,97 @@
+SEARCH FOR THE STRONGEST REBUTTALS TO FÁTIMA
+12 November 2026
+
+PURPOSE
+Daniel asked the assistant (Claude) to use web search to find the strongest
+rebuttals to Fátima and test whether the library's limits hide a reasonable
+doubt. Three parallel research passes were told to steelman the case
+against: (1) documentary critics (Fina d'Armada and Joaquim Fernandes,
+Tomás da Fonseca, Kevin McClure, Torgal, Barreto, Marujo); (2) natural
+explanations (Campbell, Meessen, Jaki, Nickell, iridescence, dust, sun
+dogs); (3) witness problems (non-seers, Almeida's wording, dating of the
+distant and drying reports). Claims below marked VERIFIED were checked by
+the assistant against the critical edition in the library:
+../fatima-distant-witnesses-20261027/sources/dcf-selecao-2013.txt ("DCF").
+
+OUTCOME
+No attack on a core component of Fátima was sustained. One proposed
+reopening of D-02 was withdrawn after Daniel's replies. Corrections are
+limited to scoring and scope: F-09's Fátima score 7/7 → 6/7; a cirrus
+addendum to L08. Main tally 19–0 and comparative 9–0 unchanged.
+
+1. FORMIGÃO'S 1921 REPRINT (VERIFIED; documentary correction)
+DCF Doc. 10 (27 Sep 1917, ~line 2124): Lucia says the dress "desce até um
+pouco abaixo do meio" [da perna]. In Os episódios maravilhosos de Fátima
+(1921, as Visconde de Montelo, ~line 21991) Formigão states "Reproduzo
+este interrogatório dos videntes, sem alteração de uma vírgula, exatamente
+como o redigi, no dia 29 de setembro de 1917", yet the text reads "desce
+quase até aos pés" (~line 22157). His 1917 commentary had called the
+short dress the gravest difficulty for a supernatural origin.
+Scope: a mark against one investigator's editing. It supports the
+children (their original words survived in the 1917 record) and does not
+touch D-02's sources: Lucia's 1930 letter (Doc. 125) is her own, and the
+1927 custody ran through Aparício and Gonçalves.
+
+2. Q9 "CONVERSION OF SINNERS" (proposed against D-02; WITHDRAWN)
+DCF ~line 2532: asked whether the Lady told her to pray for the conversion
+of sinners, Lucia answers "Não disse; mandou-me só rezar a Nossa Senhora
+do Rosário para que acabasse a guerra." Proposed as a conflict with later
+memoirs. Daniel's reply: the decade prayer, documented 27 Sep 1917
+(Doc. 10, p. 59), is itself prayer for the salvation of souls ("livrai-nos
+do fogo do inferno, levai as alminhas todas para o Céu"). Accepted: no
+conflict of substance. With point 1, the proposed D-02 reopening is
+withdrawn; D-02 stands.
+
+3. DRYING (dating note; criterion 4 scored ½)
+Earliest 1917 source located in the DCF selection: Carlos Silva, O
+Mensageiro, 18 Oct 1917 (Doc. 122 in the full DCF): "estando eu todo
+molhado, momentos antes, reparei que já estava enxuto! Seria milagre? não
+creio." The general claim appears in Inácio António Marques's deposition
+of 23 Nov 1922; most drying testimony is from Haffert's c. 1960
+interviews. Counter-report: Maria Ermelinda Barbosa, 13 Jan 1918, still
+soaked at 10 pm. Limit: the 2013 selection is part of the full critical
+edition; more 1917 accounts may exist. Daniel intends to search for
+same-week diaries and letters. Drying was not treated as a core claim in
+the core-claims tally.
+
+4. DISTANT WITNESSES (dating note; criterion 3 scored ½)
+Contemporaneous regional reports (Granja 14 Oct 1917; Torres Novas
+24 Nov 1917) are relayed second-hand. The direct Minde and Leiria accounts
+come from Haffert's c. 1960 interviews; Alburitel accounts from De Marchi's
+1940s interviews, where watchers had prepared smoked glass. Consistent with
+the library's existing assessment (CF3, Jenga block 28). Muse's map and
+treatment of the sightings were not read in this pass and could raise the
+score if they cite earlier documents.
+
+5. OTHER FINDINGS
+- Non-seers: Leonor Salema Manoel's letter of 16 Oct 1917 (DCF III-1
+  doc. 93, index only) says she saw nothing at first, then saw the sun turn
+  green after being prompted. Partial and uneven perception, not "no
+  event". Weiss de Oliveira's "nada vira" refers to 13 October 1922, not
+  1917 (VERIFIED, ~line 11096).
+- Almeida: 15 Oct describes the disc first-hand and attributes the dance
+  to the peasants' expression; 29 Oct writes in the first person.
+- Recurrence: DCF Doc. 57 (1920) reports a Cova crowd seeing "o fenómeno
+  solar tal qual o de 13 de outubro" on 13 June 1920. Not connected to the
+  prediction; criterion 5 concerns whether 13 October itself was bounded
+  and crowd-wide, which it was.
+- Garrett (Doc. 29, VERIFIED ~lines 5899–5916) also reports "cirros leves"
+  with blue gaps and two brief interruptions when the "sol bravio" forced
+  people to look away. Added to L08's scope; it does not produce a 28°
+  shadow and does not reopen PH-19.
+- Natural explanations: thin cirrus with cloud iridescence plus sun-gazing
+  under expectation is the most coherent account of the visual experience
+  (Dalleur 2021 n. 10 concedes possible iridescence). It requires a
+  coincidence with the date announced months earlier; Necedah shows that a
+  primed crowd does not by itself produce a crowd-wide sign. Campbell's
+  stratospheric dust, Saharan dust and sun dogs are weak.
+- Already decided: the "war ends today" statement (F-01); Coelho on
+  14 October (F-03). Tomás da Fonseca and McClure: polemic or covered.
+
+REVISED F-09 SCORE FOR FÁTIMA
+1 ✅  2 ✅  3 ½  4 ½  5 ✅  6 ✅  7 ✅  = 6/7 (others 0 to ½). Outcome unchanged.
+
+NOT VERIFIED
+d'Armada's 1980 book; Fonseca's 1955/1958 texts; McClure beyond quoted
+lines; full DCF volume I apparatus for Doc. 10; the physical state of the
+1917 parish notes; the Salema Manoel letter text beyond the index summary.

@@ -1287,7 +1287,17 @@
         ],
         "register_ids": [],
         "reopen_if": "Evidence the papal or institutional content originated after the fact, or pre-event content contradicting Catholic teaching."
-      }
+      },
+      "discussion_updates": [
+        {
+          "date": "2026-11-12",
+          "kind": "proposed reopening withdrawn",
+          "proposal": "After a web search for the strongest rebuttals, the assistant proposed reopening D-02 for content first written in 1930–41, citing Formigão’s 1921 reprint that altered the dress description while claiming no change, and Lucia’s 1917 answer that the Lady told her only to pray the rosary for the war to end (not for the conversion of sinners).",
+          "reply": "Formigão’s edit concerns one investigator, supports the children’s original words, and does not touch D-02’s sources (Lucia’s own 1930 letter; custody through Aparício and Gonçalves). The decade prayer documented 27 Sep 1917 is itself prayer for the salvation of souls.",
+          "result": "Reopening withdrawn. D-02 stands. No new point.",
+          "report": "../fatima-rebuttal-search-20261112/report.txt"
+        }
+      ]
     },
     {
       "id": "F-09",
@@ -1295,7 +1305,7 @@
       "display_title": "Fátima: other solar miracles and the sungazing explanation",
       "challenge": "Other religious sites report solar miracles, some of which are ordinary sungazing perception; so either solar signs do not identify the true messenger, or Fátima was sungazing too, unless a neutral criterion sorts them.",
       "status": "closed_against_challenge_as_presented",
-      "result": "Daniel successfully defended Fátima against the solar reference-class challenge. On seven agreed neutral criteria Fátima scores 7/7; Lubbock 1988 0/7, Necedah 1950 1/2 of 7, Palmar de Troya 0/7. The assistant withdrew the challenge.",
+      "result": "Daniel successfully defended Fátima against the solar reference-class challenge. On seven agreed neutral criteria Fátima scores 6/7 (revised from 7/7 after the rebuttal search); Lubbock 1988 0/7, Necedah 1950 1/2 of 7, Palmar de Troya 0/7. The assistant withdrew the challenge.",
       "daniel_successful_defenses": 1,
       "assistant_successful_challenges": 0,
       "reason": "The test separates Fátima on features sungazing and expectation cannot produce: a fulfilled announced sign seen crowd-wide, hostile same-day press, distant witnesses and physical effects.",
@@ -1314,7 +1324,7 @@
         "rating": "high",
         "date": "2026-11-12",
         "object": "Confidence in the recorded withdrawal, not the probability of supernatural causation.",
-        "basis": "The strongest named comparators score 0 to 1/2 of 7 against Fátima's 7/7."
+        "basis": "The strongest named comparators score 0 to 1/2 of 7 against Fátima's 6/7."
       },
       "report": "../solar-reference-class-20261112/report.txt",
       "references": {
@@ -1324,12 +1334,23 @@
           "adversarial-crawl-20261111/comparative/report.txt"
         ],
         "primary_sources": [
+          "Rebuttal search, 12 Nov 2026: ../fatima-rebuttal-search-20261112/report.txt",
           "UPI, 16 Aug 1988: https://www.upi.com/amp/Archives/1988/08/16/Pilgrims-say-they-saw-visions-of-Virgin-Mary/8186587707200/",
           "Cadoret-Abeles 1981 (Palmar fieldwork): https://www.persee.fr/doc/casa_0076-230x_1981_num_17_1_2353",
           "Hope-Ross, Travers and Mooney 1988, solar retinopathy after religious practices (see documented-alternatives audit)"
         ],
         "register_ids": [],
         "reopen_if": "A documented solar event scoring 3/7 or more on the agreed seven criteria."
+      },
+      "rescore_20261112": {
+        "from": "7/7",
+        "to": "6/7",
+        "criteria": {
+          "3 distant witnesses": 0.5,
+          "4 drying": 0.5
+        },
+        "report": "../fatima-rebuttal-search-20261112/report.txt",
+        "outcome_change": "none"
       }
     }
   ],

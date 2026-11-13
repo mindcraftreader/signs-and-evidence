@@ -241,13 +241,14 @@ Reopen only if: Evidence the papal or institutional content originated after the
 
 ========================================================================
 19. F-09 | HIGH | Fátima: other solar miracles and the sungazing explanation
-Daniel successfully defended Fátima against the solar reference-class challenge. On seven agreed neutral criteria Fátima scores 7/7; Lubbock 1988 0/7, Necedah 1950 1/2 of 7, Palmar de Troya 0/7. The assistant withdrew the challenge.
+Daniel successfully defended Fátima against the solar reference-class challenge. On seven agreed neutral criteria Fátima scores 6/7 (revised from 7/7 after the rebuttal search); Lubbock 1988 0/7, Necedah 1950 1/2 of 7, Palmar de Troya 0/7. The assistant withdrew the challenge.
 Scope: First pass on the cases named; Medjugorje, Conyers and Bayside unscored (recurring phenomena fail criteria 1 and 5 by design). Palmar added to the comparative tally as a rival religious claim; Lubbock and Necedah recorded here only.
 Read first:
   ../solar-reference-class-20261112/report.txt
   ../solar-reference-class-20261112/scores.csv
   ../adversarial-crawl-20261111/comparative/report.txt
 Primary sources:
+  Rebuttal search, 12 Nov 2026: ../fatima-rebuttal-search-20261112/report.txt
   UPI, 16 Aug 1988: https://www.upi.com/amp/Archives/1988/08/16/Pilgrims-say-they-saw-visions-of-Virgin-Mary/8186587707200/
   Cadoret-Abeles 1981 (Palmar fieldwork): https://www.persee.fr/doc/casa_0076-230x_1981_num_17_1_2353
   Hope-Ross, Travers and Mooney 1988, solar retinopathy after religious practices (see documented-alternatives audit)
