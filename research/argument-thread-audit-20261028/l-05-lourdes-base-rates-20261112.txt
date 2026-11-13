@@ -1,0 +1,38 @@
+L-05 — LOURDES: BASE RATES AND THE DECLINE IN RECOGNISED CURES
+12 November 2026
+
+OUTCOME
+Withdrawn; logged without a point (closed_unscored_withdrawn), at Daniel's
+preference. Main tally unchanged at 20–0.
+
+THE CHALLENGE
+1. Lourdes has received very large numbers of sick visitors (Dowling 1984
+   estimated over two million sick pilgrims by that date).
+2. Rare unexpected recoveries (spontaneous remission, misdiagnosis,
+   functional illness) should yield a steady trickle of dramatic cases
+   among millions of sick people regardless of the shrine.
+3. Recognised cures follow diagnostic weakness rather than visitor numbers:
+   of 72 recognised cures in ../lourdes-expanded-audit-20261103/
+   baseline-roster.json, 64 recovered in 1858–1959 and 8 from 1960 on,
+   while visitor numbers rose greatly.
+Proposed conclusion: the healing record alone does not show an excess over
+base rates.
+
+DANIEL'S REPLIES
+a. He grants that healings occur in all traditions; his Lourdes claim is
+   that Mary directed Bernadette to a spring and healings have been
+   associated with it since, not that the healing count beats chance.
+b. Recognition takes many years (e.g. Moriau recovered 2008, recognised
+   2018; Raco recovered 2009, recognised 2024).
+c. Post-1960 pilgrims are nearly all medically treated, and recognition
+   criteria (from Benedict XIV / Lambertini) require no treatment or
+   clearly ineffective treatment, so most recoveries are excluded by rule.
+
+DISPOSITION
+Reply (c), with (b), answers the decline argument as well as the
+diagnostic-artefact reading does, without implying fewer healings. The
+base-rate argument targeted a claim Daniel does not advance (reply a).
+Agreed scope: the Lourdes record's weight comes from the quality of the
+strongest cases (L-02) and their association with the directed spring, not
+from raw counts. Withdrawn as an objection; no point by Daniel's choice,
+because the challenge largely missed his actual claim.

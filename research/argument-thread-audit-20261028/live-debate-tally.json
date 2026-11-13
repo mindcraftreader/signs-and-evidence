@@ -559,7 +559,7 @@
           "muse_precision": "Response 42–47 minutes distinguishes preferred about28 degrees from deliberately wider 30mm-equivalent test yielding31.859 degrees, still10.861 degrees short.",
           "tally_effect": "Existing F-04 preserved; no duplicate point, no demonstrated refutation, no new user concession.",
           "report": "research/fatima-period-camera-catalogue-20261102/report.txt",
-          "workbook": "fatima-period-cameras.xlsx (working spreadsheet, not in the public edition)"
+          "workbook": "fatima-period-cameras.xlsx"
         },
         {
           "date": "2026-11-02",
@@ -1414,6 +1414,20 @@
         "report": "../fatima-rebuttal-search-20261112/report.txt",
         "outcome_change": "none"
       }
+    },
+    {
+      "id": "L-05",
+      "case": "Lourdes",
+      "display_title": "Lourdes: base rates and the decline in recognised cures",
+      "challenge": "Millions of sick visitors plus rare ordinary recoveries predict a trickle of dramatic cases; recognised cures (64 before 1960, 8 since) track diagnostic weakness rather than visitor numbers.",
+      "status": "closed_unscored_withdrawn",
+      "daniel_successful_defenses": 0,
+      "assistant_successful_challenges": 0,
+      "result": "Withdrawn. Treatment exclusion under the recognition criteria and the recognition lag answer the decline; the base-rate argument targeted a claim Daniel does not make (he grants healings in all traditions).",
+      "scope": "The Lourdes record’s weight comes from the quality of the strongest cases (L-02) and their association with the directed spring, not raw counts.",
+      "tally_effect": "Logged without a point at Daniel’s preference.",
+      "assistant_assessment_date": "2026-11-12",
+      "report": "l-05-lourdes-base-rates-20261112.txt"
     }
   ],
   "totals": {
