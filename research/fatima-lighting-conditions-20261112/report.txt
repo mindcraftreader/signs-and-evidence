@@ -1,0 +1,102 @@
+D115 LIGHTING-CONDITIONS CHALLENGE AND GAZE ELEVATION NOTE
+12 November 2026
+
+OUTCOME
+Closed defense. The assistant (Claude) withdrew the lighting-conditions
+challenge after the strongest contemporary weather testimony contradicted
+its premise. Recorded as photo-challenge episode PH-19 and register
+component L08. Photo subtally 6–0 on explicit closing decisions. Main tally
+unchanged at 17–0: this belongs to the F-04 lighting family and is not
+counted as a new main point.
+
+1. THE CHALLENGE AS PRESENTED
+Dalleur's real photographic controls (V01, V02: Castel Gandolfo, Saint
+Hubert) are clear-sun scenes with hard cast shadows, where the method's key
+premise holds by construction: the measured dark boundaries are rays from
+one direct source. The challenge proposed that D115 was exposed under dim,
+hazy or veiled light with a bright cloud (LSb) and bright sky, so that its
+contact-type cues (crown on brim, stones on ground; see L04) might be
+occlusion or diffuse-shading boundaries rather than direct-source rays.
+Proposed test: blind application of the method to dated, located control
+photographs taken under hazy or dimmed sun.
+
+2. DANIEL'S REPLY
+(a) The burden is on the challenger to substantiate dim or hazy light from
+testimony before the shadow argument can be reopened.
+(b) "Pale disc" and comfortable viewing describe the luminous object the
+crowd watched, which Daniel holds was not the literal Sun. They do not
+establish that the scene illumination was weak. The clouds had broken just
+before the event.
+(c) Dalleur's video shows a sharp principal shadow and a faint second shadow
+from high overhead, consistent with a strong low source plus bright cloud.
+
+3. DECISIVE EVIDENCE
+José Maria de Almeida Garrett, account dated 18 December 1917, Documentação
+Crítica de Fátima selection (2013), Doc. 29, printed p. 151.
+Local copy: fatima-distant-witnesses-20261027/sources/dcf-selecao-2013.txt,
+approximately lines 5886-5910.
+
+"O sol momentos antes tinha rompido ovante, a densa camada de nuvens que o
+tivera escondido, para brilhar clara e intensamente." ... "Também se não
+confundia com o sol encarado através de nevoeiro (que aliás não havia
+àquele tempo) porque não era opaco, difuso e velado. Em Fátima tinha luz e
+calor e desenhava-se nítido e com a borda cortada em aresta como uma tabela
+de jogo."
+
+Working translation: moments before, the sun had broken through the dense
+layer of clouds that had hidden it, to shine clearly and intensely ... Nor
+could it be confused with the sun seen through fog (of which there was none
+at that time), because it was not opaque, diffuse or veiled. At Fátima it
+had light and heat and was sharply outlined.
+
+The following passage reports light clouds running west to east that did not
+dim the light, and clear rents of sky. This supports a strong direct source
+with moving bright clouds (compatible with Dalleur's LSb), not a veiled or
+diffuse scene.
+
+4. DISPOSITION
+The premise (dim or hazy illumination at exposure) is unsubstantiated and
+contradicted by the best contemporary weather testimony. With a strong
+direct source, hard cast shadows are expected and the clear-sun validation
+regime applies. The challenge is withdrawn as presented. What remains is the
+already-adjudicated question of which direction the sharp shadows point
+(F-04, L02).
+
+Withdrawn with it: the proposed downgrade of core claim CF4 from 3/4 to
+1/4. Two of its prongs were mistaken on reading the register (a known
+author-run control error exists, V02; peer-reviewed publication, R04), and
+its main prong depended on poor lighting. Absence of independent
+replication remains the existing bounded-search note R05, not a live
+objection.
+
+Scope: one challenge to the method's validity under the actual lighting.
+Does not establish that every D115 cue is an authenticated caster/shadow
+pair (F03, F05 and the 12 November shadow check remain as stated), nor
+exclude every conceivable lighting mechanism.
+
+5. GAZE ELEVATION NOTE (C12)
+Daniel proposed that, assuming level vision, the averaged spectator gaze
+nearly matches the shadows. Checked against
+fatima-gaze-check-20261108/head-directions.csv and report.txt:
+
+  Six-watcher vector-average head axis: about 42° right, 10° up.
+  Dalleur nominal lower source:        about 35° right, 28° up.
+  Adopted solar elevation:                               42.72°.
+
+Left-right agreement (about 7°) holds and is supporting consistency.
+Under level vision the elevation is about 10°, which matches neither 28° nor
+43°. Reaching 28° requires upward eye rotation, which equally allows 43°.
+Individual head elevations vary widely under perturbation (face C: -1.9° to
+43.7° at the 10th-90th percentiles). The original C12 finding stands: head
+pose cannot discriminate 28° from 43°. Recorded as a correction note, not a
+score against Daniel.
+
+The source's compass bearing has not been computed against the Sun's.
+D115 does not fix the camera's compass heading (C11), and Dalleur places the
+source near the Sun's southern bearing, so left-right agreement is expected
+under either explanation. A recovered camera heading would allow a
+consistency check on the source bearing only.
+
+6. NO NEW CALCULATION
+This note adds no new measurement. It records an argument, the testimony
+that resolved it, and a reading of existing gaze-check outputs.

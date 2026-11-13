@@ -1,11 +1,12 @@
 DALLEUR D115 FINDINGS AND DECISIONS
-Updated 2026-11-11
-Version 1
+Updated 2026-11-12
+Version 2
 
 Preserve the investigated micro-components, evidence, corrections and adjudications so future reviews do not reset them or confuse open verification with a successful objection.
 
 F-04 remains closed against the tested challenge. Confidence HIGH in the recorded disposition.
 Main score snapshot 17-0. Consolidation adds no points and assigns no miracle probabilities.
+Photo subtally 6-0 on explicit closing decisions (PH-03, PH-04, PH-07, PH-12, PH-15, PH-19); it overlaps the main tally.
 
 HOW TO USE
 Before assessing Dalleur, D115, Muse's photo defense or a camera/shadow counterargument, read this register and the current F-04 entry.
@@ -208,9 +209,9 @@ Evidence: S12
 
 C12 | Head direction versus gaze | Supported
 Conditional head-pose fits show broad upward and rightward consistency. Their uncertainties and indistinct pupils cannot discriminate a 28 degree gaze from roughly 43 degrees.
-Scope: Head axes are not eye directions. The head fit shares some camera assumptions with the shadow model.
+Scope: Head axes are not eye directions. The head fit shares some camera assumptions with the shadow model. Six-watcher average head axis is about 42 degrees right and 10 degrees up against Dalleur's 35 right and 28 up: left-right agrees; under level vision the elevation matches neither 28 nor 43 degrees (12 November note, S28).
 Revisit when: Recover reliable eye direction or stronger independently calibrated face and camera geometry.
-Evidence: S17
+Evidence: S17, S28
 
 C13 | Plate format and restored crop | Open verification
 The 9 by 12 cm plate and top-only sky crop are adopted reconstructions. Under that model, restoring the 4 to 3 frame places the public-image principal center at pixel 834.5 by 555.125. Modest tested format changes alone did not close the gap.
@@ -337,6 +338,12 @@ A photographic-development defect has been proposed for clothing tones, but no s
 Scope: Lack of a demonstrated defect does not turn a photograph into a calibrated moisture or energy measurement.
 Revisit when: Demonstrate the proposed mechanism on the actual material or a sufficiently matched photographic process.
 Evidence: S03, S15, S20
+
+L08 | Lighting conditions at exposure | Settled defense
+The challenge that D115 was exposed under dim, hazy or veiled light, outside the clear-sun regime of the author's controls, was withdrawn. Garrett's 18 December 1917 account reports the sun breaking through to shine clearly and intensely, with no fog, light and heat, and moving clouds that did not dim it.
+Scope: Supports a strong direct source with moving bright clouds at the event. Does not authenticate every caster and shadow correspondence (F03, F05) or exclude every lighting mechanism. Pale-disc and comfortable-viewing reports describe the watched object, not scene illumination.
+Revisit when: Produce contemporary testimony or physical evidence that the scene was veiled or diffusely lit at the exposure, then test the method under matched conditions.
+Evidence: S28, S29
 
 CONTEXT AND LITERATURE
 
@@ -501,5 +508,14 @@ S27 | Ordinary lighting fit and refraction calculation
 Standard atmospheric refraction, model scope and the combined-evidence challenge
 research/fatima-photo-counters-20261027/ordinary-lighting-fit-test-20261101.txt
 
+S28 | Lighting-conditions challenge and gaze elevation note
+PH-19 withdrawal, Garrett testimony, CF4 downgrade withdrawn, C12 gaze elevation
+research/fatima-lighting-conditions-20261112/report.txt
+
+S29 | Almeida Garrett account, 18 December 1917
+Documentação Crítica de Fátima selection, Doc. 29, printed p. 151; local text about lines 5886-5910
+research/fatima-distant-witnesses-20261027/sources/dcf-selecao-2013.txt
+
 CHANGE HISTORY
 2026-11-11 version 1: Consolidated existing dated audits, explicit F-04 adjudications, later source-claim corrections and numerical checks into stable component IDs. No original dialogue edits or tally changes.
+2026-11-12 version 2: Added L08 (lighting conditions at exposure, settled defense) from PH-19; added the gaze elevation note to C12; added sources S28 and S29; recorded the 6–0 photo subtally on explicit closing decisions. Main tally unchanged.

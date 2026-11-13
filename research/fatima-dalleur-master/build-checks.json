@@ -1,9 +1,9 @@
 {
-  "findings": 57,
+  "findings": 58,
   "groups": 8,
-  "sources": 27,
+  "sources": 29,
   "statuses": {
-    "settled_defense": 9,
+    "settled_defense": 10,
     "correction": 12,
     "supported": 14,
     "reproduced": 14,
@@ -11,7 +11,7 @@
     "modeled_only": 3,
     "bounded_search": 1
   },
-  "canonical_sha256": "16684c85dacf0488d9dd58a4f042796b7c70703cbd5f4e5444798b9070e43b4b",
-  "docx_sha256": "38aa861005595029e70947fc8793c93ccef67e762bbeaac22dca1240c24da30b",
+  "canonical_sha256": "9431df15dd7f496c2eb4a25c5a620e414d87feea6aeb42aa7246ff63d5e9ae05",
+  "docx_sha256": "916365a8527c63696a0b52af15f04ad5d92c25d9b2593b4a5cab4a37bc96d5d4",
   "semantic_validation": "IDs unique; sources resolve; source links valid by local existence"
 }

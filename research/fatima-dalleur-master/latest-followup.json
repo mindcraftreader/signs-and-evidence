@@ -1,9 +1,12 @@
 {
   "updated": "2026-11-12",
-  "master_version_unchanged": 1,
-  "latest_check": "../fatima-shadow-check-20261112/report.txt",
-  "machine_results": "../fatima-shadow-check-20261112/shadow-results.json",
+  "master_version": 2,
+  "latest_check": "../fatima-lighting-conditions-20261112/report.txt",
   "history": "../fatima-photo-challenge-history-20261112/index.html",
-  "history_episode": "PH-18",
-  "scope": "New measured boundary fits and conditional source-plane caps; physical correspondence and camera calibration not independently authenticated. No change to the master component dispositions or tally."
+  "history_episode": "PH-19",
+  "scope": "Lighting-conditions challenge withdrawn after Garrett's 1917 testimony (L08). C12 gaze elevation note added. Photo subtally 6–0 on explicit closing decisions; main tally unchanged.",
+  "previous": {
+    "history_episode": "PH-18",
+    "latest_check": "../fatima-shadow-check-20261112/report.txt"
+  }
 }

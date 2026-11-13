@@ -1,10 +1,36 @@
-PHOTO SUBTALLY — CORRECTION
-12 November 2026
+PHOTO SUBTALLY — D115
+Updated 12 November 2026
 
-The earlier 6–0 was not a verified historical count. It was constructed from Daniel’s guess and is withdrawn as an established score. The original topical draft is preserved in superseded/.
+Daniel 6 — assistant 0
 
-Use the chronological challenge history instead:
-../fatima-photo-challenge-history-20261112/index.html
+Counting rule: one point for each episode in the chronological photo
+challenge history whose recorded outcome is an explicit closed defense or
+withdrawal. Follow-up tests, measurements, component replies, corrections
+and the unscored F-06 localization review are not counted.
+
+1. PH-03 | 1 Nov  | Sunlight plus bright cloud making a misleading hat edge | F-04
+2. PH-04 | 2 Nov  | Fatal error in method, arithmetic or controls           | F-04.methodology
+3. PH-07 | 2 Nov  | Period Protar/camera candidate explaining the angle     | F-04.physical-camera-lens
+4. PH-12 | 7 Nov  | Sunlit cloud as both lower light and moving disc        | F-05
+5. PH-15 | 11 Nov | Joint camera recalibration producing solar elevation   | F-04.joint-calibration
+6. PH-19 | 12 Nov | Method unvalidated under the actual lighting; withdrawn
+                    after Garrett's 1917 testimony of clear, intense sun    | F-04 family
+
+Overlap: PH-03 and PH-12 are main-tally points F-04 and F-05. The other four
+are F-04-family subentries and add no main points. Main tally 17–0
+unchanged.
+
+Not scored: the gaze elevation note (C12). Averaged head axes match
+Dalleur's source left-right but not in elevation under level vision; head
+pose cannot discriminate 28° from 43°. Recorded as a correction, not a point
+against Daniel.
+
+History of this count: on 12 November an earlier 6–0 was withdrawn because
+it was built from Daniel's guess and a topical grouping, not from recorded
+decisions. That draft is preserved in superseded/. The current 6–0 rests on
+the six closing decisions listed above.
+
+Sources:
 ../fatima-photo-challenge-history-20261112/challenge-history.txt
-
-It records 17 episodes, five explicit closing decisions, component replies and follow-up tests. These are overlapping units, not a newly assigned photo score. Main tally unchanged.
+../fatima-dalleur-master/dalleur-findings.txt (L08, C12)
+../fatima-lighting-conditions-20261112/report.txt

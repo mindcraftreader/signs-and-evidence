@@ -1,12 +1,50 @@
 {
-  "title": "Photographic subtally: correction and history pointer",
+  "title": "Photographic subtally (D115)",
   "updated": "2026-11-12",
-  "status": "unverified_six_count_withdrawn",
-  "daniel": null,
-  "assistant": null,
-  "reason": "Six was Daniel’s tentative guess. The assistant organized topics into six and incorrectly presented that grouping as a verified 6–0 score. A chronological evidence audit replaces that score; no final local win count is assigned.",
+  "status": "verified_count_on_explicit_closing_decisions",
+  "daniel": 6,
+  "assistant": 0,
+  "rule": "One point per photo-history episode with an explicit closed defense or withdrawal; follow-ups, tests, component replies, corrections and the unscored F-06 review excluded.",
+  "episodes": [
+    {
+      "id": "PH-03",
+      "ledger": "F-04"
+    },
+    {
+      "id": "PH-04",
+      "ledger": "F-04.methodology"
+    },
+    {
+      "id": "PH-07",
+      "ledger": "F-04.physical-camera-lens"
+    },
+    {
+      "id": "PH-12",
+      "ledger": "F-05"
+    },
+    {
+      "id": "PH-15",
+      "ledger": "F-04.joint-calibration"
+    },
+    {
+      "id": "PH-19",
+      "ledger": "F-04 family"
+    }
+  ],
+  "overlaps_main_tally": [
+    "F-04",
+    "F-05"
+  ],
+  "main_tally_effect": 0,
+  "unscored_notes": [
+    "C12 gaze elevation correction (12 November)"
+  ],
+  "previous_count": {
+    "date": "2026-11-12",
+    "status": "withdrawn",
+    "reason": "Earlier 6–0 was built from Daniel's guess and a topical grouping, not recorded decisions.",
+    "old_draft": "superseded/photo-subtally-20261112-guessed-six-draft.json"
+  },
   "history": "../fatima-photo-challenge-history-20261112/challenge-history.json",
-  "readable_history": "../fatima-photo-challenge-history-20261112/index.html",
-  "old_draft": "superseded/photo-subtally-20261112-guessed-six-draft.json",
-  "main_tally_effect": 0
+  "readable_history": "../fatima-photo-challenge-history-20261112/index.html"
 }

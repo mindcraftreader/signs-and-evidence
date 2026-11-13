@@ -1,21 +1,29 @@
 {
-  "episodes": 18,
+  "episodes": 19,
   "explicit_closed_defense_episodes": [
     "PH-03",
     "PH-04",
     "PH-07",
     "PH-12",
-    "PH-15"
+    "PH-15",
+    "PH-19"
   ],
-  "component_rulings_retained": 9,
+  "component_rulings_retained": 10,
   "conversation_messages_linked": 46,
   "source_paths_valid": true,
   "main_tally_change": 0,
-  "photo_score_assigned": false,
+  "photo_subtally": [
+    "PH-03",
+    "PH-04",
+    "PH-07",
+    "PH-12",
+    "PH-15",
+    "PH-19"
+  ],
   "outcome_types": {
     "review_not_separate_verdict": 1,
     "component_objections_answered": 1,
-    "closed_defense": 5,
+    "closed_defense": 6,
     "conditional_support_and_open_verification": 3,
     "candidate_not_yet_a_fit": 1,
     "supporting_test_not_new_challenge": 1,
@@ -25,5 +33,5 @@
     "unscored_source_claim_correction": 1,
     "supporting_test_with_corrections": 1
   },
-  "canonical_sha256": "ad797bcaa69d72df5b80a8135777635d558f4c895087954e9ed3a0b1f83687cf"
+  "canonical_sha256": "cfbd179013e72ce38c8c788fb71b5712b9cdfca17bb6e24127692db0f6b3e63d"
 }
