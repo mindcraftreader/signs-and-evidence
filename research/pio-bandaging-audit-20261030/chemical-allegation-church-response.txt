@@ -1,0 +1,36 @@
+PIO: CHEMICAL ALLEGATION AND THE CHURCH RESPONSE
+Collection update:31October2026
+
+RECORDED EXPLANATIONS
+Phenol/carbolic acid: disinfection, especially equipment for injections. Festa’s7April1925report describes buying pure phenol and diluting it at the convent, with Pio assisting the rector, and other sanitation uses. This is affirmative support for legitimate uses; possession alone does not demonstrate artificial wound production.
+Veratrine: the published summary of Rossi’s1921inquiry gives a sneezing-powder prank as Pio’s explanation. This is a separate substance and request.
+
+CAUSE OFFICIAL’S REPORTED RESPONSE
+Gaeta and Tornielli’s2008book preface reproduces a statement attributed to Fr.Paolino Rossi, the cause’s postulator, that material presented as unpublished revelations had already been thoroughly clarified during canonization. It cites Famiglia Cristiana45/2007,p53. Cantoni’s historical press review identifies the interview as False ombre su Padre Pio,11November2007, and independently reports its general content.
+This is more specific evidence of a reported official response than merely inferring an answer from canonization. The quotation is accessed through its attributed reproduction, not a newly inspected magazine scan.
+
+OFFICIAL OUTCOME
+The1997decree recognizes heroic virtues and presents Pio’s sincerity and conduct favorably. That bears on the deliberate-fraud hypothesis, but the public decree does not contain a chemical-specific medical adjudication. Separate healings supplied the formally approved beatification/canonization miracles.
+
+STILL NEEDED
+1. Original Famiglia Cristiana45/2007,p53/full interview.
+2. Exact chemical-specific Positio discussion and consultors’ reasoning.
+These are unresolved access gaps, not evidence that investigators ignored the allegation. No new tally point or concession is inferred.
+
+READING ROUTE
+1. postulator-chemical-response-provenance.txt — quotation provenance and exact magazine reference.
+2. chemical-request-provenance.txt — original allegation and legitimate-use evidence.
+3. canonization-chemical-allegation-access-note.txt — official judgment versus earlier inquiry.
+4. source-register.json — authors, institutional roles, URLs, local files and access limits.
+
+SOURCE COPIES
+Gaeta/Tornielli preface: sources/gaeta-tornielli-preface-2008.html
+Official virtues decree: sources/vatican-virtues-decree.html
+Cause postulator’s1999account: sources/postulator-process-account-1999.html
+Campanella response: sources/campanella-chemical-response-2007.html
+Cantoni review: sources/cantoni-press-review-69.pdf
+Festa page image: sources/festa-phenol-context-117.png
+Earlier collection files are referenced by verified absolute paths in source-register.json.
+
+ADJUDICATION —31OCTOBER2026
+P-02 closed against the chemical challenge as presented, at Daniel’s request. One additional successful defense, total8-0; P-01remains open. Earlier no-score notes describe the research stage before this adjudication. The exact Positio reasoning remains unrecovered; no universal chemical exclusion is asserted.

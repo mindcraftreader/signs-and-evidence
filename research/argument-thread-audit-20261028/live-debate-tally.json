@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11",
+  "updated": "2026-11-12",
   "scope": "Explicitly adjudicated challenges in the current thread-by-thread review. This is not a retrospective score for every argument across the entire conversation.",
   "counting_rules": [
     "One distinct challenge is scored once; restatements and source follow-ups do not create additional points.",
@@ -47,6 +47,18 @@
         "limitations": "Not a finding that every wording is reconciled, that the October 13 grammar has only one reading, or that every broader reliability concern is refuted.",
         "report": "../fatima-war-prophecy-muse-review-20261111/review.txt",
         "score_change": 0
+      },
+      "references": {
+        "read_first": [
+          "fatima-war-prophecy-muse-review-20261111/review.txt",
+          "fatima-muse-8yln9fuDMRQ-20261028/october13-portuguese-and-manuscript-audit.txt"
+        ],
+        "primary_sources": [
+          "Documentação Crítica de Fátima, Seleção (2013), official PDF p. 105: https://www.fatima.pt/files/upload/fontes/F001_DCF_selecao.pdf#page=105",
+          "Muse interview at 1:09:01: https://www.youtube.com/watch?v=8yln9fuDMRQ&t=4141s"
+        ],
+        "register_ids": [],
+        "reopen_if": "A facsimile or early record showing an unconditional prediction that the war would end that day."
       }
     },
     {
@@ -194,6 +206,18 @@
         "date": "2026-11-11",
         "object": "Confidence in the recorded defense/withdrawal verdict, not the probability of supernatural causation.",
         "basis": "Carried forward from the November 10 confidence audit; no new rating in this update."
+      },
+      "references": {
+        "read_first": [
+          "pio-bandaging-audit-20261030/research-report.txt",
+          "pio-bandaging-audit-20261030/postulator-chemical-response-provenance.txt",
+          "pio-bandaging-audit-20261030/chemical-allegation-church-response.txt"
+        ],
+        "primary_sources": [
+          "Di Flumeri (ed.), Le stigmate di Padre Pio, 2nd ed. 1995: Doc. 14 p. 64; Doc. 25 pp. 81–84; Doc. 53 pp. 210–211; Docs. 30–31 pp. 92–100"
+        ],
+        "register_ids": [],
+        "reopen_if": "Evidence of deliberate wound production, or a chemical account that fits the retained chronology."
       }
     },
     {
@@ -250,7 +274,19 @@
           "object": "Confidence in the recorded defense/withdrawal verdict, not the probability of supernatural causation.",
           "basis": "Carried forward from the November 10 confidence audit; no new rating in this update."
         }
-      ]
+      ],
+      "references": {
+        "read_first": [
+          "pio-stigmata-medical-deep-dive-20261028/consolidated-medical-analysis.txt",
+          "pio-stigmata-medical-deep-dive-20261028/research-report.txt",
+          "pio-long-duration-wound-comparators-20261030"
+        ],
+        "primary_sources": [
+          "Di Flumeri (ed.), Le stigmate di Padre Pio da Pietrelcina, 2nd ed. 1995"
+        ],
+        "register_ids": [],
+        "reopen_if": "Rossi/Positio or medical records establishing fabrication or an ordinary account of the retained wound chronology."
+      }
     },
     {
       "id": "F-02",
@@ -300,6 +336,20 @@
         "date": "2026-11-11",
         "object": "Confidence in the recorded defense/withdrawal verdict, not the probability of supernatural causation.",
         "basis": "Carried forward from the November 10 confidence audit; no new rating in this update."
+      },
+      "references": {
+        "read_first": [
+          "fatima-independence-audit-20261027/report.txt",
+          "fatima-independence-audit-20261027/advance-prediction-timeline.txt",
+          "fatima-distant-witness-geography-20261028/research-report.txt",
+          "documented-alternatives-audit-20261028/research-report.txt"
+        ],
+        "primary_sources": [
+          "Contemporary press: https://fatima-1917.com/pt/d/iii-1-87",
+          "Documentação Crítica de Fátima, Seleção (2013)"
+        ],
+        "register_ids": [],
+        "reopen_if": "Evidence that expectation produced the retained Cova and distant observations, not just attendance and interpretation."
       }
     },
     {
@@ -345,6 +395,17 @@
         "date": "2026-11-11",
         "object": "Confidence in the recorded defense/withdrawal verdict, not the probability of supernatural causation.",
         "basis": "Carried forward from the November 10 confidence audit; no new rating in this update."
+      },
+      "references": {
+        "read_first": [
+          "pio-fragrance-audit-20261028/initial-findings.json",
+          "argument-thread-audit-20261028/remaining-objections-and-fifth-challenge-audit.txt"
+        ],
+        "primary_sources": [
+          "Muse on St Pio: https://motivacredibilitatis.substack.com/p/st-pio-of-pietrelcina"
+        ],
+        "register_ids": [],
+        "reopen_if": "An identified ordinary source that accounts for the retained fragrance pattern."
       }
     },
     {
@@ -369,6 +430,18 @@
         "date": "2026-11-11",
         "object": "Confidence in the recorded defense/withdrawal verdict, not the probability of supernatural causation.",
         "basis": "Carried forward from the November 10 confidence audit; no new rating in this update."
+      },
+      "references": {
+        "read_first": [
+          "zeitoun-figure-challenge-20261028/report.txt",
+          "zeitoun-recurrence-full-audit-20261106/audit-report.txt",
+          "zeitoun-arabic-press-reconstruction-20261028/report.txt"
+        ],
+        "primary_sources": [
+          "Watani, 5 May 1968: https://ourladyofzeitoun.com/en/newspaper/watani-newspaper-may-5-1968/"
+        ],
+        "register_ids": [],
+        "reopen_if": "Evidence that the early named reports of prolonged full figures misdescribe brief ambiguous lights."
       }
     },
     {
@@ -393,6 +466,17 @@
         "date": "2026-11-11",
         "object": "Confidence in the recorded defense/withdrawal verdict, not the probability of supernatural causation.",
         "basis": "Carried forward from the November 10 confidence audit; no new rating in this update."
+      },
+      "references": {
+        "read_first": [
+          "documented-alternatives-audit-20261028/research-report.txt"
+        ],
+        "primary_sources": [
+          "Coelho: https://fatima-1917.com/pt/d/iii-1-97 and https://fatima-1917.com/pt/d/iii-1-109",
+          "Muse, It Wasn’t the Sun, section 5.3"
+        ],
+        "register_ids": [],
+        "reopen_if": "A duration-matched reproduction of the pale, comfortably visible disc, violent movement and descent."
       }
     },
     {
@@ -543,6 +627,33 @@
         "scope": "Chronological evidence/reply/outcome audit. Episode count is not a score. Includes F-05 and unscored F-06 with their separate dispositions.",
         "main_tally_effect": 0,
         "latest_measurement": "../fatima-shadow-check-20261112/report.txt"
+      },
+      "references": {
+        "read_first": [
+          "fatima-dalleur-master/dalleur-findings.txt",
+          "fatima-photo-challenge-history-20261112/challenge-history.txt",
+          "argument-thread-audit-20261028/photo-subtally.txt",
+          "fatima-photo-counters-20261027/ordinary-lighting-fit-test-20261101.txt",
+          "fatima-lighting-conditions-20261112/report.txt"
+        ],
+        "primary_sources": [
+          "Dalleur 2021: https://doi.org/10.12775/SetF.2021.001",
+          "Garrett, Documentação Crítica de Fátima, Seleção (2013), Doc. 29 (18 Dec 1917), p. 151",
+          "D115: https://commons.wikimedia.org/wiki/File:People_looking_miracle_sun.jpg"
+        ],
+        "register_ids": [
+          "G01",
+          "G02",
+          "G03",
+          "G04",
+          "V01",
+          "C07",
+          "C10",
+          "D06",
+          "L02",
+          "L08"
+        ],
+        "reopen_if": "Name a register component and bring new evidence or a complete, historically feasible scene fit."
       }
     },
     {
@@ -626,6 +737,19 @@
             "date": "2026-11-11",
             "object": "Confidence in the recorded defense/withdrawal verdict, not the probability of supernatural causation.",
             "basis": "Carried forward from the November 10 confidence audit; no new rating in this update."
+          },
+          "references": {
+            "read_first": [
+              "critic-challenge-review-20261029/thai-fatima-solar-comparison-20261029.txt",
+              "critic-challenge-review-20261029/matichon-evidence-audit-20261029.txt",
+              "critic-challenge-review-20261029/research-report.txt"
+            ],
+            "primary_sources": [
+              "Matichon: https://www.matichon.co.th/local/news_472748",
+              "Almeida (same-day report): https://fatima-1917.com/pt/d/iii-1-87"
+            ],
+            "register_ids": [],
+            "reopen_if": "An immediate, independent journalist’s eyewitness report of the Buddhist event."
           }
         }
       ],
@@ -634,6 +758,20 @@
         "date": "2026-11-11",
         "object": "Confidence in the recorded defense/withdrawal verdict, not the probability of supernatural causation.",
         "basis": "Carried forward from the November 10 confidence audit; no new rating in this update."
+      },
+      "references": {
+        "read_first": [
+          "../EXCLUSIVITY-TALLY.md",
+          "comparative-miracle-deep-audit-20261101/comparative-tally-20261102.txt",
+          "comparative-miracle-deep-audit-20261101/assessment.txt",
+          "mass-public-miracles-world-audit-20261102/research-report.txt",
+          "adversarial-crawl-20261111/comparative/report.txt"
+        ],
+        "primary_sources": [
+          "Cadoret-Abeles 1981 (Palmar fieldwork): https://www.persee.fr/doc/casa_0076-230x_1981_num_17_1_2353"
+        ],
+        "register_ids": [],
+        "reopen_if": "A comparably documented public sign (dated in advance, immediate independent press) supporting a rival religious claim."
       }
     },
     {
@@ -658,6 +796,19 @@
         "date": "2026-11-11",
         "object": "Confidence in the recorded defense/withdrawal verdict, not the probability of supernatural causation.",
         "basis": "Carried forward from the November 10 confidence audit; no new rating in this update."
+      },
+      "references": {
+        "read_first": [
+          "argument-thread-audit-20261028/d-02-roman-catholic-vindication-20261112.txt",
+          "marian-cumulative-statement-20261104.txt",
+          "fatima-independence-audit-20261027/advance-prediction-timeline.txt"
+        ],
+        "primary_sources": [
+          "Shrine narrative: https://www.santuario-fatima.pt/en/pages/narrative-of-the-apparitions-",
+          "Catechism on the heritage of faith: https://www.vatican.va/content/catechism/en/part_one/section_one/chapter_two/artcile_2/iii_the_interpretation_of_the_heritage_of_faith.index.html"
+        ],
+        "register_ids": [],
+        "reopen_if": "Specific evidence for accepting the sign while rejecting its associated message."
       }
     },
     {
@@ -738,6 +889,19 @@
         "date": "2026-11-11",
         "object": "Confidence in the recorded defense/withdrawal verdict, not the probability of supernatural causation.",
         "basis": "Carried forward from the November 10 confidence audit; no new rating in this update."
+      },
+      "references": {
+        "read_first": [
+          "argument-thread-audit-20261028/f-05-cloud-source-20261107.txt",
+          "fatima-photo-challenge-history-20261112/challenge-history.txt"
+        ],
+        "primary_sources": [
+          "Dalleur 2021: https://doi.org/10.12775/SetF.2021.001",
+          "https://fatima-1917.com/s/sel-23-1",
+          "https://fatima-1917.com/d/iii-1-345"
+        ],
+        "register_ids": [],
+        "reopen_if": "A physically credible joint fit of a sunlit cloud as both the lower light and the moving disc."
       }
     },
     {
@@ -766,6 +930,18 @@
         "date": "2026-11-11",
         "object": "Confidence in the recorded defense/withdrawal verdict, not the probability of supernatural causation.",
         "basis": "Carried forward from the November 10 confidence audit; no new rating in this update."
+      },
+      "references": {
+        "read_first": [
+          "argument-thread-audit-20261028/l-02-lourdes-recovery-timing-20261107.txt",
+          "lourdes-forensic-tally-20261107/forensic-tally.txt"
+        ],
+        "primary_sources": [
+          "Journal de la Grotte 1926: https://www.lourdes-france.org/wp-content/uploads/2024/12/ATTACHMENT-1.A-JOURNAL-Pages-entieres-DE-LA-GROTTE-DE-LOURDES_1926_52.pdf",
+          "BMJ: https://www.bmj.com/content/bmj/2/2590/467.full.pdf"
+        ],
+        "register_ids": [],
+        "reopen_if": "Clinical records showing the fast cases’ changes began before the pilgrimage or have an identified ordinary cause."
       }
     },
     {
@@ -817,6 +993,17 @@
         "date": "2026-11-11",
         "object": "Confidence in the recorded defense/withdrawal verdict, not the probability of supernatural causation.",
         "basis": "Carried forward from the November 10 confidence audit; no new rating in this update."
+      },
+      "references": {
+        "read_first": [
+          "argument-thread-audit-20261028/l-04-lourdes-repeated-apparitions-20261107.txt"
+        ],
+        "primary_sources": [
+          "Trochu, Bernadette Soubirous: https://where-you-are.net/ebooks/st_-bernadette-soubirous_-1844-trochu-francois-abbe.pdf",
+          "https://www.lourdes-france.org/en/apparitions/"
+        ],
+        "register_ids": [],
+        "reopen_if": "Evidence that reflection and reinforcement fit the 18-report series, including the direction to the spring."
       }
     },
     {
@@ -857,6 +1044,18 @@
         "limitations": "No claim that all possible optical installations have been physically excluded; roof dimensions and witness stations remain partly assumed. No per-night illumination measurements or exact final appearance date newly established.",
         "supersedes": "Same-day recurrence review retaining moderate confidence for Z-02 as a whole.",
         "score_change": 0
+      },
+      "references": {
+        "read_first": [
+          "zeitoun-peppers-ghost-20261107/report.txt",
+          "zeitoun-consolidated-timeline-20261111/assessment.txt"
+        ],
+        "primary_sources": [
+          "Watani, 5 May 1968: https://ourladyofzeitoun.com/en/newspaper/watani-newspaper-may-5-1968/",
+          "Al-Gomhuria, 6 May 1968: https://ourladyofzeitoun.com/en/newspaper/al-gomhuria-may-6-1968/"
+        ],
+        "register_ids": [],
+        "reopen_if": "Measured roof dimensions and witness stations showing a feasible installation, or evidence that one existed."
       }
     },
     {
@@ -952,7 +1151,22 @@
           "report": "../fatima-early-death-prediction-20261111/muse-early-secrets-followup.txt",
           "tally_effect": "Added as a supporting subpoint under existing F-07. No duplicate point; main17-0 unchanged."
         }
-      ]
+      ],
+      "references": {
+        "read_first": [
+          "fatima-early-death-prediction-20261111/report.txt",
+          "fatima-early-death-prediction-20261111/muse-early-secrets-followup.txt",
+          "fatima-independence-audit-20261027/report.txt"
+        ],
+        "primary_sources": [
+          "Documentação Crítica de Fátima, Seleção (2013), Doc. 22 (Formigão, 2 Nov 1917), p. 118",
+          "Documentação Crítica de Fátima, Seleção (2013), Doc. 96 (Aparício letter, 11 Oct 1928), pp. 353–355",
+          "https://fatima-1917.com/pt/d/sel-82",
+          "https://fatima-1917.com/pt/d/sel-11"
+        ],
+        "register_ids": [],
+        "reopen_if": "Documentary evidence of retraction, coaching or inconsistency in the children’s core account."
+      }
     },
     {
       "id": "F-08",
@@ -976,6 +1190,18 @@
         "date": "2026-11-11",
         "object": "Confidence in withdrawal of the presented objection, not the probability of supernatural causation.",
         "basis": "The methodological distinction remains true but did not materially undermine the actual combined claim defended by the user."
+      },
+      "references": {
+        "read_first": [
+          "adversarial-crawl-20261111/fatima/report.txt",
+          "adversarial-crawl-20261111/reasonable-doubt-followup.json",
+          "documented-alternatives-audit-20261028/research-report.txt"
+        ],
+        "primary_sources": [
+          "Acta Ophthalmologica 2005: https://onlinelibrary.wiley.com/doi/full/10.1111/j.1600-0420.2005.00511.x"
+        ],
+        "register_ids": [],
+        "reopen_if": "Identified 1917 eye-injury reports, or an ordinary account of comfortable viewing of the retained display."
       }
     },
     {
@@ -1018,16 +1244,54 @@
           "tally_effect": "Existing C-03 remains open; main 17-0 unchanged; no duplicate point or implicit reopening of prior outcomes."
         }
       ]
+    },
+    {
+      "id": "D-02",
+      "case": "Fátima / Roman Catholic Church",
+      "display_title": "Fátima as vindication of the Roman Catholic Church",
+      "challenge": "Fátima vindicates Catholic Marian devotion but only moderately supports the Roman Catholic Church’s institutional claims: Zeitoun parity, no pre-event papal content, and late transmission of the secrets.",
+      "status": "closed_against_challenge_as_presented",
+      "result": "Daniel successfully defended Rome-specific vindication. The assistant withdrew every part: Zeitoun asserts nothing; the decade prayer added to the rosary is documented before the sign (27 Sep 1917); the papal request is in writing by May 1930 with custody from 1927; the package argument carries the institutional claim.",
+      "daniel_successful_defenses": 1,
+      "assistant_successful_challenges": 0,
+      "reason": "D-01 reserved the institutional question; this entry adjudicates it. Pre-event Catholic-specific content plus the package argument, D-01 and F-07 answer the challenge.",
+      "scope": "Does not separately adjudicate supernatural causation or convert later-written content into contemporaneous prophecy. The 1930 letter speaks of persecution in Soviet Russia; conversion of Orthodox Russia is an interpretation of later memoir wording.",
+      "assistant_assessment_date": "2026-11-12",
+      "current_defense_confidence": {
+        "rating": "high",
+        "date": "2026-11-12",
+        "object": "Confidence in the recorded withdrawal, not the probability of supernatural causation.",
+        "basis": "Every part of the challenge was answered by documented pre-event content, dated papal content and the custody record."
+      },
+      "report": "d-02-roman-catholic-vindication-20261112.txt",
+      "evidence": [
+        "../fatima-distant-witnesses-20261027/sources/dcf-selecao-2013.txt (Docs. 10, 96, 125)",
+        "../fatima-early-death-prediction-20261111/muse-early-secrets-followup.txt"
+      ],
+      "references": {
+        "read_first": [
+          "argument-thread-audit-20261028/d-02-roman-catholic-vindication-20261112.txt",
+          "fatima-early-death-prediction-20261111/muse-early-secrets-followup.txt"
+        ],
+        "primary_sources": [
+          "Documentação Crítica de Fátima, Seleção (2013), Doc. 10 (27 Sep 1917), p. 59: decade prayer added to the rosary",
+          "Documentação Crítica de Fátima, Seleção (2013), Doc. 125 (Lucia, 22 May 1930), p. 517: Holy Father and consecration of Russia",
+          "Documentação Crítica de Fátima, Seleção (2013), Doc. 96 (Aparício letter, 11 Oct 1928), pp. 353–355",
+          "Cristino 2007: https://www.fatima.pt/pt/news/conferencia-notas-biograficas-irma-lucia"
+        ],
+        "register_ids": [],
+        "reopen_if": "Evidence the papal or institutional content originated after the fact, or pre-event content contradicting Catholic teaching."
+      }
     }
   ],
   "totals": {
-    "daniel_successful_defenses": 17,
+    "daniel_successful_defenses": 18,
     "assistant_successful_challenges": 0,
     "open": 2,
     "deferred_peripheral": 0,
     "daniel_partial_credit": 0,
-    "daniel_points_including_partial_credit": 17,
-    "daniel_total_recorded_points": 18,
+    "daniel_points_including_partial_credit": 18,
+    "daniel_total_recorded_points": 19,
     "daniel_methodological_corrections": 1
   },
   "latest_analysis": "2026-11-11: C-03 registered OPEN at user request: sincere multi-cause cumulative framework. First pass does not establish adequate ordinary explanation. Main17–0 unchanged; P-01 and C-03 open.",
@@ -1192,9 +1456,9 @@
     "tally_effect": "Scope addition/refinement only; no automatic new successful-defense point or final supernatural-causation adjudication."
   },
   "confidence_scoreboard": {
-    "date": "2026-11-11",
-    "main_score": "17–0",
-    "high": 17,
+    "date": "2026-11-12",
+    "main_score": "18–0",
+    "high": 18,
     "moderate": 0,
     "unrated": 0,
     "moderate_ids": [],
@@ -1210,16 +1474,18 @@
       "Putuo"
     ],
     "counting_note": "C-01 is nested under C-02 but remains an existing scored outcome. Comparative and main tallies overlap. H-01 is separate; P-01 remains open. C-03 is a new open cumulative challenge with no result assigned.",
-    "scope": "Qualitative confidence in recorded argument outcomes. Not calibrated probabilities of miracles; the seventeen entries are not independent Marian observations.",
+    "scope": "Qualitative confidence in recorded argument outcomes. Not calibrated probabilities of miracles; the eighteen entries are not independent Marian observations.",
     "html": "scoreboard.html",
     "text": "scoreboard.txt",
     "newly_rated_existing_ids": [
       "F-07"
     ],
-    "latest_added_id": "F-08",
+    "latest_added_id": "D-02",
     "open_ids": [
       "P-01",
       "C-03"
-    ]
+    ],
+    "photo_subtally": "6–0 on explicit closing decisions; overlaps F-04 and F-05",
+    "references_note": "Each scored entry carries references: read_first (paths relative to research/), primary_sources, register_ids, reopen_if."
   }
 }

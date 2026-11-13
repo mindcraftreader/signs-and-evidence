@@ -470,3 +470,29 @@ The immediately preceding 6–0 grouping was not an independently recovered coun
 
 2026-11-12 — RAW SHADOW CHECK PH-18
 Raw edge fits and a new conditional single-ray plane test support a low direction under retained camera assumptions. Physical caster/shadow authentication remains incomplete. See ../fatima-shadow-check-20261112/report.txt and shadow-results.json. Eighteen history episodes now indexed; no new challenge victory or change to the five recorded closing decisions or main tally.
+
+
+12 NOVEMBER 2026 — D-02 ADDED: MAIN TALLY 18–0
+D-02 | Fátima as vindication of the Roman Catholic Church | HIGH
+The assistant (Claude) argued that Fátima strongly supports Catholic Marian
+devotion but only moderately supports Rome's institutional claims (Zeitoun
+parity; no pre-event papal content; late transmission of the secrets).
+Daniel answered with the package argument, Zeitoun's lack of any teaching,
+the decade prayer added to the rosary, and the custody of the secrets. The
+assistant withdrew every part. D-01 had reserved the institutional question;
+D-02 adjudicates it. Main tally advances from 17–0 to 18–0.
+Decisive sources: DCF Seleção (2013) Doc. 10, 27 Sep 1917, p. 59 (decade
+prayer, before the sign); Doc. 125, Lucia, 22 May 1930, p. 517 (Holy Father
+and consecration of Russia); Doc. 96, Aparício letter, 11 Oct 1928.
+Report: d-02-roman-catholic-vindication-20261112.txt
+
+Also recorded today (no main point): PH-19 lighting-conditions challenge
+withdrawn after Garrett (DCF Doc. 29, 18 Dec 1917); photo subtally 6–0 on
+explicit closing decisions. See photo-subtally.txt.
+
+REFERENCES ADDED TO EVERY SCORED ENTRY
+live-debate-tally.json now gives each scored entry a "references" block:
+read_first (paths relative to research/), primary_sources, register_ids
+and reopen_if. scoreboard.txt and scoreboard.html are generated from it by
+build-scoreboard-20261112.py; earlier scoreboard stages are preserved in
+scoreboard-history.txt.

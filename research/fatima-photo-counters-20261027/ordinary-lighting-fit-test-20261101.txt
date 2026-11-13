@@ -1,0 +1,165 @@
+FATIMA: CAN AN ORDINARY-LIGHTING MODEL FIT THE COMBINED EVIDENCE BETTER?
+1 November 2026
+
+Question requested by Daniel Kosco
+Establish an ordinary lighting explanation that fits the combined evidence
+better, rather than merely mentioning possible errors in Dalleur's analysis.
+
+Result
+Not established in this review. The strongest concrete countermodel located
+demonstrates a possible ambiguity in shadow interpretation. It does not yet
+reconstruct D115's relevant features together, or demonstrate a better fit to
+the complete historical case. This is a finding about the available analysis,
+not a proof that every ordinary explanation is impossible or a calculated
+probability for supernatural agency.
+
+Candidate ordinary account tested
+The real Sun is attenuated by cloud; cloud/sky illumination contributes to the
+scene; faint, combined illumination makes some apparent boundaries unreliable
+as exact cast-shadow correspondences. Visual adaptation and expectation might
+contribute to apparent colors and movement. Regional observers might encounter
+related viewing conditions. The advance announcement prompts observation on
+the appointed day, but the occurrence of a sufficiently striking experience
+then requires an additional account.
+
+These are constituent hypotheses, not a successfully fitted model. In
+particular, neither altered perception nor expectation is a substitute for
+explaining a physically established non-solar shadow direction.
+
+1. What the concrete lighting demonstration establishes
+Mark Grant, who describes himself as a mathematics graduate student (institution
+not verified), constructed two toy rendered scenes. The reported settings are
+solar elevation 42 degrees, relative azimuth 70 degrees, camera field of view
+62 degrees and downward pitch approximately 5 degrees. Introducing an overhead
+partly transmissive luminous square reportedly makes an intuitive hat-shadow
+selection produce an elevation error of 15-20 degrees. The clear-light scene
+reportedly gives approximately the correct result.
+
+That is a relevant failure-mode demonstration. It is stronger than simply
+saying old photographs are uncertain. However:
+- The published account does not provide an independently reproduced fit to
+  all the D115 object-shadow correspondences.
+- Dalleur replies that the cloud rendering loses directional contours retained
+  in D115, including features around the hat, finger and stick/knee, and rocks.
+  This remains a dispute about the image, not a demonstrated counter-fit.
+- We inspected the published rendering previously and rechecked its written
+  description in this pass. We did not obtain its scene file, rerun it or
+  independently verify the stated 15-20-degree error.
+
+The rendering description is Grant's account published in Matthew Adelstein's
+review, footnote 3:
+https://benthams.substack.com/p/a-clash-of-titans-the-ethan-muse
+
+Grant's own current critique is explicitly tentative. It corrects his earlier
+identification of the principal hat feature: Dalleur emphasizes the crown's
+shadow on the brim, rather than primarily the shadow inside the crown. His
+separate 41-42-degree Blender fit to a rock ray and umbrella ground shadow
+addresses a second method discussed in correspondence, not the principal
+published method. Grant expressly says it would be unfair to hold Dalleur's
+published analysis to that second argument.
+https://docs.google.com/document/d/1t-wlHbqyUUL1-wN2Lf-zOs6_v77NmG9gmBK0BDWXe4c/edit
+
+2. What ordinary refraction can and cannot do here
+Dalleur's central published reconstruction is approximately 28.24 degrees;
+the expected solar elevation near solar noon is approximately 42.72 degrees.
+That is a gap of approximately 14.48 degrees. Using the standard refraction
+approximation reproduced on his current page at 42.72 degrees gives
+0.01745 degrees, or about 1.05 arcminutes. The gap is about 830 times that
+correction. Standard atmospheric refraction is therefore not an adequate
+numerical explanation of this gap. This calculation does not test every
+possible atmospheric optical phenomenon.
+
+His published focal-length sensitivity also does not by itself reach the
+Sun's expected direction. Our earlier script reproduces the equation's
+approximately 31.86 degrees at a 30 mm equivalent focal length and 28.24 degrees
+at 37 mm. These are conditional calculations using his selected vanishing
+point and horizon, not independent verification of those selections and not
+a full joint confidence interval.
+
+Philippe Dalleur holds doctorates in applied sciences (UCLouvain) and philosophy
+(Pontifical University of the Holy Cross). His current technical page addresses
+focal length, pitch, roll and plausible period lens distortion; these cannot
+be treated as simply omitted. The exact historical camera remains uncalibrated.
+https://sites.google.com/pusc.it/elevation-azimuth/fatimas-miracle-photo
+https://docenti.pusc.it/homepage/?u=dalleur
+Published paper: https://doi.org/10.12775/SetF.2021.001
+Earlier reproducibility calculation: ../fatima-photo-analysis-20261027/check_geometry.py
+
+3. Basic physical distinction
+Under an idealized fixed geometry, adding diffuse fill light changes the
+contrast of a direct source's cast shadow. It does not move the actual
+occlusion boundary for that source. Combined illumination can nevertheless
+create other gradients or apparent edges that an analyst mistakenly chooses
+as that boundary. Consequently the countermodel must identify which actual
+D115 boundaries were misidentified and fit the remaining cues. It cannot
+claim that clouds physically moved the real Sun's ray direction merely
+because an apparent boundary changed in a toy scene.
+
+An ordinary non-solar source, such as a bright cloud patch, is another possible
+hypothesis. Inferring a non-solar direction is not by itself identifying a
+supernatural agent. But no calibrated cloud-source reconstruction fitting the
+required directional features, illumination and historical circumstances was
+established here. Its mere availability as a possibility is not a better fit.
+
+4. Combined-evidence check
+Pale, readily watchable apparent disc:
+Cloud attenuation is a plausible constituent explanation. We have not recovered
+contemporaneous optical-depth measurements or a verified exposure history for
+individual viewers. Reports do not establish continuous unattenuated Sun
+exposure by every person, or clinical confirmation of healthy retinas for all.
+
+Colors and apparent movement:
+Perceptual effects can explain components. Previously reviewed comparisons do
+not establish a measured match to the full reported sequence and duration.
+They are not counted as a newly successful rebuttal in this pass.
+
+Photographic geometry:
+The toy cloud render demonstrates vulnerability in principle; no joint fit
+to the historical photograph has been established. Dalleur's anomalous result
+therefore remains an unresolved positive part of the case, conditional on
+the correctness of the feature correspondences and camera reconstruction.
+
+Contemporary public testimony and reporting:
+Ordinary accounts can allow sincere witnesses. They still need to explain
+what produced their reported experience, rather than treating sincerity as
+either proof of supernatural agency or proof of perceptual error.
+
+Distant reports:
+There are genuinely dispersed accounts, including contemporary indirect
+reports preserved in 1917 letters. Our existing source audit also distinguishes
+later interviews from contemporary letters, and geographic connector lines
+from measured observation bearings. No completed triangulation has been
+established. These limits prevent treating the map as surveyed rays, but do
+not supply an ordinary explanation of the reports. A model must address their
+actual wording and provenance individually.
+See ../fatima-distant-witnesses-20261027/research-report.txt and witness-records.json.
+
+Advance announcement:
+An ordinary account can explain why a crowd was observing that day. That
+does not independently explain why an exceptional public experience occurred
+on the appointed occasion. No defensible coincidence probability or model of
+the incidence of comparable experiences was established in this review.
+Expectation cannot simply be stipulated to have produced the entire event.
+
+Drying:
+Black-and-white garment tones do not independently quantify water content or
+drying rate. Equally, pointing out this limit does not explain away the
+historical drying testimony. Neither a calibrated photographic moisture
+measurement nor a time-resolved ordinary drying reconstruction is supplied.
+
+Overall judgment
+The ordinary account has physically plausible ingredients and identifies a
+real inference problem. Its strongest available demonstration does not yet
+meet the user's requested combined-fit standard. I cannot responsibly claim
+that it explains the assembled evidence better than supernatural intervention.
+Nor have we obtained likelihoods sufficient to turn this failed counter-fit
+into a numerical probability for the religious explanation.
+
+Scope and tally
+This pass rechecked Grant's current critique, the published cloud-render
+description, Dalleur's current technical response, our prior equation check,
+and the existing distant-witness provenance audit. It did not independently
+remeasure the original 6144 x 4348 archival scan, render a full historical scene,
+or clinically assess the crowd. No peer-reviewed solar-consistent D115
+reconstruction was located in the targeted searches. That search result is
+not a claim that no such study can exist. No tally has been silently changed.

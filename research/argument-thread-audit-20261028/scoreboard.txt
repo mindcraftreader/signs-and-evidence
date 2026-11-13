@@ -1,136 +1,241 @@
-CURRENT SCOREBOARD — 11 NOVEMBER 2026 — F-08 ADDED
-Main tally: Daniel 17 — assistant 0. Confidence:17HIGH;0MODERATE;0UNRATED.
-F-08: successful defense of comfortable-viewing testimony plus absence of a
-known eye-injury cluster against the medical-ascertainment objection presented.
-The assistant withdrew this limitation as a substantive counterargument.
-No universal clinical zero-injury finding or numerical miracle probability follows.
-This is a new distinct challenge; F-04 joint-calibration remains an unscored
-follow-up beneath the already-scored photographic argument.
-Comparative tally8–0 is unchanged and overlaps the main ledger.
-Earlier counts below are preserved historical stages.
+CURRENT SCOREBOARD — 12 NOVEMBER 2026
 
-CURRENT SCOREBOARD — 11 NOVEMBER 2026 — P-04 OUTCOME RATED HIGH
-Main tally: Daniel 16 — assistant 0.
-Confidence: 16 HIGH; 0 MODERATE; 0 UNRATED.
-F-01 and Z-02 are HIGH-confidence withdrawals of the challenges as presented.
-P-04 is HIGH for the withdrawn objections; F-07 is HIGH for the sincerity inference.
-Comparative tally: 8–0, including provisional Putuo; it overlaps the main ledger.
-No new points. P-01 remains open; H-01 is a separate methodological correction.
+Main tally: Daniel 18 — assistant 0. Confidence: 18 HIGH.
+Photo subtally (D115): 6–0 on explicit closing decisions; overlaps F-04 and F-05. See photo-subtally.txt.
+Comparative exclusivity tally: 8–0, Putuo provisional; overlaps the main ledger. See ../../EXCLUSIVITY-TALLY.md.
+Open: P-01 (Pio wound depth and scarless healing), C-03 (good-faith cumulative framework).
 Confidence describes the recorded verdict, not the probability of a miracle.
-Current detailed scoreboard: scoreboard.html and scoreboard.txt.
-Earlier dated ratings and totals below are historical and superseded as indicated.
 
+Each entry lists where to start reading (paths relative to this folder), key primary sources,
+register IDs where relevant, and the evidence that would justify reopening it.
+Earlier stages and their reasoning: scoreboard-history.txt.
 
-ALL SEVENTEEN SCORED OUTCOMES (F-08 IS ENTRY 17 BELOW)
-
+========================================================================
 01. F-01 | HIGH | Fátima: alleged failed unconditional war prophecy
 Daniel successfully defended this thread against the attempted objection; assistant withdraws the failed-prophecy objection as established counterevidence.
-Scope: No facsimile of the ink manuscript was obtained; exact October13 syntax remains disputed. Neither fact reopens this challenge without substantive new evidence.
+Read first:
+  ../fatima-war-prophecy-muse-review-20261111/review.txt
+  ../fatima-muse-8yln9fuDMRQ-20261028/october13-portuguese-and-manuscript-audit.txt
+Primary sources:
+  Documentação Crítica de Fátima, Seleção (2013), official PDF p. 105: https://www.fatima.pt/files/upload/fontes/F001_DCF_selecao.pdf#page=105
+  Muse interview at 1:09:01: https://www.youtube.com/watch?v=8yln9fuDMRQ&t=4141s
+Reopen only if: A facsimile or early record showing an unconditional prediction that the war would end that day.
 
+========================================================================
 02. P-04 | HIGH | Pio: core stigmata record
 Daniel successfully defended the core thread against the objections actually presented. Assistant did not establish fabrication, significant misunderstanding, or an adequate ordinary account of the retained chronology.
 Scope: One aggregate point for this adjudicated core challenge; technical questions about depth, infection, blood quantity and speed do not create further wins merely by restating them. Full Rossi/Positio documents remain outstanding.
+Read first:
+  ../pio-stigmata-medical-deep-dive-20261028/consolidated-medical-analysis.txt
+  ../pio-stigmata-medical-deep-dive-20261028/research-report.txt
+  ../pio-long-duration-wound-comparators-20261030
+Primary sources:
+  Di Flumeri (ed.), Le stigmate di Padre Pio da Pietrelcina, 2nd ed. 1995
+Reopen only if: Rossi/Positio or medical records establishing fabrication or an ordinary account of the retained wound chronology.
 
+========================================================================
 03. F-02 | HIGH | Fátima: crowd expectation as a sufficient explanation
 Daniel successfully defended the combined public-sign and geographically dispersed testimony argument against the crowd-expectation objection as developed. Assistant did not establish an adequate ordinary explanation or significant undermining of this core thread.
 Scope: Expectation can organize attendance, attention and interpretation; this dependency qualification is not a demonstrated explanation for the retained Cova and distant observations. Closing this attempted objection does not independently adjudicate the full supernatural conclusion.
+Read first:
+  ../fatima-independence-audit-20261027/report.txt
+  ../fatima-independence-audit-20261027/advance-prediction-timeline.txt
+  ../fatima-distant-witness-geography-20261028/research-report.txt
+  ../documented-alternatives-audit-20261028/research-report.txt
+Primary sources:
+  Contemporary press: https://fatima-1917.com/pt/d/iii-1-87
+  Documentação Crítica de Fátima, Seleção (2013)
+Reopen only if: Evidence that expectation produced the retained Cova and distant observations, not just attendance and interpretation.
 
+========================================================================
 04. Z-01 | HIGH | Zeitoun: ambiguous lights versus prolonged figure reports
 The proposed objection was not sustained against early named reports of prolonged full figures and movements. A brief ambiguous observation does not establish perceptual construction of those other episodes.
 Scope: No exhaustive elimination of ordinary causes or blanket certification of every apparition. The current objection failed; a materially stronger evidence-based argument could be tested.
+Read first:
+  ../zeitoun-figure-challenge-20261028/report.txt
+  ../zeitoun-recurrence-full-audit-20261106/audit-report.txt
+  ../zeitoun-arabic-press-reconstruction-20261028/report.txt
+Primary sources:
+  Watani, 5 May 1968: https://ourladyofzeitoun.com/en/newspaper/watani-newspaper-may-5-1968/
+Reopen only if: Evidence that the early named reports of prolonged full figures misdescribe brief ambiguous lights.
 
+========================================================================
 05. F-03 | HIGH | Fátima: Coelho’s later solar-viewing comparison
 The proposed core challenge was not sustained. The comparison remains positive evidence for similarity of colors/rotation, but does not establish a duration-matched reproduction of the pale comfortably visible disc, violent movement or the complete retained event.
 Scope: One point for the specific newly presented Coelho core challenge, not one point per mismatch or evidence of a calculated supernatural probability. Earlier F-02 remains closed and is not rescored.
+Read first:
+  ../documented-alternatives-audit-20261028/research-report.txt
+Primary sources:
+  Coelho: https://fatima-1917.com/pt/d/iii-1-97 and https://fatima-1917.com/pt/d/iii-1-109
+  Muse, It Wasn’t the Sun, section 5.3
+Reopen only if: A duration-matched reproduction of the pale, comfortably visible disc, violent movement and descent.
 
+========================================================================
 06. P-05 | HIGH | Pio: ordinary odor mechanisms and fragrance testimony
 The attempted transported-cloth/adaptation challenge did not substantially undermine the fragrance evidence as corroboration. No actual ordinary source or adequate account of the retained pattern was established.
 Scope: One defense point for the fragrance objection actually presented. Supporting to stigmata, not a second point for stigmata or a finding that ordinary sources have been exhaustively excluded. Narrow facts about adaptation and physical odor carriage remain valid.
+Read first:
+  ../pio-fragrance-audit-20261028/initial-findings.json
+  ../argument-thread-audit-20261028/remaining-objections-and-fifth-challenge-audit.txt
+Primary sources:
+  Muse on St Pio: https://motivacredibilitatis.substack.com/p/st-pio-of-pietrelcina
+Reopen only if: An identified ordinary source that accounts for the retained fragrance pattern.
 
+========================================================================
 07. C-01 | HIGH | Thai solar event as a Fátima comparator
 Daniel identified an important mismatch: Almeida reports firsthand and composed his report on the event date; the recovered Mydans article is retrospective interview reporting. No corresponding immediate independent journalist eyewitness account of the Buddhist event has been recovered. The proposed comparison has not met the specified evidential standard.
 Scope: One point for the newly tested documentation-matched comparison, not proof that all non-Christian comparators are absent or that the Buddhist event did not happen. A materially stronger original source could justify renewed review.
+Read first:
+  ../critic-challenge-review-20261029/thai-fatima-solar-comparison-20261029.txt
+  ../critic-challenge-review-20261029/matichon-evidence-audit-20261029.txt
+  ../critic-challenge-review-20261029/research-report.txt
+Primary sources:
+  Matichon: https://www.matichon.co.th/local/news_472748
+  Almeida (same-day report): https://fatima-1917.com/pt/d/iii-1-87
+Reopen only if: An immediate, independent journalist’s eyewitness report of the Buddhist event.
 
+========================================================================
 08. P-02 | HIGH | Pio: chemical access as evidence of manufactured wounds
 Daniel successfully defended the specifically open chemical challenge. Procurement and reported antiseptic use are established; deliberate wound production or an adequate chemical account of the retained chronology has not been demonstrated.
 Scope: One point closing the previously unscored P-02 challenge, distinct from the earlier P-04 core review. Does not establish universal chemical impossibility, authenticate every reported control, or claim the full Positio was read. Remaining qualifications are retained, not conceded away.
+Read first:
+  ../pio-bandaging-audit-20261030/research-report.txt
+  ../pio-bandaging-audit-20261030/postulator-chemical-response-provenance.txt
+  ../pio-bandaging-audit-20261030/chemical-allegation-church-response.txt
+Primary sources:
+  Di Flumeri (ed.), Le stigmate di Padre Pio, 2nd ed. 1995: Doc. 14 p. 64; Doc. 25 pp. 81–84; Doc. 53 pp. 210–211; Docs. 30–31 pp. 92–100
+Reopen only if: Evidence of deliberate wound production, or a chemical account that fits the retained chronology.
 
+========================================================================
 09. F-04 | HIGH | Fátima: photographic reconstruction and camera objections
 The cloud-model objection was not sustained. Its toy rendering demonstrates a possible shadow-selection error, but has not fitted D115’s relevant shadow features together or explained the reported dancing/descent in the context of the months-ahead public-sign announcement.
 Scope: One distinct lighting-model challenge, not one point per unsupported feature. Does not assert that every possible ordinary mechanism has been disproved. Reopen only for substantive new evidence or a materially different developed argument.
+Read first:
+  ../fatima-dalleur-master/dalleur-findings.txt
+  ../fatima-photo-challenge-history-20261112/challenge-history.txt
+  ../argument-thread-audit-20261028/photo-subtally.txt
+  ../fatima-photo-counters-20261027/ordinary-lighting-fit-test-20261101.txt
+  ../fatima-lighting-conditions-20261112/report.txt
+Primary sources:
+  Dalleur 2021: https://doi.org/10.12775/SetF.2021.001
+  Garrett, Documentação Crítica de Fátima, Seleção (2013), Doc. 29 (18 Dec 1917), p. 151
+  D115: https://commons.wikimedia.org/wiki/File:People_looking_miracle_sun.jpg
+Register IDs: G01, G02, G03, G04, V01, C07, C10, D06, L02, L08
+Reopen only if: Name a register component and bring new evidence or a complete, historically feasible scene fit.
 
+========================================================================
 10. C-02 | HIGH | Comparative exclusivity on the examined record
 The attempted comparisons have not established the intended equivalent public vindicatory counterexample on the records examined. Record this as the separate comparative argument, beyond the existing nine component-level challenges.
 Scope: Finding about investigated candidates, not proof that no possible rival exists worldwide or that every non-Christian extraordinary claim is fraudulent. Private revelations, private healings and preservation alone do not automatically meet the public-vindicatory comparison. The acknowledged Itigilov preservation counterpoint is retained.
+Read first:
+  ../../EXCLUSIVITY-TALLY.md
+  ../comparative-miracle-deep-audit-20261101/comparative-tally-20261102.txt
+  ../comparative-miracle-deep-audit-20261101/assessment.txt
+  ../mass-public-miracles-world-audit-20261102/research-report.txt
+  ../adversarial-crawl-20261111/comparative/report.txt
+Primary sources:
+  Cadoret-Abeles 1981 (Palmar fieldwork): https://www.persee.fr/doc/casa_0076-230x_1981_num_17_1_2353
+Reopen only if: A comparably documented public sign (dated in advance, immediate independent press) supporting a rival religious claim.
 
+========================================================================
 11. D-01 | HIGH | Connection between the public sign and Catholic message
 Daniel successfully defended the religious-authentication connection. The advance announcement attributed to Mary supplies an explicit prediction-and-fulfillment argument for the credibility of the speaker and message; it is not a Catholic interpretation added to an unrelated event afterward. Independent proof of every dogma is not a prerequisite.
 Scope: Successful defense of the proposed connection and the conditional doctrinal-authority inference. This entry does not separately adjudicate the occurrence of supernatural agency or establish that endorsement of a particular devotion automatically authenticates every institutional authority claim. Those propositions must not be silently treated as conceded or as new counterevidence.
+Read first:
+  ../argument-thread-audit-20261028/d-02-roman-catholic-vindication-20261112.txt
+  ../marian-cumulative-statement-20261104.txt
+  ../fatima-independence-audit-20261027/advance-prediction-timeline.txt
+Primary sources:
+  Shrine narrative: https://www.santuario-fatima.pt/en/pages/narrative-of-the-apparitions-
+  Catechism on the heritage of faith: https://www.vatican.va/content/catechism/en/part_one/section_one/chapter_two/artcile_2/iii_the_interpretation_of_the_heritage_of_faith.index.html
+Reopen only if: Specific evidence for accepting the sign while rejecting its associated message.
 
+========================================================================
 12. F-05 | HIGH | Fátima: sunlit-cloud explanation
 No physically credible joint fit was established. The assistant withdraws the challenge as presented and records the agreed tally point as a Daniel defense.
 Scope: Accepts the reconstructed lower direction and tests the proposed identity of the light. F-04 tested a misleading reconstruction under ordinary sunlight with cloud illumination. The observer positions and timings do not support measured triangulation, and the checks do not exclude all possible atmospheric phenomena.
+Read first:
+  ../argument-thread-audit-20261028/f-05-cloud-source-20261107.txt
+  ../fatima-photo-challenge-history-20261112/challenge-history.txt
+Primary sources:
+  Dalleur 2021: https://doi.org/10.12775/SetF.2021.001
+  https://fatima-1917.com/s/sel-23-1
+  https://fatima-1917.com/d/iii-1-345
+Reopen only if: A physically credible joint fit of a sunlit cloud as both the lower light and the moving disc.
 
+========================================================================
 13. L-02 | HIGH | Lourdes: timing of rapid recoveries
 Selection and reporting can make some accounts more precise than the clinical record. They do not supply an ordinary explanation for the strongest documented within-pilgrimage changes. The assistant withdraws the challenge and records one successful defense.
 Scope: All ten solid before-and-after fast cases in the selected forensic tally, including seven French shrine visits. The selected cases do not estimate a population recovery rate. Distinct from L-01 and its review of Raco's diagnosis.
+Read first:
+  ../argument-thread-audit-20261028/l-02-lourdes-recovery-timing-20261107.txt
+  ../lourdes-forensic-tally-20261107/forensic-tally.txt
+Primary sources:
+  Journal de la Grotte 1926: https://www.lourdes-france.org/wp-content/uploads/2024/12/ATTACHMENT-1.A-JOURNAL-Pages-entieres-DE-LA-GROTTE-DE-LOURDES_1926_52.pdf
+  BMJ: https://www.bmj.com/content/bmj/2/2590/467.full.pdf
+Reopen only if: Clinical records showing the fast cases’ changes began before the pilgrimage or have an identified ordinary cause.
 
+========================================================================
 14. L-04 | HIGH | Lourdes: reflection and reinforcement explanation
 The contemporary medical panel proposed this account without observing the initial reflection. Later same-site and experimental comparisons establish narrower effects and do not fit the combined Lourdes pattern. The assistant withdraws the challenge as presented and records one successful defense.
 Scope: One challenge to the apparition series and the reported direction to the spring. Treat the 18 reports as one linked series. Keep the healing history as separate evidence in the combined case.
+Read first:
+  ../argument-thread-audit-20261028/l-04-lourdes-repeated-apparitions-20261107.txt
+Primary sources:
+  Trochu, Bernadette Soubirous: https://where-you-are.net/ebooks/st_-bernadette-soubirous_-1844-trochu-francois-abbe.pdf
+  https://www.lourdes-france.org/en/apparitions/
+Reopen only if: Evidence that reflection and reinforcement fit the 18-report series, including the direction to the spring.
 
+========================================================================
 15. Z-02 | HIGH | Zeitoun: one-pane Pepper’s Ghost explanation
 The assistant withdraws the one-pane challenge as presented and records one successful defense.
 Scope: One challenge to the full moving figure, distinct from the ambiguous-light objection in Z-01. The precise garden position and exact roof elevations are unverified. Simultaneous western and Toman Bay sightlines are a sensitivity test.
+Read first:
+  ../zeitoun-peppers-ghost-20261107/report.txt
+  ../zeitoun-consolidated-timeline-20261111/assessment.txt
+Primary sources:
+  Watani, 5 May 1968: https://ourladyofzeitoun.com/en/newspaper/watani-newspaper-may-5-1968/
+  Al-Gomhuria, 6 May 1968: https://ourladyofzeitoun.com/en/newspaper/al-gomhuria-may-6-1968/
+Reopen only if: Measured roof dimensions and witness stations showing a feasible installation, or evidence that one existed.
 
+========================================================================
 16. F-07 | HIGH | Fátima children: sincerity and steadfastness
 Daniel is awarded one point for the sustained character/sincerity argument. The assistant has not established a persuasive character-based rebuttal in this discussion. Main tally advances from 15–0 to 16–0.
 Scope: One agreed point for the connected character argument, not one point per source or episode. Sincerity is distinct from accuracy and supernatural causation. Does not assert perfect agreement in every detail or a numerical probability. The early-death prediction is not counted as independently verified advance prediction in this entry.
+Read first:
+  ../fatima-early-death-prediction-20261111/report.txt
+  ../fatima-early-death-prediction-20261111/muse-early-secrets-followup.txt
+  ../fatima-independence-audit-20261027/report.txt
+Primary sources:
+  Documentação Crítica de Fátima, Seleção (2013), Doc. 22 (Formigão, 2 Nov 1917), p. 118
+  Documentação Crítica de Fátima, Seleção (2013), Doc. 96 (Aparício letter, 11 Oct 1928), pp. 353–355
+  https://fatima-1917.com/pt/d/sel-82
+  https://fatima-1917.com/pt/d/sel-11
+Reopen only if: Documentary evidence of retraction, coaching or inconsistency in the children’s core account.
 
-COMPARATIVE TALLY: 8–0
-Dhammakaya; Hindu milk; Sufi cheek piercing; Sathya Sai Baba; Badulla; Putuo (provisional); Ajmer; Malaysian Buddha statue.
-The examined candidates did not sustain their proposed comparable public/vindicatory role. This is not a completed census of every religious claim.
-Timor and broader healing-shrine comparisons remain separate pending investigations.
-
-POSITIVE EVIDENCE
-Positive-evidence and core-claim ledgers remain separate. This confidence update does not rescore their evidence or restore withdrawn probability estimates.
-../positive-evidence-ledger-20261110/core-claims-tally.txt
-
-
-11 NOVEMBER 2026 — F-04 JOINT-CALIBRATION FOLLOW-UP
-Daniel successfully defended the photographic argument against this attempt
-to supply sufficient reasonable doubt. HIGH confidence in that disposition.
-The paired-VP calculation is not a demonstrated historical full-image fit;
-Muse's additional scene/focal-range defense remains unanswered by it.
-Recorded as F-04.joint-calibration beneath the existing photographic point.
-Main tally remains16–0 under the agreed no-duplicate rule for these subentries.
-The mathematical calibration ambiguity and tree-inspection limits are retained.
-Reports: ../fatima-joint-calibration-audit-20261111/report.txt and
-../fatima-joint-calibration-audit-20261111/trees-and-muse-check.txt
-
-
-17. F-08 | HIGH | Comfortable viewing and absence of reported eye injuries
+========================================================================
+17. F-08 | HIGH | Fátima: comfortable viewing and absence of reported eye injuries
 Daniel successfully defended the combined witness-based argument. No identified injury reports or adequate ordinary explanation of the reported viewing experience were established. The assistant withdrew the ascertainment limitation as a substantive challenge to that combined argument.
 Scope: One distinct medical-ascertainment challenge, separate from F-03 solar-viewing reproduction and F-04 photographic calibration. Does not establish universal uninjured retinas or a numerical injury probability; does not retract the valid ascertainment distinction, diagnose injury, or make the combined inference conclusive by itself.
+Read first:
+  ../adversarial-crawl-20261111/fatima/report.txt
+  ../adversarial-crawl-20261111/reasonable-doubt-followup.json
+  ../documented-alternatives-audit-20261028/research-report.txt
+Primary sources:
+  Acta Ophthalmologica 2005: https://onlinelibrary.wiley.com/doi/full/10.1111/j.1600-0420.2005.00511.x
+Reopen only if: Identified 1917 eye-injury reports, or an ordinary account of comfortable viewing of the retained display.
 
+========================================================================
+18. D-02 | HIGH | Fátima as vindication of the Roman Catholic Church
+Daniel successfully defended Rome-specific vindication. The assistant withdrew every part: Zeitoun asserts nothing; the decade prayer added to the rosary is documented before the sign (27 Sep 1917); the papal request is in writing by May 1930 with custody from 1927; the package argument carries the institutional claim.
+Scope: Does not separately adjudicate supernatural causation or convert later-written content into contemporaneous prophecy. The 1930 letter speaks of persecution in Soviet Russia; conversion of Orthodox Russia is an interpretation of later memoir wording.
+Read first:
+  ../argument-thread-audit-20261028/d-02-roman-catholic-vindication-20261112.txt
+  ../fatima-early-death-prediction-20261111/muse-early-secrets-followup.txt
+Primary sources:
+  Documentação Crítica de Fátima, Seleção (2013), Doc. 10 (27 Sep 1917), p. 59: decade prayer added to the rosary
+  Documentação Crítica de Fátima, Seleção (2013), Doc. 125 (Lucia, 22 May 1930), p. 517: Holy Father and consecration of Russia
+  Documentação Crítica de Fátima, Seleção (2013), Doc. 96 (Aparício letter, 11 Oct 1928), pp. 353–355
+  Cristino 2007: https://www.fatima.pt/pt/news/conferencia-notas-biograficas-irma-lucia
+Reopen only if: Evidence the papal or institutional content originated after the fact, or pre-event content contradicting Catholic teaching.
 
-11 NOVEMBER 2026 — C-03 REGISTERED OPEN
-Sincere participants, different ordinary causes and shared religious interpretation.
-User requested a full framework covering Fatima, Zeitoun, Lourdes and Pio.
-One cumulative challenge; no adjudicated point or confidence rating assigned.
-First pass: some supported components, but no adequate full account established.
-Existing constituent outcomes are preserved and not rescored.
-Main tally: Daniel17 — assistant0. Open: P-01 and C-03.
-Report: ../good-faith-cumulative-framework-20261111/framework.txt
-Private-vision dazzling receives no tally point, as explicitly requested.
-
-
-11 NOVEMBER 2026 — C-03 FOUR-FRAMEWORK COMPARISON
-Daniel requests a tally entry for Catholic vindication versus ordinary error,
-grand conspiracy, or demonic deception. Recorded beneath existing C-03.
-A mixed-origin account is a coherent additional cumulative framework outside
-those descriptions as worded. Naming it does not establish an adequate
-alternative for the retained evidence. No new empirical core objection is
-established by this taxonomy discussion. C-03 remains open; main tally 17-0.
-Prior scored outcomes are preserved. No new adjudicated point for either side.
-Report: four-frameworks-comparison-20261111.txt

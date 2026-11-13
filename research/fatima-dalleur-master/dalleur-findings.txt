@@ -5,7 +5,7 @@ Version 2
 Preserve the investigated micro-components, evidence, corrections and adjudications so future reviews do not reset them or confuse open verification with a successful objection.
 
 F-04 remains closed against the tested challenge. Confidence HIGH in the recorded disposition.
-Main score snapshot 17-0. Consolidation adds no points and assigns no miracle probabilities.
+Main score snapshot 18-0. Consolidation adds no points and assigns no miracle probabilities.
 Photo subtally 6-0 on explicit closing decisions (PH-03, PH-04, PH-07, PH-12, PH-15, PH-19); it overlaps the main tally.
 
 HOW TO USE
@@ -518,4 +518,4 @@ research/fatima-distant-witnesses-20261027/sources/dcf-selecao-2013.txt
 
 CHANGE HISTORY
 2026-11-11 version 1: Consolidated existing dated audits, explicit F-04 adjudications, later source-claim corrections and numerical checks into stable component IDs. No original dialogue edits or tally changes.
-2026-11-12 version 2: Added L08 (lighting conditions at exposure, settled defense) from PH-19; added the gaze elevation note to C12; added sources S28 and S29; recorded the 6–0 photo subtally on explicit closing decisions. Main tally unchanged.
+2026-11-12 version 2: Added L08 (lighting conditions at exposure, settled defense) from PH-19; added the gaze elevation note to C12; added sources S28 and S29; recorded the 6–0 photo subtally on explicit closing decisions. Main tally unchanged. Main score snapshot updated to 18-0 after D-02.

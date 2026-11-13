@@ -1,0 +1,142 @@
+F-05 | FÁTIMA | SUNLIT CLOUD AS THE LOWER LIGHT AND THE MOVING DISC
+7 November 2026
+
+Challenge
+One compact sunlit cloud patch produced the lower-angle shadows in D115 and
+the disc reported spinning, changing color and plunging at the Cova and from
+outside it. Daniel agreed to test this as one tally point. This model accepts
+Dalleur's lower light direction and assigns it to a physical cloud patch.
+F-04 tested whether ordinary direct sunlight with cloud illumination could
+produce a misleading shadow reading. That earlier result remains separate.
+
+Result
+The challenge is not sustained. The fixed-height drifting patch misses the
+reported motion. A changing illumination pattern can evade the simplest drift
+test, but no evidenced version fits the shadow direction, sharpness and
+contrast together with the disc and the reports from separate locations.
+Daniel receives one successful defense. These tests do not determine the
+identity of the source or exclude every form of atmospheric optics.
+
+1. Direction and illumination
+
+Dalleur's central estimate is 28.238 degrees and his solar-noon calculation
+is 42.72 degrees. The 14.482-degree elevation gap is a lower bound on angular
+separation from the Sun at that modeled instant. A different azimuth increases
+the separation. The published relative azimuth is camera-relative.
+
+The hypothesized scene has the direct Sun obscured, a sunlit patch at the
+lower angle, and broader overhead illumination. Dalleur describes the
+overhead component as diffuse and roughly comparable in brightness. Figure 6
+identifies separate shadows on a sloping surface. I inspected the existing
+public D115 crops showing the hat and stone boundaries. They do not supply
+metric geometry or a calibrated plate response for a historical radiance fit.
+
+For a uniform circular patch of angular diameter D, a perpendicular surface
+receives E = L * pi * sin(D/2)^2. At Dalleur's illustrative typical cloud
+luminance of 3,000 to 10,000 cd/m², a 1-degree patch supplies 0.72 to 2.39 lux
+and a 5-degree patch supplies 17.93 to 59.77 lux. At 28.238 degrees the
+corresponding horizontal values are about 0.34 to 1.13 and 8.48 to 28.28 lux.
+These are model inputs and outputs, not measured historical illuminances.
+The witness comparisons to the Moon give no measured angular diameter.
+
+For a simplified perpendicular cross-section, full penumbra width at caster
+gap g is 2*g*tan(D/2). At 5 mm spacing, 1- and 5-degree sources give widths
+of 0.09 and 0.44 mm. At 100 mm spacing those become 1.75 and 8.73 mm. This
+shows why a sharp near-contact edge is compatible with an extended source
+and why the same patch must be tested against edges at several spacings.
+Actual surface inclinations, caster geometry and image blur would need to be
+included. No observed D115 width is equated to these illustrative widths.
+
+2. Drift and the sightlines
+
+At fixed height h and horizontal range r, the elevation is atan(h/r).
+For a fixed projected physical width W the angular diameter is
+2*atan(W/(2*sqrt(h²+r²))). A patch moving lower at fixed height and width
+therefore appears smaller. Maria José de Lemos Queirós reported the globe
+swelling as it seemed to plunge. Garrett reported the sharply edged disc
+continuing to spin during the blood-red approach and describes seconds of
+terror. The accounts supply no measured path, size or exact exposure phase.
+
+The archive's representative Alburitel location is 13.16 km east and 1.92 km
+north of the Cova. Garrett describes clouds moving west to east. A fixed-
+height patch moving east while west of the Alburitel observer gets closer
+horizontally and rises in that observer's sky. To be far enough east to recede
+at a Cova elevation of 28.238 degrees, the patch would have to be at least
+13.16 * tan(28.238 degrees), about 7.07 km above the Cova in the flat local
+model. The 25 to 32 degree range gives 6.14 to 8.22 km. At 2 km high, the
+patch can be no more than 3.72 km horizontally from the Cova at that instant.
+Inácio Lourenço's later published Alburitel account describes a zigzag
+descent. This is a conditional conflict for the same low patch and event phase
+moving with that wind. It is not triangulation, and Garrett's reported wind
+direction need not describe every layer. No terrain masking is modeled.
+
+For scale only, assume a fixed-height patch passes from 42.72 to 28.238 degrees
+in ten seconds. The required outward radial speed would be
+h * (cot(28.238 degrees) - cot(42.72 degrees)) / 10 seconds, or about 78 m/s
+at 1 km and 156 m/s at 2 km. These are conditional speeds. The start angle,
+interval and assignment of D115 to the end of the descent are illustrative.
+
+3. Changing illumination and colored cloud optics
+
+A brightness pattern can change size or shift without the cloud following it.
+A simple sunlight opening in one flat horizontal layer projects onto a second
+parallel layer with a constant horizontal offset at fixed Sun angle. The
+projected patch then follows the opening's drift. A deforming opening or
+changing, tilted or multilayer clouds can give different motion. The available
+weather and image evidence does not constrain those extra inputs enough to
+give a predictive fit to the movement or the shadows.
+
+Published cloud-edge enhancement is real. Yordanov's favorable cloud-gap
+example models strong forward scattering within 1.5 degrees of the Sun and
+reports an experimental extent of about 8 degrees. This is evidence for that
+particular mechanism and geometry, not a universal scattering cutoff. The
+example does not supply a compact bright patch at the required minimum
+14.48-degree separation. Diffuse cloud light can arrive from farther off-axis.
+Cloud iridescence can form colorful bands and sometimes swirling patterns,
+so color alone does not exclude a cloud. A standard solar corona is centered
+on the astronomical Sun. An isolated segment of a 22-degree ice halo can
+reach 28.238 degrees at about 20.5 degrees of azimuth offset from a Sun at
+42.72 degrees. This geometric possibility supplies neither the needed
+shadow contrast nor the motion. It does not establish that such a halo
+segment was present.
+
+The separate Minde recollection says the fall was in Fátima's direction,
+roughly north from the representative Minde location, with the Sun south.
+If a patch is seen toward the northern sky when the Sun is due south at
+42.72 degrees, its angular separation is at least 47.28 degrees, attained
+only at the zenith. The bound follows from the dot product of the two sight
+directions and holds for any north-half azimuth and above-horizon elevation.
+It makes near-Sun forward scattering an inadequate common explanation if
+the reported direction is retained. For illustration, the same 2 km high
+patch placed due south of the Cova appears 14.5 degrees from the Sun at
+the Cova, 67.6 degrees from representative Alburitel and 124.5 degrees from
+representative Minde. The Minde location is approximate and its recollection
+was collected decades later. No measured witness bearings or synchronized
+observations were recovered. The geometry does not rule out a patch visible
+by diffuse scattering, but that alternative still owes a fit to the reported
+disc and its motion from more than one direction.
+
+4. Sources
+
+Dalleur (2021), pp. 23, 28–30, 33 and 40–41, and figures 6 and 8.
+https://doi.org/10.12775/SetF.2021.001
+https://sites.google.com/pusc.it/elevation-azimuth/fatimas-miracle-photo
+https://fatima-1917.com/gallery/III-1-p88-55c729bc
+
+Original 1917 accounts by Queirós and Garrett.
+https://fatima-1917.com/s/sel-23-1
+https://fatima-1917.com/d/iii-1-345
+
+De Marchi's Portuguese edition, pp. 176–177, for Inácio Lourenço's account.
+Haffert's Meet the Witnesses, pp. 40–41, for Albano Barros near Minde.
+https://centroculturalcampogrande.pt/pdfs/era.uma.senhora.mais.brilhante.que.o.sol.pdf#page=181
+https://www.basicincome.com/bp/files/Meet_the_Witnesses.pdf#page=63
+../fatima-distant-witness-geography-20261028/coordinate-register.json
+
+Primary cloud illumination, color and ice-halo research.
+https://www.sciencedirect.com/science/article/abs/pii/S0038092X15005617
+https://acp.copernicus.org/articles/25/4419/2025/
+https://www.montana.edu/jshaw/documents/Coronas_ShawNeiman_AO2003.pdf
+https://www.philiplaven.com/Publications/AO_65-09-C1a.pdf
+https://opg.optica.org/ol/abstract.cfm?uri=ol-11-5-276
+https://cloudatlas.wmo.int/en/22-halo.html
