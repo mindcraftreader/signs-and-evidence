@@ -65,9 +65,9 @@
       "id": "P-01",
       "case": "Padre Pio",
       "challenge": "The available depth evidence does not establish deep tissue regeneration from the reported scarless disappearance.",
-      "status": "open",
-      "result": "Restored to active review at Daniel’s request. Positive testimony of absent visible scars remains standing; no demonstrated ordinary explanation of the complete long-term wound and resolution pattern has been established.",
-      "daniel_successful_defenses": 0,
+      "status": "closed_against_challenge_as_presented",
+      "result": "Daniel successfully defended the combined record: wounds persisting and changing over fifty years without an established ordinary cause, no documented foul odour or infection, and no visible scars at death, including at the right-dorsal site where Festa described a scar in 1920. No comparable case of a decades-long wound healing scarless was found. The assistant withdrew the challenge as an objection.",
+      "daniel_successful_defenses": 1,
       "assistant_successful_challenges": 0,
       "associated_threads": [
         26
@@ -121,8 +121,39 @@
           "date": "2026-10-28",
           "research_update": "Separate visit audits confirm Romanelli explicitly could not determine opposed fingers meeting (printed168); Festa records healing/scar-like change during life; Sala directly inspected and palpated no-visible-scar normal skin about ten minutes after death. Late apparent-depth testimony retained. Modern Dunkin113-subject graduated-depth study supports a real depth/scar distinction; it does not establish Pio depth. Violi2018 retrospective medical opinion supports scar concern, but some invariance/normal-function premises conflict with original records.",
           "tally_effect": "No adjudicated defeat or new point. P-01 remains open; favorable endpoint testimony remains standing."
+        },
+        {
+          "date": "2026-11-12",
+          "kind": "closed",
+          "summary": "Closed as a defense; main tally 19–0 → 20–0.",
+          "report": "p-01-scarless-endpoint-20261112.txt"
         }
-      ]
+      ],
+      "display_title": "Pio: wound depth, persistence and the scarless endpoint",
+      "scope": "Supporting evidence for P-04, not a separate pillar. Depth was never measured; Festa’s scar lacks histology; the chest site was not photographed at death; regression took months. Odour finding is a bounded search.",
+      "assistant_assessment_date": "2026-11-12",
+      "current_defense_confidence": {
+        "rating": "high",
+        "date": "2026-11-12",
+        "object": "Confidence in the recorded withdrawal, not the probability of supernatural causation.",
+        "basis": "The only ordinary route to scarlessness (superficial erosions) needs an unestablished maintaining cause and conflicts with the vanished 1920 scar; no precedent located."
+      },
+      "report": "p-01-scarless-endpoint-20261112.txt",
+      "references": {
+        "read_first": [
+          "argument-thread-audit-20261028/p-01-scarless-endpoint-20261112.txt",
+          "pio-stigmata-medical-deep-dive-20261028/research-report.txt",
+          "pio-stigmata-medical-deep-dive-20261028/medical-record-comparison.txt",
+          "pio-long-duration-wound-comparators-20261030/source-register.json"
+        ],
+        "primary_sources": [
+          "Di Flumeri (ed.), Le stigmate di Padre Pio, 2nd ed. 1995: Festa 1920, printed p. 208 (scar); Sala statement 7 July 1969; Piccirillo, doc. 38, pp. 131–133",
+          "Moscicka 2026 (54-year ulcer): https://www.termedia.pl/Clinical-history-of-venous-leg-ulcers-a-retrospective-r-nanalysis-of-352-cases,7,57475,1,0.html",
+          "Jia 2017 (infection of unhealed ulcers): https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0177916"
+        ],
+        "register_ids": [],
+        "reopen_if": "A decades-long open wound documented to heal without a scar, or an ordinary cause that kept the wounds open and then allowed scarless resolution, including at the 1920 scar site."
+      }
     },
     {
       "id": "P-02",
@@ -384,6 +415,12 @@
           "date": "2026-10-29",
           "decision": "User asks whether to continue pressing or award a tally. Assistant has no further substantive evidence for this objection and closes it against the challenge.",
           "tally_effect": "One Daniel defense point; current total Daniel6 assistant0."
+        },
+        {
+          "date": "2026-11-12",
+          "kind": "cross-reference",
+          "note": "The absence of documented foul odour or infection over fifty years of open wounds is recorded under P-01 as supporting evidence. No second point.",
+          "report": "p-01-scarless-endpoint-20261112.txt"
         }
       ],
       "primary_claim_status": "Supporting corroboration only; not the primary stigmata claim.",
@@ -1355,13 +1392,13 @@
     }
   ],
   "totals": {
-    "daniel_successful_defenses": 19,
+    "daniel_successful_defenses": 20,
     "assistant_successful_challenges": 0,
-    "open": 2,
+    "open": 1,
     "deferred_peripheral": 0,
     "daniel_partial_credit": 0,
-    "daniel_points_including_partial_credit": 19,
-    "daniel_total_recorded_points": 20,
+    "daniel_points_including_partial_credit": 20,
+    "daniel_total_recorded_points": 21,
     "daniel_methodological_corrections": 1
   },
   "latest_analysis": "2026-11-11: C-03 registered OPEN at user request: sincere multi-cause cumulative framework. First pass does not establish adequate ordinary explanation. Main17–0 unchanged; P-01 and C-03 open.",
@@ -1527,8 +1564,8 @@
   },
   "confidence_scoreboard": {
     "date": "2026-11-12",
-    "main_score": "19–0",
-    "high": 19,
+    "main_score": "20–0",
+    "high": 20,
     "moderate": 0,
     "unrated": 0,
     "moderate_ids": [],
@@ -1544,15 +1581,14 @@
       "Putuo"
     ],
     "counting_note": "C-01 is nested under C-02 but remains an existing scored outcome. Comparative and main tallies overlap. H-01 is separate; P-01 remains open. C-03 is a new open cumulative challenge with no result assigned.",
-    "scope": "Qualitative confidence in recorded argument outcomes. Not calibrated probabilities of miracles; the nineteen entries are not independent Marian observations.",
+    "scope": "Qualitative confidence in recorded argument outcomes. Not calibrated probabilities of miracles; the twenty entries are not independent Marian observations.",
     "html": "scoreboard.html",
     "text": "scoreboard.txt",
     "newly_rated_existing_ids": [
       "F-07"
     ],
-    "latest_added_id": "F-09",
+    "latest_added_id": "P-01",
     "open_ids": [
-      "P-01",
       "C-03"
     ],
     "photo_subtally": "6–0 on explicit closing decisions; overlaps F-04 and F-05",

@@ -1,0 +1,66 @@
+P-01 — PIO: DEPTH OF THE WOUNDS AND THE SCARLESS ENDPOINT
+12 November 2026
+
+OUTCOME
+Closed against the challenge as presented. One successful defense for
+Daniel: main tally 19–0 → 20–0. Confidence HIGH in the recorded
+disposition. Supporting evidence for the stigmata (P-04), not a separate
+pillar.
+
+THE CHALLENGE (opened 28 October 2026)
+"The available depth evidence does not establish deep tissue regeneration
+from the reported scarless disappearance." Superficial erosions can heal
+without visible scars; no measurement establishes the wounds' depth.
+
+DANIEL'S ARGUMENT
+The wounds changed in depth and blood loss over fifty years and ended
+without visible scars at death. No comparable case exists of a fifty-year
+wound healing without a scar. Fifty-year open wounds would also be expected
+to smell foul and become infected; Pio's were instead associated with a
+pleasant fragrance, and there is no evidence of a perfume supply.
+
+WHY THE CHALLENGE FAILS AS AN OBJECTION
+1. Persistence. Superficial erosions heal in days to weeks unless
+   something keeps reopening them. The only proposed maintaining causes
+   (chemical or deliberate) were not established (P-02, P-04); Bignami's
+   eight-day supervised episode with medication withdrawn still showed
+   bleeding (../pio-bandaging-audit-20261030/research-report.txt).
+2. The 1920 scar. Festa (1920, printed p. 208) describes a white, shiny
+   scar at a former right-dorsal hand location. At death: Pio's film shows
+   the right hand dorsum without lesion or scar; Sala (signed 7 July 1969)
+   inspected and palpated normal, soft, elastic skin with no visible scars
+   about ten minutes after death; Piccirillo (1973) reports no right-hand
+   scar. Either a real scar vanished, or that site was superficial and the
+   persistence question returns. Neither gives an ordinary account of the
+   whole record. (../pio-stigmata-medical-deep-dive-20261028/
+   research-report.txt sections 4 and 7; medical-record-comparison.txt)
+3. No precedent. Comparators of similar duration persist or turn
+   malignant: a 54-year venous ulcer (Moscicka 2026) and a 60-year varicose
+   ulcer with malignant transformation (Bationo 2026)
+   (../pio-long-duration-wound-comparators-20261030/source-register.json).
+   A web search on 12 November found long-standing ulcers healed with
+   treatment, none reported as scarless, none untreated and changing over
+   fifty years.
+4. No foul odour or infection. Chronic open wounds are expected to be
+   colonised and infected (Jia 2017: 40.1% of diabetic foot ulcers still
+   unhealed at 12 months became infected during follow-up). The library's
+   search found no named firsthand foul-odour account; Gemelli, the chief
+   medical critic, described an "aromatic" hand odour (1920) and a milder
+   mixed odour (1926); Sala reports no local suppuration or inflammatory
+   signs at death. No evidence of a perfume supply was located, and P-05
+   already found no ordinary source of the fragrance established.
+
+SCOPE AND LIMITS
+- Depth was never measured; the challenge's narrow claim is literally true.
+- Festa's 1920 "scar" is a clinical description without histology.
+- The exact chest site was not photographed at death.
+- The record shows regression over months and a last left-palm crust, not
+  closure in one week (accepted by Daniel on 28 October).
+- The foul-odour finding is a bounded search, not proof of absence.
+- The fragrance was intermittent and not perceived by everyone (P-05 scope).
+Cross-reference added to P-05; no second point for the odour argument.
+
+REOPEN ONLY IF
+A documented case of a decades-long open wound healing without a scar, or
+evidence of an ordinary cause that kept the wounds open and then allowed
+scarless resolution, including at the 1920 scar site.

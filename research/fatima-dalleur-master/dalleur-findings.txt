@@ -5,7 +5,7 @@ Version 3
 Preserve the investigated micro-components, evidence, corrections and adjudications so future reviews do not reset them or confuse open verification with a successful objection.
 
 F-04 remains closed against the tested challenge. Confidence HIGH in the recorded disposition.
-Main score snapshot 19-0. Consolidation adds no points and assigns no miracle probabilities.
+Main score snapshot 20-0. Consolidation adds no points and assigns no miracle probabilities.
 Photo subtally 6-0 on explicit closing decisions (PH-03, PH-04, PH-07, PH-12, PH-15, PH-19); it overlaps the main tally.
 
 HOW TO USE

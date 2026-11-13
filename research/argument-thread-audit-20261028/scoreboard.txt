@@ -1,9 +1,9 @@
 CURRENT SCOREBOARD — 12 NOVEMBER 2026
 
-Main tally: Daniel 19 — assistant 0. Confidence: 19 HIGH.
+Main tally: Daniel 20 — assistant 0. Confidence: 20 HIGH.
 Photo subtally (D115): 6–0 on explicit closing decisions; overlaps F-04 and F-05. See photo-subtally.txt.
 Comparative exclusivity tally: 9–0, Putuo provisional; overlaps the main ledger. See ../../EXCLUSIVITY-TALLY.md.
-Open: P-01 (Pio wound depth and scarless healing), C-03 (good-faith cumulative framework).
+Open: C-03 (good-faith cumulative framework).
 Confidence describes the recorded verdict, not the probability of a miracle.
 
 Each entry lists where to start reading (paths relative to this folder), key primary sources,
@@ -253,4 +253,19 @@ Primary sources:
   Cadoret-Abeles 1981 (Palmar fieldwork): https://www.persee.fr/doc/casa_0076-230x_1981_num_17_1_2353
   Hope-Ross, Travers and Mooney 1988, solar retinopathy after religious practices (see documented-alternatives audit)
 Reopen only if: A documented solar event scoring 3/7 or more on the agreed seven criteria.
+
+========================================================================
+20. P-01 | HIGH | Pio: wound depth, persistence and the scarless endpoint
+Daniel successfully defended the combined record: wounds persisting and changing over fifty years without an established ordinary cause, no documented foul odour or infection, and no visible scars at death, including at the right-dorsal site where Festa described a scar in 1920. No comparable case of a decades-long wound healing scarless was found. The assistant withdrew the challenge as an objection.
+Scope: Supporting evidence for P-04, not a separate pillar. Depth was never measured; Festa’s scar lacks histology; the chest site was not photographed at death; regression took months. Odour finding is a bounded search.
+Read first:
+  ../argument-thread-audit-20261028/p-01-scarless-endpoint-20261112.txt
+  ../pio-stigmata-medical-deep-dive-20261028/research-report.txt
+  ../pio-stigmata-medical-deep-dive-20261028/medical-record-comparison.txt
+  ../pio-long-duration-wound-comparators-20261030/source-register.json
+Primary sources:
+  Di Flumeri (ed.), Le stigmate di Padre Pio, 2nd ed. 1995: Festa 1920, printed p. 208 (scar); Sala statement 7 July 1969; Piccirillo, doc. 38, pp. 131–133
+  Moscicka 2026 (54-year ulcer): https://www.termedia.pl/Clinical-history-of-venous-leg-ulcers-a-retrospective-r-nanalysis-of-352-cases,7,57475,1,0.html
+  Jia 2017 (infection of unhealed ulcers): https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0177916
+Reopen only if: A decades-long open wound documented to heal without a scar, or an ordinary cause that kept the wounds open and then allowed scarless resolution, including at the 1920 scar site.
 
