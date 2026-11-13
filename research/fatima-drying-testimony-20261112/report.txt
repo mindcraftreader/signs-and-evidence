@@ -1,0 +1,76 @@
+FÁTIMA: DRYING TESTIMONY REGISTER
+12 November 2026
+
+PURPOSE
+At Daniel's request, a complete dated register of witness statements about
+clothes or ground drying during the 13 October 1917 event, especially early
+ones, plus Muse's and Dalleur's arguments. Two parallel searches: the
+library's local sources, and the online DCF transcriptions at
+fatima-1917.com (182 Portuguese document pages and the site's 471-passage
+dataset), the DCF Seleção PDF, Haffert, Dalleur 2021 and Muse. Key quotes
+checked by the assistant against local texts. Full list: register.csv.
+
+RESULT
+Named first-hand witnesses who say clothes (or ground) dried: 17.
+  1917: 1   Carlos Silva, O Mensageiro, 18 Oct 1917 (DCF III-1 doc 122):
+            "estando eu todo molhado, momentos antes, reparei que já estava
+            enxuto! Seria milagre? não creio. O que creio é que a mais
+            pessôas sucedeu o mesmo." Own clothes; others guessed; doubts a
+            miracle.
+  1918–30: 1 Inácio António Marques, deposition 23 Nov 1922 (Seleção
+            doc 72): "todos que se encontravam molhados aparecem enxutos
+            como fui eu um deles."
+  Later: 15 named in Haffert's c. 1960 interviews (two are yes/no answers
+            to leading questions), plus Pereira Gens and Marques da Cruz via
+            Michel, De Marchi's narration, and hearsay (Louis Lopes via
+            Guilhermina Lopes da Silva; Antónia Caixerio via her nephew).
+Only one witness (Dominic Reis, 1960) mentions the ground drying and wind.
+
+COUNTER-STATEMENTS, 1917–1918
+  Maria Augusta Saraiva Vieira de Campos, 19 Oct 1917 (Seleção doc 26):
+    soaked "como se saíssemos de um banho"; felt heat "como se entrássemos
+    numa estufa aquecida"; afterwards borrowed clothes to replace theirs,
+    "que continuavam molhadas" (still wet).
+  Leonor Salema Manoel, 16 Oct 1917 (III-1 doc 93): dried her dress in the
+    breeze in the car afterwards.
+  Fernando Coutinho, 15 Oct 1917 (III-1 doc 84): "molhado até ás
+    entranhas" on the walk home.
+  Maria Ermelinda Barbosa, 13 Jan 1918 (III-1 doc 359): clothes still
+    completely wet at 10 pm.
+Detailed 1917 accounts describing the rain and sun without mentioning
+drying include Almeida (O Século, 15 Oct), Fr Manuel Pereira da Silva
+(13 Oct), Maria Bettina Basto, Maria Magdalena Martel Patrício (O Dia,
+19 Oct), Almeida Garrett (18 Dec), and Fr Luís de Andrade e Silva
+(30 Dec). The Jornal de Leiria (5 Dec 1918) paraphrased Silva's letter
+without the drying line.
+
+WHAT 1917 DOES REPORT: HEAT
+Heat is widely reported in 1917, drying almost never: Campos ("estufa
+aquecida"), the Reguengo do Fetal inquiry of 25 Oct (a rise in
+temperature; the sun "lançou bastante calor"), Garrett ("calor"), Andrade
+e Silva ("calor intensíssimo"), Pinto Coelho ("irradiar um forte calor").
+
+MUSE AND DALLEUR
+Muse, "It Wasn't the Sun", §4 (11 Oct 2025): evaporation at 15–20 °C and
+high humidity would take hours (citing Gluesenkamp 2021); quotes only the
+Louis Lopes hearsay; relies mainly on Dalleur's D115 "infrared shadow" on
+the young man's trousers. Cites no 1917 drying source.
+Dalleur 2021 (pp. 11, 12, 16–17, 28, 40): reads soaked/wet/dry zones and
+"IR shadows" on D115 clothing; cites Barthas 1969, Haffert, Chalupsky 2017;
+does not cite Silva or Marques. The library's register (L06) already notes
+that a monochrome exposure does not measure moisture.
+
+ASSESSMENT
+The 1917 record supports heat widely, and drying for at least one person
+(Silva), who did not call it a miracle. It also contains explicit
+statements that clothes stayed wet. The general claim that everyone dried
+appears from 1922 and mainly in 1960 interviews. Criterion 4 of the F-09
+test stays at ½. Drying is not a core claim (core-claims tally); "reported
+heat" is the better-attested 1917 physical effect.
+
+GAPS
+fatima-1917.com hosts about 116 of roughly 360 DCF III-1 documents; the
+rest were not searched. Concelho de Ourém and Voz da Verdade for 1917 not
+checked. De Marchi (1952 English), Barthas 1969 and the originals behind
+Michel's quotations not inspected. Haffert page numbers ±1. Daniel may
+search for further same-week diaries and letters.
