@@ -1,6 +1,6 @@
 # Comparative exclusivity tally
 
-The recorded comparator tally reached **8–0 in Daniel’s favor**, with **Putuo provisional** pending requested publications. Each entry answers a specific question. Did the evidence recovered for that candidate sustain its proposed role as a comparable public sign that supports a competing religious claim? This is a tally of adjudicated challenges within the search. [Final scored exchange](conversation/chapters/23-ajmer-statues-and-the-timor-fire.txt#L666).
+The recorded comparator tally reached **9–0 in Daniel’s favor**, with **Putuo provisional** pending requested publications. Each entry answers a specific question. Did the evidence recovered for that candidate sustain its proposed role as a comparable public sign that supports a competing religious claim? This is a tally of adjudicated challenges within the search. [Final scored exchange](conversation/chapters/23-ajmer-statues-and-the-timor-fire.txt#L666).
 
 | # | Candidate | Recorded outcome |
 | --- | --- | --- |
@@ -12,8 +12,11 @@ The recorded comparator tally reached **8–0 in Daniel’s favor**, with **Putu
 | 6 | Putuo, China | Provisional defense. The recovered footage and witness accounts fell short of the proposed comparison. The original publications could change the assessment. |
 | 7 | Ajmer, India | Completed defense. Contemporary reporting established a crowd and reports of an image. The evidence fell short of establishing a comparable public apparition. |
 | 8 | Malaysian Buddha statue | Completed defense. The available footage and testimony fell short of establishing independent movement of the statue. |
+| 9 | Palmar de Troya, Spain, 1968–1970 | Completed defense (12 November 2026). Named early witnesses report solar rotation and colours, and the movement became a rival church with its own pope. The miracle announced for 15 May 1970 has no recorded solar fulfilment in independent fieldwork, and the strongest press is a retrospective interview. It scored 0/7 on the agreed solar test against Fátima’s 7/7. |
 
 The [first five decisions](research/comparative-miracle-deep-audit-20261101/comparative-tally-20261102.txt) are in the original comparative file. The subsequent decisions are in the dialogue and source audits for [Putuo](conversation/chapters/22-putuo-and-the-shape-of-a-public-sign.txt#L1071), [Ajmer](conversation/chapters/23-ajmer-statues-and-the-timor-fire.txt#L271), and [Malaysia](conversation/chapters/23-ajmer-statues-and-the-timor-fire.txt#L666). [World cases audit](research/mass-public-miracles-world-audit-20261102/research-report.txt).
+
+Palmar de Troya was scored on 12 November with the seven-criterion solar test agreed under main-tally entry F-09 ([report](research/solar-reference-class-20261112/report.txt)). Lubbock (1988) and Necedah (1950) were scored under F-09 too, but as unapproved Catholic claims they are not rival religions and are not counted here.
 
 **Separate dispositions.** Itigilov is a meaningful body-preservation comparison. The LDS claims reviewed were filed as private revelation. The Soe church-fire case in Timor and the broader Lourdes comparison with Mashhad and other healing shrines remained separate from the eight scored cases. The Lourdes discussion explicitly held the broader Mashhad tally pending review of the new sources. [Itigilov and other cases](research/comparative-miracle-deep-audit-20261101/comparative-tally-20261102.txt), [LDS audit](research/mass-public-miracles-world-audit-20261102/lds-deep-audit/report.txt), [Timor audit](research/mass-public-miracles-world-audit-20261102/timor-deep-audit/report.txt), [Lourdes comparison status](research/lourdes-comparative-healing-shrines-20261102/comparative-review-pending-20261103.txt).
 

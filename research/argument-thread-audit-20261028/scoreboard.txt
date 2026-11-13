@@ -1,8 +1,8 @@
 CURRENT SCOREBOARD — 12 NOVEMBER 2026
 
-Main tally: Daniel 18 — assistant 0. Confidence: 18 HIGH.
+Main tally: Daniel 19 — assistant 0. Confidence: 19 HIGH.
 Photo subtally (D115): 6–0 on explicit closing decisions; overlaps F-04 and F-05. See photo-subtally.txt.
-Comparative exclusivity tally: 8–0, Putuo provisional; overlaps the main ledger. See ../../EXCLUSIVITY-TALLY.md.
+Comparative exclusivity tally: 9–0, Putuo provisional; overlaps the main ledger. See ../../EXCLUSIVITY-TALLY.md.
 Open: P-01 (Pio wound depth and scarless healing), C-03 (good-faith cumulative framework).
 Confidence describes the recorded verdict, not the probability of a miracle.
 
@@ -238,4 +238,18 @@ Primary sources:
   Documentação Crítica de Fátima, Seleção (2013), Doc. 96 (Aparício letter, 11 Oct 1928), pp. 353–355
   Cristino 2007: https://www.fatima.pt/pt/news/conferencia-notas-biograficas-irma-lucia
 Reopen only if: Evidence the papal or institutional content originated after the fact, or pre-event content contradicting Catholic teaching.
+
+========================================================================
+19. F-09 | HIGH | Fátima: other solar miracles and the sungazing explanation
+Daniel successfully defended Fátima against the solar reference-class challenge. On seven agreed neutral criteria Fátima scores 7/7; Lubbock 1988 0/7, Necedah 1950 1/2 of 7, Palmar de Troya 0/7. The assistant withdrew the challenge.
+Scope: First pass on the cases named; Medjugorje, Conyers and Bayside unscored (recurring phenomena fail criteria 1 and 5 by design). Palmar added to the comparative tally as a rival religious claim; Lubbock and Necedah recorded here only.
+Read first:
+  ../solar-reference-class-20261112/report.txt
+  ../solar-reference-class-20261112/scores.csv
+  ../adversarial-crawl-20261111/comparative/report.txt
+Primary sources:
+  UPI, 16 Aug 1988: https://www.upi.com/amp/Archives/1988/08/16/Pilgrims-say-they-saw-visions-of-Virgin-Mary/8186587707200/
+  Cadoret-Abeles 1981 (Palmar fieldwork): https://www.persee.fr/doc/casa_0076-230x_1981_num_17_1_2353
+  Hope-Ross, Travers and Mooney 1988, solar retinopathy after religious practices (see documented-alternatives audit)
+Reopen only if: A documented solar event scoring 3/7 or more on the agreed seven criteria.
 

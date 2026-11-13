@@ -496,3 +496,20 @@ read_first (paths relative to research/), primary_sources, register_ids
 and reopen_if. scoreboard.txt and scoreboard.html are generated from it by
 build-scoreboard-20261112.py; earlier scoreboard stages are preserved in
 scoreboard-history.txt.
+
+
+12 NOVEMBER 2026 — F-09 ADDED: MAIN TALLY 19–0; COMPARATIVE 9–0
+F-09 | Fátima: other solar miracles and the sungazing explanation | HIGH
+The assistant argued that solar-miracle reports at other religious sites,
+some demonstrably ordinary sungazing, leave three options: all genuine
+(solar signs do not identify the messenger), all ordinary (Fátima too), or
+a criterion other than Church approval must sort them. Daniel accepted
+seven neutral criteria proposed by the assistant: announced specific sign;
+same-day independent or hostile eyewitness press; distant witnesses;
+physical effects; single bounded crowd-wide event; no eye-injury cluster;
+physical corroboration. Scores: Fátima 7/7; Lubbock 1988 0/7; Necedah 1950
+1/2 of 7; Palmar de Troya 0/7. The assistant withdrew the challenge. Main
+tally advances to 19–0. Palmar de Troya, a rival church with its own pope,
+is added to the comparative exclusivity tally as case 9 (9–0). Lubbock and
+Necedah are unapproved Catholic claims and are recorded under F-09 only.
+Report: ../solar-reference-class-20261112/report.txt (scores.csv beside it)

@@ -772,6 +772,12 @@
         ],
         "register_ids": [],
         "reopen_if": "A comparably documented public sign (dated in advance, immediate independent press) supporting a rival religious claim."
+      },
+      "comparative_update_20261112": {
+        "added": "Palmar de Troya (case 9)",
+        "comparative_score": "9–0",
+        "basis": "Scored 0/7 on the seven-criterion solar test agreed under F-09",
+        "report": "../solar-reference-class-20261112/report.txt"
       }
     },
     {
@@ -1282,16 +1288,59 @@
         "register_ids": [],
         "reopen_if": "Evidence the papal or institutional content originated after the fact, or pre-event content contradicting Catholic teaching."
       }
+    },
+    {
+      "id": "F-09",
+      "case": "Fátima / solar reference class",
+      "display_title": "Fátima: other solar miracles and the sungazing explanation",
+      "challenge": "Other religious sites report solar miracles, some of which are ordinary sungazing perception; so either solar signs do not identify the true messenger, or Fátima was sungazing too, unless a neutral criterion sorts them.",
+      "status": "closed_against_challenge_as_presented",
+      "result": "Daniel successfully defended Fátima against the solar reference-class challenge. On seven agreed neutral criteria Fátima scores 7/7; Lubbock 1988 0/7, Necedah 1950 1/2 of 7, Palmar de Troya 0/7. The assistant withdrew the challenge.",
+      "daniel_successful_defenses": 1,
+      "assistant_successful_challenges": 0,
+      "reason": "The test separates Fátima on features sungazing and expectation cannot produce: a fulfilled announced sign seen crowd-wide, hostile same-day press, distant witnesses and physical effects.",
+      "scope": "First pass on the cases named; Medjugorje, Conyers and Bayside unscored (recurring phenomena fail criteria 1 and 5 by design). Palmar added to the comparative tally as a rival religious claim; Lubbock and Necedah recorded here only.",
+      "agreed_test": [
+        "announced specific sign with purpose",
+        "same-day independent or hostile eyewitness press",
+        "distant witnesses",
+        "physical effects",
+        "single bounded crowd-wide event",
+        "no eye-injury cluster",
+        "physical corroboration"
+      ],
+      "assistant_assessment_date": "2026-11-12",
+      "current_defense_confidence": {
+        "rating": "high",
+        "date": "2026-11-12",
+        "object": "Confidence in the recorded withdrawal, not the probability of supernatural causation.",
+        "basis": "The strongest named comparators score 0 to 1/2 of 7 against Fátima's 7/7."
+      },
+      "report": "../solar-reference-class-20261112/report.txt",
+      "references": {
+        "read_first": [
+          "solar-reference-class-20261112/report.txt",
+          "solar-reference-class-20261112/scores.csv",
+          "adversarial-crawl-20261111/comparative/report.txt"
+        ],
+        "primary_sources": [
+          "UPI, 16 Aug 1988: https://www.upi.com/amp/Archives/1988/08/16/Pilgrims-say-they-saw-visions-of-Virgin-Mary/8186587707200/",
+          "Cadoret-Abeles 1981 (Palmar fieldwork): https://www.persee.fr/doc/casa_0076-230x_1981_num_17_1_2353",
+          "Hope-Ross, Travers and Mooney 1988, solar retinopathy after religious practices (see documented-alternatives audit)"
+        ],
+        "register_ids": [],
+        "reopen_if": "A documented solar event scoring 3/7 or more on the agreed seven criteria."
+      }
     }
   ],
   "totals": {
-    "daniel_successful_defenses": 18,
+    "daniel_successful_defenses": 19,
     "assistant_successful_challenges": 0,
     "open": 2,
     "deferred_peripheral": 0,
     "daniel_partial_credit": 0,
-    "daniel_points_including_partial_credit": 18,
-    "daniel_total_recorded_points": 19,
+    "daniel_points_including_partial_credit": 19,
+    "daniel_total_recorded_points": 20,
     "daniel_methodological_corrections": 1
   },
   "latest_analysis": "2026-11-11: C-03 registered OPEN at user request: sincere multi-cause cumulative framework. First pass does not establish adequate ordinary explanation. Main17–0 unchanged; P-01 and C-03 open.",
@@ -1457,8 +1506,8 @@
   },
   "confidence_scoreboard": {
     "date": "2026-11-12",
-    "main_score": "18–0",
-    "high": 18,
+    "main_score": "19–0",
+    "high": 19,
     "moderate": 0,
     "unrated": 0,
     "moderate_ids": [],
@@ -1469,18 +1518,18 @@
       "P-04"
     ],
     "new_points_added": 1,
-    "comparative_score": "8–0",
+    "comparative_score": "9–0",
     "comparative_provisional_ids": [
       "Putuo"
     ],
     "counting_note": "C-01 is nested under C-02 but remains an existing scored outcome. Comparative and main tallies overlap. H-01 is separate; P-01 remains open. C-03 is a new open cumulative challenge with no result assigned.",
-    "scope": "Qualitative confidence in recorded argument outcomes. Not calibrated probabilities of miracles; the eighteen entries are not independent Marian observations.",
+    "scope": "Qualitative confidence in recorded argument outcomes. Not calibrated probabilities of miracles; the nineteen entries are not independent Marian observations.",
     "html": "scoreboard.html",
     "text": "scoreboard.txt",
     "newly_rated_existing_ids": [
       "F-07"
     ],
-    "latest_added_id": "D-02",
+    "latest_added_id": "F-09",
     "open_ids": [
       "P-01",
       "C-03"

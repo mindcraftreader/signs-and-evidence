@@ -11,7 +11,7 @@
     "modeled_only": 3,
     "bounded_search": 1
   },
-  "canonical_sha256": "631ff5187171194395de1bdd772b69a73e8c9eb4a6c765df8809c5a28597ca46",
-  "docx_sha256": "d43e6f7d87d8f3bf7f7d7f037d2f5756f3f2750c70f190a3cdddef895d86b9e3",
+  "canonical_sha256": "78d34fb4ab8066c2ccf3fc4b26479f688cb5f4d4e8c0bdbaa351a290649b703f",
+  "docx_sha256": "38540643ffee39e8c257614c582cab2b720e4435ef55d5cfdc660a14d2f1ad1f",
   "semantic_validation": "IDs unique; sources resolve; source links valid by local existence"
 }

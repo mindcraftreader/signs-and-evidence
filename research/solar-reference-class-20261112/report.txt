@@ -1,0 +1,89 @@
+F-09 — OTHER "SOLAR MIRACLES" AND THE SUNGAZING EXPLANATION
+12 November 2026
+
+OUTCOME
+Closed against the challenge as presented. The assistant (Claude) withdrew
+the challenge after the agreed neutral test was applied. One successful
+defense for Daniel: main tally 18–0 → 19–0. Palmar de Troya is added to the
+comparative exclusivity tally as case 9: 8–0 → 9–0.
+
+THE CHALLENGE
+Crowds at religious sites repeatedly report the sun spinning, changing
+colour or approaching, including at unapproved, condemned and non-Christian
+sites. Some such reports are ordinary perception of the real sun: Hope-Ross,
+Travers and Mooney (1988) treated pilgrims with solar retinopathy, one of
+whom reported a dancing sun at Medjugorje (see
+../documented-alternatives-audit-20261028/research-report.txt). So either
+(a) all are genuine, and solar signs do not identify the true messenger;
+(b) all are ordinary, and Fátima needs features the class lacks; or
+(c) some are genuine, and a criterion other than Church approval must
+sort them.
+
+AGREED NEUTRAL TEST (proposed by the assistant, accepted by Daniel)
+1. A specific sign announced in advance by the seers, with a stated purpose.
+2. Same-day reporting by an independent, preferably hostile, eyewitness
+   journalist.
+3. Witnesses kilometres away, outside the crowd and not primed.
+4. Physical effects that eye strain cannot produce (e.g. drying).
+5. A single bounded event seen across the crowd, not a recurring effect
+   whenever people stare.
+6. No matching cluster of eye injuries (cf. F-08).
+7. Physical corroboration (e.g. D115).
+
+SCORES (detail in scores.csv)
+Fátima 1917          7/7
+Lubbock 15 Aug 1988  0/7 (criterion 6 unknown)
+Necedah 15 Aug 1950  ½/7 (appearance date announced; no specific sign found)
+Palmar de Troya      0/7 (criterion 6 unknown)
+
+Key findings
+- Lubbock: the 15 August gathering answered prayer-group messages ("Look for
+  miracles and healings"), not a specific announced sign. UPI (16 Aug 1988)
+  quotes believers; "some staring at the sun said they saw it dance and
+  pulsate" in the early evening; a skeptic present saw nothing; the Red
+  Cross treated several hundred people, at least four hospitalized for heat.
+  No distant witnesses or physical effects reported.
+- Necedah: the date of an appearance was announced and a very large crowd
+  came (New York Times estimate 100,000, as cited in secondary accounts).
+  The Associated Press reported that "observers saw nothing unusual".
+  Sun reports for 15 August appear only in secondary summaries.
+- Palmar de Troya: see ../adversarial-crawl-20261111/comparative/report.txt.
+  Named early witnesses report rotation and colours; Cadoret-Abeles (1981)
+  separates an April 1970 dusk rotation from the miracle announced for
+  15 May 1970, which her fieldwork does not describe as a solar fulfilment.
+  The strongest press is a retrospective interview (El Diario Palentino,
+  20 Aug 1969).
+
+DISPOSITION
+The test separates Fátima from the class on criteria that sungazing and
+expectation cannot produce: a fulfilled announced sign seen crowd-wide, a
+hostile same-day reporter, distant witnesses, and physical effects. Option
+(c) holds without assuming the Church's verdict. The challenge is withdrawn.
+Lubbock and Necedah are recorded here as tested cases; they are
+unapproved Catholic claims, not rival religions, so they are not added to
+the exclusivity tally. Palmar became the Palmarian Church with its own
+pope, a rival religious claim, so it is added there.
+
+DISTANT-WITNESS NOTE
+Reports of the event from 100 km or more exist only in later recollection,
+not same-day documentation; Daniel does not rely on them. The distant
+witnesses analysed in the library (Alburitel, Minde, Leiria, São Pedro de
+Moel) lie roughly 10–40 km away.
+
+LIMITS
+First pass from the UPI wire, Wikipedia and secondary Necedah summaries;
+the New York Times and Wisconsin newspaper pages for Necedah were not
+retrieved. Medjugorje, Conyers and Bayside were not scored; as recurring
+phenomena they fail criteria 1 and 5 by design. Any proposed case can be
+scored against the same seven criteria.
+
+REOPEN ONLY IF
+A documented solar event scores 3/7 or more on the agreed criteria.
+
+SOURCES
+https://www.upi.com/amp/Archives/1988/08/16/Pilgrims-say-they-saw-visions-of-Virgin-Mary/8186587707200/
+https://en.wikipedia.org/wiki/1988_Lubbock_apparition_of_Mary
+https://isthmus.com/api/content/d83a4398-606d-11f1-b0c8-1248ae80e59d/
+https://www.yoreanaheim.com/view/anaheim_gazette_1950_ag_1950_08_14/0
+https://hannemanarchive.com/2014/12/29/
+https://www.persee.fr/doc/casa_0076-230x_1981_num_17_1_2353
