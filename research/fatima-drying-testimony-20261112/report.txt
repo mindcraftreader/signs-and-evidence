@@ -57,8 +57,12 @@ Louis Lopes hearsay; relies mainly on Dalleur's D115 "infrared shadow" on
 the young man's trousers. Cites no 1917 drying source.
 Dalleur 2021 (pp. 11, 12, 16–17, 28, 40): reads soaked/wet/dry zones and
 "IR shadows" on D115 clothing; cites Barthas 1969, Haffert, Chalupsky 2017;
-does not cite Silva or Marques. The library's register (L06) already notes
-that a monochrome exposure does not measure moisture.
+does not cite Silva or Marques. The register (L06, status "supported")
+accepts that the tonal boundaries follow clothing regions. Wet cloth
+photographs darker than dry cloth, so a monochrome plate can show wet and
+dry zones on one garment. What it cannot do alone is tell a wet-dark patch
+from shade, a fold, dye or dirt, or say how long drying took. The pattern
+is consistent with drying; the testimony has to say that it was drying.
 
 ASSESSMENT
 The 1917 record supports heat widely, and drying for at least one person
