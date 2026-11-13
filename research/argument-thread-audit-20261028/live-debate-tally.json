@@ -1428,6 +1428,18 @@
       "tally_effect": "Logged without a point at Daniel’s preference.",
       "assistant_assessment_date": "2026-11-12",
       "report": "l-05-lourdes-base-rates-20261112.txt"
+    },
+    {
+      "id": "L-06",
+      "case": "Lourdes",
+      "display_title": "Lourdes: the \"Immaculate Conception\" name and preservation (scope note)",
+      "status": "scope_note_unscored",
+      "daniel_successful_defenses": 0,
+      "assistant_successful_challenges": 0,
+      "result": "Bernadette reported the name on 25 March 1858 beyond reasonable doubt (Peyramale 10 Apr; Dutour 14 Apr 1858). That she had never heard the phrase is not established. Counts as content pointing to Rome, not independent proof. Preservation reaffirmed as supporting context.",
+      "tally_effect": "None; agreed scope note.",
+      "assistant_assessment_date": "2026-11-12",
+      "report": "l-06-lourdes-scope-20261112.txt"
     }
   ],
   "totals": {
