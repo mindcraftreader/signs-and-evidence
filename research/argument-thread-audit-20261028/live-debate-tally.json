@@ -815,6 +815,31 @@
         "comparative_score": "9–0",
         "basis": "Scored 0/7 on the seven-criterion solar test agreed under F-09",
         "report": "../solar-reference-class-20261112/report.txt"
+      },
+      "comparative_by_event_20261112": {
+        "total": "12–0",
+        "fatima": [
+          "Dhammakaya",
+          "Palmar de Troya"
+        ],
+        "zeitoun": [
+          "Badulla",
+          "Putuo (provisional)",
+          "Ajmer",
+          "Malaysian Buddha statue",
+          "Hindu milk event"
+        ],
+        "pio": [
+          "Sufi cheek piercing",
+          "Sathya Sai Baba"
+        ],
+        "lourdes": [
+          "Tinos",
+          "Our Lady of Kazan",
+          "Imam Reza shrine, Mashhad"
+        ],
+        "lourdes_test": "Divine direction to a seer to dig or build, plus a century of medical before-and-after records (Daniel’s test).",
+        "lourdes_report": "../lourdes-shrine-comparators-20261112/report.txt"
       }
     },
     {
@@ -1576,7 +1601,7 @@
       "P-04"
     ],
     "new_points_added": 1,
-    "comparative_score": "9–0",
+    "comparative_score": "12–0",
     "comparative_provisional_ids": [
       "Putuo"
     ],

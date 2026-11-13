@@ -1,0 +1,54 @@
+LOURDES SHRINE COMPARATORS — FIRST PASS
+12 November 2026
+
+DANIEL'S TEST FOR A LOURDES EQUIVALENT
+A shrine in another religion or church where (1) its divine figure directed
+a seer to dig, find or build at a specific place, and (2) there are
+documented medical before-and-after healings at that site for a century or
+more, comparable to the Lourdes Medical Bureau (examining cures since 1883).
+Daniel grants that healings occur in all traditions; the claim concerns the
+directed site plus a long, medically documented record.
+
+RESULTS
+Tinos, Panagia Evangelistria (Greek Orthodox, 1823)
+  1 ✅ In visions the Virgin told the nun Pelagia to have them dig for an
+       icon and build a church; a matching dream of Michael Polyzoes is
+       reported; the icon was found on 30 January 1823.
+  2 ❌ Strong healing reputation; no physician records or case files found.
+  Fails 2. Limit: English-language sources only; Greek church archives not
+  searched.
+Our Lady of Kazan (Russian Orthodox, 1579)
+  1 ✅ The Virgin appeared to ten-year-old Matrona in dreams; they dug in
+       the ruins where shown.
+  2 ❌ Traditional healing accounts (a blind man at the translation); no
+       medical records.
+  Fails 2.
+Imam Reza shrine, Mashhad (Shia Islam)
+  1 ❌ A tomb shrine, not founded on a divine direction to a seer.
+  2 ❌ The library's 3 November audits found a documentary trail but no
+       recovered case with Lourdes-equivalent clinical records
+       (../lourdes-comparative-healing-shrines-20261102/
+       comparative-review-pending-20261103.txt); no century-long medical
+       record found.
+  Fails both.
+Mazar-i-Sharif (tomb said to be Ali's, found through a dream)
+  Not established; no sources recovered in this pass. Not scored.
+
+FINDING
+No candidate meets both parts. What distinguishes Lourdes is the
+century-long physician-examined record, not only its founding story.
+
+NOTE ON THE ROME QUESTION
+On part 1 alone, two Orthodox Marian shrines (Tinos, Kazan) match Lourdes
+closely. They fail only on documentation, which measures attestation
+rather than content. Against Orthodoxy specifically, what points Lourdes
+to Rome is the 25 March 1858 statement "I am the Immaculate Conception".
+
+SOURCES
+https://www.oca.org/saints/lives/2017/01/30/100379-icon-of-the-mother-of-god-tinos
+https://vema.com.au/?p=74493
+https://www.folklore.ee/folklore/vol47/haland.pdf
+https://www.holytrinityorthodox.com/iconoftheday/los/July/08-01.htm
+https://russianicon.com/our-lady-of-kazan-one-of-the-most-venerated-russian-icons/
+https://iranicaonline.org/articles/astan-e-qods-e-razawi
+https://en.wikipedia.org/wiki/Imam_Reza_shrine
